@@ -2606,3 +2606,15 @@ Scout(소식 감지 프로그램)가 모은 기사·공시를 공식 출처로 �
 - 내용: Scout를 직접 돌린 뒤(성공, 03:14 KST 갱신) 새 항목 10건(news 5·market 5) 모두 처리. 반영 0건. 건너뜀: 머스크 '스타링크 휴대폰 서비스로 AT&T·버라이즌 매출 줄 수도' 발언 글(tikr — 발언 정리, 새 회사 발표·계약 아님), '나스닥100 약세장까지 49포인트'(247wallst 시장 요약), 버핏 주식 vs 채권·코카콜라 배당 계산(모틀리풀 개인 재무 글), 소로스 등 펀드 텍사스인스트루먼트 매매(tikr — 13F 정리). market 5건(바레인 내무부 위협 경고·이란 시리크 폭발음 FinancialJuice 제목 2건·폭스비즈니스 앤트로픽 상장 중소기업 인터뷰·블룸버그 앤트로픽 시장 기사 제목·로이터 시세 페이지 — 03시대라 done 만). 나에게 온 새 요청(RULES 0-3): 없음(V-20261121-1841-3 은 W-20261121-1843-1 로 처리). 미국 지표: 미국 동부 11-21 13:1x(토) — 오늘 발표 예정 지표 없음(다음 pce·claims 11-25), 매크로 수집 대상 없음, 분석 모두 최신. A 지도: 고칠 것 없음. 앱 다시 게시: 반영한 소식이 없어 하지 않음.
 - 출처: ops/scout/newsq.json · 공식 여부: 저장소
 - 확신도: 높음
+
+### W-20261122-0343-1 · 반영 · ORCL 자바 심각 취약점(Java4Shell) 패치 · CISA 경보
+- 시각: 2026-11-22 03:47 KST
+- 내용: 오라클이 11-17(미국 시간) 11월 정기 보안 패치(CPU)로 자바(OpenJDK 17.0.6 이후 계열, x86-64 AVX-512 Base64 경로) 원격 코드 실행 취약점 CVE-2026-114938 을 고쳤고, 미 CISA 가 같은 날 저녁(한국 11-18 아침) 즉시 패치를 당부하는 경보를 냈어요. 심각도는 오라클 8.1, 발견사(Calif) 9.2로 서로 달라 한 줄엔 숫자를 넣지 않았어요. 실제 공격 보고는 없음. news.ORCL 에 날짜 순서대로(11-21 항목 다음) 넣었어요. 계기: Scout 야후 글 'Oracle Hospital Java Patching Rush'(해설 글이라 출처로는 안 씀).
+- 출처: [미 CISA 경보](https://content.govdelivery.com/accounts/USDHSCISA/bulletins/4332a87) · [BleepingComputer](https://www.bleepingcomputer.com/news/security/critical-java4shell-flaw-allows-rce-attacks-on-major-java-applications/) · [The Record](https://therecord.media/cisa-issues-java4shell-alert) · 공식 여부: 공식
+- 확신도: 높음
+
+### W-20261122-0343-2 · 알림 · 이번 차례
+- 시각: 2026-11-22 03:47 KST
+- 내용: Scout를 직접 돌린 뒤(성공, 03:45 KST 갱신) 새 항목 18건(news 6·market 12) 모두 처리. 반영 1건(ORCL, 위). 건너뜀: 에어비앤비 120억 달러 자사주 매입 해설(앱 종목 아님), 'AI 칩 3종목'·캐시 우드 AMD 매수·애브비/길리어드 배당·'금리 오르면 살 ETF'(의견·펀드 매매·개인 재무 글). market 12건(핀란드 러시아 화물선 화재·후티 드론 FinancialJuice 제목 4건·WSJ 재무설계 글·로이터 시세 페이지 7건 — 03시대라 done 만). 나에게 온 새 요청(RULES 0-3): 없음. 미국 지표: 미국 동부 11-21 13:4x(토) — 오늘 발표 예정 지표 없음(다음 pce·claims 11-25), 매크로 수집 대상 없음, 분석 모두 최신. A 지도: 고칠 것 없음.
+- 출처: ops/scout/newsq.json · 공식 여부: 저장소
+- 확신도: 높음
