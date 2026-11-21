@@ -1,18 +1,68 @@
 {
-"updated_kst": "2026-11-22 03:15",
-"rot": 167,
+"updated_kst": "2026-11-22 03:44",
+"rot": 48,
 "how": "Scout(프로그램)이 10분마다 모은 기사 제목·링크와 공시예요. Wren이 공식 출처로 확인한 뒤 회사 화면에 한국어로 반영해요. 본문은 받지 않아요.",
 "sources": {
 "Yahoo Finance": "120종목 확인 · 실패 0",
 "CNBC": "63건",
 "Bloomberg": "28건",
 "WSJ": "61건",
-"Reuters": "41건",
+"Reuters": "38건",
 "FinancialJuice": "100건",
 "SEC EDGAR": "실패 HTTPError",
 "Fox Business": "50건"
 },
 "items": [
+{
+"id": "22f9517664fa",
+"t": "NVDA",
+"title": "If the Fed Hikes Rates This Year, I'm Loading Up on This 1 ETF",
+"url": "https://www.fool.com/investing/2026/11/21/if-the-fed-hikes-rates-this-year-im-loading-up-on-this-1-etf/?.tsrc=rss",
+"pub": "2026-11-21T18:28:01+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-21T18:44:40+00:00"
+},
+{
+"id": "e785efc1ed66",
+"t": "NVDA",
+"title": "Airbnb’s New $12 Billion Buyback Is Backed by a 35% Free Cash Flow Margin. Here’s What It Means for Shareholders.",
+"url": "https://www.fool.com/investing/2026/11/21/airbnb-new-usd12-billion-buyback-is-backed-by-a-35-free-cash-flow-margin-what-it-means-for-shareholders/?.tsrc=rss",
+"pub": "2026-11-21T18:15:15+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-21T18:44:40+00:00"
+},
+{
+"id": "bae85dbf8c66",
+"t": "NVDA",
+"title": "3 AI Chip Stocks Retail Investors Are Watching After The Nvidia Selloff",
+"url": "https://finance.yahoo.com/technology/ai/articles/3-ai-chip-stocks-retail-180806204.html?.tsrc=rss",
+"pub": "2026-11-21T18:08:06+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-21T18:44:40+00:00"
+},
+{
+"id": "8493456fae71",
+"t": "GILD",
+"title": "$500,000 in AbbVie and Gilead Could Pay More Than $11,000 a Year in Dividends",
+"url": "https://247wallst.com/investing/2026/11/21/500000-in-abbvie-and-gilead-could-pay-more-than-11000-a-year-in-dividends/?.tsrc=rss",
+"pub": "2026-11-21T18:07:46+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-21T18:44:40+00:00"
+},
+{
+"id": "d45a41181ec8",
+"t": "ORCL",
+"title": "Oracle (ORCL) Hospital Java Patching Rush Meets New AI Product Push",
+"url": "https://finance.yahoo.com/healthcare/articles/oracle-orcl-hospital-java-patching-180644592.html?.tsrc=rss",
+"pub": "2026-11-21T18:06:44+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-21T18:44:40+00:00"
+},
 {
 "id": "deea8b1fac4f",
 "t": "NVDA",
@@ -1702,6 +1752,16 @@
 "src": "Yahoo Finance",
 "kind": "news",
 "seen": "2026-11-21T11:44:23+00:00"
+},
+{
+"id": "62ae460828a0",
+"t": "TSM",
+"title": "Cathie Wood Just Bought $21 Million of Advanced Micro Devices Across 2 ARK Funds",
+"url": "https://www.tikr.com/blog/cathie-wood-just-bought-21-million-of-advanced-micro-devices-across-2-ark-funds?ref=yahoofinance&tlnk=yf-261121-p8vrq959&.tsrc=rss",
+"pub": "2026-11-21T11:17:12+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-21T18:44:40+00:00"
 },
 {
 "id": "602104c47db0",
@@ -7954,64 +8014,54 @@
 "seen": "2026-11-20T17:14:24+00:00"
 },
 {
-"id": "c5669012f3d0",
-"t": "SPCX",
-"title": "Should You Buy Anthropic Stock?",
-"url": "https://www.kiplinger.com/investing/ipos/anthropic-ipo-should-you-buy-ant-stock?.tsrc=rss",
-"pub": "2026-11-20T15:59:43+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-20T18:14:43+00:00"
+"id": "e7d43095b68c",
+"t": "",
+"title": "Finland border guard: one Russian rescue ship involved in rescue efforts",
+"url": "https://www.financialjuice.com/News/9863108/Finland-border-guard-one-Russian-rescue-ship-involved-in-rescue-efforts.aspx?xy=rss",
+"pub": "2026-11-21T18:42:23+00:00",
+"src": "FinancialJuice",
+"kind": "market",
+"seen": "2026-11-21T18:44:40+00:00"
 },
 {
-"id": "130ce74d44e0",
-"t": "SPCX",
-"title": "FAA Narrows Cause Of Nationwide Outage, Congress Questions $50 Billion Funding Request",
-"url": "https://finance.yahoo.com/m/d892ca62-8d31-37e5-a120-fd1a47e7dd83/faa-narrows-cause-of.html?.tsrc=rss",
-"pub": "2026-11-20T15:58:58+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-20T16:15:51+00:00"
+"id": "3a87a2d7cb0e",
+"t": "",
+"title": "Finland border guard: vessel remains ablaze with visible flames",
+"url": "https://www.financialjuice.com/News/9863107/Finland-border-guard-vessel-remains-ablaze-with-visible-flames.aspx?xy=rss",
+"pub": "2026-11-21T18:40:02+00:00",
+"src": "FinancialJuice",
+"kind": "market",
+"seen": "2026-11-21T18:44:40+00:00"
 },
 {
-"id": "7854f20c677c",
-"t": "NVDA",
-"title": "Nvidia falls below Alphabet to become fourth most valuable U.S. company",
-"url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-falls-below-alphabet-become-155838605.html?.tsrc=rss",
-"pub": "2026-11-20T15:58:38+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-20T16:15:51+00:00"
+"id": "911e7cd997f6",
+"t": "",
+"title": "Finland border guard: crew of damaged Russian cargo ship evacuated to another vessel, en route to Russia",
+"url": "https://www.financialjuice.com/News/9863106/Finland-border-guard-crew-of-damaged-Russian-cargo-ship-evacuated-to-another-vessel-en-route-to-Russia.aspx?xy=rss",
+"pub": "2026-11-21T18:38:31+00:00",
+"src": "FinancialJuice",
+"kind": "market",
+"seen": "2026-11-21T18:44:40+00:00"
 },
 {
-"id": "4058359a701d",
-"t": "UNH",
-"title": "TD Cowen lifts UnitedHealth, Humana to Buy on improved earnings outlook",
-"url": "https://finance.yahoo.com/healthcare/articles/td-cowen-lifts-unitedhealth-humana-155813927.html?.tsrc=rss",
-"pub": "2026-11-20T15:58:13+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-20T16:15:51+00:00"
+"id": "17c106c9691f",
+"t": "",
+"title": "Saudi-led coalition: intercepted and neutralized drone launched by Yemen's Houthis toward Riyadh region",
+"url": "https://www.financialjuice.com/News/9863105/Saudi-led-coalition-intercepted-and-neutralized-drone-launched-by-Yemens-Houthis-toward-Riyadh-region.aspx?xy=rss",
+"pub": "2026-11-21T18:34:25+00:00",
+"src": "FinancialJuice",
+"kind": "market",
+"seen": "2026-11-21T18:44:40+00:00"
 },
 {
-"id": "1f3019de62f0",
-"t": "SNOW",
-"title": "Snowflake vs. Adobe: Which Enterprise AI Stock Is a Better Buy?",
-"url": "https://finance.yahoo.com/technology/ai/articles/snowflake-vs-adobe-enterprise-ai-155800527.html?.tsrc=rss",
-"pub": "2026-11-20T15:58:00+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-20T17:40:09+00:00"
-},
-{
-"id": "d5001be74fb6",
-"t": "GOOGL",
-"title": "SDMC's Third Consecutive Year at Google's TV Summit, Showcasing Home Physical AI",
-"url": "https://finance.yahoo.com/technology/ai/articles/sdmcs-third-consecutive-googles-tv-155700409.html?.tsrc=rss",
-"pub": "2026-11-20T15:57:00+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-20T16:15:51+00:00"
+"id": "2833f47e06de",
+"t": "",
+"title": "5 of the Top Financial Advisor Companies for Retirees: Well-Known Fiduciary Firms to Consider",
+"url": "https://www.wsj.com/buyside/personal-finance/financial-advisors/top-financial-advisors-for-retirees?mod=rss_markets_main",
+"pub": "2026-11-21T18:30:00+00:00",
+"src": "WSJ",
+"kind": "market",
+"seen": "2026-11-21T18:44:40+00:00"
 },
 {
 "id": "ba17d1a07b8f",
@@ -8042,6 +8092,16 @@
 "src": "FinancialJuice",
 "kind": "market",
 "seen": "2026-11-21T18:15:18+00:00"
+},
+{
+"id": "f6abefed82b5",
+"t": "",
+"title": "Compagnie Financiere Richemont SA (CFR.S) | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1vRGlvMGdSNTZ1SGQyckdHNHdKV1NUak5iMmMxNFY2ejN5TDd2SVJhTU53RG02SDNHbFh5bVp5aUdVRWU4YU9QQl9vd3dBQThBYVBvTlE3RWpmOWVT?oc=5",
+"pub": "2026-11-21T17:24:37+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-21T18:44:40+00:00"
 },
 {
 "id": "699965c167dc",
@@ -8394,6 +8454,16 @@
 "seen": "2026-11-21T13:15:23+00:00"
 },
 {
+"id": "1f46bd4944d1",
+"t": "",
+"title": "9905stat.TW - Reuters",
+"url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBrNnR4bW9KVXJVOEgxV3lCak42MnlnWElUai1mRk5icjd3bWlZM3N6bWZFcTNYNnFKWGRsekRCWXJNRDY1enEtM2xDOFJOU0d1RS04TTItR0FfaG9oR0RWZldoYzBYbkJCTGdjaF9kVW9Ib0pwalhycVB0OXJMdw?oc=5",
+"pub": "2026-11-21T13:04:42+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-21T18:44:40+00:00"
+},
+{
 "id": "3712c4e6d9dd",
 "t": "",
 "title": "'Raise Taxes, Cut Spending': Bill Dudley on the Debt",
@@ -8472,6 +8542,16 @@
 "src": "Reuters",
 "kind": "market",
 "seen": "2026-11-21T17:44:46+00:00"
+},
+{
+"id": "19e5d3e2d1a5",
+"t": "",
+"title": "7GE.LAS - | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1YN2FLVHBNYzRYT2xENlowRXlYT0FEWnROS1VkdmpRYjExejI0NTBqenFVTndLYmVGeklCYVQta2VWVTZoa0NNNDRfQTlUNFBTWUxQczNaNXZYdVBIcm9vM2pkMmY0ZjB3ZlBobHhIYzVVLWJIT2pLUHJR?oc=5",
+"pub": "2026-11-21T12:42:37+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-21T18:44:40+00:00"
 },
 {
 "id": "e4357f774786",
@@ -9162,6 +9242,16 @@
 "src": "FinancialJuice",
 "kind": "market",
 "seen": "2026-11-21T02:43:50+00:00"
+},
+{
+"id": "04a394a1ab05",
+"t": "",
+"title": "1271stat.HK - | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOeW8tbFBGUlJ6SmZoNWw0UUZHekNTcV9COHF4dEtndG1VcDNOYkpQOG85NVczd1pKdWJDZnRIeS1GWXcyWU9xRG9qOGZIcTZxekhtcm5BOTlQMHpuWGFnTjJGbUtBbVFzUDJVSHM3dG5NWFpmN2toQzJQUFNuMVlBUGRUOGFaYTRXcEpQaTNB?oc=5",
+"pub": "2026-11-21T02:33:37+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-21T18:44:40+00:00"
 },
 {
 "id": "4ad7d020e07b",
@@ -10922,96 +11012,6 @@
 "src": "FinancialJuice",
 "kind": "market",
 "seen": "2026-11-20T20:14:00+00:00"
-},
-{
-"id": "885dfeba1f51",
-"t": "",
-"title": "Brent Crude futures settle at $92.57/bbl, up 59 cents, 0.64%.",
-"url": "https://www.financialjuice.com/News/9862367/Brent-Crude-futures-settle-at-9257bbl-up-59-cents-064.aspx",
-"pub": "2026-11-20T19:50:10+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-20T22:14:08+00:00"
-},
-{
-"id": "b11c595d9f04",
-"t": "",
-"title": "Wall Street Regulator Probing Nvidia’s Accounting, Reuters Says",
-"url": "https://www.bloomberg.com/news/articles/2026-11-20/wall-street-regulator-probing-nvidia-s-accounting-reuters-says",
-"pub": "2026-11-20T19:48:49+00:00",
-"src": "Bloomberg",
-"kind": "market",
-"seen": "2026-11-20T20:14:00+00:00"
-},
-{
-"id": "7a2f1121f3b2",
-"t": "",
-"title": "Eni SpA (ENI.MI) | Stock Price & Latest News - Reuters",
-"url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9LYk42TFVpN1hPQ2UwNm5ZRHNKUUMyWmxMTkFJMGdxRzV4QTJ6Nl85N1A3Zm9SRjktczkyUTkwSXVaRlBveGExYXAwZTRYSUhSYzlKbDBhbURyQ3lUU0E?oc=5",
-"pub": "2026-11-20T19:48:08+00:00",
-"src": "Reuters",
-"kind": "market",
-"seen": "2026-11-21T12:10:49+00:00"
-},
-{
-"id": "266283df05b0",
-"t": "",
-"title": "Apollo Enlists 13 Wall Street Banks for $9 Billion ADT Debt Deal",
-"url": "https://www.bloomberg.com/news/articles/2026-11-20/apollo-enlists-13-wall-street-banks-for-9-billion-adt-debt-deal",
-"pub": "2026-11-20T19:48:02+00:00",
-"src": "Bloomberg",
-"kind": "market",
-"seen": "2026-11-20T20:14:00+00:00"
-},
-{
-"id": "8434619712b4",
-"t": "",
-"title": "Moncler S.p.A. (MONC.MI) | Stock Price & Latest News - Reuters",
-"url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1CZzh3dlFMa2hITDhKTXdCbjNFaGo3QVZVcGRUU2xZTVNHTEZBel9vNC1jZXZuOENXakVMd20zRlNaMU5sSEVZTHJIa0hybWZrbHFjRDREMUpJOW40eVRR?oc=5",
-"pub": "2026-11-20T19:43:16+00:00",
-"src": "Reuters",
-"kind": "market",
-"seen": "2026-11-20T21:15:37+00:00"
-},
-{
-"id": "c11a8b392bb9",
-"t": "",
-"title": "Asset-Backed Debt Sales Top Post-GFC Record on AI Strength",
-"url": "https://www.bloomberg.com/news/articles/2026-11-20/asset-backed-debt-sales-top-post-gfc-record-on-ai-strength",
-"pub": "2026-11-20T19:41:53+00:00",
-"src": "Bloomberg",
-"kind": "market",
-"seen": "2026-11-20T20:14:00+00:00"
-},
-{
-"id": "50c8cd3e7c7f",
-"t": "",
-"title": "Canada Stocks Eye Longest Losing Streak Since 2023 on Tech Rout",
-"url": "https://www.bloomberg.com/news/articles/2026-11-20/canada-stocks-eye-longest-losing-streak-since-2023-on-tech-rout",
-"pub": "2026-11-20T19:41:51+00:00",
-"src": "Bloomberg",
-"kind": "market",
-"seen": "2026-11-20T20:14:00+00:00"
-},
-{
-"id": "6d70af253214",
-"t": "",
-"title": "Traders no longer fully price in a December Fed rate hike.",
-"url": "https://www.financialjuice.com/News/9862359/Traders-no-longer-fully-price-in-a-December-Fed-rate-hike.aspx?xy=rss",
-"pub": "2026-11-20T19:35:41+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-20T19:44:51+00:00"
-},
-{
-"id": "1c4a0d3a1a3b",
-"t": "",
-"title": "Traders no longer fully price in a December Fed rate hike.",
-"url": "https://www.financialjuice.com/News/9862359/Traders-no-longer-fully-price-in-a-December-Fed-rate-hike.aspx",
-"pub": "2026-11-20T19:35:41+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-20T22:14:08+00:00"
 }
 ]
 }
