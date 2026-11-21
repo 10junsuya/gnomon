@@ -1,18 +1,28 @@
 {
-"updated_kst": "2026-11-22 04:44",
-"rot": 168,
+"updated_kst": "2026-11-22 05:03",
+"rot": 49,
 "how": "Scout(프로그램)이 10분마다 모은 기사 제목·링크와 공시예요. Wren이 공식 출처로 확인한 뒤 회사 화면에 한국어로 반영해요. 본문은 받지 않아요.",
 "sources": {
 "Yahoo Finance": "120종목 확인 · 실패 0",
 "CNBC": "63건",
 "Bloomberg": "26건",
 "WSJ": "61건",
-"Reuters": "47건",
+"Reuters": "49건",
 "FinancialJuice": "100건",
 "SEC EDGAR": "실패 HTTPError",
 "Fox Business": "50건"
 },
 "items": [
+{
+"id": "5bd716010f76",
+"t": "NVDA",
+"title": "Meet the Warren Buffett Rule That Makes This Consumer Stock a Buy With $1,000 Right Now",
+"url": "https://www.fool.com/investing/2026/11/21/meet-the-warren-buffett-rule-that-makes-this-consumer-stock-a-buy-with-1000-right-now/?.tsrc=rss",
+"pub": "2026-11-21T19:47:02+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-21T20:03:56+00:00"
+},
 {
 "id": "e0ac2e85f96f",
 "t": "SPCX",
@@ -74,6 +84,16 @@
 "seen": "2026-11-21T19:44:12+00:00"
 },
 {
+"id": "642e49976b4a",
+"t": "RTX",
+"title": "RTX, 3M and Illinois Tool Works Just Fell. Their Dividend Stories Are Still Growing",
+"url": "https://247wallst.com/investing/2026/11/21/rtx-3m-and-illinois-tool-works-just-fell-their-dividend-stories-are-still-growing/?.tsrc=rss",
+"pub": "2026-11-21T19:07:21+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-21T20:03:56+00:00"
+},
+{
 "id": "b6d9d3b5f3b6",
 "t": "NVDA",
 "title": "The S&P 500 Heads Into Thanksgiving Below Its Peak. Here's How the Holiday Week Has Usually Gone Since 1950.",
@@ -92,6 +112,16 @@
 "src": "Yahoo Finance",
 "kind": "news",
 "seen": "2026-11-21T19:14:53+00:00"
+},
+{
+"id": "40d3d671d35c",
+"t": "AMZN",
+"title": "Cathie Wood Just Sold $9 Million of Amazon",
+"url": "https://www.tikr.com/blog/cathie-wood-just-sold-9-million-of-amazon?ref=yahoofinance&tlnk=yf-261121-44jm86mg&.tsrc=rss",
+"pub": "2026-11-21T19:05:34+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-21T20:03:56+00:00"
 },
 {
 "id": "969b78a8a289",
@@ -3694,6 +3724,16 @@
 "seen": "2026-11-21T00:12:19+00:00"
 },
 {
+"id": "2232b21e7096",
+"t": "NBIS",
+"title": "Neoclouds like CoreWeave have two big problems",
+"url": "https://blockspace.media/short/neoclouds-like-coreweave-have-two-big-problems/?.tsrc=rss",
+"pub": "2026-11-20T22:58:51+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-21T20:03:56+00:00"
+},
+{
 "id": "825022ef7230",
 "t": "AMZN",
 "title": "Stock Market Today, Nov. 20: Amazon Shares Slide on AI and Mega-Cap Tech Sell-Off",
@@ -4634,6 +4674,16 @@
 "seen": "2026-11-20T21:29:57+00:00"
 },
 {
+"id": "06c2dc736850",
+"t": "TSLA",
+"title": "S&P 500 enters correction territory after shedding $5.5T from all-time high",
+"url": "https://blockspace.media/short/sp-500-enters-correction-territory-after-shedding-5-5t-from-all-time-high/?.tsrc=rss",
+"pub": "2026-11-20T21:09:45+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-21T20:03:56+00:00"
+},
+{
 "id": "3771d648160a",
 "t": "UNH",
 "title": "TD Cowen names UnitedHealth its 2027 best idea, upgrades shares",
@@ -4752,6 +4802,16 @@
 "src": "Yahoo Finance",
 "kind": "news",
 "seen": "2026-11-20T21:15:37+00:00"
+},
+{
+"id": "0a6b09aaf938",
+"t": "MU",
+"title": "Anthropic falls to five cents above $83 IPO price in first full session",
+"url": "https://blockspace.media/insight/anthropic-shares-near-ipo-price/?.tsrc=rss",
+"pub": "2026-11-20T20:57:33+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-21T20:03:56+00:00"
 },
 {
 "id": "29474d67c740",
@@ -7954,64 +8014,24 @@
 "seen": "2026-11-20T17:40:09+00:00"
 },
 {
-"id": "7cd1c317613b",
-"t": "AMD",
-"title": "AMD Falls on China Risk; Ross Tumbles on Q4 Guidance | Stock Movers",
-"url": "https://finance.yahoo.com/video/amd-falls-china-risk-ross-161925499.html?.tsrc=rss",
-"pub": "2026-11-20T16:19:25+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-20T16:43:57+00:00"
+"id": "c68523a9b7ae",
+"t": "",
+"title": "Kraken aware of issue with Cyber-Optimism funding gateway, deposits may face delays; other methods operating normally",
+"url": "https://www.financialjuice.com/News/9863129/Kraken-aware-of-issue-with-Cyber-Optimism-funding-gateway-deposits-may-face-delays-other-methods-operating-normally.aspx?xy=rss",
+"pub": "2026-11-21T20:02:24+00:00",
+"src": "FinancialJuice",
+"kind": "market",
+"seen": "2026-11-21T20:03:56+00:00"
 },
 {
-"id": "38039132e3eb",
-"t": "AVGO",
-"title": "Asia Offers Explosive Innovation at Bargain Prices. 16 Stock Picks From Our Roundtable Experts.",
-"url": "https://finance.yahoo.com/m/2b9b2e76-5522-34df-b265-ec18f3dc350c/asia-offers-explosive.html?.tsrc=rss",
-"pub": "2026-11-20T16:18:00+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-20T16:43:57+00:00"
-},
-{
-"id": "47df84dc78d0",
-"t": "SPCX",
-"title": "Why SpaceX Stock Dropped After the Anthropic IPO",
-"url": "https://www.fool.com/investing/2026/11/20/why-spacex-stock-dropped-after-the-anthropic-ipo/?.tsrc=rss",
-"pub": "2026-11-20T16:17:23+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-20T16:39:56+00:00"
-},
-{
-"id": "389456205709",
-"t": "BABA",
-"title": "Wall Street Has Cut Its PDD Target 23% This Year. Jefferies Still Sees 40% Upside",
-"url": "https://www.tikr.com/blog/wall-street-has-cut-its-pdd-target-23-this-year-jefferies-still-sees-40-upside?ref=yahoofinance&tlnk=yf-261120-3jqwpmw8&.tsrc=rss",
-"pub": "2026-11-20T16:16:21+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-20T16:39:56+00:00"
-},
-{
-"id": "31312a49574d",
-"t": "GOOGL",
-"title": "Veteran investors talk new book, 'demystifying' financial jargon to invest sooner and smarter",
-"url": "https://finance.yahoo.com/video/veteran-investors-talk-new-book-demystifying-financial-jargon-to-invest-sooner-and-smarter-161606156.html?.tsrc=rss",
-"pub": "2026-11-20T16:16:06+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-20T16:39:56+00:00"
-},
-{
-"id": "bac9b0619459",
-"t": "AAPL",
-"title": "Anthropic shares slide towards IPO price as AI investors reassess valuation",
-"url": "https://www.proactiveinvestors.com/companies/news/1102201/anthropic-shares-slide-towards-ipo-price-as-ai-investors-reassess-valuation-1102201.html?.tsrc=rss",
-"pub": "2026-11-20T16:16:00+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-20T16:39:56+00:00"
+"id": "db1a400ed8d3",
+"t": "",
+"title": "Iran’s Revolutionary Guards attack two US bases in Bahrain: Fars News Agency reports citing its reporter",
+"url": "https://www.financialjuice.com/News/9863125/Irans-Revolutionary-Guards-attack-two-US-bases-in-Bahrain-Fars-News-Agency-reports-citing-its-reporter.aspx?xy=rss",
+"pub": "2026-11-21T19:47:20+00:00",
+"src": "FinancialJuice",
+"kind": "market",
+"seen": "2026-11-21T20:03:56+00:00"
 },
 {
 "id": "fdf95914dc32",
@@ -8422,6 +8442,16 @@
 "src": "Reuters",
 "kind": "market",
 "seen": "2026-11-21T19:14:53+00:00"
+},
+{
+"id": "e811b2fefce6",
+"t": "",
+"title": "MTC_f.BK - Reuters",
+"url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1rUkpfYUFvZ3RkclBYanVkalBhSmFTU2cwMWwwTzI1d2ludUs2ZF9VSE9kWkl4ZWQ0eUM5RnNzMFNvRk9sWDVXVmdQY2hLZ1loNy03QXpXYzVLQVllYUJOZXNvQ1VUXzEtQTNDRU5RUXQ2ZmRnTklhMnVTVmRfQQ?oc=5",
+"pub": "2026-11-21T15:14:57+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-21T20:03:56+00:00"
 },
 {
 "id": "42cd856fd89e",
@@ -10982,36 +11012,6 @@
 "src": "WSJ",
 "kind": "market",
 "seen": "2026-11-20T22:14:08+00:00"
-},
-{
-"id": "f1f43f64b20d",
-"t": "",
-"title": "NZD CFTC Positions Week of November 17th - FJElite",
-"url": "https://www.financialjuice.com/News/9862457/NZD-CFTC-Positions-Week-of-November-17th---FJElite.aspx?xy=rss",
-"pub": "2026-11-20T21:15:58+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-20T21:15:37+00:00"
-},
-{
-"id": "4b230254ae95",
-"t": "",
-"title": "NZD CFTC Positions Week of November 17th - FJElite",
-"url": "https://www.financialjuice.com/News/9862457/NZD-CFTC-Positions-Week-of-November-17th---FJElite.aspx",
-"pub": "2026-11-20T21:15:58+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-20T22:14:08+00:00"
-},
-{
-"id": "acd451430465",
-"t": "",
-"title": "CAD CFTC Positions Week of November 17th - FJElite",
-"url": "https://www.financialjuice.com/News/9862456/CAD-CFTC-Positions-Week-of-November-17th---FJElite.aspx?xy=rss",
-"pub": "2026-11-20T21:15:35+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-20T21:15:37+00:00"
 }
 ]
 }
