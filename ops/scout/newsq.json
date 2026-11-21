@@ -1,18 +1,148 @@
 {
-"updated_kst": "2026-11-22 03:44",
-"rot": 48,
+"updated_kst": "2026-11-22 04:13",
+"rot": 108,
 "how": "Scout(프로그램)이 10분마다 모은 기사 제목·링크와 공시예요. Wren이 공식 출처로 확인한 뒤 회사 화면에 한국어로 반영해요. 본문은 받지 않아요.",
 "sources": {
 "Yahoo Finance": "120종목 확인 · 실패 0",
 "CNBC": "63건",
-"Bloomberg": "28건",
+"Bloomberg": "26건",
 "WSJ": "61건",
-"Reuters": "38건",
+"Reuters": "46건",
 "FinancialJuice": "100건",
 "SEC EDGAR": "실패 HTTPError",
 "Fox Business": "50건"
 },
 "items": [
+{
+"id": "b6d9d3b5f3b6",
+"t": "NVDA",
+"title": "The S&P 500 Heads Into Thanksgiving Below Its Peak. Here's How the Holiday Week Has Usually Gone Since 1950.",
+"url": "https://www.fool.com/investing/2026/11/21/the-s-and-p-500-heads-into-thanksgiving-below-its-peak-here-s-how-the-holiday-week-has-usually-gone-since-1950/?.tsrc=rss",
+"pub": "2026-11-21T19:07:02+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-21T19:13:53+00:00"
+},
+{
+"id": "8576163b0872",
+"t": "MU",
+"title": "I Picked the Wrong Week to Buy the Dip on Micron, and Other Observations From a Miserable Few Days in the Market",
+"url": "https://247wallst.com/investing/2026/11/21/i-picked-the-wrong-week-to-buy-the-dip-on-micron-and-other-observations-from-a-miserable-few-days-in-the-market/?.tsrc=rss",
+"pub": "2026-11-21T19:06:13+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-21T19:13:53+00:00"
+},
+{
+"id": "969b78a8a289",
+"t": "NVDA",
+"title": "Could Investing $500 a Month in Nebius Help You Retire a Millionaire?",
+"url": "https://www.fool.com/investing/2026/11/21/could-investing-500-a-month-in-nebius-help-you-retire-a-millionaire/?.tsrc=rss",
+"pub": "2026-11-21T18:57:02+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-21T19:13:53+00:00"
+},
+{
+"id": "5225b5886eb6",
+"t": "MO",
+"title": "A 70-Year-Old With $1,000,000 in Edison International, Altria and Realty Income Collects $4,774 a Month in Dividends. How Safe Is Each Check?",
+"url": "https://www.tikr.com/blog/a-70-year-old-with-1000000-in-edison-international-altria-and-realty-income-collects-4683-a-month-in-dividends-how-safe-is-each-check?ref=yahoofinancedividend&tlnk=yf-261121-3hr45wp2&.tsrc=rss",
+"pub": "2026-11-21T18:52:42+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-21T19:13:53+00:00"
+},
+{
+"id": "d06f8eb7d558",
+"t": "AVGO",
+"title": "Cathie Wood Just Sold $6 Million of Broadcom",
+"url": "https://www.tikr.com/blog/cathie-wood-just-sold-6-million-of-broadcom?ref=yahoofinance&tlnk=yf-261121-qvvvjxvh&.tsrc=rss",
+"pub": "2026-11-21T18:51:32+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-21T19:13:53+00:00"
+},
+{
+"id": "90eda149ad8b",
+"t": "NVDA",
+"title": "Worried About a Market Crash? This AI Stock Should Bounce Back Fastest.",
+"url": "https://www.fool.com/investing/2026/11/21/worried-about-a-market-crash-this-ai-stock-should-bounce-back-fastest/?.tsrc=rss",
+"pub": "2026-11-21T18:47:02+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-21T19:13:53+00:00"
+},
+{
+"id": "66ebe8a7d414",
+"t": "NVDA",
+"title": "Debt-heavy CoreWeave just got $350M from Jensen Huang’s charity",
+"url": "https://www.thestreet.com/investing/debt-heavy-coreweave-350m-jensen-huang-charity?.tsrc=rss",
+"pub": "2026-11-21T18:47:00+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-21T19:13:53+00:00"
+},
+{
+"id": "2fa0a59f8ecf",
+"t": "MRK",
+"title": "Clorox vs. Merck: 49 and 15 Straight Years of Raises. Which Dividend Pays You More in 10 Years?",
+"url": "https://www.tikr.com/blog/clorox-vs-merck-49-and-15-straight-years-of-raises-which-dividend-pays-you-more-in-10-years?ref=yahoofinancedividend&tlnk=yf-261121-r2f3mvjq&.tsrc=rss",
+"pub": "2026-11-21T18:35:27+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-21T19:13:53+00:00"
+},
+{
+"id": "52cfa10aa196",
+"t": "NVDA",
+"title": "Should You Buy Nvidia Stock Right Now?",
+"url": "https://www.fool.com/investing/2026/11/21/should-you-buy-nvidia-stock-right-now/?.tsrc=rss",
+"pub": "2026-11-21T18:35:02+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-21T19:13:53+00:00"
+},
+{
+"id": "6e548862dbff",
+"t": "AAPL",
+"title": "T-Mobile leak reveals major phone plan change for core customers",
+"url": "https://www.thestreet.com/retail/t-mobile-t-select-prepaid-wireless-plans-leak?.tsrc=rss",
+"pub": "2026-11-21T18:33:00+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-21T19:13:53+00:00"
+},
+{
+"id": "63aa506ec876",
+"t": "AVGO",
+"title": "Microsoft Was The Only Big AI Buyer Paying Down Debt. How Much More Can It Spend?",
+"url": "https://www.trefis.com/stock/msft/articles/627454/microsoft-was-the-only-big-ai-buyer-paying-down-debt-how-much-more-can-it-spend/2026-11-21?.tsrc=rss",
+"pub": "2026-11-21T18:32:03+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-21T19:13:53+00:00"
+},
+{
+"id": "25fdff290b3c",
+"t": "GOOGL",
+"title": "Meta Stopped Its Buybacks To Build AI. How Much More Can It Spend?",
+"url": "https://www.trefis.com/stock/meta/articles/627455/meta-stopped-its-buybacks-to-build-ai-how-much-more-can-it-spend/2026-11-21?.tsrc=rss",
+"pub": "2026-11-21T18:32:03+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-21T19:13:53+00:00"
+},
+{
+"id": "28eb14016671",
+"t": "NVDA",
+"title": "Dell Up 447% In 5 Years, HPE 220%: What Did Michael Dell Do Differently?",
+"url": "https://www.trefis.com/stock/dell/articles/624826/dell-up-447-in-5-years-hpe-220-what-did-michael-dell-do-differently/2026-11-21?.tsrc=rss",
+"pub": "2026-11-21T18:32:03+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-21T19:13:53+00:00"
+},
 {
 "id": "22f9517664fa",
 "t": "NVDA",
@@ -22,6 +152,16 @@
 "src": "Yahoo Finance",
 "kind": "news",
 "seen": "2026-11-21T18:44:40+00:00"
+},
+{
+"id": "603962e8c24d",
+"t": "NVDA",
+"title": "Marvell Just Dropped 22% in a Week as Nvidia’s Turmoil Hit AI Chips. Sell, or Load Up Before Dec. 1?",
+"url": "https://www.tikr.com/blog/marvell-just-dropped-22-in-a-week-as-nvidias-turmoil-hit-ai-chips-sell-or-load-up-before-dec-1?ref=yahoofinance&tlnk=yf-261121-h6wc4q3f&.tsrc=rss",
+"pub": "2026-11-21T18:20:37+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-21T19:13:53+00:00"
 },
 {
 "id": "e785efc1ed66",
@@ -74,6 +214,16 @@
 "seen": "2026-11-21T18:15:18+00:00"
 },
 {
+"id": "74e54a7b262a",
+"t": "UNH",
+"title": "UnitedHealth Is Suing the Government Over Medicare Advantage Star Ratings",
+"url": "https://247wallst.com/investing/2026/11/21/unitedhealth-is-suing-the-government-over-medicare-advantage-star-ratings/?.tsrc=rss",
+"pub": "2026-11-21T17:58:39+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-21T19:13:53+00:00"
+},
+{
 "id": "25383967e8cb",
 "t": "NVDA",
 "title": "Here's How Many Shares of Coca-Cola You'd Need for $1,000 in Monthly Income",
@@ -82,6 +232,16 @@
 "src": "Yahoo Finance",
 "kind": "news",
 "seen": "2026-11-21T18:15:18+00:00"
+},
+{
+"id": "076dbb248ae4",
+"t": "WMT",
+"title": "DoorDash breaks silence on pricing practices amid FTC inquiry",
+"url": "https://www.thestreet.com/retail/doordash-breaks-silence-on-pricing-practices-amid-ftc-inquiry?.tsrc=rss",
+"pub": "2026-11-21T17:47:00+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-21T19:13:53+00:00"
 },
 {
 "id": "9b14b6aea8a0",
@@ -1754,6 +1914,16 @@
 "seen": "2026-11-21T11:44:23+00:00"
 },
 {
+"id": "3a7261aac68a",
+"t": "TSM",
+"title": "Cathie Wood Just Sold $17 Million of Nvidia Across 2 ARK Funds",
+"url": "https://www.tikr.com/blog/cathie-wood-just-sold-17-million-of-nvidia-across-2-ark-funds?ref=yahoofinance&tlnk=yf-261121-6p79vwqw&.tsrc=rss",
+"pub": "2026-11-21T11:17:56+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-21T19:13:53+00:00"
+},
+{
 "id": "62ae460828a0",
 "t": "TSM",
 "title": "Cathie Wood Just Bought $21 Million of Advanced Micro Devices Across 2 ARK Funds",
@@ -1802,6 +1972,16 @@
 "src": "Yahoo Finance",
 "kind": "news",
 "seen": "2026-11-21T18:15:18+00:00"
+},
+{
+"id": "2ed96983c73d",
+"t": "CAT",
+"title": "Cathie Wood Just Sold $11 Million of Deere",
+"url": "https://www.tikr.com/blog/cathie-wood-just-sold-11-million-of-deere?ref=yahoofinance&tlnk=yf-261121-7cgjmg48&.tsrc=rss",
+"pub": "2026-11-21T10:57:53+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-21T19:13:53+00:00"
 },
 {
 "id": "15f2302974d3",
@@ -7834,186 +8014,6 @@
 "seen": "2026-11-20T16:39:56+00:00"
 },
 {
-"id": "943d291cef29",
-"t": "ATEN",
-"title": "Did Earnings Estimate Upgrade Just Shift A10 Networks' (ATEN) Investment Narrative?",
-"url": "https://finance.yahoo.com/markets/stocks/articles/did-earnings-estimate-upgrade-just-161018486.html?.tsrc=rss",
-"pub": "2026-11-20T16:10:18+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-20T16:43:57+00:00"
-},
-{
-"id": "7c1174ecc87a",
-"t": "KEYS",
-"title": "Keysight Technologies (KEYS) Stock Could Be Cheap After A 107% Run",
-"url": "https://finance.yahoo.com/markets/stocks/articles/keysight-technologies-keys-stock-could-161011269.html?.tsrc=rss",
-"pub": "2026-11-20T16:10:11+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-20T16:39:56+00:00"
-},
-{
-"id": "9f8dfdc8fa81",
-"t": "NTAP",
-"title": "Why NetApp (NTAP) is Poised to Beat Earnings Estimates Again",
-"url": "https://finance.yahoo.com/markets/stocks/articles/why-netapp-ntap-poised-beat-161002893.html?.tsrc=rss",
-"pub": "2026-11-20T16:10:02+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-20T17:45:12+00:00"
-},
-{
-"id": "101b78a8e348",
-"t": "JPM",
-"title": "UBS Eyes Shifting European Jobs to India: Will It Boost Cost Savings?",
-"url": "https://finance.yahoo.com/markets/stocks/articles/ubs-eyes-shifting-european-jobs-161000444.html?.tsrc=rss",
-"pub": "2026-11-20T16:10:00+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-20T17:40:09+00:00"
-},
-{
-"id": "9e43a8217aa5",
-"t": "DELL",
-"title": "Earnings Calendar and Analysis for This Week",
-"url": "https://www.kiplinger.com/investing/stocks/17494/next-week-earnings-calendar-stocks?.tsrc=rss",
-"pub": "2026-11-20T16:09:54+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-20T18:39:45+00:00"
-},
-{
-"id": "12bee7b26530",
-"t": "PG",
-"title": "Procter & Gamble Wants $10 Billion in Savings and Fewer Factory Workers",
-"url": "https://247wallst.com/investing/2026/11/20/procter-gamble-wants-10-billion-in-savings-and-fewer-factory-workers/?.tsrc=rss",
-"pub": "2026-11-20T16:07:36+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-20T17:14:24+00:00"
-},
-{
-"id": "19c83836430d",
-"t": "GOOGL",
-"title": "Investing in Women-Run Companies? 5 Stocks to Consider",
-"url": "https://finance.yahoo.com/markets/stocks/articles/investing-women-run-companies-5-160700245.html?.tsrc=rss",
-"pub": "2026-11-20T16:07:00+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-20T17:14:24+00:00"
-},
-{
-"id": "85b4af7c68d8",
-"t": "BE",
-"title": "Caterpillar Sinks 11% in a Week to a New 52-Week Low. Is the Selling Overdone?",
-"url": "https://www.tikr.com/blog/caterpillar-sinks-11-in-a-week-to-a-new-52-week-low-is-the-selling-overdone?ref=yahoofinance&tlnk=yf-261120-w3r4pmj4&.tsrc=rss",
-"pub": "2026-11-20T16:05:50+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-20T16:39:56+00:00"
-},
-{
-"id": "7993d4dc51b3",
-"t": "TSLA",
-"title": "Tesla proposes $3.1 billion Texas polysilicon refinery",
-"url": "https://www.manufacturingdive.com/news/LiMiK-Capital-328-million-manufacturing-plant-south-carolina/875286/?.tsrc=rss",
-"pub": "2026-11-20T16:05:18+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-20T16:39:56+00:00"
-},
-{
-"id": "5b38dd60ec2f",
-"t": "PLTR",
-"title": "If You Invest $500 in Palantir Each Month Starting Now, This is What You’d Have in 5 Years",
-"url": "https://247wallst.com/investing/2026/11/20/if-you-invest-500-in-palantir-each-month-starting-now-this-is-what-youd-have-in-5-years/?.tsrc=rss",
-"pub": "2026-11-20T16:04:09+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-20T16:39:56+00:00"
-},
-{
-"id": "e7d74137c516",
-"t": "SPY",
-"title": "The Biggest Winners from the Anthropic IPO Could Be Everyday SPY Investors",
-"url": "https://www.barchart.com/story/news/8937798/the-biggest-winners-from-the-anthropic-ipo-could-be-everyday-spy-investors?.tsrc=rss",
-"pub": "2026-11-20T16:02:04+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-20T22:44:38+00:00"
-},
-{
-"id": "3e6c2d120183",
-"t": "SPCX",
-"title": "Apollo and Goldman Sachs Announce Pricing of $44 Billion SpaceX GPU Financing",
-"url": "https://finance.yahoo.com/markets/stocks/articles/apollo-goldman-sachs-announce-pricing-160200875.html?.tsrc=rss",
-"pub": "2026-11-20T16:02:00+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-20T16:15:51+00:00"
-},
-{
-"id": "642f2f1bb127",
-"t": "QBTS",
-"title": "D-WAVE QUANTUM (QBTS) Upgraded to Buy: Here's Why",
-"url": "https://finance.yahoo.com/markets/stocks/articles/d-wave-quantum-qbts-upgraded-160005256.html?.tsrc=rss",
-"pub": "2026-11-20T16:00:05+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-20T17:14:24+00:00"
-},
-{
-"id": "59c4b65455bd",
-"t": "ROIV",
-"title": "Montes Archimedes Acquisition (ROIV) Upgraded to Buy: Here's Why",
-"url": "https://finance.yahoo.com/markets/stocks/articles/montes-archimedes-acquisition-roiv-upgraded-160004434.html?.tsrc=rss",
-"pub": "2026-11-20T16:00:04+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-20T17:40:09+00:00"
-},
-{
-"id": "9071209e1369",
-"t": "VTRS",
-"title": "All You Need to Know About Viatris (VTRS) Rating Upgrade to Strong Buy",
-"url": "https://finance.yahoo.com/markets/stocks/articles/know-viatris-vtrs-rating-upgrade-160004016.html?.tsrc=rss",
-"pub": "2026-11-20T16:00:04+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-20T17:45:12+00:00"
-},
-{
-"id": "487a80bc320c",
-"t": "NTAP",
-"title": "What Makes NetApp (NTAP) a New Buy Stock",
-"url": "https://finance.yahoo.com/markets/stocks/articles/makes-netapp-ntap-buy-stock-160002516.html?.tsrc=rss",
-"pub": "2026-11-20T16:00:02+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-20T17:45:12+00:00"
-},
-{
-"id": "c7708567c147",
-"t": "AAPL",
-"title": "Tech Outages Spur Emergency Buying: Costco-Heavy ETFs in Focus",
-"url": "https://finance.yahoo.com/markets/stocks/articles/tech-outages-spur-emergency-buying-160000511.html?.tsrc=rss",
-"pub": "2026-11-20T16:00:00+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-20T17:14:24+00:00"
-},
-{
-"id": "2d43e0b2e572",
-"t": "MRK",
-"title": "MSD and Isomorphic join forces to develop oncology drugs",
-"url": "https://www.pharmaceutical-technology.com/news/msd-isomorphic-labs-cancer-oncology-partnership/?.tsrc=rss",
-"pub": "2026-11-20T15:59:58+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-20T17:14:24+00:00"
-},
-{
 "id": "e7d43095b68c",
 "t": "",
 "title": "Finland border guard: one Russian rescue ship involved in rescue efforts",
@@ -8022,6 +8022,16 @@
 "src": "FinancialJuice",
 "kind": "market",
 "seen": "2026-11-21T18:44:40+00:00"
+},
+{
+"id": "c5283235715c",
+"t": "",
+"title": "Finland border guard: one Russian rescue ship involved in rescue efforts",
+"url": "https://www.financialjuice.com/News/9863108/Finland-border-guard-one-Russian-rescue-ship-involved-in-rescue-efforts.aspx",
+"pub": "2026-11-21T18:42:23+00:00",
+"src": "FinancialJuice",
+"kind": "market",
+"seen": "2026-11-21T19:13:53+00:00"
 },
 {
 "id": "3a87a2d7cb0e",
@@ -8034,6 +8044,16 @@
 "seen": "2026-11-21T18:44:40+00:00"
 },
 {
+"id": "54d742dd1731",
+"t": "",
+"title": "Finland border guard: vessel remains ablaze with visible flames",
+"url": "https://www.financialjuice.com/News/9863107/Finland-border-guard-vessel-remains-ablaze-with-visible-flames.aspx",
+"pub": "2026-11-21T18:40:02+00:00",
+"src": "FinancialJuice",
+"kind": "market",
+"seen": "2026-11-21T19:13:53+00:00"
+},
+{
 "id": "911e7cd997f6",
 "t": "",
 "title": "Finland border guard: crew of damaged Russian cargo ship evacuated to another vessel, en route to Russia",
@@ -8044,6 +8064,16 @@
 "seen": "2026-11-21T18:44:40+00:00"
 },
 {
+"id": "b08289fff6c2",
+"t": "",
+"title": "Finland border guard: crew of damaged Russian cargo ship evacuated to another vessel, en route to Russia",
+"url": "https://www.financialjuice.com/News/9863106/Finland-border-guard-crew-of-damaged-Russian-cargo-ship-evacuated-to-another-vessel-en-route-to-Russia.aspx",
+"pub": "2026-11-21T18:38:31+00:00",
+"src": "FinancialJuice",
+"kind": "market",
+"seen": "2026-11-21T19:13:53+00:00"
+},
+{
 "id": "17c106c9691f",
 "t": "",
 "title": "Saudi-led coalition: intercepted and neutralized drone launched by Yemen's Houthis toward Riyadh region",
@@ -8052,6 +8082,16 @@
 "src": "FinancialJuice",
 "kind": "market",
 "seen": "2026-11-21T18:44:40+00:00"
+},
+{
+"id": "9921cfa62d3d",
+"t": "",
+"title": "Saudi-led coalition: intercepted and neutralized drone launched by Yemen's Houthis toward Riyadh region",
+"url": "https://www.financialjuice.com/News/9863105/Saudi-led-coalition-intercepted-and-neutralized-drone-launched-by-Yemens-Houthis-toward-Riyadh-region.aspx",
+"pub": "2026-11-21T18:34:25+00:00",
+"src": "FinancialJuice",
+"kind": "market",
+"seen": "2026-11-21T19:13:53+00:00"
 },
 {
 "id": "2833f47e06de",
@@ -8074,6 +8114,16 @@
 "seen": "2026-11-21T18:15:18+00:00"
 },
 {
+"id": "85899b037cfc",
+"t": "",
+"title": "Bahrain's interior ministry: warning of possible threat",
+"url": "https://www.financialjuice.com/News/9863100/Bahrains-interior-ministry-warning-of-possible-threat.aspx",
+"pub": "2026-11-21T18:11:23+00:00",
+"src": "FinancialJuice",
+"kind": "market",
+"seen": "2026-11-21T19:13:53+00:00"
+},
+{
 "id": "a3b28e9b46ec",
 "t": "",
 "title": "Anthropic IPO signals ‘beginning of a gold rush’ for small businesses, says biz tech CEO",
@@ -8092,6 +8142,16 @@
 "src": "FinancialJuice",
 "kind": "market",
 "seen": "2026-11-21T18:15:18+00:00"
+},
+{
+"id": "315296480418",
+"t": "",
+"title": "Explosion heard in Sirik on Iran's southern coast: cause unclear, possible warning shot or ship hitting mine - Fars News",
+"url": "https://www.financialjuice.com/News/9863095/Explosion-heard-in-Sirik-on-Irans-southern-coast-cause-unclear-possible-warning-shot-or-ship-hitting-mine---Fars-News.aspx",
+"pub": "2026-11-21T17:45:53+00:00",
+"src": "FinancialJuice",
+"kind": "market",
+"seen": "2026-11-21T19:13:53+00:00"
 },
 {
 "id": "f6abefed82b5",
@@ -8124,6 +8184,16 @@
 "seen": "2026-11-21T17:14:26+00:00"
 },
 {
+"id": "509bd77e8855",
+"t": "",
+"title": "Pioneer Power Solutions Inc (PPSI.N) | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9odVRuQzRrdUdPdzRuUUt6WXBiS3JQV3NuTHluRTE5ZEt2OU9NRERPTWNZMmZKTnhSaXloelhrSXFNSXltLThDMGU5a2d0Q0M1RHZTRnpFZy1KZEdZd2xLV1l5Nmh1SkJJNWhV?oc=5",
+"pub": "2026-11-21T16:55:13+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-21T19:13:53+00:00"
+},
+{
 "id": "cdef4ac85628",
 "t": "",
 "title": "IAEA on Ukraine: one transmission line remains offline",
@@ -8132,6 +8202,16 @@
 "src": "FinancialJuice",
 "kind": "market",
 "seen": "2026-11-21T17:14:26+00:00"
+},
+{
+"id": "d9193244b560",
+"t": "",
+"title": "IAEA on Ukraine: one transmission line remains offline",
+"url": "https://www.financialjuice.com/News/9863076/IAEA-on-Ukraine-one-transmission-line-remains-offline.aspx",
+"pub": "2026-11-21T16:53:56+00:00",
+"src": "FinancialJuice",
+"kind": "market",
+"seen": "2026-11-21T19:13:53+00:00"
 },
 {
 "id": "60ce52e35658",
@@ -8144,6 +8224,16 @@
 "seen": "2026-11-21T17:14:26+00:00"
 },
 {
+"id": "e75358becab9",
+"t": "",
+"title": "IAEA: one Ukrainian nuclear plant cuts output after two 330 kv power lines disconnected amid military activity",
+"url": "https://www.financialjuice.com/News/9863075/IAEA-one-Ukrainian-nuclear-plant-cuts-output-after-two-330-kv-power-lines-disconnected-amid-military-activity.aspx",
+"pub": "2026-11-21T16:52:58+00:00",
+"src": "FinancialJuice",
+"kind": "market",
+"seen": "2026-11-21T19:13:53+00:00"
+},
+{
 "id": "05ae8fcc7492",
 "t": "",
 "title": "Finland defence force: strike on Russian ship probably conducted by Ukraine",
@@ -8152,6 +8242,16 @@
 "src": "FinancialJuice",
 "kind": "market",
 "seen": "2026-11-21T16:14:06+00:00"
+},
+{
+"id": "8c1744ed6f28",
+"t": "",
+"title": "Finland defence force: strike on Russian ship probably conducted by Ukraine",
+"url": "https://www.financialjuice.com/News/9863064/Finland-defence-force-strike-on-Russian-ship-probably-conducted-by-Ukraine.aspx",
+"pub": "2026-11-21T16:06:37+00:00",
+"src": "FinancialJuice",
+"kind": "market",
+"seen": "2026-11-21T19:13:53+00:00"
 },
 {
 "id": "8f424445f88b",
@@ -8164,6 +8264,16 @@
 "seen": "2026-11-21T16:14:06+00:00"
 },
 {
+"id": "c05a29df91e5",
+"t": "",
+"title": "Finland border guard: strike on Russian vessel probably conducted by Ukraine",
+"url": "https://www.financialjuice.com/News/9863063/Finland-border-guard-strike-on-Russian-vessel-probably-conducted-by-Ukraine.aspx",
+"pub": "2026-11-21T16:03:02+00:00",
+"src": "FinancialJuice",
+"kind": "market",
+"seen": "2026-11-21T19:13:53+00:00"
+},
+{
 "id": "6d40b49c45ee",
 "t": "",
 "title": "Not difficult to reopen Strait of Hormuz if US agrees to Iran's reasonable conditions consistent with international law: Iranian foreign minister cited by Tasnim News",
@@ -8172,6 +8282,16 @@
 "src": "FinancialJuice",
 "kind": "market",
 "seen": "2026-11-21T16:14:06+00:00"
+},
+{
+"id": "dad8a4e25ade",
+"t": "",
+"title": "Not difficult to reopen Strait of Hormuz if US agrees to Iran's reasonable conditions consistent with international law: Iranian foreign minister cited by Tasnim News",
+"url": "https://www.financialjuice.com/News/9863058/Not-difficult-to-reopen-Strait-of-Hormuz-if-US-agrees-to-Irans-reasonable-conditions-consistent-with-international-law-Iranian-foreign-minister-cited-by-Tasnim-News.aspx",
+"pub": "2026-11-21T16:00:37+00:00",
+"src": "FinancialJuice",
+"kind": "market",
+"seen": "2026-11-21T19:13:53+00:00"
 },
 {
 "id": "d28788a0ec66",
@@ -8194,6 +8314,16 @@
 "seen": "2026-11-21T15:44:37+00:00"
 },
 {
+"id": "a79374f6b1ee",
+"t": "",
+"title": "Finland border guard: crew of Sparta II cargo ship evacuating into life raft and rescue boat",
+"url": "https://www.financialjuice.com/News/9863055/Finland-border-guard-crew-of-Sparta-II-cargo-ship-evacuating-into-life-raft-and-rescue-boat.aspx",
+"pub": "2026-11-21T15:31:28+00:00",
+"src": "FinancialJuice",
+"kind": "market",
+"seen": "2026-11-21T19:13:53+00:00"
+},
+{
 "id": "691aeea036b1",
 "t": "",
 "title": "Goldman’s SpaceX Pitch Helps Solve AI Debt Puzzle: Credit Weekly",
@@ -8214,6 +8344,16 @@
 "seen": "2026-11-21T15:44:37+00:00"
 },
 {
+"id": "926516bb283e",
+"t": "",
+"title": "Rallybio Corp (RLYB.OQ) | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5tNFA2QlJyV3JGWFgtMEtEbWtIZmVkOTZIZ2hrOGpyWHdsdkNGYnY4NG83WGtRVVluX3pGRGx6VGU1VERDQVFzQmRocU1yTURtUWVzanIzSmkxNExZYVdB?oc=5",
+"pub": "2026-11-21T15:24:20+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-21T19:13:53+00:00"
+},
+{
 "id": "960689af35cf",
 "t": "",
 "title": "France calls for UN Security Council meeting to discuss enforcement of world court ruling on Myanmar: statement",
@@ -8222,6 +8362,16 @@
 "src": "FinancialJuice",
 "kind": "market",
 "seen": "2026-11-21T15:44:37+00:00"
+},
+{
+"id": "4c7cd035ed10",
+"t": "",
+"title": "France calls for UN Security Council meeting to discuss enforcement of world court ruling on Myanmar: statement",
+"url": "https://www.financialjuice.com/News/9863052/France-calls-for-UN-Security-Council-meeting-to-discuss-enforcement-of-world-court-ruling-on-Myanmar-statement.aspx",
+"pub": "2026-11-21T15:21:46+00:00",
+"src": "FinancialJuice",
+"kind": "market",
+"seen": "2026-11-21T19:13:53+00:00"
 },
 {
 "id": "009da9d0502f",
@@ -8244,6 +8394,16 @@
 "seen": "2026-11-21T18:15:18+00:00"
 },
 {
+"id": "23ecf51bcca0",
+"t": "",
+"title": "iShares Core S&P Small-Cap ETF (IJR.MX) | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5rVmhDc3NtYzlFbEpWRVVGSUN0UmdPY3ZZdGp6MmFUTUhSTjJuaHpVWTZZcVBiU2x4d0hENklGd3pCRzhwR2tuQmRWVjN2SnVxa2c5dFBUdXY?oc=5",
+"pub": "2026-11-21T15:15:24+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-21T19:13:53+00:00"
+},
+{
 "id": "42cd856fd89e",
 "t": "",
 "title": "Bitcoin rises 2.20% to $60,225.76",
@@ -8252,6 +8412,16 @@
 "src": "FinancialJuice",
 "kind": "market",
 "seen": "2026-11-21T15:13:59+00:00"
+},
+{
+"id": "09d59c006775",
+"t": "",
+"title": "Bitcoin rises 2.20% to $60,225.76",
+"url": "https://www.financialjuice.com/News/9863038/Bitcoin-rises-220-to-6022576.aspx",
+"pub": "2026-11-21T15:13:00+00:00",
+"src": "FinancialJuice",
+"kind": "market",
+"seen": "2026-11-21T19:13:53+00:00"
 },
 {
 "id": "fde09a1cc263",
@@ -8274,6 +8444,16 @@
 "seen": "2026-11-21T15:10:04+00:00"
 },
 {
+"id": "c82fa0b5a220",
+"t": "",
+"title": "Trump on Iran: I'm going to broker a lasting deal - Fox News interview",
+"url": "https://www.financialjuice.com/News/9863037/Trump-on-Iran-Im-going-to-broker-a-lasting-deal---Fox-News-interview.aspx",
+"pub": "2026-11-21T15:09:22+00:00",
+"src": "FinancialJuice",
+"kind": "market",
+"seen": "2026-11-21T19:13:53+00:00"
+},
+{
 "id": "b88225b1199a",
 "t": "",
 "title": "Trump on incoming Democratic Congress: could collaborate on credit card rates - Fox News interview",
@@ -8284,6 +8464,16 @@
 "seen": "2026-11-21T15:10:04+00:00"
 },
 {
+"id": "5e7f96308501",
+"t": "",
+"title": "Trump on incoming Democratic Congress: could collaborate on credit card rates - Fox News interview",
+"url": "https://www.financialjuice.com/News/9863036/Trump-on-incoming-Democratic-Congress-could-collaborate-on-credit-card-rates---Fox-News-interview.aspx",
+"pub": "2026-11-21T15:08:46+00:00",
+"src": "FinancialJuice",
+"kind": "market",
+"seen": "2026-11-21T19:13:53+00:00"
+},
+{
 "id": "536629d503e2",
 "t": "",
 "title": "US Centcom: Iran did not strike a U.S. F-16 fighter jet yesterday",
@@ -8292,6 +8482,16 @@
 "src": "FinancialJuice",
 "kind": "market",
 "seen": "2026-11-21T15:10:04+00:00"
+},
+{
+"id": "8645ff1cbb93",
+"t": "",
+"title": "US Centcom: Iran did not strike a U.S. F-16 fighter jet yesterday",
+"url": "https://www.financialjuice.com/News/9863032/US-Centcom-Iran-did-not-strike-a-US-F-16-fighter-jet-yesterday.aspx",
+"pub": "2026-11-21T14:46:40+00:00",
+"src": "FinancialJuice",
+"kind": "market",
+"seen": "2026-11-21T19:13:53+00:00"
 },
 {
 "id": "cabe591863f4",
@@ -8314,6 +8514,16 @@
 "seen": "2026-11-21T15:10:04+00:00"
 },
 {
+"id": "24b627ae946b",
+"t": "",
+"title": "Mehr citing Iranian deputy foreign minister Gharibabadi: US-imposed economic blockade an act of war, Iran will take necessary action to break it",
+"url": "https://www.financialjuice.com/News/9863025/Mehr-citing-Iranian-deputy-foreign-minister-Gharibabadi-US-imposed-economic-blockade-an-act-of-war-Iran-will-take-necessary-action-to-break-it.aspx",
+"pub": "2026-11-21T14:39:28+00:00",
+"src": "FinancialJuice",
+"kind": "market",
+"seen": "2026-11-21T19:13:53+00:00"
+},
+{
 "id": "873100a9a9d2",
 "t": "",
 "title": "Shenzhen Wants to Become a Cultural Capital",
@@ -8322,6 +8532,16 @@
 "src": "Bloomberg",
 "kind": "market",
 "seen": "2026-11-21T14:44:29+00:00"
+},
+{
+"id": "df38c07675b5",
+"t": "",
+"title": "296A.J3 - | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOajFEVnM1cm1jeDJJcW9od1l4ZVFHQWpsbUtqYUlIR1F1NTZPQ2xCanA5ekVuSmczRG04MXUtVGZXY2k0QlB4OGtnWVR1Z3dvNjFaeHdXWDVYeUNucFJtdXJzOWF1eFo1UU9ERWYtOWJ1eHh5MWdINXpKMXVmZVZuOEZheXRaRkt1aC1pZjF2WW0?oc=5",
+"pub": "2026-11-21T14:21:22+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-21T19:13:53+00:00"
 },
 {
 "id": "59c49f93e44e",
@@ -8344,6 +8564,16 @@
 "seen": "2026-11-21T14:44:29+00:00"
 },
 {
+"id": "ea6ff29ce966",
+"t": "",
+"title": "Iranian deputy foreign minister Gharibabadi: Qatari team visited Tehran last night for two-hour talks - Tasnim news agency",
+"url": "https://www.financialjuice.com/News/9863020/Iranian-deputy-foreign-minister-Gharibabadi-Qatari-team-visited-Tehran-last-night-for-two-hour-talks---Tasnim-news-agency.aspx",
+"pub": "2026-11-21T14:15:29+00:00",
+"src": "FinancialJuice",
+"kind": "market",
+"seen": "2026-11-21T19:13:53+00:00"
+},
+{
 "id": "62117edce88c",
 "t": "",
 "title": "Finland border guard: no confirmed details on Sparta II cargo but military materiel cannot be excluded",
@@ -8354,6 +8584,16 @@
 "seen": "2026-11-21T14:14:40+00:00"
 },
 {
+"id": "ba0e6b0a1e76",
+"t": "",
+"title": "Finland border guard: no confirmed details on Sparta II cargo but military materiel cannot be excluded",
+"url": "https://www.financialjuice.com/News/9863010/Finland-border-guard-no-confirmed-details-on-Sparta-II-cargo-but-military-materiel-cannot-be-excluded.aspx",
+"pub": "2026-11-21T13:58:20+00:00",
+"src": "FinancialJuice",
+"kind": "market",
+"seen": "2026-11-21T19:13:53+00:00"
+},
+{
 "id": "ab7395c1658a",
 "t": "",
 "title": "Finland border guard: cargo ship Sparta II linked to Russian military",
@@ -8362,6 +8602,16 @@
 "src": "FinancialJuice",
 "kind": "market",
 "seen": "2026-11-21T14:14:40+00:00"
+},
+{
+"id": "0702a9c4c546",
+"t": "",
+"title": "Finland border guard: cargo ship Sparta II linked to Russian military",
+"url": "https://www.financialjuice.com/News/9863009/Finland-border-guard-cargo-ship-Sparta-II-linked-to-Russian-military.aspx",
+"pub": "2026-11-21T13:57:02+00:00",
+"src": "FinancialJuice",
+"kind": "market",
+"seen": "2026-11-21T19:13:53+00:00"
 },
 {
 "id": "ce8a07a3f615",
@@ -8404,6 +8654,16 @@
 "seen": "2026-11-21T13:44:18+00:00"
 },
 {
+"id": "77b1bdc6d47d",
+"t": "",
+"title": "No immediate US confirmation of Iranian assertion that F-16 was damaged over Gulf",
+"url": "https://www.financialjuice.com/News/9863001/No-immediate-US-confirmation-of-Iranian-assertion-that-F-16-was-damaged-over-Gulf.aspx",
+"pub": "2026-11-21T13:28:51+00:00",
+"src": "FinancialJuice",
+"kind": "market",
+"seen": "2026-11-21T19:13:53+00:00"
+},
+{
 "id": "b4ffe169d590",
 "t": "",
 "title": "Iran’s army: its air defence missile damaged US F-16 fighter jet over Gulf, forcing emergency landing - state media",
@@ -8412,6 +8672,16 @@
 "src": "FinancialJuice",
 "kind": "market",
 "seen": "2026-11-21T13:44:18+00:00"
+},
+{
+"id": "1bcb2490b9f1",
+"t": "",
+"title": "Iran’s army: its air defence missile damaged US F-16 fighter jet over Gulf, forcing emergency landing - state media",
+"url": "https://www.financialjuice.com/News/9863000/Irans-army-its-air-defence-missile-damaged-US-F-16-fighter-jet-over-Gulf-forcing-emergency-landing---state-media.aspx",
+"pub": "2026-11-21T13:28:29+00:00",
+"src": "FinancialJuice",
+"kind": "market",
+"seen": "2026-11-21T19:13:53+00:00"
 },
 {
 "id": "a1aed4cdf95c",
@@ -8442,6 +8712,16 @@
 "src": "FinancialJuice",
 "kind": "market",
 "seen": "2026-11-21T13:15:23+00:00"
+},
+{
+"id": "54b5cdf76f55",
+"t": "",
+"title": "Saudi civil defense: danger has passed in Jazan",
+"url": "https://www.financialjuice.com/News/9862988/Saudi-civil-defense-danger-has-passed-in-Jazan.aspx",
+"pub": "2026-11-21T13:05:31+00:00",
+"src": "FinancialJuice",
+"kind": "market",
+"seen": "2026-11-21T19:13:53+00:00"
 },
 {
 "id": "264c46d2afa0",
@@ -8524,6 +8804,16 @@
 "seen": "2026-11-21T13:15:23+00:00"
 },
 {
+"id": "5febb8109a52",
+"t": "",
+"title": "Saudi civil defense issues warning of possible threat for Jazan",
+"url": "https://www.financialjuice.com/News/9862980/Saudi-civil-defense-issues-warning-of-possible-threat-for-Jazan.aspx",
+"pub": "2026-11-21T12:59:50+00:00",
+"src": "FinancialJuice",
+"kind": "market",
+"seen": "2026-11-21T19:13:53+00:00"
+},
+{
 "id": "5c94b4840466",
 "t": "",
 "title": "Anthropic Makes Its Public Market Debut",
@@ -8574,6 +8864,16 @@
 "seen": "2026-11-21T15:10:04+00:00"
 },
 {
+"id": "6a396d195da8",
+"t": "",
+"title": "Equitable Holdings Inc (EQH_pa) | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8zTmlFamZYbW5IcVlVQ1RsVzI4U2NpZW83QjJzdnJwTzE4OGVkdTV6OEVpMEdMWVZqYVJGbi1mbmJxRDdxYkpaZHZEbW95TmttNHhNOExqRTBla1NwRFdua04tM2RqbGJqTjNj?oc=5",
+"pub": "2026-11-21T12:34:27+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-21T19:13:53+00:00"
+},
+{
 "id": "7fd7be14e1b2",
 "t": "",
 "title": "White House reduces special status allowing staffers to remain in private sector - WSJ",
@@ -8582,6 +8882,16 @@
 "src": "FinancialJuice",
 "kind": "market",
 "seen": "2026-11-21T12:43:42+00:00"
+},
+{
+"id": "56efbb5e0712",
+"t": "",
+"title": "White House reduces special status allowing staffers to remain in private sector - WSJ",
+"url": "https://www.financialjuice.com/News/9862973/White-House-reduces-special-status-allowing-staffers-to-remain-in-private-sector---WSJ.aspx",
+"pub": "2026-11-21T12:18:34+00:00",
+"src": "FinancialJuice",
+"kind": "market",
+"seen": "2026-11-21T19:13:53+00:00"
 },
 {
 "id": "7ea093412264",
@@ -8594,6 +8904,16 @@
 "seen": "2026-11-21T12:10:49+00:00"
 },
 {
+"id": "6d67dd4f404d",
+"t": "",
+"title": "Zelenskiy: China summit was very unsuccessful for Russia",
+"url": "https://www.financialjuice.com/News/9862959/Zelenskiy-China-summit-was-very-unsuccessful-for-Russia.aspx",
+"pub": "2026-11-21T11:56:29+00:00",
+"src": "FinancialJuice",
+"kind": "market",
+"seen": "2026-11-21T19:13:53+00:00"
+},
+{
 "id": "9f798df6165d",
 "t": "",
 "title": "Zelenskiy: too early to tell if Ukraine will join Nato when war ends",
@@ -8602,6 +8922,16 @@
 "src": "FinancialJuice",
 "kind": "market",
 "seen": "2026-11-21T12:10:49+00:00"
+},
+{
+"id": "cc2ff9042f06",
+"t": "",
+"title": "Zelenskiy: too early to tell if Ukraine will join Nato when war ends",
+"url": "https://www.financialjuice.com/News/9862951/Zelenskiy-too-early-to-tell-if-Ukraine-will-join-Nato-when-war-ends.aspx",
+"pub": "2026-11-21T11:47:08+00:00",
+"src": "FinancialJuice",
+"kind": "market",
+"seen": "2026-11-21T19:13:53+00:00"
 },
 {
 "id": "e41db561ff2d",
@@ -8644,6 +8974,16 @@
 "seen": "2026-11-21T11:22:55+00:00"
 },
 {
+"id": "061a809b1e87",
+"t": "",
+"title": "Finland border guard: damaged ship has drifted from international waters into Finnish territory",
+"url": "https://www.financialjuice.com/News/9862943/Finland-border-guard-damaged-ship-has-drifted-from-international-waters-into-Finnish-territory.aspx",
+"pub": "2026-11-21T11:18:26+00:00",
+"src": "FinancialJuice",
+"kind": "market",
+"seen": "2026-11-21T19:13:53+00:00"
+},
+{
 "id": "72d040686922",
 "t": "",
 "title": "Finland border guard: russian cargo vessel ablaze in eastern Gulf of Finland",
@@ -8652,6 +8992,16 @@
 "src": "FinancialJuice",
 "kind": "market",
 "seen": "2026-11-21T11:22:55+00:00"
+},
+{
+"id": "a2c84d75130b",
+"t": "",
+"title": "Finland border guard: russian cargo vessel ablaze in eastern Gulf of Finland",
+"url": "https://www.financialjuice.com/News/9862942/Finland-border-guard-russian-cargo-vessel-ablaze-in-eastern-Gulf-of-Finland.aspx",
+"pub": "2026-11-21T11:17:33+00:00",
+"src": "FinancialJuice",
+"kind": "market",
+"seen": "2026-11-21T19:13:53+00:00"
 },
 {
 "id": "1dcf02d68957",
@@ -8674,6 +9024,16 @@
 "seen": "2026-11-21T11:14:42+00:00"
 },
 {
+"id": "830ed7765700",
+"t": "",
+"title": "Iran releases footage of new underground missile hub with double-launcher: state television",
+"url": "https://www.financialjuice.com/News/9862936/Iran-releases-footage-of-new-underground-missile-hub-with-double-launcher-state-television.aspx",
+"pub": "2026-11-21T11:04:11+00:00",
+"src": "FinancialJuice",
+"kind": "market",
+"seen": "2026-11-21T19:13:53+00:00"
+},
+{
 "id": "01d90dfd315e",
 "t": "",
 "title": "Iran navy: oil tanker catches fire after striking naval mine east of Strait of Hormuz - state TV",
@@ -8682,6 +9042,16 @@
 "src": "FinancialJuice",
 "kind": "market",
 "seen": "2026-11-21T11:14:42+00:00"
+},
+{
+"id": "a4e7a7f0938e",
+"t": "",
+"title": "Iran navy: oil tanker catches fire after striking naval mine east of Strait of Hormuz - state TV",
+"url": "https://www.financialjuice.com/News/9862934/Iran-navy-oil-tanker-catches-fire-after-striking-naval-mine-east-of-Strait-of-Hormuz---state-TV.aspx",
+"pub": "2026-11-21T10:56:47+00:00",
+"src": "FinancialJuice",
+"kind": "market",
+"seen": "2026-11-21T19:13:53+00:00"
 },
 {
 "id": "8bf9b9c642d5",
@@ -8724,6 +9094,16 @@
 "seen": "2026-11-21T10:44:43+00:00"
 },
 {
+"id": "789769d7f14d",
+"t": "",
+"title": "France calls latest EU budget proposal \"very disappointing,\" not foundation for agreement – French presidency office",
+"url": "https://www.financialjuice.com/News/9862931/France-calls-latest-EU-budget-proposal-very-disappointing-not-foundation-for-agreement--French-presidency-office.aspx",
+"pub": "2026-11-21T10:40:05+00:00",
+"src": "FinancialJuice",
+"kind": "market",
+"seen": "2026-11-21T19:13:53+00:00"
+},
+{
 "id": "30ed5a4fd84f",
 "t": "",
 "title": "Russia's Leningrad region governor: cargo ship bound for Kaliningrad hit by two drones in neutral waters",
@@ -8732,6 +9112,16 @@
 "src": "FinancialJuice",
 "kind": "market",
 "seen": "2026-11-21T10:14:08+00:00"
+},
+{
+"id": "1562221beb04",
+"t": "",
+"title": "Russia's Leningrad region governor: cargo ship bound for Kaliningrad hit by two drones in neutral waters",
+"url": "https://www.financialjuice.com/News/9862922/Russias-Leningrad-region-governor-cargo-ship-bound-for-Kaliningrad-hit-by-two-drones-in-neutral-waters.aspx",
+"pub": "2026-11-21T10:06:12+00:00",
+"src": "FinancialJuice",
+"kind": "market",
+"seen": "2026-11-21T19:13:53+00:00"
 },
 {
 "id": "07f9fb1da45e",
@@ -8804,6 +9194,16 @@
 "seen": "2026-11-21T08:50:41+00:00"
 },
 {
+"id": "ceddb08499c4",
+"t": "",
+"title": "EU's Von der Leyen: if Russia aims to undermine support for Ukraine, it will have the opposite effect; our determination will strengthen",
+"url": "https://www.financialjuice.com/News/9862911/EUs-Von-der-Leyen-if-Russia-aims-to-undermine-support-for-Ukraine-it-will-have-the-opposite-effect-our-determination-will-strengthen.aspx",
+"pub": "2026-11-21T08:47:32+00:00",
+"src": "FinancialJuice",
+"kind": "market",
+"seen": "2026-11-21T19:13:53+00:00"
+},
+{
 "id": "ea545be29ea6",
 "t": "",
 "title": "EU's Von der Leyen: soon we will present new European security plan to boost preparedness and deterrence",
@@ -8812,6 +9212,16 @@
 "src": "FinancialJuice",
 "kind": "market",
 "seen": "2026-11-21T08:50:41+00:00"
+},
+{
+"id": "5564e96d7937",
+"t": "",
+"title": "EU's Von der Leyen: soon we will present new European security plan to boost preparedness and deterrence",
+"url": "https://www.financialjuice.com/News/9862909/EUs-Von-der-Leyen-soon-we-will-present-new-European-security-plan-to-boost-preparedness-and-deterrence.aspx",
+"pub": "2026-11-21T08:47:05+00:00",
+"src": "FinancialJuice",
+"kind": "market",
+"seen": "2026-11-21T19:13:53+00:00"
 },
 {
 "id": "dc0781484dbf",
@@ -8824,6 +9234,16 @@
 "seen": "2026-11-21T08:50:41+00:00"
 },
 {
+"id": "e1bcdc1aca80",
+"t": "",
+"title": "EU's von der Leyen: Russia's hybrid threats are becoming more real, less hybrid; we have tools to respond",
+"url": "https://www.financialjuice.com/News/9862908/EUs-von-der-Leyen-Russias-hybrid-threats-are-becoming-more-real-less-hybrid-we-have-tools-to-respond.aspx",
+"pub": "2026-11-21T08:46:45+00:00",
+"src": "FinancialJuice",
+"kind": "market",
+"seen": "2026-11-21T19:13:53+00:00"
+},
+{
 "id": "a1bd63aa2d89",
 "t": "",
 "title": "EU's Von der Leyen: we stand in full solidarity with Denmark",
@@ -8834,6 +9254,16 @@
 "seen": "2026-11-21T08:50:41+00:00"
 },
 {
+"id": "a9dfa3619527",
+"t": "",
+"title": "EU's Von der Leyen: we stand in full solidarity with Denmark",
+"url": "https://www.financialjuice.com/News/9862907/EUs-Von-der-Leyen-we-stand-in-full-solidarity-with-Denmark.aspx",
+"pub": "2026-11-21T08:45:51+00:00",
+"src": "FinancialJuice",
+"kind": "market",
+"seen": "2026-11-21T19:13:53+00:00"
+},
+{
 "id": "0ecf2b695b9e",
 "t": "",
 "title": "EU's Von Der Leyen: strongly condemn assassination attempt on US-Ukrainian citizen in Denmark by Russian intelligence services",
@@ -8842,6 +9272,16 @@
 "src": "FinancialJuice",
 "kind": "market",
 "seen": "2026-11-21T08:50:41+00:00"
+},
+{
+"id": "ec370fcd39a0",
+"t": "",
+"title": "EU's Von Der Leyen: strongly condemn assassination attempt on US-Ukrainian citizen in Denmark by Russian intelligence services",
+"url": "https://www.financialjuice.com/News/9862906/EUs-Von-Der-Leyen-strongly-condemn-assassination-attempt-on-US-Ukrainian-citizen-in-Denmark-by-Russian-intelligence-services.aspx",
+"pub": "2026-11-21T08:45:37+00:00",
+"src": "FinancialJuice",
+"kind": "market",
+"seen": "2026-11-21T19:13:53+00:00"
 },
 {
 "id": "7c528fadd502",
@@ -8862,6 +9302,16 @@
 "src": "FinancialJuice",
 "kind": "market",
 "seen": "2026-11-21T08:44:24+00:00"
+},
+{
+"id": "dc17a4e9cc5c",
+"t": "",
+"title": "Ukmto reports incident 17 nm east of Oman's Khasab",
+"url": "https://www.financialjuice.com/News/9862897/Ukmto-reports-incident-17-nm-east-of-Omans-Khasab.aspx",
+"pub": "2026-11-21T08:16:47+00:00",
+"src": "FinancialJuice",
+"kind": "market",
+"seen": "2026-11-21T19:13:53+00:00"
 },
 {
 "id": "e6c15c6f160c",
@@ -8894,6 +9344,16 @@
 "seen": "2026-11-21T07:44:39+00:00"
 },
 {
+"id": "ea0fe3d5d57c",
+"t": "",
+"title": "UKMTO: no injuries reported, environmental impact unclear",
+"url": "https://www.financialjuice.com/News/9862893/UKMTO-no-injuries-reported-environmental-impact-unclear.aspx",
+"pub": "2026-11-21T07:42:26+00:00",
+"src": "FinancialJuice",
+"kind": "market",
+"seen": "2026-11-21T19:13:53+00:00"
+},
+{
 "id": "97e42f49152e",
 "t": "",
 "title": "Paschi Deems Intesa’s Offer Fair Yet Value Not Fully Reflected",
@@ -8914,6 +9374,16 @@
 "seen": "2026-11-21T07:44:39+00:00"
 },
 {
+"id": "384ed33731b0",
+"t": "",
+"title": "Ukmto: tanker leaving strait of Hormuz struck on stern by unidentified projectile",
+"url": "https://www.financialjuice.com/News/9862892/Ukmto-tanker-leaving-strait-of-Hormuz-struck-on-stern-by-unidentified-projectile.aspx",
+"pub": "2026-11-21T07:41:54+00:00",
+"src": "FinancialJuice",
+"kind": "market",
+"seen": "2026-11-21T19:13:53+00:00"
+},
+{
 "id": "25f291dbd8cc",
 "t": "",
 "title": "UKMTO reports incident 11nm north of Oman's Khasab",
@@ -8922,6 +9392,16 @@
 "src": "FinancialJuice",
 "kind": "market",
 "seen": "2026-11-21T07:44:39+00:00"
+},
+{
+"id": "d890917e8c70",
+"t": "",
+"title": "UKMTO reports incident 11nm north of Oman's Khasab",
+"url": "https://www.financialjuice.com/News/9862891/UKMTO-reports-incident-11nm-north-of-Omans-Khasab.aspx",
+"pub": "2026-11-21T07:41:28+00:00",
+"src": "FinancialJuice",
+"kind": "market",
+"seen": "2026-11-21T19:13:53+00:00"
 },
 {
 "id": "81c915f664f9",
@@ -9214,6 +9694,16 @@
 "seen": "2026-11-21T02:43:50+00:00"
 },
 {
+"id": "43c23388e762",
+"t": "",
+"title": "White House: Federal contractors must promptly inform White House and contracting agencies of any pending or upcoming congressional requests regarding contractors’ communications",
+"url": "https://www.financialjuice.com/News/9862780/White-House-Federal-contractors-must-promptly-inform-White-House-and-contracting-agencies-of-any-pending-or-upcoming-congressional-requests-regarding-contractors-communications.aspx",
+"pub": "2026-11-21T02:37:15+00:00",
+"src": "FinancialJuice",
+"kind": "market",
+"seen": "2026-11-21T19:13:53+00:00"
+},
+{
 "id": "ba1a2caaa4a2",
 "t": "",
 "title": "CVS Health Corporation (CVS) | Stock Price & Latest News - Reuters",
@@ -9242,6 +9732,16 @@
 "src": "FinancialJuice",
 "kind": "market",
 "seen": "2026-11-21T02:43:50+00:00"
+},
+{
+"id": "78683c2aa6a7",
+"t": "",
+"title": "Trump signs executive order on safeguarding executive privileges, boosting efficiency in federal contracting - White House",
+"url": "https://www.financialjuice.com/News/9862779/Trump-signs-executive-order-on-safeguarding-executive-privileges-boosting-efficiency-in-federal-contracting---White-House.aspx",
+"pub": "2026-11-21T02:35:46+00:00",
+"src": "FinancialJuice",
+"kind": "market",
+"seen": "2026-11-21T19:13:53+00:00"
 },
 {
 "id": "04a394a1ab05",
@@ -9292,6 +9792,16 @@
 "src": "FinancialJuice",
 "kind": "market",
 "seen": "2026-11-21T02:33:27+00:00"
+},
+{
+"id": "f844fc3d8375",
+"t": "",
+"title": "FBI national crime information center hacked: CNN",
+"url": "https://www.financialjuice.com/News/9862756/FBI-national-crime-information-center-hacked-CNN.aspx",
+"pub": "2026-11-21T02:16:47+00:00",
+"src": "FinancialJuice",
+"kind": "market",
+"seen": "2026-11-21T19:13:53+00:00"
 },
 {
 "id": "f334935a6553",
@@ -9524,6 +10034,16 @@
 "seen": "2026-11-20T23:44:15+00:00"
 },
 {
+"id": "082133585d6e",
+"t": "",
+"title": "Saudi-led coalition: intercepts and destroys three ballistic missiles launched by Yemen's Houthis toward Riyadh",
+"url": "https://www.financialjuice.com/News/9862601/Saudi-led-coalition-intercepts-and-destroys-three-ballistic-missiles-launched-by-Yemens-Houthis-toward-Riyadh.aspx",
+"pub": "2026-11-20T23:42:01+00:00",
+"src": "FinancialJuice",
+"kind": "market",
+"seen": "2026-11-21T19:13:53+00:00"
+},
+{
 "id": "6cfd54ee7337",
 "t": "",
 "title": "Michael Page PLC (PAGE.L) | Stock Price & Latest News - Reuters",
@@ -9542,6 +10062,16 @@
 "src": "FinancialJuice",
 "kind": "market",
 "seen": "2026-11-20T23:44:15+00:00"
+},
+{
+"id": "1bfd1b94588b",
+"t": "",
+"title": "Saudi Arabia's civil defence: danger has passed in Riyadh",
+"url": "https://www.financialjuice.com/News/9862599/Saudi-Arabias-civil-defence-danger-has-passed-in-Riyadh.aspx",
+"pub": "2026-11-20T23:22:45+00:00",
+"src": "FinancialJuice",
+"kind": "market",
+"seen": "2026-11-21T19:13:53+00:00"
 },
 {
 "id": "b984156a905a",
@@ -9564,6 +10094,16 @@
 "seen": "2026-11-20T23:14:14+00:00"
 },
 {
+"id": "efba4fd61b9e",
+"t": "",
+"title": "Huge boom heard in Riyadh: source witness",
+"url": "https://www.financialjuice.com/News/9862587/Huge-boom-heard-in-Riyadh-source-witness.aspx",
+"pub": "2026-11-20T23:14:18+00:00",
+"src": "FinancialJuice",
+"kind": "market",
+"seen": "2026-11-21T19:13:53+00:00"
+},
+{
 "id": "2cbac4f2926a",
 "t": "",
 "title": "Opinion | Why China Wants to Control a Yacht Maker",
@@ -9584,6 +10124,16 @@
 "seen": "2026-11-20T23:14:14+00:00"
 },
 {
+"id": "a1252596f80f",
+"t": "",
+"title": "Saudi civil defence issues another warning of potential risk in Riyadh",
+"url": "https://www.financialjuice.com/News/9862586/Saudi-civil-defence-issues-another-warning-of-potential-risk-in-Riyadh.aspx",
+"pub": "2026-11-20T23:10:40+00:00",
+"src": "FinancialJuice",
+"kind": "market",
+"seen": "2026-11-21T19:13:53+00:00"
+},
+{
 "id": "ddc0a9558de7",
 "t": "",
 "title": "Defense secretary Pete Hegseth imposes new limits on U.S.-Canada defense ties - Washington Post",
@@ -9592,6 +10142,16 @@
 "src": "FinancialJuice",
 "kind": "market",
 "seen": "2026-11-20T23:14:14+00:00"
+},
+{
+"id": "9fe9572983e1",
+"t": "",
+"title": "Defense secretary Pete Hegseth imposes new limits on U.S.-Canada defense ties - Washington Post",
+"url": "https://www.financialjuice.com/News/9862585/Defense-secretary-Pete-Hegseth-imposes-new-limits-on-US-Canada-defense-ties---Washington-Post.aspx",
+"pub": "2026-11-20T23:10:31+00:00",
+"src": "FinancialJuice",
+"kind": "market",
+"seen": "2026-11-21T19:13:53+00:00"
 },
 {
 "id": "5aa6c4205c69",
@@ -9614,6 +10174,16 @@
 "seen": "2026-11-20T23:14:14+00:00"
 },
 {
+"id": "ecf712e7b5dd",
+"t": "",
+"title": "Saudi civil defence: danger over in As Sulayyil governorate",
+"url": "https://www.financialjuice.com/News/9862584/Saudi-civil-defence-danger-over-in-As-Sulayyil-governorate.aspx",
+"pub": "2026-11-20T23:06:14+00:00",
+"src": "FinancialJuice",
+"kind": "market",
+"seen": "2026-11-21T19:13:53+00:00"
+},
+{
 "id": "9c6d4920e008",
 "t": "",
 "title": "Saudi Arabia: danger has passed in Riyadh",
@@ -9622,6 +10192,16 @@
 "src": "FinancialJuice",
 "kind": "market",
 "seen": "2026-11-20T23:14:14+00:00"
+},
+{
+"id": "422153bbd6a6",
+"t": "",
+"title": "Saudi Arabia: danger has passed in Riyadh",
+"url": "https://www.financialjuice.com/News/9862583/Saudi-Arabia-danger-has-passed-in-Riyadh.aspx",
+"pub": "2026-11-20T23:03:11+00:00",
+"src": "FinancialJuice",
+"kind": "market",
+"seen": "2026-11-21T19:13:53+00:00"
 },
 {
 "id": "53dd85598e40",
@@ -9644,6 +10224,16 @@
 "seen": "2026-11-20T23:14:14+00:00"
 },
 {
+"id": "c31950f8b45d",
+"t": "",
+"title": "Saudi civil defence issues warning of possible threat in As Sulayyil governorate",
+"url": "https://www.financialjuice.com/News/9862563/Saudi-civil-defence-issues-warning-of-possible-threat-in-As-Sulayyil-governorate.aspx",
+"pub": "2026-11-20T22:57:15+00:00",
+"src": "FinancialJuice",
+"kind": "market",
+"seen": "2026-11-21T19:13:53+00:00"
+},
+{
 "id": "ab1651405d7b",
 "t": "",
 "title": "Saudi civil defence issues warning over possible threat in Riyadh",
@@ -9652,6 +10242,16 @@
 "src": "FinancialJuice",
 "kind": "market",
 "seen": "2026-11-20T23:14:14+00:00"
+},
+{
+"id": "2db094265417",
+"t": "",
+"title": "Saudi civil defence issues warning over possible threat in Riyadh",
+"url": "https://www.financialjuice.com/News/9862562/Saudi-civil-defence-issues-warning-over-possible-threat-in-Riyadh.aspx",
+"pub": "2026-11-20T22:54:40+00:00",
+"src": "FinancialJuice",
+"kind": "market",
+"seen": "2026-11-21T19:13:53+00:00"
 },
 {
 "id": "d5289a6309f9",
@@ -9674,6 +10274,16 @@
 "seen": "2026-11-20T23:14:14+00:00"
 },
 {
+"id": "5cb6e7b14304",
+"t": "",
+"title": "Databricks in preliminary discussions to secure funding at $225 billion valuation: WSJ",
+"url": "https://www.financialjuice.com/News/9862561/Databricks-in-preliminary-discussions-to-secure-funding-at-225-billion-valuation-WSJ.aspx",
+"pub": "2026-11-20T22:50:48+00:00",
+"src": "FinancialJuice",
+"kind": "market",
+"seen": "2026-11-21T19:13:53+00:00"
+},
+{
 "id": "308330c82a60",
 "t": "",
 "title": "Databricks in early discussions to secure funding at $225 billion valuation: WSJ",
@@ -9682,6 +10292,16 @@
 "src": "FinancialJuice",
 "kind": "market",
 "seen": "2026-11-20T23:14:14+00:00"
+},
+{
+"id": "622ed70381e9",
+"t": "",
+"title": "Databricks in early discussions to secure funding at $225 billion valuation: WSJ",
+"url": "https://www.financialjuice.com/News/9862560/Databricks-in-early-discussions-to-secure-funding-at-225-billion-valuation-WSJ.aspx",
+"pub": "2026-11-20T22:50:46+00:00",
+"src": "FinancialJuice",
+"kind": "market",
+"seen": "2026-11-21T19:13:53+00:00"
 },
 {
 "id": "335ca72bcd1a",
@@ -9752,6 +10372,16 @@
 "src": "FinancialJuice",
 "kind": "market",
 "seen": "2026-11-20T22:44:38+00:00"
+},
+{
+"id": "5aa8a30dcb88",
+"t": "",
+"title": "Agriculture department hacked: NBC News",
+"url": "https://www.financialjuice.com/News/9862543/Agriculture-department-hacked-NBC-News.aspx",
+"pub": "2026-11-20T22:26:13+00:00",
+"src": "FinancialJuice",
+"kind": "market",
+"seen": "2026-11-21T19:13:53+00:00"
 },
 {
 "id": "91964bf33a76",
@@ -10382,636 +11012,6 @@
 "src": "FinancialJuice",
 "kind": "market",
 "seen": "2026-11-20T22:14:08+00:00"
-},
-{
-"id": "132d07bb3af6",
-"t": "",
-"title": "ZT CFTC Positions Week of November 17th - FJElite",
-"url": "https://www.financialjuice.com/News/9862448/ZT-CFTC-Positions-Week-of-November-17th---FJElite.aspx?xy=rss",
-"pub": "2026-11-20T21:14:53+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-20T21:15:37+00:00"
-},
-{
-"id": "13661859acc4",
-"t": "",
-"title": "ZT CFTC Positions Week of November 17th - FJElite",
-"url": "https://www.financialjuice.com/News/9862448/ZT-CFTC-Positions-Week-of-November-17th---FJElite.aspx",
-"pub": "2026-11-20T21:14:53+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-20T22:14:08+00:00"
-},
-{
-"id": "50699686145e",
-"t": "",
-"title": "VIX CFTC Positions Week of November 17th - FJElite",
-"url": "https://www.financialjuice.com/News/9862447/VIX-CFTC-Positions-Week-of-November-17th---FJElite.aspx?xy=rss",
-"pub": "2026-11-20T21:14:12+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-20T21:15:37+00:00"
-},
-{
-"id": "239dde6d9713",
-"t": "",
-"title": "VIX CFTC Positions Week of November 17th - FJElite",
-"url": "https://www.financialjuice.com/News/9862447/VIX-CFTC-Positions-Week-of-November-17th---FJElite.aspx",
-"pub": "2026-11-20T21:14:12+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-20T22:14:08+00:00"
-},
-{
-"id": "653a01ce518f",
-"t": "",
-"title": "NQ CFTC Positions Week of November 17th - FJElite",
-"url": "https://www.financialjuice.com/News/9862446/NQ-CFTC-Positions-Week-of-November-17th---FJElite.aspx?xy=rss",
-"pub": "2026-11-20T21:12:16+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-20T21:15:37+00:00"
-},
-{
-"id": "7530a4891371",
-"t": "",
-"title": "NQ CFTC Positions Week of November 17th - FJElite",
-"url": "https://www.financialjuice.com/News/9862446/NQ-CFTC-Positions-Week-of-November-17th---FJElite.aspx",
-"pub": "2026-11-20T21:12:16+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-20T22:14:08+00:00"
-},
-{
-"id": "32fe612c525a",
-"t": "",
-"title": "ES CFTC Positions Week of November 17th - FJElite",
-"url": "https://www.financialjuice.com/News/9862445/ES-CFTC-Positions-Week-of-November-17th---FJElite.aspx?xy=rss",
-"pub": "2026-11-20T21:11:49+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-20T21:15:37+00:00"
-},
-{
-"id": "32db3d6c680c",
-"t": "",
-"title": "ES CFTC Positions Week of November 17th - FJElite",
-"url": "https://www.financialjuice.com/News/9862445/ES-CFTC-Positions-Week-of-November-17th---FJElite.aspx",
-"pub": "2026-11-20T21:11:49+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-20T22:14:08+00:00"
-},
-{
-"id": "732c3775018b",
-"t": "",
-"title": "WTI CFTC Positions Week of November 17th - FJElite",
-"url": "https://www.financialjuice.com/News/9862444/WTI-CFTC-Positions-Week-of-November-17th---FJElite.aspx?xy=rss",
-"pub": "2026-11-20T21:11:27+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-20T21:15:37+00:00"
-},
-{
-"id": "1be2b19ef3a7",
-"t": "",
-"title": "WTI CFTC Positions Week of November 17th - FJElite",
-"url": "https://www.financialjuice.com/News/9862444/WTI-CFTC-Positions-Week-of-November-17th---FJElite.aspx",
-"pub": "2026-11-20T21:11:27+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-20T22:14:08+00:00"
-},
-{
-"id": "b0b4eedff50c",
-"t": "",
-"title": "Copper CFTC Positions Week of November 17th - FJElite",
-"url": "https://www.financialjuice.com/News/9862443/Copper-CFTC-Positions-Week-of-November-17th---FJElite.aspx?xy=rss",
-"pub": "2026-11-20T21:11:02+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-20T21:15:37+00:00"
-},
-{
-"id": "3e1436247195",
-"t": "",
-"title": "Copper CFTC Positions Week of November 17th - FJElite",
-"url": "https://www.financialjuice.com/News/9862443/Copper-CFTC-Positions-Week-of-November-17th---FJElite.aspx",
-"pub": "2026-11-20T21:11:02+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-20T22:14:08+00:00"
-},
-{
-"id": "716920b1a83e",
-"t": "",
-"title": "Gold CFTC Positions Week of November 17th - FJElite",
-"url": "https://www.financialjuice.com/News/9862442/Gold-CFTC-Positions-Week-of-November-17th---FJElite.aspx?xy=rss",
-"pub": "2026-11-20T21:10:06+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-20T21:15:37+00:00"
-},
-{
-"id": "cc7067759602",
-"t": "",
-"title": "Gold CFTC Positions Week of November 17th - FJElite",
-"url": "https://www.financialjuice.com/News/9862442/Gold-CFTC-Positions-Week-of-November-17th---FJElite.aspx",
-"pub": "2026-11-20T21:10:06+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-20T22:14:08+00:00"
-},
-{
-"id": "09d79f9577cb",
-"t": "",
-"title": "US: Targeting key “oil trustees” that the Iranian regime relies on.",
-"url": "https://www.financialjuice.com/News/9862441/US-Targeting-key-oil-trustees-that-the-Iranian-regime-relies-on.aspx?xy=rss",
-"pub": "2026-11-20T21:09:04+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-20T21:15:37+00:00"
-},
-{
-"id": "820920a8ccd3",
-"t": "",
-"title": "US: Targeting key “oil trustees” that the Iranian regime relies on.",
-"url": "https://www.financialjuice.com/News/9862441/US-Targeting-key-oil-trustees-that-the-Iranian-regime-relies-on.aspx",
-"pub": "2026-11-20T21:09:04+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-20T22:14:08+00:00"
-},
-{
-"id": "c1e5edac8890",
-"t": "",
-"title": "Peterson: The Fed's chairman sees an AI revolution coming. Now he has to figure out what it means",
-"url": "https://www.cnbc.com/2026/11/16/kevin-warsh-fed-ai-jobs-productivity-interest-rateshtml.html",
-"pub": "2026-11-20T21:07:08+00:00",
-"src": "CNBC",
-"kind": "market",
-"seen": "2026-11-20T21:15:37+00:00"
-},
-{
-"id": "b97d0587c7b3",
-"t": "",
-"title": "CrowdStrike Is in Talks to Buy Cybersecurity Firm Zscaler",
-"url": "https://www.bloomberg.com/news/articles/2026-11-20/crowdstrike-is-in-talks-to-buy-cybersecurity-firm-zscaler",
-"pub": "2026-11-20T21:05:11+00:00",
-"src": "Bloomberg",
-"kind": "market",
-"seen": "2026-11-20T21:15:37+00:00"
-},
-{
-"id": "ea06fb15dfc5",
-"t": "",
-"title": "S&P 500, Dow Jones close in correction territory.",
-"url": "https://www.financialjuice.com/News/9862440/SP-500-Dow-Jones-close-in-correction-territory.aspx?xy=rss",
-"pub": "2026-11-20T21:04:56+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-20T21:15:37+00:00"
-},
-{
-"id": "8ace2741dcbe",
-"t": "",
-"title": "S&P 500, Dow Jones close in correction territory.",
-"url": "https://www.financialjuice.com/News/9862440/SP-500-Dow-Jones-close-in-correction-territory.aspx",
-"pub": "2026-11-20T21:04:56+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-20T22:14:08+00:00"
-},
-{
-"id": "1eb7507f8cbe",
-"t": "",
-"title": "Gap names new Athleta CEO, says Old Navy turnaround is seeing signs of progress",
-"url": "https://www.cnbc.com/2026/11/19/gap-gap-q3-2026-earnings.html",
-"pub": "2026-11-20T21:04:48+00:00",
-"src": "CNBC",
-"kind": "market",
-"seen": "2026-11-21T01:14:39+00:00"
-},
-{
-"id": "de6d79316c43",
-"t": "",
-"title": "Hedge Funds Slash Bullish Bets on European Diesel To Wartime Low",
-"url": "https://www.bloomberg.com/news/articles/2026-11-20/hedge-funds-slash-bullish-bets-on-european-diesel-to-wartime-low",
-"pub": "2026-11-20T21:03:51+00:00",
-"src": "Bloomberg",
-"kind": "market",
-"seen": "2026-11-20T21:15:37+00:00"
-},
-{
-"id": "54158c195ed6",
-"t": "",
-"title": "Anthropic’s IPO Bust Deepens $4 Trillion AI Wipeout on Wall Street",
-"url": "https://www.wsj.com/finance/stocks/anthropics-ipo-bust-punctuates-4-trillion-ai-wipeout-on-wall-street-f1f1ec90?mod=rss_markets_main",
-"pub": "2026-11-20T21:03:00+00:00",
-"src": "WSJ",
-"kind": "market",
-"seen": "2026-11-20T21:15:37+00:00"
-},
-{
-"id": "b93affff06c7",
-"t": "",
-"title": "Fear of Missing Out Driving Young Investors: Chaudhuri",
-"url": "https://www.bloomberg.com/news/videos/2026-11-20/fear-of-missing-out-driving-young-investors-chaudhuri-video",
-"pub": "2026-11-20T21:01:57+00:00",
-"src": "Bloomberg",
-"kind": "market",
-"seen": "2026-11-20T21:15:37+00:00"
-},
-{
-"id": "24e9a318accc",
-"t": "",
-"title": "Anthropic CEO Vacations at Italian Resort After Public Listing",
-"url": "https://www.bloomberg.com/news/articles/2026-11-20/anthropic-ceo-vacations-at-italian-resort-after-public-listing",
-"pub": "2026-11-20T20:57:42+00:00",
-"src": "Bloomberg",
-"kind": "market",
-"seen": "2026-11-20T21:15:37+00:00"
-},
-{
-"id": "13a7f2c894cb",
-"t": "",
-"title": "New Zealand Dollar Hits Lowest Since Global Financial Crisis",
-"url": "https://www.bloomberg.com/news/articles/2026-11-20/new-zealand-dollar-hits-lowest-since-global-financial-crisis",
-"pub": "2026-11-20T20:57:36+00:00",
-"src": "Bloomberg",
-"kind": "market",
-"seen": "2026-11-20T21:15:37+00:00"
-},
-{
-"id": "dbb3fb805837",
-"t": "",
-"title": "Scherzer & Co AG (PZSG.SG) | Stock Price & Latest News - Reuters",
-"url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQOWo0R3dBYUNSUThpUUNzdWhfQmRZRmZXMVVoNENPamFtX2JQTlFqUzEzQjNPNU1Hb0kwZDJuTWRmblM2U1V0RzR6X3VOUExnQ2RWQUVZQzUyLXJHc1Nyb2hjZ1N0eFM4QU1sSko4cWVuU01VS25RNk1ObUJDQmhpclN2cWk?oc=5",
-"pub": "2026-11-20T20:55:19+00:00",
-"src": "Reuters",
-"kind": "market",
-"seen": "2026-11-21T01:14:39+00:00"
-},
-{
-"id": "5601e307a719",
-"t": "",
-"title": "Sahakol Equipment PCL (SQ.BK) | Stock Price & Latest News - Reuters",
-"url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBOUmVGZGZSY3NGUXRQcmVEczY3NW1BN1dDS284RHRhVTN5c2dQTUhlcW5hMWhka3NXbFVXQ3hYZW54cmIweWdURnhoQ1lwQkF1TFVZZHZpNm4zTl9VQXZtUWtNYm4xU3R5SkZTWQ?oc=5",
-"pub": "2026-11-20T20:55:04+00:00",
-"src": "Reuters",
-"kind": "market",
-"seen": "2026-11-21T00:44:38+00:00"
-},
-{
-"id": "c53f24af5bae",
-"t": "",
-"title": "BDOUF.GTC - | Stock Price & Latest News - Reuters",
-"url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPaE5ZQkltNjJHQjBETnZnOWFyck5BNG5Penp3emtUU1NVTEdWOFNBejlPbk5tOERoY05HYkxtVlpqMDlhaXU5dFpuZ2RJanRIYjFUMVctMkt6VjdPZlFYaDV0TmNWYWp3SE1xbUJzR2tIanBZdnhLenNPZXdYQ3ROVHFrblBhNnM?oc=5",
-"pub": "2026-11-20T20:54:49+00:00",
-"src": "Reuters",
-"kind": "market",
-"seen": "2026-11-21T12:14:13+00:00"
-},
-{
-"id": "772c1fb59bc4",
-"t": "",
-"title": "Avery Dennison Corp (AVY.A) | Stock Price & Latest News - Reuters",
-"url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBSQU5BZDJZY2NLRXRXLWxhZk9TYVV1Q0g4ZHJlbTNLQ1FpNzRjZ0c2Q0ZPWFBCb2Fyek44UHNDZlQ4V1hHOFlaYjBidE05cmJoa0NkQ29IQVV4R1Y0UDV5YUhYNDhtNm1UTUp1RQ?oc=5",
-"pub": "2026-11-20T20:52:45+00:00",
-"src": "Reuters",
-"kind": "market",
-"seen": "2026-11-21T04:34:44+00:00"
-},
-{
-"id": "6991535d517f",
-"t": "",
-"title": "MOC Imbalance",
-"url": "https://www.financialjuice.com/News/9862436/MOC-Imbalance.aspx?xy=rss",
-"pub": "2026-11-20T20:50:30+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-20T21:15:37+00:00"
-},
-{
-"id": "8ec234f836a7",
-"t": "",
-"title": "MOC Imbalance",
-"url": "https://www.financialjuice.com/News/9862436/MOC-Imbalance.aspx",
-"pub": "2026-11-20T20:50:30+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-20T22:14:08+00:00"
-},
-{
-"id": "12c121900b18",
-"t": "",
-"title": "Bayer’s $7.25 Billion Roundup Settlement Approved by Judge",
-"url": "https://www.bloomberg.com/news/articles/2026-11-20/bayer-s-7-25-billion-roundup-settlement-approved-by-us-judge",
-"pub": "2026-11-20T20:48:14+00:00",
-"src": "Bloomberg",
-"kind": "market",
-"seen": "2026-11-20T21:15:37+00:00"
-},
-{
-"id": "be8a33f92726",
-"t": "",
-"title": "Canadian Stocks Head for Correction as Metals, Tech Push Lower",
-"url": "https://www.bloomberg.com/news/articles/2026-11-20/canadian-stocks-head-for-correction-as-metals-tech-push-lower",
-"pub": "2026-11-20T20:47:53+00:00",
-"src": "Bloomberg",
-"kind": "market",
-"seen": "2026-11-20T21:15:37+00:00"
-},
-{
-"id": "81833d02a86a",
-"t": "",
-"title": "Trump on Iran: We're being patient",
-"url": "https://www.financialjuice.com/News/9862424/Trump-on-Iran-Were-being-patient.aspx?xy=rss",
-"pub": "2026-11-20T20:47:07+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-20T21:15:37+00:00"
-},
-{
-"id": "e442651ab639",
-"t": "",
-"title": "Trump on Iran: We're being patient",
-"url": "https://www.financialjuice.com/News/9862424/Trump-on-Iran-Were-being-patient.aspx",
-"pub": "2026-11-20T20:47:07+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-20T22:14:08+00:00"
-},
-{
-"id": "4d64f924cab4",
-"t": "",
-"title": "CFTC Positions in the Week of November 17th 2026",
-"url": "https://www.financialjuice.com/News/9862421/CFTC-Positions-in-the-Week-of-November-17th-2026.aspx?xy=rss",
-"pub": "2026-11-20T20:42:01+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-20T20:44:19+00:00"
-},
-{
-"id": "4bce4490f60e",
-"t": "",
-"title": "CFTC Positions in the Week of November 17th 2026",
-"url": "https://www.financialjuice.com/News/9862421/CFTC-Positions-in-the-Week-of-November-17th-2026.aspx",
-"pub": "2026-11-20T20:42:01+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-20T22:14:08+00:00"
-},
-{
-"id": "e4b672f18d8b",
-"t": "",
-"title": "Trump hosts a reception at the White House - WATCH LIVE",
-"url": "https://www.financialjuice.com/News/9862420/Trump-hosts-a-reception-at-the-White-House---WATCH-LIVE.aspx?xy=rss",
-"pub": "2026-11-20T20:35:29+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-20T20:36:06+00:00"
-},
-{
-"id": "93f06cf0e6f2",
-"t": "",
-"title": "Trump hosts a reception at the White House - WATCH LIVE",
-"url": "https://www.financialjuice.com/News/9862420/Trump-hosts-a-reception-at-the-White-House---WATCH-LIVE.aspx",
-"pub": "2026-11-20T20:35:29+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-20T22:14:08+00:00"
-},
-{
-"id": "2edc6344608e",
-"t": "",
-"title": "Nvidia server suppliers halt southeast Asia shipments - Nikkei. $NVDA",
-"url": "https://www.financialjuice.com/News/9862418/Nvidia-server-suppliers-halt-southeast-Asia-shipments---Nikkei-NVDA.aspx?xy=rss",
-"pub": "2026-11-20T20:34:27+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-20T20:36:06+00:00"
-},
-{
-"id": "c3399bb7e78e",
-"t": "",
-"title": "Nvidia server suppliers halt southeast Asia shipments - Nikkei. $NVDA",
-"url": "https://www.financialjuice.com/News/9862418/Nvidia-server-suppliers-halt-southeast-Asia-shipments---Nikkei-NVDA.aspx",
-"pub": "2026-11-20T20:34:27+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-20T22:14:08+00:00"
-},
-{
-"id": "33397811b3cf",
-"t": "",
-"title": "Gujarat Industries Power Company Ltd (GJIP.NS) | Stock Price & Latest News - Reuters",
-"url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1lZlQyQXFwOXJsWWg0NDJvZjM5T0FJSDAyejdwN05KNW53RXhyc3BRNWMxV1BDaUVkcl9fTExDYjNVMFBjWWpWbF9lc00yLWUtelRCVzhYMVNob1FLNU5KQW5hZmpVRjhDMUo5cWZlUQ?oc=5",
-"pub": "2026-11-20T20:29:58+00:00",
-"src": "Reuters",
-"kind": "market",
-"seen": "2026-11-21T13:15:23+00:00"
-},
-{
-"id": "d1dd0f782cde",
-"t": "",
-"title": "Southern Magnesium and Chemicals Ltd (SUTH.BO) | Stock Price & Latest News - Reuters",
-"url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE00WTlpWTE0bmxJZnRYbEtTckQzNEwxdGFRUldBMERCNGZ2cVVaUzNlQXdKZ2dHbzI5N180eUswS1FMY010UG50LUkxNW1PSnNzOENUYkpWZmdzOFpPUzhOMUFpUGFORkc3?oc=5",
-"pub": "2026-11-20T20:28:12+00:00",
-"src": "Reuters",
-"kind": "market",
-"seen": "2026-11-20T23:14:14+00:00"
-},
-{
-"id": "0c4a4df650d2",
-"t": "",
-"title": "Monday FX Option Expiries",
-"url": "https://www.financialjuice.com/News/9862406/Monday-FX-Option-Expiries.aspx?xy=rss",
-"pub": "2026-11-20T20:23:48+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-20T20:36:06+00:00"
-},
-{
-"id": "9e569b595888",
-"t": "",
-"title": "Monday FX Option Expiries",
-"url": "https://www.financialjuice.com/News/9862406/Monday-FX-Option-Expiries.aspx",
-"pub": "2026-11-20T20:23:48+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-20T22:14:08+00:00"
-},
-{
-"id": "f56360e6801d",
-"t": "",
-"title": "Gujarat Industries Power Company Ltd (GJIP.NS) | Stock Price & Latest News - Reuters",
-"url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE42SzdYUFk5ckJFQ2hCRk9KT1ZOQUhoMjhOOEltRUp4REJ2YjU5cW5MT3pZeURGQnMycUdYRWl2bzNMQnFEcmhoREZzdEo4eWZjRnBZMDVIUFlnU052MTNid0dwYnZ3OFlaRGZlWQ?oc=5",
-"pub": "2026-11-20T20:23:01+00:00",
-"src": "Reuters",
-"kind": "market",
-"seen": "2026-11-21T15:10:04+00:00"
-},
-{
-"id": "1ee58ffedf1f",
-"t": "",
-"title": "Hawkish officials in DC and Israel are urging Trump to hit Iran - FT.",
-"url": "https://www.financialjuice.com/News/9862404/Hawkish-officials-in-DC-and-Israel-are-urging-Trump-to-hit-Iran---FT.aspx?xy=rss",
-"pub": "2026-11-20T20:22:04+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-20T20:36:06+00:00"
-},
-{
-"id": "6f465574ea4f",
-"t": "",
-"title": "Hawkish officials in DC and Israel are urging Trump to hit Iran - FT.",
-"url": "https://www.financialjuice.com/News/9862404/Hawkish-officials-in-DC-and-Israel-are-urging-Trump-to-hit-Iran---FT.aspx",
-"pub": "2026-11-20T20:22:04+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-20T22:14:08+00:00"
-},
-{
-"id": "ee87b51dca31",
-"t": "",
-"title": "Isofol Medical AB (publ) (ISOFOL.ST) | Stock Price & Latest News - Reuters",
-"url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBTVmhfQllRTlZ1aTNtM3hueTRVTDFrSU9tZlZuVUxjemk4ZDZxVlhJdlJzVFhmQTJ2ZTZrX1FheXBvV09IZVlWV1l6d0xPTjlwZXdxZ2dyWEFCeFEzMXpBa1JxVUZKYnFrc21qcGJjTWRJUQ?oc=5",
-"pub": "2026-11-20T20:20:07+00:00",
-"src": "Reuters",
-"kind": "market",
-"seen": "2026-11-21T04:34:44+00:00"
-},
-{
-"id": "60da48082ee9",
-"t": "",
-"title": "KJELL.ST - | Stock Price & Latest News - Reuters",
-"url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNMDVsZjh1dGw1YkRlcmNYOXN6N2hKM3lzcHNsZXNGMFFOaEdZVE9lYzEwNUpXaTA5cmdZQzF0V05JaXNQNGhrejFZUlNYMWxseFo3WDVjVU96NXVkek5paEx4TGRBU3dpOTFkU216bVRXelltejRZaUpFc1VxTEFLYU1xUFBGeEE?oc=5",
-"pub": "2026-11-20T20:19:30+00:00",
-"src": "Reuters",
-"kind": "market",
-"seen": "2026-11-21T15:10:04+00:00"
-},
-{
-"id": "29ba99c3950c",
-"t": "",
-"title": "Tokyo Koki Co Ltd (7719.T) | Stock Price & Latest News - Reuters",
-"url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBLZ3RTSlpIMjlfYnNWMEpYd3VrSzJUQnhQN3hHYzVDNVg5QXd0MUNFRE5FSFJ2WjBtOUtTMmFzcHg2a0Q3UmwtRkNRUVJvRUdjcXkycFRfaXNvWWNkOVhZVUxIQTk3X2VlQzFPNGFR?oc=5",
-"pub": "2026-11-20T20:19:17+00:00",
-"src": "Reuters",
-"kind": "market",
-"seen": "2026-11-21T14:16:02+00:00"
-},
-{
-"id": "647edfdb3472",
-"t": "",
-"title": "Tokyo Koki Co Ltd (7719.T) | Stock Price & Latest News - Reuters",
-"url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE4zMkRaVXVNMDNfTnR2QWZwTm11RmhiQVFicllVYjZLdXczd25DSGNIZ2N3MzI0YnhVa1JHZ3ZZZWx0TEpDb29ra2hRVjU1QnBnRU52eDdTZExpd05CczdkY2VCSWN4V1ZWWUVv?oc=5",
-"pub": "2026-11-20T20:19:16+00:00",
-"src": "Reuters",
-"kind": "market",
-"seen": "2026-11-21T04:34:44+00:00"
-},
-{
-"id": "2dbafee9a6cf",
-"t": "",
-"title": "Sun Art Retail Group Ltd (6808.D) | Stock Price & Latest News - Reuters",
-"url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE51b0UzUWVhVFljWFhsYUJxdHczMzE1alZLd1UtMXFCMXY4VlJlQTZISjFxMi1CWnBFd0FyNVYzeTFhcW1VVHExaHdnVFlaSHNBQUZhcEszRjduZ1BnMm5MSldvY1g1Y0wxOWhQaHEyUWxHS3c0UmtCbTJMY1Vaajg?oc=5",
-"pub": "2026-11-20T20:18:35+00:00",
-"src": "Reuters",
-"kind": "market",
-"seen": "2026-11-21T04:34:44+00:00"
-},
-{
-"id": "21004f4aed35",
-"t": "",
-"title": "SEC Moves to Directly Oversee Database Criticized by Wall Street",
-"url": "https://www.bloomberg.com/news/articles/2026-11-20/sec-moves-to-directly-oversee-database-criticized-by-wall-street",
-"pub": "2026-11-20T20:18:31+00:00",
-"src": "Bloomberg",
-"kind": "market",
-"seen": "2026-11-20T20:36:06+00:00"
-},
-{
-"id": "f3a9e9945639",
-"t": "",
-"title": "Gold Falls to Nearly 15-Month Low On Interest-Rate Expectations",
-"url": "https://www.wsj.com/finance/commodities-futures/gold-falls-weighed-by-elevated-yields-strong-dollar-9ba37905?mod=rss_markets_main",
-"pub": "2026-11-20T20:18:00+00:00",
-"src": "WSJ",
-"kind": "market",
-"seen": "2026-11-20T23:21:45+00:00"
-},
-{
-"id": "93aa96d6dc50",
-"t": "",
-"title": "Trillions Podcast Live From Bloomberg ETFs in Depth: The Big Three",
-"url": "https://www.bloomberg.com/news/videos/2026-11-20/trillions-podcast-live-etfs-in-depth-the-big-three-video",
-"pub": "2026-11-20T20:13:45+00:00",
-"src": "Bloomberg",
-"kind": "market",
-"seen": "2026-11-20T20:36:06+00:00"
-},
-{
-"id": "c47e96836e92",
-"t": "",
-"title": "Anthropic’s IPO Drew More Retail Investor Demand Than SpaceX",
-"url": "https://www.bloomberg.com/news/articles/2026-11-20/anthropic-s-ipo-drew-more-retail-investor-demand-than-spacex",
-"pub": "2026-11-20T20:12:00+00:00",
-"src": "Bloomberg",
-"kind": "market",
-"seen": "2026-11-20T20:36:06+00:00"
-},
-{
-"id": "1a59ae74b2ba",
-"t": "",
-"title": "Anthropic IPO was said to draw about $115B-$120B of retail demand. $ANT",
-"url": "https://www.financialjuice.com/News/9862386/Anthropic-IPO-was-said-to-draw-about-115B-120B-of-retail-demand-ANT.aspx?xy=rss",
-"pub": "2026-11-20T20:11:32+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-20T20:14:00+00:00"
-},
-{
-"id": "34a091a954a8",
-"t": "",
-"title": "Anthropic IPO was said to draw about $115B-$120B of retail demand. $ANT",
-"url": "https://www.financialjuice.com/News/9862386/Anthropic-IPO-was-said-to-draw-about-115B-120B-of-retail-demand-ANT.aspx",
-"pub": "2026-11-20T20:11:32+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-20T22:14:08+00:00"
-},
-{
-"id": "3978809bb160",
-"t": "",
-"title": "UKMTO: Reports of a tanker on an outbound transit of Hormuz got struck on the port bow by an unknown projectile.",
-"url": "https://www.financialjuice.com/News/9862384/UKMTO-Reports-of-a-tanker-on-an-outbound-transit-of-Hormuz-got-struck-on-the-port-bow-by-an-unknown-projectile.aspx?xy=rss",
-"pub": "2026-11-20T20:07:21+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-20T20:14:00+00:00"
-},
-{
-"id": "b42d9e19867b",
-"t": "",
-"title": "UKMTO: Reports of a tanker on an outbound transit of Hormuz got struck on the port bow by an unknown projectile.",
-"url": "https://www.financialjuice.com/News/9862384/UKMTO-Reports-of-a-tanker-on-an-outbound-transit-of-Hormuz-got-struck-on-the-port-bow-by-an-unknown-projectile.aspx",
-"pub": "2026-11-20T20:07:21+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-20T22:14:08+00:00"
-},
-{
-"id": "7cddbd72f4aa",
-"t": "",
-"title": "Brent Crude futures settle at $92.57/bbl, up 59 cents, 0.64%.",
-"url": "https://www.financialjuice.com/News/9862367/Brent-Crude-futures-settle-at-9257bbl-up-59-cents-064.aspx?xy=rss",
-"pub": "2026-11-20T19:50:10+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-20T20:14:00+00:00"
 }
 ]
 }
