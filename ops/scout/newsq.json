@@ -1,18 +1,48 @@
 {
-"updated_kst": "2026-11-22 02:44",
-"rot": 107,
+"updated_kst": "2026-11-22 03:14",
+"rot": 167,
 "how": "Scout(프로그램)이 10분마다 모은 기사 제목·링크와 공시예요. Wren이 공식 출처로 확인한 뒤 회사 화면에 한국어로 반영해요. 본문은 받지 않아요.",
 "sources": {
 "Yahoo Finance": "120종목 확인 · 실패 0",
 "CNBC": "63건",
 "Bloomberg": "28건",
 "WSJ": "61건",
-"Reuters": "36건",
+"Reuters": "41건",
 "FinancialJuice": "100건",
 "SEC EDGAR": "실패 HTTPError",
 "Fox Business": "50건"
 },
 "items": [
+{
+"id": "deea8b1fac4f",
+"t": "NVDA",
+"title": "Warren Buffett Said Stocks Are Better Than Bonds for Long-Term Investors. History Shows He Was Right.",
+"url": "https://www.fool.com/investing/2026/11/21/warren-buffett-said-stocks-are-better-than-bonds-for-long-term-investors-history-shows-he-was-right/?.tsrc=rss",
+"pub": "2026-11-21T18:05:02+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-21T18:14:14+00:00"
+},
+{
+"id": "25383967e8cb",
+"t": "NVDA",
+"title": "Here's How Many Shares of Coca-Cola You'd Need for $1,000 in Monthly Income",
+"url": "https://www.fool.com/investing/2026/11/21/heres-how-many-shares-of-coca-cola-youd-need-for-1000-in-monthly-income/?.tsrc=rss",
+"pub": "2026-11-21T17:50:02+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-21T18:14:14+00:00"
+},
+{
+"id": "9b14b6aea8a0",
+"t": "NVDA",
+"title": "The Nasdaq-100 Is Now Just 49 Points From a Bear Market",
+"url": "https://247wallst.com/investing/2026/11/21/the-nasdaq-100-is-now-just-49-points-from-a-bear-market/?.tsrc=rss",
+"pub": "2026-11-21T17:42:02+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-21T18:14:14+00:00"
+},
 {
 "id": "c5e14d5eeb81",
 "t": "NVDA",
@@ -42,6 +72,16 @@
 "src": "Yahoo Finance",
 "kind": "news",
 "seen": "2026-11-21T17:44:46+00:00"
+},
+{
+"id": "d538921f4f22",
+"t": "SPCX",
+"title": "Musk Says AT&T and Verizon May “Lose Some Revenue” as Starlink’s Phone Service Gets 40x the Bandwidth",
+"url": "https://www.tikr.com/blog/musk-says-att-and-verizon-may-lose-some-revenue-as-starlinks-phone-service-gets-40x-the-bandwidth?ref=yahoofinance&tlnk=yf-261121-33qf4mj4&.tsrc=rss",
+"pub": "2026-11-21T17:20:39+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-21T18:14:14+00:00"
 },
 {
 "id": "84a7f04b429d",
@@ -1692,6 +1732,16 @@
 "src": "Yahoo Finance",
 "kind": "news",
 "seen": "2026-11-21T11:44:23+00:00"
+},
+{
+"id": "caa44ae4a9d3",
+"t": "MCHP",
+"title": "George Soros and 18 Other Big Funds Sold Texas Instruments Last Quarter, While 14 Bought. Who’s Right?",
+"url": "https://www.tikr.com/blog/george-soros-and-18-other-big-funds-sold-texas-instruments-last-quarter-while-14-bought-whos-right?ref=yahoofinance&tlnk=yf-261121-j9jp5php&.tsrc=rss",
+"pub": "2026-11-21T10:58:43+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-21T18:14:14+00:00"
 },
 {
 "id": "15f2302974d3",
@@ -7964,54 +8014,44 @@
 "seen": "2026-11-20T16:15:51+00:00"
 },
 {
-"id": "ab2b76356eb2",
-"t": "CRWV",
-"title": "Applied Digital and Core Scientific Sink 12% as AI Infrastructure Sell-Off Deepens; TeraWulf Tumbles 10%",
-"url": "https://247wallst.com/investing/2026/11/20/applied-digital-and-core-scientific-sink-12-as-ai-infrastructure-sell-off-deepens-terawulf-tumbles-10/?.tsrc=rss",
-"pub": "2026-11-20T15:56:57+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-20T16:15:51+00:00"
+"id": "ba17d1a07b8f",
+"t": "",
+"title": "Bahrain's interior ministry: warning of possible threat",
+"url": "https://www.financialjuice.com/News/9863100/Bahrains-interior-ministry-warning-of-possible-threat.aspx?xy=rss",
+"pub": "2026-11-21T18:11:23+00:00",
+"src": "FinancialJuice",
+"kind": "market",
+"seen": "2026-11-21T18:14:14+00:00"
 },
 {
-"id": "7ee1a0cb4519",
-"t": "MU",
-"title": "Is Micron's Record Inventory A Risk For The Stock?",
-"url": "https://www.trefis.com/stock/mu/articles/627203/is-micron-s-record-inventory-a-risk-for-the-stock/2026-11-20?.tsrc=rss",
-"pub": "2026-11-20T15:55:14+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-20T16:39:56+00:00"
+"id": "a3b28e9b46ec",
+"t": "",
+"title": "Anthropic IPO signals ‘beginning of a gold rush’ for small businesses, says biz tech CEO",
+"url": "https://www.foxbusiness.com/economy/anthropic-ipo-signals-beginning-gold-rush-small-businesses-says-biz-tech-ceo",
+"pub": "2026-11-21T18:06:16+00:00",
+"src": "Fox Business",
+"kind": "market",
+"seen": "2026-11-21T18:14:14+00:00"
 },
 {
-"id": "f9db864b7634",
-"t": "NBIS",
-"title": "Bloom Energy Tumbles 10% Despite BMO Upgrade With $230 Target; FuelCell Energy Slides 7%, Plug Power Drops 3%",
-"url": "https://247wallst.com/investing/2026/11/20/bloom-energy-tumbles-10-despite-bmo-upgrade-with-230-target-fuelcell-energy-slides-7-plug-power-drops-3/?.tsrc=rss",
-"pub": "2026-11-20T15:53:00+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-20T16:15:51+00:00"
+"id": "ea2caff00f87",
+"t": "",
+"title": "Explosion heard in Sirik on Iran's southern coast: cause unclear, possible warning shot or ship hitting mine - Fars News",
+"url": "https://www.financialjuice.com/News/9863095/Explosion-heard-in-Sirik-on-Irans-southern-coast-cause-unclear-possible-warning-shot-or-ship-hitting-mine---Fars-News.aspx?xy=rss",
+"pub": "2026-11-21T17:45:53+00:00",
+"src": "FinancialJuice",
+"kind": "market",
+"seen": "2026-11-21T18:14:14+00:00"
 },
 {
-"id": "c757ed360ca8",
-"t": "NXT",
-"title": "T.J. Rodgers Just Sold 71% of His Enphase Stake Near $23",
-"url": "https://247wallst.com/investing/2026/11/20/t-j-rodgers-just-sold-71-of-his-enphase-stake-near-23/?.tsrc=rss",
-"pub": "2026-11-20T15:52:50+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-20T16:43:57+00:00"
-},
-{
-"id": "846721bc535f",
-"t": "GOOGL",
-"title": "Nvidia Falls Behind Alphabet, Loses $2.3 Trillion In Market Value Since October Peak",
-"url": "https://stocktwits.com/news-articles/markets/equity/nvidia-falls-behind-alphabet-loses-2-3-trillion-in-market-value-since-october-peak/cNbSlqeR91T?.tsrc=rss",
-"pub": "2026-11-20T15:51:23+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-20T16:15:51+00:00"
+"id": "699965c167dc",
+"t": "",
+"title": "Anthropic Fails to Calm AI Jitters, Ditching the Kitchen for Thanksgiving",
+"url": "https://www.bloomberg.com/news/videos/2026-11-21/bloomberg-this-weekend-11-21-2026-video",
+"pub": "2026-11-21T17:01:32+00:00",
+"src": "Bloomberg",
+"kind": "market",
+"seen": "2026-11-21T18:14:14+00:00"
 },
 {
 "id": "f5d8562472c6",
@@ -8422,6 +8462,16 @@
 "src": "Reuters",
 "kind": "market",
 "seen": "2026-11-21T17:44:46+00:00"
+},
+{
+"id": "a6729be57e93",
+"t": "",
+"title": "KYG989221000.TWEA%5EJ22 - | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQbnJGb3Z2aWZPSUMzOUdRRmIzTTZmcXZCTWlhZlZDNEQ5ZEw5R2lmSEI1MnFvRDgxRXZxb0o1OHR4NUYwb1FhdGZmUE43UFVXeEk5TVE2Zml3SzNUN2ZaSWZlcmN4VVh1WnQtV3RGazRjTWR4aXotN3IyVDRhT1hmN3VubUJCSmNwZGxqX29B?oc=5",
+"pub": "2026-11-21T12:42:28+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-21T18:14:14+00:00"
 },
 {
 "id": "e4357f774786",
@@ -10962,56 +11012,6 @@
 "src": "FinancialJuice",
 "kind": "market",
 "seen": "2026-11-20T19:44:51+00:00"
-},
-{
-"id": "1efcc6644e55",
-"t": "",
-"title": "NYMEX Natural Gas December futures settle at $3.4110/MMBtu.",
-"url": "https://www.financialjuice.com/News/9862343/NYMEX-Natural-Gas-December-futures-settle-at-34110MMBtu.aspx",
-"pub": "2026-11-20T19:32:08+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-20T22:14:08+00:00"
-},
-{
-"id": "95ecb417d687",
-"t": "",
-"title": "NYMEX Diesel December futures settle at $3.9216 a gallon.",
-"url": "https://www.financialjuice.com/News/9862342/NYMEX-Diesel-December-futures-settle-at-39216-a-gallon.aspx?xy=rss",
-"pub": "2026-11-20T19:31:34+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-20T19:44:51+00:00"
-},
-{
-"id": "6eee1369820b",
-"t": "",
-"title": "NYMEX Diesel December futures settle at $3.9216 a gallon.",
-"url": "https://www.financialjuice.com/News/9862342/NYMEX-Diesel-December-futures-settle-at-39216-a-gallon.aspx",
-"pub": "2026-11-20T19:31:34+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-20T22:14:08+00:00"
-},
-{
-"id": "949da32e54e1",
-"t": "",
-"title": "NYMEX Gasoline December futures settle at $2.5027 a gallon.",
-"url": "https://www.financialjuice.com/News/9862341/NYMEX-Gasoline-December-futures-settle-at-25027-a-gallon.aspx?xy=rss",
-"pub": "2026-11-20T19:31:24+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-20T19:44:51+00:00"
-},
-{
-"id": "6b2d78080f0b",
-"t": "",
-"title": "NYMEX Gasoline December futures settle at $2.5027 a gallon.",
-"url": "https://www.financialjuice.com/News/9862341/NYMEX-Gasoline-December-futures-settle-at-25027-a-gallon.aspx",
-"pub": "2026-11-20T19:31:24+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-20T22:14:08+00:00"
 }
 ]
 }
