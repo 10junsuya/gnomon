@@ -1,5 +1,5 @@
 {
-"updated_kst": "2026-11-22 01:44",
+"updated_kst": "2026-11-22 01:45",
 "rot": 106,
 "how": "Scout(프로그램)이 10분마다 모은 기사 제목·링크와 공시예요. Wren이 공식 출처로 확인한 뒤 회사 화면에 한국어로 반영해요. 본문은 받지 않아요.",
 "sources": {
@@ -7,12 +7,22 @@
 "CNBC": "63건",
 "Bloomberg": "28건",
 "WSJ": "61건",
-"Reuters": "39건",
+"Reuters": "26건",
 "FinancialJuice": "100건",
 "SEC EDGAR": "실패 HTTPError",
 "Fox Business": "50건"
 },
 "items": [
+{
+"id": "6090e79ebc6c",
+"t": "NVDA",
+"title": "Worried About Black Monday? What Wall Street Says Could Happen.",
+"url": "https://finance.yahoo.com/m/32305bc8-6a1c-3b7f-af69-650d80df753a/worried-about-black-monday%3F.html?.tsrc=rss",
+"pub": "2026-11-21T16:38:00+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-21T16:45:20+00:00"
+},
 {
 "id": "0d377bc0df86",
 "t": "NVDA",
@@ -21,7 +31,7 @@
 "pub": "2026-11-21T16:35:02+00:00",
 "src": "Yahoo Finance",
 "kind": "news",
-"seen": "2026-11-21T16:44:16+00:00"
+"seen": "2026-11-21T16:45:20+00:00"
 },
 {
 "id": "8df4d0fde59d",
@@ -31,7 +41,7 @@
 "pub": "2026-11-21T16:24:34+00:00",
 "src": "Yahoo Finance",
 "kind": "news",
-"seen": "2026-11-21T16:44:16+00:00"
+"seen": "2026-11-21T16:45:20+00:00"
 },
 {
 "id": "3bc5216fbccf",
@@ -41,7 +51,7 @@
 "pub": "2026-11-21T16:23:54+00:00",
 "src": "Yahoo Finance",
 "kind": "news",
-"seen": "2026-11-21T16:44:16+00:00"
+"seen": "2026-11-21T16:45:20+00:00"
 },
 {
 "id": "85196634965b",
@@ -51,7 +61,7 @@
 "pub": "2026-11-21T16:14:18+00:00",
 "src": "Yahoo Finance",
 "kind": "news",
-"seen": "2026-11-21T16:44:16+00:00"
+"seen": "2026-11-21T16:45:20+00:00"
 },
 {
 "id": "5d0998d11b01",
@@ -61,7 +71,7 @@
 "pub": "2026-11-21T16:13:30+00:00",
 "src": "Yahoo Finance",
 "kind": "news",
-"seen": "2026-11-21T16:44:16+00:00"
+"seen": "2026-11-21T16:45:20+00:00"
 },
 {
 "id": "8ec0f3eb7a81",
@@ -71,7 +81,7 @@
 "pub": "2026-11-21T16:10:45+00:00",
 "src": "Yahoo Finance",
 "kind": "news",
-"seen": "2026-11-21T16:44:16+00:00"
+"seen": "2026-11-21T16:45:20+00:00"
 },
 {
 "id": "c673538f3e97",
@@ -91,7 +101,7 @@
 "pub": "2026-11-21T16:07:00+00:00",
 "src": "Yahoo Finance",
 "kind": "news",
-"seen": "2026-11-21T16:44:16+00:00"
+"seen": "2026-11-21T16:45:20+00:00"
 },
 {
 "id": "673a6a0c2201",
@@ -101,7 +111,7 @@
 "pub": "2026-11-21T16:05:34+00:00",
 "src": "Yahoo Finance",
 "kind": "news",
-"seen": "2026-11-21T16:44:16+00:00"
+"seen": "2026-11-21T16:45:20+00:00"
 },
 {
 "id": "8eb6f2616132",
@@ -151,7 +161,7 @@
 "pub": "2026-11-21T15:51:17+00:00",
 "src": "Yahoo Finance",
 "kind": "news",
-"seen": "2026-11-21T16:44:16+00:00"
+"seen": "2026-11-21T16:45:20+00:00"
 },
 {
 "id": "b1e4655156a0",
@@ -161,7 +171,7 @@
 "pub": "2026-11-21T15:51:15+00:00",
 "src": "Yahoo Finance",
 "kind": "news",
-"seen": "2026-11-21T16:44:16+00:00"
+"seen": "2026-11-21T16:45:20+00:00"
 },
 {
 "id": "2f9e938bf559",
@@ -1421,7 +1431,7 @@
 "pub": "2026-11-21T10:54:33+00:00",
 "src": "Yahoo Finance",
 "kind": "news",
-"seen": "2026-11-21T16:44:16+00:00"
+"seen": "2026-11-21T16:45:20+00:00"
 },
 {
 "id": "96b8f2ef4b05",
@@ -8004,16 +8014,6 @@
 "seen": "2026-11-20T16:43:57+00:00"
 },
 {
-"id": "473c27458025",
-"t": "META",
-"title": "Meta Platforms (META) Down 8.1% Since Last Earnings Report: Can It Rebound?",
-"url": "https://finance.yahoo.com/markets/stocks/articles/meta-platforms-meta-down-8-153008960.html?.tsrc=rss",
-"pub": "2026-11-20T15:30:08+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-20T16:39:56+00:00"
-},
-{
 "id": "05ae8fcc7492",
 "t": "",
 "title": "Finland defence force: strike on Russian ship probably conducted by Ukraine",
@@ -9821,7 +9821,7 @@
 "pub": "2026-11-20T21:29:19+00:00",
 "src": "Reuters",
 "kind": "market",
-"seen": "2026-11-21T16:44:16+00:00"
+"seen": "2026-11-21T16:45:20+00:00"
 },
 {
 "id": "d5414609dcbc",
