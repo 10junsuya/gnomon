@@ -1,18 +1,38 @@
 {
-"updated_kst": "2026-11-22 08:14",
-"rot": 172,
+"updated_kst": "2026-11-22 08:42",
+"rot": 53,
 "how": "Scout(프로그램)이 10분마다 모은 기사 제목·링크와 공시예요. Wren이 공식 출처로 확인한 뒤 회사 화면에 한국어로 반영해요. 본문은 받지 않아요.",
 "sources": {
 "Yahoo Finance": "120종목 확인 · 실패 0",
 "CNBC": "63건",
 "Bloomberg": "27건",
 "WSJ": "61건",
-"Reuters": "49건",
+"Reuters": "44건",
 "FinancialJuice": "100건",
 "SEC EDGAR": "실패 HTTPError",
 "Fox Business": "50건"
 },
 "items": [
+{
+"id": "fd364d4103f0",
+"t": "GOOGL",
+"title": "Alphabet Stock Just Hit a 1-Year Low. Why Is Google's Parent Borrowing So Much Money?",
+"url": "https://www.fool.com/investing/2026/11/21/alphabet-stock-just-hit-a-1-year-low-why-is-google-s-parent-borrowing-so-much-money/?.tsrc=rss",
+"pub": "2026-11-21T23:20:48+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-21T23:42:01+00:00"
+},
+{
+"id": "9a85bc8425ab",
+"t": "QUBT",
+"title": "3 Penny Stocks With Revenue Growth Up To 56%",
+"url": "https://finance.yahoo.com/markets/stocks/articles/3-penny-stocks-revenue-growth-231022620.html?.tsrc=rss",
+"pub": "2026-11-21T23:10:22+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-21T23:42:01+00:00"
+},
 {
 "id": "8672fdbab1f8",
 "t": "ORCL",
@@ -42,6 +62,16 @@
 "src": "Yahoo Finance",
 "kind": "news",
 "seen": "2026-11-21T23:02:02+00:00"
+},
+{
+"id": "ca20a5466088",
+"t": "SHOP",
+"title": "Shopify vs. Uber Technologies: Which Technology Stock Is a Better Buy?",
+"url": "https://www.fool.com/coverage/better-buy/2026/11/21/shopify-vs-uber-technologies-which-technology-stock-is-a-better-buy/?.tsrc=rss",
+"pub": "2026-11-21T22:40:02+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-21T23:42:01+00:00"
 },
 {
 "id": "8c14384eac9b",
@@ -82,6 +112,16 @@
 "src": "Yahoo Finance",
 "kind": "news",
 "seen": "2026-11-21T22:44:15+00:00"
+},
+{
+"id": "ebd2bdbe5f7c",
+"t": "PANW",
+"title": "Palo Alto Networks CEO Nikesh Arora Says Companies Haven't 'Figured Out' AI Coding Security: 'Don't Let Your Coding Agents Run Amok Into Your Enterprise'",
+"url": "https://finance.yahoo.com/technology/ai/articles/palo-alto-networks-ceo-nikesh-223004375.html?.tsrc=rss",
+"pub": "2026-11-21T22:30:04+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-21T23:42:01+00:00"
 },
 {
 "id": "1f06b3e7b9a1",
@@ -2672,6 +2712,16 @@
 "src": "Yahoo Finance",
 "kind": "news",
 "seen": "2026-11-21T11:44:23+00:00"
+},
+{
+"id": "631df56b72dc",
+"t": "CRWV",
+"title": "CoreWeave Borrowed at Under 6% Against Its GPUs. SpaceX Just Paid Above 8% for Chip-Backed Debt",
+"url": "https://www.tikr.com/blog/coreweave-borrowed-at-under-6-against-its-gpus-spacex-just-paid-above-8-for-chip-backed-debt?ref=yahoofinance&tlnk=yf-261121-6gvfxhg4&.tsrc=rss",
+"pub": "2026-11-21T10:32:48+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-21T23:42:01+00:00"
 },
 {
 "id": "a155e91df6b3",
@@ -7964,56 +8014,6 @@
 "seen": "2026-11-20T17:14:24+00:00"
 },
 {
-"id": "39d572c0607d",
-"t": "RTX",
-"title": "The Pentagon Keeps Spending. These 4 Defense Stocks Keep Raising Their Dividends",
-"url": "https://247wallst.com/investing/2026/11/20/the-pentagon-keeps-spending-these-4-defense-stocks-keep-raising-their-dividends-2/?.tsrc=rss",
-"pub": "2026-11-20T16:52:08+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-20T17:14:24+00:00"
-},
-{
-"id": "e88698d26215",
-"t": "NVDA",
-"title": "Meta and Microsoft Aren't Cutting Server CPU Orders -- Why AMD and Intel Could Benefit",
-"url": "https://finance.yahoo.com/technology/articles/meta-microsoft-arent-cutting-server-165207063.html?.tsrc=rss",
-"pub": "2026-11-20T16:52:07+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-20T17:14:24+00:00"
-},
-{
-"id": "edd2c9fa5f19",
-"t": "NOW",
-"title": "A $4.5 Billion Fund Just Bought These 3 Stocks",
-"url": "https://www.tikr.com/blog/a-4-5-billion-fund-just-bought-these-3-stocks?ref=yahoofinance&tlnk=yf-261120-7vmp3gpg&.tsrc=rss",
-"pub": "2026-11-20T16:50:54+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-20T17:40:09+00:00"
-},
-{
-"id": "36c872b763fd",
-"t": "TSLA",
-"title": "Why Avoiding Tesla (TSLA) Boosted Fund Performance",
-"url": "https://finance.yahoo.com/markets/stocks/articles/why-avoiding-tesla-tsla-boosted-165030350.html?.tsrc=rss",
-"pub": "2026-11-20T16:50:30+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-20T17:14:24+00:00"
-},
-{
-"id": "65eb75b84e60",
-"t": "SPCX",
-"title": "Lockheed Martin vs. SpaceX: Which Aerospace Stock Is a Better Buy for 2027?",
-"url": "https://www.fool.com/coverage/better-buy/2026/11/20/lockheed-martin-vs-spacex-which-aerospace-stock-is-a-better-buy-for-2027/?.tsrc=rss",
-"pub": "2026-11-20T16:50:02+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-20T17:14:24+00:00"
-},
-{
 "id": "7b31b2ed68b1",
 "t": "",
 "title": "Burnham, Netherlands PM Jetten committed to continue close cooperation to provide Ukraine support it needs: Downing Street spokesperson",
@@ -8022,6 +8022,16 @@
 "src": "FinancialJuice",
 "kind": "market",
 "seen": "2026-11-21T22:44:15+00:00"
+},
+{
+"id": "824e0fbb7bf3",
+"t": "",
+"title": "Burnham, Netherlands PM Jetten committed to continue close cooperation to provide Ukraine support it needs: Downing Street spokesperson",
+"url": "https://www.financialjuice.com/News/9863162/Burnham-Netherlands-PM-Jetten-committed-to-continue-close-cooperation-to-provide-Ukraine-support-it-needs-Downing-Street-spokesperson.aspx",
+"pub": "2026-11-21T22:19:07+00:00",
+"src": "FinancialJuice",
+"kind": "market",
+"seen": "2026-11-21T23:42:01+00:00"
 },
 {
 "id": "96bd8cc1f2b3",
@@ -8034,6 +8044,16 @@
 "seen": "2026-11-21T22:16:35+00:00"
 },
 {
+"id": "38dd2792905c",
+"t": "",
+"title": "UK PM Burnham met Rob Jetten, prime minister of Netherlands, in Amsterdam: Downing Street spokesperson",
+"url": "https://www.financialjuice.com/News/9863160/UK-PM-Burnham-met-Rob-Jetten-prime-minister-of-Netherlands-in-Amsterdam-Downing-Street-spokesperson.aspx",
+"pub": "2026-11-21T22:16:48+00:00",
+"src": "FinancialJuice",
+"kind": "market",
+"seen": "2026-11-21T23:42:01+00:00"
+},
+{
 "id": "d3134e0ff4d0",
 "t": "",
 "title": "Saudi-led coalition: intercepts and destroys missile launched by Yemen's Houthis toward western region",
@@ -8042,6 +8062,16 @@
 "src": "FinancialJuice",
 "kind": "market",
 "seen": "2026-11-21T21:31:18+00:00"
+},
+{
+"id": "c979ebcd2752",
+"t": "",
+"title": "Saudi-led coalition: intercepts and destroys missile launched by Yemen's Houthis toward western region",
+"url": "https://www.financialjuice.com/News/9863149/Saudi-led-coalition-intercepts-and-destroys-missile-launched-by-Yemens-Houthis-toward-western-region.aspx",
+"pub": "2026-11-21T21:28:16+00:00",
+"src": "FinancialJuice",
+"kind": "market",
+"seen": "2026-11-21T23:42:01+00:00"
 },
 {
 "id": "b55e5a00669e",
@@ -8064,6 +8094,16 @@
 "seen": "2026-11-21T20:52:52+00:00"
 },
 {
+"id": "2d01b3b94459",
+"t": "",
+"title": "Saudi civil defense: danger has passed in Mecca region",
+"url": "https://www.financialjuice.com/News/9863144/Saudi-civil-defense-danger-has-passed-in-Mecca-region.aspx",
+"pub": "2026-11-21T20:50:14+00:00",
+"src": "FinancialJuice",
+"kind": "market",
+"seen": "2026-11-21T23:42:01+00:00"
+},
+{
 "id": "79b6e4b9c905",
 "t": "",
 "title": "Bahrain Defence Force: Shrapnel from air defense hits caused material damage, no casualties",
@@ -8072,6 +8112,16 @@
 "src": "FinancialJuice",
 "kind": "market",
 "seen": "2026-11-21T20:52:52+00:00"
+},
+{
+"id": "e674e3ea8f9e",
+"t": "",
+"title": "Bahrain Defence Force: Shrapnel from air defense hits caused material damage, no casualties",
+"url": "https://www.financialjuice.com/News/9863142/Bahrain-Defence-Force-Shrapnel-from-air-defense-hits-caused-material-damage-no-casualties.aspx",
+"pub": "2026-11-21T20:45:51+00:00",
+"src": "FinancialJuice",
+"kind": "market",
+"seen": "2026-11-21T23:42:01+00:00"
 },
 {
 "id": "b80eae95361c",
@@ -8084,6 +8134,16 @@
 "seen": "2026-11-21T20:43:38+00:00"
 },
 {
+"id": "1828add19a1b",
+"t": "",
+"title": "Bahrain Defence Force: air defences intercepted multiple Iranian aerial assaults",
+"url": "https://www.financialjuice.com/News/9863140/Bahrain-Defence-Force-air-defences-intercepted-multiple-Iranian-aerial-assaults.aspx",
+"pub": "2026-11-21T20:43:33+00:00",
+"src": "FinancialJuice",
+"kind": "market",
+"seen": "2026-11-21T23:42:01+00:00"
+},
+{
 "id": "9e226718ff16",
 "t": "",
 "title": "Saudi civil defense issues warning of potential threat in Mecca region",
@@ -8092,6 +8152,16 @@
 "src": "FinancialJuice",
 "kind": "market",
 "seen": "2026-11-21T20:43:38+00:00"
+},
+{
+"id": "c4e1b57de193",
+"t": "",
+"title": "Saudi civil defense issues warning of potential threat in Mecca region",
+"url": "https://www.financialjuice.com/News/9863139/Saudi-civil-defense-issues-warning-of-potential-threat-in-Mecca-region.aspx",
+"pub": "2026-11-21T20:41:51+00:00",
+"src": "FinancialJuice",
+"kind": "market",
+"seen": "2026-11-21T23:42:01+00:00"
 },
 {
 "id": "1165e7823c8f",
@@ -8104,6 +8174,16 @@
 "seen": "2026-11-21T20:43:38+00:00"
 },
 {
+"id": "001dba12bcd8",
+"t": "",
+"title": "Bahrain's interior ministry raises another warning on potential threat - post on X",
+"url": "https://www.financialjuice.com/News/9863138/Bahrains-interior-ministry-raises-another-warning-on-potential-threat---post-on-X.aspx",
+"pub": "2026-11-21T20:36:31+00:00",
+"src": "FinancialJuice",
+"kind": "market",
+"seen": "2026-11-21T23:42:01+00:00"
+},
+{
 "id": "acd7a08c1ff5",
 "t": "",
 "title": "Bahrain air defences intercept, destroy hostile Iranian aerial attacks over Bahrain: king's media adviser",
@@ -8112,6 +8192,16 @@
 "src": "FinancialJuice",
 "kind": "market",
 "seen": "2026-11-21T20:43:38+00:00"
+},
+{
+"id": "785d0e80dcdb",
+"t": "",
+"title": "Bahrain air defences intercept, destroy hostile Iranian aerial attacks over Bahrain: king's media adviser",
+"url": "https://www.financialjuice.com/News/9863137/Bahrain-air-defences-intercept-destroy-hostile-Iranian-aerial-attacks-over-Bahrain-kings-media-adviser.aspx",
+"pub": "2026-11-21T20:35:23+00:00",
+"src": "FinancialJuice",
+"kind": "market",
+"seen": "2026-11-21T23:42:01+00:00"
 },
 {
 "id": "b4e002837a61",
@@ -8134,6 +8224,16 @@
 "seen": "2026-11-21T20:43:38+00:00"
 },
 {
+"id": "f020114c8738",
+"t": "",
+"title": "Bahrain's interior ministry issues all-clear alert: post on X",
+"url": "https://www.financialjuice.com/News/9863132/Bahrains-interior-ministry-issues-all-clear-alert-post-on-X.aspx",
+"pub": "2026-11-21T20:17:27+00:00",
+"src": "FinancialJuice",
+"kind": "market",
+"seen": "2026-11-21T23:42:01+00:00"
+},
+{
 "id": "bb25be12d358",
 "t": "",
 "title": "Iran's Revolutionary Guards: attacked two US Patriot air defense radars at Bahrain bases - IRNA",
@@ -8144,6 +8244,16 @@
 "seen": "2026-11-21T20:14:31+00:00"
 },
 {
+"id": "032ae6eea70f",
+"t": "",
+"title": "Iran's Revolutionary Guards: attacked two US Patriot air defense radars at Bahrain bases - IRNA",
+"url": "https://www.financialjuice.com/News/9863130/Irans-Revolutionary-Guards-attacked-two-US-Patriot-air-defense-radars-at-Bahrain-bases---IRNA.aspx",
+"pub": "2026-11-21T20:12:29+00:00",
+"src": "FinancialJuice",
+"kind": "market",
+"seen": "2026-11-21T23:42:01+00:00"
+},
+{
 "id": "c68523a9b7ae",
 "t": "",
 "title": "Kraken aware of issue with Cyber-Optimism funding gateway, deposits may face delays; other methods operating normally",
@@ -8152,6 +8262,16 @@
 "src": "FinancialJuice",
 "kind": "market",
 "seen": "2026-11-21T20:03:56+00:00"
+},
+{
+"id": "9a3b09771387",
+"t": "",
+"title": "Kraken aware of issue with Cyber-Optimism funding gateway, deposits may face delays; other methods operating normally",
+"url": "https://www.financialjuice.com/News/9863129/Kraken-aware-of-issue-with-Cyber-Optimism-funding-gateway-deposits-may-face-delays-other-methods-operating-normally.aspx",
+"pub": "2026-11-21T20:02:24+00:00",
+"src": "FinancialJuice",
+"kind": "market",
+"seen": "2026-11-21T23:42:01+00:00"
 },
 {
 "id": "4204dff2e434",
@@ -8174,6 +8294,16 @@
 "seen": "2026-11-21T20:03:56+00:00"
 },
 {
+"id": "3035052346bf",
+"t": "",
+"title": "Iran’s Revolutionary Guards attack two US bases in Bahrain: Fars News Agency reports citing its reporter",
+"url": "https://www.financialjuice.com/News/9863125/Irans-Revolutionary-Guards-attack-two-US-bases-in-Bahrain-Fars-News-Agency-reports-citing-its-reporter.aspx",
+"pub": "2026-11-21T19:47:20+00:00",
+"src": "FinancialJuice",
+"kind": "market",
+"seen": "2026-11-21T23:42:01+00:00"
+},
+{
 "id": "fdf95914dc32",
 "t": "",
 "title": "Iran's Revolutionary Guards say they struck two US bases in Bahrain, Fars News Agency reports citing its correspondent",
@@ -8194,6 +8324,16 @@
 "seen": "2026-11-21T20:43:38+00:00"
 },
 {
+"id": "3ffbdf73bf9c",
+"t": "",
+"title": "Iran's Revolutionary Guards say they attack two US bases in Bahrain, Fars News Agency reports citing its correspondent",
+"url": "https://www.financialjuice.com/News/9863123/Irans-Revolutionary-Guards-say-they-attack-two-US-bases-in-Bahrain-Fars-News-Agency-reports-citing-its-correspondent.aspx",
+"pub": "2026-11-21T19:32:56+00:00",
+"src": "FinancialJuice",
+"kind": "market",
+"seen": "2026-11-21T23:42:01+00:00"
+},
+{
 "id": "1539f602b19f",
 "t": "",
 "title": "Bahrain civil defence working to contain fire: interior ministry",
@@ -8202,6 +8342,16 @@
 "src": "FinancialJuice",
 "kind": "market",
 "seen": "2026-11-21T19:44:12+00:00"
+},
+{
+"id": "7f6be9c081d3",
+"t": "",
+"title": "Bahrain civil defence working to contain fire: interior ministry",
+"url": "https://www.financialjuice.com/News/9863118/Bahrain-civil-defence-working-to-contain-fire-interior-ministry.aspx",
+"pub": "2026-11-21T19:21:49+00:00",
+"src": "FinancialJuice",
+"kind": "market",
+"seen": "2026-11-21T23:42:01+00:00"
 },
 {
 "id": "4cddb85f4b97",
@@ -8214,6 +8364,16 @@
 "seen": "2026-11-21T19:44:12+00:00"
 },
 {
+"id": "4b46efe40e22",
+"t": "",
+"title": "Bahrain interior ministry: preliminary information points to material damage, no casualties",
+"url": "https://www.financialjuice.com/News/9863117/Bahrain-interior-ministry-preliminary-information-points-to-material-damage-no-casualties.aspx",
+"pub": "2026-11-21T19:21:18+00:00",
+"src": "FinancialJuice",
+"kind": "market",
+"seen": "2026-11-21T23:42:01+00:00"
+},
+{
 "id": "70958f0cda20",
 "t": "",
 "title": "Bahrain interior ministry: Iranian strike on civilian industrial site causes fire",
@@ -8222,6 +8382,16 @@
 "src": "FinancialJuice",
 "kind": "market",
 "seen": "2026-11-21T19:44:12+00:00"
+},
+{
+"id": "81e1bfa70667",
+"t": "",
+"title": "Bahrain interior ministry: Iranian strike on civilian industrial site causes fire",
+"url": "https://www.financialjuice.com/News/9863116/Bahrain-interior-ministry-Iranian-strike-on-civilian-industrial-site-causes-fire.aspx",
+"pub": "2026-11-21T19:20:57+00:00",
+"src": "FinancialJuice",
+"kind": "market",
+"seen": "2026-11-21T23:42:01+00:00"
 },
 {
 "id": "74daf12b88d1",
@@ -10264,6 +10434,16 @@
 "seen": "2026-11-21T01:44:21+00:00"
 },
 {
+"id": "a5aa29501017",
+"t": "",
+"title": "Cox Co Ltd (9876.T) | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1ZaXBSMHpxS3BQTlBZM2pvZmR2RDVhQVlTWEg0Z1M0cnducVctTTFhRGtwdnVsUEc5dGdDRzdEX292M0JKNjdMS3JzVjIyUXZsNTlXWFFfVXNhRFFLZ0c2eG9nYWtxbE82bTM1cG1n?oc=5",
+"pub": "2026-11-21T01:15:37+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-21T23:42:01+00:00"
+},
+{
 "id": "874861ca5e13",
 "t": "",
 "title": "688353.SSh - | Stock Price & Latest News - Reuters",
@@ -10832,186 +11012,6 @@
 "src": "FinancialJuice",
 "kind": "market",
 "seen": "2026-11-21T19:14:53+00:00"
-},
-{
-"id": "91964bf33a76",
-"t": "",
-"title": "S&P, Dow Slide Into Correction as Investors Dump Tech",
-"url": "https://www.bloomberg.com/news/videos/2026-11-20/s-p-dow-slide-into-correction-as-investors-dump-tech-video",
-"pub": "2026-11-20T22:25:52+00:00",
-"src": "Bloomberg",
-"kind": "market",
-"seen": "2026-11-20T22:44:38+00:00"
-},
-{
-"id": "d5414609dcbc",
-"t": "",
-"title": "U.S. Stocks Extend Plunge as AI Boom Turns to Bust",
-"url": "https://www.wsj.com/finance/stocks/u-s-stocks-extend-plunge-as-ai-boom-turns-to-bust-a2d324e7?mod=rss_markets_main",
-"pub": "2026-11-20T22:24:00+00:00",
-"src": "WSJ",
-"kind": "market",
-"seen": "2026-11-21T21:44:05+00:00"
-},
-{
-"id": "1dba1121f775",
-"t": "",
-"title": "Adjusting for Credit Risk: Masters In Business with David Eichhorn",
-"url": "https://www.bloomberg.com/news/videos/2026-11-20/masters-in-business-with-david-eichhorn-video",
-"pub": "2026-11-20T22:14:53+00:00",
-"src": "Bloomberg",
-"kind": "market",
-"seen": "2026-11-20T23:14:14+00:00"
-},
-{
-"id": "ea2c0d2c93ed",
-"t": "",
-"title": "Oil Futures Post Weekly Losses on Rising Middle East Supply",
-"url": "https://www.wsj.com/finance/commodities-futures/oil-rises-amid-middle-east-tensions-cdf9de83?mod=rss_markets_main",
-"pub": "2026-11-20T22:09:00+00:00",
-"src": "WSJ",
-"kind": "market",
-"seen": "2026-11-20T22:24:18+00:00"
-},
-{
-"id": "ca54f2dba1cd",
-"t": "",
-"title": "Nvidia Plunges as SEC Probe Deepens AI Market Selloff | Closing Bell",
-"url": "https://www.bloomberg.com/news/videos/2026-11-20/nvidia-plunges-on-sec-probe-closing-bell-video",
-"pub": "2026-11-20T22:08:59+00:00",
-"src": "Bloomberg",
-"kind": "market",
-"seen": "2026-11-20T22:14:08+00:00"
-},
-{
-"id": "f14479a47504",
-"t": "",
-"title": "Fear and ‘Hot Sauce’: Young Investors Want To Catch Up",
-"url": "https://www.bloomberg.com/news/videos/2026-11-20/fear-and-hot-sauce-young-investors-want-to-catch-up-video",
-"pub": "2026-11-20T22:06:43+00:00",
-"src": "Bloomberg",
-"kind": "market",
-"seen": "2026-11-20T22:14:08+00:00"
-},
-{
-"id": "641981011531",
-"t": "",
-"title": "U.S. Natural Gas Futures Rise With Support From LNG Exports",
-"url": "https://www.wsj.com/finance/commodities-futures/u-s-natural-gas-futures-edge-up-in-early-trading-2b513864?mod=rss_markets_main",
-"pub": "2026-11-20T22:04:00+00:00",
-"src": "WSJ",
-"kind": "market",
-"seen": "2026-11-20T22:24:18+00:00"
-},
-{
-"id": "fd4a3f8ce8f5",
-"t": "",
-"title": "Health Care Roundup: Market Talk",
-"url": "https://www.wsj.com/business/health-care-roundup-market-talk-37edbe6f?mod=rss_markets_main",
-"pub": "2026-11-20T22:01:00+00:00",
-"src": "WSJ",
-"kind": "market",
-"seen": "2026-11-21T01:33:21+00:00"
-},
-{
-"id": "f54cdb8ad08a",
-"t": "",
-"title": "GeoPark Ltd (GPRK34.SA) | Stock Price & Latest News - Reuters",
-"url": "https://news.google.com/rss/articles/CBMickFVX3lxTE92a01WVUo1QXNpMzZQRzQ5NC1oeWctcjV4OTAxRS1fWmV0TTMyN1ZoM3ZUbzNtd1pUaVNBU1FMMFp0RUtUTVI5Nks2eUZfRlpnd0wzVzlrc3Z0LUlhQ0RlU0JXQ1J3WVY0ZG1tQnlIWGJyZw?oc=5",
-"pub": "2026-11-20T21:57:22+00:00",
-"src": "Reuters",
-"kind": "market",
-"seen": "2026-11-21T12:14:13+00:00"
-},
-{
-"id": "1777f4641473",
-"t": "",
-"title": "Fiber Network Operator Zayo Delays Public ABS Sale Until 2027",
-"url": "https://www.bloomberg.com/news/articles/2026-11-20/fiber-network-operator-zayo-delays-public-abs-sale-until-2027",
-"pub": "2026-11-20T21:55:50+00:00",
-"src": "Bloomberg",
-"kind": "market",
-"seen": "2026-11-20T22:24:18+00:00"
-},
-{
-"id": "8dc5dc7eeafb",
-"t": "",
-"title": "Novo Nordisk A/S (0QIU.L) | Stock Price & Latest News - Reuters",
-"url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5wNWZkQkdlMFo5WDBOWVRHSkpJZnV3dm1xV2tvaEt4b0hFbUtNVkRZY0tnYWtHekNfZEZBNGRSMWM4OER6RFl3VlJRY0t4RlRXc1VVQ25RZnE3ZmZNSUIyWmRmcVJkMlo0UkpFNUp3?oc=5",
-"pub": "2026-11-20T21:55:08+00:00",
-"src": "Reuters",
-"kind": "market",
-"seen": "2026-11-21T07:56:17+00:00"
-},
-{
-"id": "63169e68ade9",
-"t": "",
-"title": "CrowdStrike Said in Talks to Buy Cybersecurity Firm Zscaler",
-"url": "https://www.bloomberg.com/news/videos/2026-11-20/crowdstrike-said-in-talks-to-buy-zscaler-video",
-"pub": "2026-11-20T21:53:30+00:00",
-"src": "Bloomberg",
-"kind": "market",
-"seen": "2026-11-20T22:14:08+00:00"
-},
-{
-"id": "b069584bd37a",
-"t": "",
-"title": "Wall Street Nears Breaking Point as Fear Grips Global Markets",
-"url": "https://www.bloomberg.com/news/articles/2026-11-20/wall-street-nears-breaking-point-as-fear-grips-global-markets",
-"pub": "2026-11-20T21:52:00+00:00",
-"src": "Bloomberg",
-"kind": "market",
-"seen": "2026-11-20T22:14:08+00:00"
-},
-{
-"id": "3dc17f4c7475",
-"t": "",
-"title": "Nasdaq Turns Red For The Year",
-"url": "https://www.wsj.com/finance/stocks/nasdaq-turns-red-for-the-year-46ad8118?mod=rss_markets_main",
-"pub": "2026-11-20T21:50:00+00:00",
-"src": "WSJ",
-"kind": "market",
-"seen": "2026-11-20T22:14:08+00:00"
-},
-{
-"id": "79f65a7574b4",
-"t": "",
-"title": "Iran’s Foreign Minister Araghchi: We need ‘confidence-building’ steps that US won’t resume strikes.",
-"url": "https://www.financialjuice.com/News/9862507/Irans-Foreign-Minister-Araghchi-We-need-confidence-building-steps-that-US-wont-resume-strikes.aspx",
-"pub": "2026-11-20T21:48:46+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-20T22:14:08+00:00"
-},
-{
-"id": "ef766c027be7",
-"t": "",
-"title": "Iran’s Foreign Minister Araghchi: We need ‘confidence-building’ steps that US won’t resume strikes.",
-"url": "https://www.financialjuice.com/News/9862507/Irans-Foreign-Minister-Araghchi-We-need-confidence-building-steps-that-US-wont-resume-strikes.aspx?xy=rss",
-"pub": "2026-11-20T21:48:46+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-20T22:24:18+00:00"
-},
-{
-"id": "86772438e28a",
-"t": "",
-"title": "Iran’s Foreign Minister Araghchi: Two-day Hormuz plan is still on the table.",
-"url": "https://www.financialjuice.com/News/9862506/Irans-Foreign-Minister-Araghchi-Two-day-Hormuz-plan-is-still-on-the-table.aspx",
-"pub": "2026-11-20T21:48:31+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-20T22:14:08+00:00"
-},
-{
-"id": "7fb6d89d9350",
-"t": "",
-"title": "Iran’s Foreign Minister Araghchi: Two-day Hormuz plan is still on the table.",
-"url": "https://www.financialjuice.com/News/9862506/Irans-Foreign-Minister-Araghchi-Two-day-Hormuz-plan-is-still-on-the-table.aspx?xy=rss",
-"pub": "2026-11-20T21:48:31+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-20T22:24:18+00:00"
 }
 ]
 }
