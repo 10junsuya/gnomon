@@ -1,18 +1,68 @@
 {
-"updated_kst": "2026-11-22 02:28",
-"rot": 47,
+"updated_kst": "2026-11-22 02:44",
+"rot": 107,
 "how": "Scout(프로그램)이 10분마다 모은 기사 제목·링크와 공시예요. Wren이 공식 출처로 확인한 뒤 회사 화면에 한국어로 반영해요. 본문은 받지 않아요.",
 "sources": {
 "Yahoo Finance": "120종목 확인 · 실패 0",
 "CNBC": "63건",
 "Bloomberg": "28건",
 "WSJ": "61건",
-"Reuters": "38건",
+"Reuters": "36건",
 "FinancialJuice": "100건",
 "SEC EDGAR": "실패 HTTPError",
 "Fox Business": "50건"
 },
 "items": [
+{
+"id": "c5e14d5eeb81",
+"t": "NVDA",
+"title": "Eli Lilly's Next Big Growth Opportunity Could Be Hiding in Plain Sight",
+"url": "https://www.fool.com/investing/2026/11/21/eli-lilly-s-next-big-growth-opportunity-could-be-hiding-in-plain-sight/?.tsrc=rss",
+"pub": "2026-11-21T17:37:02+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-21T17:44:46+00:00"
+},
+{
+"id": "4040915f3c19",
+"t": "CVX",
+"title": "Gas Prices Are Dropping at a 2008 Pace Right Before Thanksgiving",
+"url": "https://247wallst.com/investing/2026/11/21/gas-prices-are-dropping-at-a-2008-pace-right-before-thanksgiving/?.tsrc=rss",
+"pub": "2026-11-21T17:22:55+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-21T17:44:46+00:00"
+},
+{
+"id": "df43f541ddd7",
+"t": "MSFT",
+"title": "A $1.3 Billion Fund Just Bought These 3 Stocks",
+"url": "https://www.tikr.com/blog/a-1-3-billion-fund-just-bought-these-3-stocks?ref=yahoofinance&tlnk=yf-261121-5m5mfwj7&.tsrc=rss",
+"pub": "2026-11-21T17:21:55+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-21T17:44:46+00:00"
+},
+{
+"id": "84a7f04b429d",
+"t": "NVDA",
+"title": "Is IonQ Stock a Buy Right Now?",
+"url": "https://www.fool.com/investing/2026/11/21/is-ionq-stock-a-buy-right-now/?.tsrc=rss",
+"pub": "2026-11-21T17:20:02+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-21T17:44:46+00:00"
+},
+{
+"id": "15643c4c0b28",
+"t": "WMT",
+"title": "Walmart shares delivery update consumers need to know about",
+"url": "https://www.thestreet.com/retail/walmart-shares-delivery-update-consumers-need-to-know-about?.tsrc=rss",
+"pub": "2026-11-21T17:17:00+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-21T17:44:46+00:00"
+},
 {
 "id": "34f46c1dc396",
 "t": "ANET",
@@ -62,6 +112,36 @@
 "src": "Yahoo Finance",
 "kind": "news",
 "seen": "2026-11-21T17:14:26+00:00"
+},
+{
+"id": "59ed0c9a16b1",
+"t": "MSFT",
+"title": "Tech Outages Drive Costco Surge: How Much Emergency Prep Should You Buy?",
+"url": "https://moneylion.com/trending/money/tech-outages-drive-costco-surge-emergency-prep?.tsrc=rss",
+"pub": "2026-11-21T17:00:42+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-21T17:44:46+00:00"
+},
+{
+"id": "f5058e5b5b96",
+"t": "JPM",
+"title": "These 5 Stock Market Myths Can Cost You Thousands (Here's the Reality)",
+"url": "https://moneylion.com/trending/money/stock-market-myths-costing-thousands-reality?.tsrc=rss",
+"pub": "2026-11-21T17:00:41+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-21T17:44:46+00:00"
+},
+{
+"id": "7b951d71f9f5",
+"t": "MSFT",
+"title": "3 Money Moves To Make If You Hear About Layoffs at Your Company",
+"url": "https://moneylion.com/trending/money/money-moves-hear-about-company-layoffs?.tsrc=rss",
+"pub": "2026-11-21T17:00:40+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-21T17:44:46+00:00"
 },
 {
 "id": "d84b21654567",
@@ -732,6 +812,16 @@
 "src": "Yahoo Finance",
 "kind": "news",
 "seen": "2026-11-21T15:10:04+00:00"
+},
+{
+"id": "805c88dd6b8b",
+"t": "GS",
+"title": "Goldman Sachs admits the ‘AI unwind’ has spiraled into something more dangerous — and it’s watching for 3 signs of bottom",
+"url": "https://finance.yahoo.com/markets/stocks/articles/goldman-sachs-admits-ai-unwind-144744809.html?.tsrc=rss",
+"pub": "2026-11-21T14:47:44+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-21T17:44:46+00:00"
 },
 {
 "id": "afe4190f8598",
@@ -7924,96 +8014,6 @@
 "seen": "2026-11-20T16:15:51+00:00"
 },
 {
-"id": "9436f7b2d715",
-"t": "BABA",
-"title": "Temu Owner PDD Just Gained 11% in a Week. Is a Profit Beat on Flat Sales Really That Good?",
-"url": "https://www.tikr.com/blog/temu-owner-pdd-just-gained-11-in-a-week-is-a-profit-beat-on-flat-sales-really-that-good?ref=yahoofinance&tlnk=yf-261120-v27fjhf3&.tsrc=rss",
-"pub": "2026-11-20T15:50:32+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-20T16:39:56+00:00"
-},
-{
-"id": "6e8612beb67f",
-"t": "NVDA",
-"title": "Costco Just Made a New All-Time High After Announcing a $30-Per-Share Special Dividend. Is the Stock a Buy Before Dec. 10?",
-"url": "https://www.fool.com/investing/2026/11/20/costco-just-made-a-new-all-time-high-after-announcing-a-30-per-share-special-dividend-is-the-stock-a-buy-before-dec-10/?.tsrc=rss",
-"pub": "2026-11-20T15:50:02+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-20T16:15:51+00:00"
-},
-{
-"id": "5a8f7cfc0484",
-"t": "WMT",
-"title": "Walmart Is Up 24% in a Year. Truist Sees Another 6%",
-"url": "https://www.tikr.com/blog/walmart-is-up-24-in-a-year-truist-sees-another-6?ref=yahoofinance&tlnk=yf-261120-693473pw&.tsrc=rss",
-"pub": "2026-11-20T15:48:56+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-20T17:40:09+00:00"
-},
-{
-"id": "a5639a31b7c4",
-"t": "NVDA",
-"title": "How Anthropic compares to other tech companies",
-"url": "https://finance.yahoo.com/video/how-anthropic-compares-to-other-tech-companies-154845765.html?.tsrc=rss",
-"pub": "2026-11-20T15:48:45+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-20T16:15:51+00:00"
-},
-{
-"id": "0ce277b227ff",
-"t": "AAPL",
-"title": "Banks race to patch vulnerabilities amid amplified tech outage risk",
-"url": "https://www.bankingdive.com/news/banks-patching-vulnerabilities-tech-outage-risk-ai-cybersecurity/875329/?.tsrc=rss",
-"pub": "2026-11-20T15:48:43+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-20T16:39:56+00:00"
-},
-{
-"id": "910111f71994",
-"t": "GS",
-"title": "4 Wall Street Giants That Raised Their Dividends for Income Investors",
-"url": "https://247wallst.com/investing/2026/11/20/4-wall-street-giants-that-raised-their-dividends-for-income-investors/?.tsrc=rss",
-"pub": "2026-11-20T15:47:19+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-20T16:39:56+00:00"
-},
-{
-"id": "41ef026e6bfa",
-"t": "CAT",
-"title": "Caterpillar’s 35% 3-Month Downturn: This Sell-Side Firm Predicts 90% Returns From Here With Another Close Behind",
-"url": "https://247wallst.com/investing/2026/11/20/caterpillars-35-3-month-downturn-this-sell-side-firm-predicts-90-returns-from-here-with-another-close-behind/?.tsrc=rss",
-"pub": "2026-11-20T15:45:59+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-20T16:39:56+00:00"
-},
-{
-"id": "1fd3850313e1",
-"t": "VZ",
-"title": "5 High-Yield Dividend Stocks Retirees Can Buy for Under $50 a Share",
-"url": "https://247wallst.com/investing/2026/11/20/5-high-yield-dividend-stocks-retirees-can-buy-for-under-50-a-share/?.tsrc=rss",
-"pub": "2026-11-20T15:45:50+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-20T16:15:51+00:00"
-},
-{
-"id": "4dcc471627f7",
-"t": "NVDA",
-"title": "Between IREN and CoreWeave Here’s Who Has the Cleaner Path to a Sustained 30% Rebound",
-"url": "https://247wallst.com/investing/2026/11/20/between-iren-and-coreweave-heres-who-has-the-cleaner-path-to-a-sustained-30-rebound/?.tsrc=rss",
-"pub": "2026-11-20T15:45:35+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-20T16:15:51+00:00"
-},
-{
 "id": "f5d8562472c6",
 "t": "",
 "title": "What It’s Like to Retire in Thailand",
@@ -8412,6 +8412,16 @@
 "src": "Bloomberg",
 "kind": "market",
 "seen": "2026-11-21T13:15:23+00:00"
+},
+{
+"id": "1900e89b7df1",
+"t": "",
+"title": "MEVO.O - | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE4yY3M4aU45QkUwNmJxdUI5UzhjZmRxTDZwODJMLU8wbHdpSmJhYUFjd1lLMUxfcHZaQlF6bUhDNnZRVUd0TUdvN2JTQ2FqUjVCNjMzb05QVlhGZGNobi1lbG9oOG5EenVoNnZMbTln?oc=5",
+"pub": "2026-11-21T12:44:29+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-21T17:44:46+00:00"
 },
 {
 "id": "e4357f774786",
@@ -11002,16 +11012,6 @@
 "src": "FinancialJuice",
 "kind": "market",
 "seen": "2026-11-20T22:14:08+00:00"
-},
-{
-"id": "dfab443499c4",
-"t": "",
-"title": "NYMEX WTI Crude December futures settle at $83.98 a barrel, up 77 cents, 0.93%.",
-"url": "https://www.financialjuice.com/News/9862340/NYMEX-WTI-Crude-December-futures-settle-at-8398-a-barrel-up-77-cents-093.aspx?xy=rss",
-"pub": "2026-11-20T19:31:13+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-20T19:44:51+00:00"
 }
 ]
 }
