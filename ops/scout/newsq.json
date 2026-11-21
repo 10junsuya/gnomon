@@ -1,18 +1,48 @@
 {
-"updated_kst": "2026-11-22 06:14",
-"rot": 110,
+"updated_kst": "2026-11-22 06:31",
+"rot": 170,
 "how": "Scout(프로그램)이 10분마다 모은 기사 제목·링크와 공시예요. Wren이 공식 출처로 확인한 뒤 회사 화면에 한국어로 반영해요. 본문은 받지 않아요.",
 "sources": {
 "Yahoo Finance": "120종목 확인 · 실패 0",
 "CNBC": "63건",
 "Bloomberg": "27건",
 "WSJ": "61건",
-"Reuters": "48건",
+"Reuters": "43건",
 "FinancialJuice": "100건",
 "SEC EDGAR": "실패 HTTPError",
 "Fox Business": "50건"
 },
 "items": [
+{
+"id": "38d3b9cddffa",
+"t": "MU",
+"title": "Micron Stock Just Hit Its Lowest Price Since May. I'd Buy More Now.",
+"url": "https://www.fool.com/investing/2026/11/21/micron-stock-just-hit-its-lowest-price-since-may-i-d-buy-more-now/?.tsrc=rss",
+"pub": "2026-11-21T21:12:02+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-21T21:31:18+00:00"
+},
+{
+"id": "8ea7e819624a",
+"t": "NVDA",
+"title": "AI Selloff Has Opened New Ways To Play Semiconductor Short Exposure",
+"url": "https://finance.yahoo.com/technology/ai/articles/ai-selloff-opened-ways-play-211024484.html?.tsrc=rss",
+"pub": "2026-11-21T21:10:24+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-21T21:31:18+00:00"
+},
+{
+"id": "f168d2f96838",
+"t": "TSLA",
+"title": "Tesla (TSLA) Stock Looks Richly Priced After Its 47% Three Year Run",
+"url": "https://finance.yahoo.com/markets/stocks/articles/tesla-tsla-stock-looks-richly-210854263.html?.tsrc=rss",
+"pub": "2026-11-21T21:08:54+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-21T21:31:18+00:00"
+},
 {
 "id": "ae803bd6b07f",
 "t": "NVDA",
@@ -22,6 +52,16 @@
 "src": "Yahoo Finance",
 "kind": "news",
 "seen": "2026-11-21T21:14:08+00:00"
+},
+{
+"id": "a4c0e0c0a580",
+"t": "VOO",
+"title": "His Indexed Annuity Tracks the S&P 500. The Fine Print Says “Price Return,” Which Means It Leaves Out Every Dividend the 500 Companies Pay",
+"url": "https://247wallst.com/personal-finance/2026/11/21/his-indexed-annuity-tracks-the-sp-500-the-fine-print-says-price-return-which-means-it-leaves-out-every-dividend-the-500-companies-pay/?.tsrc=rss",
+"pub": "2026-11-21T21:03:49+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-21T21:31:18+00:00"
 },
 {
 "id": "e79aa9169059",
@@ -7974,44 +8014,14 @@
 "seen": "2026-11-20T17:14:24+00:00"
 },
 {
-"id": "a0ef40d71622",
-"t": "NVDA",
-"title": "Anthropic Share Slump Nearly Erases IPO Pop",
-"url": "https://finance.yahoo.com/video/anthropic-share-slump-nearly-erases-163809854.html?.tsrc=rss",
-"pub": "2026-11-20T16:38:09+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-20T17:14:24+00:00"
-},
-{
-"id": "15f801188b1f",
-"t": "NVDA",
-"title": "Bessent Says Nvidia H200 China Sales Policy Stays. A Week Ago, He Backed Tougher Chip Limits.",
-"url": "https://www.ibtimes.com/bessent-nvidia-h200-chip-exports-china-policy-3810023?.tsrc=rss",
-"pub": "2026-11-20T16:37:18+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-20T17:14:24+00:00"
-},
-{
-"id": "24ea70c78d28",
-"t": "NVDA",
-"title": "Ubisoft’s Assassin’s Creed Win Runs Straight Into the GTA VI Juggernaut",
-"url": "https://app.moby.co/home/news/news-ubisofts-assassins-creed-win-runs-straight-into-the-gta-vi-juggernaut?utm_source=yahoo_finance&utm_medium=rss&.tsrc=rss",
-"pub": "2026-11-20T16:37:02+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-20T17:14:24+00:00"
-},
-{
-"id": "d804cc3e8ba2",
-"t": "SPY",
-"title": "Managed Futures Are a Hedge Fund Staple. RSST Stacks $1 of Them on Top of $1 of U.S. Stocks",
-"url": "https://247wallst.com/investing/etf/2026/11/20/managed-futures-are-a-hedge-fund-staple-rsst-stacks-1-of-them-on-top-of-1-of-u-s-stocks/?.tsrc=rss",
-"pub": "2026-11-20T16:36:11+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-20T16:39:56+00:00"
+"id": "d3134e0ff4d0",
+"t": "",
+"title": "Saudi-led coalition: intercepts and destroys missile launched by Yemen's Houthis toward western region",
+"url": "https://www.financialjuice.com/News/9863149/Saudi-led-coalition-intercepts-and-destroys-missile-launched-by-Yemens-Houthis-toward-western-region.aspx?xy=rss",
+"pub": "2026-11-21T21:28:16+00:00",
+"src": "FinancialJuice",
+"kind": "market",
+"seen": "2026-11-21T21:31:18+00:00"
 },
 {
 "id": "b55e5a00669e",
@@ -8112,6 +8122,16 @@
 "src": "FinancialJuice",
 "kind": "market",
 "seen": "2026-11-21T20:03:56+00:00"
+},
+{
+"id": "4204dff2e434",
+"t": "",
+"title": "M&G PLC (MNG.L) | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFB4eXUtRy0wZmJialJZQ1F4bDFVUmJKTHhTRVpLdEdtMzhXZTZNS0E4ckxmeS1NczN6WEdrUkQ1emZRSUxLeG5HMDdoOFVPREZIbzFpLUc0Y1BXTGZC?oc=5",
+"pub": "2026-11-21T19:53:28+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-21T21:31:18+00:00"
 },
 {
 "id": "db1a400ed8d3",
@@ -8324,6 +8344,16 @@
 "seen": "2026-11-21T18:44:40+00:00"
 },
 {
+"id": "1c143400bcfe",
+"t": "",
+"title": "2694.JSF - | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQOF9HMzc5dTlKUjB2QkxnSTNIeGg1LTU0SGVQdjNzRTBhVWhfWGRvdEYwZE5PR1RvNGdQQ2NySC01bGhHU21oUEFyVW4zU3NfbThOSklZVG5FN1RzMFFXRTBTaEdlZ3BEYmVkSXZnR1R1SGtFM3dNRTlTWm9WUnFFQjdISm1qRGZJZkE?oc=5",
+"pub": "2026-11-21T17:02:06+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-21T21:31:18+00:00"
+},
+{
 "id": "699965c167dc",
 "t": "",
 "title": "Anthropic Fails to Calm AI Jitters, Ditching the Kitchen for Thanksgiving",
@@ -8332,6 +8362,16 @@
 "src": "Bloomberg",
 "kind": "market",
 "seen": "2026-11-21T18:15:18+00:00"
+},
+{
+"id": "3f035c6124d9",
+"t": "",
+"title": "Glanbia PLC (GL9.I) | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBXNFYtS1NQSkdOUE1YNURGQnZ6ZFlMRzFmalFZUVNHaV9uQ0lyWFpHdDNWT3ZhUHdvNDVIVWUwb1FtLThaRUo2Z3dyTzlJNW4zbzJxbUF3SmFnOVhx?oc=5",
+"pub": "2026-11-21T17:00:41+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-21T21:31:18+00:00"
 },
 {
 "id": "f5d8562472c6",
@@ -8452,6 +8492,16 @@
 "src": "FinancialJuice",
 "kind": "market",
 "seen": "2026-11-21T19:14:53+00:00"
+},
+{
+"id": "e36be5c70b97",
+"t": "",
+"title": "Defiance Daily Target 2X Long VST ETF (VSTL.O) | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9EZ0cwcFI2ZnFoa3M3aWhMTGJMZlZSUURuNE1Ra1N1RGtYOWdkV05jVUNxQjlEX2ZLWmg0aktSZ3F5LU5lbmVKOFJIV0tuQjFOTWs4am8wM3c?oc=5",
+"pub": "2026-11-21T15:52:17+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-21T21:31:18+00:00"
 },
 {
 "id": "ee21135c8af9",
@@ -9054,6 +9104,16 @@
 "seen": "2026-11-21T17:44:46+00:00"
 },
 {
+"id": "7885da1f886e",
+"t": "",
+"title": "M Evo Global Acquisition Corp II (MEVO.O) | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1iS2tiY0FhdHFBOXdKVFE4ZWhha09nQkZBNzBqM2kyVkV3SG9YbnN5OUQ0dTZ1cGo0TkNXNW04a2U2cUpNQllaRjh2SDg4RnE3eUpFd19nb01JX2RKRGREeFBjWnpsN0dPa193?oc=5",
+"pub": "2026-11-21T12:43:06+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-21T21:31:18+00:00"
+},
+{
 "id": "19e5d3e2d1a5",
 "t": "",
 "title": "7GE.LAS - | Stock Price & Latest News - Reuters",
@@ -9082,6 +9142,16 @@
 "src": "Reuters",
 "kind": "market",
 "seen": "2026-11-21T16:14:06+00:00"
+},
+{
+"id": "3c9a54f682e5",
+"t": "",
+"title": "BRBI BR Partners SA (BRBI.O) | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5BSFA5ekhDMVIzNzRmT2JzbHFiek04MzR5dnZmR0hrMGk5SDRGVDd1eVlQU0RJZkVTUTR3M1dvRUN3RzBwaGp5OFZOaVRzRjBtaktpOWxlRXk5MXNSMkMtOUtSbk8zY1pxWTBseEV3?oc=5",
+"pub": "2026-11-21T12:38:32+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-21T21:31:18+00:00"
 },
 {
 "id": "1bf4a7e9fcd6",
@@ -9784,6 +9854,16 @@
 "seen": "2026-11-21T14:14:40+00:00"
 },
 {
+"id": "28c38e4b383e",
+"t": "",
+"title": "O9601O.T - | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9HRndCdTdxMFhwbVlOR3VPblBlQ3h3d3hJWnhJdDdVYWI1TUdrbFZmRFh3N05HVk9rdUFfVFdaVEtYTXM4VnE4UUJ6c2NWYVNZWUZTbW1FOHVjdWg4a3BsQlNLaGdXbEl6WjlOOWM5UXQwaE9ydnVtNlViLW8?oc=5",
+"pub": "2026-11-21T05:06:00+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-21T21:31:18+00:00"
+},
+{
 "id": "e45a8a7386eb",
 "t": "",
 "title": "China Military Bans SF Express From Procurement Over Misconduct",
@@ -9872,6 +9952,16 @@
 "src": "Reuters",
 "kind": "market",
 "seen": "2026-11-21T18:15:18+00:00"
+},
+{
+"id": "6d617d8b3962",
+"t": "",
+"title": "STMicroelectronics N.V. (STMN34.SA) | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE92YThNcHJEbi1XdEExdk1uRXUtUlYtLUNtVDE3NlFpbUJ0ZnZaQzQ4U3NRamlfQ1Z5Ui1mbHN5M2tBUTE0eWJiSUZKVENERHNPLTFvZEJiVU0tejUwMk5mbWJ3cXB0TTd2QVNQZXVZTQ?oc=5",
+"pub": "2026-11-21T04:32:44+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-21T21:31:18+00:00"
 },
 {
 "id": "77f2688d9283",
@@ -10922,96 +11012,6 @@
 "src": "FinancialJuice",
 "kind": "market",
 "seen": "2026-11-20T21:44:59+00:00"
-},
-{
-"id": "0ff02d659485",
-"t": "",
-"title": "Iran's Foreign Minister Araqchi tells an Iranian newspaper: Tehran still has hope in diplomacy to end the war with the US.",
-"url": "https://www.financialjuice.com/News/9862486/Irans-Foreign-Minister-Araqchi-tells-an-Iranian-newspaper-Tehran-still-has-hope-in-diplomacy-to-end-the-war-with-the-US.aspx",
-"pub": "2026-11-20T21:35:13+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-20T22:14:08+00:00"
-},
-{
-"id": "3bbf54915457",
-"t": "",
-"title": "Anthropic, PBC (ANT.O) | Stock Price & Latest News - Reuters",
-"url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1sMzJxaDFtcTdDUE1rWGVFZFVhMjJhX0RVSko2RlMtejdUdDlMY2MtZXdLYUh3aVc0WFBSMnlZR3hLc0MwVjNRUG00Q1Nxd1loR055XzZPZ0tvZk0t?oc=5",
-"pub": "2026-11-20T21:29:55+00:00",
-"src": "Reuters",
-"kind": "market",
-"seen": "2026-11-20T22:24:18+00:00"
-},
-{
-"id": "a4b668b9adb1",
-"t": "",
-"title": "TSX posts steepest weekly decline since 2020, confirms a correction - Reuters",
-"url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQZk43YVdqYVhFb3BPT21wdF80NmR4ZUxNYXliN0xneVNsZkdHM29WRkJfanpqVU9pQXkzejE5Q053M1lnQ3RQXzlYQmhzWk5PR1JpTklsdlNNNm9wUzl2QUI5SXM3Slc1eEtRMUgyTTctdUt3eDBmcVhpX3hxS3NiVkRJWnAtRjBxbnFJOWEtbzljaVBrSEFlZFZuZDFqV0hER04ya2VCOTZjSGhTemk4cTFQb3E2MDR3Z0E?oc=5",
-"pub": "2026-11-20T21:29:19+00:00",
-"src": "Reuters",
-"kind": "market",
-"seen": "2026-11-21T16:45:20+00:00"
-},
-{
-"id": "d5414609dcbc",
-"t": "",
-"title": "U.S. Stocks Extend Plunge as AI Boom Turns to Bust",
-"url": "https://www.wsj.com/finance/stocks/u-s-stocks-extend-plunge-as-ai-boom-turns-to-bust-a2d324e7?mod=rss_markets_main",
-"pub": "2026-11-20T21:27:00+00:00",
-"src": "WSJ",
-"kind": "market",
-"seen": "2026-11-20T21:29:57+00:00"
-},
-{
-"id": "7db3cd3a26ae",
-"t": "",
-"title": "EU nears new trade power to block access to its single market.",
-"url": "https://www.financialjuice.com/News/9862481/EU-nears-new-trade-power-to-block-access-to-its-single-market.aspx?xy=rss",
-"pub": "2026-11-20T21:26:36+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-20T21:29:57+00:00"
-},
-{
-"id": "abba3831bc6c",
-"t": "",
-"title": "EU nears new trade power to block access to its single market.",
-"url": "https://www.financialjuice.com/News/9862481/EU-nears-new-trade-power-to-block-access-to-its-single-market.aspx",
-"pub": "2026-11-20T21:26:36+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-20T22:14:08+00:00"
-},
-{
-"id": "82cb3c529dc1",
-"t": "",
-"title": "300322ta.SZ - | Stock Price & Latest News - Reuters",
-"url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQSWM1OHdQV2w2ZFVQcHVZeE8wa1JsWGxhajhQMDZ2S0F5YS1FVEVGcmtLNnp1SWtHZXZUcE9MTWVRS19TOTVnODdsZkxGaUJpSzV1ZUdleURyYlU0dHN3YnBPRlkxeWZHX19QV0Ixbk03Y0tYVk93LXFUdS1Vc2VvRHZn?oc=5",
-"pub": "2026-11-20T21:25:56+00:00",
-"src": "Reuters",
-"kind": "market",
-"seen": "2026-11-21T03:13:58+00:00"
-},
-{
-"id": "72918451cfbe",
-"t": "",
-"title": "VIX Hits Highest Level Since 2025 Tariff Turmoil as Volatility Warning Flash",
-"url": "https://www.bloomberg.com/news/articles/2026-11-20/vix-hits-highest-level-since-2025-tariff-turmoil-as-volatility-warning-flash",
-"pub": "2026-11-20T21:22:33+00:00",
-"src": "Bloomberg",
-"kind": "market",
-"seen": "2026-11-20T21:29:57+00:00"
-},
-{
-"id": "695f21ccadc2",
-"t": "",
-"title": "Oracle still sees positive free cash flow in 2H FY2028. $ORCL",
-"url": "https://www.financialjuice.com/News/9862480/Oracle-still-sees-positive-free-cash-flow-in-2H-FY2028-ORCL.aspx?xy=rss",
-"pub": "2026-11-20T21:22:26+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-20T21:29:57+00:00"
 }
 ]
 }
