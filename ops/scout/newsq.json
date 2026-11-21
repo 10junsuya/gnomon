@@ -1,18 +1,38 @@
 {
-"updated_kst": "2026-11-22 05:52",
-"rot": 50,
+"updated_kst": "2026-11-22 06:14",
+"rot": 110,
 "how": "Scout(프로그램)이 10분마다 모은 기사 제목·링크와 공시예요. Wren이 공식 출처로 확인한 뒤 회사 화면에 한국어로 반영해요. 본문은 받지 않아요.",
 "sources": {
 "Yahoo Finance": "120종목 확인 · 실패 0",
 "CNBC": "63건",
-"Bloomberg": "26건",
+"Bloomberg": "27건",
 "WSJ": "61건",
-"Reuters": "44건",
+"Reuters": "48건",
 "FinancialJuice": "100건",
 "SEC EDGAR": "실패 HTTPError",
 "Fox Business": "50건"
 },
 "items": [
+{
+"id": "ae803bd6b07f",
+"t": "NVDA",
+"title": "Is USA Rare Earth Stock a Buy Now?",
+"url": "https://www.fool.com/investing/2026/11/21/is-usa-rare-earth-stock-a-buy-now/?.tsrc=rss",
+"pub": "2026-11-21T21:05:02+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-21T21:14:08+00:00"
+},
+{
+"id": "e79aa9169059",
+"t": "NVDA",
+"title": "Is Shopify Stock Too Expensive to Buy for the Next 10 Years?",
+"url": "https://www.fool.com/investing/2026/11/21/is-shopify-stock-too-expensive-to-buy-for-the-next-10-years/?.tsrc=rss",
+"pub": "2026-11-21T20:47:02+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-21T21:14:08+00:00"
+},
 {
 "id": "0160feb56c86",
 "t": "SPCX",
@@ -22,6 +42,16 @@
 "src": "Yahoo Finance",
 "kind": "news",
 "seen": "2026-11-21T20:52:52+00:00"
+},
+{
+"id": "5f3cbe24ac7c",
+"t": "NVDA",
+"title": "2 Financial Stocks to Buy Near Their 52-Week Lows",
+"url": "https://www.fool.com/investing/2026/11/21/2-financial-stocks-to-buy-near-their-52-week-lows/?.tsrc=rss",
+"pub": "2026-11-21T20:43:01+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-21T21:14:08+00:00"
 },
 {
 "id": "2d3dba6b83cd",
@@ -1222,6 +1252,26 @@
 "src": "Yahoo Finance",
 "kind": "news",
 "seen": "2026-11-21T15:44:37+00:00"
+},
+{
+"id": "42aecf92d7df",
+"t": "AAPL",
+"title": "Apple Is Now Worth Over $5 Trillion Without Betting Big on AI Data Centers. AAPL Stock Now Trades Near Wall Street’s Targets.",
+"url": "https://www.barchart.com/story/news/8950358/apple-is-now-worth-over-5-trillion-without-betting-big-on-ai-data-centers-aapl-stock-now-trades-near-wall-streets-targets?.tsrc=rss",
+"pub": "2026-11-21T15:00:03+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-21T21:14:08+00:00"
+},
+{
+"id": "37efaeb41274",
+"t": "UNH",
+"title": "TD Cowen Just Upgraded UnitedHealth Stock. Here’s Why.",
+"url": "https://www.barchart.com/story/news/8950362/td-cowen-just-upgraded-unitedhealth-stock-heres-why?.tsrc=rss",
+"pub": "2026-11-21T15:00:03+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-21T21:14:08+00:00"
 },
 {
 "id": "4199e6943f03",
@@ -7964,54 +8014,14 @@
 "seen": "2026-11-20T16:39:56+00:00"
 },
 {
-"id": "d161de096d01",
-"t": "UNH",
-"title": "Stock Market Dives To New Lows Despite Nvidia Earnings, Anthropic IPO: Weekly Review",
-"url": "https://finance.yahoo.com/m/bcd84546-a71f-30bc-857f-6edb76ad481d/stock-market-dives-to-new.html?.tsrc=rss",
-"pub": "2026-11-20T16:35:14+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-20T17:14:24+00:00"
-},
-{
-"id": "697661665419",
-"t": "SPCX",
-"title": "Prediction: $5,000 in SpaceX Will Be Worth This Much by 2040 If Elon Musk Solves Its Power Problem",
-"url": "https://www.fool.com/investing/2026/11/20/prediction-5000-in-spacex-will-be-worth-this-much/?.tsrc=rss",
-"pub": "2026-11-20T16:35:00+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-20T16:43:57+00:00"
-},
-{
-"id": "68140176f1e6",
-"t": "GOOGL",
-"title": "Investors Might Be Making a Big Mistake by Overlooking This Growth Stock",
-"url": "https://247wallst.com/investing/2026/11/20/investors-might-be-making-a-big-mistake-by-overlooking-this-growth-stock/?.tsrc=rss",
-"pub": "2026-11-20T16:34:05+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-20T16:39:56+00:00"
-},
-{
-"id": "0b02521997d3",
-"t": "NVDA",
-"title": "Why Sandisk Stock Dropped Again Today",
-"url": "https://www.fool.com/investing/2026/11/20/why-sandisk-stock-dropped-again-today/?.tsrc=rss",
-"pub": "2026-11-20T16:34:00+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-20T16:43:57+00:00"
-},
-{
-"id": "4e72a00838ba",
-"t": "GOOGL",
-"title": "Scott Bessent Says Trump-Xi Talks Did Not Address Jensen Huang, Left Nvidia H200 Policy Unchanged",
-"url": "https://stocktwits.com/news-articles/markets/equity/scott-bessent-says-trump-xi-talks-did-not-address-jensen-huang-left-nvidia-h200-policy-unchanged/cNbSZuYR915?.tsrc=rss",
-"pub": "2026-11-20T16:32:13+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-20T16:39:56+00:00"
+"id": "b55e5a00669e",
+"t": "",
+"title": "US Consumers Are Holding Up Against Inflation Going Into Holiday Season",
+"url": "https://www.bloomberg.com/news/articles/2026-11-21/us-consumers-are-holding-up-against-inflation-going-into-holiday-season",
+"pub": "2026-11-21T21:00:00+00:00",
+"src": "Bloomberg",
+"kind": "market",
+"seen": "2026-11-21T21:14:08+00:00"
 },
 {
 "id": "9d6f6d33812e",
@@ -9292,6 +9302,16 @@
 "src": "Bloomberg",
 "kind": "market",
 "seen": "2026-11-21T11:22:55+00:00"
+},
+{
+"id": "3ea007ce2850",
+"t": "",
+"title": "iShares iBonds Dec 2030 Term Muni Bond ETF (IBMS.N) | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5hWmJfN1p5ejlCaXJXRS03MEhQcFkxNFRNcWJiYXZUaTFXUTY4djVTS0VyZ2k4TF81bndhWS1ObTk4OGRza3RyS2s5TjBBUEp1MUZPSkJmejRYLWVjY20zVXMwVXhsSUVRYU40?oc=5",
+"pub": "2026-11-21T10:49:58+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-21T21:14:08+00:00"
 },
 {
 "id": "aa39903fbeb7",
@@ -10989,26 +11009,6 @@
 "title": "Oracle still sees positive free cash flow in 2H FY2028. $ORCL",
 "url": "https://www.financialjuice.com/News/9862480/Oracle-still-sees-positive-free-cash-flow-in-2H-FY2028-ORCL.aspx?xy=rss",
 "pub": "2026-11-20T21:22:26+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-20T21:29:57+00:00"
-},
-{
-"id": "5d22c2c2b8fd",
-"t": "",
-"title": "Oracle still sees positive free cash flow in 2H FY2028. $ORCL",
-"url": "https://www.financialjuice.com/News/9862480/Oracle-still-sees-positive-free-cash-flow-in-2H-FY2028-ORCL.aspx",
-"pub": "2026-11-20T21:22:26+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-20T22:14:08+00:00"
-},
-{
-"id": "59aa62daa852",
-"t": "",
-"title": "Oracle: OpenAI contract fully funded. $ORCL",
-"url": "https://www.financialjuice.com/News/9862479/Oracle-OpenAI-contract-fully-funded-ORCL.aspx?xy=rss",
-"pub": "2026-11-20T21:21:58+00:00",
 "src": "FinancialJuice",
 "kind": "market",
 "seen": "2026-11-20T21:29:57+00:00"
