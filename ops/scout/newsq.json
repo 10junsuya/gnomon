@@ -1,18 +1,78 @@
 {
-"updated_kst": "2026-11-22 04:14",
-"rot": 108,
+"updated_kst": "2026-11-22 04:44",
+"rot": 168,
 "how": "Scout(프로그램)이 10분마다 모은 기사 제목·링크와 공시예요. Wren이 공식 출처로 확인한 뒤 회사 화면에 한국어로 반영해요. 본문은 받지 않아요.",
 "sources": {
 "Yahoo Finance": "120종목 확인 · 실패 0",
 "CNBC": "63건",
 "Bloomberg": "26건",
 "WSJ": "61건",
-"Reuters": "48건",
+"Reuters": "47건",
 "FinancialJuice": "100건",
 "SEC EDGAR": "실패 HTTPError",
 "Fox Business": "50건"
 },
 "items": [
+{
+"id": "e0ac2e85f96f",
+"t": "SPCX",
+"title": "Better Recent IPO: SpaceX or Anthropic?",
+"url": "https://www.fool.com/investing/2026/11/21/better-recent-ipo-spacex-or-anthropic/?.tsrc=rss",
+"pub": "2026-11-21T19:35:02+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-21T19:44:12+00:00"
+},
+{
+"id": "52430d970717",
+"t": "AMZN",
+"title": "Amazon tells NYC shoppers a Mamdani-backed delivery bill could cost them up to $664 a year per household",
+"url": "https://finance.yahoo.com/economy/policy/articles/amazon-tells-nyc-shoppers-mamdani-193000343.html?.tsrc=rss",
+"pub": "2026-11-21T19:30:00+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-21T19:44:12+00:00"
+},
+{
+"id": "d11948d88f22",
+"t": "NVDA",
+"title": "Medtronic Is About to Report Its First Earnings Since Spinning Off MiniMed. Should You Buy the Stock Before Nov. 24?",
+"url": "https://www.fool.com/investing/2026/11/21/medtronic-is-about-to-report-its-first-earnings-since-spinning-off-minimed-should-you-buy-the-stock-before-nov-24/?.tsrc=rss",
+"pub": "2026-11-21T19:27:02+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-21T19:44:12+00:00"
+},
+{
+"id": "df485e65fd19",
+"t": "NVDA",
+"title": "2 Growth Stocks That Could Double by 2031",
+"url": "https://www.fool.com/investing/2026/11/21/2-growth-stocks-that-could-double-by-2031/?.tsrc=rss",
+"pub": "2026-11-21T19:25:02+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-21T19:44:12+00:00"
+},
+{
+"id": "9bf697c9b245",
+"t": "QQQ",
+"title": "T-Bills Are Beating the Nasdaq, S&P 500 and Dow This Year",
+"url": "https://247wallst.com/investing/2026/11/21/t-bills-are-beating-the-nasdaq-sp-500-and-dow-this-year/?.tsrc=rss",
+"pub": "2026-11-21T19:22:53+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-21T19:44:12+00:00"
+},
+{
+"id": "6d5ad334bf50",
+"t": "NVDA",
+"title": "Better Buy: Bitcoin vs. Ethereum",
+"url": "https://www.fool.com/investing/2026/11/21/better-buy-bitcoin-vs-ethereum/?.tsrc=rss",
+"pub": "2026-11-21T19:15:02+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-21T19:44:12+00:00"
+},
 {
 "id": "b6d9d3b5f3b6",
 "t": "NVDA",
@@ -212,6 +272,16 @@
 "src": "Yahoo Finance",
 "kind": "news",
 "seen": "2026-11-21T18:15:18+00:00"
+},
+{
+"id": "e0a79dd66c3a",
+"t": "CRCL",
+"title": "Bitcoin Bounces Off Two-Year Lows. Could Crypto Rescue Stocks on Monday?",
+"url": "https://finance.yahoo.com/m/2b590e01-272b-316d-af4c-d1251ad9adb4/bitcoin-bounces-off-two-year.html?.tsrc=rss",
+"pub": "2026-11-21T18:03:00+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-21T19:44:12+00:00"
 },
 {
 "id": "74e54a7b262a",
@@ -7944,74 +8014,44 @@
 "seen": "2026-11-20T16:39:56+00:00"
 },
 {
-"id": "a3a1d9ee7817",
-"t": "NOK",
-"title": "European Equities Traded in the US as American Depositary Receipts Track Lower in Friday Trading; Down More Than 7% for Week",
-"url": "https://finance.yahoo.com/markets/stocks/articles/european-equities-traded-us-american-161543220.html?.tsrc=rss",
-"pub": "2026-11-20T16:15:43+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-20T16:43:57+00:00"
+"id": "fdf95914dc32",
+"t": "",
+"title": "Iran's Revolutionary Guards say they struck two US bases in Bahrain, Fars News Agency reports citing its correspondent",
+"url": "https://www.financialjuice.com/News/9863123/Irans-Revolutionary-Guards-say-they-struck-two-US-bases-in-Bahrain-Fars-News-Agency-reports-citing-its-correspondent.aspx?xy=rss",
+"pub": "2026-11-21T19:32:56+00:00",
+"src": "FinancialJuice",
+"kind": "market",
+"seen": "2026-11-21T19:44:12+00:00"
 },
 {
-"id": "8e7fd788adac",
-"t": "WMT",
-"title": "Walmart Posted Largely In-Line Q3 Results Amid High Bar, RBC Says",
-"url": "https://finance.yahoo.com/markets/stocks/articles/walmart-posted-largely-line-q3-161527222.html?.tsrc=rss",
-"pub": "2026-11-20T16:15:27+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-20T16:39:56+00:00"
+"id": "1539f602b19f",
+"t": "",
+"title": "Bahrain civil defence working to contain fire: interior ministry",
+"url": "https://www.financialjuice.com/News/9863118/Bahrain-civil-defence-working-to-contain-fire-interior-ministry.aspx?xy=rss",
+"pub": "2026-11-21T19:21:49+00:00",
+"src": "FinancialJuice",
+"kind": "market",
+"seen": "2026-11-21T19:44:12+00:00"
 },
 {
-"id": "192f3b35c270",
-"t": "BRKB",
-"title": "What Bending Spoons (BSP) Said on Its Q3 Earnings Call",
-"url": "https://www.marketbeat.com/instant-alerts/transcript-what-bending-spoons-bsp-said-on-its-q3-earnings-call-2026-11-20/?utm_source=yahoofinance&utm_medium=yahoofinance&.tsrc=rss",
-"pub": "2026-11-20T16:14:07+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-20T16:39:56+00:00"
+"id": "4cddb85f4b97",
+"t": "",
+"title": "Bahrain interior ministry: preliminary information points to material damage, no casualties",
+"url": "https://www.financialjuice.com/News/9863117/Bahrain-interior-ministry-preliminary-information-points-to-material-damage-no-casualties.aspx?xy=rss",
+"pub": "2026-11-21T19:21:18+00:00",
+"src": "FinancialJuice",
+"kind": "market",
+"seen": "2026-11-21T19:44:12+00:00"
 },
 {
-"id": "a9c146c1107f",
-"t": "NVDA",
-"title": "Which Baidu ETFs Change What Chip News Means For You?",
-"url": "https://finance.yahoo.com/markets/stocks/articles/baidu-etfs-change-chip-news-161322634.html?.tsrc=rss",
-"pub": "2026-11-20T16:13:22+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-20T16:39:56+00:00"
-},
-{
-"id": "d167b06acd93",
-"t": "SNDK",
-"title": "MU, SNDK, Other Chipmakers Plunge Amid AI Trade Weakness — UBS Says Risk-Reward In Equities Has Become ‘More Balanced’",
-"url": "https://stocktwits.com/news-articles/markets/equity/mu-sndk-other-chipmakers-plunge-amid-ai-trade-weakness-ubs-says-risk-reward-in-equities-has-become-more-balanced/cNbSZa1R91c?.tsrc=rss",
-"pub": "2026-11-20T16:11:54+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-20T16:15:51+00:00"
-},
-{
-"id": "cdbff8e6e8af",
-"t": "AMZN",
-"title": "Walmart Is Amazon, But With 4,600 Stores",
-"url": "https://247wallst.com/investing/2026/11/20/walmart-is-amazon-but-with-4600-stores/?.tsrc=rss",
-"pub": "2026-11-20T16:11:48+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-20T16:39:56+00:00"
-},
-{
-"id": "85e165c133e2",
-"t": "VRT",
-"title": "Vertiv Holdings Co (VRT) Deepens AI Data Center Liquid Cooling Push",
-"url": "https://finance.yahoo.com/technology/ai/articles/vertiv-holdings-co-vrt-deepens-161049822.html?.tsrc=rss",
-"pub": "2026-11-20T16:10:49+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-20T16:39:56+00:00"
+"id": "70958f0cda20",
+"t": "",
+"title": "Bahrain interior ministry: Iranian strike on civilian industrial site causes fire",
+"url": "https://www.financialjuice.com/News/9863116/Bahrain-interior-ministry-Iranian-strike-on-civilian-industrial-site-causes-fire.aspx?xy=rss",
+"pub": "2026-11-21T19:20:57+00:00",
+"src": "FinancialJuice",
+"kind": "market",
+"seen": "2026-11-21T19:44:12+00:00"
 },
 {
 "id": "e7d43095b68c",
@@ -8814,6 +8854,16 @@
 "seen": "2026-11-21T18:44:40+00:00"
 },
 {
+"id": "a6729be57e93",
+"t": "",
+"title": "KYG989221000.TWEA%5EJ22 - | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQbnJGb3Z2aWZPSUMzOUdRRmIzTTZmcXZCTWlhZlZDNEQ5ZEw5R2lmSEI1MnFvRDgxRXZxb0o1OHR4NUYwb1FhdGZmUE43UFVXeEk5TVE2Zml3SzNUN2ZaSWZlcmN4VVh1WnQtV3RGazRjTWR4aXotN3IyVDRhT1hmN3VubUJCSmNwZGxqX29B?oc=5",
+"pub": "2026-11-21T12:42:28+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-21T19:44:12+00:00"
+},
+{
 "id": "e4357f774786",
 "t": "",
 "title": "3020.J3 - | Stock Price & Latest News - Reuters",
@@ -8832,6 +8882,16 @@
 "src": "Reuters",
 "kind": "market",
 "seen": "2026-11-21T15:10:04+00:00"
+},
+{
+"id": "6a396d195da8",
+"t": "",
+"title": "Equitable Holdings Inc (EQH_pa) | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8zTmlFamZYbW5IcVlVQ1RsVzI4U2NpZW83QjJzdnJwTzE4OGVkdTV6OEVpMEdMWVZqYVJGbi1mbmJxRDdxYkpaZHZEbW95TmttNHhNOExqRTBla1NwRFdua04tM2RqbGJqTjNj?oc=5",
+"pub": "2026-11-21T12:34:27+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-21T19:44:12+00:00"
 },
 {
 "id": "7fd7be14e1b2",
@@ -10004,6 +10064,16 @@
 "seen": "2026-11-21T19:14:53+00:00"
 },
 {
+"id": "54158c195ed6",
+"t": "",
+"title": "Anthropic’s IPO Turmoil Caps $4 Trillion AI Wipeout on Wall Street",
+"url": "https://www.wsj.com/finance/stocks/anthropics-ipo-bust-punctuates-4-trillion-ai-wipeout-on-wall-street-f1f1ec90?mod=rss_markets_main",
+"pub": "2026-11-20T23:36:00+00:00",
+"src": "WSJ",
+"kind": "market",
+"seen": "2026-11-21T19:44:12+00:00"
+},
+{
 "id": "6cfd54ee7337",
 "t": "",
 "title": "Michael Page PLC (PAGE.L) | Stock Price & Latest News - Reuters",
@@ -10942,76 +11012,6 @@
 "src": "FinancialJuice",
 "kind": "market",
 "seen": "2026-11-20T21:15:37+00:00"
-},
-{
-"id": "e092cedc5bb1",
-"t": "",
-"title": "CAD CFTC Positions Week of November 17th - FJElite",
-"url": "https://www.financialjuice.com/News/9862456/CAD-CFTC-Positions-Week-of-November-17th---FJElite.aspx",
-"pub": "2026-11-20T21:15:35+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-20T22:14:08+00:00"
-},
-{
-"id": "49181f5e1b35",
-"t": "",
-"title": "ZN CFTC Positions Week of November 17th - FJElite",
-"url": "https://www.financialjuice.com/News/9862449/ZN-CFTC-Positions-Week-of-November-17th---FJElite.aspx?xy=rss",
-"pub": "2026-11-20T21:15:13+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-20T21:15:37+00:00"
-},
-{
-"id": "8634ba4ab98b",
-"t": "",
-"title": "ZN CFTC Positions Week of November 17th - FJElite",
-"url": "https://www.financialjuice.com/News/9862449/ZN-CFTC-Positions-Week-of-November-17th---FJElite.aspx",
-"pub": "2026-11-20T21:15:13+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-20T22:14:08+00:00"
-},
-{
-"id": "132d07bb3af6",
-"t": "",
-"title": "ZT CFTC Positions Week of November 17th - FJElite",
-"url": "https://www.financialjuice.com/News/9862448/ZT-CFTC-Positions-Week-of-November-17th---FJElite.aspx?xy=rss",
-"pub": "2026-11-20T21:14:53+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-20T21:15:37+00:00"
-},
-{
-"id": "13661859acc4",
-"t": "",
-"title": "ZT CFTC Positions Week of November 17th - FJElite",
-"url": "https://www.financialjuice.com/News/9862448/ZT-CFTC-Positions-Week-of-November-17th---FJElite.aspx",
-"pub": "2026-11-20T21:14:53+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-20T22:14:08+00:00"
-},
-{
-"id": "50699686145e",
-"t": "",
-"title": "VIX CFTC Positions Week of November 17th - FJElite",
-"url": "https://www.financialjuice.com/News/9862447/VIX-CFTC-Positions-Week-of-November-17th---FJElite.aspx?xy=rss",
-"pub": "2026-11-20T21:14:12+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-20T21:15:37+00:00"
-},
-{
-"id": "239dde6d9713",
-"t": "",
-"title": "VIX CFTC Positions Week of November 17th - FJElite",
-"url": "https://www.financialjuice.com/News/9862447/VIX-CFTC-Positions-Week-of-November-17th---FJElite.aspx",
-"pub": "2026-11-20T21:14:12+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-20T22:14:08+00:00"
 }
 ]
 }
