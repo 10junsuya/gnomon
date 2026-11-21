@@ -1,13 +1,13 @@
 {
-"updated_kst": "2026-11-22 08:02",
-"rot": 112,
+"updated_kst": "2026-11-22 08:14",
+"rot": 172,
 "how": "Scout(프로그램)이 10분마다 모은 기사 제목·링크와 공시예요. Wren이 공식 출처로 확인한 뒤 회사 화면에 한국어로 반영해요. 본문은 받지 않아요.",
 "sources": {
 "Yahoo Finance": "120종목 확인 · 실패 0",
 "CNBC": "63건",
 "Bloomberg": "27건",
 "WSJ": "61건",
-"Reuters": "45건",
+"Reuters": "49건",
 "FinancialJuice": "100건",
 "SEC EDGAR": "실패 HTTPError",
 "Fox Business": "50건"
@@ -22,6 +22,16 @@
 "src": "Yahoo Finance",
 "kind": "news",
 "seen": "2026-11-21T23:02:02+00:00"
+},
+{
+"id": "cc602f3cbab2",
+"t": "SPY",
+"title": "Williams Companies Slashed Its Dividend in 2016. Here’s What $1,000 Invested Then Is Worth Today",
+"url": "https://247wallst.com/investing/2026/11/21/williams-companies-slashed-its-dividend-in-2016-heres-what-1000-invested-then-is-worth-today/?.tsrc=rss",
+"pub": "2026-11-21T22:47:28+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-21T23:14:30+00:00"
 },
 {
 "id": "5f1fa688823e",
@@ -8004,16 +8014,6 @@
 "seen": "2026-11-20T17:14:24+00:00"
 },
 {
-"id": "f33efccb46a1",
-"t": "NVDA",
-"title": "Ripple Is Rapidly Expanding the Potential Use Cases for Its Stablecoin. Here's Why That's Bearish for XRP.",
-"url": "https://www.fool.com/investing/2026/11/20/ripple-is-rapidly-expanding-the-potential-use-case/?.tsrc=rss",
-"pub": "2026-11-20T16:50:00+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-20T17:14:24+00:00"
-},
-{
 "id": "7b31b2ed68b1",
 "t": "",
 "title": "Burnham, Netherlands PM Jetten committed to continue close cooperation to provide Ukraine support it needs: Downing Street spokesperson",
@@ -8232,6 +8232,16 @@
 "src": "Reuters",
 "kind": "market",
 "seen": "2026-11-21T22:14:01+00:00"
+},
+{
+"id": "9ff50b69c8f2",
+"t": "",
+"title": "tmy.f - | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBTSHN4TmhWczZqQ0thNnd2eC16ZFk3S282ek0wX2JtSzAtZjNvMFRlUkhBc29ScXkwYlN6SmZ5NnpVUjJJbF9lRVRXaktCc1ZTc1FEODloVU4tSXpKVGc4WTcybloxUTJnOTgxSU9OZjZyVDEzeF9meFcybm1sY0U?oc=5",
+"pub": "2026-11-21T19:04:08+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-21T23:14:30+00:00"
 },
 {
 "id": "e7d43095b68c",
@@ -8702,6 +8712,16 @@
 "src": "Reuters",
 "kind": "market",
 "seen": "2026-11-21T22:14:01+00:00"
+},
+{
+"id": "2c82d7285ac9",
+"t": "",
+"title": "Intchains Group Ltd (ICG.OQ) | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1jU19RN0lXTTg0b0lLeGtUZ3I1UWstbmd0cGpDYUVreExCTXlZTk1jdVAwQl9KS3VJajB6TENVYjh6cW9GbXFKaFhXb2pBV2Npei1qZTVlNDV2elJDdzBNa3kzczh6VnRuRncxXzNn?oc=5",
+"pub": "2026-11-21T15:15:24+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-21T23:14:30+00:00"
 },
 {
 "id": "e811b2fefce6",
@@ -9232,6 +9252,16 @@
 "src": "Reuters",
 "kind": "market",
 "seen": "2026-11-21T21:31:18+00:00"
+},
+{
+"id": "89e4b4098e00",
+"t": "",
+"title": "WisdomTree Europe SmallCap Dividend Fund (DFE.N) | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBUaHJwT000d1Y3UjRUa09fMU9FTWFOeEpycTBrUmtVUjRFMXZPN0ZxUlZfckVhZmtsTXdXOUJDVEd4YnlBTmpQSTVRemRIQXdSdDRFQ0R0MGRUeGdVaThFd0Rxc3IwOEFQSnc?oc=5",
+"pub": "2026-11-21T12:36:46+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-21T23:14:30+00:00"
 },
 {
 "id": "1bf4a7e9fcd6",
@@ -10982,36 +11012,6 @@
 "src": "FinancialJuice",
 "kind": "market",
 "seen": "2026-11-20T22:24:18+00:00"
-},
-{
-"id": "bffd03552b34",
-"t": "",
-"title": "Iran’s Foreign Minister Araghchi: Iran's red lines include enriched uranium not leaving the country, but I believe a fair solution can be reached.",
-"url": "https://www.financialjuice.com/News/9862504/Irans-Foreign-Minister-Araghchi-Irans-red-lines-include-enriched-uranium-not-leaving-the-country-but-I-believe-a-fair-solution-can-be-reached.aspx",
-"pub": "2026-11-20T21:47:25+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-20T22:14:08+00:00"
-},
-{
-"id": "c6fb473bfbd1",
-"t": "",
-"title": "Iran’s Foreign Minister Araghchi: Iran's red lines include enriched uranium not leaving the country, but I believe a fair solution can be reached.",
-"url": "https://www.financialjuice.com/News/9862504/Irans-Foreign-Minister-Araghchi-Irans-red-lines-include-enriched-uranium-not-leaving-the-country-but-I-believe-a-fair-solution-can-be-reached.aspx?xy=rss",
-"pub": "2026-11-20T21:47:25+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-20T22:24:18+00:00"
-},
-{
-"id": "5f770979fe18",
-"t": "",
-"title": "Iran’s Foreign Minister Araghchi: Iran's first demand is for Trump to explicitly state that he wants an agreement.",
-"url": "https://www.financialjuice.com/News/9862493/Irans-Foreign-Minister-Araghchi-Irans-first-demand-is-for-Trump-to-explicitly-state-that-he-wants-an-agreement.aspx",
-"pub": "2026-11-20T21:46:28+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-20T22:14:08+00:00"
 }
 ]
 }
