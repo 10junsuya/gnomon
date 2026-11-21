@@ -1,18 +1,28 @@
 {
-"updated_kst": "2026-11-22 06:31",
-"rot": 170,
+"updated_kst": "2026-11-22 06:44",
+"rot": 51,
 "how": "Scout(프로그램)이 10분마다 모은 기사 제목·링크와 공시예요. Wren이 공식 출처로 확인한 뒤 회사 화면에 한국어로 반영해요. 본문은 받지 않아요.",
 "sources": {
 "Yahoo Finance": "120종목 확인 · 실패 0",
 "CNBC": "63건",
 "Bloomberg": "27건",
 "WSJ": "61건",
-"Reuters": "43건",
+"Reuters": "44건",
 "FinancialJuice": "100건",
 "SEC EDGAR": "실패 HTTPError",
 "Fox Business": "50건"
 },
 "items": [
+{
+"id": "63cfc5d22a94",
+"t": "NVDA",
+"title": "Verizon Pays Out $11.7 Billion a Year in Dividends. Here’s the Free Cash Flow Math Behind Its 6.2%-Yielding Payout.",
+"url": "https://www.fool.com/investing/2026/11/21/verizon-pays-out-usd11-7-billion-a-year-in-dividends-here-s-the-free-cash-flow-math-behind-its-6-2-yielding-payout/?.tsrc=rss",
+"pub": "2026-11-21T21:23:02+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-21T21:44:05+00:00"
+},
 {
 "id": "38d3b9cddffa",
 "t": "MU",
@@ -8004,16 +8014,6 @@
 "seen": "2026-11-21T17:14:26+00:00"
 },
 {
-"id": "c1f8fac151cc",
-"t": "NVDA",
-"title": "Buy Anthropic, Sell Nvidia? Cathie Wood Just Did.",
-"url": "https://www.fool.com/investing/2026/11/20/buy-anthropic-sell-nvidia-cathie-wood-just-did/?.tsrc=rss",
-"pub": "2026-11-20T16:39:27+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-20T17:14:24+00:00"
-},
-{
 "id": "d3134e0ff4d0",
 "t": "",
 "title": "Saudi-led coalition: intercepts and destroys missile launched by Yemen's Houthis toward western region",
@@ -8492,6 +8492,16 @@
 "src": "FinancialJuice",
 "kind": "market",
 "seen": "2026-11-21T19:14:53+00:00"
+},
+{
+"id": "3bbf54915457",
+"t": "",
+"title": "Anthropic, PBC (ANT.O) | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1sMzJxaDFtcTdDUE1rWGVFZFVhMjJhX0RVSko2RlMtejdUdDlMY2MtZXdLYUh3aVc0WFBSMnlZR3hLc0MwVjNRUG00Q1Nxd1loR055XzZPZ0tvZk0t?oc=5",
+"pub": "2026-11-21T15:53:32+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-21T21:44:05+00:00"
 },
 {
 "id": "e36be5c70b97",
@@ -10734,6 +10744,16 @@
 "seen": "2026-11-20T22:44:38+00:00"
 },
 {
+"id": "d5414609dcbc",
+"t": "",
+"title": "U.S. Stocks Extend Plunge as AI Boom Turns to Bust",
+"url": "https://www.wsj.com/finance/stocks/u-s-stocks-extend-plunge-as-ai-boom-turns-to-bust-a2d324e7?mod=rss_markets_main",
+"pub": "2026-11-20T22:24:00+00:00",
+"src": "WSJ",
+"kind": "market",
+"seen": "2026-11-21T21:44:05+00:00"
+},
+{
 "id": "1dba1121f775",
 "t": "",
 "title": "Adjusting for Credit Risk: Masters In Business with David Eichhorn",
@@ -10992,26 +11012,6 @@
 "src": "FinancialJuice",
 "kind": "market",
 "seen": "2026-11-20T22:14:08+00:00"
-},
-{
-"id": "afeb47288b4d",
-"t": "",
-"title": "Anthropic IPO Could  Mark End of the AI Trade",
-"url": "https://www.bloomberg.com/news/videos/2026-11-20/anthropic-ipo-could-mark-end-of-the-ai-trade-video",
-"pub": "2026-11-20T21:35:36+00:00",
-"src": "Bloomberg",
-"kind": "market",
-"seen": "2026-11-20T21:44:59+00:00"
-},
-{
-"id": "62563556ffa4",
-"t": "",
-"title": "Iran's Foreign Minister Araqchi tells an Iranian newspaper: Tehran still has hope in diplomacy to end the war with the US.",
-"url": "https://www.financialjuice.com/News/9862486/Irans-Foreign-Minister-Araqchi-tells-an-Iranian-newspaper-Tehran-still-has-hope-in-diplomacy-to-end-the-war-with-the-US.aspx?xy=rss",
-"pub": "2026-11-20T21:35:13+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-20T21:44:59+00:00"
 }
 ]
 }
