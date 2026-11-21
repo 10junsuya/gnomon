@@ -1,18 +1,78 @@
 {
-"updated_kst": "2026-11-22 01:45",
-"rot": 106,
+"updated_kst": "2026-11-22 02:14",
+"rot": 166,
 "how": "Scout(프로그램)이 10분마다 모은 기사 제목·링크와 공시예요. Wren이 공식 출처로 확인한 뒤 회사 화면에 한국어로 반영해요. 본문은 받지 않아요.",
 "sources": {
 "Yahoo Finance": "120종목 확인 · 실패 0",
 "CNBC": "63건",
 "Bloomberg": "28건",
 "WSJ": "61건",
-"Reuters": "26건",
+"Reuters": "37건",
 "FinancialJuice": "100건",
 "SEC EDGAR": "실패 HTTPError",
 "Fox Business": "50건"
 },
 "items": [
+{
+"id": "35e3cac9bee4",
+"t": "GOOGL",
+"title": "AI May Have Just Broken Meta’s Climate Promise",
+"url": "https://247wallst.com/investing/2026/11/21/ai-may-have-just-broken-metas-climate-promise/?.tsrc=rss",
+"pub": "2026-11-21T17:02:19+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-21T17:14:26+00:00"
+},
+{
+"id": "b0e13e346999",
+"t": "NVDA",
+"title": "3 High-Yield Dividend Stocks to Buy Now and 2 to Avoid Despite the Yield",
+"url": "https://www.fool.com/investing/2026/11/21/3-high-yield-dividend-stocks-to-buy-now-and-2-to-avoid-despite-the-yield/?.tsrc=rss",
+"pub": "2026-11-21T16:51:02+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-21T17:14:26+00:00"
+},
+{
+"id": "7d443df91e75",
+"t": "NVDA",
+"title": "1 Growth ETF I'm Buying Even When the Market Is Expensive",
+"url": "https://www.fool.com/investing/2026/11/21/1-growth-etf-i-m-buying-even-when-the-market-is-expensive/?.tsrc=rss",
+"pub": "2026-11-21T16:50:02+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-21T17:14:26+00:00"
+},
+{
+"id": "47a535d5f748",
+"t": "SPCX",
+"title": "Google Is Paying Elon Musk’s SpaceX $30 Billion. Jim Cramer Just Revealed Why",
+"url": "https://247wallst.com/investing/2026/11/21/google-is-paying-elon-musks-spacex-30-billion-jim-cramer-just-revealed-why/?.tsrc=rss",
+"pub": "2026-11-21T16:48:17+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-21T17:14:26+00:00"
+},
+{
+"id": "5afce741d2fc",
+"t": "ASML",
+"title": "ASML vs. SK Hynix: Which Artificial Intelligence Stock Is a Better Buy for 2027?",
+"url": "https://www.fool.com/coverage/better-buy/2026/11/21/asml-vs-sk-hynix-which-artificial-intelligence-stock-is-a-better-buy-for-2027/?.tsrc=rss",
+"pub": "2026-11-21T16:45:01+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-21T17:14:26+00:00"
+},
+{
+"id": "03b326f4188f",
+"t": "VOO",
+"title": "Investors Put $45.7 Billion Into U.S. Stock Funds Right Before the Stock Market Tanked",
+"url": "https://247wallst.com/investing/2026/11/21/investors-put-45-7-billion-into-u-s-stock-funds-right-before-the-stock-market-tanked/?.tsrc=rss",
+"pub": "2026-11-21T16:43:58+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-21T17:14:26+00:00"
+},
 {
 "id": "6090e79ebc6c",
 "t": "NVDA",
@@ -34,6 +94,16 @@
 "seen": "2026-11-21T16:45:20+00:00"
 },
 {
+"id": "f4ec312e4740",
+"t": "COST",
+"title": "Costco makes a tough store closure decision",
+"url": "https://www.thestreet.com/retail/costco-makes-a-tough-store-closure-decision?.tsrc=rss",
+"pub": "2026-11-21T16:33:00+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-21T17:14:26+00:00"
+},
+{
 "id": "8df4d0fde59d",
 "t": "HD",
 "title": "U.S. Home Sales Just Hit Their Lowest Level in 25 Years. Is the Housing Market Breaking?",
@@ -52,6 +122,26 @@
 "src": "Yahoo Finance",
 "kind": "news",
 "seen": "2026-11-21T16:45:20+00:00"
+},
+{
+"id": "2992b1f4bfde",
+"t": "AVGO",
+"title": "Anthropic Owes $71 Billion for Compute Within a Year, “87% of Current Run Rate Revenue,” per Scott Galloway",
+"url": "https://www.tikr.com/blog/anthropic-owes-71-billion-for-compute-within-a-year-87-of-current-run-rate-revenue-per-scott-galloway?ref=yahoofinance&tlnk=yf-261121-97jx5h99&.tsrc=rss",
+"pub": "2026-11-21T16:20:47+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-21T17:14:26+00:00"
+},
+{
+"id": "7318816e43f6",
+"t": "AMZN",
+"title": "Buy Microsoft and Amazon at More Than 70x 2028 Free Cash Flow? Here’s What Their Capex Must Return",
+"url": "https://www.tikr.com/blog/buy-microsoft-and-amazon-at-more-than-70x-2028-free-cash-flow-heres-what-their-capex-must-return?ref=yahoofinance&tlnk=yf-261121-crqwjg7c&.tsrc=rss",
+"pub": "2026-11-21T16:20:38+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-21T17:14:26+00:00"
 },
 {
 "id": "85196634965b",
@@ -102,6 +192,16 @@
 "src": "Yahoo Finance",
 "kind": "news",
 "seen": "2026-11-21T16:45:20+00:00"
+},
+{
+"id": "270b5517dc5b",
+"t": "SNOW",
+"title": "Snowflake Just Dropped 12% in a Week. RBC Still Sees “Clear AI Leadership.” Time to Load Up?",
+"url": "https://www.tikr.com/blog/snowflake-just-dropped-12-in-a-week-rbc-still-sees-clear-ai-leadership-time-to-load-up?ref=yahoofinance&tlnk=yf-261121-cj78w42g&.tsrc=rss",
+"pub": "2026-11-21T16:06:52+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-21T17:14:26+00:00"
 },
 {
 "id": "673a6a0c2201",
@@ -7034,6 +7134,16 @@
 "seen": "2026-11-20T18:39:45+00:00"
 },
 {
+"id": "948282bac725",
+"t": "QQQ",
+"title": "3 Dividend ETFs Offering Steadier Footing in a Shaky Market",
+"url": "https://www.marketbeat.com/articles/3-dividend-etfs-offering-steadier-footing-in-a-shaky-market/?utm_source=yahoofinance&utm_medium=yahoofinance&.tsrc=rss",
+"pub": "2026-11-20T16:40:00+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-21T17:14:26+00:00"
+},
+{
 "id": "c1f8fac151cc",
 "t": "NVDA",
 "title": "Buy Anthropic, Sell Nvidia? Cathie Wood Just Did.",
@@ -7904,114 +8014,34 @@
 "seen": "2026-11-20T17:14:24+00:00"
 },
 {
-"id": "2564dd76b862",
-"t": "NVDA",
-"title": "Apple Stock Polishes Breakout As Nvidia-Led AI Boom Gets Wake-Up Call",
-"url": "https://finance.yahoo.com/m/681ca0c6-76b1-321b-bdd4-bb83acc818fb/apple-stock-polishes-breakout.html?.tsrc=rss",
-"pub": "2026-11-20T15:35:19+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-20T15:44:04+00:00"
+"id": "f5d8562472c6",
+"t": "",
+"title": "What It’s Like to Retire in Thailand",
+"url": "https://www.wsj.com/personal-finance/retirement/retire-in-thailand-6853f4a7?mod=rss_markets_main",
+"pub": "2026-11-21T17:00:00+00:00",
+"src": "WSJ",
+"kind": "market",
+"seen": "2026-11-21T17:14:26+00:00"
 },
 {
-"id": "3bbd04bcfe32",
-"t": "WMT",
-"title": "The Weekly Closeout: NYC bans surveillance pricing, FabFitFun lands in Walmart",
-"url": "https://www.retaildive.com/news/nyc-surveillance-pricing-ban-fabfitfun-walmart/875277/?.tsrc=rss",
-"pub": "2026-11-20T15:35:00+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-20T16:39:56+00:00"
+"id": "cdef4ac85628",
+"t": "",
+"title": "IAEA on Ukraine: one transmission line remains offline",
+"url": "https://www.financialjuice.com/News/9863076/IAEA-on-Ukraine-one-transmission-line-remains-offline.aspx?xy=rss",
+"pub": "2026-11-21T16:53:56+00:00",
+"src": "FinancialJuice",
+"kind": "market",
+"seen": "2026-11-21T17:14:26+00:00"
 },
 {
-"id": "211b1ab72efa",
-"t": "GOOGL",
-"title": "Big Tech Earned $607 Billion. Where Did It Go?",
-"url": "https://www.trefis.com/stock/msft/articles/626527/big-tech-earned-607-billion-where-did-it-go/2026-11-20?.tsrc=rss",
-"pub": "2026-11-20T15:34:27+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-20T16:15:51+00:00"
-},
-{
-"id": "a7d08be922c0",
-"t": "KEYS",
-"title": "Keysight (KEYS) Q4 2026 Earnings Call Transcript",
-"url": "https://www.fool.com/earnings/call-transcripts/2026/11/20/keysight-keys-q4-2026-earnings-call-transcript/?.tsrc=rss",
-"pub": "2026-11-20T15:34:08+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-20T16:39:56+00:00"
-},
-{
-"id": "0f68a58c5e88",
-"t": "AVGO",
-"title": "Trump Bought Up to $265,000 of NVIDIA Stock. Here’s Where the Price Target Stands",
-"url": "https://247wallst.com/investing/2026/11/20/trump-bought-up-to-265000-of-nvidia-stock-heres-where-the-price-target-stands/?.tsrc=rss",
-"pub": "2026-11-20T15:33:17+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-20T16:15:51+00:00"
-},
-{
-"id": "1135628e73ff",
-"t": "ISRG",
-"title": "GEHC Advances Manganese-Based MRI Agent to Phase 3 After Positive Data",
-"url": "https://finance.yahoo.com/healthcare/articles/gehc-advances-manganese-based-mri-153300051.html?.tsrc=rss",
-"pub": "2026-11-20T15:33:00+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-20T16:39:56+00:00"
-},
-{
-"id": "d55b28f3b904",
-"t": "HD",
-"title": "Ross Stores Earnings Beat But Tepid Holiday Outlook Sinks Stock",
-"url": "https://finance.yahoo.com/m/2a3dc039-5d33-38ad-92d8-639d011370eb/ross-stores-earnings-beat-but.html?.tsrc=rss",
-"pub": "2026-11-20T15:32:30+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-20T17:14:24+00:00"
-},
-{
-"id": "6e7dff52f6fd",
-"t": "CEG",
-"title": "Constellation Energy Sinks 10% in a Week as AI Stocks Slide, Giving Back Its Earnings Jump. Time to Buy?",
-"url": "https://www.tikr.com/blog/constellation-energy-sinks-10-in-a-week-as-ai-stocks-slide-giving-back-its-earnings-jump-time-to-buy?ref=yahoofinance&tlnk=yf-261120-526gc6qr&.tsrc=rss",
-"pub": "2026-11-20T15:30:31+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-20T15:44:04+00:00"
-},
-{
-"id": "09f21a15aff2",
-"t": "CME",
-"title": "BC-Lumber Futures",
-"url": "https://finance.yahoo.com/markets/commodities/articles/bc-lumber-futures-153013322.html?.tsrc=rss",
-"pub": "2026-11-20T15:30:13+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-20T16:39:56+00:00"
-},
-{
-"id": "b1a7d2efbedc",
-"t": "TSLA",
-"title": "Tesla (TSLA) Down 0.1% Since Last Earnings Report: Can It Rebound?",
-"url": "https://finance.yahoo.com/markets/stocks/articles/tesla-tsla-down-0-1-153011735.html?.tsrc=rss",
-"pub": "2026-11-20T15:30:11+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-20T16:39:56+00:00"
-},
-{
-"id": "fb228837878d",
-"t": "TXN",
-"title": "Texas Instruments (TXN) Up 2.2% Since Last Earnings Report: Can It Continue?",
-"url": "https://finance.yahoo.com/markets/stocks/articles/texas-instruments-txn-2-2-153011743.html?.tsrc=rss",
-"pub": "2026-11-20T15:30:11+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-20T16:43:57+00:00"
+"id": "60ce52e35658",
+"t": "",
+"title": "IAEA: one Ukrainian nuclear plant cuts output after two 330 kv power lines disconnected amid military activity",
+"url": "https://www.financialjuice.com/News/9863075/IAEA-one-Ukrainian-nuclear-plant-cuts-output-after-two-330-kv-power-lines-disconnected-amid-military-activity.aspx?xy=rss",
+"pub": "2026-11-21T16:52:58+00:00",
+"src": "FinancialJuice",
+"kind": "market",
+"seen": "2026-11-21T17:14:26+00:00"
 },
 {
 "id": "05ae8fcc7492",
@@ -10982,36 +11012,6 @@
 "src": "Bloomberg",
 "kind": "market",
 "seen": "2026-11-20T19:44:51+00:00"
-},
-{
-"id": "c20ca87aaccc",
-"t": "",
-"title": "ETFs Across the AI Ecosystem",
-"url": "https://www.bloomberg.com/news/videos/2026-11-20/etfs-across-the-ai-ecosystem-video",
-"pub": "2026-11-20T19:19:42+00:00",
-"src": "Bloomberg",
-"kind": "market",
-"seen": "2026-11-20T19:44:51+00:00"
-},
-{
-"id": "9d48b180237b",
-"t": "",
-"title": "US Securities and Exchange Commission probe into NVIDIA is exploring potential accounting issues - Sources. $NVDA",
-"url": "https://www.financialjuice.com/News/9862316/US-Securities-and-Exchange-Commission-probe-into-NVIDIA-is-exploring-potential-accounting-issues---Sources-NVDA.aspx?xy=rss",
-"pub": "2026-11-20T19:09:00+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-20T19:44:51+00:00"
-},
-{
-"id": "5c6ae9685768",
-"t": "",
-"title": "US Securities and Exchange Commission probe into NVIDIA is exploring potential accounting issues - Sources. $NVDA",
-"url": "https://www.financialjuice.com/News/9862316/US-Securities-and-Exchange-Commission-probe-into-NVIDIA-is-exploring-potential-accounting-issues---Sources-NVDA.aspx",
-"pub": "2026-11-20T19:09:00+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-20T22:14:08+00:00"
 }
 ]
 }
