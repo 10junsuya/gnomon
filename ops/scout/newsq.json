@@ -1,18 +1,28 @@
 {
-"updated_kst": "2026-11-22 00:10",
-"rot": 164,
+"updated_kst": "2026-11-22 00:13",
+"rot": 45,
 "how": "Scout(프로그램)이 10분마다 모은 기사 제목·링크와 공시예요. Wren이 공식 출처로 확인한 뒤 회사 화면에 한국어로 반영해요. 본문은 받지 않아요.",
 "sources": {
 "Yahoo Finance": "120종목 확인 · 실패 0",
 "CNBC": "63건",
-"Bloomberg": "32건",
+"Bloomberg": "31건",
 "WSJ": "61건",
-"Reuters": "100건",
+"Reuters": "42건",
 "FinancialJuice": "100건",
 "SEC EDGAR": "실패 HTTPError",
 "Fox Business": "50건"
 },
 "items": [
+{
+"id": "08db0a342a96",
+"t": "NVDA",
+"title": "The Stock Market Just Had Its Worst Week of 2026. Here's Why Long-Term Investors Shouldn't Flinch.",
+"url": "https://www.fool.com/investing/2026/11/21/stock-market-had-worst-week-2026-why-long-term-investors-shouldnt-flinch/?.tsrc=rss",
+"pub": "2026-11-21T15:05:02+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-21T15:13:59+00:00"
+},
 {
 "id": "d4eeeff0becd",
 "t": "BRKB",
@@ -22,6 +32,16 @@
 "src": "Yahoo Finance",
 "kind": "news",
 "seen": "2026-11-21T15:10:04+00:00"
+},
+{
+"id": "04125f142fc1",
+"t": "NVDA",
+"title": "Here's How Much $2,500 in General Mills Stock Could Pay You in Dividends in 2027",
+"url": "https://www.fool.com/investing/2026/11/21/here-s-how-much-usd2-500-in-general-mills-stock-could-pay-you-in-dividends-in-2027/?.tsrc=rss",
+"pub": "2026-11-21T14:57:02+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-21T15:13:59+00:00"
 },
 {
 "id": "cc9758703da3",
@@ -264,6 +284,16 @@
 "seen": "2026-11-21T14:44:29+00:00"
 },
 {
+"id": "fa9aa5390d95",
+"t": "LLY",
+"title": "Eli Lilly Is Near Its High. Bank of America Sees Another 19%",
+"url": "https://www.tikr.com/blog/eli-lilly-is-near-its-high-bank-of-america-sees-another-19?ref=yahoofinance&tlnk=yf-261121-xqv3g997&.tsrc=rss",
+"pub": "2026-11-21T14:09:54+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-21T15:13:59+00:00"
+},
+{
 "id": "41044b63c0f8",
 "t": "RDW",
 "title": "3 Space Stocks With Revenue Growth Up To 16%",
@@ -282,6 +312,16 @@
 "src": "Yahoo Finance",
 "kind": "news",
 "seen": "2026-11-21T14:44:29+00:00"
+},
+{
+"id": "5e1f4466158f",
+"t": "MDA",
+"title": "LunR Royalties And 2 Canadian Growth Stocks To Watch",
+"url": "https://finance.yahoo.com/markets/stocks/articles/lunr-royalties-2-canadian-growth-140832670.html?.tsrc=rss",
+"pub": "2026-11-21T14:08:32+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-21T15:13:59+00:00"
 },
 {
 "id": "9301b2df45a5",
@@ -7974,44 +8014,24 @@
 "seen": "2026-11-20T15:37:53+00:00"
 },
 {
-"id": "ed975e02190b",
-"t": "COP",
-"title": "INPEX Awards Baker Hughes-McDermott Contract for Ichthys LNG Expansion",
-"url": "https://finance.yahoo.com/energy/articles/inpex-awards-baker-hughes-mcdermott-150900943.html?.tsrc=rss",
-"pub": "2026-11-20T15:09:00+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-20T17:14:24+00:00"
+"id": "42cd856fd89e",
+"t": "",
+"title": "Bitcoin rises 2.20% to $60,225.76",
+"url": "https://www.financialjuice.com/News/9863038/Bitcoin-rises-220-to-6022576.aspx?xy=rss",
+"pub": "2026-11-21T15:13:00+00:00",
+"src": "FinancialJuice",
+"kind": "market",
+"seen": "2026-11-21T15:13:59+00:00"
 },
 {
-"id": "d629ef2df59f",
-"t": "NVDA",
-"title": "SpaceX Falls 4% on $32 Billion AI Chip Debt at Yields Topping 8% as AI Sell-Off Deepens",
-"url": "https://www.tikr.com/blog/spacex-falls-4-on-32-billion-ai-chip-debt-at-yields-topping-8-as-ai-sell-off-deepens?ref=yahoofinance&tlnk=yf-261120-g6qxfgrg&.tsrc=rss",
-"pub": "2026-11-20T15:08:57+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-20T15:16:02+00:00"
-},
-{
-"id": "8c42d4e8532f",
-"t": "GOOGL",
-"title": "Virtualization Software - Global Strategic Business Report: Capitalize on 26.1% CAGR to Secure a $386.8B Market by 2030 as Microsoft, VMware, AWS, Google and Huawei Disrupt IT",
-"url": "https://finance.yahoo.com/technology/articles/virtualization-software-global-strategic-business-150800212.html?.tsrc=rss",
-"pub": "2026-11-20T15:08:00+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-20T15:37:53+00:00"
-},
-{
-"id": "857e9f741b03",
-"t": "COST",
-"title": "Costco has a new member offer that's hard to pass up",
-"url": "https://www.thestreet.com/retail/costco-new-member-offer-45-shop-card-hard-to-pass-up?.tsrc=rss",
-"pub": "2026-11-20T15:07:00+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-20T15:37:53+00:00"
+"id": "fde09a1cc263",
+"t": "",
+"title": "Is AI a Bubble? History Offers Some Clues",
+"url": "https://www.bloomberg.com/news/videos/2026-11-21/is-ai-a-bubble-history-offers-some-clues-video",
+"pub": "2026-11-21T15:09:32+00:00",
+"src": "Bloomberg",
+"kind": "market",
+"seen": "2026-11-21T15:13:59+00:00"
 },
 {
 "id": "013926bc94da",
@@ -8882,6 +8902,16 @@
 "src": "Reuters",
 "kind": "market",
 "seen": "2026-11-21T13:15:23+00:00"
+},
+{
+"id": "eec5d1cd666e",
+"t": "",
+"title": "5232.F - | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOT3NzQmxWWl9JMkdrMmhuTnlDVTdocFktQkVLTU8tVzlIOE1wekUtUlQ0SlhaUFAtY1RjTUhyWjR1MmpCTUNWalBvbkZJelF5ZlpSN3c1dzNTQVhoNldnYjBNdnZGSTdKcmpWZWFGbWJfR0Nmak9XVkhTVnpKajhJRDdxQ3Z2dw?oc=5",
+"pub": "2026-11-21T02:32:18+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-21T15:13:59+00:00"
 },
 {
 "id": "2034b5231d25",
@@ -10982,36 +11012,6 @@
 "src": "FinancialJuice",
 "kind": "market",
 "seen": "2026-11-20T22:14:08+00:00"
-},
-{
-"id": "0b5fe1b02286",
-"t": "",
-"title": "ECB Must Bring Inflation Back to 2%, France’s Moulin Says",
-"url": "https://www.bloomberg.com/news/articles/2026-11-20/ecb-must-bring-inflation-back-to-2-france-s-moulin-says",
-"pub": "2026-11-20T18:53:00+00:00",
-"src": "Bloomberg",
-"kind": "market",
-"seen": "2026-11-20T19:14:18+00:00"
-},
-{
-"id": "eb5cdc48b67c",
-"t": "",
-"title": "Shenandoah Telecommunications Co (SHET.MU) | Stock Price & Latest News - Reuters",
-"url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBoZFlaVUlrRnhxUGxaMkU5TnNlMjZwc0tWaTU1dFo4THZKWC1CTFU2VkdvbDVnbHVrZXlNOW5Xb09pamFLTTcwd1ZJeXFjdWJoQUZEN2tPb0t3MGM2RVd3c2ZvcnlfaDZUZFlTdQ?oc=5",
-"pub": "2026-11-20T18:49:53+00:00",
-"src": "Reuters",
-"kind": "market",
-"seen": "2026-11-20T22:24:18+00:00"
-},
-{
-"id": "b06ba5c67fcd",
-"t": "",
-"title": "Mak A.D. (0IP8.L) | Stock Price & Latest News - Reuters",
-"url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1jX2E5MEhKLVU1dndMeXpxdjdCMTJFZlNzV2doTVJoVDIzdHF5cXR6RWZiaFFmOG5qVVJGUWJleDB0QU5fZ2ZmQnRyU1ZJdHQ1T1Q4bHE2X3VpWjdDZUlRbjJoT2VSYjQ?oc=5",
-"pub": "2026-11-20T18:49:11+00:00",
-"src": "Reuters",
-"kind": "market",
-"seen": "2026-11-21T13:15:23+00:00"
 }
 ]
 }
