@@ -1,18 +1,48 @@
 {
-"updated_kst": "2026-11-22 05:43",
-"rot": 169,
+"updated_kst": "2026-11-22 05:52",
+"rot": 50,
 "how": "Scout(프로그램)이 10분마다 모은 기사 제목·링크와 공시예요. Wren이 공식 출처로 확인한 뒤 회사 화면에 한국어로 반영해요. 본문은 받지 않아요.",
 "sources": {
 "Yahoo Finance": "120종목 확인 · 실패 0",
 "CNBC": "63건",
 "Bloomberg": "26건",
 "WSJ": "61건",
-"Reuters": "43건",
+"Reuters": "44건",
 "FinancialJuice": "100건",
 "SEC EDGAR": "실패 HTTPError",
 "Fox Business": "50건"
 },
 "items": [
+{
+"id": "0160feb56c86",
+"t": "SPCX",
+"title": "Tesla FSD V15 Rolling Out, Goes 'Wide' Next Month, Elon Musk Says: 'Something Special'",
+"url": "https://finance.yahoo.com/m/b31af40e-5144-3249-9033-82521507fe84/tesla-fsd-v15-rolling-out%2C.html?.tsrc=rss",
+"pub": "2026-11-21T20:46:52+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-21T20:52:52+00:00"
+},
+{
+"id": "2d3dba6b83cd",
+"t": "VOO",
+"title": "The S&P 500 Is Now Below Every Wall Street Year-End Target for 2026",
+"url": "https://247wallst.com/investing/2026/11/21/the-sp-500-is-now-below-every-wall-street-year-end-target-for-2026/?.tsrc=rss",
+"pub": "2026-11-21T20:42:00+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-21T20:52:52+00:00"
+},
+{
+"id": "4bff7efbb404",
+"t": "NET",
+"title": "Billionaire Druckenmiller’s New AI Thesis Could Crush These 5 Overvalued Cybersecurity Stocks",
+"url": "https://finance.yahoo.com/technology/ai/articles/billionaire-druckenmiller-ai-thesis-could-202147060.html?.tsrc=rss",
+"pub": "2026-11-21T20:21:47+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-21T20:52:52+00:00"
+},
 {
 "id": "7f7ef47ef737",
 "t": "GOOGL",
@@ -22,6 +52,16 @@
 "src": "Yahoo Finance",
 "kind": "news",
 "seen": "2026-11-21T20:43:38+00:00"
+},
+{
+"id": "a6220a3b1011",
+"t": "CRWD",
+"title": "3 Growth Stocks To Own In November 2026",
+"url": "https://finance.yahoo.com/markets/stocks/articles/3-growth-stocks-own-november-200734758.html?.tsrc=rss",
+"pub": "2026-11-21T20:07:34+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-21T20:52:52+00:00"
 },
 {
 "id": "4a12b178d67c",
@@ -212,6 +252,16 @@
 "src": "Yahoo Finance",
 "kind": "news",
 "seen": "2026-11-21T20:03:56+00:00"
+},
+{
+"id": "8959bd86d3b4",
+"t": "CRWD",
+"title": "CrowdStrike’s Talks with Zscaler Show AI-Led Cyber Consolidation",
+"url": "https://finance.yahoo.com/technology/ai/articles/crowdstrike-talks-zscaler-show-ai-190224763.html?.tsrc=rss",
+"pub": "2026-11-21T19:02:24+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-21T20:52:52+00:00"
 },
 {
 "id": "969b78a8a289",
@@ -7964,54 +8014,24 @@
 "seen": "2026-11-20T16:39:56+00:00"
 },
 {
-"id": "d0c78856a9d7",
-"t": "NVDA",
-"title": "How Low Nvidia Stock Can Go Now",
-"url": "https://finance.yahoo.com/m/4bbf9581-d9bc-3f2e-9760-2221f5e509cc/how-low-nvidia-stock-can-go.html?.tsrc=rss",
-"pub": "2026-11-20T16:31:00+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-20T16:43:57+00:00"
+"id": "9d6f6d33812e",
+"t": "",
+"title": "Saudi civil defense: danger has passed in Mecca region",
+"url": "https://www.financialjuice.com/News/9863144/Saudi-civil-defense-danger-has-passed-in-Mecca-region.aspx?xy=rss",
+"pub": "2026-11-21T20:50:14+00:00",
+"src": "FinancialJuice",
+"kind": "market",
+"seen": "2026-11-21T20:52:52+00:00"
 },
 {
-"id": "e1479a023647",
-"t": "JPM",
-"title": "How Retirees Can Turn $750,000 Into Passive Income With These 5 Dividend Stocks",
-"url": "https://247wallst.com/investing/2026/11/20/how-retirees-can-turn-750000-into-passive-income-with-these-5-dividend-stocks/?.tsrc=rss",
-"pub": "2026-11-20T16:30:53+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-20T16:39:56+00:00"
-},
-{
-"id": "d91ffb6d68ec",
-"t": "AMZN",
-"title": "Amazon Warns New Yorkers They May Have to Pay an Extra $5 on Orders Due to Mayor Mamdani-Backed Bill",
-"url": "https://firstformoney.com/amazon-warns-new-yorkers-they-may-have-to-pay-an-extra-5-on-orders-due-to-mayor-mamdani-backed-bill/?.tsrc=rss",
-"pub": "2026-11-20T16:30:07+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-20T16:43:57+00:00"
-},
-{
-"id": "6cdf2761a876",
-"t": "MSFT",
-"title": "Will Anthropic Stay On Top? Half Of Tech Leaders Didn't",
-"url": "https://www.trefis.com/stock/ant/articles/627080/will-anthropic-stay-on-top-half-of-tech-leaders-didn-t/2026-11-20?.tsrc=rss",
-"pub": "2026-11-20T16:30:00+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-20T17:14:24+00:00"
-},
-{
-"id": "a45f58796d59",
-"t": "MO",
-"title": "Enterprise Products or Altria: Only One Gets My Dividend Dollars for the Next 10 Years",
-"url": "https://www.tikr.com/blog/enterprise-products-or-altria-only-one-gets-my-dividend-dollars-for-the-next-10-years?ref=yahoofinancedividend&tlnk=yf-261120-xcq3w59f&.tsrc=rss",
-"pub": "2026-11-20T16:29:31+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-20T18:39:45+00:00"
+"id": "79b6e4b9c905",
+"t": "",
+"title": "Bahrain Defence Force: Shrapnel from air defense hits caused material damage, no casualties",
+"url": "https://www.financialjuice.com/News/9863142/Bahrain-Defence-Force-Shrapnel-from-air-defense-hits-caused-material-damage-no-casualties.aspx?xy=rss",
+"pub": "2026-11-21T20:45:51+00:00",
+"src": "FinancialJuice",
+"kind": "market",
+"seen": "2026-11-21T20:52:52+00:00"
 },
 {
 "id": "b80eae95361c",
@@ -8314,6 +8334,16 @@
 "seen": "2026-11-21T17:14:26+00:00"
 },
 {
+"id": "509bd77e8855",
+"t": "",
+"title": "Pioneer Power Solutions Inc (PPSI.N) | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9odVRuQzRrdUdPdzRuUUt6WXBiS3JQV3NuTHluRTE5ZEt2OU9NRERPTWNZMmZKTnhSaXloelhrSXFNSXltLThDMGU5a2d0Q0M1RHZTRnpFZy1KZEdZd2xLV1l5Nmh1SkJJNWhV?oc=5",
+"pub": "2026-11-21T16:55:13+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-21T20:52:52+00:00"
+},
+{
 "id": "cdef4ac85628",
 "t": "",
 "title": "IAEA on Ukraine: one transmission line remains offline",
@@ -8472,6 +8502,16 @@
 "src": "Bloomberg",
 "kind": "market",
 "seen": "2026-11-21T15:44:37+00:00"
+},
+{
+"id": "926516bb283e",
+"t": "",
+"title": "Rallybio Corp (RLYB.OQ) | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5tNFA2QlJyV3JGWFgtMEtEbWtIZmVkOTZIZ2hrOGpyWHdsdkNGYnY4NG83WGtRVVluX3pGRGx6VGU1VERDQVFzQmRocU1yTURtUWVzanIzSmkxNExZYVdB?oc=5",
+"pub": "2026-11-21T15:24:20+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-21T20:52:52+00:00"
 },
 {
 "id": "960689af35cf",
@@ -8682,6 +8722,16 @@
 "src": "Reuters",
 "kind": "market",
 "seen": "2026-11-21T20:43:38+00:00"
+},
+{
+"id": "df38c07675b5",
+"t": "",
+"title": "296A.J3 - | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOajFEVnM1cm1jeDJJcW9od1l4ZVFHQWpsbUtqYUlIR1F1NTZPQ2xCanA5ekVuSmczRG04MXUtVGZXY2k0QlB4OGtnWVR1Z3dvNjFaeHdXWDVYeUNucFJtdXJzOWF1eFo1UU9ERWYtOWJ1eHh5MWdINXpKMXVmZVZuOEZheXRaRkt1aC1pZjF2WW0?oc=5",
+"pub": "2026-11-21T14:21:22+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-21T20:52:52+00:00"
 },
 {
 "id": "59c49f93e44e",
@@ -10962,56 +11012,6 @@
 "src": "FinancialJuice",
 "kind": "market",
 "seen": "2026-11-20T21:29:57+00:00"
-},
-{
-"id": "fc78ecd1ebc6",
-"t": "",
-"title": "Oracle: OpenAI contract fully funded. $ORCL",
-"url": "https://www.financialjuice.com/News/9862479/Oracle-OpenAI-contract-fully-funded-ORCL.aspx",
-"pub": "2026-11-20T21:21:58+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-20T22:14:08+00:00"
-},
-{
-"id": "c1fb3bccc740",
-"t": "",
-"title": "American Shared Hospital Services (AMS.N) | Stock Price & Latest News - Reuters",
-"url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5yeWYtUGVJUjUzaHd0QU1pcERpeG9zMUIzS3N0bndZaEJMcGk5M0RoNmNqT3Q2VjZ3RUNrTGZKVGpCWVBKWUs3OUViOERwNS00U2h4b1Vham53WWZFZ2pPRXpCNlUxWUZxZTl1cw?oc=5",
-"pub": "2026-11-20T21:21:39+00:00",
-"src": "Reuters",
-"kind": "market",
-"seen": "2026-11-21T13:15:23+00:00"
-},
-{
-"id": "ec013068d8cf",
-"t": "",
-"title": "Goldman Says Stock Selloff Has Legs as Panic Index Nears Maximum",
-"url": "https://www.bloomberg.com/news/articles/2026-11-20/goldman-says-stock-selloff-has-legs-as-panic-index-nears-maximum",
-"pub": "2026-11-20T21:20:55+00:00",
-"src": "Bloomberg",
-"kind": "market",
-"seen": "2026-11-20T21:29:57+00:00"
-},
-{
-"id": "ea50080d9f17",
-"t": "",
-"title": "DXY CFTC Positions Week of November 17th - FJElite",
-"url": "https://www.financialjuice.com/News/9862477/DXY-CFTC-Positions-Week-of-November-17th---FJElite.aspx?xy=rss",
-"pub": "2026-11-20T21:18:42+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-20T21:29:57+00:00"
-},
-{
-"id": "dc211cb0e231",
-"t": "",
-"title": "DXY CFTC Positions Week of November 17th - FJElite",
-"url": "https://www.financialjuice.com/News/9862477/DXY-CFTC-Positions-Week-of-November-17th---FJElite.aspx",
-"pub": "2026-11-20T21:18:42+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-20T22:14:08+00:00"
 }
 ]
 }
