@@ -1,18 +1,38 @@
 {
-"updated_kst": "2026-11-22 15:44",
-"rot": 120,
+"updated_kst": "2026-11-22 16:14",
+"rot": 1,
 "how": "Scout(프로그램)이 10분마다 모은 기사 제목·링크와 공시예요. Wren이 공식 출처로 확인한 뒤 회사 화면에 한국어로 반영해요. 본문은 받지 않아요.",
 "sources": {
 "Yahoo Finance": "120종목 확인 · 실패 0",
 "CNBC": "63건",
 "Bloomberg": "26건",
 "WSJ": "61건",
-"Reuters": "37건",
+"Reuters": "42건",
 "FinancialJuice": "100건",
 "SEC EDGAR": "실패 HTTPError",
 "Fox Business": "50건"
 },
 "items": [
+{
+"id": "0156289a200c",
+"t": "NVDA",
+"title": "1 Reason to Buy e.l.f. Beauty Stock",
+"url": "https://www.fool.com/investing/2026/11/22/1-reason-to-buy-e-l-f-beauty-stock/?.tsrc=rss",
+"pub": "2026-11-22T06:54:02+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-22T07:14:31+00:00"
+},
+{
+"id": "93acb39c4343",
+"t": "NVDA",
+"title": "Chamath Palihapitiya Praises Jensen Huang As ‘Biblically Good,’ But Warns Bringing Him Back At Nvidia Could Put ‘Everybody’ At Risk",
+"url": "https://stocktwits.com/news-articles/markets/equity/chamath-palihapitiya-praises-jensen-huang-biblically-good-nvidia-risk/cNbnmnOR91r?.tsrc=rss",
+"pub": "2026-11-22T06:52:25+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-22T07:14:31+00:00"
+},
 {
 "id": "48a60e179caa",
 "t": "NVDA",
@@ -7994,26 +8014,6 @@
 "seen": "2026-11-20T18:39:45+00:00"
 },
 {
-"id": "c34706c5b8bc",
-"t": "WMT",
-"title": "DoorDash pushes back on FTC pricing inquiry: 'We don’t do surveillance pricing'",
-"url": "https://www.nrn.com/restaurant-technology/doordash-pushes-back-on-ftc-pricing-inquiry-we-don-t-do-surveillance-pricing-?.tsrc=rss",
-"pub": "2026-11-20T17:30:52+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-20T18:39:45+00:00"
-},
-{
-"id": "24392563962b",
-"t": "MSFT",
-"title": "Satya Nadella Once Told Bill Gates 'Founders Also Die,' Says Jensen Huang Built Nvidia's 'Institutional Strength' to Thrive Beyond Him",
-"url": "https://finance.yahoo.com/technology/articles/satya-nadella-once-told-bill-173005217.html?.tsrc=rss",
-"pub": "2026-11-20T17:30:05+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-20T18:39:45+00:00"
-},
-{
 "id": "2428ccc4698a",
 "t": "",
 "title": "Else Nutrition Holdings Inc (BABYF.PK) | Stock Price & Latest News - Reuters",
@@ -9392,6 +9392,16 @@
 "src": "FinancialJuice",
 "kind": "market",
 "seen": "2026-11-21T19:14:53+00:00"
+},
+{
+"id": "da510e17f2a5",
+"t": "",
+"title": "Group 6 Metals Ltd (G6M.AX) | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBjd2pTSkhMeFBmblpwZ1RUOWV1aVNJeHBnTzJRMUdUTEFwSVFPLXpwUXpmRmlDWW8ya3RCSnRpa1c2OUZqdmRzVVlQV1FzQlp0T2dkSWNEdXA1YkYzM2c?oc=5",
+"pub": "2026-11-21T15:05:15+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-22T07:14:31+00:00"
 },
 {
 "id": "536629d503e2",
@@ -11002,16 +11012,6 @@
 "src": "Reuters",
 "kind": "market",
 "seen": "2026-11-21T07:56:17+00:00"
-},
-{
-"id": "87ea384775db",
-"t": "",
-"title": "1717.HZ - | Stock Price & Latest News - Reuters",
-"url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1xX2p6UlZNTWwxSWVQZXEwUDVWeTQ1b3kzZ2ZtWVl3T2lLQkpFLVk0QXc5b2MtUlVtbk5xMGJnRUhyNloyS2tqSEVHNFhDVkVPOGRVQVBGZHJRVTBuUDVaUC1TTnlvNjNKWmdYRnZpZlZYbFVObzFaVVZDZUo?oc=5",
-"pub": "2026-11-21T01:04:00+00:00",
-"src": "Reuters",
-"kind": "market",
-"seen": "2026-11-21T13:15:23+00:00"
 }
 ]
 }
