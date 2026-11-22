@@ -376,11 +376,19 @@ textarea.code{width:100%; min-height:64px; border:1px solid var(--line); backgro
 .splash.fly.solid{background:var(--bg)}
 .landing.main.intro .wordmark, .landing.main.intro .mmotto, .landing.main.pre .wordmark-ko, .landing.main.pre .lcard{opacity:0}
 .landing.main.cards-in .wordmark-ko, .landing.main.cards-in .lcard{animation:fadeUp .6s cubic-bezier(.2,.8,.2,1) both}
-.landing.main.cards-in .lcard:nth-child(2){animation-delay:.08s}
+.landing.main.cards-in .lcard:nth-child(2){animation-delay:.08s} .landing.main.cards-in .lcard:nth-child(3){animation-delay:.16s}
 @keyframes fadeUp{from{opacity:0; transform:translateY(14px)}}
 .motto{margin-top:14px; font-family:"New York", "Iowan Old Style", Georgia, "Times New Roman", serif; font-style:italic; font-size:16px; letter-spacing:.02em; color:var(--muted)}
 .landing.main h2{font-size:26px}
-.lgrid{display:grid; grid-template-columns:1fr 1fr; gap:12px; margin-top:24px}
+@media (min-width:900px){ .app.main-wide{max-width:980px} }
+.ahub2{display:grid; grid-template-columns:repeat(2,minmax(0,240px)); justify-content:center; align-content:center; gap:14px; min-height:calc(100vh - 140px); min-height:calc(100dvh - 140px)}
+.ahb{position:relative; overflow:hidden; display:flex; flex-direction:column; align-items:center; justify-content:center; gap:6px; min-height:170px; padding:0; border:1px solid var(--line); border-radius:20px; background:radial-gradient(120% 90% at 50% 0%, var(--surface-2) 0%, var(--surface) 70%); font:inherit; color:var(--ink); cursor:pointer; transition:border-color .2s, transform .2s}
+.ahb-i{position:absolute; top:14px; left:16px; font-size:11px; letter-spacing:.18em; color:var(--muted)}
+.ahb-e{font-size:10.5px; letter-spacing:.32em; color:var(--muted); padding-left:.32em} .ahb-n{position:relative; font-size:22px; font-weight:700; letter-spacing:-.01em} .ahb-n::after{content:""; display:block; width:22px; height:2px; margin:10px auto 0; background:var(--pt); border-radius:2px; transition:width .25s}
+.ahb:hover{border-color:var(--pt)} .ahb:hover .ahb-n::after{width:40px}
+.ahb.soon{cursor:default; border-style:dashed; background:var(--surface)} .ahb.soon:hover{border-color:var(--line)} .ahb.soon .ahb-n{color:var(--muted)} .ahb.soon .ahb-n::after{background:var(--line)} .ahb.soon:hover .ahb-n::after{width:22px}
+@media (min-width:900px){ .ahub2{grid-template-columns:repeat(2,280px); gap:20px} .ahb{min-height:200px} .ahb-n{font-size:26px} }
+.lgrid{display:grid; grid-template-columns:1fr 1fr; gap:12px; margin-top:24px} .lgrid .lcard:nth-child(3){grid-column:1/-1; min-height:0} @media (min-width:900px){ .lgrid{grid-template-columns:repeat(3,minmax(0,1fr))} .lgrid .lcard, .lgrid .lcard:nth-child(3){grid-column:auto; min-height:200px} }
 .lcard{display:flex; flex-direction:column; gap:10px; text-align:left; cursor:pointer; min-height:300px;
   background:var(--surface); border:1px solid var(--line); border-radius:18px; padding:20px 16px}
 .lcard:hover{border-color:var(--accent)}
@@ -2516,18 +2524,18 @@ function viewMain(st){
     <div class="lgrid">
       <button class="lcard" type="button" data-go="home">
         <div class="lt">밤낮 <span style="color:var(--accent)">ETF</span></div>
-        <div class="ls">밤사이 내 해외 ETF가 얼마일지, 왜 움직였는지 알려줘요.</div>
+        <div class="ls">밤사이 내 해외 ETF 값과 이유</div>
         <div class="lfoot">${fav || '<span class="muted">관심 ETF를 골라보세요</span>'}</div>
       </button>
       <button class="lcard" type="button" data-go="macro">
         <div class="lt">매크로 <span style="color:var(--accent)">지표</span></div>
-        <div class="ls">금리·물가·고용·환율을 쉽게 정리해 드려요.</div>
+        <div class="ls">금리·물가·고용·환율</div>
         <div class="lfoot">${(()=>{ const n = nextUpcoming().filter(x=>x.r.ymd>=ymd(st.k))[0]; return n?`다음 <b>${IND[n.k].name}</b><div class="num muted">${n.r.label}</div>`:""; })()}</div>
       </button>
-      <button class="lcard" type="button" data-go="amap" style="grid-column:1/-1;min-height:0">
-        <div class="lt">A</div>
-        <div class="ls">산업마다 회사들이 어떻게 이어지고, 무엇과 돈을 주고받는지 지도로 봐요.</div>
-        <div class="lfoot muted">${(AM.industries||[]).filter(x=>x[3]==="open").map(x=>x[1]).join(" · ")} 열림 · 나머지 산업 준비 중</div>
+      <button class="lcard" type="button" data-go="ahub">
+        <div class="lt"><span style="color:var(--accent)">Aleph</span></div>
+        <div class="ls">산업과 국제 정세를 지도로</div>
+        <div class="lfoot muted">국제 정세는 준비 중</div>
       </button>
     </div>
     <div class="motto mmotto">Money wins. Here’s to us.<span class="cite">— <i>Succession</i></span></div>
@@ -4226,10 +4234,18 @@ function amTop(){ const CO = amCo();
 function amBody(){ return `${amMatrix()}
       <div class="tiny muted" style="margin-top:14px">여러 프로젝트에 걸친 회사 · 계산값</div><div>${amTop()}</div>
     <div id="amPanel" style="margin-top:14px;padding-top:4px;border-top:1px solid var(--line)">${amPanel()}</div>`; }
-/* A 화면 첫 장: 산업 고르기 */
+/* A 첫 장 (대표 요청 2026-11-22): 산업 · 국제 정세 두 갈래. 국제 정세(안보)는 나중에 */
+function viewAhub(){
+  return `<div class="ahub2">
+      <button class="ahb" type="button" data-go="amap"><span class="ahb-i">01</span><span class="ahb-e">INDUSTRY</span><span class="ahb-n">산업</span></button>
+      <div class="ahb soon" aria-disabled="true" aria-label="국제 정세 (준비 중)"><span class="ahb-i">02</span><span class="ahb-e">GEOPOLITICS</span><span class="ahb-n">국제 정세</span></div>
+    </div>`;
+}
+/* A 화면 · 산업: 산업 고르기 */
 function viewAmap(){
   const IN = AM.industries||[];
-  return `<section class="card" style="margin-top:14px"><div class="small muted">산업 지도</div>
+  return `<button class="backmain" type="button" data-go="ahub" style="margin-top:14px">‹ Aleph</button>
+    <section class="card" style="margin-top:10px"><div class="small muted">산업 지도</div>
       <div style="font-size:20px;font-weight:700;margin-top:2px">산업을 골라 보세요</div>
       <div class="tiny muted" style="margin-top:4px">산업마다 회사들이 어떤 순서로 이어지고, 무엇과 돈을 주고받는지 한 장으로 보여 드려요.</div>${amSearchBox("amQ1")}</section>
     <div class="agrid">${IN.map(([k,n,d,st])=> st==="open"
@@ -4437,7 +4453,7 @@ function viewAmapAi(){
   const IN = (AM.industries||[]).find(x=>x[0]===amK) || [amK, amK];
   const intro = amD().intro || "AI 서비스 하나가 돌아가려면 모델, 클라우드, 서버, 칩, 메모리, 장비, 데이터센터, 전기가 모두 필요해요.";
   return `<button class="backmain" type="button" data-go="amap" style="margin-top:14px">‹ 산업 목록</button>
-    <section class="card" style="margin-top:10px"><div class="small muted">A · 산업 지도</div>
+    <section class="card" style="margin-top:10px"><div class="small muted">Aleph · 산업 지도</div>
       <div style="font-size:20px;font-weight:700;margin-top:2px">${IN[1]}</div>
       <div class="tiny muted" style="margin-top:4px">${amTerms(intro)} 관계마다 근거(회사 발표·공시·정부 문서·보도)와 출처, 확인일을 붙였어요. 밑줄 친 단어는 눌러 보세요.</div>${amSearchBox("amQ2")}</section>
     <div id="amAiWrap">${amAiBody()}</div>
@@ -4837,17 +4853,18 @@ function render(){
   const r = route();
   let html;
   const inA = r==="macro" || r.startsWith("macro-");
-  const inAM = r==="amap" || r.startsWith("amap-");
+  const inAM = r==="ahub" || r==="amap" || r.startsWith("amap-");
   const inEtf = !(r==="main" || inA || inAM || r==="check");
   document.querySelector(".tabs").hidden = !inEtf;
   document.querySelector(".app").classList.toggle("am-wide", inAM);
   document.getElementById("backMain").hidden = (r==="main");
-  document.getElementById("clocks").hidden = (r==="main");
-  document.getElementById("protoBanner").hidden = (r==="main");
+  document.getElementById("clocks").hidden = (r==="main") || inAM;
+  document.getElementById("protoBanner").hidden = (r==="main") || r==="ahub";
   document.getElementById("previewBox").hidden = (r==="main") || !DEV;  // 개발용 시간 미리보기: 주소 끝에 ?dev 를 붙일 때만 (2026-11-16 대표 결정)
-  document.getElementById("discLine").hidden = (r==="main");
+  document.getElementById("discLine").hidden = (r==="main") || r==="ahub";
   document.querySelector(".app > .top").classList.toggle("bare", r==="main");
-  document.getElementById("brandTitle").innerHTML = r==="main" ? "" : r==="check" ? "자동 <span>점검</span>" : inAM ? "A" : (inA ? "매크로 <span>지표</span>" : "밤낮 <span>ETF</span>");
+  document.querySelector(".app").classList.toggle("main-wide", r==="main");
+  document.getElementById("brandTitle").innerHTML = r==="main" ? "" : r==="check" ? "자동 <span>점검</span>" : inAM ? "<span>Aleph</span>" : (inA ? "매크로 <span>지표</span>" : "밤낮 <span>ETF</span>");
   if(r==="main") html = viewMain(st);
   else if(r==="macro") html = viewMacro(st);
   else if(r.startsWith("macro-")) html = viewMacroGroup(r.slice(6), st);
@@ -4857,6 +4874,7 @@ function render(){
   else if(r==="news") html = viewNews();
   else if(r==="guide") html = viewGuide();
   else if(r==="check") html = viewCheck();
+  else if(r==="ahub") html = viewAhub();
   else if(r==="amap") html = viewAmap();
   else if(r.startsWith("amap-") && amPrjRoute(r) && AM[amPrjRoute(r)[0]]){ const [k, id] = amPrjRoute(r); html = viewAmPrj(k, id); }
   else if(r.startsWith("amap-") && AM[r.slice(5)]){ amSetInd(r.slice(5)); html = viewAmapAi(); requestAnimationFrame(amLines); }
