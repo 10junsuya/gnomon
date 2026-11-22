@@ -1,19 +1,28 @@
-"""출처 접속 확인(한 번씩). 이번: 환율 시험(승인 34번 ①) — 한국 펀드가 기준가에 쓰는 환율 후보. 결과 → data/probe.json"""
-import json, urllib.request
+"""출처 접속 확인(한 번씩). 이번: 국가 프로젝트 화면 사진(위키미디어 공용) 라이선스·주소 확인 (대표 요청 2026-11-22). 결과 → data/probe.json"""
+import json, urllib.parse, urllib.request
 from pathlib import Path
-UA = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126 Safari/537.36",
-      "Accept": "application/json,text/plain,*/*", "Accept-Language": "en-US,en;q=0.9"}
-def get(u):
-    with urllib.request.urlopen(urllib.request.Request(u, headers=UA), timeout=30) as r:
-        return r.read().decode("utf-8", "replace")
-E = "https://ecos.bok.or.kr/api/StatisticSearch/sample/json/kr/1/10/731Y001/D/{}/{}/0000001"  # 한국은행 원/달러 매매기준율(공개 예시 키, 10줄)
+UA = {"User-Agent": "GnomonApp/1.0 (https://github.com/10junsuya/gnomon; photo license check)"}
+T = ["File:Artemis II Launch (NHQ202604010307).jpg", "File:Three Mile Island (color).jpg",
+     "File:231105-1 TSMC Fab 21 construction.jpg", "File:Data centers in Ashburn.jpg",
+     "File:KSLV-II Nuri and the launchpad 01.jpg", "File:Construction at Vogtle Nuclear Plant.jpg",
+     "File:Construction at Vogtle Unit 3 - August 2013 (14676545094).jpg", "File:JASM Kumamoto 2024 03.jpg",
+     "File:Dukovany.JPG", "File:Overview of cooling towers of Dukovany Nuclear Power Station near Dukovany, Třebíč District.jpg",
+     "File:CLPS Firefly Blue Ghost Mission 1 (KSC-20250114-PH-KLS01 0006).jpg", "File:Blue Ghost M1 on the Moon.png",
+     "File:Google Data Center, Council Bluffs Iowa (49062863796).jpg", "File:Utah Data Center.jpg",
+     "File:TSMC Fab 18 and fields May 2025.jpg", "File:Intel Ohio One (2024-02-11-04-16-53 UMBRA-06).tiff"]
 out = {}
-for k, u in {"ecos_a": E.format("20261020", "20261031"), "ecos_b": E.format("20261101", "20261112"),
-             "ecos_c": E.format("20261113", "20261122"),
-             "yahoo_1h": "https://query1.finance.yahoo.com/v8/finance/chart/KRW=X?range=1mo&interval=1h",
-             "frankfurter": "https://api.frankfurter.dev/v1/2026-10-20..?base=USD&symbols=KRW"}.items():
+for i in range(0, len(T), 8):
+    q = {"action": "query", "format": "json", "prop": "imageinfo", "iiprop": "url|extmetadata", "iiurlwidth": "1280",
+         "titles": "|".join(T[i:i + 8])}
+    u = "https://commons.wikimedia.org/w/api.php?" + urllib.parse.urlencode(q)
     try:
-        b = get(u); out[k] = {"len": len(b), "body": b[:200000]}
+        with urllib.request.urlopen(urllib.request.Request(u, headers=UA), timeout=30) as r:
+            j = json.loads(r.read())
+        for p in j.get("query", {}).get("pages", {}).values():
+            ii = (p.get("imageinfo") or [{}])[0]; m = ii.get("extmetadata", {})
+            g = lambda k: (m.get(k) or {}).get("value", "")
+            out[p.get("title")] = {"thumb": ii.get("thumburl"), "page": ii.get("descriptionurl"), "lic": g("LicenseShortName"),
+                                   "artist": g("Artist")[:300], "credit": g("Credit")[:300], "usage": g("UsageTerms"), "attr": g("AttributionRequired")}
     except Exception as e:  # noqa: BLE001
-        out[k] = {"err": f"{type(e).__name__}: {str(e)[:160]}"}
+        out[f"err{i}"] = f"{type(e).__name__}: {str(e)[:160]}"
 Path("data/probe.json").write_text(json.dumps(out, ensure_ascii=False, indent=1) + "\n", encoding="utf-8")
