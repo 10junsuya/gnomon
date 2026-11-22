@@ -1,18 +1,48 @@
 {
-"updated_kst": "2026-11-22 17:14",
-"rot": 2,
+"updated_kst": "2026-11-22 17:43",
+"rot": 62,
 "how": "Scout(프로그램)이 10분마다 모은 기사 제목·링크와 공시예요. Wren이 공식 출처로 확인한 뒤 회사 화면에 한국어로 반영해요. 본문은 받지 않아요.",
 "sources": {
 "Yahoo Finance": "120종목 확인 · 실패 0",
 "CNBC": "63건",
-"Bloomberg": "25건",
+"Bloomberg": "26건",
 "WSJ": "61건",
-"Reuters": "30건",
+"Reuters": "48건",
 "FinancialJuice": "100건",
 "SEC EDGAR": "실패 HTTPError",
 "Fox Business": "50건"
 },
 "items": [
+{
+"id": "b0afa902081d",
+"t": "NVDA",
+"title": "The S&P 500 Is 14 for 14 After Midterm Elections. Here’s How I’d Invest Now.",
+"url": "https://www.fool.com/investing/2026/11/22/sp-500-14-for-14-after-midterm-elections-how-id-invest-now/?.tsrc=rss",
+"pub": "2026-11-22T08:20:03+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-22T08:43:48+00:00"
+},
+{
+"id": "c1a0568e0390",
+"t": "NVDA",
+"title": "AI Chip Supply Chain Shifts Put Disco Stock And Asian Tool Makers In Focus",
+"url": "https://finance.yahoo.com/technology/ai/articles/ai-chip-supply-chain-shifts-080902983.html?.tsrc=rss",
+"pub": "2026-11-22T08:09:02+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-22T08:43:48+00:00"
+},
+{
+"id": "efc38e27a660",
+"t": "LRCX",
+"title": "What Does Lam Research (LRCX) $15 Million STEM And AI Education Push Mean?",
+"url": "https://finance.yahoo.com/technology/ai/articles/does-lam-research-lrcx-15-080729550.html?.tsrc=rss",
+"pub": "2026-11-22T08:07:29+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-22T08:43:48+00:00"
+},
 {
 "id": "a7ffbf114ab8",
 "t": "META",
@@ -7984,34 +8014,14 @@
 "seen": "2026-11-20T18:14:43+00:00"
 },
 {
-"id": "c310439a6121",
-"t": "MSFT",
-"title": "Microsoft's Copilot strategy offers path to enterprise AI growth, says Bank of America",
-"url": "https://www.proactiveinvestors.com/companies/news/1102206/microsoft-s-copilot-strategy-offers-path-to-enterprise-ai-growth-says-bank-of-america-1102206.html?.tsrc=rss",
-"pub": "2026-11-20T17:36:00+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-20T17:45:12+00:00"
-},
-{
-"id": "9fd09fc9cb58",
-"t": "NVDA",
-"title": "Bitcoin Fell More Than 20% in November. History Says This Happens Next.",
-"url": "https://www.fool.com/investing/2026/11/20/bitcoin-fell-more-than-20-in-november-history-says-this-happens-next/?.tsrc=rss",
-"pub": "2026-11-20T17:35:02+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-20T18:14:43+00:00"
-},
-{
-"id": "2286bbf6f277",
-"t": "WMT",
-"title": "Walmart's Q3 Results Strengthen Bull Case as E-Commerce Economics Improve, UBS Says",
-"url": "https://finance.yahoo.com/markets/stocks/articles/walmart-apos-q3-results-strengthen-173429075.html?.tsrc=rss",
-"pub": "2026-11-20T17:34:29+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-20T18:39:45+00:00"
+"id": "ee934b6c250c",
+"t": "",
+"title": "Swiss Inflation Has Been Accelerating, SNB Vice President Martin Says",
+"url": "https://www.bloomberg.com/news/articles/2026-11-22/swiss-inflation-has-been-accelerating-snb-vice-president-martin-says",
+"pub": "2026-11-22T08:00:00+00:00",
+"src": "Bloomberg",
+"kind": "market",
+"seen": "2026-11-22T08:43:48+00:00"
 },
 {
 "id": "572a544fab40",
@@ -8022,6 +8032,16 @@
 "src": "Reuters",
 "kind": "market",
 "seen": "2026-11-22T08:14:33+00:00"
+},
+{
+"id": "bedde68f0dc7",
+"t": "",
+"title": "Myseum AI Inc (MYSE.OQ) | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE53cGdMSFZsOEVOQTVuY1VmZVlGRjI0enE0WEQ2aUZnWW1VZ2g4MDZ5T2FNQ2NTWDd6OENHOEcxNzRVSEx2VkhzRW5zcmFrX3BtbHFfT0ZRSUlwNWFOaXBNRXNPM0l4YTFtVm8yR3Z3MA?oc=5",
+"pub": "2026-11-22T04:53:56+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-22T08:43:48+00:00"
 },
 {
 "id": "d95b0292e7f4",
@@ -8092,6 +8112,16 @@
 "src": "Reuters",
 "kind": "market",
 "seen": "2026-11-22T07:44:32+00:00"
+},
+{
+"id": "e7772576a52b",
+"t": "",
+"title": "BJ's Restaurants Inc (BJRI.O) | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE53bXB0MGlPUjBIX1pmeUhyRHlERFdBOEdkcjhWT0c5QlZpQzNzaEtNYXJObENJS0gzejZZZHhfZFVRbU9CcmtrdUVhc2cwUDhZVVFlMzdKNmUyN05IeGw0eVNTVm1ORmtoLU0w?oc=5",
+"pub": "2026-11-22T02:51:31+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-22T08:43:48+00:00"
 },
 {
 "id": "95ba7e439f4a",
@@ -8862,6 +8892,16 @@
 "src": "Reuters",
 "kind": "market",
 "seen": "2026-11-21T23:14:30+00:00"
+},
+{
+"id": "14d6550b0afb",
+"t": "",
+"title": "tmy.f - | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNNFFIaERweVlEY3J6Qzc0SmFhTFQzZUxXc1RGMkN3OTZHOHNiT2kxbXlwRmRRWW5QWlJ2VVRYTVZDYW5NbExTcGE0cndXUzZ6bXZ4TXZ5STN5Z1hZX25VSVRVWVhaYVNyc2F3ZGo3emdXNHc1WVBzQWU4aXN5dllZTg?oc=5",
+"pub": "2026-11-21T19:04:08+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-22T08:43:48+00:00"
 },
 {
 "id": "e7d43095b68c",
@@ -10972,46 +11012,6 @@
 "src": "FinancialJuice",
 "kind": "market",
 "seen": "2026-11-21T19:14:53+00:00"
-},
-{
-"id": "04a394a1ab05",
-"t": "",
-"title": "1271stat.HK - | Stock Price & Latest News - Reuters",
-"url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOeW8tbFBGUlJ6SmZoNWw0UUZHekNTcV9COHF4dEtndG1VcDNOYkpQOG85NVczd1pKdWJDZnRIeS1GWXcyWU9xRG9qOGZIcTZxekhtcm5BOTlQMHpuWGFnTjJGbUtBbVFzUDJVSHM3dG5NWFpmN2toQzJQUFNuMVlBUGRUOGFaYTRXcEpQaTNB?oc=5",
-"pub": "2026-11-21T02:33:37+00:00",
-"src": "Reuters",
-"kind": "market",
-"seen": "2026-11-21T18:44:40+00:00"
-},
-{
-"id": "4ad7d020e07b",
-"t": "",
-"title": "5232.F - | Stock Price & Latest News - Reuters",
-"url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPUi1lY1hpQ3l5TUJnLVZNMHBnb1BjSzFsRTVGN2tlQnp2UlJkZXdLZHpIVTVLWGtTSXE1VkNCNHVKVjMxZWJhbjloazZCOU9OWlRobUNkRlAyMVVQNjh0QjM0aTh6alhLU3FUaEl1TVdpbGFlNXo1Wmo4bjRXY3FZNWpKVFl6aDQ?oc=5",
-"pub": "2026-11-21T02:32:18+00:00",
-"src": "Reuters",
-"kind": "market",
-"seen": "2026-11-21T13:15:23+00:00"
-},
-{
-"id": "eec5d1cd666e",
-"t": "",
-"title": "5232.F - | Stock Price & Latest News - Reuters",
-"url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOT3NzQmxWWl9JMkdrMmhuTnlDVTdocFktQkVLTU8tVzlIOE1wekUtUlQ0SlhaUFAtY1RjTUhyWjR1MmpCTUNWalBvbkZJelF5ZlpSN3c1dzNTQVhoNldnYjBNdnZGSTdKcmpWZWFGbWJfR0Nmak9XVkhTVnpKajhJRDdxQ3Z2dw?oc=5",
-"pub": "2026-11-21T02:32:18+00:00",
-"src": "Reuters",
-"kind": "market",
-"seen": "2026-11-21T15:13:59+00:00"
-},
-{
-"id": "2034b5231d25",
-"t": "",
-"title": "T-Rex 2X Inverse CRWV Daily Target ETF (CORD.N) | Stock Price & Latest News - Reuters",
-"url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE11NXZLSHJNWVJhb2hPZU5aT2VIa05ocHdEeUg2QnRqbjJhNnVENDh6eEVXN3JOWnJLTlhKbUVsT1pyQlo4MHhuaHhsYm9zYlYzV2lDSjJ3NFc?oc=5",
-"pub": "2026-11-21T02:20:25+00:00",
-"src": "Reuters",
-"kind": "market",
-"seen": "2026-11-21T04:34:44+00:00"
 }
 ]
 }
