@@ -1,18 +1,48 @@
 {
-"updated_kst": "2026-11-22 15:13",
-"rot": 0,
+"updated_kst": "2026-11-22 15:41",
+"rot": 60,
 "how": "Scout(프로그램)이 10분마다 모은 기사 제목·링크와 공시예요. Wren이 공식 출처로 확인한 뒤 회사 화면에 한국어로 반영해요. 본문은 받지 않아요.",
 "sources": {
 "Yahoo Finance": "120종목 확인 · 실패 0",
 "CNBC": "63건",
-"Bloomberg": "25건",
+"Bloomberg": "26건",
 "WSJ": "61건",
-"Reuters": "37건",
+"Reuters": "46건",
 "FinancialJuice": "100건",
 "SEC EDGAR": "실패 HTTPError",
 "Fox Business": "50건"
 },
 "items": [
+{
+"id": "48a60e179caa",
+"t": "NVDA",
+"title": "What's Behind Grail Stock's Wild Ride in 2026, and What Can Investors Expect in 2027?",
+"url": "https://www.fool.com/investing/2026/11/22/what-s-behind-grail-stock-s-wild-ride-in-2026-and-what-can-investors-expect-in-2027/?.tsrc=rss",
+"pub": "2026-11-22T06:27:02+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-22T06:41:39+00:00"
+},
+{
+"id": "c6b6f77dbdea",
+"t": "ORCL",
+"title": "Top 3 Insider Backed Growth Stocks To Watch In November 2026",
+"url": "https://finance.yahoo.com/markets/stocks/articles/top-3-insider-backed-growth-061313796.html?.tsrc=rss",
+"pub": "2026-11-22T06:13:13+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-22T06:41:39+00:00"
+},
+{
+"id": "60ac6b8db7fc",
+"t": "SPCX",
+"title": "Goldman Sachs (GS) Backs Record $44 Billion GPU Financing Deal",
+"url": "https://finance.yahoo.com/technology/ai/articles/goldman-sachs-gs-backs-record-061306562.html?.tsrc=rss",
+"pub": "2026-11-22T06:13:06+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-22T06:41:39+00:00"
+},
 {
 "id": "27c1d2ca8af5",
 "t": "NVDA",
@@ -7984,36 +8014,6 @@
 "seen": "2026-11-20T18:39:45+00:00"
 },
 {
-"id": "e238a38b20dd",
-"t": "SPCX",
-"title": "SpaceX-Owned Cursor Considers Dropping Chinese AI Models – A Look At Some Key Details",
-"url": "https://stocktwits.com/news-articles/markets/equity/spacex-owned-cursor-considers-dropping-chinese-ai-models/cNbSnO3R91d?.tsrc=rss",
-"pub": "2026-11-20T17:27:27+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-20T17:40:09+00:00"
-},
-{
-"id": "21101d6d69a4",
-"t": "SNOW",
-"title": "Jedify Launches MPC Connector on Snowflake Marketplace",
-"url": "https://finance.yahoo.com/technology/ai/articles/jedify-launches-mpc-connector-snowflake-172700462.html?.tsrc=rss",
-"pub": "2026-11-20T17:27:00+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-20T17:40:09+00:00"
-},
-{
-"id": "aad01d442ae6",
-"t": "SPCX",
-"title": "SpaceX Stocks Drop 6.57% Premarket After $32 Billion Bond Sale at 8.26%",
-"url": "https://finance.yahoo.com/markets/stocks/articles/spacex-stocks-drop-6-57-172646022.html?.tsrc=rss",
-"pub": "2026-11-20T17:26:46+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-20T17:40:09+00:00"
-},
-{
 "id": "2428ccc4698a",
 "t": "",
 "title": "Else Nutrition Holdings Inc (BABYF.PK) | Stock Price & Latest News - Reuters",
@@ -10014,6 +10014,16 @@
 "seen": "2026-11-21T13:15:23+00:00"
 },
 {
+"id": "f3cf6013ce63",
+"t": "",
+"title": "Los Angeles Port Strike Threat Resolved With Tentative Agreement",
+"url": "https://www.bloomberg.com/news/articles/2026-11-21/los-angeles-port-strike-threat-resolved-with-tentative-agreement",
+"pub": "2026-11-21T11:22:06+00:00",
+"src": "Bloomberg",
+"kind": "market",
+"seen": "2026-11-22T06:41:39+00:00"
+},
+{
 "id": "9c07db9dbe98",
 "t": "",
 "title": "Finland border guard: damaged ship has drifted from international waters into Finnish territory",
@@ -11002,16 +11012,6 @@
 "src": "Reuters",
 "kind": "market",
 "seen": "2026-11-21T13:15:23+00:00"
-},
-{
-"id": "80f99c8dcc0a",
-"t": "",
-"title": "Eco-Shop Marketing Bhd (ECOO.KL) | Stock Price & Latest News - Reuters",
-"url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE80OUYtd1FCOFM2aVZUaDlZbkw2RkZCQmRJOUJ5Um8zR2N3emRqT2JHZ2h3Zm1NamRGT2xQN0M0LUZyck9nS1V1NE93OEFKNUZuSEs3VDRSVHlWTjZIdWRlNkV6NkVBZXdzblpKMElfTQ?oc=5",
-"pub": "2026-11-21T00:53:28+00:00",
-"src": "Reuters",
-"kind": "market",
-"seen": "2026-11-21T17:28:35+00:00"
 }
 ]
 }
