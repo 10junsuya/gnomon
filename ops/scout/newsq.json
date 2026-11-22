@@ -1,13 +1,13 @@
 {
-"updated_kst": "2026-11-22 13:44",
-"rot": 118,
+"updated_kst": "2026-11-22 14:14",
+"rot": 178,
 "how": "Scout(프로그램)이 10분마다 모은 기사 제목·링크와 공시예요. Wren이 공식 출처로 확인한 뒤 회사 화면에 한국어로 반영해요. 본문은 받지 않아요.",
 "sources": {
 "Yahoo Finance": "120종목 확인 · 실패 0",
 "CNBC": "63건",
-"Bloomberg": "27건",
+"Bloomberg": "25건",
 "WSJ": "61건",
-"Reuters": "40건",
+"Reuters": "42건",
 "FinancialJuice": "100건",
 "SEC EDGAR": "실패 HTTPError",
 "Fox Business": "50건"
@@ -8064,6 +8064,16 @@
 "seen": "2026-11-22T04:44:22+00:00"
 },
 {
+"id": "25fd8c4cd813",
+"t": "",
+"title": "MOM.AX - Reuters",
+"url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNb09PSjhmNFNyZk05d042cTgzTzlob0hqLVAtdHVhWXc3ekVTckxJZ3JKTlpWZ2Y0b0J0dnRXbWxydkZyc3B0cDBuU3ZRbUpjSEZJUV9OTlVxUTNpN0lFdmpuemtHVV9zZ1hUZ0tUWDVqZ29nakdTWW9qQ1ZMdGZDNTVlOFg?oc=5",
+"pub": "2026-11-22T00:56:04+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-22T05:14:17+00:00"
+},
+{
 "id": "55eb1bb22d93",
 "t": "",
 "title": "SOBKY.PQ - | Stock Price & Latest News - Reuters",
@@ -8152,6 +8162,16 @@
 "src": "Reuters",
 "kind": "market",
 "seen": "2026-11-22T02:43:51+00:00"
+},
+{
+"id": "1d4448be758d",
+"t": "",
+"title": "WHG.Z - | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE8wUjQ2WEZNT2FZRzlObFVHLU1fc2NZdnZYVUJib3loU2JieHdhaWltWVNFYy1Od25TV09aU0h0c0lmZmREU1dGbm1qNkU0Y1NReHBPa1AyLXFYcWo5cEFxT2o2QnJaLUtKLXZkNldjY1hTWVhsNXNacDF3?oc=5",
+"pub": "2026-11-21T23:09:47+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-22T05:14:17+00:00"
 },
 {
 "id": "059046b56840",
@@ -8862,6 +8882,16 @@
 "src": "Reuters",
 "kind": "market",
 "seen": "2026-11-21T21:31:18+00:00"
+},
+{
+"id": "965000e256d2",
+"t": "",
+"title": "M Evo Global Acquisition Corp II (MEVO.O) | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE90OUJCYWhmS3Y3XzRwUXl3cE45VWtaQmYyRFhOUjhkV3RhZWUxMklmaVoxS1BWSnAzMkV0dWk0VmItcGk2YWZHV244SmxJV3VYdGdCVWttZDF1d19tWXk3VC1teUlpTlQ3TWszb1N3?oc=5",
+"pub": "2026-11-21T17:01:51+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-22T05:14:17+00:00"
 },
 {
 "id": "699965c167dc",
@@ -10982,36 +11012,6 @@
 "src": "Reuters",
 "kind": "market",
 "seen": "2026-11-21T15:10:04+00:00"
-},
-{
-"id": "ac309c36fd4a",
-"t": "",
-"title": "CastleArk Large Growth ETF (CARK.N) | Stock Price & Latest News - Reuters",
-"url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5lMk5OMng1TGE2ZzNGM280OUJGU0hySlZqdkNScmhTSWxSYk9vRUlKYzh4WmNmbWtnbldPaVItQzloT2Ixa3pMX1ItWjlCZHp6RjRCV0F5Y2Y?oc=5",
-"pub": "2026-11-21T00:08:11+00:00",
-"src": "Reuters",
-"kind": "market",
-"seen": "2026-11-21T02:33:27+00:00"
-},
-{
-"id": "4cfb6c6d14d7",
-"t": "",
-"title": "CastleArk Large Growth ETF (CARK.N) | Stock Price & Latest News - Reuters",
-"url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9ZbUllM05temd5VnQ3TWZZeFRHVGVsSGQxTlRzV2EzQTlNcjF3ZGtGVWdFdmg1dzVpS1hWTWMzVElBRFVpajVCUGpPd3FNal9yaWRhMlZvWDVGMVo1RHpTU0MwRXdtVUpXWHdIU1lB?oc=5",
-"pub": "2026-11-21T00:08:11+00:00",
-"src": "Reuters",
-"kind": "market",
-"seen": "2026-11-21T08:14:03+00:00"
-},
-{
-"id": "4ad96bebd746",
-"t": "",
-"title": "RTX Corporation (RTX) | Stock Price & Latest News - Reuters",
-"url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1PQWRzVV9rbmI4ZWhjUzRfM3J1VlphU2wtaDl1cXgxdjZET09vdHFXZFJ3MWdTMGp0WVMxdnYxTmtSMnVXQjBfTjV4Znhtc2xtSVBxOHJZcHNxZw?oc=5",
-"pub": "2026-11-21T00:02:41+00:00",
-"src": "Reuters",
-"kind": "market",
-"seen": "2026-11-21T06:41:58+00:00"
 }
 ]
 }
