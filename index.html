@@ -431,7 +431,11 @@ textarea.code{width:100%; min-height:64px; border:1px solid var(--line); backgro
 .am-pi.on b{color:var(--pt)}
 .am-pd{padding:0 2px 10px}
 .am-co.off{cursor:default; color:var(--muted)}
-.am-term{font:inherit; color:inherit; background:none; border:0; padding:0; cursor:help; text-decoration:underline dotted var(--pt); text-underline-offset:3px}
+/* 적중 기록 표 (승인 36번 ①, 2026-11-22): 좁은 화면(360px 이하)에선 칸·글자를 조금 줄여 카드 안에 */
+.trk-g{display:grid; grid-template-columns:repeat(3,64px); gap:6px; text-align:right; flex-shrink:0}
+.trk-h{justify-content:end; margin:2px 0 6px}
+@media (max-width:360px){ .trk-g{grid-template-columns:repeat(3,54px); gap:4px; font-size:11.5px} }
+.am-term{font:inherit; color:inherit; background:none; border:0; padding:5px 2px; margin:-5px -2px; cursor:help; text-decoration:underline dotted var(--pt); text-underline-offset:3px}
 .am-pop{position:absolute; z-index:60; max-width:240px; background:var(--surface); color:var(--ink); border:1px solid var(--pt); border-radius:10px; padding:8px 10px; box-shadow:0 4px 14px rgba(0,0,0,.12); font-size:13px; line-height:1.45}
 .am-pop b{display:block; font-size:12px; color:var(--pt); margin-bottom:2px}
 .am-new{font-size:10px; color:var(--pt); border:1px solid var(--pt); border-radius:999px; padding:0 5px; margin-left:6px; vertical-align:2px}
@@ -499,6 +503,9 @@ textarea.code{width:100%; min-height:64px; border:1px solid var(--line); backgro
 .am-cc{fill:var(--ink)} .am-ct{font-size:12px; font-weight:700; fill:var(--bg)}
 .am-zbar{display:flex; justify-content:space-between; align-items:center; margin-bottom:6px}
 .am-zbar button{font:inherit; font-size:13px; min-width:34px; height:30px; border:1px solid var(--line); background:var(--surface); color:var(--ink); border-radius:8px; margin-left:4px; cursor:pointer}
+/* 휴대폰(손가락): 두 손가락으로 지도 키우기·줄이기, －/＋ 버튼은 숨김 (대표 요청 2026-11-22) */
+.am-zt{display:none}
+@media (pointer:coarse){ .am-zpm{display:none} .am-zm{display:none} .am-zt{display:inline} }
 .am-vp{overflow:auto; -webkit-overflow-scrolling:touch; touch-action:pan-x pan-y; cursor:grab; border:1px solid var(--line); border-radius:12px; background:var(--surface-2); padding:14px}
 .am-hub{position:relative; width:640px; display:grid; grid-template-columns:1fr 1.05fr 1fr; grid-template-areas:"tl t tr" "l c r" "bl b br"; gap:26px 18px; align-items:center; margin:0 auto}
 .am-hub svg{position:absolute; left:0; top:0; width:100%; height:100%; pointer-events:none; z-index:0; overflow:visible}
@@ -506,7 +513,7 @@ textarea.code{width:100%; min-height:64px; border:1px solid var(--line); backgro
 .am-bh{font-size:12px; color:var(--muted); margin-bottom:4px}
 .am-it{padding:5px 0; border-top:1px solid var(--line); font-size:14px; line-height:1.35}
 .am-bh + .am-it{border-top:0}
-.am-it > button{font:inherit; font-weight:600; border:0; background:none; padding:0; color:var(--ink); cursor:pointer; text-align:left}
+.am-it > button{font:inherit; font-weight:600; border:0; background:none; padding:3px 0; min-height:24px; color:var(--ink); cursor:pointer; text-align:left}
 .am-it small{display:block; font-size:12px; color:var(--muted)}
 .am-src2{font-size:11px; color:var(--muted); margin-top:3px} .am-src2 a{color:var(--muted)}
 .am-more{font:inherit; font-size:12px; color:var(--muted); background:none; border:0; padding:6px 0 2px; cursor:pointer}
@@ -1635,7 +1642,7 @@ function trustCard(e, c){
     return `<rect x="${(i*bw+2).toFixed(1)}" y="${y.toFixed(1)}" width="${Math.max(bw-4,2).toFixed(1)}" height="${Math.max(h,1).toFixed(1)}" rx="2" fill="var(--${x.kind==="live"?"accent":"muted"})" opacity="${x.kind==="live"?1:.5}"/>`; }).join("");
   const p2 = v => `${v>0?"+":v<0?"−":""}${Math.abs(v).toFixed(2)}%`;
   const rows = xs.slice(-7).reverse().map(x=>`<div class="row"><div><div class="n num">${mdTxt(x.target)}</div><div class="t">${x.kind==="live"?"그날 아침 저장":act?"거꾸로 계산 · 평균에서 뺌":"거꾸로 계산"}</div></div>
-      <div style="display:grid;grid-template-columns:repeat(3,64px);gap:6px;text-align:right" class="num small">
+      <div class="num small trk-g">
         <span class="${cls(x.pred_pct)}">${p2(x.pred_pct)}</span><span class="${cls(x.actual_pct)}">${p2(x.actual_pct)}</span><span class="muted">${x.err>=0?"+":"−"}${Math.abs(x.err).toFixed(2)}</span></div></div>`).join("");
   return head+`
     <div class="kv">
@@ -1644,7 +1651,7 @@ function trustCard(e, c){
     </div>
     <svg viewBox="0 0 ${W} ${H}" width="100%" height="${H}" role="img" aria-label="최근 예측과 실제의 차이" style="margin-top:12px">
       <line x1="0" x2="${W}" y1="${H/2}" y2="${H/2}" stroke="var(--line)"/>${bars}</svg>
-    <div class="tiny muted" style="display:flex;justify-content:flex-end;gap:12px;margin:2px 0 6px"><span>예측</span><span>실제</span><span>차이(%p)</span></div>
+    <div class="tiny muted trk-g trk-h"><span>예측</span><span>실제</span><span>차이(%p)</span></div>
     ${rows}
     <div class="note">등락률은 전날 공시 기준가 대비예요. '그날 아침 저장'은 미국 장이 끝난 뒤 저장해 두고 고치지 않은 예측이고, '거꾸로 계산'은 같은 계산을 지난 날짜에 돌려 본 값(지금 구성 비중·유럽중앙은행 환율)이에요.${act?" 액티브 ETF는 비중이 자주 바뀌어서 '거꾸로 계산'은 평균·방향에서 뺐어요.":""}${asia?` 이 ETF는 아시아 상장 회사가 ${Math.round(e.asiaW*100)}% 들어 있어요. 그 회사들은 한국 낮에 움직여서 밤사이 예측에 안 들어가니 차이가 커질 수 있어요.`:""}${e.kind==="pdf"&&e.rest&&e.rest.w>0.1?" 시세를 못 받은 회사가 많으면 차이가 커질 수 있어요.":""}</div>
     <div class="tiny muted" style="margin-top:6px">시세 반영 비중 ${Math.round(c.coverage*100)}% · 기록 갱신 ${TRACK.updated_kst||""}</div>
@@ -3788,7 +3795,7 @@ function stockSheet(t, from, fromEv, fromCo){
     : backEv ? `<button class="btn ghost backev" type="button" data-evt="${fromEv}" style="margin-bottom:10px">‹ ${backEv.title}</button>`
     : fromE ? `<button class="btn ghost" type="button" data-brief="${from}" style="margin-bottom:10px">‹ ${fromE.name} 브리핑으로</button>` : "";
   openSheet(`${back}<div class="with-logo" style="margin-bottom:6px">${logo(t)}<div><h3 id="sheetTitle" style="margin:0">${s[0]} <span class="muted small">${sym}</span></h3>${co?`<div class="tiny muted">${co.cat} · ${co.tag}</div>`:""}</div></div>
-    <div class="num" style="font-size:22px;font-weight:700"><span>${usd(s[1])}</span> <span class="${cls(s[2])}" style="font-size:15px">${spct(s[2])}</span> <span class="tiny muted" style="font-weight:400">${okn(s[1])?((LV.old||{})[t]?`지난 값 · ${mdTxt(LV.old[t])} 뉴욕 기준 (새 시세를 못 받았어요)`:"한국 장 마감 뒤 변화"):(ETFS.some(x=>HOLDS(x).some(([k])=>k===t))?"시세 확인 중":"지금 노몬 ETF에 담겨 있지 않아 시세를 받지 않아요")}</span></div>
+    <div class="num" style="font-size:22px;font-weight:700"><span>${usd(s[1])}</span> <span class="${cls(s[2])}" style="font-size:15px">${spct(s[2])}</span> <span class="tiny muted" style="font-weight:400">${okn(s[1])?((LV.old||{})[t]?`지난 값 · ${mdTxt(LV.old[t])} 뉴욕 기준 (새 시세를 못 받았어요)`:"한국 장 마감 뒤 변화"):"시세 확인 중"}</span></div>
     ${about}
     <h4 style="margin:16px 0 4px">일정</h4>${evs.length?evs.map(v=>evRow(v,false)).join(""):`<div class="small muted">예정된 일정이 없어요.</div>`}
     <h4 style="margin:16px 0 4px">최근 소식</h4>${(CNEWS[t]||[]).length ? CNEWS[t].slice(0,6).map(x=>newsLine(x)).join("") : `<div class="small muted">최근에 확인된 소식이 없어요.</div>`}
@@ -4186,7 +4193,7 @@ function amHub(c){ const co = amD().co[c], row = amD().rows.find(r=>r.g.some(g=>
       ${[...b.it].map(([who, es])=>`<div class="am-it"><button type="button" data-amc="${who}"${amKr(who)?' class="kr"':""}>${who}</button>${es.some(amNew)?`<span class="am-new">새로</span>`:""}<small>${es.map(e=>amTerms(amGold(e.t))).join(" · ")}</small>
         ${open?es.map(e=>`<div class="am-src2">${ev(e.ev)} ${e.d} · <a href="${e.src[1]}" target="_blank" rel="noopener">${e.src[0]} ›</a> · 확인 ${e.chk||""}</div>`).join(""):""}</div>`).join("")}
       <button class="am-more" type="button" data-amx="${b.h}" aria-expanded="${open}">${open?"근거 닫기":"근거 보기 ›"}</button></div>`; };
-  return `<div class="am-zbar"><span class="tiny muted">＋로 키우고 끌어서 움직여요</span><span><button type="button" data-amz="-" aria-label="작게">－</button><button type="button" data-amz="fit">전체</button><button type="button" data-amz="+" aria-label="크게">＋</button></span></div>
+  return `<div class="am-zbar"><span class="tiny muted"><span class="am-zm">＋로 키우고 끌어서 움직여요</span><span class="am-zt">두 손가락으로 벌리면 커지고 모으면 작아져요</span></span><span><button class="am-zpm" type="button" data-amz="-" aria-label="작게">－</button><button type="button" data-amz="fit">전체</button><button class="am-zpm" type="button" data-amz="+" aria-label="크게">＋</button></span></div>
     <div class="am-vp" id="amVp"><div class="am-hub" id="amHub" style="zoom:${amAi.z||1}"><svg aria-hidden="true"></svg>
       <div class="am-ctr" id="amCtr"><b>${c}</b><span>${co.kr?"한국 · ":""}${row.n} · ${co.t}</span></div>${bx.map(box).join("")}</div></div>`;
 }
@@ -4197,13 +4204,29 @@ function amLines(){ const hub = document.getElementById("amHub"), ctr = document
     if(r.b < C.t) y = r.b; else if(r.t > C.b) y = r.t; else x = r.r < C.l ? r.r : r.l;
     return `<line x1="${cx}" y1="${cy}" x2="${x}" y2="${y}" class="am-ln"/><circle cx="${x}" cy="${y}" r="3" class="am-dt"/>`; }).join("");
   const vp = document.getElementById("amVp");
-  if(vp && !amAi.z){ const fit = Math.min(1, vp.clientWidth / hub.offsetWidth); amAi.z = fit; hub.style.zoom = fit; }
+  // 휴대폰에서 전체를 한 화면에 맞추면 회사 이름이 너무 작아져서(승인 36번 ②), 처음엔 줄이지 않고(1배) 고른 회사를 가운데에 둬요. '전체' 버튼은 그대로 한눈에.
+  if(vp && !amAi.z){ const fit = Math.min(1, vp.clientWidth / hub.offsetWidth); amAi.z = Math.max(fit, 1); hub.style.zoom = amAi.z;
+    if(amAi.z > fit) vp.scrollLeft = (vp.scrollWidth - vp.clientWidth)/2; }
   if(vp && !vp.dataset.c){ vp.dataset.c = 1; vp.scrollLeft = (vp.scrollWidth - vp.clientWidth)/2; }
 }
 function amZoom(k){ const hub = document.getElementById("amHub"), vp = document.getElementById("amVp"); if(!hub || !vp) return;
   const fit = Math.min(1, vp.clientWidth / hub.offsetWidth);
   amAi.z = k==="fit" ? fit : Math.min(1.4, Math.max(fit, (amAi.z||1) + (k==="+" ? 0.15 : -0.15)));
   hub.style.zoom = amAi.z; vp.scrollLeft = (vp.scrollWidth - vp.clientWidth)/2; }
+/* 두 손가락으로 키우기·줄이기 (대표 요청 2026-11-22): 손가락 사이 거리 비율만큼 zoom, 두 손가락 가운데 지점이 그 자리에 머물게 */
+let amPinch = null;
+document.addEventListener("touchstart", ev=>{ const vp = ev.target.closest("#amVp"); if(!vp || ev.touches.length!==2) return;
+  const hub = document.getElementById("amHub"); if(!hub) return;
+  const [a,b] = ev.touches, d = Math.hypot(a.clientX-b.clientX, a.clientY-b.clientY), mx = (a.clientX+b.clientX)/2, my = (a.clientY+b.clientY)/2;
+  const vr = vp.getBoundingClientRect(), hr = hub.getBoundingClientRect(), z0 = amAi.z || 1;
+  amPinch = {vp, hub, d, z0, fit: Math.min(1, vp.clientWidth / (hub.offsetWidth || 1)), cx: (vp.scrollLeft + mx - vr.left)/z0, cy: (my - hr.top)/z0}; }, {passive:true});
+document.addEventListener("touchmove", ev=>{ if(!amPinch || ev.touches.length!==2) return; ev.preventDefault();
+  const P = amPinch, [a,b] = ev.touches, d = Math.hypot(a.clientX-b.clientX, a.clientY-b.clientY), mx = (a.clientX+b.clientX)/2, my = (a.clientY+b.clientY)/2;
+  const z = Math.min(1.6, Math.max(P.fit, P.z0 * d / P.d)); amAi.z = z; P.hub.style.zoom = z;
+  const vr = P.vp.getBoundingClientRect(); P.vp.scrollLeft = P.cx*z - (mx - vr.left);
+  const hr = P.hub.getBoundingClientRect(); window.scrollBy(0, hr.top + P.cy*z - my); }, {passive:false});
+document.addEventListener("touchend", ev=>{ if(amPinch && ev.touches.length<2) amPinch = null; }, {passive:true});
+document.addEventListener("touchcancel", ()=>{ amPinch = null; }, {passive:true});
 /* 손가락·마우스로 끌어서 움직이기 */
 document.addEventListener("pointerdown", ev=>{ const vp = ev.target.closest("#amVp"); if(!vp || ev.pointerType!=="mouse" || ev.target.closest("button,a")) return;
   const sx = ev.clientX, sy = ev.clientY, l = vp.scrollLeft, t = window.scrollY; let moved = false;
