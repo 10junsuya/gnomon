@@ -15,7 +15,7 @@ from playwright.sync_api import sync_playwright
 
 ROUTES = ["main", "home", "calendar", "news", "portfolio", "guide",
           "macro", "macro-price", "macro-job", "macro-rate", "macro-mkt", "macro-map-cpi", "check",
-          "amap", "amap-ai", "amap-semi", "amap-space", "amap-power"]  # A 화면 (2026-11-20 대표 승인, Vernon V-20261119-1541-2)
+          "amap", "amap-ai", "amap-semi", "amap-space", "amap-power", "amap-ai--sgus", "amap-semi--tsmc-az", "amap-space--artemis", "amap-power--crane"]  # A 화면 (2026-11-20 대표 승인, Vernon V-20261119-1541-2)
 VIEWPORTS = {"phone": (390, 844), "small": (320, 640), "desktop": (1280, 900)}
 THEMES = ["light", "dark"]
 TIMES = ["", "07:30", "09:02", "15:25", "23:50", "06:30"]
@@ -73,7 +73,7 @@ class QA:
         page = ctx.new_page()
         page._qa_errors = []
         page.on("pageerror", lambda e: page._qa_errors.append(str(e)))
-        page.on("console", lambda m: page._qa_errors.append("console: " + m.text) if m.type == "error" else None)
+        page.on("console", lambda m: page._qa_errors.append("console: " + m.text) if m.type == "error" and not re.search(r"Failed to load resource: net::ERR_(TUNNEL|NAME|INTERNET|PROXY|CONNECTION)", m.text) else None)  # 바깥 사진이 검사 환경 네트워크에서 막히는 건 앱 오류가 아님 (2026-11-22)
         page.goto(self.app.as_uri() + "#main")
         page.wait_for_timeout(300)
         page.evaluate("() => { const s = document.getElementById('splash'); if(s) s.remove(); }")

@@ -49,7 +49,7 @@
    "r": "미국",
    "n": "스타게이트 (미국)",
    "d": "2025.1",
-   "st": "진행 · 애빌린 8개 동 중 4개 가동 (Epoch AI 추정, 2026.10)",
+   "st": "진행 · 애빌린 8개 동 모두 가동 추정 (Epoch AI, 2026.11) · 다른 부지 6곳은 공사 중",
    "L": {
     "pol": {
      "t": "백악관에서 발표",
@@ -123,7 +123,234 @@
     ]
    ],
    "w": 0,
-   "chk": "2026-11-19"
+   "chk": "2026-11-19",
+   "x": {
+    "loc": "미국 텍사스 애빌린을 시작으로 텍사스·뉴멕시코·오하이오·미시간 등 여러 부지",
+    "lead": "OpenAI·소프트뱅크 (합작 회사 스타게이트)",
+    "size": "여러 부지를 합쳐 최대 {10GW} 목표",
+    "money": "최대 {5,000억 달러} 목표 (회사 발표)",
+    "about": "OpenAI가 쓸 AI 데이터센터를 미국 안에 크게 짓는 사업이에요. 2025년 1월 백악관에서 소프트뱅크·OpenAI·오라클·MGX가 함께 발표했어요.\n첫 부지는 텍사스 애빌린이고, 그 뒤 텍사스·뉴멕시코·오하이오·미시간에 부지가 더해졌어요. 부지마다 짓는 회사(크루소, 밴티지 등)와 전기를 대는 회사가 달라요.",
+    "steps": [
+     [
+      "2025.1",
+      "백악관에서 사업 발표",
+      "done"
+     ],
+     [
+      "2025.9",
+      "새 부지 5곳 추가 발표",
+      "done"
+     ],
+     [
+      "2025.9",
+      "애빌린 1동 가동",
+      "done"
+     ],
+     [
+      "2026.9",
+      "애빌린 6개 동 가동",
+      "done",
+      "오라클 실적 발표"
+     ],
+     [
+      "2026.11",
+      "애빌린 8개 동 모두 가동",
+      "now",
+      "Epoch AI 추정"
+     ],
+     [
+      "2027~2028",
+      "나머지 부지 차례로 가동",
+      "",
+      "Epoch AI 예상"
+     ]
+    ],
+    "art": "dc",
+    "img": {
+     "u": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Larry_Ellison_-_American_AI_investment.png/1280px-Larry_Ellison_-_American_AI_investment.png",
+     "by": "백악관",
+     "lic": "퍼블릭 도메인 (미국 정부 저작물)",
+     "src": "https://commons.wikimedia.org/wiki/File:Larry_Ellison_-_American_AI_investment.png",
+     "cap": "백악관에서 열린 스타게이트 발표 (2025.1.21) · 발언하는 사람은 오라클 래리 엘리슨, 함께 발표한 사람은 소프트뱅크 손정의, OpenAI 샘 올트먼",
+     "alt": "백악관 발표 자리에서 발언하는 모습"
+    },
+    "with": "오라클, 아랍에미리트 투자사 MGX, 엔비디아, Arm",
+    "sites": [
+     {
+      "n": "애빌린 (1호 캠퍼스)",
+      "loc": "텍사스 애빌린",
+      "by": "크루소 (건설) · 오라클 (칩·운영)",
+      "size": "{1.2GW} · 건물 8개",
+      "st": "가동",
+      "k": "on",
+      "b": [
+       8,
+       8
+      ],
+      "note": "8개 동 모두 가동 추정 (Epoch AI, 2026.11.1) · 6개 동 가동은 오라클 실적 발표 (2026.9) · 계획했던 600MW 증설은 2026.3 취소",
+      "ev": "추정",
+      "xy": [
+       257,
+       221
+      ],
+      "lab": [
+       -14,
+       14,
+       "end"
+      ],
+      "short": "애빌린",
+      "g": 1.2
+     },
+     {
+      "n": "섀클퍼드 (프런티어)",
+      "loc": "텍사스 섀클퍼드 카운티",
+      "by": "밴티지 (건설) · 오라클",
+      "size": "{1.4GW} · 건물 10개",
+      "st": "공사",
+      "k": "build",
+      "b": [
+       0,
+       10
+      ],
+      "note": "건물 1~5 외벽·지붕 완료 (2026.9 위성사진) · 첫 건물 가동 2027년 여름, 전체 2028년 말 예상 (Epoch AI)",
+      "ev": "추정",
+      "xy": [
+       270,
+       210
+      ],
+      "lab": [
+       10,
+       -10,
+       "start"
+      ],
+      "short": "섀클퍼드",
+      "g": 1.4
+     },
+     {
+      "n": "밀람 카운티",
+      "loc": "텍사스 밀람 카운티 (벌링턴 근처)",
+      "by": "SB 에너지 (소프트뱅크 계열) · OpenAI 임차",
+      "size": "{1.2GW}",
+      "st": "공사",
+      "k": "build",
+      "note": "첫 건물 철골·지붕 작업 (2026.3 위성사진) · 2028년 말 완공 예상 (Epoch AI)",
+      "ev": "추정",
+      "xy": [
+       285,
+       242
+      ],
+      "lab": [
+       10,
+       14,
+       "start"
+      ],
+      "short": "밀람",
+      "g": 1.2
+     },
+     {
+      "n": "도냐아나 (프로젝트 주피터)",
+      "loc": "뉴멕시코 산타테레사",
+      "by": "STACK 인프라·보더플렉스 · 오라클",
+      "size": "최대 {2.2GW} · 건물 4개, 현장 연료전지 발전",
+      "st": "공사",
+      "k": "build",
+      "note": "기초 공사 중 (2026.4) · 대기 배출 허가 심리 2026.12 예정 (보도) · 2028년 말 완공 예상",
+      "ev": "보도",
+      "xy": [
+       186,
+       228
+      ],
+      "lab": [
+       -10,
+       -12,
+       "end"
+      ],
+      "short": "도냐아나",
+      "g": 2.2
+     },
+     {
+      "n": "포트워싱턴 (라이트하우스)",
+      "loc": "위스콘신 포트워싱턴",
+      "by": "밴티지 · 오라클",
+      "size": "약 {1GW} · 건물 4개",
+      "st": "공사",
+      "k": "build",
+      "note": "2025.12 착공 · 2028년 완공 목표",
+      "ev": "보도",
+      "xy": [
+       377,
+       80
+      ],
+      "lab": [
+       -10,
+       -12,
+       "end"
+      ],
+      "short": "포트워싱턴",
+      "g": 1.0
+     },
+     {
+      "n": "세일린 타운십 (더 반)",
+      "loc": "미시간 세일린 타운십",
+      "by": "릴레이티드 디지털 · 오라클",
+      "size": "{1GW} 이상",
+      "st": "공사",
+      "k": "build",
+      "note": "첫 건물 기초 공사 (2026.3) · 2027년 말 인도 목표 (보도)",
+      "ev": "보도",
+      "xy": [
+       419,
+       96
+      ],
+      "lab": [
+       4,
+       -14,
+       "middle"
+      ],
+      "short": "세일린",
+      "g": 1.0
+     },
+     {
+      "n": "로즈타운",
+      "loc": "오하이오 로즈타운 (옛 GM·폭스콘 공장)",
+      "by": "소프트뱅크",
+      "size": "공개 안 됨 · 공장 부지의 작은 부분",
+      "st": "확인 중",
+      "k": "plan",
+      "note": "땅은 정리됐지만 큰 데이터센터 공사는 위성사진에서 안 보임 (Epoch AI, 2026.4) · 지어졌지만 가동 확인 안 됨 (보도, 2026.11)",
+      "ev": "보도",
+      "xy": [
+       449,
+       109
+      ],
+      "lab": [
+       10,
+       14,
+       "start"
+      ],
+      "short": "로즈타운"
+     }
+    ],
+    "sitesNote": "스타게이트 이름이 붙은 미국 부지 7곳이에요. 규모는 회사마다 IT 전력·전체 전력 등 기준이 달라 그대로 비교하기 어려워요.",
+    "src": [
+     [
+      "Epoch AI · 미국 부지 현황 (2026.4)",
+      "https://epoch.ai/blog/openai-stargate-where-the-us-sites-stand"
+     ],
+     [
+      "Epoch AI · 애빌린 현황",
+      "https://epoch.ai/data/ai-data-centers/directory/openai-stargate-abilene"
+     ],
+     [
+      "Epoch AI · 섀클퍼드 현황",
+      "https://epoch.ai/data/ai-data-centers/directory/openai-stargate-shackelford"
+     ],
+     [
+      "LLM Pulse · 부지별 정리 (2026.11)",
+      "https://llmpulse.ai/blog/stargate-data-centers/"
+     ]
+    ]
+   }
   },
   {
    "id": "aap",
@@ -169,7 +396,40 @@
     ]
    ],
    "w": 0,
-   "chk": "2026-11-19"
+   "chk": "2026-11-19",
+   "x": {
+    "loc": "미국 연방 정부 전체",
+    "lead": "백악관 (과학기술정책실)",
+    "size": "정책 과제 90여 개와 행정명령 3개",
+    "about": "미국이 AI에서 앞서 나가기 위한 정부 계획이에요. 새 기술 개발을 막는 규제를 줄이고, 데이터센터와 발전소를 빨리 짓게 하고, 미국 AI 기술을 동맹국에 수출하는 것이 세 기둥이에요.\n발표 날 데이터센터 인허가를 빠르게 하는 명령, 미국 AI 기술 묶음 수출을 돕는 명령, 정부가 쓰는 AI 기준에 관한 명령이 함께 나왔어요.",
+    "steps": [
+     [
+      "2025.1",
+      "AI 규제 걸림돌을 없애라는 행정명령",
+      "done"
+     ],
+     [
+      "2025.7",
+      "AI 행동계획 발표 · 행정명령 3개 서명",
+      "done"
+     ],
+     [
+      "지금",
+      "부처별 후속 조치",
+      "now"
+     ]
+    ],
+    "art": "policy",
+    "with": "상무부·에너지부·국방부 등 연방 부처",
+    "img": {
+     "u": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/President_Donald_Trump_signs_Executive_Orders_at_the_White_House_AI_Summit_at_Andrew_W._Mellon_Auditorium_in_Washington_%2854677035188%29.jpg/1280px-President_Donald_Trump_signs_Executive_Orders_at_the_White_House_AI_Summit_at_Andrew_W._Mellon_Auditorium_in_Washington_%2854677035188%29.jpg",
+     "by": "백악관",
+     "lic": "퍼블릭 도메인 (미국 정부 저작물)",
+     "src": "https://commons.wikimedia.org/wiki/File:President_Donald_Trump_signs_Executive_Orders_at_the_White_House_AI_Summit_at_Andrew_W._Mellon_Auditorium_in_Washington_%2854677035188%29.jpg",
+     "cap": "AI 행동계획 발표 행사에서 행정명령에 서명하는 모습 (2025.7.23)",
+     "alt": "행정명령 서명 행사"
+    }
+   }
   },
   {
    "id": "gen",
@@ -210,14 +470,49 @@
     ]
    ],
    "w": 0,
-   "chk": "2026-11-19"
+   "chk": "2026-11-19",
+   "x": {
+    "loc": "미국 에너지부 국립연구소들",
+    "lead": "미국 에너지부",
+    "size": "연방 과학 데이터와 슈퍼컴퓨터를 하나로 묶는 플랫폼",
+    "about": "정부가 가진 과학 데이터와 국립연구소 슈퍼컴퓨터를 AI와 묶어 연구 속도를 크게 높이려는 계획이에요. 2025년 11월 대통령 행정명령으로 시작했고 에너지부가 맡아요.\n단백질 구조, 새 소재, 핵융합처럼 실험이 오래 걸리는 분야에서 AI가 가설을 세우고 실험을 돕게 하는 것이 목표예요.",
+    "steps": [
+     [
+      "2025.11",
+      "행정명령 서명 · 에너지부가 맡음",
+      "done"
+     ],
+     [
+      "2026 초",
+      "풀어야 할 과학 과제 목록 정하기",
+      "done",
+      "명령에 적힌 일정"
+     ],
+     [
+      "2026 하반기",
+      "첫 과제로 플랫폼 시험 운영",
+      "",
+      "명령에 적힌 목표 · 이뤄졌는지 확인 중"
+     ]
+    ],
+    "art": "policy",
+    "with": "국립연구소, 대학, AI·반도체 회사",
+    "img": {
+     "u": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Frontier_supercomputer_%2852291130197%29.jpg/1280px-Frontier_supercomputer_%2852291130197%29.jpg",
+     "by": "Oak Ridge National Laboratory",
+     "lic": "CC BY 2.0",
+     "src": "https://commons.wikimedia.org/wiki/File:Frontier_supercomputer_%2852291130197%29.jpg",
+     "cap": "에너지부 오크리지 국립연구소의 슈퍼컴퓨터 프런티어 (2022)",
+     "alt": "줄지어 선 슈퍼컴퓨터 캐비닛"
+    }
+   }
   },
   {
    "id": "ohio",
    "r": "미국",
    "n": "오하이오 PORTS 캠퍼스",
    "d": "2026.3",
-   "st": "계획",
+   "st": "착공 · 2026.3.20 기공식",
    "L": {
     "pol": {
      "t": "상무부·에너지부, 옛 우라늄 농축 부지 재개발",
@@ -256,7 +551,46 @@
     ]
    ],
    "w": 0,
-   "chk": "2026-11-19"
+   "chk": "2026-11-19",
+   "x": {
+    "loc": "미국 오하이오주 파이크턴 · 옛 포츠머스 우라늄 농축 공장 부지 (PORTS)",
+    "lead": "미국 상무부·에너지부",
+    "size": "발전소 {10GW}와 데이터센터 캠퍼스",
+    "money": "미일 무역 합의에 따른 일본 투자 {333억 달러}",
+    "about": "냉전 시기 우라늄을 농축하던 정부 땅을 AI 데이터센터와 발전소 단지로 바꾸는 사업이에요. 발전 용량 10GW 가운데 대부분은 가스 발전이고, 송전망도 함께 새로 깔아요.\n돈은 미일 무역 합의에서 약속한 일본 투자에서 나오고, 소프트뱅크 쪽이 데이터센터를 맡아요.",
+    "steps": [
+     [
+      "2026.3",
+      "정부 발표",
+      "done"
+     ],
+     [
+      "2026.3.20",
+      "기공식",
+      "done"
+     ],
+     [
+      "지금",
+      "부지 정리·공사",
+      "now"
+     ],
+     [
+      "앞으로",
+      "발전소·데이터센터 단계별 가동",
+      ""
+     ]
+    ],
+    "art": "dc",
+    "with": "소프트뱅크, SB 에너지, AEP 오하이오",
+    "img": {
+     "u": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Gas_centrifuge_cascade.jpg/1280px-Gas_centrifuge_cascade.jpg",
+     "by": "미국 에너지부",
+     "lic": "퍼블릭 도메인",
+     "src": "https://commons.wikimedia.org/wiki/File:Gas_centrifuge_cascade.jpg",
+     "cap": "이 부지(파이크턴)에 있던 우라늄 농축용 원심분리기 (1984)",
+     "alt": "길게 늘어선 원심분리기 설비"
+    }
+   }
   },
   {
    "id": "intel",
@@ -292,7 +626,41 @@
     ]
    ],
    "w": 0,
-   "chk": "2026-11-19"
+   "chk": "2026-11-19",
+   "x": {
+    "loc": "미국 (인텔 본사와 공장들)",
+    "lead": "미국 상무부",
+    "size": "인텔 지분 약 {9.9%}",
+    "money": "반도체법 보조금 {89억 달러}를 지분으로 전환",
+    "about": "반도체법으로 인텔에 주기로 한 보조금을 돈으로 주는 대신 정부가 인텔 주식을 받는 방식으로 바꾼 일이에요. 정부가 큰 반도체 회사의 주주가 된 드문 사례예요.\n그 뒤 엔비디아도 인텔에 지분 투자를 했어요.",
+    "steps": [
+     [
+      "2022.8",
+      "반도체법 시행",
+      "done"
+     ],
+     [
+      "2024.11",
+      "인텔 보조금 확정",
+      "done"
+     ],
+     [
+      "2025.8",
+      "보조금을 지분으로 전환",
+      "done"
+     ]
+    ],
+    "art": "chip",
+    "with": "인텔",
+    "img": {
+     "u": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/President_Joe_Biden_announces_CHIPS_and_Science_Act_grants_to_Intel_to_expand_U.S._semiconductor_production_on_March_20%2C_2024%2C_at_the_Intel_Ocotillo_Campus_in_Chandler%2C_Arizona.jpg/1280px-thumbnail.jpg",
+     "by": "백악관",
+     "lic": "퍼블릭 도메인 (미국 정부 저작물)",
+     "src": "https://commons.wikimedia.org/wiki/File:President_Joe_Biden_announces_CHIPS_and_Science_Act_grants_to_Intel_to_expand_U.S._semiconductor_production_on_March_20%2C_2024%2C_at_the_Intel_Ocotillo_Campus_in_Chandler%2C_Arizona.jpg",
+     "cap": "인텔 애리조나 공장에서 열린 반도체법 지원 발표 (2024.3)",
+     "alt": "반도체법 지원 발표 행사장"
+    }
+   }
   },
   {
    "id": "uae",
@@ -353,7 +721,38 @@
     ]
    ],
    "w": 0,
-   "chk": "2026-11-19"
+   "chk": "2026-11-19",
+   "x": {
+    "country": "아랍에미리트",
+    "loc": "아랍에미리트 아부다비 · 미국–UAE AI 캠퍼스 안",
+    "lead": "G42와 OpenAI",
+    "size": "1단계 {1GW}, 첫 {200MW}는 2026년 가동 목표 · 캠퍼스 전체는 5GW 계획",
+    "about": "OpenAI가 미국 밖에서 처음 하는 스타게이트 사업이에요. 아부다비에 짓는 5GW 규모 AI 캠퍼스 안에 들어가요.\nG42가 건물을 짓고, 엔비디아 GB300 시스템을 들여 OpenAI와 오라클이 운영해요. 전기는 원자력·태양광·가스를 섞어 써요.",
+    "steps": [
+     [
+      "2025.5",
+      "스타게이트 UAE 발표",
+      "done"
+     ],
+     [
+      "2025",
+      "공사 시작",
+      "done"
+     ],
+     [
+      "2026",
+      "첫 200MW 가동 목표",
+      "now"
+     ],
+     [
+      "앞으로",
+      "1GW까지 늘리기",
+      ""
+     ]
+    ],
+    "art": "dc",
+    "with": "오라클, 엔비디아, 시스코, 소프트뱅크"
+   }
   },
   {
    "id": "humain",
@@ -411,7 +810,36 @@
     ]
    ],
    "w": 0,
-   "chk": "2026-11-19"
+   "chk": "2026-11-19",
+   "x": {
+    "country": "사우디아라비아",
+    "loc": "사우디아라비아",
+    "lead": "휴메인 (사우디 국부펀드 PIF 자회사)",
+    "size": "엔비디아용 500MW, AMD용 500MW 데이터센터 계획",
+    "about": "사우디가 국부펀드로 세운 AI 회사예요. 데이터센터부터 아랍어 AI 모델까지 한 회사가 다 하겠다는 계획이에요.\n출범할 때 엔비디아 칩 구매, AMD와 공동 투자, 아마존과 AI 존 설립을 한꺼번에 발표했어요.",
+    "steps": [
+     [
+      "2025.5",
+      "휴메인 출범 · 칩·클라우드 계약 발표",
+      "done"
+     ],
+     [
+      "지금",
+      "데이터센터 건설·칩 들여오기",
+      "now"
+     ]
+    ],
+    "art": "dc",
+    "with": "엔비디아, AMD, 아마존 AWS, 시스코",
+    "img": {
+     "u": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Donald_Trump_state_visit_to_Saudi_Arabia%2C_2025-05-13_P20250513DT-0251.jpg/1280px-Donald_Trump_state_visit_to_Saudi_Arabia%2C_2025-05-13_P20250513DT-0251.jpg",
+     "by": "백악관",
+     "lic": "퍼블릭 도메인 (미국 정부 저작물)",
+     "src": "https://commons.wikimedia.org/wiki/File:Donald_Trump_state_visit_to_Saudi_Arabia%2C_2025-05-13_P20250513DT-0251.jpg",
+     "cap": "휴메인 계약들이 발표된 미국–사우디 정상 방문 첫날 (리야드, 2025.5.13)",
+     "alt": "리야드 왕궁 환영 행사"
+    }
+   }
   },
   {
    "id": "nor",
@@ -460,7 +888,41 @@
      "https://techzine.eu/news/infrastructure/140487/openai-scales-back-stargate-in-europe-microsoft-fills-the-gap"
     ]
    ],
-   "chk": "2026-11-19"
+   "chk": "2026-11-19",
+   "x": {
+    "country": "노르웨이",
+    "loc": "노르웨이 나르비크",
+    "lead": "Nscale·Aker 합작",
+    "size": "첫 단계 {230MW}",
+    "about": "북극권 가까운 나르비크에 수력 전기로 돌리는 AI 데이터센터를 짓는 사업이에요. 처음엔 OpenAI가 쓰는 스타게이트로 발표됐어요.\n2026년 4월 OpenAI가 빠지고 마이크로소프트가 이 시설을 빌려 쓰기로 바뀌었어요.",
+    "steps": [
+     [
+      "2025.7",
+      "스타게이트 노르웨이 발표",
+      "done"
+     ],
+     [
+      "2026.4",
+      "OpenAI 빠지고 마이크로소프트가 임차",
+      "done"
+     ],
+     [
+      "지금",
+      "건설",
+      "now"
+     ]
+    ],
+    "art": "dc",
+    "with": "엔비디아, 마이크로소프트",
+    "img": {
+     "u": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/2019-08-11_Narvik_08.jpg/1280px-2019-08-11_Narvik_08.jpg",
+     "by": "Nemo bis",
+     "lic": "CC BY-SA 4.0",
+     "src": "https://commons.wikimedia.org/wiki/File:2019-08-11_Narvik_08.jpg",
+     "cap": "데이터센터가 들어서는 노르웨이 나르비크 (2019)",
+     "alt": "피오르와 산에 둘러싸인 나르비크 시내"
+    }
+   }
   },
   {
    "id": "uk",
@@ -507,7 +969,27 @@
      "https://www.itpro.com/infrastructure/has-another-openai-stargate-project-hit-the-rocks"
     ]
    ],
-   "chk": "2026-11-19"
+   "chk": "2026-11-19",
+   "x": {
+    "country": "영국",
+    "loc": "영국 잉글랜드 북동부 코발트 파크 등",
+    "lead": "Nscale",
+    "about": "미국 대통령 영국 방문 때 발표된 미–영 기술 협력의 하나예요. Nscale이 여러 부지에 데이터센터를 짓고 OpenAI가 쓰는 계획이었어요.\n2026년 4월 OpenAI가 에너지 비용과 규제를 이유로 참여를 보류했어요.",
+    "steps": [
+     [
+      "2025.9",
+      "스타게이트 UK 발표",
+      "done"
+     ],
+     [
+      "2026.4",
+      "OpenAI 참여 보류",
+      "now"
+     ]
+    ],
+    "art": "dc",
+    "with": "엔비디아, OpenAI"
+   }
   },
   {
    "id": "eu",
@@ -557,7 +1039,47 @@
     ]
    ],
    "w": 0,
-   "chk": "2026-11-19"
+   "chk": "2026-11-19",
+   "x": {
+    "country": "유럽연합",
+    "loc": "유럽연합 회원국 중 최대 7곳 (공모로 정함)",
+    "lead": "유럽연합 집행위원회 · EuroHPC 공동사업",
+    "size": "곳마다 최신 AI 칩 약 10만 개",
+    "money": "{200억 유로} 기금 (InvestAI)",
+    "about": "유럽이 초대형 AI 모델을 스스로 학습시킬 수 있도록 큰 AI 컴퓨팅 시설(기가팩토리)을 공모로 고르는 사업이에요.\n2025년 2월 파리 AI 정상회의에서 기금이 발표됐고, 정식 공모 마감은 2027년 2월 4일로 미뤄졌어요. 이미 낸 곳도 다시 제출해야 해요.",
+    "steps": [
+     [
+      "2025.2",
+      "InvestAI 기금 발표",
+      "done"
+     ],
+     [
+      "2025 상반기",
+      "참가 의향 접수",
+      "done"
+     ],
+     [
+      "지금",
+      "정식 공모 (마감 2027.2.4)",
+      "now"
+     ],
+     [
+      "2027",
+      "선정·첫 착공 목표",
+      ""
+     ]
+    ],
+    "art": "dc",
+    "with": "유럽투자은행, 회원국 정부, 민간 컨소시엄",
+    "img": {
+     "u": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/JUPITER_racks_with_logos_of_supporters_and_partners._Copyright-_Forschungszentrum_J%C3%BClich_-_Sascha_Kreklau.jpg/1280px-JUPITER_racks_with_logos_of_supporters_and_partners._Copyright-_Forschungszentrum_J%C3%BClich_-_Sascha_Kreklau.jpg",
+     "by": "Forschungszentrum Jülich / Sascha Kreklau",
+     "lic": "CC BY 4.0",
+     "src": "https://commons.wikimedia.org/wiki/File:JUPITER_racks_with_logos_of_supporters_and_partners._Copyright-_Forschungszentrum_J%C3%BClich_-_Sascha_Kreklau.jpg",
+     "cap": "유럽 첫 엑사급 슈퍼컴퓨터 JUPITER (독일 율리히)",
+     "alt": "슈퍼컴퓨터 랙"
+    }
+   }
   },
   {
    "id": "arg",
@@ -604,7 +1126,28 @@
     ]
    ],
    "w": 0,
-   "chk": "2026-11-19"
+   "chk": "2026-11-19",
+   "x": {
+    "country": "아르헨티나",
+    "loc": "아르헨티나 (부지는 아직 공개 안 됨)",
+    "lead": "Sur Energy 컨소시엄",
+    "money": "{250억 달러} 계획 (보도)",
+    "about": "OpenAI가 남미 처음으로 스타게이트를 추진하는 곳이에요. 현지 에너지 회사가 이끄는 컨소시엄이 재생에너지와 묶어 데이터센터를 짓는 계획이에요.\n아직 의향서 단계라 실제 투자로 이어질지는 지켜봐야 해요.",
+    "steps": [
+     [
+      "2025.10",
+      "의향서 서명",
+      "done"
+     ],
+     [
+      "앞으로",
+      "부지·투자 확정",
+      ""
+     ]
+    ],
+    "art": "dc",
+    "with": "OpenAI"
+   }
   },
   {
    "id": "sgkr",
@@ -647,7 +1190,27 @@
     ]
    ],
    "w": 0,
-   "chk": "2026-11-19"
+   "chk": "2026-11-19",
+   "x": {
+    "country": "한국",
+    "loc": "한국 (SK텔레콤 서남권 데이터센터, 삼성 해상 데이터센터 검토)",
+    "lead": "삼성·SK와 OpenAI",
+    "about": "OpenAI 최고경영자가 서울에 와서 삼성·SK와 스타게이트 협력 의향서를 맺었어요. 두 회사가 OpenAI에 메모리 반도체를 대고, 한국에 AI 데이터센터를 함께 짓는 것을 검토하는 내용이에요.\n아직 의향서와 양해각서 단계예요.",
+    "steps": [
+     [
+      "2025.10",
+      "의향서·양해각서 서명",
+      "done"
+     ],
+     [
+      "앞으로",
+      "공급 계약·데이터센터 부지 확정",
+      ""
+     ]
+    ],
+    "art": "chip",
+    "with": "SK텔레콤, 삼성물산, 삼성중공업"
+   }
   },
   {
    "id": "gpu",
@@ -699,7 +1262,41 @@
     ]
    ],
    "w": 0,
-   "chk": "2026-11-19"
+   "chk": "2026-11-19",
+   "x": {
+    "country": "한국",
+    "loc": "한국 (정부·기업 데이터센터)",
+    "lead": "엔비디아와 한국 정부",
+    "size": "블랙웰 GPU {26만장} 이상",
+    "about": "2025년 경주 APEC 때 엔비디아가 한국 정부와 기업에 최신 AI 칩을 공급하기로 한 일이에요.\n정부 몫은 독자 AI 모델과 국가AI컴퓨팅센터에 쓰고, 기업들은 반도체 공장 자동화·자율주행·로봇에 쓸 계획이에요. 2030년까지 나눠 들여와요.",
+    "steps": [
+     [
+      "2025.10",
+      "공급 발표 (경주 APEC)",
+      "done"
+     ],
+     [
+      "지금",
+      "정부·기업에 나눠 공급",
+      "now"
+     ],
+     [
+      "2030",
+      "공급 마무리 목표",
+      ""
+     ]
+    ],
+    "art": "chip",
+    "with": "삼성전자, SK그룹, 현대차그룹, 네이버클라우드",
+    "img": {
+     "u": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Nvidia_DGX-B200-HGX.jpg/1280px-Nvidia_DGX-B200-HGX.jpg",
+     "by": "Pokiiri",
+     "lic": "CC BY-SA 4.0",
+     "src": "https://commons.wikimedia.org/wiki/File:Nvidia_DGX-B200-HGX.jpg",
+     "cap": "블랙웰 GPU 8개가 들어간 엔비디아 보드 (DGX B200)",
+     "alt": "GPU 8개가 꽂힌 서버 보드"
+    }
+   }
   },
   {
    "id": "nacc",
@@ -756,7 +1353,48 @@
     ]
    ],
    "w": 0,
-   "chk": "2026-11-19"
+   "chk": "2026-11-19",
+   "x": {
+    "country": "한국",
+    "loc": "전남 해남 솔라시도",
+    "lead": "과학기술정보통신부 · 민관 합작 법인 코아크",
+    "size": "AI 반도체 {1.5만장}",
+    "money": "{2.5조원} 이상 (국민성장펀드·산업은행·기업은행 참여)",
+    "about": "정부와 민간이 함께 짓는 국가 단위 AI 데이터센터예요. 대학·연구소·스타트업이 비싼 AI 칩을 빌려 쓸 수 있게 하는 것이 목적이에요.\n국산 AI 반도체를 시험해 볼 수 있는 구역도 따로 둬요.",
+    "steps": [
+     [
+      "2025",
+      "사업자 공모·선정",
+      "done"
+     ],
+     [
+      "2026.8",
+      "착공",
+      "done"
+     ],
+     [
+      "지금",
+      "공사",
+      "now"
+     ],
+     [
+      "2028",
+      "완공 목표",
+      ""
+     ]
+    ],
+    "art": "dc",
+    "img": {
+     "u": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Google_Data_Center%2C_Council_Bluffs_Iowa_%2849062863796%29.jpg/1280px-Google_Data_Center%2C_Council_Bluffs_Iowa_%2849062863796%29.jpg",
+     "by": "Chad Davis",
+     "lic": "CC BY 2.0",
+     "src": "https://commons.wikimedia.org/wiki/File:Google_Data_Center%2C_Council_Bluffs_Iowa_%2849062863796%29.jpg",
+     "cap": "미국 아이오와의 대형 데이터센터 항공 사진 (2017)",
+     "alt": "넓은 부지의 데이터센터 항공 사진",
+     "same": false
+    },
+    "with": "삼성SDS 컨소시엄 (삼성물산, KT, 네이버클라우드, 카카오)"
+   }
   },
   {
    "id": "dopamo",
@@ -791,7 +1429,37 @@
     ]
    ],
    "w": 0,
-   "chk": "2026-11-19"
+   "chk": "2026-11-19",
+   "x": {
+    "country": "한국",
+    "loc": "한국",
+    "lead": "과학기술정보통신부",
+    "about": "한국 기업이 처음부터 직접 만든 AI 모델을 '국가대표'로 키우는 사업이에요. 여러 팀을 뽑은 뒤 평가할 때마다 줄여 마지막에 두 팀을 남겨요.\n뽑힌 팀은 정부가 GPU와 데이터를 지원해요.",
+    "steps": [
+     [
+      "2025.8",
+      "참가 팀 선정",
+      "done"
+     ],
+     [
+      "2026",
+      "1·2차 평가 · 3팀 통과",
+      "done"
+     ],
+     [
+      "지금",
+      "3차 평가 앞둠",
+      "now"
+     ],
+     [
+      "앞으로",
+      "최종 2팀",
+      ""
+     ]
+    ],
+    "art": "chip",
+    "with": "LG AI연구원, SK텔레콤, 업스테이지 (2차 통과 팀)"
+   }
   },
   {
    "id": "kgf",
@@ -841,7 +1509,36 @@
     ]
    ],
    "w": 0,
-   "chk": "2026-11-19"
+   "chk": "2026-11-19",
+   "x": {
+    "country": "한국",
+    "loc": "한국",
+    "lead": "금융위원회·한국산업은행",
+    "size": "5년 {150조원} · AI 30조원, 반도체 약 21조원",
+    "about": "AI·반도체 같은 첨단 산업에 정부와 민간 돈을 함께 넣는 정책 펀드예요. 공장, 전력망, 데이터센터, 스타트업에 나눠 투자해요.\n규모를 200조원으로 키운다는 보도도 있어요.",
+    "steps": [
+     [
+      "2025.12",
+      "출범",
+      "done"
+     ],
+     [
+      "지금",
+      "분야별 투자 집행",
+      "now"
+     ]
+    ],
+    "art": "fund",
+    "with": "민간 금융회사",
+    "img": {
+     "u": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/KDB_HQ.jpg/1280px-KDB_HQ.jpg",
+     "by": "Swp307",
+     "lic": "CC BY-SA 4.0",
+     "src": "https://commons.wikimedia.org/wiki/File:KDB_HQ.jpg",
+     "cap": "국민성장펀드를 함께 이끄는 한국산업은행 본점 (서울 여의도)",
+     "alt": "한국산업은행 본점 건물"
+    }
+   }
   }
  ],
  "industries": [
@@ -2931,7 +3628,56 @@
       "TSMC 보도자료 · 앰코 협력",
       "https://pr.tsmc.com/english/news/3174"
      ]
-    ]
+    ],
+    "x": {
+     "loc": "미국 애리조나 피닉스 북부",
+     "lead": "TSMC",
+     "size": "공장 3곳 (+4공장·첨단 패키징 허가 신청)",
+     "money": "공장 3곳 {650억 달러} · 반도체법 보조금 {66억 달러}",
+     "about": "세계 최대 파운드리 TSMC가 미국에 지은 첫 첨단 공장 단지예요. 1공장은 2024년 4분기부터 4나노 칩을 만들고 있어요.\n2공장은 3나노로 2027년 하반기 양산이 목표이고, 3공장은 공사 중이에요. 엔비디아 블랙웰 칩도 여기서 만들어요.",
+     "steps": [
+      [
+       "2020.5",
+       "애리조나 공장 발표",
+       "done"
+      ],
+      [
+       "2021",
+       "1공장 착공",
+       "done"
+      ],
+      [
+       "2024.11",
+       "보조금 확정",
+       "done"
+      ],
+      [
+       "2024 4분기",
+       "1공장 양산",
+       "done"
+      ],
+      [
+       "지금",
+       "3공장 공사",
+       "now"
+      ],
+      [
+       "2027 하반기",
+       "2공장 양산 목표",
+       ""
+      ]
+     ],
+     "art": "fab",
+     "img": {
+      "u": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/231105-1_TSMC_Fab_21_construction.jpg/1280px-231105-1_TSMC_Fab_21_construction.jpg",
+      "by": "Hunter Trick",
+      "lic": "CC BY-SA 4.0",
+      "src": "https://commons.wikimedia.org/wiki/File:231105-1_TSMC_Fab_21_construction.jpg",
+      "cap": "공사 중인 TSMC 애리조나 공장 (2023.11)",
+      "alt": "애리조나 사막의 반도체 공장 공사 현장 항공 사진"
+     },
+     "with": "앰코 (패키징·테스트), 엔비디아·AMD (고객)"
+    }
    },
    {
     "id": "ss-taylor",
@@ -2985,7 +3731,62 @@
       "서울신문 · 테슬라 계약 공시",
       "https://m.seoul.co.kr/news/2025/07/29/20250729002004"
      ]
-    ]
+    ],
+    "x": {
+     "loc": "미국 텍사스 테일러",
+     "lead": "삼성전자",
+     "size": "2나노 파운드리 라인",
+     "money": "텍사스에 약 {370억 달러} 투자 계획 · 보조금 최대 {47.45억 달러}",
+     "about": "삼성전자가 미국에 짓는 두 번째 반도체 공장이에요. 고객을 못 찾아 늦어졌다가, 2025년 테슬라 AI 칩 계약을 따내며 다시 속도를 내고 있어요.\n회사는 2026년 말까지 양산 준비를 마친다고 했고, 본격 양산은 2027년이라는 보도가 있어요.",
+     "steps": [
+      [
+       "2021.11",
+       "테일러 공장 발표",
+       "done"
+      ],
+      [
+       "2022",
+       "착공",
+       "done"
+      ],
+      [
+       "2024.12",
+       "보조금 확정",
+       "done"
+      ],
+      [
+       "2025.7",
+       "테슬라 칩 계약",
+       "done"
+      ],
+      [
+       "2026.4",
+       "장비 반입",
+       "done"
+      ],
+      [
+       "지금",
+       "양산 준비",
+       "now"
+      ],
+      [
+       "2027",
+       "본격 양산 전망 (보도)",
+       ""
+      ]
+     ],
+     "art": "fab",
+     "img": {
+      "u": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/TSMC_Fab_18_and_fields_May_2025.jpg/1280px-TSMC_Fab_18_and_fields_May_2025.jpg",
+      "by": "4300streetcar",
+      "lic": "CC BY 4.0",
+      "src": "https://commons.wikimedia.org/wiki/File:TSMC_Fab_18_and_fields_May_2025.jpg",
+      "cap": "대만 남부의 대형 반도체 공장 (2025.5)",
+      "alt": "논밭 옆 대형 반도체 공장",
+      "same": false
+     },
+     "with": "테슬라 (고객)"
+    }
    },
    {
     "id": "intel-oh",
@@ -3042,7 +3843,50 @@
       "Intel 뉴스룸 · High NA EUV",
       "https://www.intel.com/content/www/us/en/newsroom/resources/intel-high-na-euv.html"
      ]
-    ]
+    ],
+    "x": {
+     "loc": "미국 오하이오 뉴올버니 (리킹 카운티)",
+     "lead": "인텔",
+     "size": "공장 2곳 계획",
+     "about": "인텔이 오하이오에 짓는 대형 반도체 공장이에요. 2022년 착공했지만 회사 사정이 나빠지면서 공사 속도를 늦췄어요.\n2025년 2월 회사 메모에서 1공장 가동을 2030~2031년으로 미뤘어요.",
+     "steps": [
+      [
+       "2022.1",
+       "오하이오 공장 발표",
+       "done"
+      ],
+      [
+       "2022.9",
+       "착공",
+       "done"
+      ],
+      [
+       "2025.2",
+       "가동 시점을 2030~2031년으로 연기",
+       "done"
+      ],
+      [
+       "지금",
+       "공사 (속도 늦춤)",
+       "now"
+      ],
+      [
+       "2030~2031",
+       "1공장 가동 예정",
+       ""
+      ]
+     ],
+     "art": "fab",
+     "img": {
+      "u": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Intel_Ohio_One_%282024-02-11-04-16-53_UMBRA-06%29.tiff/lossy-page1-1280px-Intel_Ohio_One_%282024-02-11-04-16-53_UMBRA-06%29.tiff.jpg",
+      "by": "Umbra Lab, Inc.",
+      "lic": "CC BY 4.0",
+      "src": "https://commons.wikimedia.org/wiki/File:Intel_Ohio_One_%282024-02-11-04-16-53_UMBRA-06%29.tiff",
+      "cap": "위성 레이더로 찍은 인텔 오하이오 공사 부지 (2024.2)",
+      "alt": "흑백 위성 레이더 영상으로 본 공장 부지"
+     },
+     "with": "미국 정부 (주주), 엔비디아 (투자)"
+    }
    },
    {
     "id": "mu-us",
@@ -3081,7 +3925,51 @@
       "The Register · 뉴욕 착공",
       "https://www.theregister.com/2026/01/16/micron_fab_breaks_ground/"
      ]
-    ]
+    ],
+    "x": {
+     "loc": "미국 아이다호 보이시, 뉴욕 클레이",
+     "lead": "마이크론",
+     "size": "아이다호 2곳, 뉴욕 최대 4곳 D램 공장",
+     "money": "미국에 약 {2,000억 달러} 투자 계획 · 보조금 최대 {64억 달러}",
+     "about": "미국 유일의 큰 메모리 회사 마이크론이 미국 안에서 D램을 만들려고 짓는 공장들이에요.\n아이다호 1공장은 2027년 D램 생산이 목표이고, 뉴욕은 2026년 1월 착공해 2030년 생산을 노려요.",
+     "steps": [
+      [
+       "2022.9",
+       "아이다호 공장 발표",
+       "done"
+      ],
+      [
+       "2025.6",
+       "미국 투자 계획 확대",
+       "done"
+      ],
+      [
+       "2026.1",
+       "뉴욕 착공",
+       "done"
+      ],
+      [
+       "2027",
+       "아이다호 1공장 생산 목표",
+       "now"
+      ],
+      [
+       "2030",
+       "뉴욕 생산 목표",
+       ""
+      ]
+     ],
+     "art": "fab",
+     "img": {
+      "u": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/KIOXIA_Iwate_Kitakami_Site.jpg/1280px-KIOXIA_Iwate_Kitakami_Site.jpg",
+      "by": "掬茶",
+      "lic": "CC BY-SA 4.0",
+      "src": "https://commons.wikimedia.org/wiki/File:KIOXIA_Iwate_Kitakami_Site.jpg",
+      "cap": "일본 이와테의 메모리 반도체 공장 (키옥시아)",
+      "alt": "메모리 반도체 공장 전경",
+      "same": false
+     }
+    }
    },
    {
     "id": "skh-in",
@@ -3120,7 +4008,50 @@
       "미 상무부 · 지원 발표",
       "https://content.govdelivery.com/accounts/USDOC/bulletins/3c8852b"
      ]
-    ]
+    ],
+    "x": {
+     "loc": "미국 인디애나 웨스트라피엣 (퍼듀대 연구단지)",
+     "lead": "SK하이닉스",
+     "money": "{40억 달러} 넘게 투자 · 보조금 최대 {4.58억 달러}",
+     "about": "SK하이닉스가 미국에 처음 짓는 공장이에요. 한국에서 만든 HBM 웨이퍼를 여기서 쌓고 검사하는 후공정 공장이에요.\n대학 연구단지 안에 지어 연구 협력도 함께 해요.",
+     "steps": [
+      [
+       "2024.4",
+       "인디애나 공장 발표",
+       "done"
+      ],
+      [
+       "2024.12",
+       "보조금 확정",
+       "done"
+      ],
+      [
+       "2026.8",
+       "기공식",
+       "done"
+      ],
+      [
+       "지금",
+       "공사",
+       "now"
+      ],
+      [
+       "2029 하반기",
+       "HBM 양산 목표",
+       ""
+      ]
+     ],
+     "art": "fab",
+     "with": "퍼듀대학교",
+     "img": {
+      "u": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/SK_Hynix_SOCAMM_module_Computex_2025.jpg/1280px-SK_Hynix_SOCAMM_module_Computex_2025.jpg",
+      "by": "4300streetcar",
+      "lic": "CC BY 4.0",
+      "src": "https://commons.wikimedia.org/wiki/File:SK_Hynix_SOCAMM_module_Computex_2025.jpg",
+      "cap": "SK하이닉스 메모리 모듈 (컴퓨텍스 2025)",
+      "alt": "SK하이닉스 메모리 모듈"
+     }
+    }
    },
    {
     "id": "rapidus",
@@ -3166,7 +4097,55 @@
       "TrendForce · 지연 보도",
       "https://www.trendforce.com/news/?p=66432"
      ]
-    ]
+    ],
+    "x": {
+     "country": "일본",
+     "loc": "일본 홋카이도 치토세",
+     "lead": "라피더스 (도요타·소니 등 일본 기업 출자)",
+     "about": "일본이 다시 최첨단 반도체를 만들겠다며 세운 회사예요. IBM에서 2나노 기술을 배워 치토세에 시험 공장을 지었어요.\n2025년 7월 2나노 시제품을 만들었고 2027년 하반기 양산이 목표예요. 개발이 늦어진다는 보도가 있지만 회사는 일정을 유지한다고 했어요.",
+     "steps": [
+      [
+       "2022.8",
+       "회사 설립",
+       "done"
+      ],
+      [
+       "2023.9",
+       "치토세 공장 착공",
+       "done"
+      ],
+      [
+       "2025.4",
+       "시험 라인 가동",
+       "done"
+      ],
+      [
+       "2025.7",
+       "2나노 시제품",
+       "done"
+      ],
+      [
+       "지금",
+       "양산 준비",
+       "now"
+      ],
+      [
+       "2027 하반기",
+       "양산 목표",
+       ""
+      ]
+     ],
+     "art": "fab",
+     "with": "일본 정부 (NEDO 지원), IBM (기술), ASML (장비)",
+     "img": {
+      "u": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Rapidus_factory_under_construction.jpg/1280px-Rapidus_factory_under_construction.jpg",
+      "by": "どういたしまして",
+      "lic": "CC BY-SA 4.0",
+      "src": "https://commons.wikimedia.org/wiki/File:Rapidus_factory_under_construction.jpg",
+      "cap": "공사 중인 라피더스 치토세 공장 (2024.3, 신치토세 공항에서)",
+      "alt": "눈 덮인 들판 너머의 공장 공사 현장"
+     }
+    }
    },
    {
     "id": "jasm",
@@ -3194,7 +4173,51 @@
       "Focus Taiwan · 3나노 승인",
       "https://focustaiwan.tw/business/202603310027"
      ]
-    ]
+    ],
+    "x": {
+     "country": "일본",
+     "loc": "일본 구마모토 기쿠요",
+     "lead": "TSMC (JASM 최대 주주)",
+     "size": "1공장 12~28나노, 2공장 3나노로 변경",
+     "about": "TSMC가 일본 기업들과 함께 구마모토에 세운 공장이에요. 1공장은 자동차·카메라 센서용 칩을 만들어요.\n2공장은 원래 6~7나노 계획이었는데, 2026년 3월 대만 정부가 3나노로 올리는 것을 승인했어요.",
+     "steps": [
+      [
+       "2021.11",
+       "JASM 설립 발표",
+       "done"
+      ],
+      [
+       "2024.2",
+       "1공장 준공",
+       "done"
+      ],
+      [
+       "2024 말",
+       "1공장 양산",
+       "done"
+      ],
+      [
+       "2026.3",
+       "2공장 3나노 변경 승인",
+       "done"
+      ],
+      [
+       "지금",
+       "2공장 준비",
+       "now"
+      ]
+     ],
+     "art": "fab",
+     "img": {
+      "u": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/JASM_Kumamoto_2024_03.jpg/1280px-JASM_Kumamoto_2024_03.jpg",
+      "by": "Keeteria",
+      "lic": "CC BY-SA 4.0",
+      "src": "https://commons.wikimedia.org/wiki/File:JASM_Kumamoto_2024_03.jpg",
+      "cap": "구마모토 기쿠요의 JASM 1공장 (2024.3)",
+      "alt": "구마모토 반도체 공장 건물"
+     },
+     "with": "소니, 덴소, 도요타 (공동 출자)"
+    }
    },
    {
     "id": "yongin",
@@ -3227,7 +4250,56 @@
       "머니투데이 · 용인 1호 팹",
       "https://www.mt.co.kr/article/2026071205415186037"
      ]
-    ]
+    ],
+    "x": {
+     "country": "한국",
+     "loc": "경기 용인 원삼면(SK하이닉스 일반산단)·이동읍·남사읍(삼성전자 국가산단)",
+     "lead": "SK하이닉스·삼성전자, 정부·경기도",
+     "about": "용인에 두 개의 대형 반도체 단지를 만드는 계획이에요. SK하이닉스는 원삼면 일반산단에서 첫 팹을 짓고 있어요.\n삼성전자 국가산단은 2024년 12월 지정됐고, 착공을 2026년 12월로 앞당겼어요. 전력과 물을 대는 일이 큰 숙제예요.",
+     "steps": [
+      [
+       "2019",
+       "SK하이닉스 단지 계획 발표",
+       "done"
+      ],
+      [
+       "2023.3",
+       "국가산단 후보지 발표",
+       "done"
+      ],
+      [
+       "2024.12",
+       "국가산단 지정",
+       "done"
+      ],
+      [
+       "2025.2",
+       "SK하이닉스 1기 팹 착공",
+       "done"
+      ],
+      [
+       "2026.12",
+       "삼성 국가산단 착공 예정",
+       "now"
+      ],
+      [
+       "2027 초",
+       "SK하이닉스 1기 팹 가동 목표",
+       ""
+      ]
+     ],
+     "art": "fab",
+     "with": "LH (국가산단 조성)",
+     "img": {
+      "u": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/TSMC_fabs_in_Hsinchu_01.jpg/1280px-TSMC_fabs_in_Hsinchu_01.jpg",
+      "by": "曾 成訓",
+      "lic": "CC BY 2.0",
+      "src": "https://commons.wikimedia.org/wiki/File:TSMC_fabs_in_Hsinchu_01.jpg",
+      "cap": "반도체 공장이 모여 있는 대만 신주 과학단지",
+      "alt": "반도체 공장이 모여 있는 단지",
+      "same": false
+     }
+    }
    }
   ],
   "intro": "칩 하나가 나오려면 설계, 만들기, 패키징, 장비, 소재가 모두 필요해요."
@@ -3969,7 +5041,49 @@
       "NASA · 착륙선 일정 조정",
       "https://www.nasa.gov/missions/artemis/nasa-partners-accelerate-lander-development-for-2028-moon-missions/?linkId=1026248246"
      ]
-    ]
+    ],
+    "x": {
+     "loc": "미국 플로리다 케네디 우주센터에서 발사",
+     "lead": "NASA",
+     "about": "반세기 만에 사람을 다시 달에 보내는 NASA 사업이에요. 2022년 1호는 사람 없이 달을 돌고 왔고, 2026년 4월 2호는 우주비행사 4명이 약 10일 동안 달을 돌아 돌아왔어요.\n3호(2027)는 지구 궤도에서 착륙선과 도킹하는 시험이고, 첫 달 착륙은 4호(2028 목표)예요.",
+     "steps": [
+      [
+       "2017.12",
+       "대통령 지시로 달 복귀 결정",
+       "done"
+      ],
+      [
+       "2022.11",
+       "1호 무인 비행",
+       "done"
+      ],
+      [
+       "2026.4",
+       "2호 유인 달 왕복",
+       "done"
+      ],
+      [
+       "2027",
+       "3호 지구 궤도 착륙선 도킹 시험",
+       "now"
+      ],
+      [
+       "2028",
+       "4호 첫 달 착륙 목표",
+       ""
+      ]
+     ],
+     "art": "moon",
+     "img": {
+      "u": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Artemis_II_Launch_%28NHQ202604010307%29.jpg/1280px-Artemis_II_Launch_%28NHQ202604010307%29.jpg",
+      "by": "NASA",
+      "lic": "퍼블릭 도메인",
+      "src": "https://commons.wikimedia.org/wiki/File:Artemis_II_Launch_%28NHQ202604010307%29.jpg",
+      "cap": "아르테미스 2호를 싣고 발사되는 SLS 로켓 (2026.4.1)",
+      "alt": "밤하늘로 솟아오르는 SLS 로켓"
+     },
+     "with": "보잉·노스롭그루먼·L3해리스 (SLS 로켓), 록히드마틴 (오리온 우주선), 스페이스X·블루 오리진 (착륙선)"
+    }
    },
    {
     "id": "clps",
@@ -4012,7 +5126,49 @@
       "Planetary Society · CLPS",
       "https://www.planetary.org/space-missions/clps"
      ]
-    ]
+    ],
+    "x": {
+     "loc": "달 표면 (발사는 미국 플로리다)",
+     "lead": "NASA",
+     "about": "NASA가 달에 보낼 과학 장비를 민간 회사에 '배송'처럼 맡기는 사업이에요. 회사가 착륙선을 만들고 NASA는 짐값을 내요.\n2025년 3월 파이어플라이 블루고스트 1호가 처음으로 똑바로 착륙에 성공했고, 인튜이티브 머신스의 두 착륙선은 내린 뒤 넘어졌어요.",
+     "steps": [
+      [
+       "2018.11",
+       "참여 회사 선정",
+       "done"
+      ],
+      [
+       "2024.2",
+       "IM-1 착륙 (넘어짐)",
+       "done"
+      ],
+      [
+       "2025.3",
+       "블루고스트 1호 착륙 성공",
+       "done"
+      ],
+      [
+       "2026.6",
+       "블루고스트 추가 계약",
+       "done"
+      ],
+      [
+       "지금",
+       "IM-3 등 다음 착륙 준비",
+       "now"
+      ]
+     ],
+     "art": "moon",
+     "img": {
+      "u": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Blue_Ghost_M1_on_the_Moon.png/1280px-Blue_Ghost_M1_on_the_Moon.png",
+      "by": "NASA/Firefly Aerospace",
+      "lic": "퍼블릭 도메인",
+      "src": "https://commons.wikimedia.org/wiki/File:Blue_Ghost_M1_on_the_Moon.png",
+      "cap": "달에 내린 블루고스트 1호 (2025.3)",
+      "alt": "달 표면에 내린 착륙선"
+     },
+     "with": "파이어플라이, 인튜이티브 머신스, 아스트로보틱 등 민간 착륙선 회사"
+    }
    },
    {
     "id": "golden",
@@ -4046,7 +5202,47 @@
       "Air & Space Forces · 계약",
       "https://www.airandspaceforces.com/space-force-reveals-space-based-interceptor-awards-golden-dome/"
      ]
-    ]
+    ],
+    "x": {
+     "loc": "미국 본토 방어 (우주와 지상)",
+     "lead": "미국 국방부 · 우주군",
+     "size": "우주 요격기 시제품 계약 20건",
+     "money": "최대 {32억 달러} (시제품 계약)",
+     "about": "적 미사일을 우주에서 찾아 막는 미국의 새 미사일 방어 계획이에요. 2025년 1월 대통령 행정명령으로 시작했어요.\n우주군이 우주 요격기 시제품을 여러 회사에 맡겼고, 2028년 시연이 목표예요.",
+     "steps": [
+      [
+       "2025.1",
+       "행정명령",
+       "done"
+      ],
+      [
+       "2026.4",
+       "우주 요격기 시제품 12개사 선정",
+       "done"
+      ],
+      [
+       "지금",
+       "시제품 개발",
+       "now"
+      ],
+      [
+       "2028",
+       "시연 목표",
+       ""
+      ]
+     ],
+     "art": "sat",
+     "with": "스페이스X, 록히드마틴, 노스롭그루먼 등 시제품 회사",
+     "img": {
+      "u": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/FTG-15_Flight_Test_%284108842%29.jpeg/1280px-FTG-15_Flight_Test_%284108842%29.jpeg",
+      "by": "미국 미사일방어청",
+      "lic": "퍼블릭 도메인",
+      "src": "https://commons.wikimedia.org/wiki/File:FTG-15_Flight_Test_%284108842%29.jpeg",
+      "cap": "미국 지상 요격 미사일 시험 발사 (반덴버그, 2017)",
+      "alt": "밤하늘로 발사되는 요격 미사일",
+      "same": false
+     }
+    }
    },
    {
     "id": "sda",
@@ -4089,7 +5285,46 @@
       "Air & Space Forces · 계약표",
       "https://airandspaceforces.com/?p=213195"
      ]
-    ]
+    ],
+    "x": {
+     "loc": "지구 저궤도",
+     "lead": "미국 우주개발청 (우주군 소속)",
+     "money": "3차 추적 위성 {35억 달러} 계약 (2025.12)",
+     "about": "작은 군사 위성 수백 기를 낮은 궤도에 깔아 통신하고 미사일을 추적하는 위성망이에요. 2~3년마다 새 묶음(트랜치)을 쏘며 성능을 올려요.\n통신 위성과 추적 위성을 나눠 여러 회사에 맡기는 것이 특징이에요.",
+     "steps": [
+      [
+       "2019.3",
+       "우주개발청 설립",
+       "done"
+      ],
+      [
+       "2025",
+       "1차 위성 발사 시작",
+       "done"
+      ],
+      [
+       "2025.12",
+       "3차 추적 위성 72기 계약",
+       "done"
+      ],
+      [
+       "지금",
+       "2·3차 위성 제작",
+       "now"
+      ]
+     ],
+     "art": "sat",
+     "with": "록히드마틴, 노스롭그루먼, 로켓랩, 요크 스페이스",
+     "img": {
+      "u": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Vandenberg_launches_SpaceX_Falcon_9_%28181007-F-XJ735-034%29.jpg/1280px-Vandenberg_launches_SpaceX_Falcon_9_%28181007-F-XJ735-034%29.jpg",
+      "by": "미국 공군",
+      "lic": "퍼블릭 도메인",
+      "src": "https://commons.wikimedia.org/wiki/File:Vandenberg_launches_SpaceX_Falcon_9_%28181007-F-XJ735-034%29.jpg",
+      "cap": "반덴버그 기지에서 발사되는 팰컨9 · 군 위성망 위성도 이 기지와 로켓으로 올라가요",
+      "alt": "해 질 녘 발사되는 로켓의 궤적",
+      "same": false
+     }
+    }
    },
    {
     "id": "starlab",
@@ -4130,7 +5365,46 @@
       "Journal of Space Commerce · 보류",
       "https://www.exterrajsc.com/p/the-nasa-station-award-that-cannot"
      ]
-    ]
+    ],
+    "x": {
+     "loc": "지구 저궤도 (국제우주정거장 뒤를 이을 계획)",
+     "lead": "보이저",
+     "money": "NASA 지원 총 {2.175억 달러}",
+     "about": "국제우주정거장이 은퇴한 뒤를 대비해 민간이 짓는 상업 우주정거장 중 하나예요. 보이저가 여러 나라 회사와 합작해 만들어요.\n2026년 2월 상세설계 검토를 마쳤어요. NASA의 다음 단계 사업은 2026년 1월부터 보류 중이에요.",
+     "steps": [
+      [
+       "2021.12",
+       "NASA 지원 대상 선정",
+       "done"
+      ],
+      [
+       "2026.1",
+       "NASA 2단계 사업 보류",
+       "done"
+      ],
+      [
+       "2026.2",
+       "상세설계 검토 완료",
+       "done"
+      ],
+      [
+       "지금",
+       "제작 준비",
+       "now"
+      ]
+     ],
+     "art": "station",
+     "with": "에어버스, 미쓰비시, MDA 스페이스, 팔란티어, 노스롭그루먼",
+     "img": {
+      "u": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/The_station_pictured_from_the_SpaceX_Crew_Dragon_5.jpg/1280px-The_station_pictured_from_the_SpaceX_Crew_Dragon_5.jpg",
+      "by": "NASA",
+      "lic": "퍼블릭 도메인",
+      "src": "https://commons.wikimedia.org/wiki/File:The_station_pictured_from_the_SpaceX_Crew_Dragon_5.jpg",
+      "cap": "국제우주정거장 (2021.11) · 스타랩은 이 정거장의 뒤를 잇는 민간 정거장이에요",
+      "alt": "지구 위의 국제우주정거장",
+      "same": false
+     }
+    }
    },
    {
     "id": "haven",
@@ -4165,7 +5439,40 @@
       "NSF · 헤이븐-1",
       "https://www.nasaspaceflight.com/2025/11/vast-haven-1-update/"
      ]
-    ]
+    ],
+    "x": {
+     "loc": "지구 저궤도",
+     "lead": "배스트",
+     "about": "배스트가 자기 돈으로 만드는 작은 상업 우주정거장이에요. 혼자서 정거장을 쏘아 올리는 첫 민간 사례가 될 수 있어요.\n2026년 5월 발사가 목표였는데 2027년 1분기 이후로 미뤄졌어요.",
+     "steps": [
+      [
+       "2023.5",
+       "헤이븐-1 발표",
+       "done"
+      ],
+      [
+       "2026.5",
+       "원래 발사 목표 (연기됨)",
+       "done"
+      ],
+      [
+       "2027 1분기 이후",
+       "발사 예정",
+       "now"
+      ]
+     ],
+     "art": "station",
+     "with": "스페이스X (발사)",
+     "img": {
+      "u": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Iss072e316172_%28Oct_23%2C_2024%29_---_The_International_Space_Station_is_pictured_from_the_SpaceX_Dragon_crew_spacecraft_by_a_SpaceX_Crew-8_member_shortly_after_undocking_from_the_Harmony_module%27s_space-facing_port_%28cropped%29.jpg/1280px-thumbnail.jpg",
+      "by": "NASA",
+      "lic": "퍼블릭 도메인",
+      "src": "https://commons.wikimedia.org/wiki/File:Iss072e316172_%28Oct_23%2C_2024%29_---_The_International_Space_Station_is_pictured_from_the_SpaceX_Dragon_crew_spacecraft_by_a_SpaceX_Crew-8_member_shortly_after_undocking_from_the_Harmony_module%27s_space-facing_port_%28cropped%29.jpg",
+      "cap": "국제우주정거장 (2024.10) · 헤이븐-1은 이보다 훨씬 작은 1개 모듈 정거장이에요",
+      "alt": "구름 위를 지나는 국제우주정거장",
+      "same": false
+     }
+    }
    },
    {
     "id": "nuri",
@@ -4202,7 +5509,60 @@
       "MTN · 한화 주운영",
       "https://news.mtn.co.kr/news-detail/2026100812444652520"
      ]
-    ]
+    ],
+    "x": {
+     "country": "한국",
+     "loc": "전남 고흥 나로우주센터",
+     "lead": "우주항공청·한국항공우주연구원",
+     "about": "한국이 스스로 만든 3단 우주 발사체예요. 1톤 넘는 위성을 낮은 궤도에 올릴 수 있어요.\n2021년 1차는 궤도에 못 올랐지만 그 뒤 연달아 성공했어요. 2026년 10월 5차부터는 한화에어로스페이스가 발사 운용을 처음 주도했어요.",
+     "steps": [
+      [
+       "2010.3",
+       "개발 시작",
+       "done"
+      ],
+      [
+       "2021.10",
+       "1차 발사 (궤도 진입 못 함)",
+       "done"
+      ],
+      [
+       "2022.6",
+       "2차 발사 성공",
+       "done"
+      ],
+      [
+       "2023.5",
+       "3차 발사 성공",
+       "done"
+      ],
+      [
+       "2025.11",
+       "4차 발사 성공",
+       "done"
+      ],
+      [
+       "2026.10",
+       "5차 발사 성공",
+       "done"
+      ],
+      [
+       "앞으로",
+       "6차 발사",
+       ""
+      ]
+     ],
+     "art": "launch",
+     "img": {
+      "u": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/KSLV-II_Nuri_and_the_launchpad_01.jpg/1280px-KSLV-II_Nuri_and_the_launchpad_01.jpg",
+      "by": "한국항공우주연구원",
+      "lic": "공공누리 제1유형",
+      "src": "https://commons.wikimedia.org/wiki/File:KSLV-II_Nuri_and_the_launchpad_01.jpg",
+      "cap": "나로우주센터 제2발사대에 선 누리호 (2021.6)",
+      "alt": "발사대에 세워진 누리호"
+     },
+     "with": "한화에어로스페이스 (제작 총괄·발사 운용)"
+    }
    },
    {
     "id": "krsar",
@@ -4244,7 +5604,42 @@
       "딜사이트 · 입찰",
       "https://dealsite.co.kr/articles/170484"
      ]
-    ]
+    ],
+    "x": {
+     "country": "한국",
+     "loc": "한반도 상공 궤도",
+     "lead": "국방과학연구소",
+     "money": "개발 입찰가: 한화시스템 {3,685억원}, 한국항공우주 {4,603억원}",
+     "about": "작은 레이더(SAR) 위성 여러 기를 띄워 밤이나 구름 낀 날에도 한반도를 자주 살피려는 군사 위성 사업이에요.\n개발 사업 입찰에서 한화시스템이 1순위가 됐고, 약 40기 양산은 따로 추진해요.",
+     "steps": [
+      [
+       "2026.10",
+       "개발 사업 입찰·개찰",
+       "done"
+      ],
+      [
+       "지금",
+       "우선협상·계약",
+       "now"
+      ],
+      [
+       "앞으로",
+       "개발 뒤 양산",
+       ""
+      ]
+     ],
+     "art": "sat",
+     "with": "한화시스템 (1순위), 쎄트렉아이, 한화에어로스페이스",
+     "img": {
+      "u": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/NISAR_Encapsulated_in_Payload_Fairing_at_ISRO_Launch_Site_%28PIA26611%29.jpg/1280px-NISAR_Encapsulated_in_Payload_Fairing_at_ISRO_Launch_Site_%28PIA26611%29.jpg",
+      "by": "NASA/ISRO",
+      "lic": "퍼블릭 도메인",
+      "src": "https://commons.wikimedia.org/wiki/File:NISAR_Encapsulated_in_Payload_Fairing_at_ISRO_Launch_Site_%28PIA26611%29.jpg",
+      "cap": "발사 전 덮개에 들어간 미국·인도 레이더 위성 NISAR (2025)",
+      "alt": "로켓 덮개에 들어가는 레이더 위성",
+      "same": false
+     }
+    }
    }
   ]
  },
@@ -4865,7 +6260,37 @@
       "ANS · 800억 달러 계약",
       "https://www.ans.org/news/2025-10-28/article-7499/westinghouse-signs-80b-contract-to-meet-ai-demand/"
      ]
-    ]
+    ],
+    "x": {
+     "loc": "미국 여러 지역 (부지 미정)",
+     "lead": "미국 상무부",
+     "size": "AP1000 대형 원전 여러 기",
+     "money": "최소 {800억 달러} 규모",
+     "about": "미국 정부가 웨스팅하우스의 AP1000 원전을 여러 기 짓도록 돈을 모으고 인허가를 돕는 계약이에요.\n대신 정부는 웨스팅하우스가 일정 금액을 넘게 나눠 줄 때 그 {20%}를 받을 권리를 가져요.",
+     "steps": [
+      [
+       "2025.10",
+       "정부–웨스팅하우스 계약 발표",
+       "done"
+      ],
+      [
+       "지금",
+       "부지·자금 조달 준비",
+       "now"
+      ]
+     ],
+     "art": "nuke",
+     "img": {
+      "u": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Construction_at_Vogtle_Unit_3_-_August_2013_%2814676545094%29.jpg/1280px-Construction_at_Vogtle_Unit_3_-_August_2013_%2814676545094%29.jpg",
+      "by": "미국 원자력규제위원회",
+      "lic": "퍼블릭 도메인",
+      "src": "https://commons.wikimedia.org/wiki/File:Construction_at_Vogtle_Unit_3_-_August_2013_%2814676545094%29.jpg",
+      "cap": "웨스팅하우스 AP1000 원전인 보글 3호기 공사 현장 (2013.8)",
+      "alt": "원전 공사 현장의 크레인과 원자로 건물",
+      "same": false
+     },
+     "with": "웨스팅하우스, 카메코, 브룩필드"
+    }
    },
    {
     "id": "crane",
@@ -4905,7 +6330,50 @@
       "E&E News · NRC 검토",
       "https://www.eenews.net/articles/three-mile-island-restart-closes-in-on-nrc-approval/"
      ]
-    ]
+    ],
+    "x": {
+     "loc": "미국 펜실베이니아 미들타운 · 옛 스리마일섬 1호기",
+     "lead": "컨스텔레이션",
+     "size": "{835MW}",
+     "about": "2019년 문을 닫은 스리마일섬 1호기를 다시 켜는 사업이에요. 이름은 크레인 청정에너지센터로 바꿨어요. 1979년 사고가 난 곳은 옆의 2호기예요.\n마이크로소프트가 20년 동안 전기를 사기로 했어요. 2027년 재가동이 목표인데, 송전망 연결이 늦어질 수 있다는 분석이 있어요.",
+     "steps": [
+      [
+       "2019.9",
+       "1호기 가동 중단",
+       "done"
+      ],
+      [
+       "2024.9",
+       "재가동·마이크로소프트 계약 발표",
+       "done"
+      ],
+      [
+       "2026.6",
+       "원자력규제위 환경 검토 통과",
+       "done"
+      ],
+      [
+       "지금",
+       "설비 점검·인허가",
+       "now"
+      ],
+      [
+       "2027",
+       "재가동 목표",
+       ""
+      ]
+     ],
+     "art": "nuke",
+     "img": {
+      "u": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Three_Mile_Island_%28color%29.jpg/1280px-Three_Mile_Island_%28color%29.jpg",
+      "by": "미국 에너지부",
+      "lic": "퍼블릭 도메인",
+      "src": "https://commons.wikimedia.org/wiki/File:Three_Mile_Island_%28color%29.jpg",
+      "cap": "스리마일섬 원전 (1979년 사진) · 다시 켜는 것은 이 가운데 1호기예요",
+      "alt": "냉각탑이 서 있는 원자력 발전소"
+     },
+     "with": "마이크로소프트 (20년 전력 구매)"
+    }
    },
    {
     "id": "doepilot",
@@ -4937,7 +6405,45 @@
       "미 에너지부 · 정리",
       "https://www.energy.gov/node/4859636"
      ]
-    ]
+    ],
+    "x": {
+     "loc": "미국 국립연구소 부지 등",
+     "lead": "미국 에너지부",
+     "about": "새로운 형태의 작은 원자로를 빨리 시험해 보게 하는 정부 프로그램이에요. 대통령이 2026년 7월 4일까지 3기를 임계(연쇄 반응 시작)시키라고 했어요.\n목표보다 많은 4기가 임계에 들어갔고, 2027년부터 실제 발전이 목표예요.",
+     "steps": [
+      [
+       "2025.5",
+       "원자력 행정명령",
+       "done"
+      ],
+      [
+       "2025.8",
+       "참여 회사 선정",
+       "done"
+      ],
+      [
+       "2026.7.4",
+       "4기 임계 (목표 3기)",
+       "done"
+      ],
+      [
+       "2027",
+       "발전 시작 목표",
+       "now"
+      ]
+     ],
+     "art": "nuke",
+     "with": "오클로 등 선정 10개사",
+     "img": {
+      "u": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/The_Advanced_Test_Reactor_at_Idaho_National_Laboratory_%2814676550274%29.jpg/1280px-The_Advanced_Test_Reactor_at_Idaho_National_Laboratory_%2814676550274%29.jpg",
+      "by": "미국 원자력규제위원회",
+      "lic": "퍼블릭 도메인",
+      "src": "https://commons.wikimedia.org/wiki/File:The_Advanced_Test_Reactor_at_Idaho_National_Laboratory_%2814676550274%29.jpg",
+      "cap": "아이다호 국립연구소의 시험 원자로 노심 (푸른빛은 체렌코프 복사)",
+      "alt": "푸른빛을 내는 원자로 노심",
+      "same": false
+     }
+    }
    },
    {
     "id": "natrium",
@@ -4972,7 +6478,45 @@
       "WNN · 메타 원전 계약",
       "https://world-nuclear-news.org/articles/meta-announces-landmark-agreements-for-new-nuclear"
      ]
-    ]
+    ],
+    "x": {
+     "loc": "미국 와이오밍 케머러 (석탄 발전소 자리)",
+     "lead": "테라파워",
+     "size": "{345MW} 소듐냉각로",
+     "about": "물 대신 액체 소듐으로 식히는 차세대 원자로예요. 문 닫는 석탄 발전소 자리에 지어 기존 송전망을 그대로 써요.\n건설허가를 받아 2026년 봄 원자로 공사를 시작했고, 2030년 완공이 목표예요. 메타가 나트리움 원자로를 더 짓는 것을 지원하기로 했어요.",
+     "steps": [
+      [
+       "2024.6",
+       "비원자력 시설 착공",
+       "done"
+      ],
+      [
+       "2026 봄",
+       "건설허가 · 원자로 착공",
+       "done"
+      ],
+      [
+       "지금",
+       "공사",
+       "now"
+      ],
+      [
+       "2030",
+       "완공 목표",
+       ""
+      ]
+     ],
+     "art": "nuke",
+     "with": "GE 버노바 히타치, 메타 (전력 구매)",
+     "img": {
+      "u": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Kemmerer_Power_Station_under_construction_-_Nov_2024.jpg/1280px-Kemmerer_Power_Station_under_construction_-_Nov_2024.jpg",
+      "by": "Stan Mogard",
+      "lic": "CC BY-SA 4.0",
+      "src": "https://commons.wikimedia.org/wiki/File:Kemmerer_Power_Station_under_construction_-_Nov_2024.jpg",
+      "cap": "공사 중인 나트리움 부지 (와이오밍 케머러, 2024.11)",
+      "alt": "공사 중인 발전소 부지"
+     }
+    }
    },
    {
     "id": "dukovany",
@@ -5010,7 +6554,47 @@
       "아이뉴스24 · 일정 유지",
       "https://inews24.com/view/2026035"
      ]
-    ]
+    ],
+    "x": {
+     "country": "체코",
+     "loc": "체코 두코바니 (기존 원전 부지)",
+     "lead": "한국수력원자력 (팀코리아)",
+     "size": "대형 원전 2기",
+     "money": "약 {27조원} 규모 (2025.6 계약)",
+     "about": "한국이 유럽에서 처음 따낸 원전 수출 사업이에요. 지금 돌아가는 두코바니 원전 옆에 새 원전 2기를 지어요.\n2026년 10월 시공사와의 협상이 끝나 시공사를 다시 고르는 중이고, 정부는 비상 점검 체제로 바꿨어요. 2029년 11월 착공 목표는 유지하고 있어요.",
+     "steps": [
+      [
+       "2024.7",
+       "우선협상대상자 선정",
+       "done"
+      ],
+      [
+       "2025.6",
+       "본계약",
+       "done"
+      ],
+      [
+       "2026.10",
+       "시공 협상 종료 · 시공사 재선정",
+       "now"
+      ],
+      [
+       "2029.11",
+       "착공 목표",
+       ""
+      ]
+     ],
+     "art": "nuke",
+     "img": {
+      "u": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Overview_of_cooling_towers_of_Dukovany_Nuclear_Power_Station_near_Dukovany%2C_T%C5%99eb%C3%AD%C4%8D_District.jpg/1280px-Overview_of_cooling_towers_of_Dukovany_Nuclear_Power_Station_near_Dukovany%2C_T%C5%99eb%C3%AD%C4%8D_District.jpg",
+      "by": "Jiří Sedláček",
+      "lic": "CC BY-SA 4.0",
+      "src": "https://commons.wikimedia.org/wiki/File:Overview_of_cooling_towers_of_Dukovany_Nuclear_Power_Station_near_Dukovany%2C_T%C5%99eb%C3%AD%C4%8D_District.jpg",
+      "cap": "지금 돌아가는 두코바니 원전 · 새 원전 2기는 이 부지에 지어요",
+      "alt": "두코바니 원전 냉각탑들"
+     },
+     "with": "두산에너빌리티, 대우건설 (시공 협상 종료), 체코전력공사 자회사 (발주처)"
+    }
    }
   ]
  }
