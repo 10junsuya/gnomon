@@ -1,18 +1,58 @@
 {
-"updated_kst": "2026-11-22 19:30",
-"rot": 64,
+"updated_kst": "2026-11-22 19:44",
+"rot": 124,
 "how": "Scout(프로그램)이 10분마다 모은 기사 제목·링크와 공시예요. Wren이 공식 출처로 확인한 뒤 회사 화면에 한국어로 반영해요. 본문은 받지 않아요.",
 "sources": {
 "Yahoo Finance": "120종목 확인 · 실패 0",
 "CNBC": "63건",
-"Bloomberg": "25건",
+"Bloomberg": "24건",
 "WSJ": "61건",
-"Reuters": "43건",
+"Reuters": "40건",
 "FinancialJuice": "100건",
 "SEC EDGAR": "실패 HTTPError",
 "Fox Business": "50건"
 },
 "items": [
+{
+"id": "d2400c670caf",
+"t": "NVDA",
+"title": "Street Calls of the Week",
+"url": "https://finance.yahoo.com/markets/stocks/articles/street-calls-week-103002019.html?.tsrc=rss",
+"pub": "2026-11-22T10:30:02+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-22T10:44:08+00:00"
+},
+{
+"id": "ef6bb8506521",
+"t": "AMZN",
+"title": "Ordering Groceries Online? How 7 Top Delivery Services Compare on Price",
+"url": "https://finance.yahoo.com/general/articles/instacart-vs-walmart-vs-amazon-190210952.html?.tsrc=rss",
+"pub": "2026-11-22T10:28:31+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-22T10:44:08+00:00"
+},
+{
+"id": "b8c2d54e482a",
+"t": "NVDA",
+"title": "This Pipeline Partnership Raised Its Payout by 12.5% for the Third Straight Year. Here’s How Much Longer It Can Keep That Up.",
+"url": "https://www.fool.com/investing/2026/11/22/this-pipeline-partnership-raised-its-payout-by-125-for-the-third-straight-year-heres-how-much-longer-it-can-keep-that-up/?.tsrc=rss",
+"pub": "2026-11-22T10:27:02+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-22T10:44:08+00:00"
+},
+{
+"id": "63523d8bd516",
+"t": "WMT",
+"title": "TD Cowen Raises Its Walmart Target to $147. Is It Still Too Low?",
+"url": "https://www.tikr.com/blog/td-cowen-raises-its-walmart-target-to-147-is-it-still-too-low?ref=yahoofinance&tlnk=yf-261122-gr23fpjr&.tsrc=rss",
+"pub": "2026-11-22T10:26:03+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-22T10:44:08+00:00"
+},
 {
 "id": "37c53f6defca",
 "t": "AMD",
@@ -54,6 +94,16 @@
 "seen": "2026-11-22T10:30:29+00:00"
 },
 {
+"id": "03a0ada2e888",
+"t": "NVDA",
+"title": "Plot Twist: As CFO, Nvidia’s Interim CEO Said “Over 99%” of Singapore Billings Were for U.S. Customers",
+"url": "https://www.tikr.com/blog/plot-twist-as-cfo-nvidias-interim-ceo-said-over-99-of-singapore-billings-were-for-u-s-customers?ref=yahoofinance&tlnk=yf-261122-mmcx4jc4&.tsrc=rss",
+"pub": "2026-11-22T10:04:27+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-22T10:44:08+00:00"
+},
+{
 "id": "a19e21999807",
 "t": "SPCX",
 "title": "Jason Calacanis Will “Catch Every Knife” With SpaceX, Tesla and Google. Only Some Are Cheap",
@@ -62,6 +112,16 @@
 "src": "Yahoo Finance",
 "kind": "news",
 "seen": "2026-11-22T10:30:29+00:00"
+},
+{
+"id": "4f0c41743c6f",
+"t": "DELL",
+"title": "A battered stock market looks for the bottom: What to watch this week",
+"url": "https://finance.yahoo.com/markets/article/a-battered-stock-market-looks-for-the-bottom-what-to-watch-this-week-100000117.html?.tsrc=rss",
+"pub": "2026-11-22T10:00:00+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-22T10:44:08+00:00"
 },
 {
 "id": "2643c0d7b952",
@@ -7954,64 +8014,24 @@
 "seen": "2026-11-20T19:14:18+00:00"
 },
 {
-"id": "2ac189bca076",
-"t": "NBIS",
-"title": "CoreWeave Stocks Fall 6.10% After Co-Founder's $30 Million Bond Bet Fails to Hold Rally",
-"url": "https://finance.yahoo.com/markets/stocks/articles/coreweave-stocks-fall-6-10-175147592.html?.tsrc=rss",
-"pub": "2026-11-20T17:51:47+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-20T18:14:43+00:00"
+"id": "730625e1b8a6",
+"t": "",
+"title": "Has the AI Bubble Already Burst?",
+"url": "https://www.wsj.com/finance/stocks/has-the-ai-bubble-already-burst-2f1dcca8?mod=rss_markets_main",
+"pub": "2026-11-22T10:30:00+00:00",
+"src": "WSJ",
+"kind": "market",
+"seen": "2026-11-22T10:44:08+00:00"
 },
 {
-"id": "47c33974a8d2",
-"t": "NBIS",
-"title": "Nebius vs. SoundHound AI: Which AI Tech Stock Is a Better Buy for 2027?",
-"url": "https://www.fool.com/coverage/better-buy/2026/11/20/nebius-vs-soundhound-ai-which-ai-tech-stock-is-a-better-buy-for-2027/?.tsrc=rss",
-"pub": "2026-11-20T17:50:02+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-20T18:14:43+00:00"
-},
-{
-"id": "a95a044f2036",
-"t": "ASTS",
-"title": "This Analyst Just Upgraded AST SpaceMobile Stock. Here's Why.",
-"url": "https://www.barchart.com/story/news/8939525/this-analyst-just-upgraded-ast-spacemobile-stock-here-s-why?.tsrc=rss",
-"pub": "2026-11-20T17:48:50+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-21T00:12:19+00:00"
-},
-{
-"id": "cbb4dbef07af",
-"t": "SPCX",
-"title": "SpaceX Just Raised $32 Billion for AI Chips. Lenders Want Elon Musk to Keep Them on Earth.",
-"url": "https://www.fool.com/investing/2026/11/20/spacex-just-raised-32-billion-for-ai-chips-lenders-want-elon-musk-to-keep-them-on-earth/?.tsrc=rss",
-"pub": "2026-11-20T17:48:02+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-20T18:14:43+00:00"
-},
-{
-"id": "82bf102f6b3a",
-"t": "NVDA",
-"title": "Bill Ackman points out a problem Nvidia investors can't ignore",
-"url": "https://www.thestreet.com/investing/stocks/bill-ackman-points-out-a-problem-nvidia-investors-cant-ignore?.tsrc=rss",
-"pub": "2026-11-20T17:47:00+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-20T18:14:43+00:00"
-},
-{
-"id": "a9ed4190b6fe",
-"t": "SPCX",
-"title": "SpaceX Vs. Anthropic: Who Hits a $3 Trillion Valuation First and Why",
-"url": "https://247wallst.com/investing/2026/11/20/spacex-vs-anthropic-who-hits-a-3-trillion-valuation-first-and-why/?.tsrc=rss",
-"pub": "2026-11-20T17:45:20+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-20T18:14:43+00:00"
+"id": "c4219e53773a",
+"t": "",
+"title": "James Bond’s Bare Wrist Sets Off Watch Industry War",
+"url": "https://www.wsj.com/business/retail/james-bonds-bare-wrist-sets-off-watch-industry-war-b6b179a9?mod=rss_markets_main",
+"pub": "2026-11-22T10:30:00+00:00",
+"src": "WSJ",
+"kind": "market",
+"seen": "2026-11-22T10:44:08+00:00"
 },
 {
 "id": "95fdff1faa06",
@@ -8032,6 +8052,16 @@
 "src": "Bloomberg",
 "kind": "market",
 "seen": "2026-11-22T10:14:19+00:00"
+},
+{
+"id": "e234b0bc8c58",
+"t": "",
+"title": "Mizuho Financial Group, Inc. (8411.T) | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9la2JBc0JxMkJXMW9aZzVKMDB2eThLSTJSbkxkZk9laWFOcHJobkRRM0R3QkR4aHZUYXRLLXVacXExOV96c2NxVWhYTjZ0MTE1QUtDMTFpOVJ1S2wwWWc?oc=5",
+"pub": "2026-11-22T09:05:19+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-22T10:44:08+00:00"
 },
 {
 "id": "93c655495de2",
@@ -10982,36 +11012,6 @@
 "src": "Reuters",
 "kind": "market",
 "seen": "2026-11-21T12:10:49+00:00"
-},
-{
-"id": "4cbbc20d7bba",
-"t": "",
-"title": "GLSH.NS%5EC21 - | Stock Price & Latest News - Reuters",
-"url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1LRVNXY1RwbXNHUmw3YU5CQWdqRHo1NHFuQ3hMd0pKVUtxRXpzMFJocWxnSXZHNkEtSV82dDU4cmlfVFVIWWpYZEpjYXlHWVNyTXdIWDYtN3hFMm9LcEdTeWZTYVp4TzFTV1kyc2FDZkZuX2NSVmoyOE1nRkpxMVU?oc=5",
-"pub": "2026-11-21T02:40:19+00:00",
-"src": "Reuters",
-"kind": "market",
-"seen": "2026-11-21T17:28:35+00:00"
-},
-{
-"id": "1938a7b552e8",
-"t": "",
-"title": "ACMR.O%09 - Reuters",
-"url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1zS1E4eVR0SUJ5LUxYQTV2Mjhvelp3S2U5OTFwZkpKX09MMUZkZVI5MmdCaERqQkZWbmxqNUl0XzJoSUhUZUl1dFYwYW1rbW1VcXpUWnVyVThxOEFIYWJJUHZjYmJ0UGFicmk3aA?oc=5",
-"pub": "2026-11-21T02:39:52+00:00",
-"src": "Reuters",
-"kind": "market",
-"seen": "2026-11-21T17:28:35+00:00"
-},
-{
-"id": "25ff7331a6f1",
-"t": "",
-"title": "RHPGbi.SI - | Stock Price & Latest News - Reuters",
-"url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFA1MUh4dGZPVDV6QnMzM1FsSFFsMEMwZy1VLVR6RTNBLV82cTEzajdHSXFZOXZ4MXlseWthNTRlbkgxNnVXdndoTE50eG53N1lkN1hOMlJWcnpaS1dxaDNlVmY3alhESGN0LWpPTHhTYzB1QWljb3RGLWtfaw?oc=5",
-"pub": "2026-11-21T02:38:47+00:00",
-"src": "Reuters",
-"kind": "market",
-"seen": "2026-11-21T17:28:35+00:00"
 }
 ]
 }
