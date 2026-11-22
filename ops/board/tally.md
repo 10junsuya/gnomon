@@ -279,3 +279,10 @@
 - 확신도: 높음
 - 참고: 남은 칸 없는 앱 종목(ETF 제외): LIN·SHOP·GOOG·SATS(ECHO)·IREN·CLS·APH·TTMI·STX·VICR·NXE·DNN.
 - 참고: 앱 다시 게시함(08:3x KST, 버전 271). 지난 게시와 같게 게시용 복사본에서만 CSP meta 한 줄을 뺐어요(저장소 파일은 그대로). 게시본과 차이는 실적 데이터 한 줄뿐이었어요.
+
+### T-20261123-0853-1 · 새 칸 · CLS 실적 카드 (대표 승인 38번에 따라)
+- 시각: 2026-11-23 08:55 KST
+- 내용: 이번 차례 A·B 대상 없음(events.json 지난 earn 일정 모두 done, 다음 확정일은 ADI 11/24 21:00·DELL 11/25). 칸이 없는 앱 종목 중 IREN(11/25 발표 때)·ECHO(사업 분리로 비교 복잡)를 빼고 ETF 비중이 가장 큰 CLS(셀레스티카, 한 ETF에 3.6%) 새 칸. 기간 「3분기 · 2026년 7~9월」: 매출 58.297억 달러(+83%, 1년 전 31.94억 — 8-K 숫자, 계산하면 +82.5%), CCS 48.7억(+102%)·ATS 9.6억(+23%), 회계 EPS 3.26달러, 조정 EPS 3.30달러(1년 전 1.58), 조정 영업이익률 8.5%. 다음 분기(10~12월) 회사 전망 매출 62.75억~65.75억 → guide, 2026년 210억(전 205억)·2027년 첫 전망 400억. 발표 전 매출 예상 est 53.9억(FMP, 출처 미표시), 24/7 Wall St. 54.6억 — note 에 범위. 다음 분기 cons 확인 못 해 null. 다음 발표일 공지 없음 → "2027년 1월 말 (예상 · 회사 발표일 공지 전)", 새 일정 안 넣음. CCS 합계는 money.json CLS(네트워킹 32.63억+컴퓨트·스토리지 16.09억)와 같아요. 회사 발표 2026-10-26 장 마감 후(한국 10/27 새벽), 반영 2026-11-23 08:55 KST.
+- 출처: [셀레스티카 3분기 실적 발표 (SEC 8-K)](https://www.sec.gov/Archives/edgar/data/0001030894/000103089426000049/cls-20260930prcondensedfs.htm) · [FMP](https://site.financialmodelingprep.com/market-news/celestica-q3-2026-results-beat-estimates) · [24/7 Wall St.](https://247wallst.com/cards/celestica-q3-2026-earnings-cls-01m5wye16dkezbw1zs666n1v2m) · 공식 여부: 공식(실적) / 보도(예상치)
+- 확신도: 높음 (실적은 8-K 본문 / 예상치는 출처를 밝히지 않은 매체 두 곳)
+- 참고: 남은 칸 없는 앱 종목(ETF 제외): LIN·SHOP·GOOG·SATS(ECHO)·IREN·APH·TTMI·STX·VICR·NXE·DNN.
