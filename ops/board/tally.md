@@ -247,3 +247,10 @@
 - 확신도: 높음 (예상치는 매체 정리, 집계 기관 이름은 확인 못 함)
 - 참고: 남은 칸 없는 앱 종목(ETF 제외): LIN·SHOP·GOOG·SATS(ECHO)·IREN·APLD·CLS·CBRS·APH·TTMI·STX·MA·FFIV·VICR·NXE·DNN.
 - 참고: 앱 다시 게시함(06:27 KST, 버전 267). 지난 게시와 같게 게시용 복사본에서만 CSP meta 한 줄을 뺐어요(저장소 파일은 그대로). 게시본과 차이는 실적 데이터 한 줄뿐이었어요.
+
+### T-20261123-0653-1 · 새 칸 · APLD 실적 카드 (대표 승인 38번에 따라)
+- 시각: 2026-11-23 06:56 KST
+- 내용: 이번 차례 A·B 대상 없음(events.json 지난 earn 일정 모두 done, earnings.json next.when 가장 빠른 확정일은 ADI·DELL 11/24). 칸이 없는 앱 종목 중 IREN(11/25 발표 때)·ECHO(사업 분리로 비교 복잡)를 빼고 ETF 비중이 가장 큰 APLD(한 ETF에 7.0%) 새 칸. 기간 「FY27 1분기 · 2026년 6~8월」: 매출 3.419억 달러(+322%, 1년 전 8,093만 — 회사 발표 표 숫자, 성장률은 계산해 맞춰 봄), HPC 호스팅 2.626억(입주 맞춤 공사 1.835억·기본 임대료 6,580만·운영비 청구 1,330만), 조정 EBITDA 6,440만(1년 전 50만), 계속 사업 순손실 2.21억(주당 −0.76달러), 조정 매출(크로노스케일 제외) 3.004억(1년 전 6,420만). 회사 매출 전망 없음 → guide null, gtext 에 노스다코타 300MW(2026년 말) 계획. 발표 전 매출 예상 est 1.34억(Zacks, 24/7 Wall St 는 1.25억 — note 에 범위), 다음 분기 cons 확인 못 해 null. 다음 발표일 공지 없음 → "2027년 1월 중순 (예상 · 회사 발표일 공지 전)", 새 일정 안 넣음. 숫자는 money.json APLD 와 같아요. 회사 발표 2026-10-07 장 마감 후, 반영 2026-11-23 06:56 KST.
+- 출처: [어플라이드 디지털 1분기 실적 발표 (GlobeNewswire 전재, MENAFN)](https://menafn.com/1111777097/Applied-Digital-Reports-Fiscal-First-Quarter-2027-Results) · [Zacks](https://www.zacks.com/stock/news/3003018/applied-digital-q1-earnings-miss-on-higher-costs-revenues-beat) · [24/7 Wall St](https://247wallst.com/cards/applied-digital-q1-2027-earnings-apld-01m4c1yz8n3e757hmdzsq1qbv1) · 공식 여부: 공식(실적, 전재본) / 보도(예상치)
+- 확신도: 높음 (GlobeNewswire 원문 사이트는 열리지 않아 전재본으로 확인 · 뒷부분 표는 요약으로만 봄)
+- 참고: 남은 칸 없는 앱 종목(ETF 제외): LIN·SHOP·GOOG·SATS(ECHO)·IREN·CLS·CBRS·APH·TTMI·STX·MA·FFIV·VICR·NXE·DNN.
