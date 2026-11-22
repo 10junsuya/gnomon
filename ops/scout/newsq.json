@@ -1,18 +1,78 @@
 {
-"updated_kst": "2026-11-23 04:15",
-"rot": 73,
+"updated_kst": "2026-11-23 04:44",
+"rot": 133,
 "how": "Scout(프로그램)이 10분마다 모은 기사 제목·링크와 공시예요. Wren이 공식 출처로 확인한 뒤 회사 화면에 한국어로 반영해요. 본문은 받지 않아요.",
 "sources": {
 "Yahoo Finance": "120종목 확인 · 실패 0",
 "CNBC": "63건",
 "Bloomberg": "25건",
 "WSJ": "61건",
-"Reuters": "45건",
+"Reuters": "58건",
 "FinancialJuice": "100건",
 "SEC EDGAR": "실패 HTTPError",
 "Fox Business": "50건"
 },
 "items": [
+{
+"id": "e0710cd20a97",
+"t": "BABA",
+"title": "Alibaba vs. Booking Holdings: Which E-Commerce Retail Stock Is a Better Buy for 2027?",
+"url": "https://www.fool.com/coverage/better-buy/2026/11/22/alibaba-vs-booking-holdings-which-e-commerce-retail-stock-is-a-better-buy-for-2027/?.tsrc=rss",
+"pub": "2026-11-22T19:33:02+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-22T19:44:27+00:00"
+},
+{
+"id": "782c43d547f1",
+"t": "MSFT",
+"title": "Marriott hotels announce major shake-up affecting over 500 workers",
+"url": "https://www.thestreet.com/employment/marriott-hotels-announce-major-shake-up-affecting-over-500-workers?.tsrc=rss",
+"pub": "2026-11-22T19:33:00+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-22T19:44:27+00:00"
+},
+{
+"id": "2787fa9c9dde",
+"t": "AVGO",
+"title": "Here's What a $1,000 Investment in Broadcom Stock Could Be Worth By 2035",
+"url": "https://www.fool.com/investing/2026/11/22/here-s-what-a-usd1-000-investment-in-broadcom-stock-could-be-worth-by-2035/?.tsrc=rss",
+"pub": "2026-11-22T19:22:02+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-22T19:44:27+00:00"
+},
+{
+"id": "a60550e5ec33",
+"t": "INTC",
+"title": "Intel announces more layoffs as workforce shrinks by 7,300",
+"url": "https://www.thestreet.com/technology/intel-announces-more-layoffs-as-workforce-shrinks-by-7300?.tsrc=rss",
+"pub": "2026-11-22T19:17:00+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-22T19:44:27+00:00"
+},
+{
+"id": "340a3119fc15",
+"t": "NVDA",
+"title": "Cognizant Technology Solutions (CTSH) Puts AI To Work In Healthcare And Cybersecurity",
+"url": "https://finance.yahoo.com/technology/ai/articles/cognizant-technology-solutions-ctsh-puts-190639419.html?.tsrc=rss",
+"pub": "2026-11-22T19:06:39+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-22T19:44:27+00:00"
+},
+{
+"id": "5155416b6473",
+"t": "NVDA",
+"title": "Walmart Has Raised Its Dividend 53 Straight Years. I'd Buy It Before December and Never Sell.",
+"url": "https://www.fool.com/investing/2026/11/22/walmart-has-raised-its-dividend-53-straight-years-id-buy-it-before-december-and-never-sell/?.tsrc=rss",
+"pub": "2026-11-22T19:05:02+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-22T19:44:27+00:00"
+},
 {
 "id": "487c0aa94290",
 "t": "MSFT",
@@ -7954,66 +8014,6 @@
 "seen": "2026-11-20T20:44:19+00:00"
 },
 {
-"id": "b5c9c6291443",
-"t": "UTHR",
-"title": "United Therapeutics (UTHR) Stock May Be Below Fair Value Following EXTEND Trial Transplant News",
-"url": "https://finance.yahoo.com/markets/stocks/articles/united-therapeutics-uthr-stock-may-201537081.html?.tsrc=rss",
-"pub": "2026-11-20T20:15:37+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-20T20:44:19+00:00"
-},
-{
-"id": "166d87536ba8",
-"t": "NVDA",
-"title": "GTA VI Boasts a Record-Breaking Launch With $3.79 Billion In Day One Sales. Is It Time to Buy Take-Two Stock?",
-"url": "https://www.fool.com/investing/2026/11/20/gta-vi-boasts-a-record-breaking-launch-with-usd3-79-billion-in-day-one-sales-is-it-time-to-buy-take-two-stock/?.tsrc=rss",
-"pub": "2026-11-20T20:15:22+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-20T20:36:06+00:00"
-},
-{
-"id": "aef7be28d6b5",
-"t": "PEP",
-"title": "PepsiCo (PEP) Lands Hyatt Deal On A Fair Value Debate",
-"url": "https://finance.yahoo.com/markets/stocks/articles/pepsico-pep-lands-hyatt-deal-201401098.html?.tsrc=rss",
-"pub": "2026-11-20T20:14:01+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-20T20:36:06+00:00"
-},
-{
-"id": "5cd61601a104",
-"t": "LLY",
-"title": "Eli Lilly (LLY) After ObesityWeek Is The Stock Still Undervalued",
-"url": "https://finance.yahoo.com/markets/stocks/articles/eli-lilly-lly-obesityweek-stock-201358942.html?.tsrc=rss",
-"pub": "2026-11-20T20:13:58+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-20T20:36:06+00:00"
-},
-{
-"id": "7f8e89924a76",
-"t": "BE",
-"title": "Bloom Energy (BE) Says Its Fuel Cells Can Power AI Data Centers Within Months",
-"url": "https://finance.yahoo.com/technology/ai/articles/bloom-energy-says-fuel-cells-201336479.html?.tsrc=rss",
-"pub": "2026-11-20T20:13:36+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-20T20:36:06+00:00"
-},
-{
-"id": "d656bebf458f",
-"t": "KO",
-"title": "Coca-Cola (KO) After ETF Selling Is It Still Fairly Valued",
-"url": "https://finance.yahoo.com/markets/stocks/articles/coca-cola-ko-etf-selling-201320830.html?.tsrc=rss",
-"pub": "2026-11-20T20:13:20+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-20T20:36:06+00:00"
-},
-{
 "id": "bb031ac9d17a",
 "t": "",
 "title": "Goldman Traders See Entry Point in US Stocks But Warn of Risks",
@@ -8504,6 +8504,16 @@
 "seen": "2026-11-22T15:14:28+00:00"
 },
 {
+"id": "3d7798da2b35",
+"t": "",
+"title": "First Carolina Financial Services Inc (FCBM.N) | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9DRGoyU1BIZ2xVTnNvdjVaUzZ6ejBrM1NWd3BnbHpPeU9SNEtwNHdPYjctd0VaczRJS0dJeWZIdDNnRkotUlpXS0hXaDFiX09hWEhsV005Wk90OFFqRG93Tlo4T2xnc0k?oc=5",
+"pub": "2026-11-22T13:26:51+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-22T19:44:27+00:00"
+},
+{
 "id": "0985be62eab7",
 "t": "",
 "title": "Why Your Health Insurance Keeps Getting More Expensive",
@@ -8602,6 +8612,16 @@
 "src": "Reuters",
 "kind": "market",
 "seen": "2026-11-22T18:58:56+00:00"
+},
+{
+"id": "e37faf35dde7",
+"t": "",
+"title": "4956.JNX - | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNVHlNYWNJSTBHM1JLay1JcDlzNm9hOFlxNEVWOFdKUm85eW53WDlsaFcxanlhQTduSTVmYnozY0Uzb1hVYVFoTUFpRUJJX0JHV3psZ2ZHTFgwRjRubjN6d282SGhWcDlsanFxTVcwY2xzOWI5NmF5X2VJYkRFODJCZHFWRTMzQUU?oc=5",
+"pub": "2026-11-22T12:57:10+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-22T19:44:27+00:00"
 },
 {
 "id": "3f79263738d2",
@@ -8864,6 +8884,16 @@
 "seen": "2026-11-22T12:14:51+00:00"
 },
 {
+"id": "fdb6e01f07fc",
+"t": "",
+"title": "Atlas Arteria Group (M82.MU) | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE15Z1JLeEowVnBmeXpHVlJ6S0FyRDlnbklLQU5GVVp6Q1lMdy11QkpoTncwWHo1NGRXN2pPOEZaWXJsTTQteHBhTTB4ZVlHTml1OGFRS2Uwd1FTRUJhcy05TE51RnpYdWt4OHc0?oc=5",
+"pub": "2026-11-22T09:24:31+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-22T19:44:27+00:00"
+},
+{
 "id": "b7a042ff5f6c",
 "t": "",
 "title": "WFR.L - | Stock Price & Latest News - Reuters",
@@ -9122,6 +9152,16 @@
 "src": "Reuters",
 "kind": "market",
 "seen": "2026-11-22T16:13:46+00:00"
+},
+{
+"id": "671e4f115a48",
+"t": "",
+"title": "Daiwa iFreeETF TOPIX Inverse (-1x) Index (1457.T) | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE83S2RwZFhSVzlROHczczl6YjlMOTg4THljQ2FjNGhUMFkwZ1MzaXRxVWVtUmFHVTFmSUxJSWFERVJheGdOSm1RQmszX1VKS2VLQVVSUWxIQ01RaFAwQ0JDTmo4YUZQendKbnhB?oc=5",
+"pub": "2026-11-22T02:48:21+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-22T19:44:27+00:00"
 },
 {
 "id": "69ca35b35188",
@@ -10972,46 +11012,6 @@
 "src": "Reuters",
 "kind": "market",
 "seen": "2026-11-22T05:41:13+00:00"
-},
-{
-"id": "cf246d8c33bf",
-"t": "",
-"title": "Fidelity Advantage Ether ETF Series L (FETH.TO) | Stock Price & Latest News - Reuters",
-"url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5ERkVsSGZrMURiX3JjS244ckl1dTdySWp3QzMzUnJCZGc0bkg3WXh2WnpJQTVkN1h1TmREMFp0N09idHY2a3FueWN0Q0xyT1g0Y01wUHJkV2pyTnpoUm5B?oc=5",
-"pub": "2026-11-21T12:46:10+00:00",
-"src": "Reuters",
-"kind": "market",
-"seen": "2026-11-21T20:43:38+00:00"
-},
-{
-"id": "1900e89b7df1",
-"t": "",
-"title": "MEVO.O - | Stock Price & Latest News - Reuters",
-"url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE4yY3M4aU45QkUwNmJxdUI5UzhjZmRxTDZwODJMLU8wbHdpSmJhYUFjd1lLMUxfcHZaQlF6bUhDNnZRVUd0TUdvN2JTQ2FqUjVCNjMzb05QVlhGZGNobi1lbG9oOG5EenVoNnZMbTln?oc=5",
-"pub": "2026-11-21T12:44:29+00:00",
-"src": "Reuters",
-"kind": "market",
-"seen": "2026-11-21T17:44:46+00:00"
-},
-{
-"id": "7885da1f886e",
-"t": "",
-"title": "M Evo Global Acquisition Corp II (MEVO.O) | Stock Price & Latest News - Reuters",
-"url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1iS2tiY0FhdHFBOXdKVFE4ZWhha09nQkZBNzBqM2kyVkV3SG9YbnN5OUQ0dTZ1cGo0TkNXNW04a2U2cUpNQllaRjh2SDg4RnE3eUpFd19nb01JX2RKRGREeFBjWnpsN0dPa193?oc=5",
-"pub": "2026-11-21T12:43:06+00:00",
-"src": "Reuters",
-"kind": "market",
-"seen": "2026-11-21T21:31:18+00:00"
-},
-{
-"id": "19e5d3e2d1a5",
-"t": "",
-"title": "7GE.LAS - | Stock Price & Latest News - Reuters",
-"url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1YN2FLVHBNYzRYT2xENlowRXlYT0FEWnROS1VkdmpRYjExejI0NTBqenFVTndLYmVGeklCYVQta2VWVTZoa0NNNDRfQTlUNFBTWUxQczNaNXZYdVBIcm9vM2pkMmY0ZjB3ZlBobHhIYzVVLWJIT2pLUHJR?oc=5",
-"pub": "2026-11-21T12:42:37+00:00",
-"src": "Reuters",
-"kind": "market",
-"seen": "2026-11-21T18:44:40+00:00"
 }
 ]
 }
