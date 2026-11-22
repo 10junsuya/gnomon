@@ -271,3 +271,10 @@
 - 확신도: 높음 (실적 숫자는 8-K 표 / 다음 분기 전망은 매체 정리)
 - 참고: 남은 칸 없는 앱 종목(ETF 제외): LIN·SHOP·GOOG·SATS(ECHO)·IREN·CLS·APH·TTMI·STX·FFIV·VICR·NXE·DNN.
 - 참고: 앱 다시 게시함(08:0x KST, 버전 270). 지난 게시와 같게 게시용 복사본에서만 CSP meta 한 줄을 뺐어요(저장소 파일은 그대로). 게시본과 차이는 실적 데이터 한 줄뿐이었어요.
+
+### T-20261123-0823-1 · 새 칸 · FFIV 실적 카드 (대표 승인 38번에 따라)
+- 시각: 2026-11-23 08:3x KST
+- 내용: 이번 차례 A·B 대상 없음(events.json 지난 earn 일정 모두 done, earnings.json next.when 가장 빠른 확정일은 ADI·DELL 11/24). 칸이 없는 앱 종목 중 IREN(11/25 발표 때)·ECHO(사업 분리로 비교 복잡)를 빼고 ETF 비중이 가장 큰 FFIV(F5, 한 ETF에 4.4%) 새 칸. 기간 「FY26 4분기 · 2026년 7~9월」: 매출 9.174억 달러(+13%, 1년 전 8.101억 — 8-K 표 숫자, 성장률은 계산해 맞춰 봄), 제품 5.098억(+23%, 장비 2.39억 +29%·소프트웨어 2.71억 +19%), 서비스 4.077억(+3%), 조정 EPS 4.42달러(예상 4.24, 1년 전 4.39), 회계 EPS 3.23달러. 다음 분기(10~12월) 회사 전망 매출 8.75억~8.95억 → guide, FY27 매출 +8~9%·조정 EPS 18.00~18.30달러. 발표 전 매출 예상 est 8.844억(Zacks), 다음 분기 cons 확인 못 해 null(note 에 밝힘). 다음 발표일 공지 없음 → "2027년 1월 말 (예상 · 회사 발표일 공지 전)", 새 일정 안 넣음. 숫자는 money.json FFIV 와 같아요. 회사 발표 2026-10-27 장 마감 후, 반영 2026-11-23 08:3x KST.
+- 출처: [F5 4분기 실적 발표 (SEC 8-K)](https://www.sec.gov/Archives/edgar/data/0001048695/000104869526000074/ex991-q426earningsreleasef.htm) · [Zacks 예상 비교](https://zacks.com/stock/news/3016515/f5-ffiv-q4-earnings-taking-a-look-at-key-metrics-versus-estimates) · [Earnings Whispers (finviz)](https://finviz.com/news/409527/f5-beats-on-an-ai-fueled-product-surge-but-fy27-becomes-an-investment-year-as-margins-and-cash-flow-compress) · 공식 여부: 공식(실적) / 보도(예상치)
+- 확신도: 높음
+- 참고: 남은 칸 없는 앱 종목(ETF 제외): LIN·SHOP·GOOG·SATS(ECHO)·IREN·CLS·APH·TTMI·STX·VICR·NXE·DNN.
