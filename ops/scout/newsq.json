@@ -1,18 +1,58 @@
 {
-"updated_kst": "2026-11-23 00:14",
-"rot": 69,
+"updated_kst": "2026-11-23 00:43",
+"rot": 129,
 "how": "Scout(프로그램)이 10분마다 모은 기사 제목·링크와 공시예요. Wren이 공식 출처로 확인한 뒤 회사 화면에 한국어로 반영해요. 본문은 받지 않아요.",
 "sources": {
 "Yahoo Finance": "120종목 확인 · 실패 0",
 "CNBC": "63건",
-"Bloomberg": "23건",
+"Bloomberg": "21건",
 "WSJ": "61건",
-"Reuters": "47건",
+"Reuters": "40건",
 "FinancialJuice": "100건",
 "SEC EDGAR": "실패 HTTPError",
 "Fox Business": "50건"
 },
 "items": [
+{
+"id": "aacd7e587120",
+"t": "NVDA",
+"title": "Gilead Sciences Has Raised Its Dividend for 11 Straight Years. Here’s Why the Streak Looks Safe.",
+"url": "https://www.fool.com/investing/2026/11/22/gilead-sciences-has-raised-its-dividend-for-11-straight-years-heres-why-the-streak-looks-safe/?.tsrc=rss",
+"pub": "2026-11-22T15:13:02+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-22T15:43:58+00:00"
+},
+{
+"id": "c26598d8b484",
+"t": "AVGO",
+"title": "Broadcom (AVGO) Faces Reported AI Chip Order Cut From A Major Customer",
+"url": "https://finance.yahoo.com/technology/ai/articles/broadcom-avgo-faces-reported-ai-150805371.html?.tsrc=rss",
+"pub": "2026-11-22T15:08:05+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-22T15:43:58+00:00"
+},
+{
+"id": "544f00e301c2",
+"t": "WMT",
+"title": "Walmart makes tough decision that may upset shoppers",
+"url": "https://www.thestreet.com/retail/walmart-closed-thanksgiving-christmas-2026?.tsrc=rss",
+"pub": "2026-11-22T15:07:00+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-22T15:43:58+00:00"
+},
+{
+"id": "85efdb16bc45",
+"t": "JPM",
+"title": "Trump Backs a 10% Card Rate Cap With Democrats. That’s a Big Risk for JPMorgan and Citigroup",
+"url": "https://www.tikr.com/blog/trump-backs-a-10-card-rate-cap-with-democrats-thats-a-big-risk-for-jpmorgan-and-citigroup?ref=yahoofinance&tlnk=yf-261122-ggq552qx&.tsrc=rss",
+"pub": "2026-11-22T15:05:23+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-22T15:43:58+00:00"
+},
 {
 "id": "cc0fbff26db8",
 "t": "KO",
@@ -824,6 +864,16 @@
 "seen": "2026-11-22T10:30:29+00:00"
 },
 {
+"id": "92a5a1f16228",
+"t": "V",
+"title": "20 Big Funds Bought Mastercard Last Quarter, While 18 Sold. Who’s Right?",
+"url": "https://www.tikr.com/blog/20-big-funds-bought-mastercard-last-quarter-while-18-sold-whos-right?ref=yahoofinance&tlnk=yf-261122-q85v7m2c&.tsrc=rss",
+"pub": "2026-11-22T10:19:12+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-22T15:43:58+00:00"
+},
+{
 "id": "d2ec897250e3",
 "t": "FFIV",
 "title": "F5 Sees AI and Software Renewals Driving Growth After $100 Million in AI Bookings",
@@ -1452,6 +1502,16 @@
 "src": "Yahoo Finance",
 "kind": "news",
 "seen": "2026-11-22T01:13:48+00:00"
+},
+{
+"id": "6a268aa199f0",
+"t": "TSLA",
+"title": "5 big analyst AI moves: Nvidia downgrade, Anthropic seen as ’generational company’",
+"url": "https://finance.yahoo.com/technology/ai/articles/5-big-analyst-ai-moves-004732439.html?.tsrc=rss",
+"pub": "2026-11-22T00:47:32+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-22T15:43:58+00:00"
 },
 {
 "id": "73c5c956bb89",
@@ -7954,64 +8014,94 @@
 "seen": "2026-11-20T19:14:18+00:00"
 },
 {
-"id": "4d751247e212",
-"t": "MSFT",
-"title": "How Microsoft’s (MSFT) Valuation Crashed From 75x to 10x – Even as Earnings Kept Growing",
-"url": "https://finance.yahoo.com/markets/stocks/articles/microsoft-msft-valuation-crashed-75x-185012363.html?.tsrc=rss",
-"pub": "2026-11-20T18:50:12+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-20T19:14:18+00:00"
+"id": "eef13c3d837d",
+"t": "",
+"title": "US Treasury Secretary Bessent: need to determine which level of Nvidia business was aware, confident committees are swiftly seeking answers - CBS",
+"url": "https://www.financialjuice.com/News/9863475/US-Treasury-Secretary-Bessent-need-to-determine-which-level-of-Nvidia-business-was-aware-confident-committees-are-swiftly-seeking-answers---CBS.aspx?xy=rss",
+"pub": "2026-11-22T15:41:28+00:00",
+"src": "FinancialJuice",
+"kind": "market",
+"seen": "2026-11-22T15:43:58+00:00"
 },
 {
-"id": "a2369d344649",
-"t": "SPCX",
-"title": "Forget SpaceX: This Stock Could Be the Real Winner of the Space Race",
-"url": "https://www.fool.com/investing/2026/11/20/forget-spacex-this-stock-could-be-the-real-winner-of-the-space-race/?.tsrc=rss",
-"pub": "2026-11-20T18:50:02+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-20T19:14:18+00:00"
+"id": "65a948f8ebff",
+"t": "",
+"title": "US Treasury Secretary Bessent: we need to find where the buck stops",
+"url": "https://www.financialjuice.com/News/9863474/US-Treasury-Secretary-Bessent-we-need-to-find-where-the-buck-stops.aspx?xy=rss",
+"pub": "2026-11-22T15:41:28+00:00",
+"src": "FinancialJuice",
+"kind": "market",
+"seen": "2026-11-22T15:43:58+00:00"
 },
 {
-"id": "028340cf1419",
-"t": "RDW",
-"title": "AST SpaceMobile vs. Redwire: Which Space Infrastructure Stock Is a Better Buy for 2027?",
-"url": "https://www.fool.com/coverage/better-buy/2026/11/20/ast-spacemobile-vs-redwire-which-space-infrastructure-stock-is-a-better-buy-for-2027/?.tsrc=rss",
-"pub": "2026-11-20T18:50:02+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-20T19:14:18+00:00"
+"id": "cb54e2d15eaa",
+"t": "",
+"title": "US Treasury Secretary Bessent: need to identify who led compliance at Nvidia - CBS",
+"url": "https://www.financialjuice.com/News/9863473/US-Treasury-Secretary-Bessent-need-to-identify-who-led-compliance-at-Nvidia---CBS.aspx?xy=rss",
+"pub": "2026-11-22T15:41:04+00:00",
+"src": "FinancialJuice",
+"kind": "market",
+"seen": "2026-11-22T15:43:58+00:00"
 },
 {
-"id": "08e8cdc988a0",
-"t": "NVDA",
-"title": "SemiAnalysis Just Slashed Its AI Compute Forecast by $608 Billion",
-"url": "https://247wallst.com/videos/semianalysis-just-slashed-its-ai-compute-forecast-by-608-billion/?.tsrc=rss",
-"pub": "2026-11-20T18:49:46+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-20T19:14:18+00:00"
+"id": "10168c8e68e8",
+"t": "",
+"title": "US Treasury Secretary Bessent: what level of Nvidia business we need to see",
+"url": "https://www.financialjuice.com/News/9863472/US-Treasury-Secretary-Bessent-what-level-of-Nvidia-business-we-need-to-see.aspx?xy=rss",
+"pub": "2026-11-22T15:41:04+00:00",
+"src": "FinancialJuice",
+"kind": "market",
+"seen": "2026-11-22T15:43:58+00:00"
 },
 {
-"id": "3f88cf668023",
-"t": "GOOGL",
-"title": "Apple “Has No Idea What It’s Doing” in AI. Oh, and It’s Building Its Own AI Agent Too",
-"url": "https://www.tikr.com/blog/apple-has-no-idea-what-its-doing-in-ai-oh-and-its-building-its-own-ai-agent-too?ref=yahoofinance&tlnk=yf-261120-jcvh6wc4&.tsrc=rss",
-"pub": "2026-11-20T18:49:00+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-20T19:14:18+00:00"
+"id": "bd655bdffd60",
+"t": "",
+"title": "Knew about this, confident committees moving quickly to find answers: CBS",
+"url": "https://www.financialjuice.com/News/9863471/Knew-about-this-confident-committees-moving-quickly-to-find-answers-CBS.aspx?xy=rss",
+"pub": "2026-11-22T15:41:04+00:00",
+"src": "FinancialJuice",
+"kind": "market",
+"seen": "2026-11-22T15:43:58+00:00"
 },
 {
-"id": "8dea7ced7991",
-"t": "SPCX",
-"title": "Jim Cramer now sees a buying opportunity in beaten-down space stock",
-"url": "https://www.thestreet.com/investing/stocks/rocket-lab-jim-cramer-says-rklb-has-gotten-too-cheap-after-electrons-100th-launch-sees-buying-opportunity?.tsrc=rss",
-"pub": "2026-11-20T18:47:00+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-20T19:14:18+00:00"
+"id": "f3d3dd32fe8b",
+"t": "",
+"title": "US Treasury Secretary Bessent: no answers yet on Nvidia chip sales to China, we need clarity",
+"url": "https://www.financialjuice.com/News/9863470/US-Treasury-Secretary-Bessent-no-answers-yet-on-Nvidia-chip-sales-to-China-we-need-clarity.aspx?xy=rss",
+"pub": "2026-11-22T15:38:29+00:00",
+"src": "FinancialJuice",
+"kind": "market",
+"seen": "2026-11-22T15:43:58+00:00"
+},
+{
+"id": "ab495253f16b",
+"t": "",
+"title": "Yardeni Cuts S&P 500 Target Again, Says Bear Market Is Unlikely",
+"url": "https://www.bloomberg.com/news/articles/2026-11-22/yardeni-cuts-s-p-500-target-again-says-bear-market-is-unlikely",
+"pub": "2026-11-22T15:18:13+00:00",
+"src": "Bloomberg",
+"kind": "market",
+"seen": "2026-11-22T15:43:58+00:00"
+},
+{
+"id": "e791d01d2b6f",
+"t": "",
+"title": "Investors Brave Stock Market ‘Fragility’ as AI Trade Falters",
+"url": "https://www.bloomberg.com/news/articles/2026-11-22/investors-brave-stock-market-fragility-as-ai-trade-falters",
+"pub": "2026-11-22T15:00:00+00:00",
+"src": "Bloomberg",
+"kind": "market",
+"seen": "2026-11-22T15:43:58+00:00"
+},
+{
+"id": "9020aeaad346",
+"t": "",
+"title": "Chile Central Bank Chief Says Economic Recovery May Take Longer",
+"url": "https://www.bloomberg.com/news/articles/2026-11-22/chile-central-bank-head-tells-newspaper-recovery-may-take-longer",
+"pub": "2026-11-22T14:47:30+00:00",
+"src": "Bloomberg",
+"kind": "market",
+"seen": "2026-11-22T15:43:58+00:00"
 },
 {
 "id": "01aedb7040e6",
@@ -8142,6 +8232,36 @@
 "src": "Reuters",
 "kind": "market",
 "seen": "2026-11-22T15:14:28+00:00"
+},
+{
+"id": "e37faf35dde7",
+"t": "",
+"title": "4956.JNX - | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNVHlNYWNJSTBHM1JLay1JcDlzNm9hOFlxNEVWOFdKUm85eW53WDlsaFcxanlhQTduSTVmYnozY0Uzb1hVYVFoTUFpRUJJX0JHV3psZ2ZHTFgwRjRubjN6d282SGhWcDlsanFxTVcwY2xzOWI5NmF5X2VJYkRFODJCZHFWRTMzQUU?oc=5",
+"pub": "2026-11-22T12:57:10+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-22T15:43:58+00:00"
+},
+{
+"id": "8cd4bfe1e581",
+"t": "",
+"title": "QGEN.DY - Reuters",
+"url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBvMjJpQzdOekhzU2V3VkdjY3RFb3JPVzlDU3FkdUNleHVGQVVJcHB5b2hoUFBCOXFxUzVjV2FpRzdOQjFuUGNGR1piaHdvMU1NMFo1V1BTV3ZuZXNORGNQRG5YVFZ0QWZBZXVGdHVR?oc=5",
+"pub": "2026-11-22T12:56:09+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-22T15:43:58+00:00"
+},
+{
+"id": "82d8b5519f46",
+"t": "",
+"title": "SBZ.AX - | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE05WnBIOEUyZXo0TC1sUmctRGE0R3BHVTZxNnd1bzNVRDRKYXJUamtDVEtYNjQxbjJZSDlxSmVtVmhIQ3E4TUFQcDlQaXZWdzVxSlI2Q2NxaWtwc2N3LUtRQWwwbTcyYU12UGFWR2R1cw?oc=5",
+"pub": "2026-11-22T12:55:20+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-22T15:43:58+00:00"
 },
 {
 "id": "2a2a49dd2b86",
@@ -8374,6 +8494,16 @@
 "seen": "2026-11-22T08:14:33+00:00"
 },
 {
+"id": "e2ada545d6fa",
+"t": "",
+"title": "002270.SZ - | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9UUVlXQW1LTTVHMHZVSjYtZUhsakFFeHFVZlhKN2JJLWZPX1plWGtCVXAtSVB0MExzYjU3UW1xN1E0d09xU0tUTEYtbHpwY1pKUGxneWRLMnZOODNVZldZOUtmNUNLQU5mYkM0WHVyMzFFSUxKRXhkRzdmZHE?oc=5",
+"pub": "2026-11-22T06:50:15+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-22T15:43:58+00:00"
+},
+{
 "id": "c81bd239b32c",
 "t": "",
 "title": "6498JPY.JPx - Reuters",
@@ -8382,6 +8512,16 @@
 "src": "Reuters",
 "kind": "market",
 "seen": "2026-11-22T11:21:57+00:00"
+},
+{
+"id": "c6b3cb28cc0a",
+"t": "",
+"title": "6498JPY.JPx - Reuters",
+"url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9rX25COTJyWm10eWk5M242UTFpWU9HLXZXck8xbmY3eVlXU05ZZnZEa29MUGwyNnEyZ0RUck5UaWFGcUNRYWtScFQyUkFFYkthdGM2ZUVpZFpMa2ZxazhGT0daVnRhUnNxOEMzazRpaVk4cE0?oc=5",
+"pub": "2026-11-22T05:25:26+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-22T15:43:58+00:00"
 },
 {
 "id": "f640d09cf0ba",
@@ -8484,6 +8624,16 @@
 "seen": "2026-11-22T07:56:09+00:00"
 },
 {
+"id": "b6436e60e2fd",
+"t": "",
+"title": "0255.BE%5EA12 - | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9CdWRhTW1fQmsxeFkwNHZPN3Fjc2gwN2YzSEFicEFfWkFBU256QzBrUGVLLVdKNHdQT242ZDRtRE1Yb3Z4ZUFmMko0YmF5V3VpUm11bnQtZ3hCbHpKTlZ1bm5SQU1kTk90X1ZhN2pGX0tTdw?oc=5",
+"pub": "2026-11-22T02:55:19+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-22T15:43:58+00:00"
+},
+{
 "id": "b2af1f79a699",
 "t": "",
 "title": "MGNM.NS - Reuters",
@@ -8572,6 +8722,16 @@
 "src": "Reuters",
 "kind": "market",
 "seen": "2026-11-22T07:56:09+00:00"
+},
+{
+"id": "b1cd99b2f344",
+"t": "",
+"title": "2DJ.LAS - | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPMy1VOVNiREFJaHNOLWxObzgycEl0Xzh0VXREanJvVXNqY2kwbF9oZ3JHWllPVG0weWVYWTMyVGFVVlU0X0Y0OEJ6eklKWVJhWUVYTlAxdi1DaVJmRkVHZUlybjdVcDdRR0R6SVRjbUd0Nk9KOXlDWndQY1hpUFhrN3RKSUQ?oc=5",
+"pub": "2026-11-22T01:20:44+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-22T15:43:58+00:00"
 },
 {
 "id": "ef7dcc4efa8b",
@@ -10852,166 +11012,6 @@
 "src": "FinancialJuice",
 "kind": "market",
 "seen": "2026-11-21T08:50:41+00:00"
-},
-{
-"id": "e1bcdc1aca80",
-"t": "",
-"title": "EU's von der Leyen: Russia's hybrid threats are becoming more real, less hybrid; we have tools to respond",
-"url": "https://www.financialjuice.com/News/9862908/EUs-von-der-Leyen-Russias-hybrid-threats-are-becoming-more-real-less-hybrid-we-have-tools-to-respond.aspx",
-"pub": "2026-11-21T08:46:45+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-21T19:14:53+00:00"
-},
-{
-"id": "a1bd63aa2d89",
-"t": "",
-"title": "EU's Von der Leyen: we stand in full solidarity with Denmark",
-"url": "https://www.financialjuice.com/News/9862907/EUs-Von-der-Leyen-we-stand-in-full-solidarity-with-Denmark.aspx?xy=rss",
-"pub": "2026-11-21T08:45:51+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-21T08:50:41+00:00"
-},
-{
-"id": "a9dfa3619527",
-"t": "",
-"title": "EU's Von der Leyen: we stand in full solidarity with Denmark",
-"url": "https://www.financialjuice.com/News/9862907/EUs-Von-der-Leyen-we-stand-in-full-solidarity-with-Denmark.aspx",
-"pub": "2026-11-21T08:45:51+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-21T19:14:53+00:00"
-},
-{
-"id": "0ecf2b695b9e",
-"t": "",
-"title": "EU's Von Der Leyen: strongly condemn assassination attempt on US-Ukrainian citizen in Denmark by Russian intelligence services",
-"url": "https://www.financialjuice.com/News/9862906/EUs-Von-Der-Leyen-strongly-condemn-assassination-attempt-on-US-Ukrainian-citizen-in-Denmark-by-Russian-intelligence-services.aspx?xy=rss",
-"pub": "2026-11-21T08:45:37+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-21T08:50:41+00:00"
-},
-{
-"id": "ec370fcd39a0",
-"t": "",
-"title": "EU's Von Der Leyen: strongly condemn assassination attempt on US-Ukrainian citizen in Denmark by Russian intelligence services",
-"url": "https://www.financialjuice.com/News/9862906/EUs-Von-Der-Leyen-strongly-condemn-assassination-attempt-on-US-Ukrainian-citizen-in-Denmark-by-Russian-intelligence-services.aspx",
-"pub": "2026-11-21T08:45:37+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-21T19:14:53+00:00"
-},
-{
-"id": "7c528fadd502",
-"t": "",
-"title": "Italy’s Webuild Completes Takeover of Construction Group Trevi",
-"url": "https://www.bloomberg.com/news/articles/2026-11-21/italy-s-webuild-completes-takeover-of-construction-group-trevi",
-"pub": "2026-11-21T08:42:34+00:00",
-"src": "Bloomberg",
-"kind": "market",
-"seen": "2026-11-21T09:14:45+00:00"
-},
-{
-"id": "f1f4fdc7df33",
-"t": "",
-"title": "Nomura Small and Mid Cap ETF (SMDC.N) | Stock Price & Latest News - Reuters",
-"url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1qMlZSdEtsZXl0R3VQOXR1cEJsVkNqTDRfU3JPZ0JZRjFEX19rVTRMNl9JRFhmVWJpX0JiWDVLOFBja2FDa1JOYkVabDJyZThONU14MkxpV3BPSkNLa1czejB0VGc3ZWlWdzgzaA?oc=5",
-"pub": "2026-11-21T08:39:44+00:00",
-"src": "Reuters",
-"kind": "market",
-"seen": "2026-11-22T03:43:59+00:00"
-},
-{
-"id": "b87ba247152f",
-"t": "",
-"title": "Ukmto reports incident 17 nm east of Oman's Khasab",
-"url": "https://www.financialjuice.com/News/9862897/Ukmto-reports-incident-17-nm-east-of-Omans-Khasab.aspx?xy=rss",
-"pub": "2026-11-21T08:16:47+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-21T08:44:24+00:00"
-},
-{
-"id": "dc17a4e9cc5c",
-"t": "",
-"title": "Ukmto reports incident 17 nm east of Oman's Khasab",
-"url": "https://www.financialjuice.com/News/9862897/Ukmto-reports-incident-17-nm-east-of-Omans-Khasab.aspx",
-"pub": "2026-11-21T08:16:47+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-21T19:14:53+00:00"
-},
-{
-"id": "e6c15c6f160c",
-"t": "",
-"title": "Chi Kan Holdings Ltd (CHKHF.PK) | Stock Price & Latest News - Reuters",
-"url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNS3dQMVg4aHdsZy1yclpLbGEwMHB1ay1QbFVUUmhFMWQ1THhCdDJNdnctb1M1eGlWczhGSmtURWlEcHVMYk5TM3pUWC16NDhfWFlFVkhScXJRazhwRjQ1RG93TzRwdVM2WUI4Zkp1WTJIS3owSEUzNl9BbEl2a0JNYlpR?oc=5",
-"pub": "2026-11-21T08:10:35+00:00",
-"src": "Reuters",
-"kind": "market",
-"seen": "2026-11-21T11:22:55+00:00"
-},
-{
-"id": "13d8ea96ef94",
-"t": "",
-"title": "De Cos Awaits Europe’s Call as a Nemesis to the Bond Vigilantes",
-"url": "https://www.bloomberg.com/news/articles/2026-11-21/de-cos-awaits-europe-s-call-as-a-nemesis-to-the-bond-vigilantes",
-"pub": "2026-11-21T08:00:00+00:00",
-"src": "Bloomberg",
-"kind": "market",
-"seen": "2026-11-21T08:14:03+00:00"
-},
-{
-"id": "13c22eb0a06d",
-"t": "",
-"title": "UKMTO: no injuries reported, environmental impact unclear",
-"url": "https://www.financialjuice.com/News/9862893/UKMTO-no-injuries-reported-environmental-impact-unclear.aspx?xy=rss",
-"pub": "2026-11-21T07:42:26+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-21T07:44:39+00:00"
-},
-{
-"id": "ea0fe3d5d57c",
-"t": "",
-"title": "UKMTO: no injuries reported, environmental impact unclear",
-"url": "https://www.financialjuice.com/News/9862893/UKMTO-no-injuries-reported-environmental-impact-unclear.aspx",
-"pub": "2026-11-21T07:42:26+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-21T19:14:53+00:00"
-},
-{
-"id": "97e42f49152e",
-"t": "",
-"title": "Paschi Deems Intesa’s Offer Fair Yet Value Not Fully Reflected",
-"url": "https://www.bloomberg.com/news/articles/2026-11-21/paschi-deems-intesa-s-offer-fair-yet-value-not-fully-reflected",
-"pub": "2026-11-21T07:42:12+00:00",
-"src": "Bloomberg",
-"kind": "market",
-"seen": "2026-11-21T08:14:03+00:00"
-},
-{
-"id": "f63f86a48493",
-"t": "",
-"title": "Ukmto: tanker leaving strait of Hormuz struck on stern by unidentified projectile",
-"url": "https://www.financialjuice.com/News/9862892/Ukmto-tanker-leaving-strait-of-Hormuz-struck-on-stern-by-unidentified-projectile.aspx?xy=rss",
-"pub": "2026-11-21T07:41:54+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-21T07:44:39+00:00"
-},
-{
-"id": "384ed33731b0",
-"t": "",
-"title": "Ukmto: tanker leaving strait of Hormuz struck on stern by unidentified projectile",
-"url": "https://www.financialjuice.com/News/9862892/Ukmto-tanker-leaving-strait-of-Hormuz-struck-on-stern-by-unidentified-projectile.aspx",
-"pub": "2026-11-21T07:41:54+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-21T19:14:53+00:00"
 }
 ]
 }
