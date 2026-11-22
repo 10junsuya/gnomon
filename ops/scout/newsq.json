@@ -1,18 +1,68 @@
 {
-"updated_kst": "2026-11-22 19:14",
-"rot": 4,
+"updated_kst": "2026-11-22 19:30",
+"rot": 64,
 "how": "Scout(프로그램)이 10분마다 모은 기사 제목·링크와 공시예요. Wren이 공식 출처로 확인한 뒤 회사 화면에 한국어로 반영해요. 본문은 받지 않아요.",
 "sources": {
 "Yahoo Finance": "120종목 확인 · 실패 0",
 "CNBC": "63건",
-"Bloomberg": "24건",
+"Bloomberg": "25건",
 "WSJ": "61건",
-"Reuters": "50건",
+"Reuters": "43건",
 "FinancialJuice": "100건",
 "SEC EDGAR": "실패 HTTPError",
 "Fox Business": "50건"
 },
 "items": [
+{
+"id": "37c53f6defca",
+"t": "AMD",
+"title": "Stanley Druckenmiller, David Tepper and 33 Other Big Funds Sold Advanced Micro Devices Last Quarter, While 21 Bought. Who’s Right?",
+"url": "https://www.tikr.com/blog/stanley-druckenmiller-david-tepper-and-33-other-big-funds-sold-advanced-micro-devices-last-quarter-while-21-bought-whos-right?ref=yahoofinance&tlnk=yf-261122-4w2438x8&.tsrc=rss",
+"pub": "2026-11-22T10:22:43+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-22T10:30:29+00:00"
+},
+{
+"id": "833f6294bb9a",
+"t": "TSLA",
+"title": "Elon Musk's Tesla and SpaceX Each Formed a Special Committee to Explore a Merger as His AI Spending Accelerates. Here's Why Combining Them Could Reshape How Investors Value Tesla's Robotaxi Business.",
+"url": "https://www.fool.com/investing/2026/11/22/elon-musks-tesla-and-spacex-committee-merger/?.tsrc=rss",
+"pub": "2026-11-22T10:20:00+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-22T10:30:29+00:00"
+},
+{
+"id": "d2ec897250e3",
+"t": "FFIV",
+"title": "F5 Sees AI and Software Renewals Driving Growth After $100 Million in AI Bookings",
+"url": "https://www.marketbeat.com/instant-alerts/event-f5-sees-ai-and-software-renewals-driving-growth-after-100-million-in-ai-bookings-2026-11-22/?utm_source=yahoofinance&utm_medium=yahoofinance&.tsrc=rss",
+"pub": "2026-11-22T10:12:06+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-22T10:30:29+00:00"
+},
+{
+"id": "311b1d23926f",
+"t": "LITE",
+"title": "150% Upside for Credo Technology? Stifel Thinks So, and Here’s How",
+"url": "https://www.tikr.com/blog/150-upside-for-credo-technology-stifel-thinks-so-and-heres-how?ref=yahoofinance&tlnk=yf-261122-7jhw3mjq&.tsrc=rss",
+"pub": "2026-11-22T10:09:23+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-22T10:30:29+00:00"
+},
+{
+"id": "a19e21999807",
+"t": "SPCX",
+"title": "Jason Calacanis Will “Catch Every Knife” With SpaceX, Tesla and Google. Only Some Are Cheap",
+"url": "https://www.tikr.com/blog/jason-calacanis-will-catch-every-knife-with-spacex-tesla-and-google-only-some-are-cheap?ref=yahoofinance&tlnk=yf-261122-4rm83mgv&.tsrc=rss",
+"pub": "2026-11-22T10:03:30+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-22T10:30:29+00:00"
+},
 {
 "id": "2643c0d7b952",
 "t": "MU",
@@ -7964,54 +8014,14 @@
 "seen": "2026-11-20T18:14:43+00:00"
 },
 {
-"id": "f1ac64aabb93",
-"t": "GOOGL",
-"title": "At $97 Anthropic Offers Investors a Rare Opportunity",
-"url": "https://247wallst.com/investing/2026/11/20/at-97-anthropic-offers-investors-a-rare-opportunity/?.tsrc=rss",
-"pub": "2026-11-20T17:45:14+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-20T18:14:43+00:00"
-},
-{
-"id": "4fdc223ca57e",
-"t": "SNDK",
-"title": "Western Digital Cratered 40% in The Last 3 Months: This Wall Street Desk Now Predicts 200% Returns After Raising Its Target Price",
-"url": "https://247wallst.com/investing/2026/11/20/western-digital-cratered-40-in-the-last-3-months-this-wall-street-desk-now-predicts-200-returns-after-raising-its-target-price/?.tsrc=rss",
-"pub": "2026-11-20T17:45:09+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-20T18:14:43+00:00"
-},
-{
-"id": "49e42efa9023",
-"t": "NVDA",
-"title": "Anthropic’s Most Compelling 2027 Bull Case is Simply Reasonable and Logical",
-"url": "https://247wallst.com/investing/2026/11/20/anthropics-most-compelling-2027-bull-case-is-simply-reasonable-and-logical/?.tsrc=rss",
-"pub": "2026-11-20T17:45:06+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-20T18:14:43+00:00"
-},
-{
-"id": "9b107daae5f6",
-"t": "NVDA",
-"title": "BJ's Wholesale Club Holdings, Inc. Q3 2026 Earnings Call Summary",
-"url": "https://app.moby.co/home/research/tools/earningsCalendar/earnings-bjs-wholesale-club-holdings-inc-q3-2026-earnings-call-summary?utm_source=yahoo_finance&utm_medium=rss&.tsrc=rss",
-"pub": "2026-11-20T17:44:29+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-20T18:14:43+00:00"
-},
-{
-"id": "91d3dbe4ef0c",
-"t": "JPM",
-"title": "JPMorgan Sees US IPO Proceeds Near $290B In 2026, Says Investor Demand Is Growing Faster Than Supply",
-"url": "https://stocktwits.com/news-articles/markets/equity/jp-morgan-sees-us-ipo-proceeds-near-290-b-in-2026-says-investor-demand-is-growing-faster-than-supply/cNbSnA0R914?.tsrc=rss",
-"pub": "2026-11-20T17:44:20+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-20T18:39:45+00:00"
+"id": "95fdff1faa06",
+"t": "",
+"title": "S. Korea Rolls Out Phased Measures to Stabilize Volatile Markets",
+"url": "https://www.bloomberg.com/news/articles/2026-11-22/s-korea-rolls-out-phased-measures-to-stabilize-volatile-markets",
+"pub": "2026-11-22T10:16:45+00:00",
+"src": "Bloomberg",
+"kind": "market",
+"seen": "2026-11-22T10:30:29+00:00"
 },
 {
 "id": "33dfe2e1ed45",
@@ -11002,16 +11012,6 @@
 "src": "Reuters",
 "kind": "market",
 "seen": "2026-11-21T17:28:35+00:00"
-},
-{
-"id": "3648f68904c7",
-"t": "",
-"title": "White House: Federal contractors must promptly inform White House and contracting agencies of any pending or upcoming congressional requests regarding contractors’ communications",
-"url": "https://www.financialjuice.com/News/9862780/White-House-Federal-contractors-must-promptly-inform-White-House-and-contracting-agencies-of-any-pending-or-upcoming-congressional-requests-regarding-contractors-communications.aspx?xy=rss",
-"pub": "2026-11-21T02:37:15+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-21T02:43:50+00:00"
 }
 ]
 }
