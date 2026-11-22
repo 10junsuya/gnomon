@@ -1,18 +1,48 @@
 {
-"updated_kst": "2026-11-23 02:21",
-"rot": 71,
+"updated_kst": "2026-11-23 02:44",
+"rot": 131,
 "how": "Scout(프로그램)이 10분마다 모은 기사 제목·링크와 공시예요. Wren이 공식 출처로 확인한 뒤 회사 화면에 한국어로 반영해요. 본문은 받지 않아요.",
 "sources": {
 "Yahoo Finance": "120종목 확인 · 실패 0",
 "CNBC": "63건",
 "Bloomberg": "24건",
 "WSJ": "61건",
-"Reuters": "45건",
+"Reuters": "39건",
 "FinancialJuice": "100건",
 "SEC EDGAR": "실패 HTTPError",
 "Fox Business": "50건"
 },
 "items": [
+{
+"id": "d1d0b882010d",
+"t": "NVDA",
+"title": "What's Going On With Netflix's Stock?",
+"url": "https://www.fool.com/investing/2026/11/22/what-s-going-on-with-netflix-s-stock/?.tsrc=rss",
+"pub": "2026-11-22T17:20:02+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-22T17:44:32+00:00"
+},
+{
+"id": "f3236e193f5a",
+"t": "GOOGL",
+"title": "Alphabet vs. Meta Platforms: Which Media Stock Is a Better Buy for 2027?",
+"url": "https://www.fool.com/coverage/better-buy/2026/11/22/alphabet-vs-meta-platforms-which-media-stock-is-a-better-buy-for-2027/?.tsrc=rss",
+"pub": "2026-11-22T17:16:18+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-22T17:44:32+00:00"
+},
+{
+"id": "246e9607a903",
+"t": "NOW",
+"title": "3 Growth Stocks To Watch With Earnings Growth Up To 81%",
+"url": "https://finance.yahoo.com/markets/stocks/articles/3-growth-stocks-watch-earnings-170823195.html?.tsrc=rss",
+"pub": "2026-11-22T17:08:23+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-22T17:44:32+00:00"
+},
 {
 "id": "a8e990732fd3",
 "t": "NVDA",
@@ -34,6 +64,26 @@
 "seen": "2026-11-22T17:21:43+00:00"
 },
 {
+"id": "6c8eda0e38f1",
+"t": "NVT",
+"title": "Can nVent Electric (NVT) Turn Its $2.6 Billion Backlog Into a Stock Recovery?",
+"url": "https://finance.yahoo.com/markets/stocks/articles/nvent-electric-nvt-turn-2-165356166.html?.tsrc=rss",
+"pub": "2026-11-22T16:53:56+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-22T17:44:32+00:00"
+},
+{
+"id": "21c8a8817a63",
+"t": "DELL",
+"title": "Dell Technologies (DELL) Has 83.7% Upside Potential After a 37% Selloff",
+"url": "https://finance.yahoo.com/technology/ai/articles/dell-technologies-dell-83-7-165308041.html?.tsrc=rss",
+"pub": "2026-11-22T16:53:08+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-22T17:44:32+00:00"
+},
+{
 "id": "ed60558363ae",
 "t": "AVGO",
 "title": "Prediction: Dec. 9 Will Be a Huge Day for the Stock Market",
@@ -44,6 +94,16 @@
 "seen": "2026-11-22T17:14:43+00:00"
 },
 {
+"id": "37c1130c55dc",
+"t": "TER",
+"title": "Teradyne (TER) Falls 36% Despite 70% Revenue Growth: Is a Recovery Ahead?",
+"url": "https://finance.yahoo.com/markets/stocks/articles/teradyne-ter-falls-36-despite-165126902.html?.tsrc=rss",
+"pub": "2026-11-22T16:51:26+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-22T17:44:32+00:00"
+},
+{
 "id": "678a65be530a",
 "t": "KO",
 "title": "How Many Shares of Coca-Cola or PepsiCo Pay $1,000 a Month in Dividends?",
@@ -52,6 +112,16 @@
 "src": "Yahoo Finance",
 "kind": "news",
 "seen": "2026-11-22T17:21:43+00:00"
+},
+{
+"id": "bbd4dae4f302",
+"t": "NOW",
+"title": "ServiceNow (NOW) Stock: An Oversold AI Opportunity With Nearly 77% Upside?",
+"url": "https://finance.yahoo.com/markets/stocks/articles/servicenow-now-stock-oversold-ai-165017801.html?.tsrc=rss",
+"pub": "2026-11-22T16:50:17+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-22T17:44:32+00:00"
 },
 {
 "id": "ac96533ebd32",
@@ -192,6 +262,16 @@
 "src": "Yahoo Finance",
 "kind": "news",
 "seen": "2026-11-22T15:45:03+00:00"
+},
+{
+"id": "4d00ff97d3bc",
+"t": "WMT",
+"title": "Thanksgiving Dinner Will Cost More This Year. Here’s Why.",
+"url": "https://finance.yahoo.com/m/2f4069c5-6a7e-3b84-9d5b-f325befdff73/thanksgiving-dinner-will-cost.html?.tsrc=rss",
+"pub": "2026-11-22T15:21:00+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-22T17:44:32+00:00"
 },
 {
 "id": "aacd7e587120",
@@ -7934,86 +8014,6 @@
 "seen": "2026-11-20T20:14:00+00:00"
 },
 {
-"id": "e5443c6861ef",
-"t": "HD",
-"title": "Peter Lynch Made Millions for Investors by Following One Simple Rule",
-"url": "https://247wallst.com/investing/2026/11/20/peter-lynch-made-millions-for-investors-by-following-one-simple-rule/?.tsrc=rss",
-"pub": "2026-11-20T19:21:31+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-20T20:36:06+00:00"
-},
-{
-"id": "2c2cc3e5488f",
-"t": "CEG",
-"title": "45% Upside for Constellation Energy? Barclays Thinks So, and Here’s How",
-"url": "https://www.tikr.com/blog/45-upside-for-constellation-energy-barclays-thinks-so-and-heres-how?ref=yahoofinance&tlnk=yf-261120-x635426w&.tsrc=rss",
-"pub": "2026-11-20T19:20:40+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-20T20:14:00+00:00"
-},
-{
-"id": "6988bc6c6eba",
-"t": "AVGO",
-"title": "Broadcom Stock Plunges 12% and Loses $191 Billion After a Report That Google Cut Its Plans for Broadcom AI Chips",
-"url": "https://247wallst.com/investing/2026/11/20/broadcom-stock-plunges-12-and-loses-191-billion-after-a-report-that-google-cut-its-plans-for-broadcom-ai-chips/?.tsrc=rss",
-"pub": "2026-11-20T19:13:04+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-20T19:44:51+00:00"
-},
-{
-"id": "686e97cb31b3",
-"t": "NVDA",
-"title": "Rockwell Automation Raises Margin Target, Bets on Robots and AI at Investor Day",
-"url": "https://www.marketbeat.com/instant-alerts/event-rockwell-automation-raises-margin-target-bets-on-robots-and-ai-at-investor-day-2026-11-20/?utm_source=yahoofinance&utm_medium=yahoofinance&.tsrc=rss",
-"pub": "2026-11-20T19:12:24+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-20T19:44:51+00:00"
-},
-{
-"id": "1d7c3e410dcf",
-"t": "CSCO",
-"title": "How Investors May Respond To Cisco Stock After Earnings Beat",
-"url": "https://finance.yahoo.com/markets/stocks/articles/investors-may-respond-cisco-stock-191220194.html?.tsrc=rss",
-"pub": "2026-11-20T19:12:20+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-20T19:44:51+00:00"
-},
-{
-"id": "afc65b14984f",
-"t": "PG",
-"title": "Week’s Best: Schwab Claims Dividend King Title",
-"url": "https://finance.yahoo.com/m/fb6cd700-57ec-3d29-b04d-adcdf6882228/week%E2%80%99s-best%3A-schwab-claims.html?.tsrc=rss",
-"pub": "2026-11-20T19:12:00+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-20T20:36:06+00:00"
-},
-{
-"id": "16cd011f3936",
-"t": "JPM",
-"title": "Exclusive Research: JPMorgan’s AI strategy puts governance to the test",
-"url": "https://www.americanbanker.com/news/exclusive-research-jpmorgan-s-ai-strategy-puts-governance-to-the-test?.tsrc=rss",
-"pub": "2026-11-20T19:11:47+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-20T19:44:51+00:00"
-},
-{
-"id": "cc6f8d021352",
-"t": "ILMN",
-"title": "Illumina (ILMN) Wins The 2026 Virtual Cell Challenge",
-"url": "https://finance.yahoo.com/technology/ai/articles/illumina-ilmn-wins-2026-virtual-190953242.html?.tsrc=rss",
-"pub": "2026-11-20T19:09:53+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-20T19:44:51+00:00"
-},
-{
 "id": "c892853c43ba",
 "t": "",
 "title": "More than 12 drone boats intercepted off Benghazi coast by Libyan naval and air forces, two Libyan military sources say",
@@ -8404,6 +8404,16 @@
 "seen": "2026-11-22T15:45:03+00:00"
 },
 {
+"id": "e3b1b5785f86",
+"t": "",
+"title": "7297.JNU - | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQMERLOWdVY0o5VHBNNGFVOEJVb3dndWV0dmNhV3k3SXZYekZ0V2lnMmlBWG1qanpFQ0pXZGhSM1N5dXdBVEJ3MXkzQ2VYZ1VfQlBkc2dSWVBUbjJndVBnX2lTV2huelNRWVNCSWtNcENkRHl1NktKWkFlLUdPdkRfeHJWMWZnT1dwbUN5V2VEV2x5QQ?oc=5",
+"pub": "2026-11-22T12:55:54+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-22T17:44:32+00:00"
+},
+{
 "id": "3cf436b4dac6",
 "t": "",
 "title": "Oriental Rise Holdings Ltd (ORISF.PK) | Stock Price & Latest News - Reuters",
@@ -8582,6 +8592,16 @@
 "src": "Bloomberg",
 "kind": "market",
 "seen": "2026-11-22T10:14:19+00:00"
+},
+{
+"id": "281537550430",
+"t": "",
+"title": "Boomers Are Rewriting the Playbook for Old Age. It Doesn’t Include Winding Down.",
+"url": "https://www.wsj.com/personal-finance/retirement/baby-boomers-aging-eec29458?mod=rss_markets_main",
+"pub": "2026-11-22T10:00:00+00:00",
+"src": "WSJ",
+"kind": "market",
+"seen": "2026-11-22T17:44:32+00:00"
 },
 {
 "id": "7d69f28eaa91",
@@ -9032,6 +9052,16 @@
 "src": "Reuters",
 "kind": "market",
 "seen": "2026-11-22T02:39:49+00:00"
+},
+{
+"id": "5407ff221905",
+"t": "",
+"title": "UBS Group AG (UBSG.S) | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFAwTW5KVElGNG0xcE9UMVNGYUFGdTllMnhKS2R2MnR1M2RWSGlIclJRNDRoQ1piWWxyY3k4cjVFNnp2NzBzeVY0OUdISzl5LXNTWk81dUYyc1hheTJ6SGc?oc=5",
+"pub": "2026-11-21T23:17:23+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-22T17:44:32+00:00"
 },
 {
 "id": "fc9a6f06ad05",
@@ -10982,36 +11012,6 @@
 "src": "FinancialJuice",
 "kind": "market",
 "seen": "2026-11-21T19:14:53+00:00"
-},
-{
-"id": "8bf9b9c642d5",
-"t": "",
-"title": "Walmart shoppers stocked up on emergency supplies after series of tech outages: report",
-"url": "https://www.foxbusiness.com/economy/walmart-shoppers-stocked-up-emergency-supplies-after-series-tech-outages-report",
-"pub": "2026-11-21T10:52:31+00:00",
-"src": "Fox Business",
-"kind": "market",
-"seen": "2026-11-21T11:14:42+00:00"
-},
-{
-"id": "059e4fc472ff",
-"t": "",
-"title": "EU Proposes New Cuts to Long-Term Budget to Bridge Policy Divide",
-"url": "https://www.bloomberg.com/news/articles/2026-11-21/eu-proposes-new-cuts-to-long-term-budget-to-bridge-policy-divide",
-"pub": "2026-11-21T10:50:01+00:00",
-"src": "Bloomberg",
-"kind": "market",
-"seen": "2026-11-21T11:22:55+00:00"
-},
-{
-"id": "3ea007ce2850",
-"t": "",
-"title": "iShares iBonds Dec 2030 Term Muni Bond ETF (IBMS.N) | Stock Price & Latest News - Reuters",
-"url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5hWmJfN1p5ejlCaXJXRS03MEhQcFkxNFRNcWJiYXZUaTFXUTY4djVTS0VyZ2k4TF81bndhWS1ObTk4OGRza3RyS2s5TjBBUEp1MUZPSkJmejRYLWVjY20zVXMwVXhsSUVRYU40?oc=5",
-"pub": "2026-11-21T10:49:58+00:00",
-"src": "Reuters",
-"kind": "market",
-"seen": "2026-11-21T21:14:08+00:00"
 }
 ]
 }
