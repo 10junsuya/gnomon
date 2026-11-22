@@ -238,3 +238,4 @@
 - 출처: [오라클 1분기 실적 발표](https://www.oracle.com/news/announcement/q1fy27-earnings-release-2026-09-10/) · [오라클 지난해 1분기 발표](https://www.oracle.com/news/announcement/q1fy26-earnings-release-2025-09-09/) · [오라클 지난해 2분기 발표](https://www.oracle.com/news/announcement/q2fy26-earnings-release-2025-12-10/) · [Zacks 정리 (TradingView)](https://www.tradingview.com/news/zacks:32bcf6e9d094b:0-oracle-q1-earnings-beat-estimates-cloud-growth-accelerates/) · 공식 여부: 공식(실적) / 보도(예상 비교)
 - 확신도: 높음 (금액은 회사 발표의 억 단위 반올림 숫자 · 백만 단위 표는 못 읽음)
 - 참고: 남은 칸 없는 앱 종목(ETF 제외): LIN·SHOP·GOOG·SATS(ECHO)·IREN·APLD·CLS·CBRS·APH·TTMI·STX·NFLX·MA·FFIV·VICR·NXE·DNN. 오라클이 2분기 발표일을 공지하면(12/14 안이면) 일정을 넣을게요.
+- 참고: 앱 다시 게시함(06:2x KST, 버전 266). 지난 게시와 같게 게시용 복사본에서만 CSP meta 한 줄을 뺐어요(저장소 파일은 그대로). 게시본과 차이는 실적 데이터 한 줄뿐이었어요.
