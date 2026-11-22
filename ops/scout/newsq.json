@@ -1,18 +1,48 @@
 {
-"updated_kst": "2026-11-23 04:50",
-"rot": 14,
+"updated_kst": "2026-11-23 05:13",
+"rot": 74,
 "how": "Scout(프로그램)이 10분마다 모은 기사 제목·링크와 공시예요. Wren이 공식 출처로 확인한 뒤 회사 화면에 한국어로 반영해요. 본문은 받지 않아요.",
 "sources": {
 "Yahoo Finance": "120종목 확인 · 실패 0",
 "CNBC": "63건",
 "Bloomberg": "25건",
 "WSJ": "61건",
-"Reuters": "49건",
+"Reuters": "48건",
 "FinancialJuice": "100건",
 "SEC EDGAR": "실패 HTTPError",
 "Fox Business": "50건"
 },
 "items": [
+{
+"id": "605af78cc226",
+"t": "NVDA",
+"title": "Uber Trades at 16 Times Forward Earnings and a 30% Discount to Its All-Time High Stock Price. Here’s Why Robotaxis Make That a Mistake.",
+"url": "https://www.fool.com/investing/2026/11/22/uber-trades-16-times-forward-earnings-and-30-discount-all-time-high-stock-price-here-why-robotaxis-make-that-a-mistake/?.tsrc=rss",
+"pub": "2026-11-22T20:05:02+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-22T20:13:47+00:00"
+},
+{
+"id": "4494ad59c3b1",
+"t": "NVDA",
+"title": "Your 401(k) Has New Contribution Limits for 2027. Here's What You Need to Know",
+"url": "https://www.fool.com/retirement/2026/11/22/your-401-k-has-new-contribution-limits-for-2027-here-s-what-you-need-to-know/?.tsrc=rss",
+"pub": "2026-11-22T19:50:02+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-22T20:13:47+00:00"
+},
+{
+"id": "e0122ab3d363",
+"t": "AVGO",
+"title": "Google’s 2027 chip plan is bad news for Broadcom",
+"url": "https://www.thestreet.com/technology/google-2027-chip-plan-broadcom?.tsrc=rss",
+"pub": "2026-11-22T19:47:00+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-22T20:13:47+00:00"
+},
 {
 "id": "cb24444b2e18",
 "t": "AMZN",
@@ -22,6 +52,26 @@
 "src": "Yahoo Finance",
 "kind": "news",
 "seen": "2026-11-22T19:50:27+00:00"
+},
+{
+"id": "74cbdfa3371d",
+"t": "NVDA",
+"title": "What These 6 Snack and Beverage Stocks Have in Common",
+"url": "https://www.fool.com/investing/2026/11/22/what-these-6-snack-and-beverage-stocks-have-in-common/?.tsrc=rss",
+"pub": "2026-11-22T19:37:02+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-22T20:13:47+00:00"
+},
+{
+"id": "20160f380a57",
+"t": "SPCX",
+"title": "Cathie Wood Just Bought $22 Million of SpaceX Across 2 ARK Funds",
+"url": "https://www.tikr.com/blog/cathie-wood-just-bought-22-million-of-spacex-across-2-ark-funds?ref=yahoofinance&tlnk=yf-261122-x426pfvj&.tsrc=rss",
+"pub": "2026-11-22T19:35:17+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-22T20:13:47+00:00"
 },
 {
 "id": "e0710cd20a97",
@@ -1332,6 +1382,16 @@
 "src": "Yahoo Finance",
 "kind": "news",
 "seen": "2026-11-22T13:43:54+00:00"
+},
+{
+"id": "2d90f8ba805f",
+"t": "SKHY",
+"title": "A $3.4 Billion Fund Just Bought These 3 Stocks",
+"url": "https://www.tikr.com/blog/a-3-4-billion-fund-just-bought-these-3-stocks?ref=yahoofinance&tlnk=yf-261122-7pg5m4gc&.tsrc=rss",
+"pub": "2026-11-22T11:18:09+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-22T20:13:47+00:00"
 },
 {
 "id": "724336440f4b",
@@ -7954,66 +8014,6 @@
 "seen": "2026-11-20T20:36:06+00:00"
 },
 {
-"id": "209e1e391cc2",
-"t": "GOOGL",
-"title": "Nasdaq Slide Deepens After Report of Nvidia SEC Accounting Probe",
-"url": "https://finance.yahoo.com/m/cff37c7c-0ca9-37b0-a414-8f2a8d6939e4/nasdaq-slide-deepens-after.html?.tsrc=rss",
-"pub": "2026-11-20T20:24:47+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-20T22:14:08+00:00"
-},
-{
-"id": "dcfb0c9e6031",
-"t": "NVDA",
-"title": "Why United States Antimony Stock Is Tumbling Lower Today",
-"url": "https://www.fool.com/investing/2026/11/20/why-united-states-antimony-stock-is-tumbling-lower-today/?.tsrc=rss",
-"pub": "2026-11-20T20:24:41+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-20T20:36:06+00:00"
-},
-{
-"id": "0cef44bce6f4",
-"t": "MO",
-"title": "3 Neglected High-Yield Dividend Stocks Paying 5% or More",
-"url": "https://247wallst.com/investing/2026/11/20/3-neglected-high-yield-dividend-stocks-paying-5-or-more/?.tsrc=rss",
-"pub": "2026-11-20T20:21:27+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-20T20:44:19+00:00"
-},
-{
-"id": "86085dda11e1",
-"t": "MSFT",
-"title": "Intuit: 3 Key Takeaways for Long-Term Investors",
-"url": "https://www.fool.com/earnings/takeaways/2026/11/20/intuit-3-key-takeaways-for-long-term-investors/?.tsrc=rss",
-"pub": "2026-11-20T20:18:32+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-20T20:36:06+00:00"
-},
-{
-"id": "d30e375e6587",
-"t": "NVDA",
-"title": "Nvidia Stock Plunges 12% After Reuters Reports an SEC Probe of Its Accounting. It’s Nvidia’s Worst Day Since DeepSeek and It Has Lost $2.7 Trillion Since October",
-"url": "https://247wallst.com/investing/2026/11/20/nvidia-stock-plunges-12-after-reuters-reports-an-sec-probe-of-its-accounting-its-nvidias-worst-day-since-deepseek-and-it-has-lost-2-7-trillion-since-october/?.tsrc=rss",
-"pub": "2026-11-20T20:17:02+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-20T20:36:06+00:00"
-},
-{
-"id": "2b42c2f83b2a",
-"t": "NVDA",
-"title": "The Nasdaq Just Had Its 6th Correction in 4 Years. History Says This Is the Likelihood of a Full-Blown Bear Market",
-"url": "https://www.fool.com/investing/2026/11/20/the-nasdaq-just-had-its-6th-correction-in-4-years-history-says-this-is-the-likelihood-of-a-full-blown-bear-market/?.tsrc=rss",
-"pub": "2026-11-20T20:17:02+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-20T20:36:06+00:00"
-},
-{
 "id": "bb031ac9d17a",
 "t": "",
 "title": "Goldman Traders See Entry Point in US Stocks But Warn of Risks",
@@ -8634,6 +8634,16 @@
 "seen": "2026-11-22T19:44:27+00:00"
 },
 {
+"id": "8cd4bfe1e581",
+"t": "",
+"title": "QGEN.DY - Reuters",
+"url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBvMjJpQzdOekhzU2V3VkdjY3RFb3JPVzlDU3FkdUNleHVGQVVJcHB5b2hoUFBCOXFxUzVjV2FpRzdOQjFuUGNGR1piaHdvMU1NMFo1V1BTV3ZuZXNORGNQRG5YVFZ0QWZBZXVGdHVR?oc=5",
+"pub": "2026-11-22T12:56:09+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-22T20:13:47+00:00"
+},
+{
 "id": "3f79263738d2",
 "t": "",
 "title": "Sarepta Therapeutics, Inc. (AB3A.H) | Stock Price & Latest News - Reuters",
@@ -9002,6 +9012,16 @@
 "src": "Reuters",
 "kind": "market",
 "seen": "2026-11-22T11:21:57+00:00"
+},
+{
+"id": "c6b3cb28cc0a",
+"t": "",
+"title": "6498JPY.JPx - Reuters",
+"url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9rX25COTJyWm10eWk5M242UTFpWU9HLXZXck8xbmY3eVlXU05ZZnZEa29MUGwyNnEyZ0RUck5UaWFGcUNRYWtScFQyUkFFYkthdGM2ZUVpZFpMa2ZxazhGT0daVnRhUnNxOEMzazRpaVk4cE0?oc=5",
+"pub": "2026-11-22T05:25:26+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-22T20:13:47+00:00"
 },
 {
 "id": "f640d09cf0ba",
@@ -10990,26 +11010,6 @@
 "url": "https://www.financialjuice.com/News/9862980/Saudi-civil-defense-issues-warning-of-possible-threat-for-Jazan.aspx?xy=rss",
 "pub": "2026-11-21T12:59:50+00:00",
 "src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-21T13:15:23+00:00"
-},
-{
-"id": "5febb8109a52",
-"t": "",
-"title": "Saudi civil defense issues warning of possible threat for Jazan",
-"url": "https://www.financialjuice.com/News/9862980/Saudi-civil-defense-issues-warning-of-possible-threat-for-Jazan.aspx",
-"pub": "2026-11-21T12:59:50+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-21T19:14:53+00:00"
-},
-{
-"id": "5c94b4840466",
-"t": "",
-"title": "Anthropic Makes Its Public Market Debut",
-"url": "https://www.bloomberg.com/news/videos/2026-11-21/anthropic-makes-its-public-market-debut-video",
-"pub": "2026-11-21T12:59:40+00:00",
-"src": "Bloomberg",
 "kind": "market",
 "seen": "2026-11-21T13:15:23+00:00"
 }
