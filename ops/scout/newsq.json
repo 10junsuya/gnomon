@@ -1,18 +1,58 @@
 {
-"updated_kst": "2026-11-23 06:25",
-"rot": 135,
+"updated_kst": "2026-11-23 06:44",
+"rot": 16,
 "how": "Scout(프로그램)이 10분마다 모은 기사 제목·링크와 공시예요. Wren이 공식 출처로 확인한 뒤 회사 화면에 한국어로 반영해요. 본문은 받지 않아요.",
 "sources": {
 "Yahoo Finance": "120종목 확인 · 실패 0",
 "CNBC": "63건",
 "Bloomberg": "25건",
 "WSJ": "61건",
-"Reuters": "50건",
+"Reuters": "45건",
 "FinancialJuice": "100건",
 "SEC EDGAR": "실패 HTTPError",
 "Fox Business": "50건"
 },
 "items": [
+{
+"id": "9d87f601dc1e",
+"t": "NVDA",
+"title": "Altria Yields 5.9%. Here's How Many Shares You'd Need for $5,000 in Yearly Dividend Income.",
+"url": "https://www.fool.com/investing/2026/11/22/altria-yields-59-heres-how-many-shares-youd-need-f/?.tsrc=rss",
+"pub": "2026-11-22T21:34:00+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-22T21:44:25+00:00"
+},
+{
+"id": "5ba456573052",
+"t": "NFLX",
+"title": "Michael Burry's Netflix warning puts investors in a $39 dilemma",
+"url": "https://www.thestreet.com/entertainment/michael-burrys-netflix-warning-puts-investors-in-a-39-dilemma?.tsrc=rss",
+"pub": "2026-11-22T21:33:00+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-22T21:44:25+00:00"
+},
+{
+"id": "5948d7948037",
+"t": "NVDA",
+"title": "Procter & Gamble Has Raised Its Dividend 70 Straight Years. Here's Why I'd Buy Before 2027.",
+"url": "https://www.fool.com/investing/2026/11/22/procter-gamble-has-raised-its-dividend-70-straight-years-heres-why-id-buy-before-2027/?.tsrc=rss",
+"pub": "2026-11-22T21:20:02+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-22T21:44:25+00:00"
+},
+{
+"id": "96904946bc8c",
+"t": "MU",
+"title": "Charlie Bilello Flags the Nasdaq 100’s First Bear Market Since April 2025",
+"url": "https://247wallst.com/investing/2026/11/22/charlie-bilello-flags-the-nasdaq-100s-first-bear-market-since-april-2025/?.tsrc=rss",
+"pub": "2026-11-22T21:17:16+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-22T21:44:25+00:00"
+},
 {
 "id": "1d3b1ce9693e",
 "t": "AVGO",
@@ -22,6 +62,16 @@
 "src": "Yahoo Finance",
 "kind": "news",
 "seen": "2026-11-22T21:25:33+00:00"
+},
+{
+"id": "bb6bc9aecde4",
+"t": "MSFT",
+"title": "15% of parents already cut college savings after Microsoft AI CEO told a mom 'probably not' to bother saving",
+"url": "https://finance.yahoo.com/technology/ai/articles/15-parents-already-cut-college-211500548.html?.tsrc=rss",
+"pub": "2026-11-22T21:15:00+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-22T21:44:25+00:00"
 },
 {
 "id": "5dd07fe018ef",
@@ -52,6 +102,26 @@
 "src": "Yahoo Finance",
 "kind": "news",
 "seen": "2026-11-22T21:13:53+00:00"
+},
+{
+"id": "fabb5c295631",
+"t": "PLTR",
+"title": "Palantir Technologies (PLTR) Co Hosts Sovereign AI Defense Summit",
+"url": "https://finance.yahoo.com/technology/ai/articles/palantir-technologies-pltr-co-hosts-210650181.html?.tsrc=rss",
+"pub": "2026-11-22T21:06:50+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-22T21:44:25+00:00"
+},
+{
+"id": "70a7c5a54b93",
+"t": "YSS",
+"title": "Why York Space Systems Stock Plunged This Week",
+"url": "https://www.fool.com/coverage/market-movers/2026/11/22/why-york-space-systems-stock-plunged-this-week/?.tsrc=rss",
+"pub": "2026-11-22T20:54:08+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-22T21:44:25+00:00"
 },
 {
 "id": "620425de8e84",
@@ -7944,74 +8014,14 @@
 "seen": "2026-11-20T21:29:57+00:00"
 },
 {
-"id": "aa34e74acd26",
-"t": "NVDA",
-"title": "Trump critiques Jensen Huang's replacement as he wades deeper into Nvidia turmoil",
-"url": "https://finance.yahoo.com/markets/article/trump-critiques-jensen-huangs-replacement-as-he-wades-deeper-into-nvidia-turmoil-210729338.html?.tsrc=rss",
-"pub": "2026-11-20T21:07:29+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-20T21:15:37+00:00"
-},
-{
-"id": "ae81eb8d2050",
-"t": "CRWD",
-"title": "CrowdStrike Is in Talks to Buy Cybersecurity Firm Zscaler",
-"url": "https://finance.yahoo.com/technology/articles/crowdstrike-talks-buy-cybersecurity-firm-210511823.html?.tsrc=rss",
-"pub": "2026-11-20T21:05:11+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-20T22:14:08+00:00"
-},
-{
-"id": "23089608e763",
-"t": "ZS",
-"title": "Zscaler Partners with Frontier Model Providers to Help Enterprises Safely Embrace AI and Stop AI-Driven Attacks",
-"url": "https://finance.yahoo.com/technology/ai/articles/zscaler-partners-frontier-model-providers-210500595.html?.tsrc=rss",
-"pub": "2026-11-20T21:05:00+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-20T21:15:37+00:00"
-},
-{
-"id": "54c270c832b8",
-"t": "JPM",
-"title": "JPMorgan Chase Financial Company LLC Declares Quarterly Coupon on Alerian MLP Index ETN",
-"url": "https://finance.yahoo.com/markets/options/articles/jpmorgan-chase-financial-company-llc-210500283.html?.tsrc=rss",
-"pub": "2026-11-20T21:05:00+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-20T21:44:59+00:00"
-},
-{
-"id": "7285a08ccb2c",
-"t": "NVDA",
-"title": "Nvidia’s (NVDA) AI Demand Visibility into 2029 Keeps Me Bullish",
-"url": "https://finance.yahoo.com/technology/ai/articles/nvidia-nvda-ai-demand-visibility-210400433.html?.tsrc=rss",
-"pub": "2026-11-20T21:04:00+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-20T21:15:37+00:00"
-},
-{
-"id": "ca3c62292af7",
-"t": "UNH",
-"title": "Sector Update: Healthcare Stocks Rise Late Afternoon",
-"url": "https://finance.yahoo.com/healthcare/articles/sector-healthcare-stocks-rise-afternoon-210224167.html?.tsrc=rss",
-"pub": "2026-11-20T21:02:24+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-20T21:29:57+00:00"
-},
-{
-"id": "6c94019e1602",
-"t": "SAP",
-"title": "As COP31 Winds Down, the Effects of COP29 Are Hitting Company Finances",
-"url": "https://finance.yahoo.com/economy/policy/articles/cop31-winds-down-effects-cop29-210200462.html?.tsrc=rss",
-"pub": "2026-11-20T21:02:00+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-20T21:44:59+00:00"
+"id": "c78f6be97d2e",
+"t": "",
+"title": "Aussie Seen Rebounding Against Kiwi From Worst Month Since 2022",
+"url": "https://www.bloomberg.com/news/articles/2026-11-22/aussie-seen-rebounding-against-kiwi-from-worst-month-since-2022",
+"pub": "2026-11-22T21:16:37+00:00",
+"src": "Bloomberg",
+"kind": "market",
+"seen": "2026-11-22T21:44:25+00:00"
 },
 {
 "id": "3e879bcc0620",
@@ -8614,6 +8624,16 @@
 "seen": "2026-11-22T21:13:53+00:00"
 },
 {
+"id": "ceed03ea605a",
+"t": "",
+"title": "Myseum AI Inc (MYSE.OQ) | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9wNnNMYlRORmFOczVRYUI5N3NrbmxPRzI3cm1PblBRTnRlRXd2Q3VQVEdscThJbUo4OVNaLWp6d0RBS0oySHNxSzNyZFhranY5eVN6WHdkLTE4VWlBNVJUYkJzOERCYnU2dHFHaw?oc=5",
+"pub": "2026-11-22T13:01:33+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-22T21:44:25+00:00"
+},
+{
 "id": "b68e3b0bfe01",
 "t": "",
 "title": "300148.ZKh - | Stock Price & Latest News - Reuters",
@@ -8662,6 +8682,16 @@
 "src": "Reuters",
 "kind": "market",
 "seen": "2026-11-22T17:21:43+00:00"
+},
+{
+"id": "007997ce5785",
+"t": "",
+"title": "SHVB_bv.NS - | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9tdzFpRTBIYk1CRXlGUzY2VC16LThnYUNLV2xvQjNRMGdBdkVSVUNWOEUwVENGcVREUlJmM2JLWjFOTjFvZjRjT29mVWVOc1BOaFhvRXBsVGFtZ1Y1UnR5OUxFT2o2OGJ1akdlWWNkQVFiM09nSlhTMGltVlFyQQ?oc=5",
+"pub": "2026-11-22T12:58:48+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-22T21:44:25+00:00"
 },
 {
 "id": "81cb2b500f34",
@@ -8744,6 +8774,16 @@
 "seen": "2026-11-22T15:45:03+00:00"
 },
 {
+"id": "7ac0609c9606",
+"t": "",
+"title": "0497.HS - | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1OLXB0M0NvQi04RDN4OEpUa21mck9ZNXRWUkdKVk1LZTE1MnZ0TWxIanhnNXB1bkVBNmdYTzRoS3NMWDhyRC1yMWRGMER5V09Jc2FFTHctWnd0T3ZWRjdLd3VIOWdSdUYxamxGZjRBbW1SYzNlTGtHMw?oc=5",
+"pub": "2026-11-22T12:55:59+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-22T21:44:25+00:00"
+},
+{
 "id": "e3b1b5785f86",
 "t": "",
 "title": "7297.JNU - | Stock Price & Latest News - Reuters",
@@ -8762,6 +8802,16 @@
 "src": "Reuters",
 "kind": "market",
 "seen": "2026-11-22T18:58:56+00:00"
+},
+{
+"id": "0d19f58d4f8f",
+"t": "",
+"title": "300148.ZKh - | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPdEtqZjlXU2FXNEQtcmRDR0Nhd1JxMGgtXzhNbVpHTEg4cFYyWXRIR2R2Nm52aTdMYTh2UUpubjVSNDMwNHpySFQyRGRGblVpQmZXWjlKN0tJOHdHWU9iMHlPSDJJN3c5OE9OMnBTMGU1WTJCUW1fYW9aZDBReUxEbi11N1BtSERmekE?oc=5",
+"pub": "2026-11-22T12:55:52+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-22T21:44:25+00:00"
 },
 {
 "id": "3cf436b4dac6",
@@ -8822,6 +8872,16 @@
 "src": "Reuters",
 "kind": "market",
 "seen": "2026-11-22T14:57:27+00:00"
+},
+{
+"id": "f2a80b32976a",
+"t": "",
+"title": "VNLYY.AX - | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQeW9sM2gycGZETXhaS0xmQ3NzX3VOT3BVX0JUbDM1bW5uTXpmMUp3cWFHOGtOd0J6NHBVWWNXZERqZ3ZnbEpZMkFTZjdzTW9yRXVoN0lMYlJ6THlPTk5kTGFOaWtoMEJRZEtFN3lqV3FMdWs1d05zNGlUU19TVVFaZ1o5V1NjUk5tc3c?oc=5",
+"pub": "2026-11-22T12:53:50+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-22T21:44:25+00:00"
 },
 {
 "id": "bf206c8e5d5c",
@@ -8994,6 +9054,16 @@
 "seen": "2026-11-22T10:44:08+00:00"
 },
 {
+"id": "6352afdc7f29",
+"t": "",
+"title": "iShares MSCI Japan ETF (EWJ.N) | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBnTV9rSGR6YWtSVUJva1hpZG02cXF6bGg4Yjd3UzNCWm04Q3NJemJwaEw1RmV2OTZ5RERjdW1lVDNRb09OVURRMUdleWNMV0xXSG56bmRCbHNmMVpYSWR6OXM3eW43bldMZjlJOQ?oc=5",
+"pub": "2026-11-22T10:24:43+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-22T21:44:25+00:00"
+},
+{
 "id": "95fdff1faa06",
 "t": "",
 "title": "S. Korea Rolls Out Phased Measures to Stabilize Volatile Markets",
@@ -9112,6 +9182,16 @@
 "src": "Reuters",
 "kind": "market",
 "seen": "2026-11-22T15:45:03+00:00"
+},
+{
+"id": "c503f6e02e23",
+"t": "",
+"title": "CTVA.ZY - Reuters",
+"url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE14bVBTc3FNYnhwLS1yOTctbWhRMTV5S2Nuc0QyX3Jma3ZrU2VianlWN0MyWG1MWXpaanM4dUc3clJ6TEUtSXNlTWRyZkRKcWtVOU1PcktsRW05dUl2T0VDODBBVFROQ0lBdVFFM0pRQQ?oc=5",
+"pub": "2026-11-22T08:49:22+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-22T21:44:25+00:00"
 },
 {
 "id": "c1739ad86740",
@@ -9272,6 +9352,16 @@
 "src": "Reuters",
 "kind": "market",
 "seen": "2026-11-22T07:56:09+00:00"
+},
+{
+"id": "45a7d9e5ba89",
+"t": "",
+"title": "Aida Pharmaceuticals Inc (AIDA.PK) | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE44UEJ0T1BnZUQ1ZXZMeDJMZmpLUHdXTS1iWkZSX2s2N2lvMmdSaFBFdml5YWpEcVhhLTdQWVNuWXBxQnVJTXh3eWhYZWtuZzZBeFZPN000V1c3aFhTY3FaZktULWdRbjRUNWtQWDY3SQ?oc=5",
+"pub": "2026-11-22T04:47:31+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-22T21:44:25+00:00"
 },
 {
 "id": "2428ccc4698a",
@@ -10922,96 +11012,6 @@
 "src": "Reuters",
 "kind": "market",
 "seen": "2026-11-22T01:43:56+00:00"
-},
-{
-"id": "873100a9a9d2",
-"t": "",
-"title": "Shenzhen Wants to Become a Cultural Capital",
-"url": "https://www.bloomberg.com/news/videos/2026-11-21/shenzhen-wants-to-become-a-cultural-capital-video",
-"pub": "2026-11-21T14:24:08+00:00",
-"src": "Bloomberg",
-"kind": "market",
-"seen": "2026-11-21T14:44:29+00:00"
-},
-{
-"id": "5b917bb0ff3e",
-"t": "",
-"title": "296A.J3 - | Stock Price & Latest News - Reuters",
-"url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNbHFVX0xLeDZEQUJueHhjVUUxb0tCQUY0TjNpN013NHhSd1R4bHByMkdaT2M4M3ZaaURJR01GMmNzMjBlRTFoTmZpamlnSlhXZnBmZGd1Q28wWGtnX0JOUVJvWjlHZWt5Tk8wREI5YmxIcGN4WmRvYVRHOEdPcEs5dFNIUk9VWmdTbHpZTVFZQQ?oc=5",
-"pub": "2026-11-21T14:21:22+00:00",
-"src": "Reuters",
-"kind": "market",
-"seen": "2026-11-21T20:43:38+00:00"
-},
-{
-"id": "df38c07675b5",
-"t": "",
-"title": "296A.J3 - | Stock Price & Latest News - Reuters",
-"url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOajFEVnM1cm1jeDJJcW9od1l4ZVFHQWpsbUtqYUlIR1F1NTZPQ2xCanA5ekVuSmczRG04MXUtVGZXY2k0QlB4OGtnWVR1Z3dvNjFaeHdXWDVYeUNucFJtdXJzOWF1eFo1UU9ERWYtOWJ1eHh5MWdINXpKMXVmZVZuOEZheXRaRkt1aC1pZjF2WW0?oc=5",
-"pub": "2026-11-21T14:21:22+00:00",
-"src": "Reuters",
-"kind": "market",
-"seen": "2026-11-21T20:52:52+00:00"
-},
-{
-"id": "59c49f93e44e",
-"t": "",
-"title": "Iranian deputy foreign minister Gharibabadi: Gatari team visited Tehran last night for two-hour talks - Tasnim news agency",
-"url": "https://www.financialjuice.com/News/9863020/Iranian-deputy-foreign-minister-Gharibabadi-Gatari-team-visited-Tehran-last-night-for-two-hour-talks---Tasnim-news-agency.aspx?xy=rss",
-"pub": "2026-11-21T14:15:29+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-21T14:16:02+00:00"
-},
-{
-"id": "307ca6ad86a3",
-"t": "",
-"title": "Iranian deputy foreign minister Gharibabadi: Qatari team visited Tehran last night for two-hour talks - Tasnim news agency",
-"url": "https://www.financialjuice.com/News/9863020/Iranian-deputy-foreign-minister-Gharibabadi-Qatari-team-visited-Tehran-last-night-for-two-hour-talks---Tasnim-news-agency.aspx?xy=rss",
-"pub": "2026-11-21T14:15:29+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-21T14:44:29+00:00"
-},
-{
-"id": "ea6ff29ce966",
-"t": "",
-"title": "Iranian deputy foreign minister Gharibabadi: Qatari team visited Tehran last night for two-hour talks - Tasnim news agency",
-"url": "https://www.financialjuice.com/News/9863020/Iranian-deputy-foreign-minister-Gharibabadi-Qatari-team-visited-Tehran-last-night-for-two-hour-talks---Tasnim-news-agency.aspx",
-"pub": "2026-11-21T14:15:29+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-21T19:14:53+00:00"
-},
-{
-"id": "62117edce88c",
-"t": "",
-"title": "Finland border guard: no confirmed details on Sparta II cargo but military materiel cannot be excluded",
-"url": "https://www.financialjuice.com/News/9863010/Finland-border-guard-no-confirmed-details-on-Sparta-II-cargo-but-military-materiel-cannot-be-excluded.aspx?xy=rss",
-"pub": "2026-11-21T13:58:20+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-21T14:14:40+00:00"
-},
-{
-"id": "ba0e6b0a1e76",
-"t": "",
-"title": "Finland border guard: no confirmed details on Sparta II cargo but military materiel cannot be excluded",
-"url": "https://www.financialjuice.com/News/9863010/Finland-border-guard-no-confirmed-details-on-Sparta-II-cargo-but-military-materiel-cannot-be-excluded.aspx",
-"pub": "2026-11-21T13:58:20+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-21T19:14:53+00:00"
-},
-{
-"id": "ab7395c1658a",
-"t": "",
-"title": "Finland border guard: cargo ship Sparta II linked to Russian military",
-"url": "https://www.financialjuice.com/News/9863009/Finland-border-guard-cargo-ship-Sparta-II-linked-to-Russian-military.aspx?xy=rss",
-"pub": "2026-11-21T13:57:02+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-21T14:14:40+00:00"
 }
 ]
 }
