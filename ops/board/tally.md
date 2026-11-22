@@ -254,3 +254,4 @@
 - 출처: [어플라이드 디지털 1분기 실적 발표 (GlobeNewswire 전재, MENAFN)](https://menafn.com/1111777097/Applied-Digital-Reports-Fiscal-First-Quarter-2027-Results) · [Zacks](https://www.zacks.com/stock/news/3003018/applied-digital-q1-earnings-miss-on-higher-costs-revenues-beat) · [24/7 Wall St](https://247wallst.com/cards/applied-digital-q1-2027-earnings-apld-01m4c1yz8n3e757hmdzsq1qbv1) · 공식 여부: 공식(실적, 전재본) / 보도(예상치)
 - 확신도: 높음 (GlobeNewswire 원문 사이트는 열리지 않아 전재본으로 확인 · 뒷부분 표는 요약으로만 봄)
 - 참고: 남은 칸 없는 앱 종목(ETF 제외): LIN·SHOP·GOOG·SATS(ECHO)·IREN·CLS·CBRS·APH·TTMI·STX·MA·FFIV·VICR·NXE·DNN.
+- 참고: 앱 다시 게시함(06:56 KST, 버전 268). 지난 게시와 같게 게시용 복사본에서만 CSP meta 한 줄을 뺐어요(저장소 파일은 그대로). 게시본과 차이는 실적 데이터 한 줄뿐이었어요.
