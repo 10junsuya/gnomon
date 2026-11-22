@@ -1,18 +1,58 @@
 {
-"updated_kst": "2026-11-23 05:44",
-"rot": 15,
+"updated_kst": "2026-11-23 06:13",
+"rot": 75,
 "how": "Scout(프로그램)이 10분마다 모은 기사 제목·링크와 공시예요. Wren이 공식 출처로 확인한 뒤 회사 화면에 한국어로 반영해요. 본문은 받지 않아요.",
 "sources": {
 "Yahoo Finance": "120종목 확인 · 실패 0",
 "CNBC": "63건",
 "Bloomberg": "25건",
 "WSJ": "61건",
-"Reuters": "40건",
+"Reuters": "45건",
 "FinancialJuice": "100건",
 "SEC EDGAR": "실패 HTTPError",
 "Fox Business": "50건"
 },
 "items": [
+{
+"id": "ee970f4d3abf",
+"t": "NVDA",
+"title": "Jeff Bezos sends a strong signal to Nvidia stock investors as CEO search heats up",
+"url": "https://www.thestreet.com/investing/jeff-bezos-sends-a-strong-signal-to-nvidia-stock-investors-as-ceo-search-heats-up?.tsrc=rss",
+"pub": "2026-11-22T21:07:00+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-22T21:13:53+00:00"
+},
+{
+"id": "620425de8e84",
+"t": "NVDA",
+"title": "Does Anthropic Have a Competitive Advantage? These are the Four Big Ones",
+"url": "https://www.fool.com/investing/2026/11/22/does-anthropic-have-a-competitive-advantage-these-are-the-four-big-ones/?.tsrc=rss",
+"pub": "2026-11-22T20:50:02+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-22T21:13:53+00:00"
+},
+{
+"id": "77b221569c1e",
+"t": "NVDA",
+"title": "Warren Buffett’s Successor, Greg Abel, Has Invested Nearly 47% of Berkshire Hathaway’s $360 Billion Stock Portfolio in Just 3 Stocks (and None Are AI Hyperscalers)",
+"url": "https://www.fool.com/investing/2026/11/22/warren-buffett-s-successor-greg-abel-has-invested-nearly-47-of-berkshire-hathaway-s-usd360-billion-stock-portfolio-in-just-3-stocks-and-none-are-ai-hyperscalers/?.tsrc=rss",
+"pub": "2026-11-22T20:47:02+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-22T21:13:53+00:00"
+},
+{
+"id": "c33348ed018b",
+"t": "NVDA",
+"title": "Anthropic Stock Could Soar by 72%, According to This Wall Street Analyst",
+"url": "https://www.fool.com/investing/2026/11/22/anthropic-stock-could-soar-by-72-according-to-this-wall-street-analyst/?.tsrc=rss",
+"pub": "2026-11-22T20:36:01+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-22T21:13:53+00:00"
+},
 {
 "id": "7017322738a1",
 "t": "NVDA",
@@ -32,6 +72,26 @@
 "src": "Yahoo Finance",
 "kind": "news",
 "seen": "2026-11-22T20:44:25+00:00"
+},
+{
+"id": "392a6010fa73",
+"t": "AAPL",
+"title": "A $6.4 Billion Fund Just Bought These 3 Stocks",
+"url": "https://www.tikr.com/blog/a-6-4-billion-fund-just-bought-these-3-stocks?ref=yahoofinance&tlnk=yf-261122-hf28rr6f&.tsrc=rss",
+"pub": "2026-11-22T20:20:18+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-22T21:13:53+00:00"
+},
+{
+"id": "cff96a13c216",
+"t": "PG",
+"title": "Nike vs. Procter & Gamble: Which Consumer Stock Is a Better Buy for 2027?",
+"url": "https://www.fool.com/coverage/better-buy/2026/11/22/nike-vs-procter-gamble-which-consumer-stock-is-a-better-buy-for-2027/?.tsrc=rss",
+"pub": "2026-11-22T20:11:25+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-22T21:13:53+00:00"
 },
 {
 "id": "baa92381eedd",
@@ -1232,6 +1292,16 @@
 "src": "Yahoo Finance",
 "kind": "news",
 "seen": "2026-11-22T12:44:29+00:00"
+},
+{
+"id": "fb23f739fca7",
+"t": "AAPL",
+"title": "Why is Apple Stock Holding Strong While the Rest of the Market Falls?",
+"url": "https://beincrypto.com/apple-stock-market-crash-price-outlook/?.tsrc=rss",
+"pub": "2026-11-22T12:25:31+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-22T21:13:53+00:00"
 },
 {
 "id": "1979aa84a29a",
@@ -5914,6 +5984,16 @@
 "seen": "2026-11-22T13:06:08+00:00"
 },
 {
+"id": "b753e1ca8bbf",
+"t": "MU",
+"title": "AMD Stock Crashes Another 13% – What’s Driving This Crisis?",
+"url": "https://beincrypto.com/amd-stock-price-crash-key-reasons/?.tsrc=rss",
+"pub": "2026-11-21T06:00:00+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-22T21:13:53+00:00"
+},
+{
 "id": "105c8aff3431",
 "t": "GOOGL",
 "title": "How to invest in transformational innovation",
@@ -6102,6 +6182,16 @@
 "src": "Yahoo Finance",
 "kind": "news",
 "seen": "2026-11-21T04:34:44+00:00"
+},
+{
+"id": "d2d468419a42",
+"t": "SNDK",
+"title": "Nvidia and SanDisk Bets Joined Bitcoin in a $1.76 Billion Liquidation Wave",
+"url": "https://beincrypto.com/crypto-liquidations-nvidia-sandisk-stock-bets/?.tsrc=rss",
+"pub": "2026-11-21T03:42:38+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-22T21:13:53+00:00"
 },
 {
 "id": "3bb7001a0da0",
@@ -7924,96 +8014,6 @@
 "seen": "2026-11-21T20:03:56+00:00"
 },
 {
-"id": "29474d67c740",
-"t": "NVDA",
-"title": "Revolution Medicines Drugged a Target Scientists Called “Undruggable” for Decades. Buy the Stock Hand Over Fist?",
-"url": "https://www.fool.com/investing/2026/11/20/revolution-medicines-drugged-a-target-scientists-called-undruggable-for-decades-buy-the-stock-hand-over-fist/?.tsrc=rss",
-"pub": "2026-11-20T20:56:02+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-20T21:15:37+00:00"
-},
-{
-"id": "4339629233a4",
-"t": "NVDA",
-"title": "Sector Update: Tech Stocks Tumble Late Afternoon",
-"url": "https://finance.yahoo.com/markets/stocks/articles/sector-tech-stocks-tumble-afternoon-205448210.html?.tsrc=rss",
-"pub": "2026-11-20T20:54:48+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-20T21:15:37+00:00"
-},
-{
-"id": "c77bf1eccaaf",
-"t": "GOOGL",
-"title": "Is Apple Stock Increasing Your Market Risk?",
-"url": "https://www.trefis.com/stock/aapl/articles/627248/is-apple-stock-increasing-your-market-risk/2026-11-20?.tsrc=rss",
-"pub": "2026-11-20T20:53:45+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-20T21:15:37+00:00"
-},
-{
-"id": "d398681edd45",
-"t": "NVDA",
-"title": "Update: S&P 500, Dow Slide Into Correction Territory as Investors Seek Treasury Cover Amid Big-Tech Plunge",
-"url": "https://finance.yahoo.com/markets/stocks/articles/p-500-dow-slide-correction-205308024.html?.tsrc=rss",
-"pub": "2026-11-20T20:53:08+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-20T21:15:37+00:00"
-},
-{
-"id": "550ecafc0524",
-"t": "INTC",
-"title": "AMD Is Down 26% and Intel Is Down 42%. Which AI Stock Is Worth Buying on the Dip?",
-"url": "https://www.fool.com/coverage/better-buy/2026/11/20/amd-is-down-26-and-intel-is-down-42-which-ai-stock-is-worth-buying-on-the-dip/?.tsrc=rss",
-"pub": "2026-11-20T20:50:02+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-20T21:15:37+00:00"
-},
-{
-"id": "41bb22f9857c",
-"t": "SPCX",
-"title": "Tesla Sinks 8%, SpaceX Down 7%, Rivian Down 8% as AI Sell-Off Swamps HSBC Upgrade",
-"url": "https://www.tikr.com/blog/tesla-sinks-8-spacex-down-7-rivian-down-8-as-ai-sell-off-swamps-hsbc-upgrade?ref=yahoofinance&tlnk=yf-261120-49fmfcrf&.tsrc=rss",
-"pub": "2026-11-20T20:45:55+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-20T21:15:37+00:00"
-},
-{
-"id": "4375db89bbb6",
-"t": "SPCX",
-"title": "Here’s who’s getting the richest from Anthropic’s $81 billion IPO",
-"url": "https://finance.yahoo.com/technology/ai/articles/getting-richest-anthropic-81-billion-204238631.html?.tsrc=rss",
-"pub": "2026-11-20T20:42:38+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-20T23:44:15+00:00"
-},
-{
-"id": "58cd9e0a9921",
-"t": "CRWV",
-"title": "Top Research Reports for Coca-Cola, Medtronic & Palo Alto Networks",
-"url": "https://finance.yahoo.com/markets/stocks/articles/top-research-reports-coca-cola-204200577.html?.tsrc=rss",
-"pub": "2026-11-20T20:42:00+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-20T22:14:08+00:00"
-},
-{
-"id": "58223cd73e4c",
-"t": "GOOGL",
-"title": "“Pretty Bizarre”: Microsoft Is Worth More Than Alphabet. Which Makes No Sense",
-"url": "https://www.tikr.com/blog/pretty-bizarre-microsoft-is-worth-more-than-alphabet-which-makes-no-sense?ref=yahoofinance&tlnk=yf-261120-cgch722v&.tsrc=rss",
-"pub": "2026-11-20T20:38:43+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-20T21:15:37+00:00"
-},
-{
 "id": "3e879bcc0620",
 "t": "",
 "title": "Dip Buyers Hesitate to Step In as Nasdaq 100 Nears a Bear Market",
@@ -8602,6 +8602,16 @@
 "src": "Reuters",
 "kind": "market",
 "seen": "2026-11-22T20:44:25+00:00"
+},
+{
+"id": "e4ca3af42f26",
+"t": "",
+"title": "AOIL.BE%5EA24 - | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPWE1CR3pMb3kxRTBTNF9Wc2xJOHVMaVpaSElRQlUwVnZzQVY4MXIzUEdjcklGX1ZCMF8xaTc5b3JtdVIxZmtVdjFjYzlWc3VJdUZVekM0MllyaE1qa182UG9ROE5hSVBTQmdfVmVnQjZERkNXRFktY0stOFZzTkhYRUdn?oc=5",
+"pub": "2026-11-22T13:02:00+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-22T21:13:53+00:00"
 },
 {
 "id": "b68e3b0bfe01",
@@ -11002,16 +11012,6 @@
 "src": "FinancialJuice",
 "kind": "market",
 "seen": "2026-11-21T19:14:53+00:00"
-},
-{
-"id": "ce8a07a3f615",
-"t": "",
-"title": "Trump’s Putin Outreach Tests Ukraine Talks",
-"url": "https://www.bloomberg.com/news/videos/2026-11-21/trump-s-putin-outreach-tests-ukraine-talks-video",
-"pub": "2026-11-21T13:56:40+00:00",
-"src": "Bloomberg",
-"kind": "market",
-"seen": "2026-11-21T14:14:40+00:00"
 }
 ]
 }
