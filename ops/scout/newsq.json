@@ -1,18 +1,58 @@
 {
-"updated_kst": "2026-11-22 10:47",
-"rot": 115,
+"updated_kst": "2026-11-22 11:13",
+"rot": 175,
 "how": "Scout(프로그램)이 10분마다 모은 기사 제목·링크와 공시예요. Wren이 공식 출처로 확인한 뒤 회사 화면에 한국어로 반영해요. 본문은 받지 않아요.",
 "sources": {
 "Yahoo Finance": "120종목 확인 · 실패 0",
 "CNBC": "63건",
 "Bloomberg": "27건",
 "WSJ": "61건",
-"Reuters": "39건",
+"Reuters": "42건",
 "FinancialJuice": "100건",
 "SEC EDGAR": "실패 HTTPError",
 "Fox Business": "50건"
 },
 "items": [
+{
+"id": "721b2c276a48",
+"t": "NVDA",
+"title": "Intel Says It Just Signed Its First Customer for Its Most Advanced Chipmaking Process. The Stock Is Still More Than 60% Below Its June Record.",
+"url": "https://www.fool.com/investing/2026/11/21/intel-says-it-just-signed-its-first-customer-for-its-most-advanced-chipmaking-process-the-stock-is-still-more-than-60-below-its-june-record/?.tsrc=rss",
+"pub": "2026-11-22T02:07:02+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-22T02:13:54+00:00"
+},
+{
+"id": "eeb493eef29c",
+"t": "NVDA",
+"title": "3 Stocks I'm Ready to Buy if the Market Crashes",
+"url": "https://www.fool.com/investing/2026/11/21/3-stocks-im-ready-to-buy-if-the-market-crashes/?.tsrc=rss",
+"pub": "2026-11-22T01:53:01+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-22T02:13:54+00:00"
+},
+{
+"id": "ae648488c1f3",
+"t": "NVDA",
+"title": "This Under-the-Radar Crypto Stock Could Surprise Everyone",
+"url": "https://www.fool.com/investing/2026/11/21/this-under-the-radar-crypto-stock-could-surprise-e/?.tsrc=rss",
+"pub": "2026-11-22T01:50:00+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-22T02:13:54+00:00"
+},
+{
+"id": "fa76d04fb840",
+"t": "BABA",
+"title": "China’s AI stocks lose $1.7 trillion as tech selloff deepens",
+"url": "https://finance.yahoo.com/technology/ai/articles/china-ai-stocks-lose-1-013928656.html?.tsrc=rss",
+"pub": "2026-11-22T01:39:28+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-22T02:13:54+00:00"
+},
 {
 "id": "df6040aa4220",
 "t": "MU",
@@ -22,6 +62,16 @@
 "src": "Yahoo Finance",
 "kind": "news",
 "seen": "2026-11-22T01:43:56+00:00"
+},
+{
+"id": "3c167c9fde04",
+"t": "NOW",
+"title": "ServiceNow (NOW) Launches Autonomous CRM Engine And Expands AI Risk Monitoring",
+"url": "https://finance.yahoo.com/technology/ai/articles/servicenow-now-launches-autonomous-crm-011149322.html?.tsrc=rss",
+"pub": "2026-11-22T01:11:49+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-22T02:13:54+00:00"
 },
 {
 "id": "27f38cfa8f13",
@@ -7962,56 +8012,6 @@
 "src": "Yahoo Finance",
 "kind": "news",
 "seen": "2026-11-20T18:39:45+00:00"
-},
-{
-"id": "7d290f371860",
-"t": "CME",
-"title": "CME’s CEO Just Sold 43% of His Shares Near a Record",
-"url": "https://247wallst.com/investing/2026/11/20/cmes-ceo-just-sold-43-of-his-shares-near-a-record/?.tsrc=rss",
-"pub": "2026-11-20T17:07:40+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-20T17:40:09+00:00"
-},
-{
-"id": "1878307b6323",
-"t": "NVDA",
-"title": "Prediction: This Quantum Computing Stock Will Be the Biggest Winner of 2027",
-"url": "https://www.fool.com/investing/2026/11/20/prediction-this-quantum-computing-stock-will-be-the-biggest-winner-of-2027/?.tsrc=rss",
-"pub": "2026-11-20T17:07:01+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-20T17:14:24+00:00"
-},
-{
-"id": "d66292279d90",
-"t": "UNH",
-"title": "UnitedHealth Stock Jumps After TD Cowen Delivers Major Upgrade",
-"url": "https://finance.yahoo.com/healthcare/articles/unitedhealth-stock-jumps-td-cowen-170636688.html?.tsrc=rss",
-"pub": "2026-11-20T17:06:36+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-20T18:14:43+00:00"
-},
-{
-"id": "544266e6a78c",
-"t": "COP",
-"title": "BP Steps Up Deleveraging With Strong Cash Flows and Divestments",
-"url": "https://finance.yahoo.com/energy/articles/bp-steps-deleveraging-strong-cash-170600771.html?.tsrc=rss",
-"pub": "2026-11-20T17:06:00+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-20T19:14:18+00:00"
-},
-{
-"id": "5ea22bce9067",
-"t": "NVDA",
-"title": "Is Brookfield Corporation Stock a Buy, Sell, or Hold 20% Below Its 52-Week High?",
-"url": "https://www.fool.com/investing/2026/11/20/is-brookfield-corporation-stock-a-buy-sell-or-hold-20-below-its-52-week-high/?.tsrc=rss",
-"pub": "2026-11-20T17:05:02+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-20T17:14:24+00:00"
 },
 {
 "id": "083252295546",
