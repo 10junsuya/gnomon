@@ -85,11 +85,18 @@ def tickers():
             out += [i["ticker"] for i in v.get("top", []) if i.get("ticker")]
     except (OSError, ValueError):
         pass
+    # 노몬 ETF에 담기지 않았어도 앱 회사 화면에 있는 회사(MSTR·FSLR 등)는 시세를 받아요 (대표 결정 2026-11-22, 31번)
+    try:
+        have = {re.sub(r"[-.]", "", t) for t in out}
+        co = json.loads((ROOT / "data" / "companies.json").read_text(encoding="utf-8")).get("co", {})
+        out += [t for t in co if re.fullmatch(r"[A-Z]{1,6}", t) and t not in have]
+    except (OSError, ValueError):
+        pass
     seen = []
     for t in out:
         if t not in seen:
             seen.append(t)
-    return seen[:260]
+    return seen[:300]
 
 
 BACK_DAYS = 8  # 이어 계산에 쓰는 최근 미국 장 날 수
