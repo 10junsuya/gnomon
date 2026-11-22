@@ -1,18 +1,28 @@
 {
-"updated_kst": "2026-11-23 01:30",
-"rot": 70,
+"updated_kst": "2026-11-23 01:44",
+"rot": 130,
 "how": "Scout(프로그램)이 10분마다 모은 기사 제목·링크와 공시예요. Wren이 공식 출처로 확인한 뒤 회사 화면에 한국어로 반영해요. 본문은 받지 않아요.",
 "sources": {
 "Yahoo Finance": "120종목 확인 · 실패 0",
 "CNBC": "63건",
 "Bloomberg": "24건",
 "WSJ": "61건",
-"Reuters": "46건",
+"Reuters": "48건",
 "FinancialJuice": "100건",
 "SEC EDGAR": "실패 HTTPError",
 "Fox Business": "50건"
 },
 "items": [
+{
+"id": "ac96533ebd32",
+"t": "CIEN",
+"title": "Missed the First AI Rally? 5 Oversold Stocks With 50%+ Upside Potential",
+"url": "https://finance.yahoo.com/technology/ai/articles/missed-first-ai-rally-5-162901628.html?.tsrc=rss",
+"pub": "2026-11-22T16:29:01+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-22T16:44:48+00:00"
+},
 {
 "id": "ce2dac18f5ae",
 "t": "NVDA",
@@ -72,6 +82,16 @@
 "src": "Yahoo Finance",
 "kind": "news",
 "seen": "2026-11-22T16:30:23+00:00"
+},
+{
+"id": "52cffe235879",
+"t": "AMZN",
+"title": "A $1.6 Billion Fund Just Bought These 3 Stocks",
+"url": "https://www.tikr.com/blog/a-1-6-billion-fund-just-bought-these-3-stocks?ref=yahoofinance&tlnk=yf-261122-3wx5vxcw&.tsrc=rss",
+"pub": "2026-11-22T16:05:31+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-22T16:44:48+00:00"
 },
 {
 "id": "d850784374e4",
@@ -812,6 +832,16 @@
 "src": "Yahoo Finance",
 "kind": "news",
 "seen": "2026-11-22T11:44:42+00:00"
+},
+{
+"id": "875ed9584a8f",
+"t": "GOOGL",
+"title": "A $1.5 Billion Fund Just Bought These 3 Stocks",
+"url": "https://www.tikr.com/blog/a-1-5-billion-fund-just-bought-these-3-stocks?ref=yahoofinance&tlnk=yf-261122-g6v4gp7x&.tsrc=rss",
+"pub": "2026-11-22T11:12:49+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-22T16:44:48+00:00"
 },
 {
 "id": "c1653761fcdf",
@@ -7984,34 +8014,14 @@
 "seen": "2026-11-20T20:14:00+00:00"
 },
 {
-"id": "9e984e755726",
-"t": "DIA",
-"title": "These 4 Conservative Dow Jones Industrials Dividend Stocks Are Built for Sell-Offs",
-"url": "https://247wallst.com/investing/2026/11/20/these-4-conservative-dow-jones-industrials-dividend-stocks-are-built-for-sell-offs/?.tsrc=rss",
-"pub": "2026-11-20T19:02:05+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-20T19:44:51+00:00"
-},
-{
-"id": "56c0b52844bc",
-"t": "NVDA",
-"title": "Should Anthropic Thank Ilya Sutskever?",
-"url": "https://www.trefis.com/stock/ant/articles/627093/should-anthropic-thank-ilya-sutskever/2026-11-20?.tsrc=rss",
-"pub": "2026-11-20T19:02:04+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-20T19:44:51+00:00"
-},
-{
-"id": "e64f61cd944d",
-"t": "VOO",
-"title": "Does Gold Protect You When Stocks Fall?",
-"url": "https://www.trefis.com/stock/gld/articles/627167/does-gold-protect-you-when-stocks-fall/2026-11-20?.tsrc=rss",
-"pub": "2026-11-20T19:01:27+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-20T19:44:51+00:00"
+"id": "326057175995",
+"t": "",
+"title": "Yemen's Houthis: attack on Rabigh oil refinery on Saudi Arabia's western Red Sea coast",
+"url": "https://www.financialjuice.com/News/9863491/Yemens-Houthis-attack-on-Rabigh-oil-refinery-on-Saudi-Arabias-western-Red-Sea-coast.aspx?xy=rss",
+"pub": "2026-11-22T16:35:42+00:00",
+"src": "FinancialJuice",
+"kind": "market",
+"seen": "2026-11-22T16:44:48+00:00"
 },
 {
 "id": "52100f89d495",
@@ -11002,16 +11012,6 @@
 "src": "FinancialJuice",
 "kind": "market",
 "seen": "2026-11-21T19:14:53+00:00"
-},
-{
-"id": "ea545be29ea6",
-"t": "",
-"title": "EU's Von der Leyen: soon we will present new European security plan to boost preparedness and deterrence",
-"url": "https://www.financialjuice.com/News/9862909/EUs-Von-der-Leyen-soon-we-will-present-new-European-security-plan-to-boost-preparedness-and-deterrence.aspx?xy=rss",
-"pub": "2026-11-21T08:47:05+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-21T08:50:41+00:00"
 }
 ]
 }
