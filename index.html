@@ -1482,6 +1482,7 @@ function heroPred(e, c, st){
       ${stageBar(n)}
       ${n===1 && Math.abs(c.total||0)<0.0005 ? `<div class="why small muted">한국 장이 끝난 뒤 아직 미국에서 새로 움직인 게 없어요. 미국 장이 열리면 숫자가 생겨요.</div>` : ""}
       ${why ? `<div class="why small"><span class="muted">많이 움직인 회사</span> ${why}</div>` : ""}
+      ${e.asiaW >= 0.2 ? `<div class="why small"><span class="muted">아시아 몫</span> ${Math.round(e.asiaW*100)}%는 오늘 낮 한국·아시아 장에서 정해져요. 이 예상에는 0%로 들어가 있어요.</div>` : ""}
       ${myMoneyLine(e)}
       ${tonightEvents(e, tgt)}
       ${trackMini(e)}
@@ -1605,19 +1606,22 @@ function priceStateCard(e, c, st){
 /* 적중 기록: 매일 아침(미국 장 마감 뒤) 저장한 예측 vs 실제 공시 기준가 (data/track.json) */
 const TRACK = readData("d-track") || {};
 function trackOf(e){ return (((TRACK.etfs||{})[e.code])||[]).filter(x=>okn(x.err)).slice(-20); }
-function trackSum(xs){
+/* 액티브 ETF는 비중이 자주 바뀌어서 '거꾸로 계산'(지금 비중으로 돌려 본 값)은 평균·방향에서 빼요 (대표 승인 34번, 2026-11-22) */
+const isActive = e => /액티브/.test(e.name||"");
+function trackSum(xs, e){
+  if(e && isActive(e)) xs = xs.filter(x=>x.kind==="live");
   if(!xs.length) return null;
   const mae = xs.reduce((a,x)=>a+Math.abs(x.err),0)/xs.length;
   const dir = xs.filter(x=>Math.abs(x.actual_pct)>=0.05).map(x=>Math.sign(x.pred_pct)===Math.sign(x.actual_pct));
   return {n:xs.length, mae, hit:dir.filter(Boolean).length, dn:dir.length, live:xs.filter(x=>x.kind==="live").length};
 }
 function trackMini(e){
-  const S = trackSum(trackOf(e)); if(!S) return "";
+  const S = trackSum(trackOf(e), e); if(!S) return "";
   return `<a class="why small" href="javascript:void(0)" role="button" data-jump="track" style="display:block;min-height:24px;text-decoration:none;color:inherit">
     <span class="muted">적중 기록</span> 최근 ${S.n}번 평균 <b class="num">±${S.mae.toFixed(2)}%p</b> 차이 · 방향 ${S.hit}/${S.dn} 맞음 <span class="muted">›</span></a>`;
 }
 function trustCard(e, c){
-  const xs = trackOf(e), S = trackSum(xs);
+  const xs = trackOf(e), S = trackSum(xs, e), act = isActive(e);
   const asia = e.asiaW > 0.05;
   const head = `<section class="card" id="track"><h2>적중 기록 ${q("적중 기록")}<span class="sub">노몬 예측 vs 실제 기준가</span></h2>`;
   if(!S) return head+`<div class="small muted">기록을 쌓는 중이에요. 매일 아침 미국 장이 끝난 뒤 예측을 저장하고, 실제 기준가가 공시되면(보통 다음 날 오후) 여기에 맞았는지 보여드려요.</div></section>`;
@@ -1625,7 +1629,7 @@ function trustCard(e, c){
   const bars = xs.map((x,i)=>{ const h=Math.min(Math.abs(x.err)/mx,1)*(H/2-4); const y = x.err>=0 ? H/2-h : H/2;
     return `<rect x="${(i*bw+2).toFixed(1)}" y="${y.toFixed(1)}" width="${Math.max(bw-4,2).toFixed(1)}" height="${Math.max(h,1).toFixed(1)}" rx="2" fill="var(--${x.kind==="live"?"accent":"muted"})" opacity="${x.kind==="live"?1:.5}"/>`; }).join("");
   const p2 = v => `${v>0?"+":v<0?"−":""}${Math.abs(v).toFixed(2)}%`;
-  const rows = xs.slice(-7).reverse().map(x=>`<div class="row"><div><div class="n num">${mdTxt(x.target)}</div><div class="t">${x.kind==="live"?"그날 아침 저장":"거꾸로 계산"}</div></div>
+  const rows = xs.slice(-7).reverse().map(x=>`<div class="row"><div><div class="n num">${mdTxt(x.target)}</div><div class="t">${x.kind==="live"?"그날 아침 저장":act?"거꾸로 계산 · 평균에서 뺌":"거꾸로 계산"}</div></div>
       <div style="display:grid;grid-template-columns:repeat(3,64px);gap:6px;text-align:right" class="num small">
         <span class="${cls(x.pred_pct)}">${p2(x.pred_pct)}</span><span class="${cls(x.actual_pct)}">${p2(x.actual_pct)}</span><span class="muted">${x.err>=0?"+":"−"}${Math.abs(x.err).toFixed(2)}</span></div></div>`).join("");
   return head+`
@@ -1637,7 +1641,7 @@ function trustCard(e, c){
       <line x1="0" x2="${W}" y1="${H/2}" y2="${H/2}" stroke="var(--line)"/>${bars}</svg>
     <div class="tiny muted" style="display:flex;justify-content:flex-end;gap:12px;margin:2px 0 6px"><span>예측</span><span>실제</span><span>차이(%p)</span></div>
     ${rows}
-    <div class="note">등락률은 전날 공시 기준가 대비예요. '그날 아침 저장'은 미국 장이 끝난 뒤 저장해 두고 고치지 않은 예측이고, '거꾸로 계산'은 같은 계산을 지난 날짜에 돌려 본 값(지금 구성 비중·유럽중앙은행 환율)이에요.${asia?` 이 ETF는 아시아 상장 회사가 ${Math.round(e.asiaW*100)}% 들어 있어요. 그 회사들은 한국 낮에 움직여서 밤사이 예측에 안 들어가니 차이가 커질 수 있어요.`:""}${e.kind==="pdf"&&e.rest&&e.rest.w>0.1?" 시세를 못 받은 회사가 많으면 차이가 커질 수 있어요.":""}</div>
+    <div class="note">등락률은 전날 공시 기준가 대비예요. '그날 아침 저장'은 미국 장이 끝난 뒤 저장해 두고 고치지 않은 예측이고, '거꾸로 계산'은 같은 계산을 지난 날짜에 돌려 본 값(지금 구성 비중·유럽중앙은행 환율)이에요.${act?" 액티브 ETF는 비중이 자주 바뀌어서 '거꾸로 계산'은 평균·방향에서 뺐어요.":""}${asia?` 이 ETF는 아시아 상장 회사가 ${Math.round(e.asiaW*100)}% 들어 있어요. 그 회사들은 한국 낮에 움직여서 밤사이 예측에 안 들어가니 차이가 커질 수 있어요.`:""}${e.kind==="pdf"&&e.rest&&e.rest.w>0.1?" 시세를 못 받은 회사가 많으면 차이가 커질 수 있어요.":""}</div>
     <div class="tiny muted" style="margin-top:6px">시세 반영 비중 ${Math.round(c.coverage*100)}% · 기록 갱신 ${TRACK.updated_kst||""}</div>
   </section>`;
 }

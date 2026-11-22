@@ -57,7 +57,8 @@ def models():
         kind = hv.get("kind") or G.get("kind") or "index"
         top = [(TK(x["ticker"]), x["weight"] / 100) for x in hv.get("top", []) if x.get("ticker")]
         out[code] = {"name": name, "kind": kind, "proxy": TK(hv.get("proxy") or G.get("proxy") or ""), "top": top,
-                     "restw": (hv.get("rest_weight") or 0) / 100, "cc": G.get("cc"), "hedge": bool(G.get("hedge"))}
+                     "restw": (hv.get("rest_weight") or 0) / 100, "cc": G.get("cc"), "hedge": bool(G.get("hedge")),
+                     "asia": round(hv.get("asia_weight") or 0, 1), "active": "액티브" in name}
     return out
 
 
@@ -135,6 +136,15 @@ def entry(kind, base, target, base_nav, pred_nav, made, u_from, u_to, fx_from, f
             "made": made, "us": [u_from, u_to], "fx": [round(fx_from, 2) if fx_from else None, round(fx_to, 2) if fx_to else None]}
 
 
+def tag(m, e):
+    """대표 승인 34번(2026-11-22): 아시아 몫(%)은 예측에 0% 변화로 들어가요 · 액티브 ETF는 비중이 자주 바뀌어 back 은 평균에서 빼요"""
+    if m.get("asia"):
+        e["asia"] = m["asia"]
+    if m.get("active"):
+        e["active"] = 1
+    return e
+
+
 def fill(e, rows):
     """공시 기준가가 나왔으면 실제값·오차를 채워요 (전날 공시 기준가 대비 등락률로 비교)"""
     by = {r["d"]: r["nav"] for r in rows if r.get("nav")}
@@ -190,7 +200,7 @@ def main():
             if f is None or (not m["hedge"] and not (f0 and f1)):
                 continue
             pred = r0["nav"] * f * (1 if m["hedge"] else f1 / f0)
-            T.setdefault(code, []).append(entry("back", r0["d"], r1["d"], r0["nav"], pred, made, u0, u1, f0, f1)); nb += 1
+            T.setdefault(code, []).append(tag(m, entry("back", r0["d"], r1["d"], r0["nav"], pred, made, u0, u1, f0, f1))); nb += 1
 
     # 2) 오늘 예측 저장: 한국 05:30~09:00, 오늘이 한국 장 날이고 미국 종가가 들어와 있을 때 한 번만
     nl = 0
@@ -218,7 +228,7 @@ def main():
             fp, fxp = factor(m, px, u0, px.prev(prev_kr)), fx_at(hist, prev_kr)
             prev_nav = r0["nav"] if r0["d"] == prev_kr else (r0["nav"] * fp * (1 if m["hedge"] else fxp / f0) if fp and (m["hedge"] or fxp) else None)
             T[code] = [e for e in T.get(code, []) if e["target"] != today]  # 거꾸로 계산 값보다 그날 저장 값이 우선
-            en = entry("live", r0["d"], today, r0["nav"], pred, made, u0, u_to, f0, fx_now)
+            en = tag(m, entry("live", r0["d"], today, r0["nav"], pred, made, u0, u_to, f0, fx_now))
             if prev_nav:
                 en["day_pct"] = round((pred / prev_nav - 1) * 100, 3)
             T[code].append(en); nl += 1
@@ -226,6 +236,8 @@ def main():
     # 3) 실제값 채우기 + 정리
     for code, es in T.items():
         for e in es:
+            if code in M:
+                tag(M[code], e)
             if "actual_nav" not in e:
                 fill(e, rows_all.get(code, []))
         es.sort(key=lambda e: e["target"])
@@ -233,10 +245,11 @@ def main():
     out = {"updated_kst": made,
            "how": "예측 기준가 = 마지막 공시 기준가 × 미국 종가 변화(구성 비중) × 환율 변화. "
                   "live = 그날 아침(미국 장 마감 뒤) 저장한 값, back = 같은 계산을 지난 날짜에 돌려 본 값(지금 비중·유럽중앙은행 환율). "
+                  "asia = 예측에 0% 변화로 들어간 아시아 상장 몫(%), active = 액티브 ETF(back 은 평균에서 뺌). "
                   "오차 = 예측 등락률 − 실제 등락률(전날 공시 기준가 대비, %p).",
            "etfs": T}
     OUT.write_text(json.dumps(out, ensure_ascii=False, separators=(",", ":")) + "\n", encoding="utf-8")
-    done = [e for es in T.values() for e in es if "err" in e]
+    done = [e for es in T.values() for e in es if "err" in e and not (e.get("active") and e["kind"] == "back")]
     mae = sum(abs(e["err"]) for e in done) / len(done) if done else 0
     print(f"적중 기록: 거꾸로 {nb}건 추가 · 오늘 예측 {nl}건 저장 · 채점 {len(done)}건 · 평균 오차 {mae:.2f}%p")
 
