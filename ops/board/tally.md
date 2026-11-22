@@ -230,3 +230,4 @@
 - 출처: [키사이트 4분기 실적 발표 (SEC 8-K)](https://www.sec.gov/Archives/edgar/data/0001601046/000160104626000040/exhibit991-q426pressrelease.htm) · [Newsquawk 예상치](https://www.newsquawk.com/headlines/keysight-technologies-inc-keys-q4-fy26-usd-adj-eps-361-exp-337-revenue-199bln-exp-195bln) · 공식 여부: 공식(실적) / 보도(예상치)
 - 확신도: 높음
 - 참고: 칸이 없는 앱 종목이 더 남아 있어요(ETF 제외): LIN·SHOP·GOOG·SATS·ORCL·IREN·APLD·CLS·CBRS·APH·TTMI·STX·NFLX·MA·FFIV·VICR·NXE·DNN. IREN 은 11/25 발표 때(있으면) 함께, 나머지는 대상 없는 차례에 한 곳씩.
+- 참고: 앱 다시 게시함(05:2x KST, 버전 265). 지난 게시와 같게 게시용 복사본에서만 CSP meta 한 줄을 뺐어요(저장소 파일은 그대로). 게시본과 차이는 실적 데이터 한 줄뿐이었어요.
