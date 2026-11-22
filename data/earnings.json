@@ -12238,5 +12238,61 @@
    ],
    "metric": "핵심 매출"
   }
+ },
+ "MA": {
+  "p": "3분기 · 2026년 7~9월",
+  "tag": "+14%",
+  "rows": [
+   [
+    "매출",
+    "98.1억 달러 (+14%)"
+   ],
+   [
+    "부문",
+    "결제 네트워크 +11% · 부가 서비스 +19%"
+   ],
+   [
+    "영업이익",
+    "58.6억 달러 (+16%, 이익률 59.8%)"
+   ],
+   [
+    "조정 주당순이익",
+    "5.31달러 (+21%)"
+   ]
+  ],
+  "note": "해외 결제(국경 간 거래 +11%)와 데이터·보안 같은 부가 서비스가 매출을 이끌었어요. 보도자료에는 전망이 없고, 다음 분기 매출 성장률 '낮은 두 자릿수의 위쪽'은 실적 콜 내용을 전한 Zacks·FXC 정리예요. 발표 전 매출 예상은 매체마다 96.3억~96.7억 달러였어요(Zacks는 비율로만 밝혀 계산).",
+  "src": [
+   [
+    "마스터카드 3분기 실적 발표 (SEC 8-K)",
+    "https://www.sec.gov/Archives/edgar/data/0001141391/000114139126000122/ma09302026-exx991xearnings.htm"
+   ],
+   [
+    "예상치 (StockStory)",
+    "https://stockstory.org/us/stocks/nyse/ma/news/earnings/mastercards-nysema-q3-2026-sales-top-estimates"
+   ],
+   [
+    "예상치 (Newsquawk)",
+    "https://www.newsquawk.com/headlines/mastercard-incorporated-ma-q3-2026-usd-adj-eps-531-exp-517-revenue-98bln-exp-966bln"
+   ]
+  ],
+  "chart": {
+   "cur": "usd",
+   "now": [
+    "7~9월",
+    9807
+   ],
+   "est": 9670,
+   "next": {
+    "label": "10~12월",
+    "guide": null,
+    "cons": null,
+    "when": "2027년 1월 말 (예상 · 회사 발표일 공지 전)",
+    "gtext": "회사 전망(콜): 10~12월 매출 성장률 '낮은 두 자릿수의 위쪽' (통화 영향 제외)"
+   },
+   "prev": [
+    "1년 전",
+    8602
+   ]
+  }
  }
 }

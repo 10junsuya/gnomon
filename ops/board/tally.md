@@ -263,3 +263,10 @@
 - 확신도: 높음 (8-K 앞부분 본문·표 확인, 뒷부분 조정표 일부는 요약으로만 봄 · 예상치는 매체 한 곳)
 - 참고: 남은 칸 없는 앱 종목(ETF 제외): LIN·SHOP·GOOG·SATS(ECHO)·IREN·CLS·APH·TTMI·STX·MA·FFIV·VICR·NXE·DNN.
 - 참고: 앱 다시 게시함(07:25 KST, 버전 269). 지난 게시와 같게 게시용 복사본에서만 CSP meta 한 줄을 뺐어요(저장소 파일은 그대로). 게시본과 차이는 실적 데이터 한 줄뿐이었어요.
+
+### T-20261123-0753-1 · 새 칸 · MA 실적 카드 (대표 승인 38번에 따라)
+- 시각: 2026-11-23 08:0x KST
+- 내용: 이번 차례 A·B 대상 없음(events.json 지난 earn 일정 모두 done, earnings.json next.when 가장 빠른 확정일은 ADI·DELL 11/24). 칸이 없는 앱 종목 중 IREN(11/25 발표 때)·ECHO(사업 분리로 비교 복잡)를 빼고 ETF 비중이 가장 큰 MA(마스터카드, 한 ETF에 4.5%) 새 칸. 기간 「3분기 · 2026년 7~9월」: 매출 98.07억 달러(+14%, 1년 전 86.02억 — 8-K 표 숫자), 결제 네트워크 +11%·부가 서비스 +19%(보도자료엔 금액 없음, 성장률만), 영업이익 58.62억(+16%, 이익률 59.8%), 조정 EPS 5.31달러(+21%). 보도자료에 전망 없음 → guide null, gtext 에 콜에서 밝힌 10~12월 성장률 '낮은 두 자릿수의 위쪽'(Zacks·FXC 정리, 통화 영향 제외). 발표 전 매출 예상 est 96.7억(S&P, StockStory), Newsquawk 96.6억·Zacks 비율로 계산하면 약 96.3억 — note 에 범위. 다음 분기 cons 확인 못 해 null. 다음 발표일 공지 없음 → "2027년 1월 말 (예상 · 회사 발표일 공지 전)", 새 일정 안 넣음. 회사 발표 2026-10-29 장 시작 전, 반영 2026-11-23 08:0x KST.
+- 출처: [마스터카드 3분기 실적 발표 (SEC 8-K)](https://www.sec.gov/Archives/edgar/data/0001141391/000114139126000122/ma09302026-exx991xearnings.htm) · [StockStory](https://stockstory.org/us/stocks/nyse/ma/news/earnings/mastercards-nysema-q3-2026-sales-top-estimates) · [Newsquawk](https://www.newsquawk.com/headlines/mastercard-incorporated-ma-q3-2026-usd-adj-eps-531-exp-517-revenue-98bln-exp-966bln) · [Zacks](https://www.zacks.com/stock/news/3018925/mastercard-beats-q3-earnings-on-higher-cross-border-volumes-pricing) · 공식 여부: 공식(실적) / 보도(예상치·콜 전망)
+- 확신도: 높음 (실적 숫자는 8-K 표 / 다음 분기 전망은 매체 정리)
+- 참고: 남은 칸 없는 앱 종목(ETF 제외): LIN·SHOP·GOOG·SATS(ECHO)·IREN·CLS·APH·TTMI·STX·FFIV·VICR·NXE·DNN.
