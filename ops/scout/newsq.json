@@ -1,18 +1,28 @@
 {
-"updated_kst": "2026-11-23 04:44",
-"rot": 133,
+"updated_kst": "2026-11-23 04:50",
+"rot": 14,
 "how": "Scout(프로그램)이 10분마다 모은 기사 제목·링크와 공시예요. Wren이 공식 출처로 확인한 뒤 회사 화면에 한국어로 반영해요. 본문은 받지 않아요.",
 "sources": {
 "Yahoo Finance": "120종목 확인 · 실패 0",
 "CNBC": "63건",
 "Bloomberg": "25건",
 "WSJ": "61건",
-"Reuters": "58건",
+"Reuters": "49건",
 "FinancialJuice": "100건",
 "SEC EDGAR": "실패 HTTPError",
 "Fox Business": "50건"
 },
 "items": [
+{
+"id": "cb24444b2e18",
+"t": "AMZN",
+"title": "e.l.f. Beauty vs. Monster Beverage: Which Consumer Goods Stock Is a Better Buy for 2027?",
+"url": "https://www.fool.com/coverage/better-buy/2026/11/22/elf-beauty-vs-monster-beverage-which-consumer-goods-stock-is-a-better-buy-for-2027/?.tsrc=rss",
+"pub": "2026-11-22T19:43:20+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-22T19:50:27+00:00"
+},
 {
 "id": "e0710cd20a97",
 "t": "BABA",
@@ -8004,16 +8014,6 @@
 "seen": "2026-11-20T20:36:06+00:00"
 },
 {
-"id": "8b552cdc4028",
-"t": "AXP",
-"title": "American Express (AXP) Is Growing Revenue by More Than 10%, but Its Stock Is 25% Cheaper: Is Wall Street Missing an Opportunity?",
-"url": "https://finance.yahoo.com/markets/stocks/articles/american-express-axp-growing-revenue-201629481.html?.tsrc=rss",
-"pub": "2026-11-20T20:16:29+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-20T20:44:19+00:00"
-},
-{
 "id": "bb031ac9d17a",
 "t": "",
 "title": "Goldman Traders See Entry Point in US Stocks But Warn of Risks",
@@ -8522,6 +8522,16 @@
 "src": "Bloomberg",
 "kind": "market",
 "seen": "2026-11-22T13:13:59+00:00"
+},
+{
+"id": "e75e909814c5",
+"t": "",
+"title": "Asterisk Inc (6522.T) | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBjS2MtcmhkVmhZUllXWDgtOWhKYUQybU5yVkhEUGNfM0NIQVFPTUlxeFVBdklBUHFiMmlyVnBNN09HWlN3YlpMMS1sVWlXclhSTkN2MWp6ejNVZllJZVZ3YWRYU2M0OUY2T25Z?oc=5",
+"pub": "2026-11-22T13:03:54+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-22T19:50:27+00:00"
 },
 {
 "id": "9346ceb9d6bd",
@@ -11002,16 +11012,6 @@
 "src": "Bloomberg",
 "kind": "market",
 "seen": "2026-11-21T13:15:23+00:00"
-},
-{
-"id": "d26c4b555eb9",
-"t": "",
-"title": "WisdomTree Europe SmallCap Dividend Fund (DFE.N) | Stock Price & Latest News - Reuters",
-"url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5ScG5xYV9OdzUzWmMwOFdGdzNiNHk5dE4zSWpkUUM4MnN6Q3BxRGd5NzdwdUx2cTZHOTZ5QU5DRG9PaGc5UkFBXzJkb0JXVFpOMlFtQzNkbzlmRUNsaTl4M2xnUzFkOWp4anNv?oc=5",
-"pub": "2026-11-21T12:53:39+00:00",
-"src": "Reuters",
-"kind": "market",
-"seen": "2026-11-22T05:41:13+00:00"
 }
 ]
 }
