@@ -255,3 +255,10 @@
 - 확신도: 높음 (GlobeNewswire 원문 사이트는 열리지 않아 전재본으로 확인 · 뒷부분 표는 요약으로만 봄)
 - 참고: 남은 칸 없는 앱 종목(ETF 제외): LIN·SHOP·GOOG·SATS(ECHO)·IREN·CLS·CBRS·APH·TTMI·STX·MA·FFIV·VICR·NXE·DNN.
 - 참고: 앱 다시 게시함(06:56 KST, 버전 268). 지난 게시와 같게 게시용 복사본에서만 CSP meta 한 줄을 뺐어요(저장소 파일은 그대로). 게시본과 차이는 실적 데이터 한 줄뿐이었어요.
+
+### T-20261123-0723-1 · 새 칸 · CBRS 실적 카드 (대표 승인 38번에 따라)
+- 시각: 2026-11-23 07:25 KST
+- 내용: 이번 차례 A·B 대상 없음(events.json 지난 earn 일정 모두 done, earnings.json next.when 가장 빠른 확정일은 ADI·DELL 11/24). 칸이 없는 앱 종목 중 IREN(11/25 발표 때)·ECHO(사업 분리로 비교 복잡)를 빼고 ETF 비중이 가장 큰 CBRS(세레브라스, 한 ETF에 4.6%) 새 칸. 기간 「3분기 · 2026년 7~9월」: 핵심 매출 2.309억 달러(+70%, 1년 전 1.357억 — 회사 조정표에서 회계 매출과 같음), 회계 매출 2.108억(+55%), 클라우드·서비스 1.419억(+265%), 하드웨어 6,890만(1년 전 9,680만), 회계 순손실 1.61억(주당 −0.67달러), 남은 계약 261억. 그래프는 회사 전망·예상치 기준과 맞춰 metric "핵심 매출". 다음 분기(10~12월) 핵심 매출 전망 3.1억~3.3억 → guide, 올해 9.4억~9.6억. 발표 전 예상 est 2.147억·다음 분기 cons 2.71억(LSEG, Implicator 기사 11/12 — 핵심 매출 기준으로 보임, note 에 밝힘). 다음 발표일 공지 없음 → "2027년 2월 (예상 · 회사 발표일 공지 전)", 새 일정 안 넣음. 숫자는 money.json CBRS(핵심 매출 2.309억)와 같아요. 회사 발표 2026-11-12 장 마감 후, 반영 2026-11-23 07:25 KST.
+- 출처: [세레브라스 3분기 실적 발표 (SEC 8-K)](https://www.sec.gov/Archives/edgar/data/0002021728/000162828026073366/cbrsannouncesfinancialresu.htm) · [Implicator (LSEG 예상치)](https://www.implicator.ai/cerebras-reports-q3-core-revenue-up-70-yoy-230-9m-vs-214-7m/) · 공식 여부: 공식(실적) / 보도(예상치)
+- 확신도: 높음 (8-K 앞부분 본문·표 확인, 뒷부분 조정표 일부는 요약으로만 봄 · 예상치는 매체 한 곳)
+- 참고: 남은 칸 없는 앱 종목(ETF 제외): LIN·SHOP·GOOG·SATS(ECHO)·IREN·CLS·APH·TTMI·STX·MA·FFIV·VICR·NXE·DNN.
