@@ -1,18 +1,28 @@
 {
-"updated_kst": "2026-11-22 16:56",
-"rot": 121,
+"updated_kst": "2026-11-22 17:14",
+"rot": 2,
 "how": "Scout(프로그램)이 10분마다 모은 기사 제목·링크와 공시예요. Wren이 공식 출처로 확인한 뒤 회사 화면에 한국어로 반영해요. 본문은 받지 않아요.",
 "sources": {
 "Yahoo Finance": "120종목 확인 · 실패 0",
 "CNBC": "63건",
-"Bloomberg": "26건",
+"Bloomberg": "25건",
 "WSJ": "61건",
-"Reuters": "49건",
+"Reuters": "30건",
 "FinancialJuice": "100건",
 "SEC EDGAR": "실패 HTTPError",
 "Fox Business": "50건"
 },
 "items": [
+{
+"id": "a7ffbf114ab8",
+"t": "META",
+"title": "Sheryl Sandberg steps in to rescue Britain’s $35bn AI hope",
+"url": "https://uk.finance.yahoo.com/news/sheryl-sandberg-steps-rescue-britain-080000360.html?.tsrc=rss",
+"pub": "2026-11-22T08:00:00+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-22T08:14:33+00:00"
+},
 {
 "id": "3b62a2c78f5c",
 "t": "NVDA",
@@ -8004,14 +8014,14 @@
 "seen": "2026-11-20T18:39:45+00:00"
 },
 {
-"id": "f12f27e0462b",
-"t": "NVDA",
-"title": "Morgan Stanley Strategists Are \"Max Overweight\" on U.S. and Some International Stocks for 2027. How Should You Invest?",
-"url": "https://www.fool.com/investing/2026/11/20/morgan-stanley-strategists-are-max-overweight-on-u-s-and-some-international-stocks-for-2027-how-should-you-invest/?.tsrc=rss",
-"pub": "2026-11-20T17:33:48+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-20T18:14:43+00:00"
+"id": "572a544fab40",
+"t": "",
+"title": "IncomeSTKd 1x US Stocks & 1x Bitcoin Premium ETF (ISSB.N) | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBuR1pidi1YU05jbGU0S0ctbEp1U2lEcDR6dlpZTGcwR21TTnZoSkVyNThtcnBkdE1JejFZS0NPbG9DbXJ1R2xIY09ESzNjNFVtUGNSMDZsSVM?oc=5",
+"pub": "2026-11-22T06:55:19+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-22T08:14:33+00:00"
 },
 {
 "id": "d95b0292e7f4",
@@ -11002,16 +11012,6 @@
 "src": "Reuters",
 "kind": "market",
 "seen": "2026-11-21T04:34:44+00:00"
-},
-{
-"id": "c8ef92b068ba",
-"t": "",
-"title": "FBI national crime information center hacked: CNN",
-"url": "https://www.financialjuice.com/News/9862756/FBI-national-crime-information-center-hacked-CNN.aspx?xy=rss",
-"pub": "2026-11-21T02:16:47+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-21T02:33:27+00:00"
 }
 ]
 }
