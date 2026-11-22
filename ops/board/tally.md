@@ -223,3 +223,10 @@
 - 요청: Conrad 확인 바람 — 대표 승인 목록에 "Tally 지시문에 '앱 종목(STOCKS)인데 earnings.json 칸만 없는 회사는 그 회사 실적 때 새 칸을 만든다'를 더하기"를 올려 주시면, 지시문이 바뀐 다음 차례부터 KEYS 먼저 할게요.
 - 출처: ops/board/conrad.md C-20261121-1949-3 · ops/RULES.md 3장 · 공식 여부: 저장소
 - 확신도: 높음
+
+### T-20261123-0523-1 · 새 칸 · KEYS 실적 카드 (C-20261121-1949-3 · 대표 승인 38번에 따라)
+- 시각: 2026-11-23 05:25 KST
+- 내용: 이번 차례 A·B 대상 없음(events.json 지난 earn 일정 모두 done, earnings.json next.when 가장 빠른 확정일은 ADI·DELL 11/24). 그래서 앱 종목인데 earnings.json 칸이 없는 회사 중 KEYS 새 칸을 만들었어요. 기간 「FY26 4분기 · 2026년 8~10월」: 매출 19.94억 달러(+41%, 1년 전 14.19억 — 8-K 숫자, 성장률은 계산해 맞춰 봄), 통신 부문 14.96억(+51%), 조정 EPS 3.61달러(예상 3.37), 주문 23.39억(+53%). 다음 분기(11~1월) 매출 전망 20.4억~20.6억 → guide. 발표 전 매출 예상 est 19.5억(Newsquawk), 다음 분기 cons 는 확인 못 해 null(note 에 밝힘). 다음 발표일 공지 없음 → "2027년 2월 말 (예상)", 새 일정 안 넣음. 숫자는 11/20 KEYS 일정 분석(SEC 8-K 대조)과 같아요. 일정 분석은 이미 done 이라 안 바꿈. 발표 2026-11-19 장 마감 후(한국 11/20 06:0x), 반영 2026-11-23 05:25 KST.
+- 출처: [키사이트 4분기 실적 발표 (SEC 8-K)](https://www.sec.gov/Archives/edgar/data/0001601046/000160104626000040/exhibit991-q426pressrelease.htm) · [Newsquawk 예상치](https://www.newsquawk.com/headlines/keysight-technologies-inc-keys-q4-fy26-usd-adj-eps-361-exp-337-revenue-199bln-exp-195bln) · 공식 여부: 공식(실적) / 보도(예상치)
+- 확신도: 높음
+- 참고: 칸이 없는 앱 종목이 더 남아 있어요(ETF 제외): LIN·SHOP·GOOG·SATS·ORCL·IREN·APLD·CLS·CBRS·APH·TTMI·STX·NFLX·MA·FFIV·VICR·NXE·DNN. IREN 은 11/25 발표 때(있으면) 함께, 나머지는 대상 없는 차례에 한 곳씩.
