@@ -1,18 +1,48 @@
 {
-"updated_kst": "2026-11-23 03:44",
-"rot": 132,
+"updated_kst": "2026-11-23 03:58",
+"rot": 13,
 "how": "Scout(프로그램)이 10분마다 모은 기사 제목·링크와 공시예요. Wren이 공식 출처로 확인한 뒤 회사 화면에 한국어로 반영해요. 본문은 받지 않아요.",
 "sources": {
 "Yahoo Finance": "120종목 확인 · 실패 0",
 "CNBC": "63건",
 "Bloomberg": "25건",
 "WSJ": "61건",
-"Reuters": "47건",
+"Reuters": "51건",
 "FinancialJuice": "100건",
 "SEC EDGAR": "실패 HTTPError",
 "Fox Business": "50건"
 },
 "items": [
+{
+"id": "42bb6dc8be1e",
+"t": "TSLA",
+"title": "Top bank resets Tesla stock target, yet standalone value is alarming",
+"url": "https://www.thestreet.com/investing/stocks/top-bank-resets-tesla-stock-target-yet-standalone-value-is-alarming?.tsrc=rss",
+"pub": "2026-11-22T18:47:00+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-22T18:58:56+00:00"
+},
+{
+"id": "e2b55e165320",
+"t": "VOO",
+"title": "Billionaire Ray Dalio’s Bridgewater Keeps 16% of Its $23 Billion Stock Portfolio in S&P 500 Index Funds, Even After Cutting Them",
+"url": "https://247wallst.com/investing/2026/11/22/billionaire-ray-dalios-bridgewater-keeps-16-of-its-23-billion-stock-portfolio-in-sp-500-index-funds-even-after-cutting-them/?.tsrc=rss",
+"pub": "2026-11-22T18:43:15+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-22T18:58:56+00:00"
+},
+{
+"id": "eb9eb42d5c9f",
+"t": "SPCX",
+"title": "SpaceX Expects to Pass “One Gigawatt a Month” of AI Compute by the End of 2027. That’s Great News for Nvidia",
+"url": "https://www.tikr.com/blog/spacex-expects-to-pass-one-gigawatt-a-month-of-ai-compute-by-the-end-of-2027-thats-great-news-for-nvidia?ref=yahoofinance&tlnk=yf-261122-96p3m6c4&.tsrc=rss",
+"pub": "2026-11-22T18:40:08+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-22T18:58:56+00:00"
+},
 {
 "id": "340421df3b00",
 "t": "NVDA",
@@ -84,6 +114,16 @@
 "seen": "2026-11-22T18:44:35+00:00"
 },
 {
+"id": "fbe22303b1cf",
+"t": "BRKB",
+"title": "What Warren Buffett Has Said About Bitcoin and Whether He Was Right",
+"url": "https://247wallst.com/investing/cryptocurrency/2026/11/22/what-warren-buffett-has-said-about-bitcoin-and-whether-he-was-right/?.tsrc=rss",
+"pub": "2026-11-22T18:08:07+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-22T18:58:56+00:00"
+},
+{
 "id": "d5bd0fcb431c",
 "t": "AMGN",
 "title": "Merck Just Raised Its Dividend. These 3 Dow Healthcare Giants Are Paying More",
@@ -152,6 +192,16 @@
 "src": "Yahoo Finance",
 "kind": "news",
 "seen": "2026-11-22T18:05:19+00:00"
+},
+{
+"id": "bcb4236a6304",
+"t": "GOOGL",
+"title": "Google Backs Superhot Geothermal in 50 MW Oregon Power Deal",
+"url": "https://finance.yahoo.com/energy/articles/google-backs-superhot-geothermal-50-180000366.html?.tsrc=rss",
+"pub": "2026-11-22T18:00:00+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-22T18:58:56+00:00"
 },
 {
 "id": "28496ccd30ce",
@@ -7964,56 +8014,6 @@
 "seen": "2026-11-20T20:44:19+00:00"
 },
 {
-"id": "52ba89debb89",
-"t": "NVDA",
-"title": "Could Jensen Huang Land At Nvidia Rival Intel?",
-"url": "https://finance.yahoo.com/m/0f796a98-f9a0-3610-b88d-21a75faa2e7b/could-jensen-huang-land-at.html?.tsrc=rss",
-"pub": "2026-11-20T20:04:52+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-20T20:36:06+00:00"
-},
-{
-"id": "e92c37bcc973",
-"t": "SPCX",
-"title": "AST SpaceMobile Just Plunged 44% in a Month as Space Stocks Face a Hard Landing: Could ASTS Stock Realistically Double From Here?",
-"url": "https://247wallst.com/investing/2026/11/20/ast-spacemobile-just-plunged-44-in-a-month-as-space-stocks-face-a-hard-landing-could-asts-stock-realistically-double-from-here/?.tsrc=rss",
-"pub": "2026-11-20T20:04:06+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-20T20:14:00+00:00"
-},
-{
-"id": "1f303ae7e569",
-"t": "NVDA",
-"title": "The Stock Market Is Flashing a Warning Seen Just 6 Times in 156 Years, and History Is Clear What Comes Next for Stocks",
-"url": "https://www.fool.com/investing/2026/11/20/the-stock-market-is-flashing-a-warning-seen-just-6-times-in-156-years-and-history-is-clear-what-comes-next-for-stocks/?.tsrc=rss",
-"pub": "2026-11-20T20:03:48+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-20T20:14:00+00:00"
-},
-{
-"id": "9f31ebec3707",
-"t": "AMZN",
-"title": "AI Stocks are on Sale: A Generational Buying Opportunity",
-"url": "https://finance.yahoo.com/markets/stocks/articles/ai-stocks-sale-generational-buying-200200664.html?.tsrc=rss",
-"pub": "2026-11-20T20:02:00+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-20T21:15:37+00:00"
-},
-{
-"id": "890be7344007",
-"t": "BRKB",
-"title": "Greg Abel Nearly Doubled Berkshire’s Lennar Stake and Added a $689 Million IPO Position",
-"url": "https://247wallst.com/investing/2026/11/20/greg-abel-nearly-doubled-berkshires-lennar-stake-and-added-a-689-million-ipo-position/?.tsrc=rss",
-"pub": "2026-11-20T20:01:37+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-20T20:44:19+00:00"
-},
-{
 "id": "65e3884558e2",
 "t": "",
 "title": "Opinion | Give Thanks to Inverse Billionaires",
@@ -8022,6 +8022,26 @@
 "src": "WSJ",
 "kind": "market",
 "seen": "2026-11-22T18:05:19+00:00"
+},
+{
+"id": "416e579c4bdd",
+"t": "",
+"title": "Nomura Holdings, Inc. (8604.T) | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1idUJ2MFdBNmtBQ0cwOGhFTjNRWXVZZ1JvbGU2c3BrczNTejc3ZXhlR3NodEI2LVBsNVVtWFI0bWhoWUNSVFlVMlN5ZEhPZURmNXBtQjQ5eWZhWms3a3c?oc=5",
+"pub": "2026-11-22T17:44:18+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-22T18:58:56+00:00"
+},
+{
+"id": "8f7642026806",
+"t": "",
+"title": "Novo Nordisk A/S (NOVOb.CO) | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1GZjVCS2cyMm90UU8xM05DVDhoZnZnTUxWNzJ0UmhfSFBtT2FobDBxVWVvb1BZcERrWGlmV1c2VFJOcnJHcUk0R2JaUnZuOFZJeWdMMzNidjR6YVR5OVhMQw?oc=5",
+"pub": "2026-11-22T17:30:29+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-22T18:58:56+00:00"
 },
 {
 "id": "c1f39307b6cb",
@@ -8072,6 +8092,16 @@
 "src": "Bloomberg",
 "kind": "market",
 "seen": "2026-11-22T18:05:19+00:00"
+},
+{
+"id": "80c50868ecdc",
+"t": "",
+"title": "Qnity Electronics, Inc. (Z5O.F) | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9SWXhPcDFpWHZHUk8welZwMGxpakQ5WndjVXJaRHhVcEU5NTY1OTV0YWhFVVoxTXV2M0JMTV9pcTdaTE5MbDR0NlcyaFpyVGZPUzhzb1ZTcUxaUk4x?oc=5",
+"pub": "2026-11-22T16:49:04+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-22T18:58:56+00:00"
 },
 {
 "id": "1827c6de6742",
@@ -8424,6 +8454,16 @@
 "seen": "2026-11-22T17:21:43+00:00"
 },
 {
+"id": "746b2af986c6",
+"t": "",
+"title": "Puldin Holding AD (0OFG.L) | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE15MnJvRDZ0eDBoLTJhSFRRSWc4VDFJWThybXNBeFVOQnE1TU84SWE3dDdSdmNGWU5VcnJwemNKV3hJUUxJYlctZHFxeVVTd1Q0bEJTc2M4dWxuSXFyZEtVazFFcTR4ODQ?oc=5",
+"pub": "2026-11-22T12:57:12+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-22T18:58:56+00:00"
+},
+{
 "id": "3f79263738d2",
 "t": "",
 "title": "Sarepta Therapeutics, Inc. (AB3A.H) | Stock Price & Latest News - Reuters",
@@ -8442,6 +8482,16 @@
 "src": "Reuters",
 "kind": "market",
 "seen": "2026-11-22T17:44:32+00:00"
+},
+{
+"id": "7f6ef5da45b9",
+"t": "",
+"title": "SNG.NEO - | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBGZWF3LUVlSjRFWkFYWmFTYXlsMF9TR3pLRlplaGpaeVdvNFFERVFCOE12QW82S1ZBd3Jqd3RCNTluWTlqUHR5VF9CY0pycTlhUl80UE1rOTUzbVBBLXZLbGVmUWV0blNrQXlLZlVDMWFoclJCQXpORjVn?oc=5",
+"pub": "2026-11-22T12:55:54+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-22T18:58:56+00:00"
 },
 {
 "id": "3cf436b4dac6",
@@ -10962,56 +11012,6 @@
 "src": "Bloomberg",
 "kind": "market",
 "seen": "2026-11-22T06:41:39+00:00"
-},
-{
-"id": "9c07db9dbe98",
-"t": "",
-"title": "Finland border guard: damaged ship has drifted from international waters into Finnish territory",
-"url": "https://www.financialjuice.com/News/9862943/Finland-border-guard-damaged-ship-has-drifted-from-international-waters-into-Finnish-territory.aspx?xy=rss",
-"pub": "2026-11-21T11:18:26+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-21T11:22:55+00:00"
-},
-{
-"id": "061a809b1e87",
-"t": "",
-"title": "Finland border guard: damaged ship has drifted from international waters into Finnish territory",
-"url": "https://www.financialjuice.com/News/9862943/Finland-border-guard-damaged-ship-has-drifted-from-international-waters-into-Finnish-territory.aspx",
-"pub": "2026-11-21T11:18:26+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-21T19:14:53+00:00"
-},
-{
-"id": "72d040686922",
-"t": "",
-"title": "Finland border guard: russian cargo vessel ablaze in eastern Gulf of Finland",
-"url": "https://www.financialjuice.com/News/9862942/Finland-border-guard-russian-cargo-vessel-ablaze-in-eastern-Gulf-of-Finland.aspx?xy=rss",
-"pub": "2026-11-21T11:17:33+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-21T11:22:55+00:00"
-},
-{
-"id": "a2c84d75130b",
-"t": "",
-"title": "Finland border guard: russian cargo vessel ablaze in eastern Gulf of Finland",
-"url": "https://www.financialjuice.com/News/9862942/Finland-border-guard-russian-cargo-vessel-ablaze-in-eastern-Gulf-of-Finland.aspx",
-"pub": "2026-11-21T11:17:33+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-21T19:14:53+00:00"
-},
-{
-"id": "1dcf02d68957",
-"t": "",
-"title": "WisdomTree Europe SmallCap Dividend Fund (DFE.N) | Stock Price & Latest News - Reuters",
-"url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE13SWNQaHhORThSbWcxRzY3Z09FbFB4dXdDaFlTTnl3cnlSaHFwbFZuRGpLbFViR2lpOFVwbDhhTDNQOXh4UUE3b0tfSkZaZ3BUckNWOS1oNA?oc=5",
-"pub": "2026-11-21T11:09:24+00:00",
-"src": "Reuters",
-"kind": "market",
-"seen": "2026-11-21T13:15:23+00:00"
 }
 ]
 }
