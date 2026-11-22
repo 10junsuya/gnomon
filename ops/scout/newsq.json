@@ -1,18 +1,88 @@
 {
-"updated_kst": "2026-11-22 20:21",
-"rot": 65,
+"updated_kst": "2026-11-22 20:44",
+"rot": 125,
 "how": "Scout(프로그램)이 10분마다 모은 기사 제목·링크와 공시예요. Wren이 공식 출처로 확인한 뒤 회사 화면에 한국어로 반영해요. 본문은 받지 않아요.",
 "sources": {
 "Yahoo Finance": "120종목 확인 · 실패 0",
 "CNBC": "63건",
 "Bloomberg": "24건",
 "WSJ": "61건",
-"Reuters": "50건",
+"Reuters": "44건",
 "FinancialJuice": "100건",
 "SEC EDGAR": "실패 HTTPError",
 "Fox Business": "50건"
 },
 "items": [
+{
+"id": "e5e52de8e4ca",
+"t": "NVDA",
+"title": "3 Reasons to Claim Social Security at 70",
+"url": "https://www.fool.com/retirement/2026/11/22/3-reasons-to-claim-social-security-at-70/?.tsrc=rss",
+"pub": "2026-11-22T11:33:02+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-22T11:44:42+00:00"
+},
+{
+"id": "2bfc3c7e0172",
+"t": "AMZN",
+"title": "A $37 Billion Fund Just Bought These 3 Stocks",
+"url": "https://www.tikr.com/blog/a-37-billion-fund-just-bought-these-3-stocks?ref=yahoofinance&tlnk=yf-261122-8gr2cg9x&.tsrc=rss",
+"pub": "2026-11-22T11:23:17+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-22T11:44:42+00:00"
+},
+{
+"id": "ba9625d1f832",
+"t": "AMZN",
+"title": "A $3.1 Billion Fund Just Bought These 3 Stocks",
+"url": "https://www.tikr.com/blog/a-3-1-billion-fund-just-bought-these-3-stocks?ref=yahoofinance&tlnk=yf-261122-x5gqq5xg&.tsrc=rss",
+"pub": "2026-11-22T11:20:52+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-22T11:44:42+00:00"
+},
+{
+"id": "ac399c87bda1",
+"t": "NVDA",
+"title": "Here's the Average Social Security Benefit at 62 vs. 70",
+"url": "https://www.fool.com/retirement/social-security/2026/11/22/heres-the-average-social-security-benefit-at-62-vs-70/?.tsrc=rss",
+"pub": "2026-11-22T11:20:02+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-22T11:44:42+00:00"
+},
+{
+"id": "a71dbf4f79ca",
+"t": "AMZN",
+"title": "A $1.2 Billion Fund Just Bought These 3 Stocks",
+"url": "https://www.tikr.com/blog/a-1-2-billion-fund-just-bought-these-3-stocks?ref=yahoofinance&tlnk=yf-261122-77qr38x6&.tsrc=rss",
+"pub": "2026-11-22T11:20:01+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-22T11:44:42+00:00"
+},
+{
+"id": "4c4f0012652a",
+"t": "NVDA",
+"title": "Billionaire Tech Investor Philippe Laffont Just Loaded Up on These 4 AI Stocks",
+"url": "https://www.fool.com/investing/2026/11/22/billionaire-tech-investor-philippe-laffont-just-loaded-up-on-these-4-ai-stocks/?.tsrc=rss",
+"pub": "2026-11-22T11:15:02+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-22T11:44:42+00:00"
+},
+{
+"id": "c1653761fcdf",
+"t": "SPCX",
+"title": "SpaceX Orders “100 GW/Year” of Solar Equipment. Musk’s Math Puts That at $1 Trillion a Year",
+"url": "https://www.tikr.com/blog/spacex-orders-100-gw-year-of-solar-equipment-musks-math-puts-that-at-1-trillion-a-year?ref=yahoofinance&tlnk=yf-261122-qffhj99j&.tsrc=rss",
+"pub": "2026-11-22T11:12:27+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-22T11:44:42+00:00"
+},
 {
 "id": "326508cce784",
 "t": "NVDA",
@@ -22,6 +92,26 @@
 "src": "Yahoo Finance",
 "kind": "news",
 "seen": "2026-11-22T11:21:57+00:00"
+},
+{
+"id": "e27f4e08bf7d",
+"t": "NVDA",
+"title": "Nvidia China Chip Halt Puts AI Infrastructure Stocks In Focus",
+"url": "https://finance.yahoo.com/technology/ai/articles/nvidia-china-chip-halt-puts-110801083.html?.tsrc=rss",
+"pub": "2026-11-22T11:08:01+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-22T11:44:42+00:00"
+},
+{
+"id": "3adcf876bc7d",
+"t": "NVDA",
+"title": "Nvidia (NVDA) CEO Jensen Huang Resigned As The SEC Opened An Accounting Probe",
+"url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-nvda-ceo-jensen-huang-110709516.html?.tsrc=rss",
+"pub": "2026-11-22T11:07:09+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-22T11:44:42+00:00"
 },
 {
 "id": "58e887eb79c4",
@@ -162,6 +252,16 @@
 "src": "Yahoo Finance",
 "kind": "news",
 "seen": "2026-11-22T10:30:29+00:00"
+},
+{
+"id": "53fa01cbed56",
+"t": "AVGO",
+"title": "“The Selloff Does Not End When Fundamentals Improve,” Warns Gene Munster. Nvidia Looks Like 2012 Apple",
+"url": "https://www.tikr.com/blog/the-selloff-does-not-end-when-fundamentals-improve-warns-gene-munster-nvidia-looks-like-2012-apple?ref=yahoofinance&tlnk=yf-261122-jwx4m5q4&.tsrc=rss",
+"pub": "2026-11-22T10:07:16+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-22T11:44:42+00:00"
 },
 {
 "id": "03a0ada2e888",
@@ -5984,6 +6084,16 @@
 "seen": "2026-11-20T21:29:57+00:00"
 },
 {
+"id": "e3db91bf064f",
+"t": "RVMD",
+"title": "Erasca Throws Down A Gauntlet — And Revolution Throws It Right Back",
+"url": "https://finance.yahoo.com/m/4316fd29-e51d-3b7e-ab2f-86ee8623bd97/erasca-throws-down-a-gauntlet.html?.tsrc=rss",
+"pub": "2026-11-20T21:16:26+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-22T11:44:42+00:00"
+},
+{
 "id": "42013f9fa951",
 "t": "IREN",
 "title": "Investis Holding (SWX:IREN) Stock Looks Pricey As Its 67% Run Draws Focus",
@@ -7902,116 +8012,6 @@
 "src": "Yahoo Finance",
 "kind": "news",
 "seen": "2026-11-20T18:39:45+00:00"
-},
-{
-"id": "178e015509af",
-"t": "NVDA",
-"title": "PepsiCo Has Raised Its Dividend by a Total of 37% Over the Last 5 Years. I Predict $10,000 Invested in It Today Will Pay This Much in Dividends Over the Next Decade.",
-"url": "https://www.fool.com/investing/2026/11/20/pepsico-raised-its-dividend-37-over-the-last-5-years-i-predict-usd10-000-will-pay-this-much-in-dividends-over-the-next-decade/?.tsrc=rss",
-"pub": "2026-11-20T18:00:02+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-20T18:14:43+00:00"
-},
-{
-"id": "bd91c3ef30d1",
-"t": "GOOGL",
-"title": "Search Holds 38.8% of U.S. Internet Ad Revenue as Social Grows 32.6%, Growth Partner Index Analysis Finds",
-"url": "https://finance.yahoo.com/media-advertising/articles/search-holds-38-8-u-180000236.html?.tsrc=rss",
-"pub": "2026-11-20T18:00:00+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-20T18:14:43+00:00"
-},
-{
-"id": "5cbe479cae78",
-"t": "NVDA",
-"title": "Saturn Cloud Brings Tileward's Compressed Models to Its Token Factory, Turning the Same GPUs Into More Tokens",
-"url": "https://finance.yahoo.com/technology/ai/articles/saturn-cloud-brings-tilewards-compressed-180000813.html?.tsrc=rss",
-"pub": "2026-11-20T18:00:00+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-20T18:14:43+00:00"
-},
-{
-"id": "98f54592ac60",
-"t": "WMT",
-"title": "Walmart's value proposition supports further market share gains, says Bank of America",
-"url": "https://www.proactiveinvestors.com/companies/news/1102207/walmart-s-value-proposition-supports-further-market-share-gains-says-bank-of-america-1102207.html?.tsrc=rss",
-"pub": "2026-11-20T18:00:00+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-20T18:39:45+00:00"
-},
-{
-"id": "01907fb34f2a",
-"t": "GOOGL",
-"title": "Apple Working on Own AI Agent to Rival OpenAI and Anthropic",
-"url": "https://finance.yahoo.com/video/apple-working-own-ai-agent-175830738.html?.tsrc=rss",
-"pub": "2026-11-20T17:58:30+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-20T18:39:45+00:00"
-},
-{
-"id": "55c3c215ed22",
-"t": "NVDA",
-"title": "What HPE Holders Should Watch In Monday's Margin",
-"url": "https://www.trefis.com/stock/hpe/articles/627189/what-hpe-holders-should-watch-in-monday-s-margin/2026-11-20?.tsrc=rss",
-"pub": "2026-11-20T17:57:41+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-20T18:39:45+00:00"
-},
-{
-"id": "c404f8b1dce8",
-"t": "IONQ",
-"title": "IonQ Is Down 33% in a Month. What Will It Take to Get IONQ Stock Back to $30?",
-"url": "https://247wallst.com/investing/2026/11/20/ionq-is-down-33-in-a-month-what-will-it-take-to-get-ionq-stock-back-to-30/?.tsrc=rss",
-"pub": "2026-11-20T17:56:41+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-20T18:14:43+00:00"
-},
-{
-"id": "7ce213502703",
-"t": "PANW",
-"title": "Palo Alto Is Cashing In on AI, But PANW Stock Is Already Too Expensive",
-"url": "https://www.barchart.com/story/news/8939790/palo-alto-is-cashing-in-on-ai-but-panw-stock-is-already-too-expensive?.tsrc=rss",
-"pub": "2026-11-20T17:56:17+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-21T00:12:19+00:00"
-},
-{
-"id": "aa10c2ced37e",
-"t": "MA",
-"title": "JPMorgan, Visa Warn of Cyberattack That Hit Outside Vendor",
-"url": "https://finance.yahoo.com/video/jpmorgan-visa-warn-cyberattack-hit-175529831.html?.tsrc=rss",
-"pub": "2026-11-20T17:55:29+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-20T18:14:43+00:00"
-},
-{
-"id": "e65561809177",
-"t": "BRKB",
-"title": "Exclusive: Twenty One CEO on Bitcoin, acquisitions, and building value",
-"url": "https://finance.yahoo.com/markets/crypto/articles/exclusive-twenty-one-ceo-bitcoin-164117192.html?.tsrc=rss",
-"pub": "2026-11-20T17:55:16+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-21T22:16:35+00:00"
-},
-{
-"id": "2c5f1dde96d4",
-"t": "NVDA",
-"title": "Why Nvidia Stock Is Down Today",
-"url": "https://www.fool.com/investing/2026/11/20/why-nvidia-stock-is-down-today/?.tsrc=rss",
-"pub": "2026-11-20T17:55:02+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-20T18:14:43+00:00"
 },
 {
 "id": "e4c9ff8bbfd8",
