@@ -2,7 +2,7 @@
 import base64, json, time, urllib.request
 from pathlib import Path
 UA = {"User-Agent": "GnomonApp/1.0 (https://github.com/10junsuya/gnomon; contact via GitHub issues) python-urllib"}
-U = ["https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Larry_Ellison_-_American_AI_investment.png/1280px-Larry_Ellison_-_American_AI_investment.png.png"]
+U = ["https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Larry_Ellison_-_American_AI_investment.png/1280px-Larry_Ellison_-_American_AI_investment.png", "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Blue_Ghost_M1_on_the_Moon.png/1280px-Blue_Ghost_M1_on_the_Moon.png"]
 out = {}
 for u in U:
     time.sleep(5)
