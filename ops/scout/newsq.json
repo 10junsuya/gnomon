@@ -1,18 +1,28 @@
 {
-"updated_kst": "2026-11-23 07:14",
-"rot": 76,
+"updated_kst": "2026-11-23 07:19",
+"rot": 136,
 "how": "Scout(프로그램)이 10분마다 모은 기사 제목·링크와 공시예요. Wren이 공식 출처로 확인한 뒤 회사 화면에 한국어로 반영해요. 본문은 받지 않아요.",
 "sources": {
 "Yahoo Finance": "120종목 확인 · 실패 0",
 "CNBC": "63건",
 "Bloomberg": "25건",
 "WSJ": "61건",
-"Reuters": "50건",
+"Reuters": "43건",
 "FinancialJuice": "100건",
 "SEC EDGAR": "실패 HTTPError",
 "Fox Business": "50건"
 },
 "items": [
+{
+"id": "3aec4b3995a4",
+"t": "COHR",
+"title": "3 AI Hardware Stocks Down More Than 30% From Their Records to Buy Now and Hold Through 2030",
+"url": "https://www.fool.com/investing/2026/11/22/3-ai-hardware-stocks-down-more-than-30-from-their-records-to-buy-now-and-hold-through-2030/?.tsrc=rss",
+"pub": "2026-11-22T22:03:02+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-22T22:19:25+00:00"
+},
 {
 "id": "9d87f601dc1e",
 "t": "NVDA",
@@ -8004,16 +8014,6 @@
 "seen": "2026-11-20T21:29:57+00:00"
 },
 {
-"id": "878b2c153f90",
-"t": "GOOGL",
-"title": "Amazon Provides Options To Buy Ads Across Entire Ecosystem",
-"url": "https://www.mediapost.com/publications/article/419599/amazon-provides-options-to-buy-ads-across-entire-e.html?.tsrc=rss",
-"pub": "2026-11-20T21:07:56+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-20T21:29:57+00:00"
-},
-{
 "id": "dbda121af27e",
 "t": "",
 "title": "Asia Braces for More Volatility After US Selloff: Markets Wrap",
@@ -8112,6 +8112,16 @@
 "src": "Bloomberg",
 "kind": "market",
 "seen": "2026-11-22T20:34:10+00:00"
+},
+{
+"id": "4d1fc65a981c",
+"t": "",
+"title": "Air Water Ventures Ltd (WATR.O) | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE80RE1CV1hUMzNvTzUxYno4N1pSdXRZS0tSUW1IS3JvWWZsSDZ1Yl96dDF5ZHRTY1RROXE0TnRrS3lpcHZ1R2pKZXYzRW1BRTA0ZjRZa2ZTNG4tSk5NQ3VtODdZaDBNc01TMnJXSg?oc=5",
+"pub": "2026-11-22T19:34:03+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-22T22:19:25+00:00"
 },
 {
 "id": "bb031ac9d17a",
@@ -11002,16 +11012,6 @@
 "src": "FinancialJuice",
 "kind": "market",
 "seen": "2026-11-21T19:14:53+00:00"
-},
-{
-"id": "da510e17f2a5",
-"t": "",
-"title": "Group 6 Metals Ltd (G6M.AX) | Stock Price & Latest News - Reuters",
-"url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBjd2pTSkhMeFBmblpwZ1RUOWV1aVNJeHBnTzJRMUdUTEFwSVFPLXpwUXpmRmlDWW8ya3RCSnRpa1c2OUZqdmRzVVlQV1FzQlp0T2dkSWNEdXA1YkYzM2c?oc=5",
-"pub": "2026-11-21T15:05:15+00:00",
-"src": "Reuters",
-"kind": "market",
-"seen": "2026-11-22T07:14:31+00:00"
 }
 ]
 }
