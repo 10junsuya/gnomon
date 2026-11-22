@@ -6,7 +6,7 @@ def get(u, raw=False):
     with urllib.request.urlopen(urllib.request.Request(u, headers=UA), timeout=40) as r:
         b = r.read(); return b if raw else json.loads(b)
 API = "https://commons.wikimedia.org/w/api.php?"
-Q = {"pal": "Palisades Nuclear Generating Station", "duane": "Duane Arnold Energy Center", "paducah": "Paducah Gaseous Diffusion Plant aerial", "esmc": "ESMC Dresden construction", "iqmp": "Illinois Quantum Microelectronics Park", "kairos": "Kairos Power Hermes Oak Ridge", "clinch": "Clinch River Breeder Reactor site", "ibmq": "IBM Quantum System Two"}
+Q = {}
 out = {"cands": {}, "check": {}}
 for k, q in Q.items():
     try:
