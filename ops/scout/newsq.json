@@ -1,18 +1,28 @@
 {
-"updated_kst": "2026-11-23 07:19",
-"rot": 136,
+"updated_kst": "2026-11-23 07:44",
+"rot": 17,
 "how": "Scout(프로그램)이 10분마다 모은 기사 제목·링크와 공시예요. Wren이 공식 출처로 확인한 뒤 회사 화면에 한국어로 반영해요. 본문은 받지 않아요.",
 "sources": {
 "Yahoo Finance": "120종목 확인 · 실패 0",
 "CNBC": "63건",
 "Bloomberg": "25건",
 "WSJ": "61건",
-"Reuters": "43건",
+"Reuters": "57건",
 "FinancialJuice": "100건",
 "SEC EDGAR": "실패 HTTPError",
 "Fox Business": "50건"
 },
 "items": [
+{
+"id": "8869991fb6b2",
+"t": "SPCX",
+"title": "Should You Buy Tesla or SpaceX Stock Before Their Potential Merger?",
+"url": "https://www.fool.com/investing/2026/11/22/should-you-buy-tesla-or-spacex-stock-before-merger/?.tsrc=rss",
+"pub": "2026-11-22T22:21:02+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-22T22:44:03+00:00"
+},
 {
 "id": "3aec4b3995a4",
 "t": "COHR",
@@ -42,6 +52,16 @@
 "src": "Yahoo Finance",
 "kind": "news",
 "seen": "2026-11-22T21:44:25+00:00"
+},
+{
+"id": "d397f4fc75b6",
+"t": "TSLA",
+"title": "Elon Musk Doubles Down On Autonomy: Tesla Plans Wheel-Less, Pedal-Less Model Y To Sit Alongside Two-Seat Cybercab",
+"url": "https://finance.yahoo.com/technology/articles/elon-musk-doubles-down-autonomy-213007363.html?.tsrc=rss",
+"pub": "2026-11-22T21:30:07+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-22T22:44:03+00:00"
 },
 {
 "id": "5948d7948037",
@@ -7994,26 +8014,6 @@
 "seen": "2026-11-20T21:29:57+00:00"
 },
 {
-"id": "06c2dc736850",
-"t": "TSLA",
-"title": "S&P 500 enters correction territory after shedding $5.5T from all-time high",
-"url": "https://blockspace.media/short/sp-500-enters-correction-territory-after-shedding-5-5t-from-all-time-high/?.tsrc=rss",
-"pub": "2026-11-20T21:09:45+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-21T20:03:56+00:00"
-},
-{
-"id": "3771d648160a",
-"t": "UNH",
-"title": "TD Cowen names UnitedHealth its 2027 best idea, upgrades shares",
-"url": "https://finance.yahoo.com/healthcare/articles/td-cowen-names-unitedhealth-2027-210835767.html?.tsrc=rss",
-"pub": "2026-11-20T21:08:35+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-20T21:29:57+00:00"
-},
-{
 "id": "dbda121af27e",
 "t": "",
 "title": "Asia Braces for More Volatility After US Selloff: Markets Wrap",
@@ -8132,6 +8132,16 @@
 "src": "Bloomberg",
 "kind": "market",
 "seen": "2026-11-22T19:15:38+00:00"
+},
+{
+"id": "ecd185816848",
+"t": "",
+"title": "WFR.L - | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQU0RQa28tQVA1cC1jUDBJdnY0amZiZ2ZTcGpfdmNGRmVvOTJxTUl4bkJyOURsSVYyUm5RT29QX0xXOTBFalFFQXBhaVZGMUlxc1AwTDNDYWtuVU12UnhObWxPYzVfSHQ3cU1HLU9zX3RiaHp1ZlVJbTROcllBMlZrQ3BoUFFIZVNQcjM1UVNB?oc=5",
+"pub": "2026-11-22T18:41:59+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-22T22:44:03+00:00"
 },
 {
 "id": "65e3884558e2",
@@ -11002,16 +11012,6 @@
 "src": "FinancialJuice",
 "kind": "market",
 "seen": "2026-11-21T15:10:04+00:00"
-},
-{
-"id": "5e7f96308501",
-"t": "",
-"title": "Trump on incoming Democratic Congress: could collaborate on credit card rates - Fox News interview",
-"url": "https://www.financialjuice.com/News/9863036/Trump-on-incoming-Democratic-Congress-could-collaborate-on-credit-card-rates---Fox-News-interview.aspx",
-"pub": "2026-11-21T15:08:46+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-21T19:14:53+00:00"
 }
 ]
 }
