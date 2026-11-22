@@ -1,18 +1,28 @@
 {
-"updated_kst": "2026-11-23 08:44",
-"rot": 18,
+"updated_kst": "2026-11-23 08:52",
+"rot": 78,
 "how": "Scout(프로그램)이 10분마다 모은 기사 제목·링크와 공시예요. Wren이 공식 출처로 확인한 뒤 회사 화면에 한국어로 반영해요. 본문은 받지 않아요.",
 "sources": {
 "Yahoo Finance": "120종목 확인 · 실패 0",
 "CNBC": "63건",
 "Bloomberg": "25건",
 "WSJ": "61건",
-"Reuters": "36건",
+"Reuters": "35건",
 "FinancialJuice": "100건",
 "SEC EDGAR": "실패 HTTPError",
 "Fox Business": "50건"
 },
 "items": [
+{
+"id": "60d3634c70cf",
+"t": "NVDA",
+"title": "Nvidia Just Lost Nearly Half Its Value. A 62-Year-Old With $1 Million in an S&P 500 Index Fund Owns About $50,000 of It Without Buying a Share",
+"url": "https://247wallst.com/investing/2026/11/22/nvidia-just-lost-nearly-half-its-value-a-62-year-old-with-1-million-in-an-sp-500-index-fund-owns-about-50000-of-it-without-buying-a-share/?.tsrc=rss",
+"pub": "2026-11-22T23:43:00+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-22T23:52:39+00:00"
+},
 {
 "id": "5538c9ca87b3",
 "t": "NVDA",
@@ -8004,16 +8014,6 @@
 "seen": "2026-11-20T21:44:59+00:00"
 },
 {
-"id": "1d44c8d53af8",
-"t": "MTZ",
-"title": "MasTec Completes the Previously Announced Acquisition of Murphy Corporation",
-"url": "https://finance.yahoo.com/markets/stocks/articles/mastec-completes-previously-announced-acquisition-211500896.html?.tsrc=rss",
-"pub": "2026-11-20T21:15:00+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-20T21:29:57+00:00"
-},
-{
 "id": "e68aaf3281a3",
 "t": "",
 "title": "Latest Oil Market News and Analysis for Nov. 23",
@@ -8042,6 +8042,16 @@
 "src": "Bloomberg",
 "kind": "market",
 "seen": "2026-11-22T23:05:42+00:00"
+},
+{
+"id": "0623566cbd05",
+"t": "",
+"title": "Gold Deluge Keeps China’s $1 Trillion Trade Surplus in Check",
+"url": "https://www.bloomberg.com/news/articles/2026-11-22/gold-deluge-keeps-china-s-1-trillion-trade-surplus-in-check",
+"pub": "2026-11-22T23:00:00+00:00",
+"src": "Bloomberg",
+"kind": "market",
+"seen": "2026-11-22T23:52:39+00:00"
 },
 {
 "id": "955ab8ae245e",
@@ -8892,6 +8902,16 @@
 "src": "Reuters",
 "kind": "market",
 "seen": "2026-11-22T20:44:25+00:00"
+},
+{
+"id": "9089be3364b5",
+"t": "",
+"title": "HFAHF.PQ - | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE82RHNkNmFtbU9LQnItRVlnUVJjV1FoemJ3SndmV29ZRV9Ba0ZFUjRyZGpzSWM0TVJta21rZ2Q0Y0xyemcxcXdrWVpKVW0wY3o1TGJsMFJ6Y2JBYWs2U1FGOUViUExlQjJSV3E5SUdDODV6bmhwZVRJSg?oc=5",
+"pub": "2026-11-22T12:58:17+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-22T23:52:39+00:00"
 },
 {
 "id": "05b6d023f722",
@@ -10992,26 +11012,6 @@
 "src": "Reuters",
 "kind": "market",
 "seen": "2026-11-22T05:41:13+00:00"
-},
-{
-"id": "960689af35cf",
-"t": "",
-"title": "France calls for UN Security Council meeting to discuss enforcement of world court ruling on Myanmar: statement",
-"url": "https://www.financialjuice.com/News/9863052/France-calls-for-UN-Security-Council-meeting-to-discuss-enforcement-of-world-court-ruling-on-Myanmar-statement.aspx?xy=rss",
-"pub": "2026-11-21T15:21:46+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-21T15:44:37+00:00"
-},
-{
-"id": "4c7cd035ed10",
-"t": "",
-"title": "France calls for UN Security Council meeting to discuss enforcement of world court ruling on Myanmar: statement",
-"url": "https://www.financialjuice.com/News/9863052/France-calls-for-UN-Security-Council-meeting-to-discuss-enforcement-of-world-court-ruling-on-Myanmar-statement.aspx",
-"pub": "2026-11-21T15:21:46+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-21T19:14:53+00:00"
 }
 ]
 }
