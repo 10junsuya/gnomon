@@ -349,10 +349,10 @@
    "r": "미국",
    "n": "AI 행동계획",
    "d": "2025.7",
-   "st": "정책 · 행정명령 3개",
+   "st": "정책 · 행정명령 3개 · 1년 점검 과반 진행 (2026.8)",
    "L": {
     "pol": {
-     "t": "3대 축: 혁신·인프라·외교안보",
+     "t": "3대 축: 혁신·인프라·외교안보 · 2025.12 주(州) AI 법 대응 행정명령",
      "ev": "정부 문서",
      "co": []
     },
@@ -385,15 +385,23 @@
     [
      "Jones Day · 행정명령 정리",
      "https://www.jonesday.com/en/insights/2025/08/white-house-issues-executive-orders-on-ai-action-plan"
+    ],
+    [
+     "백악관 · 주 AI 법 대응 행정명령 (2025.12)",
+     "https://www.whitehouse.gov/fact-sheets/2025/12/fact-sheet-president-donald-j-trump-ensures-a-national-policy-framework-for-artificial-intelligence/"
+    ],
+    [
+     "윌슨센터 · 행동계획 1년 점검",
+     "https://www.wilsoncenter.org/article/americas-ai-action-plan-after-one-year-what-administration-has-done-and-what-comes-next"
     ]
    ],
    "w": 0,
-   "chk": "2026-11-19",
+   "chk": "2026-11-22",
    "x": {
     "loc": "미국 연방 정부 전체",
     "lead": "백악관 (과학기술정책실)",
-    "size": "정책 과제 90여 개와 행정명령 3개",
-    "about": "미국이 AI에서 앞서 나가기 위한 정부 계획이에요. 새 기술 개발을 막는 규제를 줄이고, 데이터센터와 발전소를 빨리 짓게 하고, 미국 AI 기술을 동맹국에 수출하는 것이 세 기둥이에요.\n발표 날 데이터센터 인허가를 빠르게 하는 명령, 미국 AI 기술 묶음 수출을 돕는 명령, 정부가 쓰는 AI 기준에 관한 명령이 함께 나왔어요.",
+    "size": "정책 권고 90여 개 (윌슨센터 집계 {103개}) · 발표 날 행정명령 3개",
+    "about": "미국이 AI에서 앞서 나가기 위한 정부 계획이에요. 새 기술 개발을 막는 규제를 줄이고, 데이터센터와 발전소를 빨리 짓게 하고, 미국 AI 기술을 동맹국에 수출하는 것이 세 기둥이에요.\n발표 날 데이터센터 인허가를 빠르게 하는 명령, 미국 AI 기술 묶음 수출을 돕는 명령, 정부가 쓰는 AI 기준에 관한 명령이 함께 나왔어요.\n2025년 12월에는 주마다 다른 AI 법을 정리하라는 행정명령이 나왔어요. 법무부에 주 AI 법을 다투는 팀을 두고, 주 법보다 앞서는 연방 기준을 만들자는 내용이에요.\n미국 싱크탱크 윌슨센터는 1년 점검(2026.8)에서 권고 103개 중 과반이 진행됐다고 봤어요. 인허가·연방 부지 쪽이 가장 빨랐고, 전력·조달 같은 실제 결과는 아직이라고 평가했어요.",
     "steps": [
      [
       "2025.1",
@@ -406,8 +414,23 @@
       "done"
      ],
      [
+      "2025.11",
+      "계획 속 과학 AI를 맡은 제네시스 미션 시작",
+      "done"
+     ],
+     [
+      "2025.12",
+      "주 AI 법 대응 행정명령 (법무부 소송 팀)",
+      "done"
+     ],
+     [
+      "2026.8",
+      "1년 점검: 권고 과반 진행 (윌슨센터)",
+      "done"
+     ],
+     [
       "지금",
-      "부처별 후속 조치",
+      "부처별 후속 조치 · 연방 AI 법 논의",
       "now"
      ]
     ],
@@ -429,7 +452,7 @@
    "r": "미국",
    "n": "제네시스 미션",
    "d": "2025.11",
-   "st": "정책 · 행정명령",
+   "st": "진행 · 국가 과제 26개 · 파트너 약정 8억 달러 이상 (2026.7)",
    "L": {
     "pol": {
      "t": "에너지부가 수행",
@@ -447,8 +470,13 @@
      "co": []
     },
     "use": {
-     "t": "단백질 구조부터 핵융합까지 연구 가속",
-     "ev": "보도",
+     "t": "국가 과제 26개: 핵융합·전력망·핵심 광물·양자·반도체 제조 등",
+     "ev": "정부 문서",
+     "co": []
+    },
+    "money": {
+     "t": "기업·대학 파트너 약정 8억 달러 이상 (2026.7)",
+     "ev": "정부 문서",
      "co": []
     }
    },
@@ -460,15 +488,27 @@
     [
      "Nextgov · 제네시스 미션",
      "https://www.nextgov.com/artificial-intelligence/2025/11/white-house-launches-genesis-mission-spur-ai-federal-assets/409777"
+    ],
+    [
+     "에너지부 · 국가 과제 26개 (2026.2)",
+     "https://www.energy.gov/articles/energy-department-announces-26-genesis-mission-science-and-technology-challenges"
+    ],
+    [
+     "에너지부 · 파트너 약정 8억 달러 (2026.7)",
+     "https://www.energy.gov/undersecretaryforscience/articles/us-department-energy-announces-more-800-million-partner"
+    ],
+    [
+     "AIP FYI · 과제 준비",
+     "https://www.aip.org/fyi/doe-prepares-scientific-challenges-for-genesis-mission"
     ]
    ],
    "w": 0,
-   "chk": "2026-11-19",
+   "chk": "2026-11-22",
    "x": {
     "loc": "미국 에너지부 국립연구소들",
     "lead": "미국 에너지부",
-    "size": "연방 과학 데이터와 슈퍼컴퓨터를 하나로 묶는 플랫폼",
-    "about": "정부가 가진 과학 데이터와 국립연구소 슈퍼컴퓨터를 AI와 묶어 연구 속도를 크게 높이려는 계획이에요. 2025년 11월 대통령 행정명령으로 시작했고 에너지부가 맡아요.\n단백질 구조, 새 소재, 핵융합처럼 실험이 오래 걸리는 분야에서 AI가 가설을 세우고 실험을 돕게 하는 것이 목표예요.",
+    "size": "국가 과제 {26개} · 파트너 약정 {8억 달러} 이상",
+    "about": "정부가 가진 과학 데이터와 국립연구소 슈퍼컴퓨터를 AI와 묶어 연구 속도를 크게 높이려는 계획이에요. 2025년 11월 대통령 행정명령으로 시작했고 에너지부가 맡아요.\n2026년 2월 핵융합, 전력망, 핵심 광물, 양자, 반도체 제조처럼 26개 국가 과제를 정했어요. 국립연구소 17곳과 기업·대학이 과제별로 팀을 꾸려요.\n데이터·슈퍼컴퓨터·AI 모델을 하나로 묶는 공용 플랫폼(미국 과학·안보 플랫폼)을 함께 만들고 있어요. 7월 첫 정상회의에서는 기업 파트너 약정이 8억 달러를 넘었다고 밝혔어요.",
     "steps": [
      [
       "2025.11",
@@ -476,16 +516,24 @@
       "done"
      ],
      [
-      "2026 초",
-      "풀어야 할 과학 과제 목록 정하기",
-      "done",
-      "명령에 적힌 일정"
+      "2026.2",
+      "컨소시엄 출범 · 국가 과제 26개 발표",
+      "done"
      ],
      [
-      "2026 하반기",
-      "첫 과제로 플랫폼 시험 운영",
-      "",
-      "명령에 적힌 목표 · 이뤄졌는지 확인 중"
+      "2026.3",
+      "과제 공모 시작",
+      "done"
+     ],
+     [
+      "2026.7",
+      "첫 정상회의 · 파트너 약정 8억 달러 이상",
+      "done"
+     ],
+     [
+      "지금",
+      "공용 플랫폼 구축 · 과제 수행",
+      "now"
      ]
     ],
     "art": "policy",
@@ -5357,6 +5405,185 @@
       }
      ]
     }
+   },
+   {
+    "id": "tata",
+    "kind": "민관",
+    "r": "인도",
+    "n": "타타 돌레라 반도체 공장",
+    "d": "2024.3",
+    "st": "공사 · 상업 생산 2028년 중반으로 연기 · 90나노부터",
+    "L": {
+     "pol": {
+      "t": "인도 반도체 미션이 사업비의 50%를 지원해요",
+      "ev": "보도",
+      "co": []
+     },
+     "money": {
+      "t": "타타가 9만 1천 크로르 루피를 투자해요",
+      "ev": "보도",
+      "co": []
+     },
+     "fab": {
+      "t": "타타 일렉트로닉스가 대만 PSMC 기술로 지어요",
+      "ev": "보도",
+      "co": []
+     },
+     "equip": {
+      "t": "ASML과 공장 지원 협약 (2026.5)",
+      "ev": "보도",
+      "co": [
+       "ASML"
+      ]
+     }
+    },
+    "src": [
+     [
+      "ThePrint · 인도 정부 50% 지원 협약",
+      "https://theprint.in/economy/india-semiconductor-mission-tata-group-firms-sign-fiscal-support-pact-for-gujarat-fab/2535340"
+     ],
+     [
+      "TrendForce · 2028년 중반·90나노로 (2026.7)",
+      "https://www.trendforce.com/news/2026/07/20/news-tatas-india-fab-reportedly-to-launch-at-90nm-instead-of-28nm-commercial-production-delayed-to-mid-2028/"
+     ],
+     [
+      "Autocar Pro · 경제특구 지정 (2026.4)",
+      "https://www.autocarpro.in/news/india-notifies-first-chip-fabrication-plant-at-dholera-sez-132156"
+     ]
+    ],
+    "x": {
+     "loc": "인도 구자라트 돌레라 특별투자지역",
+     "lead": "타타 일렉트로닉스",
+     "with": "PSMC (대만, 기술), ASML, 인도 정부",
+     "size": "웨이퍼 월 {5만 장} 목표 · 28~110나노",
+     "money": "{9만 1천 크로르 루피} (약 110억 달러, 보도)",
+     "about": "인도의 첫 상업용 반도체 공장이에요. 타타가 짓고 대만 PSMC가 기술을 주며, 인도 정부가 사업비의 절반을 지원해요.\n원래 2026년 말 첫 칩이 목표였지만, 2026년 7월 인도 정부는 상업 생산이 2028년 중반이 된다고 밝혔어요. 처음엔 90나노 공정부터 시작해요.",
+     "steps": [
+      [
+       "2024.3",
+       "착공",
+       "done"
+      ],
+      [
+       "2026.2",
+       "정부 지원 협약",
+       "done"
+      ],
+      [
+       "2026.4",
+       "경제특구 지정",
+       "done"
+      ],
+      [
+       "지금",
+       "공사",
+       "now"
+      ],
+      [
+       "2028 중반",
+       "상업 생산 목표",
+       ""
+      ]
+     ],
+     "art": "fab_in"
+    },
+    "chk": "2026-11-22"
+   },
+   {
+    "id": "bigfund3",
+    "r": "중국",
+    "n": "중국 반도체 대기금 3기",
+    "d": "2024.5",
+    "st": "투자 중 · 자본금 3,440억 위안",
+    "L": {
+     "pol": {
+      "t": "중국 정부가 반도체 회사에 투자하는 국가 펀드 (2014년 1기부터)",
+      "ev": "보도",
+      "co": []
+     },
+     "money": {
+      "t": "재정부 17%, 대형 국유 은행 6곳이 약 3분의 1",
+      "ev": "보도",
+      "co": []
+     },
+     "fab": {
+      "t": "웨이퍼 공장·HBM 메모리·장비 쪽 투자 (보도)",
+      "ev": "보도",
+      "co": []
+     }
+    },
+    "src": [
+     [
+      "Tom's Hardware · 3,440억 위안·재정부 17%",
+      "https://www.tomshardware.com/tech-industry/china-pours-more-money-into-big-fund-iii-dollar475-billion-and-counting"
+     ],
+     [
+      "Tom's Hardware · 투자 시작",
+      "https://www.tomshardware.com/tech-industry/china-starts-big-fund-iii-spending-usd47-billion-for-ecosystem-and-fab-tools"
+     ],
+     [
+      "SCMP · AI 투자 펀드에 출자",
+      "https://scmp.com/tech/policy/article/3306047/new-ai-fund-china-pour-us8-billion-early-stage-projects"
+     ]
+    ],
+    "x": {
+     "loc": "중국",
+     "lead": "중국 재정부 등 국유 투자자 19곳",
+     "size": "{3,440억 위안} (약 475억 달러)",
+     "about": "중국 정부가 반도체 회사에 투자하려고 만든 국가 펀드의 세 번째 회차예요. 1기(2014년)·2기(2019년)보다 커요.\n재정부가 가장 많은 17%를 냈고, 대형 국유 은행 6곳이 약 3분의 1을 냈어요. 2024년 말부터 투자를 시작했고, 600억 위안 규모 AI 투자 펀드에도 돈을 댔어요.",
+     "steps": [
+      [
+       "2014",
+       "1기 설립",
+       "done"
+      ],
+      [
+       "2019",
+       "2기 설립",
+       "done"
+      ],
+      [
+       "2024.5",
+       "3기 설립",
+       "done"
+      ],
+      [
+       "2024.12",
+       "투자 시작",
+       "done"
+      ],
+      [
+       "지금",
+       "투자 중",
+       "now"
+      ]
+     ],
+     "art": "fund_cn",
+     "bars": {
+      "t": "대기금 회차별 자본금",
+      "unit": "억 위안",
+      "lead": "보도된 등록 자본금이에요.",
+      "rows": [
+       [
+        "1기 (2014)",
+        1387,
+        ""
+       ],
+       [
+        "2기 (2019)",
+        2041,
+        ""
+       ],
+       [
+        "3기 (2024)",
+        3440,
+        "약 475억 달러"
+       ]
+      ],
+      "ev": "보도"
+     }
+    },
+    "chk": "2026-11-22"
    }
   ],
   "intro": "칩 하나가 나오려면 설계, 만들기, 패키징, 장비, 소재가 모두 필요해요.",
@@ -7802,6 +8029,194 @@
      ],
      "art": "mil_de"
     }
+   },
+   {
+    "id": "leo",
+    "kind": "민간",
+    "r": "미국",
+    "n": "아마존 레오 위성 인터넷",
+    "d": "2025.4",
+    "st": "발사 중 · 396기 · 2026년 안 서비스 시작 목표",
+    "L": {
+     "pol": {
+      "t": "미국 통신위원회 기한: 2026.7까지 1,618기 → 연장 요청",
+      "ev": "보도",
+      "co": []
+     },
+     "launch": {
+      "t": "ULA 아틀라스 V·아리안 6 등으로 쏴요",
+      "ev": "회사 발표",
+      "co": [
+       "ULA",
+       "아리안스페이스"
+      ]
+     },
+     "make": {
+      "t": "1,000번째 위성 생산",
+      "ev": "보도",
+      "co": [
+       "아마존 레오"
+      ]
+     },
+     "op": {
+      "t": "기업 베타 (2026.4) · 3,236기 계획",
+      "ev": "보도",
+      "co": [
+       "아마존 레오"
+      ]
+     }
+    },
+    "src": [
+     [
+      "Light Reading · 396기·연내 서비스 (2026.10)",
+      "https://lightreading.com/satellite/amazon-leo-still-tracking-for-2026-service-launch-as-satellite-production-ramps"
+     ],
+     [
+      "The Next Web · 기업 베타 (2026.4)",
+      "https://thenextweb.com/news/amazon-leo-satellite-internet-mid-2026"
+     ],
+     [
+      "Engadget · 통신위원회 기한 연장 요청",
+      "https://engadget.com/big-tech/amazons-satellite-internet-service-is-scheduled-for-mid-2026-availability-164046305.html"
+     ]
+    ],
+    "x": {
+     "loc": "지구 저궤도 (약 630km)",
+     "lead": "아마존",
+     "with": "ULA, 아리안스페이스 (발사)",
+     "size": "{3,236기} 계획 · 지금 396기",
+     "about": "아마존이 스타링크처럼 위성으로 인터넷을 주려는 사업이에요. 2025년 11월 이름을 '프로젝트 카이퍼'에서 '아마존 레오'로 바꿨어요.\n지금까지 396기를 쐈고, 2026년 4월 기업 고객 베타를 시작했어요. 원래 2026년 중반 정식 서비스가 목표였지만 늦어져 올해 안 시작을 목표로 해요. 미국 통신위원회가 정한 '2026년 7월까지 1,618기' 기한은 연장을 요청했어요.",
+     "steps": [
+      [
+       "2025.4",
+       "첫 양산 위성 발사",
+       "done"
+      ],
+      [
+       "2025.11",
+       "아마존 레오로 이름 변경",
+       "done"
+      ],
+      [
+       "2026.4",
+       "기업 베타",
+       "done"
+      ],
+      [
+       "2026.7",
+       "396기",
+       "done"
+      ],
+      [
+       "지금",
+       "정식 서비스 준비",
+       "now"
+      ],
+      [
+       "2029.7",
+       "3,236기 기한",
+       ""
+      ]
+     ],
+     "art": "sat_leo",
+     "img": {
+      "u": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Kuiper_3_Launches_from_Cape_Canaveral_Space_Force_Station_%289339794%29.jpg/1280px-Kuiper_3_Launches_from_Cape_Canaveral_Space_Force_Station_%289339794%29.jpg",
+      "by": "미국 우주군 (Gwendolyn Kurzen)",
+      "lic": "퍼블릭 도메인 (미국 정부 저작물)",
+      "src": "https://commons.wikimedia.org/wiki/File:Kuiper_3_Launches_from_Cape_Canaveral_Space_Force_Station_(9339794).jpg",
+      "cap": "아마존 위성을 싣고 발사되는 ULA 아틀라스 V (2025.9)",
+      "alt": "발사대에서 솟아오르는 로켓과 연기",
+      "w": 8256
+     }
+    },
+    "chk": "2026-11-22"
+   },
+   {
+    "id": "kps",
+    "r": "한국",
+    "n": "한국형 위성항법시스템 (KPS)",
+    "d": "2022",
+    "st": "개발 · 1호기 상세설계 · 2029.9 발사 목표",
+    "L": {
+     "pol": {
+      "t": "우주항공청 · 2022~2035년 3조 7,234억 원",
+      "ev": "보도",
+      "co": []
+     },
+     "launch": {
+      "t": "1호기는 스페이스X 팰컨 9로 쏴요 (2025.9 계약)",
+      "ev": "보도",
+      "co": [
+       "스페이스X"
+      ]
+     },
+     "make": {
+      "t": "한국항공우주연구원 개발 · 대한항공이 위성 구조 제작",
+      "ev": "보도",
+      "co": []
+     },
+     "op": {
+      "t": "위성 8기로 한반도 위치 정보 · 2035년 완성 목표",
+      "ev": "보도",
+      "co": []
+     }
+    },
+    "src": [
+     [
+      "뉴스스페이스 · 스페이스X 발사 계약",
+      "https://newsspace.kr/news/article.html?no=9739"
+     ],
+     [
+      "아이뉴스24 · 1호기 20개월 연기",
+      "https://www.inews24.com/view/1844573"
+     ],
+     [
+      "연합뉴스 · 1호기 상세설계 점검 (2026.10)",
+      "https://www.koreancenter.or.kr/news/articleView.html?idxno=1428237"
+     ]
+    ],
+    "x": {
+     "loc": "한반도 상공 (경사지구동기궤도·정지궤도)",
+     "lead": "우주항공청 · 한국항공우주연구원",
+     "with": "국토교통부·해양수산부, 스페이스X (발사), 대한항공 (구조)",
+     "size": "위성 {8기} · 2035년 완성 목표",
+     "money": "{3조 7,234억 원} (2022~2035)",
+     "about": "미국 GPS에 기대지 않고 한반도 위치 정보를 주는 한국 독자 위성항법 체계예요. 완성되면 세계 7번째예요.\n1호기는 항법 장비 개발이 어려워 발사를 2027년 12월에서 2029년 9월로 20개월 미뤘어요. 2026년 9~11월 상세설계 검토를 마치면 실제 제작에 들어가요.",
+     "steps": [
+      [
+       "2022",
+       "사업 시작",
+       "done"
+      ],
+      [
+       "2025.5",
+       "1호기 발사 20개월 연기",
+       "done"
+      ],
+      [
+       "2025.9",
+       "스페이스X 발사 계약",
+       "done"
+      ],
+      [
+       "지금",
+       "상세설계 검토 마무리",
+       "now"
+      ],
+      [
+       "2029.9",
+       "1호기 발사",
+       ""
+      ],
+      [
+       "2035",
+       "8기 완성",
+       ""
+      ]
+     ],
+     "art": "sat_kps"
+    },
+    "chk": "2026-11-22"
    }
   ],
   "fchk": "2026-11-22"
@@ -9653,6 +10068,283 @@
       }
      ]
     }
+   },
+   {
+    "id": "metanuke",
+    "kind": "민간",
+    "r": "미국",
+    "n": "메타 원전 전력 계약",
+    "d": "2026.1",
+    "st": "계약 · 2035년까지 최대 6.6GW",
+    "L": {
+     "money": {
+      "t": "메타가 기존 원전 연장·증설과 새 원자로 개발에 돈을 대요",
+      "ev": "회사 발표",
+      "co": [
+       "메타"
+      ]
+     },
+     "op": {
+      "t": "비스트라 페리·데이비스-베시 원전 전기 2.1GW를 20년 동안 사요",
+      "ev": "회사 발표",
+      "co": [
+       "비스트라",
+       "메타"
+      ]
+     },
+     "build": {
+      "t": "테라파워 나트리움 2기 (690MW, 이르면 2032) · 오클로 오하이오 원자로 캠퍼스",
+      "ev": "회사 발표",
+      "co": [
+       "테라파워",
+       "오클로"
+      ]
+     }
+    },
+    "src": [
+     [
+      "메타 · 원전 계약 발표 (2026.1)",
+      "https://about.fb.com/news/2026/01/meta-nuclear-energy-projects-power-american-ai-leadership/"
+     ],
+     [
+      "Axios · 비스트라·테라파워·오클로",
+      "https://www.axios.com/2026/01/09/meta-nuclear-deal-vistra-terrapower-oklo"
+     ],
+     [
+      "ANS · 계약 내용",
+      "https://www.ans.org/news/2026-01-12/article-7666/meta-strikes-deals-with-vistra-oklo-terrapower/"
+     ]
+    ],
+    "x": {
+     "loc": "미국 오하이오·펜실베이니아 등",
+     "lead": "메타",
+     "with": "비스트라, 테라파워, 오클로",
+     "size": "최대 {6.6GW} (2035년까지)",
+     "about": "메타가 AI 데이터센터 전기를 원자력으로 확보하려고 2024년 12월 제안 요청을 냈고, 2026년 1월 세 회사와 계약했어요.\n비스트라의 기존 원전 두 곳 전기를 20년 동안 사고 출력도 늘려요. 테라파워 나트리움 원자로와 오클로 원자로 캠퍼스는 새로 짓는 데 돈을 대요.",
+     "steps": [
+      [
+       "2024.12",
+       "원전 제안 요청",
+       "done"
+      ],
+      [
+       "2026.1",
+       "비스트라·테라파워·오클로 계약",
+       "done"
+      ],
+      [
+       "지금",
+       "기존 원전 증설 · 새 원자로 준비",
+       "now"
+      ],
+      [
+       "2032",
+       "나트리움 첫 전기 (가장 이른 시점)",
+       ""
+      ],
+      [
+       "2035",
+       "최대 6.6GW",
+       ""
+      ]
+     ],
+     "art": "nuke_meta",
+     "img": {
+      "u": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Perry_Power_Plant_%2826999924825%29.jpg/1280px-Perry_Power_Plant_%2826999924825%29.jpg",
+      "by": "Erik Drost",
+      "lic": "CC BY 2.0",
+      "src": "https://commons.wikimedia.org/wiki/File:Perry_Power_Plant_(26999924825).jpg",
+      "cap": "이리호 건너편에서 본 비스트라 페리 원전 냉각탑 (오하이오, 2016)",
+      "alt": "호수 건너편의 원전 냉각탑 두 개",
+      "w": 6000
+     }
+    },
+    "chk": "2026-11-22"
+   },
+   {
+    "id": "shu34",
+    "r": "한국",
+    "n": "신한울 3·4호기",
+    "d": "2024.9",
+    "st": "공사 · 공정률 29.8% (2026.4 말) · 3호기 2032.10 준공 목표",
+    "L": {
+     "pol": {
+      "t": "원자력안전위원회 건설허가 (2024.9)",
+      "ev": "보도",
+      "co": []
+     },
+     "money": {
+      "t": "총 공사비 약 11조 7천억 원 (예상)",
+      "ev": "보도",
+      "co": []
+     },
+     "build": {
+      "t": "한수원이 짓고, 원자로·발전기 같은 주기기는 두산에너빌리티가 만들어요",
+      "ev": "보도",
+      "co": [
+       "두산에너빌리티"
+      ]
+     },
+     "op": {
+      "t": "APR1400 2기 · 각 1,400MW",
+      "ev": "보도",
+      "co": []
+     }
+    },
+    "src": [
+     [
+      "헤럴드경제 · 4호기 첫 콘크리트 (2026.5)",
+      "https://www.heraldk.com/article/2026052818423068533"
+     ],
+     [
+      "코리아데일리 · 공정률 29.8%",
+      "https://www.koreadaily.com/article/20260518080300809"
+     ],
+     [
+      "세계일보 · 건설허가·공사비",
+      "https://www.segye.com/newsView/20240912519354"
+     ]
+    ],
+    "x": {
+     "loc": "경북 울진 북면",
+     "lead": "한국수력원자력",
+     "with": "두산에너빌리티 (주기기)",
+     "size": "{1,400MW} × 2기 (APR1400)",
+     "money": "약 {11조 7천억 원} (예상)",
+     "about": "2017년 탈원전 정책으로 멈췄다가 2022년 다시 추진된 원전 2기예요. UAE에 수출한 것과 같은 APR1400이에요.\n2024년 9월 건설허가를 받았고, 2025년 5월 3호기, 2026년 5월 4호기에 첫 콘크리트를 부었어요. 2026년 4월 말 공정률은 29.8%예요.",
+     "steps": [
+      [
+       "2017",
+       "건설 중단",
+       "done"
+      ],
+      [
+       "2024.9",
+       "건설허가 · 착공",
+       "done"
+      ],
+      [
+       "2025.5",
+       "3호기 첫 콘크리트",
+       "done"
+      ],
+      [
+       "2026.5",
+       "4호기 첫 콘크리트",
+       "done"
+      ],
+      [
+       "지금",
+       "공사 (공정률 29.8%)",
+       "now"
+      ],
+      [
+       "2032.10",
+       "3호기 준공 목표",
+       ""
+      ],
+      [
+       "2033",
+       "4호기 준공 목표",
+       ""
+      ]
+     ],
+     "art": "nuke_kr",
+     "img": {
+      "u": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Ulchin_%28now_Hanul%29_04790182_%288506930230%29.jpg/1280px-Ulchin_%28now_Hanul%29_04790182_%288506930230%29.jpg",
+      "by": "IAEA 이미지뱅크",
+      "lic": "퍼블릭 도메인",
+      "src": "https://commons.wikimedia.org/wiki/File:Ulchin_(now_Hanul)_04790182_(8506930230).jpg",
+      "cap": "같은 울진 단지의 기존 한울 원전 (2007)",
+      "alt": "바닷가 언덕 위 돔 모양 원자로 건물들",
+      "w": 3216,
+      "same": false
+     }
+    },
+    "chk": "2026-11-22"
+   },
+   {
+    "id": "fusion",
+    "kind": "민간",
+    "r": "미국",
+    "n": "핵융합 발전 (헬리온·CFS)",
+    "d": "2023.5",
+    "st": "개발 · 헬리온 2028 첫 전기 목표 · CFS 스파크 2027 목표",
+    "L": {
+     "build": {
+      "t": "헬리온 오리온 (워싱턴 말라가) · CFS 시험 장치 스파크 (매사추세츠)",
+      "ev": "보도",
+      "co": []
+     },
+     "money": {
+      "t": "CFS 누적 투자 약 39억 달러 (FusionX 집계)",
+      "ev": "보도",
+      "co": []
+     },
+     "op": {
+      "t": "마이크로소프트(헬리온), 구글(CFS 버지니아 발전소 절반)이 전기를 사기로",
+      "ev": "보도",
+      "co": [
+       "마이크로소프트",
+       "구글"
+      ]
+     }
+    },
+    "src": [
+     [
+      "Scientific American · 헬리온 오리온",
+      "https://www.scientificamerican.com/article/helion-energy-is-building-a-fusion-power-plant-can-its-technology-deliver/"
+     ],
+     [
+      "Fortune · 헬리온 2028 목표 (2026.2)",
+      "https://fortune.com/2026/02/13/sam-altman-fusion-helion-energy-milestone-doubters-grid-power-2028/"
+     ],
+     [
+      "TechCrunch · 핵융합 회사 투자 현황 (2026.8)",
+      "https://techcrunch.com/2026/08/15/every-fusion-startup-that-has-raised-over-100m/"
+     ]
+    ],
+    "x": {
+     "loc": "미국 워싱턴 말라가 (헬리온), 매사추세츠·버지니아 (CFS)",
+     "lead": "헬리온, 커먼웰스 퓨전 시스템즈(CFS)",
+     "with": "마이크로소프트, 구글 (전력 구매)",
+     "size": "헬리온 오리온 {50MW} 목표",
+     "about": "가벼운 원자를 합쳐 에너지를 얻는 핵융합으로 전기를 만들겠다는 회사들이에요. 아직 핵융합으로 전기를 판 곳은 없어요.\n헬리온은 2028년 첫 전기를 내고 오리온 발전소에서 마이크로소프트에 50MW를 보내는 것이 목표예요. CFS는 시험 장치 스파크로 2027년 들인 에너지보다 많은 에너지를 내는 것이 목표이고, 버지니아에 지을 발전소 전기의 절반은 구글이 사기로 했어요.",
+     "steps": [
+      [
+       "2023.5",
+       "헬리온–마이크로소프트 전력 계약",
+       "done"
+      ],
+      [
+       "2025.6",
+       "CFS–구글 전력 계약",
+       "done"
+      ],
+      [
+       "2026.2",
+       "헬리온 플라스마 1억 5천만 도",
+       "done"
+      ],
+      [
+       "지금",
+       "오리온·스파크 건설",
+       "now"
+      ],
+      [
+       "2027",
+       "CFS 스파크 목표",
+       ""
+      ],
+      [
+       "2028",
+       "헬리온 첫 전기 목표",
+       ""
+      ]
+     ],
+     "art": "fusion"
+    },
+    "chk": "2026-11-22"
    }
   ],
   "fchk": "2026-11-22"
@@ -10540,6 +11232,324 @@
       }
      ]
     }
+   },
+   {
+    "id": "hyperion",
+    "kind": "민간",
+    "r": "미국",
+    "n": "메타 하이페리온 (루이지애나)",
+    "d": "2024.12",
+    "st": "공사 · 2026.7 5GW로 확대 발표 · 투자 500억 달러 이상",
+    "L": {
+     "money": {
+      "t": "메타가 500억 달러 넘게 투자해요",
+      "ev": "회사 발표",
+      "co": [
+       "메타"
+      ]
+     },
+     "build": {
+      "t": "터너·DPR·모텐슨 세 시공사가 지어요",
+      "ev": "회사 발표",
+      "co": []
+     },
+     "power": {
+      "t": "전력 회사 엔터지가 새 가스 발전소로 전기를 대요",
+      "ev": "보도",
+      "co": []
+     },
+     "use": {
+      "t": "메타 AI 모델 학습",
+      "ev": "회사 발표",
+      "co": [
+       "메타"
+      ]
+     }
+    },
+    "src": [
+     [
+      "Tom's Hardware · 5GW·500억 달러 확대 (2026.7)",
+      "https://www.tomshardware.com/tech-industry/data-centers/meta-expands-colossal-hyperion-ai-supercluster-plans-to-5gw-pushes-louisiana-investment-past-usd50-billion-as-ai-race-accelerates-says-it-plans-to-invest-over-usd1-billion-in-local-infrastructure-improvements"
+     ],
+     [
+      "메타 · 착공 1년 (2025.12)",
+      "https://about.fb.com/news/2025/12/metas-richland-parish-data-center-supports-louisiana-economy-875-million-in-contracts/"
+     ],
+     [
+      "Epoch AI · 하이페리온 현황",
+      "https://epoch.ai/data/ai-data-centers/directory/meta-hyperion"
+     ]
+    ],
+    "x": {
+     "loc": "미국 루이지애나 리치랜드 패리시 (홀리 리지)",
+     "lead": "메타",
+     "with": "엔터지 (전력), 터너·DPR·모텐슨 (시공)",
+     "size": "{5GW} 목표 (처음 2GW에서 확대)",
+     "money": "{500억 달러} 이상 (회사 발표)",
+     "about": "메타가 AI 모델을 학습시킬 가장 큰 데이터센터예요. 2024년 12월 공사를 시작했어요.\n2026년 7월 규모를 2GW에서 5GW로 키우고 투자액도 500억 달러 이상으로 늘렸어요. 전기는 전력 회사 엔터지가 새로 짓는 가스 발전소에서 받아요.",
+     "steps": [
+      [
+       "2024.12",
+       "착공",
+       "done"
+      ],
+      [
+       "2025.12",
+       "착공 1년 · 지역 계약 8억 7,500만 달러",
+       "done"
+      ],
+      [
+       "2026.7",
+       "5GW로 확대 발표",
+       "done"
+      ],
+      [
+       "지금",
+       "공사",
+       "now"
+      ]
+     ],
+     "art": "dc_hyp"
+    },
+    "chk": "2026-11-22"
+   },
+   {
+    "id": "fairwater",
+    "kind": "민간",
+    "r": "미국",
+    "n": "마이크로소프트 페어워터",
+    "d": "2025.9",
+    "st": "가동 · 애틀랜타 가동 (2025.10) · 위스콘신 1동 완공 (2026.6)",
+    "L": {
+     "money": {
+      "t": "위스콘신에 첫 동 33억 달러 + 두 번째 동 40억 달러",
+      "ev": "회사 발표",
+      "co": [
+       "마이크로소프트"
+      ]
+     },
+     "build": {
+      "t": "2층으로 쌓은 같은 설계를 여러 주에 지어요",
+      "ev": "회사 발표",
+      "co": [
+       "마이크로소프트"
+      ]
+     },
+     "use": {
+      "t": "엔비디아 GB200·GB300 수십만 장 · AI 모델 학습",
+      "ev": "회사 발표",
+      "co": [
+       "엔비디아",
+       "마이크로소프트"
+      ]
+     }
+    },
+    "src": [
+     [
+      "마이크로소프트 · 위스콘신 1동 완공 (2026.6)",
+      "https://news.microsoft.com/source/2026/06/23/microsoft-completes-construction-on-first-datacenter-facility-in-mount-pleasant-wisconsin/"
+     ],
+     [
+      "마이크로소프트 · 애틀랜타와 'AI 초공장'",
+      "https://news.microsoft.com/source/features/ai/from-wisconsin-to-atlanta-microsoft-connects-datacenters-to-build-its-first-ai-superfactory/"
+     ],
+     [
+      "마이크로소프트 · 위스콘신 2동 40억 달러",
+      "https://blogs.microsoft.com/on-the-issues/2025/09/18/made-in-wisconsin-the-worlds-most-powerful-ai-datacenter/"
+     ]
+    ],
+    "x": {
+     "loc": "미국 위스콘신 마운트플레전트, 조지아 애틀랜타",
+     "lead": "마이크로소프트",
+     "with": "엔비디아 (GPU)",
+     "size": "엔비디아 GPU {수십만 장} (회사 발표)",
+     "money": "위스콘신에만 {70억 달러} 이상 (회사 발표)",
+     "about": "같은 설계로 여러 주에 지은 AI 데이터센터를 전용 네트워크로 묶어 한 대처럼 쓰는 사업이에요. 마이크로소프트는 이것을 'AI 초공장'이라고 불러요.\n애틀랜타 시설이 2025년 10월 먼저 가동했고, 위스콘신 첫 시설은 2026년 6월 공사를 마쳤어요. 위스콘신에는 같은 크기의 두 번째 시설을 3년 안에 지어요.",
+     "steps": [
+      [
+       "2025.9",
+       "위스콘신 공개 · 2동 40억 달러 추가",
+       "done"
+      ],
+      [
+       "2025.10",
+       "애틀랜타 가동",
+       "done"
+      ],
+      [
+       "2026.6",
+       "위스콘신 1동 완공",
+       "done"
+      ],
+      [
+       "지금",
+       "위스콘신 2동",
+       "now"
+      ]
+     ],
+     "art": "dc_fw"
+    },
+    "chk": "2026-11-22"
+   },
+   {
+    "id": "colossus2",
+    "kind": "민간",
+    "r": "미국",
+    "n": "xAI 콜로서스 2 (멤피스)",
+    "d": "2025.3",
+    "st": "가동 · IT 전력 약 946MW (Epoch AI 추정)",
+    "L": {
+     "money": {
+      "t": "칩·설비 약 358억 달러 (Epoch AI 추정)",
+      "ev": "보도",
+      "co": []
+     },
+     "build": {
+      "t": "멤피스의 큰 창고를 사서 데이터센터로 고쳤어요",
+      "ev": "보도",
+      "co": []
+     },
+     "power": {
+      "t": "주 경계 건너 미시시피에 세운 가스터빈으로 직접 전기를 만들어요",
+      "ev": "보도",
+      "co": []
+     },
+     "use": {
+      "t": "xAI 그록 학습 · Anthropic·Cursor도 써요 (Epoch AI)",
+      "ev": "보도",
+      "co": [
+       "엔비디아"
+      ]
+     }
+    },
+    "src": [
+     [
+      "Epoch AI · 콜로서스 2",
+      "https://epoch.ai/data/ai-data-centers/directory/colossus-2"
+     ],
+     [
+      "Cleanview · 콜로서스 1·2 전력",
+      "https://cleanview.co/reports/behind-the-meter-data-centers/full-report/colossus"
+     ],
+     [
+      "Data Center Frontier · 멤피스·사우스헤이븐",
+      "https://www.datacenterfrontier.com/machine-learning/article/55343403/xais-ai-factories-from-colossus-to-macrohardrr-in-the-gigawatt-era"
+     ]
+    ],
+    "x": {
+     "loc": "미국 테네시 멤피스 · 미시시피 사우스헤이븐",
+     "lead": "xAI",
+     "with": "엔비디아 (GPU), Anthropic·Cursor (사용)",
+     "size": "IT 전력 약 {946MW} (Epoch AI 추정)",
+     "money": "약 {358억 달러} (Epoch AI 추정)",
+     "about": "일론 머스크의 xAI가 멤피스의 큰 창고를 사서 고친 AI 데이터센터예요. 2025년 3월 부지를 샀어요.\n전기는 주 경계 건너 미시시피에 세운 가스터빈에서 직접 만들어 써요. 조사 기관 Epoch AI는 지금 가동 중이고, xAI 말고도 Anthropic과 Cursor가 쓴다고 정리했어요.",
+     "steps": [
+      [
+       "2025.3",
+       "부지 매입",
+       "done"
+      ],
+      [
+       "2026",
+       "가동 (Epoch AI)",
+       "done"
+      ],
+      [
+       "지금",
+       "주변 부지 확장 (보도)",
+       "now"
+      ]
+     ],
+     "art": "dc_col"
+    },
+    "chk": "2026-11-22"
+   },
+   {
+    "id": "ulsan",
+    "kind": "민간",
+    "r": "한국",
+    "n": "SK·AWS 울산 AI 데이터센터",
+    "d": "2025.6",
+    "st": "공사 · 2025.8 착공 · 2027년부터 단계적 가동 목표",
+    "L": {
+     "money": {
+      "t": "SK와 AWS가 7조원 이상 함께 투자해요",
+      "ev": "보도",
+      "co": [
+       "아마존"
+      ]
+     },
+     "build": {
+      "t": "건물·전력·냉각은 SK, 서버 구축·운영은 AWS가 맡아요",
+      "ev": "보도",
+      "co": [
+       "아마존"
+      ]
+     },
+     "power": {
+      "t": "바로 옆 SK멀티유틸리티 LNG 발전소에서 전기를 받아요",
+      "ev": "보도",
+      "co": []
+     },
+     "use": {
+      "t": "AWS가 'AI 존'으로 국내 기업에 클라우드를 팔아요",
+      "ev": "회사 발표",
+      "co": [
+       "아마존"
+      ]
+     }
+    },
+    "src": [
+     [
+      "한국경제 · SK·AWS 울산 7조 AI 데이터센터",
+      "https://www.hankyung.com/article/2025062094191"
+     ],
+     [
+      "SK텔레콤 뉴스룸 · 기공식 (2025.8)",
+      "https://news.sktelecom.com/214708"
+     ],
+     [
+      "파이낸셜뉴스 · SK·AWS 역할 분담",
+      "https://www.fnnews.com/news/202508291259234245"
+     ]
+    ],
+    "x": {
+     "loc": "울산 남구 황성동 (미포 국가산업단지)",
+     "lead": "SK텔레콤·SK에코플랜트",
+     "with": "아마존웹서비스(AWS), 울산시",
+     "size": "{103MW} (2029년 목표)",
+     "money": "{7조원} 이상 (보도)",
+     "about": "SK그룹과 아마존웹서비스(AWS)가 함께 짓는 비수도권 최대 AI 데이터센터예요. 건물·전력·냉각은 SK가, 서버와 클라우드 서비스는 AWS가 맡아요.\n2025년 8월 착공했고, 2027년부터 단계적으로 가동해 2029년 103MW로 운영할 계획이에요. 바로 옆 LNG 발전소에서 전기를 받아요.",
+     "steps": [
+      [
+       "2025.6",
+       "SK–AWS 협약",
+       "done"
+      ],
+      [
+       "2025.8",
+       "착공",
+       "done"
+      ],
+      [
+       "지금",
+       "공사",
+       "now"
+      ],
+      [
+       "2027",
+       "단계적 가동 시작",
+       ""
+      ],
+      [
+       "2029",
+       "103MW 운영",
+       ""
+      ]
+     ],
+     "art": "dc_us"
+    },
+    "chk": "2026-11-22"
    }
   ]
  },
@@ -10548,7 +11558,7 @@
   "noArrow": true,
   "cap": "줄은 큐비트를 만드는 방식이고, 칸은 회사 종류예요. 아직 어느 방식이 이길지 정해지지 않았어요.",
   "capM": "줄마다 큐비트를 만드는 방식이에요. 아직 어느 방식이 이길지 정해지지 않았어요.",
-  "intro": "양자컴퓨터는 큐비트를 만드는 방식이 여러 갈래예요. 방식마다 회사가 다르고, 부품·공장과 슈퍼컴 회사가 그 아래를 받쳐요.",
+  "intro": "양자컴퓨터는 0과 1을 동시에 담는 큐비트로 계산해요. 신약·새 소재·암호처럼 지금 컴퓨터로 오래 걸리는 문제를 빠르게 푸는 것이 목표지만, 아직 오류가 많아 실제로 쓸 만한 기계는 회사들이 2029~2033년을 목표로 잡고 있어요 (IBM 2029, DARPA 판정 2033). 큐비트를 만드는 방식이 여러 갈래라 방식마다 회사가 다르고, 부품·공장과 슈퍼컴 회사가 그 아래를 받쳐요.",
   "chk": "2026-11-22",
   "base": "2026-11-22",
   "fchk": "2026-11-22",
@@ -11587,6 +12597,10 @@
      [
       "PsiQuantum 보도자료 · 착공",
       "https://www.businesswire.com/news/home/20250930243293/en"
+     ],
+     [
+      "eWeek · IBM 퀀텀 시스템 투 시카고 공개 (2026.11)",
+      "https://www.eweek.com/news/ibm-quantum-system-two-chicago-nighthawk/"
      ]
     ],
     "x": {
@@ -11594,7 +12608,7 @@
      "lead": "일리노이주 · PsiQuantum",
      "with": "IBM, Diraq, 인플렉션, 퀀텀 머신즈",
      "size": "약 440에이커 단지 · PsiQuantum 건물 30만 제곱피트",
-     "about": "양자컴퓨터 회사들을 한곳에 모으는 공원이에요. 강철을 만들던 공장 땅에 지어요.\nPsiQuantum이 여기에 오류를 고치는 큰 양자컴퓨터를 짓겠다고 했어요. 2025년 9월 착공했고 1단계는 2027년 완공이 목표예요.",
+     "about": "양자컴퓨터 회사들을 한곳에 모으는 공원이에요. 강철을 만들던 공장 땅에 지어요.\nPsiQuantum이 여기에 오류를 고치는 큰 양자컴퓨터를 짓겠다고 했어요. 2025년 9월 착공했고 1단계는 2027년 완공이 목표예요.\n2026년 11월 6일 IBM 양자컴퓨터(퀀텀 시스템 투)가 시카고대에서 먼저 공개됐어요. 공원이 완성되면 이곳으로 옮겨요. 일리노이주는 장비·부지에 2,500만 달러를 댔어요.",
      "steps": [
       [
        "2024.7",
@@ -11609,6 +12623,11 @@
       [
        "2025.9.30",
        "착공",
+       "done"
+      ],
+      [
+       "2026.11.6",
+       "IBM 양자컴퓨터 시카고대에서 먼저 공개 (공원으로 옮길 예정)",
        "done"
       ],
       [
@@ -11847,6 +12866,158 @@
       ]
      }
     }
+   },
+   {
+    "id": "starling",
+    "kind": "민간",
+    "r": "미국",
+    "n": "IBM 스탈링 (오류에 강한 양자컴퓨터)",
+    "d": "2025.6",
+    "st": "개발 · 2029 목표 · 포킵시 양자 데이터센터",
+    "L": {
+     "build": {
+      "t": "뉴욕 포킵시 IBM 양자 데이터센터에서 지어요",
+      "ev": "회사 발표",
+      "co": [
+       "IBM"
+      ]
+     },
+     "test": {
+      "t": "논리 큐비트 200개로 양자 연산 1억 번이 목표",
+      "ev": "회사 발표",
+      "co": [
+       "IBM"
+      ]
+     }
+    },
+    "src": [
+     [
+      "IBM · 스탈링 발표 (2025.6)",
+      "https://newsroom.ibm.com/2025-06-10-IBM-Sets-the-Course-to-Build-Worlds-First-Large-Scale,-Fault-Tolerant-Quantum-Computer-at-New-IBM-Quantum-Data-Center"
+     ],
+     [
+      "IBM Research · 스탈링까지의 진행",
+      "https://research.ibm.com/blog/path-to-starling"
+     ],
+     [
+      "IBM · 설계 방법",
+      "https://www.ibm.com/quantum/blog/large-scale-ftqc"
+     ]
+    ],
+    "x": {
+     "loc": "미국 뉴욕 포킵시",
+     "lead": "IBM",
+     "size": "논리 큐비트 {200개} · 양자 연산 {1억 번}",
+     "about": "IBM이 오류를 스스로 고치면서 오래 계산하는 '오류에 강한' 양자컴퓨터를 처음 만들겠다는 계획이에요. 지금 양자컴퓨터보다 2만 배 많은 연산을 하는 것이 목표예요.\n여러 개의 물리 큐비트를 묶어 오류에 강한 '논리 큐비트' 하나로 써요. 그다음 목표는 논리 큐비트 2,000개의 '블루제이'예요.",
+     "steps": [
+      [
+       "2025.6",
+       "계획·설계 발표",
+       "done"
+      ],
+      [
+       "지금",
+       "부품별 개발",
+       "now"
+      ],
+      [
+       "2029",
+       "스탈링 완성 목표",
+       ""
+      ],
+      [
+       "2033 이후",
+       "블루제이",
+       ""
+      ]
+     ],
+     "art": "q_ibm",
+     "img": {
+      "u": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Ikerbasque_IBM_Quantum_System_Two.jpg/1280px-Ikerbasque_IBM_Quantum_System_Two.jpg",
+      "by": "Luistxo",
+      "lic": "CC BY-SA 4.0",
+      "src": "https://commons.wikimedia.org/wiki/File:Ikerbasque_IBM_Quantum_System_Two.jpg",
+      "cap": "스페인 산세바스티안의 IBM 퀀텀 시스템 투 (2025.12)",
+      "alt": "유리창 너머 금속 외벽의 양자컴퓨터",
+      "w": 4000,
+      "same": false
+     }
+    },
+    "chk": "2026-11-22"
+   },
+   {
+    "id": "psiau",
+    "kind": "민관",
+    "r": "호주",
+    "n": "PsiQuantum 호주 양자컴퓨터",
+    "d": "2024.4",
+    "st": "공사 · 2026.6 모어튼베이 착공",
+    "L": {
+     "pol": {
+      "t": "호주 연방·퀸즐랜드 정부가 지분·보조금·대출로 9억 4천만 호주달러",
+      "ev": "회사 발표",
+      "co": []
+     },
+     "build": {
+      "t": "모어튼베이 센트럴 시설 공사",
+      "ev": "회사 발표",
+      "co": [
+       "PsiQuantum"
+      ]
+     },
+     "test": {
+      "t": "그리피스대 시험·검증 연구소 (2026.5)",
+      "ev": "회사 발표",
+      "co": [
+       "PsiQuantum"
+      ]
+     }
+    },
+    "src": [
+     [
+      "Business Wire · 호주 정부 투자 (2024.4)",
+      "https://www.businesswire.com/news/home/20240429080449/en"
+     ],
+     [
+      "HPCwire · 모어튼베이 착공 (2026.6)",
+      "https://www.hpcwire.com/off-the-wire/psiquantum-breaks-ground-on-australian-site-for-utility-scale-quantum-computer/"
+     ],
+     [
+      "Forbes Australia · 부지 변경",
+      "https://www.forbes.com.au/news/innovation/psiquantums-stalled-quantum-plant-to-break-ground-after-location-switch/"
+     ]
+    ],
+    "x": {
+     "loc": "호주 퀸즐랜드 모어튼베이 (처음엔 브리즈번 공항 부지)",
+     "lead": "PsiQuantum",
+     "with": "호주 연방정부, 퀸즐랜드 주정부, 그리피스대",
+     "money": "{9억 4천만 호주달러} (정부 두 곳)",
+     "about": "빛 알갱이(광자)로 계산하는 PsiQuantum이 호주에 오류에 강한 양자컴퓨터를 짓는 사업이에요. 호주 연방과 퀸즐랜드 주정부가 지분·보조금·대출로 돈을 댔어요.\n처음 고른 브리즈번 공항 부지는 인허가가 늦어져 모어튼베이로 옮겼고, 2026년 6월 17일 공사를 시작했어요.",
+     "steps": [
+      [
+       "2024.4",
+       "정부 투자 발표",
+       "done"
+      ],
+      [
+       "2026.5",
+       "그리피스대 시험 연구소",
+       "done"
+      ],
+      [
+       "2026.6",
+       "모어튼베이 착공",
+       "done"
+      ],
+      [
+       "지금",
+       "공사",
+       "now"
+      ]
+     ],
+     "art": "q_au"
+    },
+    "chk": "2026-11-22"
    }
   ]
  },
@@ -12738,7 +13909,8 @@
       ],
       "ev": "공시·회사 발표 (2025.12~2026.10)"
      }
-    }
+    },
+    "kind": "민간"
    },
    {
     "id": "kress",
@@ -12844,6 +14016,178 @@
       "ev": "보도 (2026.2~11)"
      }
     }
+   },
+   {
+    "id": "ssb",
+    "kind": "민간",
+    "r": "한국",
+    "n": "전고체 배터리 상용화",
+    "d": "2025.10",
+    "st": "개발 · 삼성SDI 2027 하반기 양산 목표 · 솔리드파워 한국 전해질 합작 협의",
+    "L": {
+     "fab": {
+      "t": "삼성SDI 수원·SK온 대전 시험 생산 라인",
+      "ev": "보도",
+      "co": [
+       "삼성SDI",
+       "SK온"
+      ]
+     },
+     "money": {
+      "t": "솔리드파워가 배터리 소재 회사 2곳과 한국 전해질 공장 합작 협의 (미체결)",
+      "ev": "보도",
+      "co": []
+     },
+     "use": {
+      "t": "BMW 시험차에 넣어 달려 봐요",
+      "ev": "회사 발표",
+      "co": []
+     }
+    },
+    "src": [
+     [
+      "삼성SDI · BMW·솔리드파워 3자 협약 (2025.10)",
+      "https://www.samsungsdi.co.kr/sdi-now/sdi-news/4564.html"
+     ],
+     [
+      "더구루 · 삼성SDI·SK온 진행 상황 (2026.8)",
+      "https://theguru.co.kr/news/article.html?no=105428"
+     ],
+     [
+      "더구루 · 솔리드파워 한국 합작 구상 (2026.8)",
+      "https://www.theguru.co.kr/mobile/article.html?no=105875"
+     ],
+     [
+      "The Motley Fool · 솔리드파워 3분기 콜 (2026.11)",
+      "https://www.fool.com/earnings/call-transcripts/2026/11/04/solid-power-sldp-q3-2026-earnings-call-transcript/"
+     ]
+    ],
+    "x": {
+     "loc": "한국 수원·대전, 미국 콜로라도 (전해질)",
+     "lead": "삼성SDI, SK온",
+     "with": "솔리드파워 (고체 전해질), BMW",
+     "size": "솔리드파워 전해질 연 75톤 (2026 말) → 한국 500톤 → {2만 톤} 구상",
+     "about": "액체 전해질 대신 고체를 써서 불이 덜 나고 더 많이 담는 배터리예요. 아직 전기차에 대량으로 들어간 적은 없어요.\n삼성SDI는 BMW·솔리드파워와 3자 협약을 맺고 수원 연구소 시험 라인에서 셀을 만들어요. 2027년 하반기 양산이 목표예요. SK온은 대전 연구원에 솔리드파워와 시험 라인 설비를 넣었어요.\n세 회사가 함께 만드는 합작 법인은 없어요. 솔리드파워는 배터리 소재 회사 2곳과 한국 전해질 공장 합작을 협의 중이고, 연내 체결이 목표지만 늦어질 수 있다고 했어요.",
+     "steps": [
+      [
+       "2023.3",
+       "삼성SDI 수원 시험 라인",
+       "done"
+      ],
+      [
+       "2025.10",
+       "삼성SDI·BMW·솔리드파워 협약",
+       "done"
+      ],
+      [
+       "2026",
+       "SK온 대전 시험 라인 설비",
+       "done"
+      ],
+      [
+       "지금",
+       "한국 전해질 합작 협의",
+       "now"
+      ],
+      [
+       "2027 하반기",
+       "삼성SDI 양산 목표",
+       ""
+      ],
+      [
+       "2028",
+       "한국 전해질 최대 500톤 공급 목표",
+       ""
+      ]
+     ],
+     "art": "ev_ssb"
+    },
+    "chk": "2026-11-22"
+   },
+   {
+    "id": "thacker",
+    "kind": "민관",
+    "r": "미국",
+    "n": "태커패스 리튬 광산 (네바다)",
+    "d": "2023.3",
+    "st": "공사 · 1단계 기계 준공 2027 말 · 2028 생산 목표",
+    "L": {
+     "pol": {
+      "t": "에너지부가 대출 조건을 고치며 회사와 사업에 각 5% 지분",
+      "ev": "정부 문서",
+      "co": []
+     },
+     "money": {
+      "t": "에너지부 대출 22억 6천만 달러 · GM 9억 달러 이상",
+      "ev": "보도",
+      "co": [
+       "GM"
+      ]
+     },
+     "fab": {
+      "t": "1단계 탄산리튬 연 4만 톤 (전기차 약 100만 대분, 보도)",
+      "ev": "회사 발표",
+      "co": []
+     },
+     "use": {
+      "t": "GM 전기차 배터리용",
+      "ev": "보도",
+      "co": [
+       "GM"
+      ]
+     }
+    },
+    "src": [
+     [
+      "미국 에너지부 · 대출 재조정·지분 (2025.9)",
+      "https://www.energy.gov/node/4853141"
+     ],
+     [
+      "TechCrunch · 정부 지분 5%+5%",
+      "https://techcrunch.com/2025/09/30/u-s-government-takes-stake-in-canadian-lithium-miner-and-its-nevada-mining-project"
+     ],
+     [
+      "Business Wire · 공사 현황 (2026.11)",
+      "https://finviz.com/news/420877/lithium-americas-provides-thacker-pass-project-update"
+     ]
+    ],
+    "x": {
+     "loc": "미국 네바다 훔볼트 카운티",
+     "lead": "리튬 아메리카스 (GM 합작)",
+     "with": "미국 에너지부, GM",
+     "size": "탄산리튬 연 {4만 톤} (1단계)",
+     "money": "에너지부 대출 {22억 6천만 달러}",
+     "about": "미국에서 가장 큰 리튬 매장지에 짓는 광산·정제 공장이에요. 리튬 아메리카스와 GM이 함께 해요.\n2025년 10월 미국 에너지부가 대출 조건을 고치면서 회사와 사업에 각각 5% 지분을 받았어요. 1단계 공장은 2027년 말 기계 준공, 2028년 생산을 늘리는 것이 목표예요.",
+     "steps": [
+      [
+       "2023.3",
+       "착공",
+       "done"
+      ],
+      [
+       "2025.10",
+       "에너지부 지분 5%+5%",
+       "done"
+      ],
+      [
+       "지금",
+       "1단계 공사",
+       "now"
+      ],
+      [
+       "2027 말",
+       "기계 준공 목표",
+       ""
+      ],
+      [
+       "2028",
+       "상업 생산",
+       ""
+      ]
+     ],
+     "art": "ev_li"
+    },
+    "chk": "2026-11-22"
    }
   ]
  },
@@ -13429,8 +14773,20 @@
        ""
       ]
      ],
-     "art": "robot_atlas"
-    }
+     "art": "robot_atlas",
+     "img": {
+      "u": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Boston_Dynamics_Atlas_%284%29.jpg/1280px-Boston_Dynamics_Atlas_%284%29.jpg",
+      "by": "Damian B Oh",
+      "lic": "CC BY-SA 4.0",
+      "src": "https://commons.wikimedia.org/wiki/File:Boston_Dynamics_Atlas_(4).jpg",
+      "cap": "현대차그룹 전시장의 전동식 아틀라스 (2026.7)",
+      "alt": "둥근 얼굴 화면의 휴머노이드 아틀라스 상반신",
+      "w": 3000,
+      "pos": "50% 30%",
+      "same": false
+     }
+    },
+    "kind": "민간"
    },
    {
     "id": "optimus",
@@ -13507,8 +14863,20 @@
        ""
       ]
      ],
-     "art": "robot_opt"
-    }
+     "art": "robot_opt",
+     "img": {
+      "u": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Optimus_bot_at_Tesla_showroom_-_20251118_-_01.jpg/1280px-Optimus_bot_at_Tesla_showroom_-_20251118_-_01.jpg",
+      "by": "Sikander",
+      "lic": "CC BY-SA 4.0",
+      "src": "https://commons.wikimedia.org/wiki/File:Optimus_bot_at_Tesla_showroom_-_20251118_-_01.jpg",
+      "cap": "테슬라 매장에 전시된 옵티머스 (2025.11)",
+      "alt": "매장 받침대 위에 선 휴머노이드 옵티머스",
+      "w": 2268,
+      "pos": "50% 28%",
+      "same": false
+     }
+    },
+    "kind": "민간"
    },
    {
     "id": "khuman",
@@ -13676,8 +15044,87 @@
        ]
       ],
       "ev": "SCMP 보도 (조사회사 추정)"
+     },
+     "img": {
+      "u": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/20260425_Unitree_Headquarter_01.jpg/1280px-20260425_Unitree_Headquarter_01.jpg",
+      "by": "Windmemories",
+      "lic": "CC BY-SA 4.0",
+      "src": "https://commons.wikimedia.org/wiki/File:20260425_Unitree_Headquarter_01.jpg",
+      "cap": "중국 항저우의 유니트리 본사 (2026.4)",
+      "alt": "도로 옆 유니트리 본사 건물",
+      "w": 1800
      }
-    }
+    },
+    "kind": "민간"
+   },
+   {
+    "id": "figbmw",
+    "kind": "민간",
+    "r": "미국",
+    "n": "BMW 공장의 피규어 휴머노이드",
+    "d": "2024",
+    "st": "진행 · 피규어 03 스파턴버그 물류 투입 (2026.6) · 독일 라이프치히 시범",
+    "L": {
+     "make": {
+      "t": "피규어 AI가 만들어요 (피규어 02 → 03)",
+      "ev": "회사 발표",
+      "co": [
+       "Figure"
+      ]
+     },
+     "use": {
+      "t": "BMW 스파턴버그 차체·물류 작업, 라이프치히 시범",
+      "ev": "회사 발표",
+      "co": [
+       "BMW"
+      ]
+     }
+    },
+    "src": [
+     [
+      "BMW · 피규어 03 스파턴버그 (2026.6)",
+      "https://www.press.bmwgroup.com/global/article/detail/T0458778EN/bmw-group-advances-the-use-of-physical-ai-in-production-with-fig"
+     ],
+     [
+      "BMW · 독일 라이프치히 시범",
+      "https://www.press.bmwgroup.com/global/article/detail/T0455864EN/bmw-group-to-deploy-humanoid-robots-in-production-in-germany-for-the-first-time"
+     ],
+     [
+      "The Robot Report · 피규어 03 투입",
+      "https://www.therobotreport.com/bmw-group-deploys-figure-03-humanoid-after-tests-previous-version/"
+     ]
+    ],
+    "x": {
+     "loc": "미국 사우스캐롤라이나 스파턴버그, 독일 라이프치히",
+     "lead": "BMW",
+     "with": "피규어 AI",
+     "size": "피규어 02 {11개월} 실제 투입 (피규어 발표)",
+     "about": "BMW가 미국 스파턴버그 공장에서 피규어 AI의 휴머노이드를 실제 생산에 써 본 사업이에요.\n피규어 02가 차체 부품을 정해진 자리에 넣는 일을 했고, 2026년 6월부터 후속 모델 피규어 03이 부품을 순서대로 담는 물류 일을 맡아요. BMW는 독일 라이프치히 공장에서도 휴머노이드 시범 사업을 시작했어요.",
+     "steps": [
+      [
+       "2024",
+       "스파턴버그 몇 주 시험",
+       "done"
+      ],
+      [
+       "2025",
+       "피규어 02 실제 투입",
+       "done"
+      ],
+      [
+       "2026.6",
+       "피규어 03 물류 투입",
+       "done"
+      ],
+      [
+       "지금",
+       "라이프치히 시범",
+       "now"
+      ]
+     ],
+     "art": "robot_bmw"
+    },
+    "chk": "2026-11-22"
    }
   ]
  },
@@ -14279,7 +15726,8 @@
       ],
       "ev": "회사 발표 (2026.2~4)"
      }
-    }
+    },
+    "kind": "민간"
    },
    {
     "id": "aicloud",
@@ -14398,7 +15846,84 @@
       ],
       "ev": "보도·회사 발표 (2025.7~11)"
      }
-    }
+    },
+    "kind": "민간"
+   },
+   {
+    "id": "awsesc",
+    "kind": "민간",
+    "r": "유럽",
+    "n": "AWS 유럽 소버린 클라우드",
+    "d": "2023",
+    "st": "가동 · 2026.1.15 정식 서비스 · 독일 브란덴부르크",
+    "L": {
+     "pol": {
+      "t": "EU의 데이터 주권 요구에 맞춰 데이터·운영을 EU 안에 둬요",
+      "ev": "회사 발표",
+      "co": []
+     },
+     "money": {
+      "t": "2040년까지 78억 유로 투자",
+      "ev": "회사 발표",
+      "co": [
+       "아마존 AWS"
+      ]
+     },
+     "cloud": {
+      "t": "다른 AWS 지역과 물리적으로 떼어 놓고 EU 거주 직원만 운영해요",
+      "ev": "회사 발표",
+      "co": [
+       "아마존 AWS"
+      ]
+     },
+     "soft": {
+      "t": "SAP·미스트랄 AI·엔비디아 등 출시 파트너",
+      "ev": "회사 발표",
+      "co": [
+       "엔비디아"
+      ]
+     }
+    },
+    "src": [
+     [
+      "AWS · 정식 서비스 (2026.1)",
+      "https://aws.amazon.com/blogs/aws/opening-the-aws-european-sovereign-cloud"
+     ],
+     [
+      "Amazon · 출시와 유럽 확장",
+      "https://press.aboutamazon.com/aws/2026/1/aws-launches-aws-european-sovereign-cloud-and-announces-expansion-across-europe"
+     ],
+     [
+      "Help Net Security · 로컬 존 계획",
+      "https://www.helpnetsecurity.com/2026/01/15/aws-european-sovereign-cloud-deployment/"
+     ]
+    ],
+    "x": {
+     "loc": "독일 브란덴부르크 (벨기에·네덜란드·포르투갈 로컬 존 계획)",
+     "lead": "아마존 AWS",
+     "with": "SAP, 미스트랄 AI, 엔비디아 등",
+     "money": "{78억 유로} (2040년까지)",
+     "about": "유럽 정부·기업이 데이터를 유럽 밖으로 내보내지 않고 쓰도록, AWS가 다른 지역과 따로 떼어 만든 클라우드예요. EU에 사는 직원만 운영해요.\n2023년 계획을 밝혔고, 2026년 1월 15일 독일 브란덴부르크에서 정식 서비스를 시작했어요.",
+     "steps": [
+      [
+       "2023",
+       "계획 발표",
+       "done"
+      ],
+      [
+       "2026.1.15",
+       "정식 서비스",
+       "done"
+      ],
+      [
+       "지금",
+       "벨기에·네덜란드·포르투갈 확장",
+       "now"
+      ]
+     ],
+     "art": "cloud_eu"
+    },
+    "chk": "2026-11-22"
    }
   ]
  },
@@ -15173,7 +16698,205 @@
       ],
       "ev": "회사 발표·보도 (2025.4~2026.9)"
      }
-    }
+    },
+    "kind": "민간"
+   },
+   {
+    "id": "krusfab",
+    "kind": "민간",
+    "r": "미국",
+    "n": "셀트리온·삼성바이오 미국 공장 인수",
+    "d": "2025.9",
+    "st": "완료 · 셀트리온 뉴저지 (2025.12) · 삼성바이오 메릴랜드 (2026.3)",
+    "L": {
+     "fab": {
+      "t": "셀트리온 뉴저지 브랜치버그, 삼성바이오로직스 메릴랜드 록빌",
+      "ev": "회사 발표",
+      "co": [
+       "셀트리온",
+       "삼성바이오로직스"
+      ]
+     },
+     "money": {
+      "t": "셀트리온 약 4,600억 원, 삼성바이오로직스 약 4,100억 원",
+      "ev": "회사 발표",
+      "co": []
+     },
+     "use": {
+      "t": "셀트리온은 릴리 약 6,787억 원어치 위탁생산 · 삼성은 GSK 제품 이어서 생산",
+      "ev": "회사 발표",
+      "co": [
+       "일라이 릴리",
+       "GSK"
+      ]
+     }
+    },
+    "src": [
+     [
+      "한국경제 · 셀트리온 인수 완료 (2026.1)",
+      "https://www.hankyung.com/article/202601027342i"
+     ],
+     [
+      "헤럴드경제 · 삼성바이오 인수 완료 (2026.3)",
+      "https://www.heraldk.com/article/2026033115373241846"
+     ],
+     [
+      "데일리팜 · 삼성바이오 인수 계약",
+      "https://m.dailypharm.com/user/news/334168"
+     ]
+    ],
+    "x": {
+     "loc": "미국 뉴저지 브랜치버그, 메릴랜드 록빌",
+     "lead": "셀트리온, 삼성바이오로직스",
+     "with": "일라이 릴리, GSK (공장을 판 회사)",
+     "size": "셀트리온 6만 6천 L · 삼성 {6만 L}",
+     "about": "미국 의약품 관세 우려 속에 한국 바이오 두 회사가 미국 공장을 사들였어요.\n셀트리온은 일라이 릴리의 뉴저지 공장을 2025년 12월 31일 넘겨받고, 릴리 약을 6,787억 원어치 위탁생산해요. 삼성바이오로직스는 GSK의 메릴랜드 록빌 공장을 2026년 3월 31일 인수해 첫 해외 생산 거점을 얻었어요.",
+     "steps": [
+      [
+       "2025.9",
+       "셀트리온 계약",
+       "done"
+      ],
+      [
+       "2025.12",
+       "삼성바이오 계약 · 셀트리온 인수 완료",
+       "done"
+      ],
+      [
+       "2026.3",
+       "삼성바이오 인수 완료",
+       "done"
+      ],
+      [
+       "지금",
+       "미국 공장 통합 · 추가 수주",
+       "now"
+      ]
+     ],
+     "art": "bio_fab",
+     "bars": {
+      "t": "미국 공장 인수 금액",
+      "unit": "억 원",
+      "lead": "회사가 밝힌 금액이에요. 삼성은 2억 8천만 달러예요.",
+      "rows": [
+       [
+        "셀트리온 (릴리 뉴저지)",
+        4600,
+        "2025.9 계약"
+       ],
+       [
+        "삼성바이오로직스 (GSK 록빌)",
+        4100,
+        "2025.12 계약"
+       ]
+      ],
+      "ev": "회사 발표"
+     }
+    },
+    "chk": "2026-11-22"
+   },
+   {
+    "id": "mfn",
+    "r": "미국",
+    "n": "미국 약값 최혜국 협정 (트럼프Rx)",
+    "d": "2025.5",
+    "st": "진행 · 제약사 26곳 · 브랜드 약 시장 약 90%",
+    "L": {
+     "pol": {
+      "t": "2025.5 행정명령 뒤 제약사와 하나씩 협정 · 협정 회사는 3년간 관세 면제 (보도)",
+      "ev": "정부 문서",
+      "co": []
+     },
+     "use": {
+      "t": "정부 사이트 트럼프Rx 할인 판매 (2026.2~) · 모든 주 메디케이드 (2026.9)",
+      "ev": "정부 문서",
+      "co": [
+       "화이자",
+       "아스트라제네카",
+       "일라이 릴리",
+       "머크",
+       "GSK",
+       "노바티스"
+      ]
+     }
+    },
+    "src": [
+     [
+      "백악관 · 트럼프Rx 열림 (2026.2)",
+      "https://www.whitehouse.gov/fact-sheets/2026/02/fact-sheet-president-donald-j-trump-launches-trumprx-gov/"
+     ],
+     [
+      "백악관 · 26곳·시장 89% (2026.8)",
+      "https://www.whitehouse.gov/fact-sheets/2026/08/fact-sheet-president-donald-j-trump-announces-deal-with-nine-additional-pharmaceutical-manufacturers-to-lower-drug-prices-for-americans/"
+     ],
+     [
+      "NPR · 관세 면제 조건",
+      "https://www.npr.org/sections/shots-health-news/2025/12/19/nx-s1-5649920/trump-drug-prices"
+     ],
+     [
+      "Health Affairs · 협정 평가",
+      "https://www.healthaffairs.org/do/10.1377/forefront.20260724.788858"
+     ]
+    ],
+    "x": {
+     "loc": "미국",
+     "lead": "백악관 · 보건복지부",
+     "with": "제약사 26곳 (화이자, 릴리, 아스트라제네카, 머크, GSK, 노바티스 등)",
+     "size": "제약사 {26곳} · 브랜드 약 시장 약 {90%}",
+     "about": "미국 약값을 다른 선진국 중 가장 낮은 값에 맞추라는 '최혜국 가격' 정책이에요. 2025년 5월 행정명령 뒤 제약사와 하나씩 협정을 맺었어요.\n협정한 회사는 정부 사이트 트럼프Rx에서 약을 싸게 팔고, 대신 3년간 관세를 면제받아요(보도). 2026년 9월에는 모든 주 메디케이드로 넓혔어요. 절감액은 정부가 밝힌 숫자이고, 효과를 두고는 평가가 엇갈려요.",
+     "steps": [
+      [
+       "2025.5",
+       "행정명령",
+       "done"
+      ],
+      [
+       "2025.12",
+       "협정 14곳",
+       "done"
+      ],
+      [
+       "2026.2",
+       "트럼프Rx 열림",
+       "done"
+      ],
+      [
+       "2026.8",
+       "협정 26곳",
+       "done"
+      ],
+      [
+       "2026.9",
+       "모든 주 메디케이드",
+       "done"
+      ],
+      [
+       "지금",
+       "약 추가",
+       "now"
+      ]
+     ],
+     "art": "bio_mfn",
+     "bars": {
+      "t": "최혜국 협정 제약사 수",
+      "unit": "곳",
+      "lead": "백악관 발표 기준이에요.",
+      "rows": [
+       [
+        "2025.12",
+        14,
+        "큰 제약사 17곳 중"
+       ],
+       [
+        "2026.8",
+        26,
+        "브랜드 약 시장 89%"
+       ]
+      ],
+      "ev": "정부 문서"
+     }
+    },
+    "chk": "2026-11-22"
    }
   ]
  }
