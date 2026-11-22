@@ -1,13 +1,13 @@
 {
-"updated_kst": "2026-11-22 10:43",
-"rot": 55,
+"updated_kst": "2026-11-22 10:47",
+"rot": 115,
 "how": "Scout(프로그램)이 10분마다 모은 기사 제목·링크와 공시예요. Wren이 공식 출처로 확인한 뒤 회사 화면에 한국어로 반영해요. 본문은 받지 않아요.",
 "sources": {
 "Yahoo Finance": "120종목 확인 · 실패 0",
 "CNBC": "63건",
 "Bloomberg": "27건",
 "WSJ": "61건",
-"Reuters": "48건",
+"Reuters": "39건",
 "FinancialJuice": "100건",
 "SEC EDGAR": "실패 HTTPError",
 "Fox Business": "50건"
@@ -22,6 +22,16 @@
 "src": "Yahoo Finance",
 "kind": "news",
 "seen": "2026-11-22T01:43:56+00:00"
+},
+{
+"id": "27f38cfa8f13",
+"t": "WMT",
+"title": "Walmart (WMT) Stock May Be Fully Valued After Earnings News",
+"url": "https://finance.yahoo.com/markets/stocks/articles/walmart-wmt-stock-may-fully-010939760.html?.tsrc=rss",
+"pub": "2026-11-22T01:09:39+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-22T01:47:13+00:00"
 },
 {
 "id": "20764526fdbd",
@@ -8004,16 +8014,6 @@
 "seen": "2026-11-20T17:14:24+00:00"
 },
 {
-"id": "fcf6dd259ec4",
-"t": "WMT",
-"title": "Walmart's Share Gains Likely to Continue, BofA Says",
-"url": "https://finance.yahoo.com/markets/stocks/articles/walmart-apos-share-gains-likely-170314245.html?.tsrc=rss",
-"pub": "2026-11-20T17:03:14+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-20T17:40:09+00:00"
-},
-{
 "id": "083252295546",
 "t": "",
 "title": "China commerce ministry: opposes US FCC vote to block Chinese telecoms from direct access to US phone numbers",
@@ -8022,6 +8022,16 @@
 "src": "FinancialJuice",
 "kind": "market",
 "seen": "2026-11-22T01:43:56+00:00"
+},
+{
+"id": "508da51a08f0",
+"t": "",
+"title": "China commerce ministry: opposes US FCC vote to block Chinese telecoms from direct access to US phone numbers",
+"url": "https://www.financialjuice.com/News/9863209/China-commerce-ministry-opposes-US-FCC-vote-to-block-Chinese-telecoms-from-direct-access-to-US-phone-numbers.aspx?xy=rss",
+"pub": "2026-11-22T01:26:02+00:00",
+"src": "FinancialJuice",
+"kind": "market",
+"seen": "2026-11-22T01:47:13+00:00"
 },
 {
 "id": "8f1a682b7131",
@@ -11002,16 +11012,6 @@
 "src": "FinancialJuice",
 "kind": "market",
 "seen": "2026-11-20T23:14:14+00:00"
-},
-{
-"id": "ecf712e7b5dd",
-"t": "",
-"title": "Saudi civil defence: danger over in As Sulayyil governorate",
-"url": "https://www.financialjuice.com/News/9862584/Saudi-civil-defence-danger-over-in-As-Sulayyil-governorate.aspx",
-"pub": "2026-11-20T23:06:14+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-21T19:14:53+00:00"
 }
 ]
 }
