@@ -2734,3 +2734,15 @@ Scout(소식 감지 프로그램)가 모은 기사·공시를 공식 출처로 �
 - 내용: Scout를 직접 돌린 뒤(성공, 10:4x KST 갱신) 새 항목 17건(news 5·market 12) 모두 처리. 반영 1건(LLY, 위). 건너뜀: '엔비디아 대신 AI 메모리 2종목'·'앤트로픽 투자자 비싼 교훈' 예측 글·코카콜라 '109% 오른 뒤 비싸 보여'(의견·주가 글), 트럼프 머스크·젠슨 황 발언 글(발언 정리, 새 회사 발표 아님). market 12건(중국 상무부 'FCC 중국 통신사 미국 전화번호 직접 접근 차단 표결 반대' FinancialJuice 제목·영국 NATO 위성 발사 협력·로이터 시세 페이지 10건 — 10시대라 done 만). done 은 대기 목록에 없는 오래된 id 부터 잘라 3000개 유지. 나에게 온 새 요청(RULES 0-3): 없음. 미국 지표: 미국 동부 11-21 20:4x(토) — 오늘 발표 예정 지표 없음(다음 pce·claims 11-25), 매크로 수집 대상 없음, 분석 모두 최신. A 지도: 고칠 것 없음.  앱 다시 게시: 했어요(같은 앱 주소에 버전 245, CSP 태그만 뺀 사본).
 - 출처: ops/scout/newsq.json · 공식 여부: 저장소
 - 확신도: 높음
+
+### W-20261122-1113-1 · 반영 · NOW: 'Autonomous CRM Engine' 출시 · AI 통제 상시 점검 기능 발표 (공식)
+- 시각: 2026-11-22 11:2x KST
+- 내용: 서비스나우가 미국 11-12 기존 CRM 사용 방식을 분석해 몇 주 만에 서비스나우 CRM으로 옮겨 주는 'Autonomous CRM Engine'을 내놨어요(제한 공급 시작, 2027년 기능 확대 예정). 같은 주 11-10에는 AI 에이전트가 회사 내부 통제를 상시 점검하는 통합 위험 관리(IRM) 기능을 발표했어요(정식 출시 2027년 1분기 예정). 야후 피드 정리 글(11-22)로 알아챘고, 회사 보도자료 원문으로 확인했어요. NOW 소식 칸이 비어 있어 두 건을 함께 넣었어요. 발표 시각을 확인 못 해 한국 날짜는 미국 날짜 +1(11-13·11-11)로 적음(tm 없음).
+- 출처: [ServiceNow IR 보도자료 (11-12)](https://investor.servicenow.com/news/news-details/2026/ServiceNow-Autonomous-CRM-Engine-enables-fast-CRM-deployments-that-free-enterprises-from-legacy-platforms/default.aspx) · [ServiceNow 보도자료 (11-10)](https://newsroom.servicenow.com/press-releases/details/2026/ServiceNow-Brings-Agentic-Monitoring-to-Every-Control-in-the-Enterprise-at-Machine-Speed/) · [TechTarget](https://www.techtarget.com/enterprise-software/news/366642658/ServiceNows-Autonomous-CRM-takes-aim-at-Salesforce?amp=1) · 공식 여부: 공식
+- 확신도: 높음(내용) · 중간(한국 날짜)
+
+### W-20261122-1113-2 · 알림 · 이번 차례
+- 시각: 2026-11-22 11:2x KST
+- 내용: Scout를 직접 돌린 뒤(성공, 11:14 KST 갱신) 새 항목 7건(news 6·market 1) 모두 처리. 반영 1건(NOW, 위 2줄). 건너뜀: 모틀리풀 '인텔 최첨단 공정 첫 고객'(18A 첫 외부 고객은 11-19 이미 반영, 새 사건 아님)·'시장 폭락하면 살 3종목'·'크립토 종목' 글(의견), 야후 '중국 AI 주식 1.7조 달러 증발'(시장 요약), 월마트 '실적 뒤 적정가'(주가 글). market 1건(중국 상무부 FCC 반대 FinancialJuice 제목 — 11시대라 done 만). done 은 대기 목록에 없는 오래된 id 부터 잘라 3000개 유지. 나에게 온 새 요청(RULES 0-3): 없음. 미국 지표: 미국 동부 11-21 21:1x(토) — 오늘 발표 예정 지표 없음(다음 pce·claims 11-25), 매크로 수집 대상 없음, 분석 모두 최신. A 지도: 고칠 것 없음(서비스나우 소식은 회사 사이 관계 아님).
+- 출처: ops/scout/newsq.json · 공식 여부: 저장소
+- 확신도: 높음
