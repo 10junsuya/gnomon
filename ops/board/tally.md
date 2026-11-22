@@ -278,3 +278,4 @@
 - 출처: [F5 4분기 실적 발표 (SEC 8-K)](https://www.sec.gov/Archives/edgar/data/0001048695/000104869526000074/ex991-q426earningsreleasef.htm) · [Zacks 예상 비교](https://zacks.com/stock/news/3016515/f5-ffiv-q4-earnings-taking-a-look-at-key-metrics-versus-estimates) · [Earnings Whispers (finviz)](https://finviz.com/news/409527/f5-beats-on-an-ai-fueled-product-surge-but-fy27-becomes-an-investment-year-as-margins-and-cash-flow-compress) · 공식 여부: 공식(실적) / 보도(예상치)
 - 확신도: 높음
 - 참고: 남은 칸 없는 앱 종목(ETF 제외): LIN·SHOP·GOOG·SATS(ECHO)·IREN·CLS·APH·TTMI·STX·VICR·NXE·DNN.
+- 참고: 앱 다시 게시함(08:3x KST, 버전 271). 지난 게시와 같게 게시용 복사본에서만 CSP meta 한 줄을 뺐어요(저장소 파일은 그대로). 게시본과 차이는 실적 데이터 한 줄뿐이었어요.
