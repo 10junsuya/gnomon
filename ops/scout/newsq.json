@@ -1,18 +1,38 @@
 {
-"updated_kst": "2026-11-23 05:13",
-"rot": 74,
+"updated_kst": "2026-11-23 05:34",
+"rot": 134,
 "how": "Scout(프로그램)이 10분마다 모은 기사 제목·링크와 공시예요. Wren이 공식 출처로 확인한 뒤 회사 화면에 한국어로 반영해요. 본문은 받지 않아요.",
 "sources": {
 "Yahoo Finance": "120종목 확인 · 실패 0",
 "CNBC": "63건",
 "Bloomberg": "25건",
 "WSJ": "61건",
-"Reuters": "48건",
+"Reuters": "49건",
 "FinancialJuice": "100건",
 "SEC EDGAR": "실패 HTTPError",
 "Fox Business": "50건"
 },
 "items": [
+{
+"id": "baa92381eedd",
+"t": "MP",
+"title": "MP Materials (MP) Stock Sees Modest Fair Value Cut As Analysts Focus On Execution",
+"url": "https://finance.yahoo.com/markets/stocks/articles/mp-materials-mp-stock-sees-200631671.html?.tsrc=rss",
+"pub": "2026-11-22T20:06:31+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-22T20:34:10+00:00"
+},
+{
+"id": "f5697fb1fe8f",
+"t": "AAPL",
+"title": "What Is Apple (AAPL) Planning With Its New Autonomous AI Agent?",
+"url": "https://finance.yahoo.com/technology/ai/articles/apple-aapl-planning-autonomous-ai-200614575.html?.tsrc=rss",
+"pub": "2026-11-22T20:06:14+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-22T20:34:10+00:00"
+},
 {
 "id": "605af78cc226",
 "t": "NVDA",
@@ -22,6 +42,16 @@
 "src": "Yahoo Finance",
 "kind": "news",
 "seen": "2026-11-22T20:13:47+00:00"
+},
+{
+"id": "844405d3f239",
+"t": "NVDA",
+"title": "Ken Fisher and 13 Other Big Funds Bought Arista Networks Last Quarter, While 10 Sold. Who’s Right?",
+"url": "https://www.tikr.com/blog/ken-fisher-and-13-other-big-funds-bought-arista-networks-last-quarter-while-10-sold-whos-right?ref=yahoofinance&tlnk=yf-261122-96cgvpf5&.tsrc=rss",
+"pub": "2026-11-22T19:50:24+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-22T20:34:10+00:00"
 },
 {
 "id": "4494ad59c3b1",
@@ -132,6 +162,16 @@
 "src": "Yahoo Finance",
 "kind": "news",
 "seen": "2026-11-22T19:44:27+00:00"
+},
+{
+"id": "16166f0e51d6",
+"t": "GS",
+"title": "Goldman Traders See Entry Point in US Stocks But Warn of Risks",
+"url": "https://finance.yahoo.com/markets/stocks/articles/goldman-traders-see-entry-point-190502514.html?.tsrc=rss",
+"pub": "2026-11-22T19:05:02+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-22T20:34:10+00:00"
 },
 {
 "id": "487c0aa94290",
@@ -7974,44 +8014,14 @@
 "seen": "2026-11-20T20:44:19+00:00"
 },
 {
-"id": "522ad01d06ca",
-"t": "NVDA",
-"title": "Did the AI Bubble Pop? Polymarket Says It Could Soon, but There's a Catch",
-"url": "https://www.benzinga.com/markets/prediction-markets/26/11/63508103/polymarket-ai-bubble?utm_source=yahooFinance&utm_campaign=partner_feed&utm_medium=referral&.tsrc=rss",
-"pub": "2026-11-20T20:33:06+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-20T20:44:19+00:00"
-},
-{
-"id": "5dbe8baec1c3",
-"t": "AAPL",
-"title": "AAPL Stock Alert: What to Know as Apple Develops AI Agent to Compete With Muse",
-"url": "https://www.barchart.com/story/news/8941997/aapl-stock-alert-what-to-know-as-apple-develops-ai-agent-to-compete-with-muse?.tsrc=rss",
-"pub": "2026-11-20T20:32:49+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-21T02:43:50+00:00"
-},
-{
-"id": "f9d5e782ac86",
-"t": "NVDA",
-"title": "3 Cryptocurrencies to Buy and Hold Through 2030",
-"url": "https://www.fool.com/investing/2026/11/20/3-cryptocurrencies-to-buy-and-hold-through-2030/?.tsrc=rss",
-"pub": "2026-11-20T20:30:02+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-20T20:36:06+00:00"
-},
-{
-"id": "c7253d8f14b7",
-"t": "NVDA",
-"title": "Wall Street Thinks Oklo Is a Buy. Here’s Why I’m Not So Sure.",
-"url": "https://www.fool.com/investing/2026/11/20/wall-street-thinks-oklo-is-a-buy-here-s-why-i-m-not-so-sure/?.tsrc=rss",
-"pub": "2026-11-20T20:25:02+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-20T20:36:06+00:00"
+"id": "819fa7a21990",
+"t": "",
+"title": "Bond Market’s Go-To Trade for Fed Hikes Roiled by Stocks Retreat",
+"url": "https://www.bloomberg.com/news/articles/2026-11-22/bond-market-s-go-to-trade-for-fed-hikes-roiled-by-stocks-retreat",
+"pub": "2026-11-22T20:00:00+00:00",
+"src": "Bloomberg",
+"kind": "market",
+"seen": "2026-11-22T20:34:10+00:00"
 },
 {
 "id": "bb031ac9d17a",
@@ -8504,6 +8514,16 @@
 "seen": "2026-11-22T15:14:28+00:00"
 },
 {
+"id": "9cf5538f060e",
+"t": "",
+"title": "Genelux Corp (GNLX.O) | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE41SHY5UDZCX2Jmb21MSzZGcVVEaFFKcklrN1pIZnhQV2wyaGduWnNDTTBndFVaeExYenBWbWtiUGxEZFpxWTdnODhKMVd5dFFJYUUyd3ZFX0w1bmN6LUdvRmk3UUNZNllwYkI0ejJR?oc=5",
+"pub": "2026-11-22T13:26:56+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-22T20:34:10+00:00"
+},
+{
 "id": "3d7798da2b35",
 "t": "",
 "title": "First Carolina Financial Services Inc (FCBM.N) | Stock Price & Latest News - Reuters",
@@ -8512,6 +8532,16 @@
 "src": "Reuters",
 "kind": "market",
 "seen": "2026-11-22T19:44:27+00:00"
+},
+{
+"id": "7d3e90aff050",
+"t": "",
+"title": "XETFs International Semiconductor ETF (ISMH.OQ) | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE50VjlFSHk3MnQ0d3ZkUmFkRHdVOThseTVRaFBYQXd0bWxraHB3UmRvU0EwYWJZQlNsQnVZTThHTFI5ZGdfMGZzRWlka2dBX1h5U3pJdkNOQXVHTk1SdnMw?oc=5",
+"pub": "2026-11-22T13:26:14+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-22T20:34:10+00:00"
 },
 {
 "id": "0985be62eab7",
@@ -8644,6 +8674,16 @@
 "seen": "2026-11-22T20:13:47+00:00"
 },
 {
+"id": "bc8f610ac942",
+"t": "",
+"title": "QGEN.DY - Reuters",
+"url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBkR29ZaGtHOEZMWjRPRjNnNUZiVC14QXJwZ2RUQlNRUVlnbWtJbWluQzAwYnYxZ001bHZtUGgyamdGQUhtdS1BNUhlb3dLbjFsejRwaS1GWmF3SzFadEwwblMwSzVWcHFZU25TMmVjQQ?oc=5",
+"pub": "2026-11-22T12:56:09+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-22T20:34:10+00:00"
+},
+{
 "id": "3f79263738d2",
 "t": "",
 "title": "Sarepta Therapeutics, Inc. (AB3A.H) | Stock Price & Latest News - Reuters",
@@ -8772,6 +8812,16 @@
 "src": "FinancialJuice",
 "kind": "market",
 "seen": "2026-11-22T19:15:38+00:00"
+},
+{
+"id": "bfd0cf3de088",
+"t": "",
+"title": "Oasis Securities Ltd (OASE.BO) | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE81Q3p1cm9uM1BrUUIzdVZtMkpQcGVBZmsyU3MzZnBQNnNfTjJydW9GRTRiZnpuRWpCQU9ZeFJwQzFFcDdTb1dKNnhDNnJTS1BOVkVrejdZM2pSQ1IwTTNKdjdRYzFsNUVic0RUOA?oc=5",
+"pub": "2026-11-22T12:51:21+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-22T20:34:10+00:00"
 },
 {
 "id": "eea5c88a94ac",
@@ -10960,56 +11010,6 @@
 "url": "https://www.bloomberg.com/news/videos/2026-11-21/-raise-taxes-cut-spending-bill-dudley-on-the-debt-video",
 "pub": "2026-11-21T13:04:30+00:00",
 "src": "Bloomberg",
-"kind": "market",
-"seen": "2026-11-21T13:15:23+00:00"
-},
-{
-"id": "bbdb4d72c1b5",
-"t": "",
-"title": "EU leaders' chair proposes new cuts to EU 2028-2034 budget draft, suggests digital tax - Reuters",
-"url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNMEktcWd6MTVXNDk2WEVleTlEckNHZy1HdDNfYjhTcmZaODB0ZE9YQXlpUUdBdmpiYjhvcUJDUWNRbUh6NjJCM1NPSlNCd2NJeTE1Mlpoel83ajNSQ1lWbTdGbFc2MWpvam9SWjU2WFZBZktuU2NBYmpaTlZmR1dsQU1sZzJ5LWZQbE9BS3VjbTRKZGg3QmNhWGNVT3VNV0JPWlZXZmtNVTVXZnUzZ05NR1Nzcjc1WEJZc24tT3M5Z1Rfdw?oc=5",
-"pub": "2026-11-21T13:02:10+00:00",
-"src": "Reuters",
-"kind": "market",
-"seen": "2026-11-21T13:15:23+00:00"
-},
-{
-"id": "b5955e24c964",
-"t": "",
-"title": "ABP.MI - Reuters",
-"url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9DbU9WNXFBNzJGOVllbFc1b1ZXdW5qUUJmS1BqRWEzSG1rdXcxWUM3dnNmSFdhQi03WmZZVnp1bDROTnQwZXdneW5ZWndCY0NWMGR1Xy1Qc040Wm1XU3AyVVIyVV9JVGZfcHRsT0tLSUZaYVJGMlVoWA?oc=5",
-"pub": "2026-11-21T13:01:33+00:00",
-"src": "Reuters",
-"kind": "market",
-"seen": "2026-11-21T15:10:04+00:00"
-},
-{
-"id": "2ca0a4842535",
-"t": "",
-"title": "Tech outages are fueling a new doomsday economy",
-"url": "https://www.cnbc.com/2026/11/21/emergency-prep-spending-tech-outages.html",
-"pub": "2026-11-21T13:00:01+00:00",
-"src": "CNBC",
-"kind": "market",
-"seen": "2026-11-21T13:15:23+00:00"
-},
-{
-"id": "cc825ef57461",
-"t": "",
-"title": "Wall Street Asks What Can Save AI Trade After Anthropic Wipeout",
-"url": "https://www.bloomberg.com/news/articles/2026-11-21/wall-street-asks-what-can-save-ai-trade-after-anthropic-wipeout",
-"pub": "2026-11-21T13:00:00+00:00",
-"src": "Bloomberg",
-"kind": "market",
-"seen": "2026-11-21T13:15:23+00:00"
-},
-{
-"id": "9f99a708df07",
-"t": "",
-"title": "Saudi civil defense issues warning of possible threat for Jazan",
-"url": "https://www.financialjuice.com/News/9862980/Saudi-civil-defense-issues-warning-of-possible-threat-for-Jazan.aspx?xy=rss",
-"pub": "2026-11-21T12:59:50+00:00",
-"src": "FinancialJuice",
 "kind": "market",
 "seen": "2026-11-21T13:15:23+00:00"
 }
