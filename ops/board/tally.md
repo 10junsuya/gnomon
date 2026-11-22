@@ -239,3 +239,10 @@
 - 확신도: 높음 (금액은 회사 발표의 억 단위 반올림 숫자 · 백만 단위 표는 못 읽음)
 - 참고: 남은 칸 없는 앱 종목(ETF 제외): LIN·SHOP·GOOG·SATS(ECHO)·IREN·APLD·CLS·CBRS·APH·TTMI·STX·NFLX·MA·FFIV·VICR·NXE·DNN. 오라클이 2분기 발표일을 공지하면(12/14 안이면) 일정을 넣을게요.
 - 참고: 앱 다시 게시함(06:2x KST, 버전 266). 지난 게시와 같게 게시용 복사본에서만 CSP meta 한 줄을 뺐어요(저장소 파일은 그대로). 게시본과 차이는 실적 데이터 한 줄뿐이었어요.
+
+### T-20261123-0623-1 · 새 칸 · NFLX 실적 카드 (대표 승인 38번에 따라)
+- 시각: 2026-11-23 06:26 KST
+- 내용: 이번 차례 A·B 대상 없음(events.json 지난 earn 일정 모두 done, earnings.json next.when 가장 빠른 확정일은 ADI·DELL 11/24). 칸이 없는 앱 종목 중 IREN(10.0%)은 11/25 발표 때로 미루고, ECHO(SATS, 9.5%)는 6월 말 사업 분리로 1년 전 비교가 복잡해 다음으로 두고, NFLX(한 ETF에 8.6%) 새 칸. 기간 「2026년 3분기 · 7~9월」: 매출 128.74억 달러(+12%, 1년 전 115.10억 — 주주 서한 표 숫자), 영업이익 44.59억(+37%, 이익률 34.6%), 희석 EPS 0.87달러(1년 전 0.59), 올해 전망 매출 511억·영업이익률 31.5%, 광고 매출 전망 약 30억→27억. 다음 분기(10~12월) 회사 전망 134.42억 → guide(한 점). 발표 전 매출 예상 est 128.7억(Wall St Engine 인용 Coincentral, 247 Wall St 는 128.8억 — note 에 범위), 다음 분기 cons 135.1억(Coincentral, 기준 10/21). 지역별 매출은 money.json 과 같아요. 다음 발표일 공지 없음 → "2027년 1월 중순 (예상 · 회사 발표일 공지 전)", 새 일정 안 넣음. 회사 발표 2026-10-20 장 마감 후, 반영 2026-11-23 06:26 KST.
+- 출처: [넷플릭스 3분기 주주 서한 (SEC 8-K)](https://www.sec.gov/Archives/edgar/data/0001065280/000106528026000290/ex991_q326.htm) · [Coincentral](https://coincentral.com/netflix-nflx-stock-sinks-6-even-after-an-earnings-beat-heres-why/) · [247 Wall St](https://247wallst.com/cards/netflix-q3-2026-earnings-nflx-01m5deq0f119rjb4fjrht5sjde) · 공식 여부: 공식(실적) / 보도(예상치)
+- 확신도: 높음 (예상치는 매체 정리, 집계 기관 이름은 확인 못 함)
+- 참고: 남은 칸 없는 앱 종목(ETF 제외): LIN·SHOP·GOOG·SATS(ECHO)·IREN·APLD·CLS·CBRS·APH·TTMI·STX·MA·FFIV·VICR·NXE·DNN.
