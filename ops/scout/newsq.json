@@ -1,18 +1,28 @@
 {
-"updated_kst": "2026-11-22 11:13",
-"rot": 175,
+"updated_kst": "2026-11-22 11:39",
+"rot": 56,
 "how": "Scout(프로그램)이 10분마다 모은 기사 제목·링크와 공시예요. Wren이 공식 출처로 확인한 뒤 회사 화면에 한국어로 반영해요. 본문은 받지 않아요.",
 "sources": {
 "Yahoo Finance": "120종목 확인 · 실패 0",
 "CNBC": "63건",
 "Bloomberg": "27건",
 "WSJ": "61건",
-"Reuters": "42건",
+"Reuters": "39건",
 "FinancialJuice": "100건",
 "SEC EDGAR": "실패 HTTPError",
 "Fox Business": "50건"
 },
 "items": [
+{
+"id": "47fd0db34ea3",
+"t": "NVDA",
+"title": "The Smartest Dividend Stock to Buy With $1,000 Right Now",
+"url": "https://www.fool.com/investing/2026/11/21/the-smartest-dividend-stock-to-buy-with-1000-right-now/?.tsrc=rss",
+"pub": "2026-11-22T02:21:02+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-22T02:39:49+00:00"
+},
 {
 "id": "721b2c276a48",
 "t": "NVDA",
@@ -8004,16 +8014,6 @@
 "seen": "2026-11-20T17:14:24+00:00"
 },
 {
-"id": "c5ff236b2c15",
-"t": "AMZN",
-"title": "PayPal Scales Buy Now, Pay Later: Can Growth Accelerate?",
-"url": "https://finance.yahoo.com/markets/stocks/articles/paypal-scales-buy-now-pay-170800928.html?.tsrc=rss",
-"pub": "2026-11-20T17:08:00+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-20T18:39:45+00:00"
-},
-{
 "id": "083252295546",
 "t": "",
 "title": "China commerce ministry: opposes US FCC vote to block Chinese telecoms from direct access to US phone numbers",
@@ -8032,6 +8032,16 @@
 "src": "FinancialJuice",
 "kind": "market",
 "seen": "2026-11-22T01:47:13+00:00"
+},
+{
+"id": "2a9b0aa45ca0",
+"t": "",
+"title": "Centrais Eletricas de Santa Catarina SA Celesc (CLSC3.SA) | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBlNjVSZVpzZmpCeG9EbUJFNTExQ3NQLW80OFdZOV9fQ3E1VXI4ZGhqNjN3WnRDWE5GbF8wQWxFVFJCZHNiOEZwMFlwZ1NTLU5oaDVEby1jOHQ0V01ZNnVQLWdtRUhlU2xQdjJsTlFB?oc=5",
+"pub": "2026-11-22T00:23:09+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-22T02:39:49+00:00"
 },
 {
 "id": "8f1a682b7131",
@@ -8062,6 +8072,16 @@
 "src": "Bloomberg",
 "kind": "market",
 "seen": "2026-11-22T01:13:48+00:00"
+},
+{
+"id": "f9b0bad551bc",
+"t": "",
+"title": "Genfit SA (GNFTF.PK) | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1POXgxd1Nqb0hpNFh6cEQxSGhkRHlkazhrZ05wRVlIaXB6eTRDbmo3UkJsQ2ZSVUZjalR3cG1YRGFtUkg5ZXpraWpzOERSOWl5S3NqeXJYZzh4R3I1ZEpxdDE4RG5yczVPYlV2U2JvNV8?oc=5",
+"pub": "2026-11-21T23:33:52+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-22T02:39:49+00:00"
 },
 {
 "id": "06e97467cf7e",
@@ -8802,6 +8822,16 @@
 "src": "FinancialJuice",
 "kind": "market",
 "seen": "2026-11-21T19:14:53+00:00"
+},
+{
+"id": "36eba9a95723",
+"t": "",
+"title": "NCH2.SG - Reuters",
+"url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB1bmliR1F2eHV3VFFsdDRqUV8yV1dmQjhEa2pzUW5odmRQSVZkNk01bXdhZjhPTlV0Nk9pNlY1SUx0bFBhNThLeTlBM1g0N2hvUkpKbHV4dmVaV1MwZEZFNDhkcUI4N0N3eHI4LUtZYkI4VnU5UnFzTg?oc=5",
+"pub": "2026-11-21T16:38:00+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-22T02:39:49+00:00"
 },
 {
 "id": "05ae8fcc7492",
@@ -10979,36 +11009,6 @@
 "title": "Defense secretary Pete Hegseth imposes new limits on U.S.-Canada defense ties - Washington Post",
 "url": "https://www.financialjuice.com/News/9862585/Defense-secretary-Pete-Hegseth-imposes-new-limits-on-US-Canada-defense-ties---Washington-Post.aspx?xy=rss",
 "pub": "2026-11-20T23:10:31+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-20T23:14:14+00:00"
-},
-{
-"id": "9fe9572983e1",
-"t": "",
-"title": "Defense secretary Pete Hegseth imposes new limits on U.S.-Canada defense ties - Washington Post",
-"url": "https://www.financialjuice.com/News/9862585/Defense-secretary-Pete-Hegseth-imposes-new-limits-on-US-Canada-defense-ties---Washington-Post.aspx",
-"pub": "2026-11-20T23:10:31+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-21T19:14:53+00:00"
-},
-{
-"id": "5aa6c4205c69",
-"t": "",
-"title": "El Salvador Troops Killed in Haiti Blast After Rescue Deployment",
-"url": "https://www.bloomberg.com/news/articles/2026-11-20/el-salvador-troops-killed-in-haiti-blast-after-rescue-deployment",
-"pub": "2026-11-20T23:08:54+00:00",
-"src": "Bloomberg",
-"kind": "market",
-"seen": "2026-11-20T23:44:15+00:00"
-},
-{
-"id": "9d083c5e7b75",
-"t": "",
-"title": "Saudi civil defence: danger over in As Sulayyil governorate",
-"url": "https://www.financialjuice.com/News/9862584/Saudi-civil-defence-danger-over-in-As-Sulayyil-governorate.aspx?xy=rss",
-"pub": "2026-11-20T23:06:14+00:00",
 "src": "FinancialJuice",
 "kind": "market",
 "seen": "2026-11-20T23:14:14+00:00"
