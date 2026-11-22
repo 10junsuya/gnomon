@@ -1,18 +1,38 @@
 {
-"updated_kst": "2026-11-22 17:51",
-"rot": 122,
+"updated_kst": "2026-11-22 18:14",
+"rot": 3,
 "how": "Scout(프로그램)이 10분마다 모은 기사 제목·링크와 공시예요. Wren이 공식 출처로 확인한 뒤 회사 화면에 한국어로 반영해요. 본문은 받지 않아요.",
 "sources": {
 "Yahoo Finance": "120종목 확인 · 실패 0",
 "CNBC": "63건",
-"Bloomberg": "26건",
+"Bloomberg": "24건",
 "WSJ": "61건",
-"Reuters": "47건",
+"Reuters": "48건",
 "FinancialJuice": "100건",
 "SEC EDGAR": "실패 HTTPError",
 "Fox Business": "50건"
 },
 "items": [
+{
+"id": "c9415f169756",
+"t": "NVDA",
+"title": "Microsoft Stock Gave Back 8% Within 2 Weeks of Its Record. Here's How Past Quick Pullbacks Like This Played Out.",
+"url": "https://www.fool.com/investing/2026/11/22/microsoft-stock-gave-back-8-within-2-weeks-of-its-record-here-s-how-past-quick-pullbacks-like-this-played-out/?.tsrc=rss",
+"pub": "2026-11-22T09:01:02+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-22T09:14:33+00:00"
+},
+{
+"id": "719f9c6c2c7d",
+"t": "NVDA",
+"title": "AMD Stock Just Plunged on a Short-Seller Report. Is This a Golden Buying Opportunity?",
+"url": "https://www.fool.com/investing/2026/11/22/amd-stock-just-plunged-on-a-short-seller-report-is-this-a-golden-buying-opportunity/?.tsrc=rss",
+"pub": "2026-11-22T08:50:02+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-22T09:14:33+00:00"
+},
 {
 "id": "1759a1cd2d9e",
 "t": "JPM",
@@ -42,6 +62,16 @@
 "src": "Yahoo Finance",
 "kind": "news",
 "seen": "2026-11-22T08:43:48+00:00"
+},
+{
+"id": "81eb42924438",
+"t": "CRCL",
+"title": "Circle Internet Group (CRCL) Is Named In Abu Dhabi Crypto Freeze Order",
+"url": "https://finance.yahoo.com/markets/crypto/articles/circle-internet-group-crcl-named-080856038.html?.tsrc=rss",
+"pub": "2026-11-22T08:08:56+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-22T09:14:33+00:00"
 },
 {
 "id": "efc38e27a660",
@@ -7984,36 +8014,6 @@
 "seen": "2026-11-20T17:45:12+00:00"
 },
 {
-"id": "873b308fcaa0",
-"t": "GOOGL",
-"title": "Alphabet Stock Slides Nearly 20%. Trader Sees Rebound Clues",
-"url": "https://finance.yahoo.com/markets/stocks/articles/alphabet-stock-slides-nearly-20-173828202.html?.tsrc=rss",
-"pub": "2026-11-20T17:38:28+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-20T18:14:43+00:00"
-},
-{
-"id": "5ff7bf88df87",
-"t": "MU",
-"title": "Prediction: This Is What Will Happen to Micron’s Stock Price in December",
-"url": "https://www.fool.com/investing/2026/11/20/prediction-this-is-what-will-happen-to-micron-s-stock-price-in-december/?.tsrc=rss",
-"pub": "2026-11-20T17:38:02+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-20T18:14:43+00:00"
-},
-{
-"id": "9cafb283606f",
-"t": "FN",
-"title": "Fabrinet Stock Drops 20% in a Year: Should You Buy it on the Dip?",
-"url": "https://finance.yahoo.com/markets/stocks/articles/fabrinet-stock-drops-20-buy-173800623.html?.tsrc=rss",
-"pub": "2026-11-20T17:38:00+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-20T19:14:18+00:00"
-},
-{
 "id": "ee934b6c250c",
 "t": "",
 "title": "Swiss Inflation Has Been Accelerating, SNB Vice President Martin Says",
@@ -8022,6 +8022,16 @@
 "src": "Bloomberg",
 "kind": "market",
 "seen": "2026-11-22T08:43:48+00:00"
+},
+{
+"id": "6f1711d890cb",
+"t": "",
+"title": "Porter & Company Porter Portfolio Index ETF (PCPP.N) | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE41MjVMbS1taDZXUW51aGZ3NFdHNUt4SzR1R3oxUllIbktaSWJfdDlRbzRDNkx3MkQxajNJcjZEQ2daeDhwS1RnbFVaaHBucHRsSkpZNHprckc?oc=5",
+"pub": "2026-11-22T07:30:10+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-22T09:14:33+00:00"
 },
 {
 "id": "572a544fab40",
@@ -11002,16 +11012,6 @@
 "src": "FinancialJuice",
 "kind": "market",
 "seen": "2026-11-21T02:43:50+00:00"
-},
-{
-"id": "78683c2aa6a7",
-"t": "",
-"title": "Trump signs executive order on safeguarding executive privileges, boosting efficiency in federal contracting - White House",
-"url": "https://www.financialjuice.com/News/9862779/Trump-signs-executive-order-on-safeguarding-executive-privileges-boosting-efficiency-in-federal-contracting---White-House.aspx",
-"pub": "2026-11-21T02:35:46+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-21T19:14:53+00:00"
 }
 ]
 }
