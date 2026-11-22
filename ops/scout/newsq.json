@@ -1,18 +1,38 @@
 {
-"updated_kst": "2026-11-22 20:14",
-"rot": 5,
+"updated_kst": "2026-11-22 20:21",
+"rot": 65,
 "how": "Scout(프로그램)이 10분마다 모은 기사 제목·링크와 공시예요. Wren이 공식 출처로 확인한 뒤 회사 화면에 한국어로 반영해요. 본문은 받지 않아요.",
 "sources": {
 "Yahoo Finance": "120종목 확인 · 실패 0",
 "CNBC": "63건",
-"Bloomberg": "25건",
+"Bloomberg": "24건",
 "WSJ": "61건",
-"Reuters": "48건",
+"Reuters": "50건",
 "FinancialJuice": "100건",
 "SEC EDGAR": "실패 HTTPError",
 "Fox Business": "50건"
 },
 "items": [
+{
+"id": "326508cce784",
+"t": "NVDA",
+"title": "41.6% of Berkshire Hathaway's $358 Billion Portfolio Is Parked in 3 Artificial Intelligence (AI) Stocks",
+"url": "https://www.fool.com/investing/2026/11/22/41-6-berkshire-hathaways-358-billion-portfolio-parked-3-artificial-intelligence-ai-stocks/?.tsrc=rss",
+"pub": "2026-11-22T11:11:02+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-22T11:21:57+00:00"
+},
+{
+"id": "58e887eb79c4",
+"t": "PLTR",
+"title": "Stanley Druckenmiller and 16 Other Big Funds Bought Palantir Last Quarter, While 6 Sold. Who’s Right?",
+"url": "https://www.tikr.com/blog/stanley-druckenmiller-and-16-other-big-funds-bought-palantir-last-quarter-while-6-sold-whos-right?ref=yahoofinance&tlnk=yf-261122-8gjfqxv4&.tsrc=rss",
+"pub": "2026-11-22T11:06:38+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-22T11:21:57+00:00"
+},
 {
 "id": "3a2e6103ceff",
 "t": "NVDA",
@@ -7994,26 +8014,6 @@
 "seen": "2026-11-20T18:14:43+00:00"
 },
 {
-"id": "df9048acefae",
-"t": "PG",
-"title": "Is P&G Stock a Good Fit For Your Portfolio Risk?",
-"url": "https://www.trefis.com/stock/pg/articles/627261/is-pg-stock-a-good-fit-for-your-portfolio-risk/2026-11-20?.tsrc=rss",
-"pub": "2026-11-20T17:54:34+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-20T19:14:18+00:00"
-},
-{
-"id": "7dd8766b8f90",
-"t": "JOBY",
-"title": "Archer Aviation Tumbles 8%, Breaks Below $3 as Air Taxi Rout Rolls On; EHang Slides 6%, Joby Aviation Drops 3%",
-"url": "https://247wallst.com/investing/2026/11/20/archer-aviation-tumbles-8-breaks-below-3-as-air-taxi-rout-rolls-on-ehang-slides-6-joby-aviation-drops-3/?.tsrc=rss",
-"pub": "2026-11-20T17:54:03+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-20T18:14:43+00:00"
-},
-{
 "id": "e4c9ff8bbfd8",
 "t": "",
 "title": "China Lowers Margin Requirement to 80% to Boost Stock Liquidity",
@@ -8132,6 +8132,26 @@
 "src": "Reuters",
 "kind": "market",
 "seen": "2026-11-22T08:14:33+00:00"
+},
+{
+"id": "c81bd239b32c",
+"t": "",
+"title": "6498JPY.JPx - Reuters",
+"url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBMampVZTc3dTN0NnlEN0VHdFRvY2ZkRzVjd2JVSko3Z2FSSWt0Q0hRY2Z3TXQ3LWVjN1NWbmxjaHpENUtaamZiNjVWcldLOFNZbndVSFRrblZzTUdnS1NGcmVWM0JfaGRMTVh6Q0tYT2NKc3ZJ?oc=5",
+"pub": "2026-11-22T05:25:26+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-22T11:21:57+00:00"
+},
+{
+"id": "f640d09cf0ba",
+"t": "",
+"title": "NVTKI.RTS - | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5ZZ3BwSURTeGNHVUxpVXpMU18tOHc1eENsMWdTR1lmMDVua00zTG9OYVNEd1F3T1pIa3AzVDJsandhSmhWdHotdE84RC1lU09CMTZfel9VZE1USDdkYktrUnoxNEdOMDhxMllrcFU4d0xzREhtZjVBSkpWbFNka2s?oc=5",
+"pub": "2026-11-22T04:57:02+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-22T11:21:57+00:00"
 },
 {
 "id": "bedde68f0dc7",
@@ -10992,26 +11012,6 @@
 "src": "Reuters",
 "kind": "market",
 "seen": "2026-11-21T15:10:04+00:00"
-},
-{
-"id": "320180936ef3",
-"t": "",
-"title": "ProShares Ultra Bloomberg Crude Oil (UCO.N) | Stock Price & Latest News - Reuters",
-"url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9QNHhBaHFpOHFhSG9BM3FZRUFOMGRQYVJwX3BhX0RxTS1tVnhsT2hHZ2V4X250cU9QN2FvVEIzMXYtRlhzaDBwZUh1OUM2bVd6VG1pSGFvU1pXZDdHVFlHNWNPUDJjMGlRQnc?oc=5",
-"pub": "2026-11-21T04:34:05+00:00",
-"src": "Reuters",
-"kind": "market",
-"seen": "2026-11-21T15:58:00+00:00"
-},
-{
-"id": "b104fbcbdc94",
-"t": "",
-"title": "Endo Lighting Corp (6932.T) | Stock Price & Latest News - Reuters",
-"url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE56WllUV1RGa3dweVdKQnRqV2Y3RldRLWhhYmhMWlJnUFpLVzZoUnRvOVU3NTRYYkc2Zk10V3NZcnd3S1BhQVhHajV2WV83UmNsNm1aN2w1SER4MDU3RnNXUnFidjdzSDFZUnA0?oc=5",
-"pub": "2026-11-21T04:34:04+00:00",
-"src": "Reuters",
-"kind": "market",
-"seen": "2026-11-21T18:15:18+00:00"
 }
 ]
 }
