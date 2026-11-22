@@ -12009,5 +12009,63 @@
     1419
    ]
   }
+ },
+ "ORCL": {
+  "p": "FY27 1분기 · 2026년 6~8월",
+  "tag": "+30%",
+  "rows": [
+   [
+    "매출",
+    "193억 달러 (+30%)"
+   ],
+   [
+    "클라우드 인프라(OCI)",
+    "74억 달러 (+121%)"
+   ],
+   [
+    "주당순이익(조정)",
+    "1.92달러 (+30%)"
+   ],
+   [
+    "남은 계약(RPO)",
+    "6,640억 달러 (1년 새 2,090억 늘어남)"
+   ]
+  ],
+  "note": "AI 클라우드 수요로 인프라 매출이 두 배 넘게 늘었지만, 데이터센터 투자로 잉여현금흐름은 마이너스(약 −50억 달러)였어요. 다음 분기 전망 209억~216억 달러는 회사가 밝힌 성장률(30~34%)을 1년 전 2분기 매출 161억 달러에 곱해 계산한 값이고, 발표 전 매출 예상 금액은 확인하지 못해 뺐어요(Zacks 정리로는 예상보다 1.11% 많았어요). 올해 매출 전망은 900억 달러 이상이에요.",
+  "src": [
+   [
+    "오라클 1분기 실적 발표",
+    "https://www.oracle.com/news/announcement/q1fy27-earnings-release-2026-09-10/"
+   ],
+   [
+    "1년 전 1분기 실적 발표",
+    "https://www.oracle.com/news/announcement/q1fy26-earnings-release-2025-09-09/"
+   ],
+   [
+    "Zacks 정리 (TradingView)",
+    "https://www.tradingview.com/news/zacks:32bcf6e9d094b:0-oracle-q1-earnings-beat-estimates-cloud-growth-accelerates/"
+   ]
+  ],
+  "chart": {
+   "cur": "usd",
+   "now": [
+    "6~8월",
+    19300
+   ],
+   "est": null,
+   "next": {
+    "label": "9~11월",
+    "guide": [
+     20930,
+     21570
+    ],
+    "cons": null,
+    "when": "2026년 12월 중순 (예상 · 회사 발표일 공지 전)"
+   },
+   "prev": [
+    "1년 전",
+    14900
+   ]
+  }
  }
 }

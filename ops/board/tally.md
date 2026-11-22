@@ -231,3 +231,10 @@
 - 확신도: 높음
 - 참고: 칸이 없는 앱 종목이 더 남아 있어요(ETF 제외): LIN·SHOP·GOOG·SATS·ORCL·IREN·APLD·CLS·CBRS·APH·TTMI·STX·NFLX·MA·FFIV·VICR·NXE·DNN. IREN 은 11/25 발표 때(있으면) 함께, 나머지는 대상 없는 차례에 한 곳씩.
 - 참고: 앱 다시 게시함(05:2x KST, 버전 265). 지난 게시와 같게 게시용 복사본에서만 CSP meta 한 줄을 뺐어요(저장소 파일은 그대로). 게시본과 차이는 실적 데이터 한 줄뿐이었어요.
+
+### T-20261123-0553-1 · 새 칸 · ORCL 실적 카드 (대표 승인 38번에 따라)
+- 시각: 2026-11-23 06:15 KST
+- 내용: 이번 차례 A·B 대상 없음(events.json 지난 earn 일정 모두 done, earnings.json next.when 가장 빠른 확정일은 ADI·DELL 11/24). 칸이 없는 앱 종목 중 ETF 비중이 가장 큰 ORCL(한 ETF에 21.6%) 새 칸. 기간 「FY27 1분기 · 2026년 6~8월」: 매출 193억 달러(+30%, 1년 전 149억 — 지난해 회사 발표 숫자), 클라우드 인프라 74억(+121%), 조정 EPS 1.92달러(+30%), 남은 계약(RPO) 6,640억(1년 새 2,090억 늘어남). 다음 분기(9~11월) 회사 전망은 성장률 30~34%뿐이라 1년 전 2분기 매출 161억에 곱해 guide 209.3억~215.7억으로 계산(note 에 밝힘). 올해 매출 전망 900억 이상. 발표 전 매출 예상 금액은 확인 못 해 est null(Zacks '예상보다 1.11% 많음'만 note 에), cons null. 다음 발표일 공지 없음(작년엔 12/2에 공지) → "2026년 12월 중순 (예상 · 회사 발표일 공지 전)", 새 일정 안 넣음. 회사 발표 2026-09-10, 반영 2026-11-23 06:15 KST.
+- 출처: [오라클 1분기 실적 발표](https://www.oracle.com/news/announcement/q1fy27-earnings-release-2026-09-10/) · [오라클 지난해 1분기 발표](https://www.oracle.com/news/announcement/q1fy26-earnings-release-2025-09-09/) · [오라클 지난해 2분기 발표](https://www.oracle.com/news/announcement/q2fy26-earnings-release-2025-12-10/) · [Zacks 정리 (TradingView)](https://www.tradingview.com/news/zacks:32bcf6e9d094b:0-oracle-q1-earnings-beat-estimates-cloud-growth-accelerates/) · 공식 여부: 공식(실적) / 보도(예상 비교)
+- 확신도: 높음 (금액은 회사 발표의 억 단위 반올림 숫자 · 백만 단위 표는 못 읽음)
+- 참고: 남은 칸 없는 앱 종목(ETF 제외): LIN·SHOP·GOOG·SATS(ECHO)·IREN·APLD·CLS·CBRS·APH·TTMI·STX·NFLX·MA·FFIV·VICR·NXE·DNN. 오라클이 2분기 발표일을 공지하면(12/14 안이면) 일정을 넣을게요.
