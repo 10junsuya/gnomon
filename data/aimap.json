@@ -754,7 +754,7 @@
       ""
      ]
     ],
-    "art": "dc",
+    "art": "dc_uae",
     "with": "오라클, 엔비디아, 시스코, 소프트뱅크",
     "bars": {
      "t": "얼마나 짓나",
@@ -779,6 +779,15 @@
      "lead": "G42 자회사 카즈나가 짓고 오픈AI·오라클이 운영해요. 엔비디아 GB300을 써요.",
      "ev": "오픈AI 2025.5 · 에포크 AI 2026.7",
      "log": true
+    },
+    "img": {
+     "u": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Donald_Trump_state_visit_to_the_United_Arab_Emirates%2C_2025-05-15_P20250515DT-1523.jpg/1280px-Donald_Trump_state_visit_to_the_United_Arab_Emirates%2C_2025-05-15_P20250515DT-1523.jpg",
+     "by": "백악관",
+     "lic": "퍼블릭 도메인",
+     "src": "https://commons.wikimedia.org/wiki/File:Donald_Trump_state_visit_to_the_United_Arab_Emirates%2C_2025-05-15_P20250515DT-1523.jpg",
+     "cap": "트럼프 대통령의 UAE 국빈 방문 (2025.5.15) · 이 방문 때 UAE–미국 AI 캠퍼스를 발표했어요",
+     "alt": "의장대 사이를 걷는 두 나라 정상",
+     "w": 3000
     }
    }
   },
@@ -941,7 +950,7 @@
       "now"
      ]
     ],
-    "art": "dc",
+    "art": "dc_nor",
     "with": "엔비디아, 마이크로소프트"
    }
   },
@@ -1008,8 +1017,17 @@
       "now"
      ]
     ],
-    "art": "dc",
-    "with": "엔비디아, OpenAI"
+    "art": "dc_uk",
+    "with": "엔비디아, OpenAI",
+    "img": {
+     "u": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Keir_Starmer%2C_Donald_Trump%2C_signing_tech_deal%2C_smiling%2C_UK_state_visit%2C_2025_%28cropped%29.jpg/1280px-Keir_Starmer%2C_Donald_Trump%2C_signing_tech_deal%2C_smiling%2C_UK_state_visit%2C_2025_%28cropped%29.jpg",
+     "by": "영국 총리실 (Number 10)",
+     "lic": "영국 정부 공개 라이선스 3.0",
+     "src": "https://commons.wikimedia.org/wiki/File:Keir_Starmer%2C_Donald_Trump%2C_signing_tech_deal%2C_smiling%2C_UK_state_visit%2C_2025_%28cropped%29.jpg",
+     "cap": "미·영 기술 번영 협정에 서명하는 두 정상 (2025.9) · 스타게이트 UK가 이 협정과 함께 발표됐어요",
+     "alt": "협정 서명 자리의 두 정상",
+     "w": 4234
+    }
    }
   },
   {
@@ -1167,7 +1185,7 @@
       ""
      ]
     ],
-    "art": "dc",
+    "art": "dc_arg",
     "with": "OpenAI"
    }
   },
@@ -1230,7 +1248,7 @@
       ""
      ]
     ],
-    "art": "chip",
+    "art": "sg_kr",
     "with": "SK텔레콤, 삼성물산, 삼성중공업"
    }
   },
@@ -1535,7 +1553,7 @@
       ""
      ]
     ],
-    "art": "chip",
+    "art": "model_kr",
     "with": "LG AI연구원, SK텔레콤, 업스테이지 (2차 통과 팀)",
     "rounds": {
      "t": "국가대표 AI 뽑기",
@@ -4130,7 +4148,7 @@
        ""
       ]
      ],
-     "art": "fab",
+     "art": "fab_oh",
      "with": "미국 정부 (주주), 엔비디아 (투자)",
      "fabs": [
       {
@@ -4182,7 +4200,16 @@
        "JobsOhio · 첫 트러스 설치 (2026.10)",
        "https://www.jobsohio.com/intel-in-ohio"
       ]
-     ]
+     ],
+     "img": {
+      "u": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/P20220909AS-1281_%2852517058506%29.jpg/1280px-P20220909AS-1281_%2852517058506%29.jpg",
+      "by": "백악관 (애덤 슐츠)",
+      "lic": "퍼블릭 도메인",
+      "src": "https://commons.wikimedia.org/wiki/File:P20220909AS-1281_%2852517058506%29.jpg",
+      "cap": "인텔 오하이오 공장 기공식 현장 (뉴올버니, 2022.9.9)",
+      "alt": "불도저가 늘어선 공장 부지를 걷는 대통령",
+      "w": 3000
+     }
     }
    },
    {
@@ -4411,7 +4438,7 @@
        ""
       ]
      ],
-     "art": "fab",
+     "art": "pkg_in",
      "with": "퍼듀대학교",
      "fabs": [
       {
@@ -4757,7 +4784,7 @@
        ""
       ]
      ],
-     "art": "fab",
+     "art": "cluster_yi",
      "with": "LH (국가산단 조성)",
      "fabs": [
       {
@@ -5778,13 +5805,13 @@
      ],
      "art": "moon",
      "img": {
-      "u": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Blue_Ghost_M1_on_the_Moon.png/1280px-Blue_Ghost_M1_on_the_Moon.png",
-      "by": "NASA/Firefly Aerospace",
+      "u": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/NASA%27s_CLPS_Firefly_Blue_Ghost_Mission_1_Launch_%28KSC-20250115-PH-FMX01_0004%29.jpg/1280px-NASA%27s_CLPS_Firefly_Blue_Ghost_Mission_1_Launch_%28KSC-20250115-PH-FMX01_0004%29.jpg",
+      "by": "NASA (프랭크 미쇼)",
       "lic": "퍼블릭 도메인",
-      "src": "https://commons.wikimedia.org/wiki/File:Blue_Ghost_M1_on_the_Moon.png",
-      "cap": "달에 내린 블루고스트 1호 (2025.3)",
-      "alt": "달 표면에 내린 착륙선",
-      "w": 4000
+      "src": "https://commons.wikimedia.org/wiki/File:NASA%27s_CLPS_Firefly_Blue_Ghost_Mission_1_Launch_%28KSC-20250115-PH-FMX01_0004%29.jpg",
+      "cap": "블루고스트 1호 착륙선을 싣고 발사되는 팰컨9 (케네디우주센터, 2025.1.15)",
+      "alt": "밤하늘에 금빛 줄을 그리며 올라가는 로켓",
+      "w": 8192
      },
      "with": "파이어플라이, 인튜이티브 머신스, 아스트로보틱 등 민간 착륙선 회사",
      "fl": [
@@ -6071,17 +6098,16 @@
        ""
       ]
      ],
-     "art": "sat",
+     "art": "shield_us",
      "with": "우주 요격기 12개사, 지휘·통제 소프트웨어 앤듀릴·팔란티어 등",
      "img": {
-      "u": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/FTG-15_Flight_Test_%284108842%29.jpeg/1280px-FTG-15_Flight_Test_%284108842%29.jpeg",
-      "by": "미국 미사일방어청",
+      "u": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Donald_Trump_announces_the_Golden_Dome_missile_defense_system_inside_the_White_House_Oval_Office_on_May_20%2C_2025.jpg/1280px-Donald_Trump_announces_the_Golden_Dome_missile_defense_system_inside_the_White_House_Oval_Office_on_May_20%2C_2025.jpg",
+      "by": "백악관 (조이스 보기오시언)",
       "lic": "퍼블릭 도메인",
-      "src": "https://commons.wikimedia.org/wiki/File:FTG-15_Flight_Test_%284108842%29.jpeg",
-      "cap": "미국 지상 요격 미사일 시험 발사 (반덴버그, 2017)",
-      "alt": "밤하늘로 발사되는 요격 미사일",
-      "same": false,
-      "w": 1800
+      "src": "https://commons.wikimedia.org/wiki/File:Donald_Trump_announces_the_Golden_Dome_missile_defense_system_inside_the_White_House_Oval_Office_on_May_20%2C_2025.jpg",
+      "cap": "트럼프 대통령이 골든 돔 계획을 발표하는 모습 (백악관 집무실, 2025.5.20)",
+      "alt": "골든 돔 포스터 앞에서 발표하는 대통령",
+      "w": 2552
      },
      "lay": {
       "t": "골든 돔은 어떻게 막나",
@@ -6418,7 +6444,16 @@
      ],
      "fig": "pwsa",
      "figT": "위성망은 두 층이에요",
-     "figU": "그림"
+     "figU": "그림",
+     "img": {
+      "u": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Vandenberg_Launches_the_SDA_T1TL-C_%289368625%29.jpg/1280px-Vandenberg_Launches_the_SDA_T1TL-C_%289368625%29.jpg",
+      "by": "미 우주군",
+      "lic": "퍼블릭 도메인",
+      "src": "https://commons.wikimedia.org/wiki/File:Vandenberg_Launches_the_SDA_T1TL-C_%289368625%29.jpg",
+      "cap": "우주개발청 1차 위성망(T1TL-C) 위성을 싣고 발사되는 팰컨9 (반덴버그)",
+      "alt": "파란 하늘로 올라가는 로켓",
+      "w": 2897
+     }
     }
    },
    {
@@ -6960,7 +6995,7 @@
        ""
       ]
      ],
-     "art": "sat",
+     "art": "iris_eu",
      "lay": {
       "t": "위성을 어디에 두나",
       "fig": "iris",
@@ -7140,7 +7175,7 @@
        ""
       ]
      ],
-     "art": "sat"
+     "art": "mil_de"
     }
    }
   ],
