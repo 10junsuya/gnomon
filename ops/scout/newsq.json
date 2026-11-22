@@ -1,18 +1,48 @@
 {
-"updated_kst": "2026-11-22 20:44",
-"rot": 125,
+"updated_kst": "2026-11-22 21:07",
+"rot": 6,
 "how": "Scout(프로그램)이 10분마다 모은 기사 제목·링크와 공시예요. Wren이 공식 출처로 확인한 뒤 회사 화면에 한국어로 반영해요. 본문은 받지 않아요.",
 "sources": {
 "Yahoo Finance": "120종목 확인 · 실패 0",
 "CNBC": "63건",
-"Bloomberg": "24건",
+"Bloomberg": "23건",
 "WSJ": "61건",
-"Reuters": "44건",
+"Reuters": "48건",
 "FinancialJuice": "100건",
 "SEC EDGAR": "실패 HTTPError",
 "Fox Business": "50건"
 },
 "items": [
+{
+"id": "70ee72441791",
+"t": "NVDA",
+"title": "Jim Cramer Will “Thank the Shortseller for a Discount” on AMD. Is the China Risk Overblown?",
+"url": "https://www.tikr.com/blog/jim-cramer-will-thank-the-shortseller-for-a-discount-on-amd-is-the-china-risk-overblown?ref=yahoofinance&tlnk=yf-261122-98h9mg2g&.tsrc=rss",
+"pub": "2026-11-22T11:51:55+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-22T12:07:56+00:00"
+},
+{
+"id": "5cea633b74c4",
+"t": "BRKB",
+"title": "Berkshire Hathaway is betting big on 1 beleaguered US market. Is it too late to get in?",
+"url": "https://finance.yahoo.com/news/berkshire-hathaway-betting-big-1-114500106.html?.tsrc=rss",
+"pub": "2026-11-22T11:45:00+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-22T12:07:56+00:00"
+},
+{
+"id": "97a53f4d6103",
+"t": "AVGO",
+"title": "Brad Gerstner Sees Anthropic at “$3 Trillion in Total Enterprise Value” by Late 2027. Here’s What It Takes",
+"url": "https://www.tikr.com/blog/brad-gerstner-sees-anthropic-at-3-trillion-in-total-enterprise-value-by-late-2027-heres-what-it-takes?ref=yahoofinance&tlnk=yf-261122-x582wr4c&.tsrc=rss",
+"pub": "2026-11-22T11:42:38+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-22T12:07:56+00:00"
+},
 {
 "id": "e5e52de8e4ca",
 "t": "NVDA",
@@ -24,6 +54,16 @@
 "seen": "2026-11-22T11:44:42+00:00"
 },
 {
+"id": "daad0c502b97",
+"t": "AVGO",
+"title": "Aswath Damodaran Put a “Limit Buy on Nvidia at 140.” Here’s the Math Behind His Price",
+"url": "https://www.tikr.com/blog/aswath-damodaran-put-a-limit-buy-on-nvidia-at-140-heres-the-math-behind-his-price?ref=yahoofinance&tlnk=yf-261122-2g2jvjh6&.tsrc=rss",
+"pub": "2026-11-22T11:31:56+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-22T12:07:56+00:00"
+},
+{
 "id": "2bfc3c7e0172",
 "t": "AMZN",
 "title": "A $37 Billion Fund Just Bought These 3 Stocks",
@@ -32,6 +72,16 @@
 "src": "Yahoo Finance",
 "kind": "news",
 "seen": "2026-11-22T11:44:42+00:00"
+},
+{
+"id": "1d189c5a332f",
+"t": "META",
+"title": "A $6.6 Billion Fund Just Bought These 3 Stocks",
+"url": "https://www.tikr.com/blog/a-6-6-billion-fund-just-bought-these-3-stocks?ref=yahoofinance&tlnk=yf-261122-6qpxc48r&.tsrc=rss",
+"pub": "2026-11-22T11:21:43+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-22T12:07:56+00:00"
 },
 {
 "id": "ba9625d1f832",
@@ -102,6 +152,16 @@
 "src": "Yahoo Finance",
 "kind": "news",
 "seen": "2026-11-22T11:44:42+00:00"
+},
+{
+"id": "bdfe12922f17",
+"t": "BRKB",
+"title": "Dan Loeb and 8 Other Big Funds Bought Capital One Financial. Berkshire Hathaway and 14 Others Sold. Who’s Right?",
+"url": "https://www.tikr.com/blog/dan-loeb-and-8-other-big-funds-bought-capital-one-financial-berkshire-hathaway-and-14-others-sold-whos-right?ref=yahoofinance&tlnk=yf-261122-7jjqjrjj&.tsrc=rss",
+"pub": "2026-11-22T11:07:42+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-22T12:07:56+00:00"
 },
 {
 "id": "3adcf876bc7d",
@@ -7954,64 +8014,14 @@
 "seen": "2026-11-20T18:14:43+00:00"
 },
 {
-"id": "fb96ed261526",
-"t": "GOOGL",
-"title": "NVIDIA Is Down 37% in a Month. Can NVDA Stock Get Back to $200?",
-"url": "https://247wallst.com/investing/2026/11/20/nvidia-is-down-37-in-a-month-can-nvda-stock-get-back-to-200/?.tsrc=rss",
-"pub": "2026-11-20T18:02:44+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-20T18:14:43+00:00"
-},
-{
-"id": "9f40770c8724",
-"t": "AVGO",
-"title": "The AI Boom Math In Five Lines",
-"url": "https://www.trefis.com/stock/nvda/articles/627083/the-ai-boom-math-in-five-lines/2026-11-20?.tsrc=rss",
-"pub": "2026-11-20T18:02:13+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-20T18:39:45+00:00"
-},
-{
-"id": "d232f1d25181",
-"t": "AAPL",
-"title": "What Could Stall Microsoft Stock's Run?",
-"url": "https://www.trefis.com/stock/msft/articles/627236/what-could-stall-microsoft-stocks-run/2026-11-20?.tsrc=rss",
-"pub": "2026-11-20T18:02:13+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-20T18:39:45+00:00"
-},
-{
-"id": "e8536ce5663d",
-"t": "OKTA",
-"title": "Tech Stocks Collapsed This Week. 4 Cybersecurity Stocks Escaped.",
-"url": "https://finance.yahoo.com/m/032aff67-9004-3cc2-af74-c10e307e92af/tech-stocks-collapsed-this.html?.tsrc=rss",
-"pub": "2026-11-20T18:02:00+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-20T18:45:07+00:00"
-},
-{
-"id": "eb9f4ed73d36",
-"t": "NVDA",
-"title": "NVIDIA’s (NVDA) Strategic Investment in Ohio Data Center: Securing Future Growth",
-"url": "https://finance.yahoo.com/technology/ai/articles/nvidia-nvda-strategic-investment-ohio-180127165.html?.tsrc=rss",
-"pub": "2026-11-20T18:01:27+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-20T18:14:43+00:00"
-},
-{
-"id": "ee92df174711",
-"t": "MSFT",
-"title": "Take-Two Smashes Sales Records With 'Grand Theft Auto 6'",
-"url": "https://finance.yahoo.com/m/3c42b1d1-621c-33f2-a790-3a224aa2698d/take-two-smashes-sales.html?.tsrc=rss",
-"pub": "2026-11-20T18:00:37+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-20T18:39:45+00:00"
+"id": "a4198fe3f1f6",
+"t": "",
+"title": "US Power Advantage Over China Shrinks Further on Iran War Effect",
+"url": "https://www.bloomberg.com/news/articles/2026-11-22/us-power-advantage-over-china-shrinks-further-on-iran-war-effect",
+"pub": "2026-11-22T11:30:00+00:00",
+"src": "Bloomberg",
+"kind": "market",
+"seen": "2026-11-22T12:07:56+00:00"
 },
 {
 "id": "e4c9ff8bbfd8",
@@ -11002,16 +11012,6 @@
 "src": "Reuters",
 "kind": "market",
 "seen": "2026-11-21T14:16:02+00:00"
-},
-{
-"id": "e72a1977f66b",
-"t": "",
-"title": "Regions Financial Corp (RF_pc) | Stock Price & Latest News - Reuters",
-"url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE45QzVyUkd3bDRlYllYbERGaVdKSkFMWktDMHZWNU1KbTNRTTN1S3NSRFY1cDF0dHhXYmpHd1U1dXpYdk96QXVTb2lHV0Q0VmFuYUN4Y2xrSE1BUV9Dd0JDZlhHYVVUbEFCOEg4Wg?oc=5",
-"pub": "2026-11-21T04:37:52+00:00",
-"src": "Reuters",
-"kind": "market",
-"seen": "2026-11-21T15:10:04+00:00"
 }
 ]
 }
