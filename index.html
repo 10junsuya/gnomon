@@ -4367,11 +4367,10 @@ function amPrjRoute(r){ const s = r.slice(5), i = s.indexOf("--"); return i<0 ? 
 /* 프로젝트 안 참여 회사 생태계 (대표 요청 2026-11-22): 가운데 프로젝트, 둘레에 맡은 일별 회사, 금색 선은 회사끼리 이어진 관계 */
 /* 프로젝트 화면에서 회사를 누르면 그 회사의 산업 지도를 상자(시트)로 띄움 — 화면을 떠나지 않음 (대표 요청 2026-11-22) */
 function amCoSheet(k, c, keep){ amSetInd(k); amAi.co = c; if(!keep) amAi.z = 0;
-  const IN = (AM.industries||[]).find(x=>x[0]===k) || [k, k], co = (amD().co||{})[c] || {};
+  const IN = (AM.industries||[]).find(x=>x[0]===k) || [k, k], R = amRel(c), n = R.buy.length+R.sell.length+R.gin.length+R.gout.length;
   const top = keep ? sheet.scrollTop : 0;
-  openSheet(`<div data-amsheet="${k}"><div style="padding-right:40px"><div class="tiny muted">${IN[1]} 산업 지도</div><h2 id="sheetTitle" style="margin:2px 0 0;font-size:20px">${c}</h2>${co.t?`<div class="tiny muted" style="margin-top:2px">${co.t}</div>`:""}</div>
-    <div style="margin-top:12px">${amCoCard()}</div>
-    <button class="btn ghost" type="button" data-amgo="${k}|${c}" data-amfull="1" style="margin-top:12px">산업 지도 화면에서 크게 보기 ›</button></div>`, true);
+  openSheet(`<div data-amsheet="${k}"><div style="padding-right:44px"><div class="tiny muted">${IN[1]} 산업 지도</div><h2 id="sheetTitle" style="margin:2px 0 10px;font-size:18px">${c}</h2></div>
+    ${n ? amHub(c) : `<p class="tiny muted">아직 확인된 거래 관계가 없어요.</p>`}</div>`);
   sheet.scrollTop = top;
   requestAnimationFrame(()=>{ if(!keep) amZoom("fit"); amLines(); });
 }
