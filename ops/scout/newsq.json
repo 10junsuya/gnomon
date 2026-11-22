@@ -1,18 +1,48 @@
 {
-"updated_kst": "2026-11-22 12:13",
-"rot": 176,
+"updated_kst": "2026-11-22 12:35",
+"rot": 57,
 "how": "Scout(프로그램)이 10분마다 모은 기사 제목·링크와 공시예요. Wren이 공식 출처로 확인한 뒤 회사 화면에 한국어로 반영해요. 본문은 받지 않아요.",
 "sources": {
 "Yahoo Finance": "120종목 확인 · 실패 0",
 "CNBC": "63건",
 "Bloomberg": "27건",
 "WSJ": "61건",
-"Reuters": "43건",
+"Reuters": "46건",
 "FinancialJuice": "100건",
 "SEC EDGAR": "실패 HTTPError",
 "Fox Business": "50건"
 },
 "items": [
+{
+"id": "a1ec655452e5",
+"t": "AVGO",
+"title": "Billionaire David Tepper Just Made a Massive AI Chip Rotation — Will It Pay Off?",
+"url": "https://www.fool.com/investing/2026/11/21/billionaire-david-tepper-just-made-a-massive-ai-chip-rotation-will-it-pay-off/?.tsrc=rss",
+"pub": "2026-11-22T03:20:02+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-22T03:35:49+00:00"
+},
+{
+"id": "e48c9ab0805e",
+"t": "GILD",
+"title": "Lakefront Biotherapeutics Eyes 2027 Trials for Autoimmune Drug, Backed by €2.2 Billion in Cash",
+"url": "https://www.marketbeat.com/instant-alerts/event-lakefront-biotherapeutics-eyes-2027-trials-for-autoimmune-drug-backed-by-22-billion-in-cash-2026-11-21/?utm_source=yahoofinance&utm_medium=yahoofinance&.tsrc=rss",
+"pub": "2026-11-22T03:12:04+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-22T03:35:49+00:00"
+},
+{
+"id": "c7c5fbe46883",
+"t": "ZS",
+"title": "What Investors Got Wrong About Zscaler Before The Drop",
+"url": "https://finance.yahoo.com/markets/stocks/articles/investors-got-wrong-zscaler-drop-031150408.html?.tsrc=rss",
+"pub": "2026-11-22T03:11:50+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-22T03:35:49+00:00"
+},
 {
 "id": "aaa7bed0048b",
 "t": "NVDA",
@@ -7984,34 +8014,14 @@
 "seen": "2026-11-20T17:40:09+00:00"
 },
 {
-"id": "6beaadb6e3c3",
-"t": "NBIS",
-"title": "If NVIDIA Tightens Its Wallet, These 3 Stocks Could Feel It",
-"url": "https://www.marketbeat.com/articles/if-nvidia-tightens-its-wallet-these-3-stocks-could-feel-it/?utm_source=yahoofinance&utm_medium=yahoofinance&.tsrc=rss",
-"pub": "2026-11-20T17:15:00+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-21T17:28:35+00:00"
-},
-{
-"id": "234e0a442375",
-"t": "UNH",
-"title": "TD Cowen Bets on UnitedHealth and Humana Comebacks",
-"url": "https://finance.yahoo.com/healthcare/articles/td-cowen-bets-unitedhealth-humana-171434264.html?.tsrc=rss",
-"pub": "2026-11-20T17:14:34+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-20T18:14:43+00:00"
-},
-{
-"id": "66abfa595ddf",
-"t": "CCJ",
-"title": "Cameco (TSX:CCO) On Its Loss And Share Sale With Fair Value Back In Focus",
-"url": "https://finance.yahoo.com/markets/stocks/articles/cameco-tsx-cco-loss-share-171211130.html?.tsrc=rss",
-"pub": "2026-11-20T17:12:11+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-20T17:40:09+00:00"
+"id": "69ca35b35188",
+"t": "",
+"title": "Australian Opposition Calls for Changes to Gas Reservation Plan",
+"url": "https://www.bloomberg.com/news/articles/2026-11-22/australian-opposition-calls-for-changes-to-gas-reservation-plan",
+"pub": "2026-11-22T02:08:07+00:00",
+"src": "Bloomberg",
+"kind": "market",
+"seen": "2026-11-22T03:35:49+00:00"
 },
 {
 "id": "083252295546",
@@ -8032,6 +8042,16 @@
 "src": "FinancialJuice",
 "kind": "market",
 "seen": "2026-11-22T01:47:13+00:00"
+},
+{
+"id": "55eb1bb22d93",
+"t": "",
+"title": "SOBKY.PQ - | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPZjBlU21xN3hLTGpGYTlibEJxTU1qMGU4OTZEYW0zeTN1VU1UQ2kxWGwtQ2ZRcWMyTUZVVGtDaEt3RjZPb0VmTVctbjYzWHhYOUUzN1ZPWEJQR2NLUkQxNWpBeTRObXN3TUYtMG41TjRqRlVVbWZDYVFlRmFWQzZNZUlBYw?oc=5",
+"pub": "2026-11-22T00:54:55+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-22T03:35:49+00:00"
 },
 {
 "id": "c8aaa6ef0eb5",
@@ -10992,26 +11012,6 @@
 "src": "FinancialJuice",
 "kind": "market",
 "seen": "2026-11-21T19:14:53+00:00"
-},
-{
-"id": "2cbac4f2926a",
-"t": "",
-"title": "Opinion | Why China Wants to Control a Yacht Maker",
-"url": "https://www.wsj.com/opinion/why-china-wants-to-control-a-yacht-maker-69ca60c7?mod=rss_markets_main",
-"pub": "2026-11-20T23:11:00+00:00",
-"src": "WSJ",
-"kind": "market",
-"seen": "2026-11-20T23:14:14+00:00"
-},
-{
-"id": "21c50cfd95a0",
-"t": "",
-"title": "Saudi civil defence issues another warning of potential risk in Riyadh",
-"url": "https://www.financialjuice.com/News/9862586/Saudi-civil-defence-issues-another-warning-of-potential-risk-in-Riyadh.aspx?xy=rss",
-"pub": "2026-11-20T23:10:40+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-20T23:14:14+00:00"
 }
 ]
 }
