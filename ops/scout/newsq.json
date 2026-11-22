@@ -1,18 +1,38 @@
 {
-"updated_kst": "2026-11-22 10:13",
-"rot": 174,
+"updated_kst": "2026-11-22 10:43",
+"rot": 55,
 "how": "Scout(프로그램)이 10분마다 모은 기사 제목·링크와 공시예요. Wren이 공식 출처로 확인한 뒤 회사 화면에 한국어로 반영해요. 본문은 받지 않아요.",
 "sources": {
 "Yahoo Finance": "120종목 확인 · 실패 0",
 "CNBC": "63건",
 "Bloomberg": "27건",
 "WSJ": "61건",
-"Reuters": "40건",
+"Reuters": "48건",
 "FinancialJuice": "100건",
 "SEC EDGAR": "실패 HTTPError",
 "Fox Business": "50건"
 },
 "items": [
+{
+"id": "df6040aa4220",
+"t": "MU",
+"title": "Should You Forget Nvidia and Buy These 2 AI Memory Stocks Instead?",
+"url": "https://www.fool.com/investing/2026/11/21/should-you-forget-nvidia-and-buy-these-2-ai-memory-stocks-instead/?.tsrc=rss",
+"pub": "2026-11-22T01:23:02+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-22T01:43:56+00:00"
+},
+{
+"id": "20764526fdbd",
+"t": "SPCX",
+"title": "Prediction: Some Anthropic Investors Are About to Learn an Expensive Lesson",
+"url": "https://www.fool.com/investing/2026/11/21/prediction-some-anthropic-investors-are-about-to-learn-an-expensive-lesson/?.tsrc=rss",
+"pub": "2026-11-22T01:01:38+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-22T01:43:56+00:00"
+},
 {
 "id": "9a360414595b",
 "t": "ORCL",
@@ -44,6 +64,16 @@
 "seen": "2026-11-22T01:13:48+00:00"
 },
 {
+"id": "ab274c09642f",
+"t": "SPCX",
+"title": "Trump Recalls Helping Elon Musk When He Was ‘In Big Trouble,’ Defends Nvidia’s Jensen Huang as One of America’s Rare 'Geniuses'",
+"url": "https://finance.yahoo.com/technology/articles/trump-recalls-helping-elon-musk-003010870.html?.tsrc=rss",
+"pub": "2026-11-22T00:30:10+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-22T01:43:56+00:00"
+},
+{
 "id": "584f0d55aee1",
 "t": "NVDA",
 "title": "The Ultimate Growth Stock to Buy With $1,000 Before the End of November",
@@ -52,6 +82,16 @@
 "src": "Yahoo Finance",
 "kind": "news",
 "seen": "2026-11-22T00:43:46+00:00"
+},
+{
+"id": "e609d2a72344",
+"t": "KO",
+"title": "Coca Cola (KO) Stock Looks Fully Priced After Its 109% Run",
+"url": "https://finance.yahoo.com/markets/stocks/articles/coca-cola-ko-stock-looks-001242930.html?.tsrc=rss",
+"pub": "2026-11-22T00:12:42+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-22T01:43:56+00:00"
 },
 {
 "id": "99684ec0fb8a",
@@ -842,6 +882,16 @@
 "src": "Yahoo Finance",
 "kind": "news",
 "seen": "2026-11-21T19:14:53+00:00"
+},
+{
+"id": "678ae66c7b94",
+"t": "LLY",
+"title": "Eli Lilly’s Next Weight-Loss Drug Helped Patients Lose Up to 54 Pounds. Why the FDA’s New Warning Didn’t Hurt LLY Stock.",
+"url": "https://www.barchart.com/story/news/8952519/eli-lillys-next-weight-loss-drug-helped-patients-lose-up-to-54-pounds-why-the-fdas-new-warning-didnt-hurt-lly-stock?.tsrc=rss",
+"pub": "2026-11-21T18:30:03+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-22T01:43:56+00:00"
 },
 {
 "id": "22f9517664fa",
@@ -7964,54 +8014,14 @@
 "seen": "2026-11-20T17:40:09+00:00"
 },
 {
-"id": "db40681e87a7",
-"t": "GOOGL",
-"title": "Amazon Stock: What Wall Street’s Latest Forecasts Say About Its Next Move",
-"url": "https://247wallst.com/investing/2026/11/20/amazon-stock-what-wall-streets-latest-forecasts-say-about-its-next-move/?.tsrc=rss",
-"pub": "2026-11-20T17:03:10+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-20T17:14:24+00:00"
-},
-{
-"id": "e20e9309b477",
-"t": "SNDK",
-"title": "Sandisk Stock Looked Like It Fell 87%. Here’s What Really Happened.",
-"url": "https://finance.yahoo.com/m/83e6f25c-45b8-3b90-ab21-ee8d7bebe056/sandisk-stock-looked-like-it.html?.tsrc=rss",
-"pub": "2026-11-20T17:02:00+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-20T22:24:18+00:00"
-},
-{
-"id": "e6e9643796db",
-"t": "CRM",
-"title": "Salesforce Layoff Alert: How to Play CRM Stock Amid Another Round of Job Cuts",
-"url": "https://www.barchart.com/story/news/8938867/salesforce-layoff-alert-how-to-play-crm-stock-amid-another-round-of-job-cuts?.tsrc=rss",
-"pub": "2026-11-20T17:01:42+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-20T23:44:15+00:00"
-},
-{
-"id": "774f8e4ffd4b",
-"t": "TSLA",
-"title": "Einride AB’s Autonomous Commercialization & NVIDIA Collaboration – Quarterly Update Report",
-"url": "https://finance.yahoo.com/technology/ai/articles/einride-ab-autonomous-commercialization-nvidia-170119520.html?.tsrc=rss",
-"pub": "2026-11-20T17:01:19+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-20T17:14:24+00:00"
-},
-{
-"id": "1f6f7f2e635d",
-"t": "GS",
-"title": "Goldman Sees Inflation Cooling by the end of 2027",
-"url": "https://finance.yahoo.com/video/goldman-sees-inflation-cooling-end-170105093.html?.tsrc=rss",
-"pub": "2026-11-20T17:01:05+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-20T17:40:09+00:00"
+"id": "083252295546",
+"t": "",
+"title": "China commerce ministry: opposes US FCC vote to block Chinese telecoms from direct access to US phone numbers",
+"url": "https://www.financialjuice.com/News/9863209/China-commerce-ministry-opposes-US-FCC-vote-to-block-Chinese-telecoms-from-direct-access-to-US-phone-numbers.aspx",
+"pub": "2026-11-22T01:26:02+00:00",
+"src": "FinancialJuice",
+"kind": "market",
+"seen": "2026-11-22T01:43:56+00:00"
 },
 {
 "id": "8f1a682b7131",
@@ -8022,6 +8032,16 @@
 "src": "FinancialJuice",
 "kind": "market",
 "seen": "2026-11-22T00:13:51+00:00"
+},
+{
+"id": "8e204b9efa1b",
+"t": "",
+"title": "UK govt: UK joins 10 other nations in NATO starlift program to build network of adaptable satellite launch services",
+"url": "https://www.financialjuice.com/News/9863187/UK-govt-UK-joins-10-other-nations-in-NATO-starlift-program-to-build-network-of-adaptable-satellite-launch-services.aspx",
+"pub": "2026-11-22T00:12:37+00:00",
+"src": "FinancialJuice",
+"kind": "market",
+"seen": "2026-11-22T01:43:56+00:00"
 },
 {
 "id": "216430f08308",
@@ -8042,6 +8062,26 @@
 "src": "Reuters",
 "kind": "market",
 "seen": "2026-11-22T01:13:48+00:00"
+},
+{
+"id": "ecf9cd374900",
+"t": "",
+"title": "iShares Core S&P Total US Stock Market ETF (ITOT.P) | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5QUGVWbkdlLWZtaGdZS01KemJwOGxianhtSWJpWkM2SUtxY0lyZkVwX2Mtbm5KY1VxTHFsZmNUckRQZ29wUnRWOE05Qm1pY3p0SzZ1dHEwQTVtYUhOb0VsQlVOQVEzQXJLYXJtcA?oc=5",
+"pub": "2026-11-21T22:59:21+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-22T01:43:56+00:00"
+},
+{
+"id": "b38d2c50b43f",
+"t": "",
+"title": "Traton SE (8TRA.DE) | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5XWjRjU1R0YXFHc1lWdGw4Q2oxNGh4dldiQ1BUVkRSZkdtcUs1SW9qLTExQTctbGxEMnFQbUF0UGhqUnpMRmRlSWNIZUItVDZqRDBQSkNwQ05PTVVKUWRr?oc=5",
+"pub": "2026-11-21T22:52:05+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-22T01:43:56+00:00"
 },
 {
 "id": "7b31b2ed68b1",
@@ -8202,6 +8242,26 @@
 "src": "FinancialJuice",
 "kind": "market",
 "seen": "2026-11-21T23:42:01+00:00"
+},
+{
+"id": "b3834f7f5629",
+"t": "",
+"title": "Gentor Resources Inc (GNTOF.PK) | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1wTW5IR1ZnZjlSU0JzTE54LXAtaWI2V3ExNzZMZy1QbERoZ2xoeF94d09GTmFaMGdZWnlQYU1xeVJjWWNkWGZxNU1WNUNjZUFxamdyUE9ZWDRCaFFNamRSQ01IY1cwbmhXRHowYU9hVHI?oc=5",
+"pub": "2026-11-21T20:39:02+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-22T01:43:56+00:00"
+},
+{
+"id": "ec2eb36c6b19",
+"t": "",
+"title": "Asia Carbon Industries Inc (ACRB.PK) | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1VYURCWV9JUjBoNjlUYUVONm9oaHhpWGU5TlZubDNrbFBTM0Z2RFhDWnJQNHhERXJqODNLLVVKeHZWNzBXRU5CYmVDWnF2V2Mtd3pvNS1DSEkxbnhLMnM0Vl85TVg1ZnNBeGI4UVBsSQ?oc=5",
+"pub": "2026-11-21T20:38:29+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-22T01:43:56+00:00"
 },
 {
 "id": "1165e7823c8f",
@@ -8452,6 +8512,16 @@
 "src": "Reuters",
 "kind": "market",
 "seen": "2026-11-22T00:43:46+00:00"
+},
+{
+"id": "034170feebdc",
+"t": "",
+"title": "PARR.Z - Reuters",
+"url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE56N0MyNFY1bC1FT1Y5OXRTa3BRdWtLWDlwQVc4akw4azAyaGlWSk1jaTdscExneFVNZlpUdVNza3BjTzd2U3RfVld4Z0xldjJuM3REUnk4MTBjV3lrSHRfQm9NZ0pJSzR6OXdGbjAzdw?oc=5",
+"pub": "2026-11-21T19:04:59+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-22T01:43:56+00:00"
 },
 {
 "id": "9ff50b69c8f2",
@@ -8814,6 +8884,16 @@
 "seen": "2026-11-21T20:43:38+00:00"
 },
 {
+"id": "d7572727f6f7",
+"t": "",
+"title": "Hyperblock Inc (HYBOF.PK) | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1wOEtKOVFUdmlXR2FXNWVqckRGMVh3VDZOZWhodjdkMHhOa2xoZml3aG05cTBTYkhpYThnWWFHeEM5c1hnU1ZYdl90REc4aEotVm1xVklOM0lDUkN1SWdSVGVRN0ZnWDMzSEh1ZGthdy0?oc=5",
+"pub": "2026-11-21T15:43:55+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-22T01:43:56+00:00"
+},
+{
 "id": "d28788a0ec66",
 "t": "",
 "title": "Pointed! Bloomberg’s Weekly News Quiz For Risk-Takers",
@@ -8912,6 +8992,16 @@
 "src": "Reuters",
 "kind": "market",
 "seen": "2026-11-21T18:15:18+00:00"
+},
+{
+"id": "ffc379f956d3",
+"t": "",
+"title": "Landfar Bio medicine Co Ltd (000504.SZ) | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9ZNmQycXR6dVJNXzJXQWJxWXYyczNoZWQzaVBTaEs2a1lBRU51ZnVIZFJnd2t6LU9rVXltODNBdXpibkN6NnA1anFGaE12ekJ6ejRWdlVKTU5zOTlSX3VMLTc2Vkt2Z3NlNjlnWUxvcw?oc=5",
+"pub": "2026-11-21T15:17:59+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-22T01:43:56+00:00"
 },
 {
 "id": "23ecf51bcca0",
@@ -9082,6 +9172,16 @@
 "src": "FinancialJuice",
 "kind": "market",
 "seen": "2026-11-21T19:14:53+00:00"
+},
+{
+"id": "0eaf0a43ef64",
+"t": "",
+"title": "Invesco BulletShares 2031 High Yield Corp Bd ETF (BSJV.O) | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8zNi1xNnhsSUxnQ3hvWmdwVWpJMzZBemYxRDQ3UTNwUGlhMVNiS2MyOWdzNGItZnliblU5TTBOeEdlTzdUY1dnS2NlODhDbWxlLTQzRUlYdDBZMlA5Z3BaZEc4MHh3bmkyTFlr?oc=5",
+"pub": "2026-11-21T14:24:34+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-22T01:43:56+00:00"
 },
 {
 "id": "873100a9a9d2",
@@ -9304,6 +9404,16 @@
 "seen": "2026-11-21T13:15:23+00:00"
 },
 {
+"id": "d4b70f2783f1",
+"t": "",
+"title": "M Evo Global Acquisition Corp II (MEVO.O) | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBQNC1KUVNnUkdBMTNuT0dfbTdXYnNmOXRUZHVkTnlMY0JXOHR0OFlFcEZpSVNTd1NrT3lBek9Fbng0OW5ZNXNvWjM5MXlGMmlwSUZFdThzUjNhOG9UR1Q5Y1N1QWFfWUZxa2ZZ?oc=5",
+"pub": "2026-11-21T13:04:52+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-22T01:43:56+00:00"
+},
+{
 "id": "1f46bd4944d1",
 "t": "",
 "title": "9905stat.TW - Reuters",
@@ -9454,6 +9564,16 @@
 "seen": "2026-11-21T19:44:12+00:00"
 },
 {
+"id": "8703383e15e1",
+"t": "",
+"title": "KYG989221000.TWEA%5EJ22 - | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQelNJQ1NhQlk1a2dfWTNTZWgtdkJZNzJoVjhoT0R6Zkt2TU9zZ08xSlUyTVNXTlFMSGVTTXEtR2R1SmRxQ09COVlnQnRUTWliM0cyZy1sZEt0M29FY1htNnJLb2c5R0s5Zy1LZ2VGSUtrR0VkYnYxUC1TMWttY0Zydy0xQXpGbGdZb2ZQRg?oc=5",
+"pub": "2026-11-21T12:42:28+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-22T01:43:56+00:00"
+},
+{
 "id": "e4357f774786",
 "t": "",
 "title": "3020.J3 - | Stock Price & Latest News - Reuters",
@@ -9462,6 +9582,16 @@
 "src": "Reuters",
 "kind": "market",
 "seen": "2026-11-21T16:14:06+00:00"
+},
+{
+"id": "1045c331418f",
+"t": "",
+"title": "3020.J3 - | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBpOVUtX0ducVhXcnJzbmFNTWU1LTk0R0FCNmRoZU5TWUlaSEFBT2xBYkJ4YWJjVjE1N1dZQW5hLUdob3ZuM1VkNTNyN28zMWhQZnhqaHZNVTJzWjBHU0F0UDJvMU9MdUdnNXdmWWdR?oc=5",
+"pub": "2026-11-21T12:41:38+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-22T01:43:56+00:00"
 },
 {
 "id": "3c9a54f682e5",
@@ -10882,136 +11012,6 @@
 "src": "FinancialJuice",
 "kind": "market",
 "seen": "2026-11-21T19:14:53+00:00"
-},
-{
-"id": "9c6d4920e008",
-"t": "",
-"title": "Saudi Arabia: danger has passed in Riyadh",
-"url": "https://www.financialjuice.com/News/9862583/Saudi-Arabia-danger-has-passed-in-Riyadh.aspx?xy=rss",
-"pub": "2026-11-20T23:03:11+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-20T23:14:14+00:00"
-},
-{
-"id": "422153bbd6a6",
-"t": "",
-"title": "Saudi Arabia: danger has passed in Riyadh",
-"url": "https://www.financialjuice.com/News/9862583/Saudi-Arabia-danger-has-passed-in-Riyadh.aspx",
-"pub": "2026-11-20T23:03:11+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-21T19:14:53+00:00"
-},
-{
-"id": "53dd85598e40",
-"t": "",
-"title": "TV.N%09 - Reuters",
-"url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBSY2UwZ3hxbjlkN1BEanFUc2hELXhPYlJJcFgtYjdydnJSX1lCd25SUWloRVFkTXQ1UTFIaVk4d2RHR0x5Zk9VbXVyX3NDa1drdDFoNF9CenlXRUw3TU1fUmVEVFdpU21jV1E?oc=5",
-"pub": "2026-11-20T22:57:16+00:00",
-"src": "Reuters",
-"kind": "market",
-"seen": "2026-11-21T07:56:17+00:00"
-},
-{
-"id": "f386cde464a6",
-"t": "",
-"title": "Saudi civil defence issues warning of possible threat in As Sulayyil governorate",
-"url": "https://www.financialjuice.com/News/9862563/Saudi-civil-defence-issues-warning-of-possible-threat-in-As-Sulayyil-governorate.aspx?xy=rss",
-"pub": "2026-11-20T22:57:15+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-20T23:14:14+00:00"
-},
-{
-"id": "c31950f8b45d",
-"t": "",
-"title": "Saudi civil defence issues warning of possible threat in As Sulayyil governorate",
-"url": "https://www.financialjuice.com/News/9862563/Saudi-civil-defence-issues-warning-of-possible-threat-in-As-Sulayyil-governorate.aspx",
-"pub": "2026-11-20T22:57:15+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-21T19:14:53+00:00"
-},
-{
-"id": "ab1651405d7b",
-"t": "",
-"title": "Saudi civil defence issues warning over possible threat in Riyadh",
-"url": "https://www.financialjuice.com/News/9862562/Saudi-civil-defence-issues-warning-over-possible-threat-in-Riyadh.aspx?xy=rss",
-"pub": "2026-11-20T22:54:40+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-20T23:14:14+00:00"
-},
-{
-"id": "2db094265417",
-"t": "",
-"title": "Saudi civil defence issues warning over possible threat in Riyadh",
-"url": "https://www.financialjuice.com/News/9862562/Saudi-civil-defence-issues-warning-over-possible-threat-in-Riyadh.aspx",
-"pub": "2026-11-20T22:54:40+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-21T19:14:53+00:00"
-},
-{
-"id": "d5289a6309f9",
-"t": "",
-"title": "AFSIB.PK - Reuters",
-"url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9XV21vc0RXc2lHa2ZBdmFJS1VQUFBycGJOUEN6cWJrTVZoSW5fQkcySGNPVVBhQktseHYzMzA2d1dNb1R1bDJRQW1vemtjRmF3ZlFWSnZuSmVjWnpUaXkwdFM1cTIwclNjQUZSZG5yZGY5QkRpaHU3TGlYZw?oc=5",
-"pub": "2026-11-20T22:52:43+00:00",
-"src": "Reuters",
-"kind": "market",
-"seen": "2026-11-21T07:14:09+00:00"
-},
-{
-"id": "e5e829aa443f",
-"t": "",
-"title": "Databricks in preliminary discussions to secure funding at $225 billion valuation: WSJ",
-"url": "https://www.financialjuice.com/News/9862561/Databricks-in-preliminary-discussions-to-secure-funding-at-225-billion-valuation-WSJ.aspx?xy=rss",
-"pub": "2026-11-20T22:50:48+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-20T23:14:14+00:00"
-},
-{
-"id": "5cb6e7b14304",
-"t": "",
-"title": "Databricks in preliminary discussions to secure funding at $225 billion valuation: WSJ",
-"url": "https://www.financialjuice.com/News/9862561/Databricks-in-preliminary-discussions-to-secure-funding-at-225-billion-valuation-WSJ.aspx",
-"pub": "2026-11-20T22:50:48+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-21T19:14:53+00:00"
-},
-{
-"id": "308330c82a60",
-"t": "",
-"title": "Databricks in early discussions to secure funding at $225 billion valuation: WSJ",
-"url": "https://www.financialjuice.com/News/9862560/Databricks-in-early-discussions-to-secure-funding-at-225-billion-valuation-WSJ.aspx?xy=rss",
-"pub": "2026-11-20T22:50:46+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-20T23:14:14+00:00"
-},
-{
-"id": "622ed70381e9",
-"t": "",
-"title": "Databricks in early discussions to secure funding at $225 billion valuation: WSJ",
-"url": "https://www.financialjuice.com/News/9862560/Databricks-in-early-discussions-to-secure-funding-at-225-billion-valuation-WSJ.aspx",
-"pub": "2026-11-20T22:50:46+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-21T19:14:53+00:00"
-},
-{
-"id": "335ca72bcd1a",
-"t": "",
-"title": "Trendlines Group Ltd (TRNGF.PK) | Stock Price & Latest News - Reuters",
-"url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9iX0s1WENlTWRiYTdOVW9YM2FMdFQtaFRrazFFeDZIQWpGYWdxU2FUOG1ZTGN3bGhLOHNBZGJBZGdRLVFQTktRU0l2VHNLYU0xT1ZCWDM2THdIX2pZdVY2dU4tU3ZmeUd0RG5FNHJqdjk?oc=5",
-"pub": "2026-11-20T22:49:38+00:00",
-"src": "Reuters",
-"kind": "market",
-"seen": "2026-11-21T13:15:23+00:00"
 }
 ]
 }
