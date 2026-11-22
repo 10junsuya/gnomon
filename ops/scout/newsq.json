@@ -1,18 +1,28 @@
 {
-"updated_kst": "2026-11-22 12:35",
-"rot": 57,
+"updated_kst": "2026-11-22 12:43",
+"rot": 117,
 "how": "Scout(프로그램)이 10분마다 모은 기사 제목·링크와 공시예요. Wren이 공식 출처로 확인한 뒤 회사 화면에 한국어로 반영해요. 본문은 받지 않아요.",
 "sources": {
 "Yahoo Finance": "120종목 확인 · 실패 0",
 "CNBC": "63건",
 "Bloomberg": "27건",
 "WSJ": "61건",
-"Reuters": "46건",
+"Reuters": "50건",
 "FinancialJuice": "100건",
 "SEC EDGAR": "실패 HTTPError",
 "Fox Business": "50건"
 },
 "items": [
+{
+"id": "c04597795019",
+"t": "GEV",
+"title": "3 Industrial Stocks Trading Above $500 a Share: Which One Splits First?",
+"url": "https://www.fool.com/investing/2026/11/21/3-industrial-stocks-trading-above-500-a-share-which-one-splits-first-cat-fix-gev/?.tsrc=rss",
+"pub": "2026-11-22T03:30:02+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-22T03:43:59+00:00"
+},
 {
 "id": "a1ec655452e5",
 "t": "AVGO",
@@ -22,6 +32,16 @@
 "src": "Yahoo Finance",
 "kind": "news",
 "seen": "2026-11-22T03:35:49+00:00"
+},
+{
+"id": "da8dfa5788e4",
+"t": "NVDA",
+"title": "3 Top AI Stocks With At Least 14% ROE",
+"url": "https://finance.yahoo.com/technology/ai/articles/3-top-ai-stocks-least-031239184.html?.tsrc=rss",
+"pub": "2026-11-22T03:12:39+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-22T03:43:59+00:00"
 },
 {
 "id": "e48c9ab0805e",
@@ -62,6 +82,16 @@
 "src": "Yahoo Finance",
 "kind": "news",
 "seen": "2026-11-22T03:13:54+00:00"
+},
+{
+"id": "a82d55a84e58",
+"t": "WMT",
+"title": "Walmart's CEO shares big news for time-strapped grocery shoppers",
+"url": "https://www.thestreet.com/investing/stocks/wmt-walmart-ceo-john-furner-says-ai-assistant-sparky-is-transforming-grocery-shopping-for-busy-shoppers?.tsrc=rss",
+"pub": "2026-11-22T02:37:00+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-22T03:43:59+00:00"
 },
 {
 "id": "47fd0db34ea3",
@@ -552,6 +582,16 @@
 "src": "Yahoo Finance",
 "kind": "news",
 "seen": "2026-11-21T22:14:01+00:00"
+},
+{
+"id": "855d33c6044a",
+"t": "AVGO",
+"title": "Why It’s Time to Buy the Pullback in Broadcom Stock",
+"url": "https://www.barchart.com/story/news/8953006/why-its-time-to-buy-the-pullback-in-broadcom-stock?.tsrc=rss",
+"pub": "2026-11-21T21:30:03+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-22T03:43:59+00:00"
 },
 {
 "id": "63cfc5d22a94",
@@ -7974,46 +8014,6 @@
 "seen": "2026-11-20T17:40:09+00:00"
 },
 {
-"id": "99aa89db54ff",
-"t": "JPM",
-"title": "JPMorgan Stocks Move Lower as CFO Handover Reshapes Dimon Bench",
-"url": "https://finance.yahoo.com/markets/stocks/articles/jpmorgan-stocks-move-lower-cfo-171753365.html?.tsrc=rss",
-"pub": "2026-11-20T17:17:53+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-20T17:40:09+00:00"
-},
-{
-"id": "87559136eef9",
-"t": "MSFT",
-"title": "Intel Wins Microsoft AI Chip Business as Foundry Turnaround Faces New Test",
-"url": "https://finance.yahoo.com/technology/articles/intel-wins-microsoft-ai-chip-171706213.html?.tsrc=rss",
-"pub": "2026-11-20T17:17:06+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-20T17:40:09+00:00"
-},
-{
-"id": "21f8e43c2f77",
-"t": "UNH",
-"title": "5 High-Yield Healthcare Stocks for a Tax-Free Roth IRA Income Stream",
-"url": "https://247wallst.com/investing/2026/11/20/5-high-yield-healthcare-stocks-for-a-tax-free-roth-ira-income-stream/?.tsrc=rss",
-"pub": "2026-11-20T17:15:51+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-20T18:14:43+00:00"
-},
-{
-"id": "2983a82dff62",
-"t": "GE",
-"title": "Is Boeing Stock Priced Right Against Its Peers?",
-"url": "https://www.trefis.com/stock/ba/articles/627222/is-boeing-stock-priced-right-against-its-peers/2026-11-20?.tsrc=rss",
-"pub": "2026-11-20T17:15:00+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-20T17:40:09+00:00"
-},
-{
 "id": "69ca35b35188",
 "t": "",
 "title": "Australian Opposition Calls for Changes to Gas Reservation Plan",
@@ -8052,6 +8052,16 @@
 "src": "Reuters",
 "kind": "market",
 "seen": "2026-11-22T03:35:49+00:00"
+},
+{
+"id": "3a019a24a698",
+"t": "",
+"title": "iShares Global Water UCITS ETF USD (Dist) (IQQQ.DE) | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE51aUoyRGtObGk1ZHNFWXR3eG9iWU5KelRGNW40T2hTMXJsejlJb2dLS2ZocjVqcUJKckZJakh6aldWZUdMTjhHNlZjRGdBVWY3S0VDQ05vODRfbURkeEdWMmNXd3ZMM2hrV1Z1UW9DZw?oc=5",
+"pub": "2026-11-22T00:48:09+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-22T03:43:59+00:00"
 },
 {
 "id": "c8aaa6ef0eb5",
@@ -8194,6 +8204,16 @@
 "seen": "2026-11-21T23:42:01+00:00"
 },
 {
+"id": "a62c34825782",
+"t": "",
+"title": "Vertu Motors PLC (VTU.L) | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE52cnVxWWQ3R2FYNzBqRkNxcFY1NnpfUklvemt0N0ExVU1FX2QwbkkzZ3ZoMkVMQk1XYXNaaTJ2VnBQWjhpdElhYWMydXFzNHhyN054ZkdadE5sb1dfUVBPWmt3Vkk3VzgwZU40Ng?oc=5",
+"pub": "2026-11-21T21:34:06+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-22T03:43:59+00:00"
+},
+{
 "id": "d3134e0ff4d0",
 "t": "",
 "title": "Saudi-led coalition: intercepts and destroys missile launched by Yemen's Houthis toward western region",
@@ -8332,6 +8352,16 @@
 "src": "Reuters",
 "kind": "market",
 "seen": "2026-11-22T01:43:56+00:00"
+},
+{
+"id": "c32c60a9706f",
+"t": "",
+"title": "American States Water Company (AWR.P) | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE15Q0lIQzFDdkNReG9Tb1R4d2lxZHBUbjA0NnVSdlJOaVpuYXhsNzhLb3ZqdmVXbnJOYzM3NlVEbG96TTZnaVJGVGN5TEZYS2M5aF9nV0JfOFRQZmRBMHJ3Sm9Yc09keTRzNXFvQg?oc=5",
+"pub": "2026-11-21T20:38:27+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-22T03:43:59+00:00"
 },
 {
 "id": "1165e7823c8f",
@@ -8594,6 +8624,16 @@
 "seen": "2026-11-22T01:43:56+00:00"
 },
 {
+"id": "dc42571a972a",
+"t": "",
+"title": "Landfar Bio medicine Co Ltd (000504.SZ) | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1DV0tkT1FGMUVkcWZ2N0NORmpMRDdGSWZ5Y0FNMkQtZDBkUFVqNHlETldiZW5raHhOZVl3MVZmbkozZUNFU2xPX1JKZUk3ZDJjU3YyU2ZIMkVHeUkyZXF6MzRyVkllWl9PWjdMbl8zWFJnZw?oc=5",
+"pub": "2026-11-21T19:04:53+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-22T03:43:59+00:00"
+},
+{
 "id": "9ff50b69c8f2",
 "t": "",
 "title": "tmy.f - | Stock Price & Latest News - Reuters",
@@ -8812,6 +8852,16 @@
 "src": "WSJ",
 "kind": "market",
 "seen": "2026-11-21T17:14:26+00:00"
+},
+{
+"id": "bb5b8bdedccb",
+"t": "",
+"title": "Quanta Services Inc (PWR.P) | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5WUEF0ODNHNHoyMWlMUldoY090M2lfNTByUi1SdDJUQ3FoUURIUzRpRUNrZ1NGS0hhcjVHVkk1cEJ3bHJIZW1zc1hMTDRFdS1rNTVpNldzamhWeE5PX2psbjVGcl9oZl9iSEdIZA?oc=5",
+"pub": "2026-11-21T16:59:33+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-22T03:43:59+00:00"
 },
 {
 "id": "509bd77e8855",
@@ -9714,6 +9764,16 @@
 "seen": "2026-11-21T19:44:12+00:00"
 },
 {
+"id": "f34d3c4dbb89",
+"t": "",
+"title": "THO.TH - Reuters",
+"url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNS1A0RW5vTVRLTVRLX0Naa1dYZUVLMGpIdk40bWpxU2U4U0Qxc0dtU05ORl9JZWF2NVRGWm9sQTd2bHpUenJoRHljUjBINnM0VXVMR3ZPSms3SVJnSlloN18yWTRFUl91aDR5UEMxTktPdm5SRWN2azRUdjY0a1REeU9wcTMwc3FoaVRkdTlMcw?oc=5",
+"pub": "2026-11-21T12:30:07+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-22T03:43:59+00:00"
+},
+{
 "id": "7fd7be14e1b2",
 "t": "",
 "title": "White House reduces special status allowing staffers to remain in private sector - WSJ",
@@ -10152,6 +10212,16 @@
 "src": "Bloomberg",
 "kind": "market",
 "seen": "2026-11-21T09:14:45+00:00"
+},
+{
+"id": "f1f4fdc7df33",
+"t": "",
+"title": "Nomura Small and Mid Cap ETF (SMDC.N) | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1qMlZSdEtsZXl0R3VQOXR1cEJsVkNqTDRfU3JPZ0JZRjFEX19rVTRMNl9JRFhmVWJpX0JiWDVLOFBja2FDa1JOYkVabDJyZThONU14MkxpV3BPSkNLa1czejB0VGc3ZWlWdzgzaA?oc=5",
+"pub": "2026-11-21T08:39:44+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-22T03:43:59+00:00"
 },
 {
 "id": "b87ba247152f",
@@ -10939,76 +11009,6 @@
 "title": "Saudi-led coalition: intercepts and destroys three ballistic missiles launched by Yemen's Houthis toward Riyadh",
 "url": "https://www.financialjuice.com/News/9862601/Saudi-led-coalition-intercepts-and-destroys-three-ballistic-missiles-launched-by-Yemens-Houthis-toward-Riyadh.aspx",
 "pub": "2026-11-20T23:42:01+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-21T19:14:53+00:00"
-},
-{
-"id": "54158c195ed6",
-"t": "",
-"title": "Anthropic’s IPO Turmoil Caps $4 Trillion AI Wipeout on Wall Street",
-"url": "https://www.wsj.com/finance/stocks/anthropics-ipo-bust-punctuates-4-trillion-ai-wipeout-on-wall-street-f1f1ec90?mod=rss_markets_main",
-"pub": "2026-11-20T23:36:00+00:00",
-"src": "WSJ",
-"kind": "market",
-"seen": "2026-11-21T19:44:12+00:00"
-},
-{
-"id": "6cfd54ee7337",
-"t": "",
-"title": "Michael Page PLC (PAGE.L) | Stock Price & Latest News - Reuters",
-"url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBzQy1reEZqWHFscmJaYzVNdV81OUFBcTdPWXhsendYZGN4VU5ER1d1R0REM2J3QWIwUDdOWll6djBoN1NjV1QwNG4tci1EellpVm1Cc3dxLWZwbjFmRHc?oc=5",
-"pub": "2026-11-20T23:28:56+00:00",
-"src": "Reuters",
-"kind": "market",
-"seen": "2026-11-21T01:14:39+00:00"
-},
-{
-"id": "2be6a098170f",
-"t": "",
-"title": "Saudi Arabia's civil defence: danger has passed in Riyadh",
-"url": "https://www.financialjuice.com/News/9862599/Saudi-Arabias-civil-defence-danger-has-passed-in-Riyadh.aspx?xy=rss",
-"pub": "2026-11-20T23:22:45+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-20T23:44:15+00:00"
-},
-{
-"id": "1bfd1b94588b",
-"t": "",
-"title": "Saudi Arabia's civil defence: danger has passed in Riyadh",
-"url": "https://www.financialjuice.com/News/9862599/Saudi-Arabias-civil-defence-danger-has-passed-in-Riyadh.aspx",
-"pub": "2026-11-20T23:22:45+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-21T19:14:53+00:00"
-},
-{
-"id": "b984156a905a",
-"t": "",
-"title": "J&J Snack Foods CEO on 4Q Results and Consumer Sentiment",
-"url": "https://www.bloomberg.com/news/videos/2026-11-20/j-j-snack-foods-ceo-on-4q-results-and-consumer-sentiment-video",
-"pub": "2026-11-20T23:22:36+00:00",
-"src": "Bloomberg",
-"kind": "market",
-"seen": "2026-11-20T23:44:15+00:00"
-},
-{
-"id": "3cc652ed66a8",
-"t": "",
-"title": "Huge boom heard in Riyadh: source witness",
-"url": "https://www.financialjuice.com/News/9862587/Huge-boom-heard-in-Riyadh-source-witness.aspx?xy=rss",
-"pub": "2026-11-20T23:14:18+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-20T23:14:14+00:00"
-},
-{
-"id": "efba4fd61b9e",
-"t": "",
-"title": "Huge boom heard in Riyadh: source witness",
-"url": "https://www.financialjuice.com/News/9862587/Huge-boom-heard-in-Riyadh-source-witness.aspx",
-"pub": "2026-11-20T23:14:18+00:00",
 "src": "FinancialJuice",
 "kind": "market",
 "seen": "2026-11-21T19:14:53+00:00"
