@@ -1,13 +1,13 @@
 {
-"updated_kst": "2026-11-22 21:44",
-"rot": 126,
+"updated_kst": "2026-11-22 22:06",
+"rot": 7,
 "how": "Scout(프로그램)이 10분마다 모은 기사 제목·링크와 공시예요. Wren이 공식 출처로 확인한 뒤 회사 화면에 한국어로 반영해요. 본문은 받지 않아요.",
 "sources": {
 "Yahoo Finance": "120종목 확인 · 실패 0",
 "CNBC": "63건",
 "Bloomberg": "23건",
 "WSJ": "61건",
-"Reuters": "47건",
+"Reuters": "43건",
 "FinancialJuice": "100건",
 "SEC EDGAR": "실패 HTTPError",
 "Fox Business": "50건"
@@ -24,6 +24,36 @@
 "seen": "2026-11-22T12:44:29+00:00"
 },
 {
+"id": "ce10df226742",
+"t": "AVGO",
+"title": "OpenAI’s Greg Brockman: AI Delivered “Roughly an Additional Year of Progress” on AMD’s Chip in Under 5 Months",
+"url": "https://www.tikr.com/blog/openais-greg-brockman-ai-delivered-roughly-an-additional-year-of-progress-on-amds-chip-in-under-5-months?ref=yahoofinance&tlnk=yf-261122-2vm39c6q&.tsrc=rss",
+"pub": "2026-11-22T12:35:32+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-22T13:06:08+00:00"
+},
+{
+"id": "62a688ac850a",
+"t": "AVGO",
+"title": "Nvidia Must Become a Frontier Lab “Faster Than Frontier Labs Are Becoming Chip Companies.” Nemotron Is Its Head Start",
+"url": "https://www.tikr.com/blog/nvidia-must-become-a-frontier-lab-faster-than-frontier-labs-are-becoming-chip-companies-nemotron-is-its-head-start?ref=yahoofinance&tlnk=yf-261122-g64ppxm4&.tsrc=rss",
+"pub": "2026-11-22T12:35:25+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-22T13:06:08+00:00"
+},
+{
+"id": "02100aa3aeff",
+"t": "NVDA",
+"title": "Is Netflix a Buy in November? The Bull and Bear Cases.",
+"url": "https://www.fool.com/investing/2026/11/22/is-netflix-a-buy-in-november-the-bull-and-bear-cases/?.tsrc=rss",
+"pub": "2026-11-22T12:35:02+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-22T13:06:08+00:00"
+},
+{
 "id": "e35e9b5fcadb",
 "t": "AMGN",
 "title": "Invest $225,000 in These 4 Dividend Stocks and Collect Quarterly Income in Retirement",
@@ -32,6 +62,16 @@
 "src": "Yahoo Finance",
 "kind": "news",
 "seen": "2026-11-22T12:44:29+00:00"
+},
+{
+"id": "3f8fc1f84cf6",
+"t": "NVDA",
+"title": "Altria Yields 5.8% and Has Raised Its Dividend 61 Times in 57 Years. Here's Exactly How Much $5,000 Invested Pays Each Year.",
+"url": "https://www.fool.com/investing/2026/11/22/altria-yields-58-and-has-raised-its-dividend-61-times-in-57-years-heres-exactly-how-much-5000-invested-pays-each-year/?.tsrc=rss",
+"pub": "2026-11-22T12:30:02+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-22T13:06:08+00:00"
 },
 {
 "id": "86ebecb9bdbf",
@@ -3444,6 +3484,16 @@
 "seen": "2026-11-21T14:14:40+00:00"
 },
 {
+"id": "f091af1d4c01",
+"t": "AVGO",
+"title": "Anthropic's Record IPO Could Ease a Major Concern for Broadcom Investors",
+"url": "https://www.marketbeat.com/articles/anthropics-record-ipo-could-ease-a-major-concern-for-broadcom-investors/?utm_source=yahoofinance&utm_medium=yahoofinance&.tsrc=rss",
+"pub": "2026-11-21T12:55:00+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-22T13:06:08+00:00"
+},
+{
 "id": "137bf8b9e4eb",
 "t": "NEE",
 "title": "How Many Shares of Southern Company, NextEra Energy or WEC Energy Pay $1,000 a Month in Dividends?",
@@ -4552,6 +4602,16 @@
 "src": "Yahoo Finance",
 "kind": "news",
 "seen": "2026-11-21T06:41:58+00:00"
+},
+{
+"id": "833de312aa16",
+"t": "FLY",
+"title": "AST SpaceMobile Sinks 43% in a Month to a New 52-Week Low. Jim Cramer: “A Very Hard Stock to Own”",
+"url": "https://www.tikr.com/blog/ast-spacemobile-sinks-43-in-a-month-to-a-new-52-week-low-jim-cramer-a-very-hard-stock-to-own?ref=yahoofinance&tlnk=yf-261122-w6h3pc3g&.tsrc=rss",
+"pub": "2026-11-21T06:00:36+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-22T13:06:08+00:00"
 },
 {
 "id": "105c8aff3431",
@@ -7954,64 +8014,34 @@
 "seen": "2026-11-20T18:39:45+00:00"
 },
 {
-"id": "16180f29fa06",
-"t": "META",
-"title": "Meta (META) Stock Looks Discounted As Its 76% Five Year Run Cools",
-"url": "https://finance.yahoo.com/markets/stocks/articles/meta-meta-stock-looks-discounted-181051560.html?.tsrc=rss",
-"pub": "2026-11-20T18:10:51+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-20T18:39:45+00:00"
+"id": "bf206c8e5d5c",
+"t": "",
+"title": "Anthropic sought six-month limits barring some bankers from joining rivals including OpenAI and DeepSeek, people said",
+"url": "https://www.financialjuice.com/News/9863410/Anthropic-sought-six-month-limits-barring-some-bankers-from-joining-rivals-including-OpenAI-and-DeepSeek-people-said.aspx?xy=rss",
+"pub": "2026-11-22T12:53:48+00:00",
+"src": "FinancialJuice",
+"kind": "market",
+"seen": "2026-11-22T13:06:08+00:00"
 },
 {
-"id": "105ca8d43a68",
-"t": "NEE",
-"title": "Is Dominion Energy (D) Stock Cheap After Its 65% Run?",
-"url": "https://finance.yahoo.com/markets/stocks/articles/dominion-energy-d-stock-cheap-181009873.html?.tsrc=rss",
-"pub": "2026-11-20T18:10:09+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-20T19:14:18+00:00"
+"id": "3337d1d2f699",
+"t": "",
+"title": "Anthropic requested some IPO banks to restrict deal teams to four senior bankers, people said",
+"url": "https://www.financialjuice.com/News/9863409/Anthropic-requested-some-IPO-banks-to-restrict-deal-teams-to-four-senior-bankers-people-said.aspx?xy=rss",
+"pub": "2026-11-22T12:53:46+00:00",
+"src": "FinancialJuice",
+"kind": "market",
+"seen": "2026-11-22T13:06:08+00:00"
 },
 {
-"id": "c37ddca21bcf",
-"t": "SPCX",
-"title": "Why Anthropic's public debut could slow future tech IPOs",
-"url": "https://finance.yahoo.com/video/why-anthropics-public-debut-could-slow-future-tech-ipos-180853538.html?.tsrc=rss",
-"pub": "2026-11-20T18:08:42+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-20T18:14:43+00:00"
-},
-{
-"id": "fd7c32f14fc4",
-"t": "BABA",
-"title": "Alibaba Stocks Fall 1.26% as 53% AI Cloud Growth Meets RMB34.5 Billion Cash Burn",
-"url": "https://finance.yahoo.com/markets/stocks/articles/alibaba-stocks-fall-1-26-180818913.html?.tsrc=rss",
-"pub": "2026-11-20T18:08:18+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-20T18:39:45+00:00"
-},
-{
-"id": "01ac2291d5d9",
-"t": "WMT",
-"title": "Walmart Stocks Fall 1.04% Despite Raised Outlook and 23% U.S. E-Commerce Jump",
-"url": "https://finance.yahoo.com/markets/stocks/articles/walmart-stocks-fall-1-04-180747684.html?.tsrc=rss",
-"pub": "2026-11-20T18:07:47+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-20T18:39:45+00:00"
-},
-{
-"id": "f3d856c88d0d",
-"t": "META",
-"title": "Can Booking Holdings Stock Jump 40%?",
-"url": "https://www.trefis.com/stock/bkng/articles/627219/can-booking-holdings-stock-jump-40-2/2026-11-20?.tsrc=rss",
-"pub": "2026-11-20T18:07:26+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-20T18:39:45+00:00"
+"id": "73607c0cc855",
+"t": "",
+"title": "Bankers said anthropic's IPO was plagued by last-minute changes, hurried approvals and unusual leak concerns, people familiar with the matter said",
+"url": "https://www.financialjuice.com/News/9863408/Bankers-said-anthropics-IPO-was-plagued-by-last-minute-changes-hurried-approvals-and-unusual-leak-concerns-people-familiar-with-the-matter-said.aspx?xy=rss",
+"pub": "2026-11-22T12:53:45+00:00",
+"src": "FinancialJuice",
+"kind": "market",
+"seen": "2026-11-22T13:06:08+00:00"
 },
 {
 "id": "5a3ba6ae7b31",
@@ -8022,6 +8052,16 @@
 "src": "Bloomberg",
 "kind": "market",
 "seen": "2026-11-22T12:44:29+00:00"
+},
+{
+"id": "284492e2c4e3",
+"t": "",
+"title": "Taiwan Mulls Lowering Margin Requirement to Support Stock Market",
+"url": "https://www.bloomberg.com/news/articles/2026-11-22/taiwan-mulls-lowering-margin-requirement-to-support-stock-market",
+"pub": "2026-11-22T12:35:15+00:00",
+"src": "Bloomberg",
+"kind": "market",
+"seen": "2026-11-22T13:06:08+00:00"
 },
 {
 "id": "a4198fe3f1f6",
@@ -10972,46 +11012,6 @@
 "src": "Reuters",
 "kind": "market",
 "seen": "2026-11-21T17:28:35+00:00"
-},
-{
-"id": "85ea1de59692",
-"t": "",
-"title": "O9601O.T - | Stock Price & Latest News - Reuters",
-"url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5GR3BSZlVhM2dkajNZcVFpZkFNQXJiLWJHR1NZbzFYcWQyRHoyQVktQXROTnQxY3RQanVaV1VZMTY1MC1SbFVBV1NjYl9Oa1JNZlJmN28wLVRrSXdBam5NY2tQRlk2ZDBISHpVM3lhUUhPbjF6MnBLZzgtanpEdw?oc=5",
-"pub": "2026-11-21T05:06:00+00:00",
-"src": "Reuters",
-"kind": "market",
-"seen": "2026-11-21T14:14:40+00:00"
-},
-{
-"id": "28c38e4b383e",
-"t": "",
-"title": "O9601O.T - | Stock Price & Latest News - Reuters",
-"url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9HRndCdTdxMFhwbVlOR3VPblBlQ3h3d3hJWnhJdDdVYWI1TUdrbFZmRFh3N05HVk9rdUFfVFdaVEtYTXM4VnE4UUJ6c2NWYVNZWUZTbW1FOHVjdWg4a3BsQlNLaGdXbEl6WjlOOWM5UXQwaE9ydnVtNlViLW8?oc=5",
-"pub": "2026-11-21T05:06:00+00:00",
-"src": "Reuters",
-"kind": "market",
-"seen": "2026-11-21T21:31:18+00:00"
-},
-{
-"id": "e45a8a7386eb",
-"t": "",
-"title": "China Military Bans SF Express From Procurement Over Misconduct",
-"url": "https://www.bloomberg.com/news/articles/2026-11-21/china-military-bans-sf-express-from-procurement-over-misconduct",
-"pub": "2026-11-21T05:00:48+00:00",
-"src": "Bloomberg",
-"kind": "market",
-"seen": "2026-11-21T05:38:43+00:00"
-},
-{
-"id": "d9f082e8a8fa",
-"t": "",
-"title": "S&P Upgrades Zambia as Robust Growth, Narrower Fiscal Gaps Seen",
-"url": "https://www.bloomberg.com/news/articles/2026-11-21/s-p-upgrades-zambia-as-robust-growth-narrower-fiscal-gaps-seen",
-"pub": "2026-11-21T05:00:35+00:00",
-"src": "Bloomberg",
-"kind": "market",
-"seen": "2026-11-21T05:38:43+00:00"
 }
 ]
 }
