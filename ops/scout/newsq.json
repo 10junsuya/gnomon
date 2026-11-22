@@ -1,18 +1,68 @@
 {
-"updated_kst": "2026-11-23 03:58",
-"rot": 13,
+"updated_kst": "2026-11-23 04:15",
+"rot": 73,
 "how": "Scout(프로그램)이 10분마다 모은 기사 제목·링크와 공시예요. Wren이 공식 출처로 확인한 뒤 회사 화면에 한국어로 반영해요. 본문은 받지 않아요.",
 "sources": {
 "Yahoo Finance": "120종목 확인 · 실패 0",
 "CNBC": "63건",
 "Bloomberg": "25건",
 "WSJ": "61건",
-"Reuters": "51건",
+"Reuters": "45건",
 "FinancialJuice": "100건",
 "SEC EDGAR": "실패 HTTPError",
 "Fox Business": "50건"
 },
 "items": [
+{
+"id": "487c0aa94290",
+"t": "MSFT",
+"title": "Bank of America sends strong signal to Microsoft stock investors",
+"url": "https://www.thestreet.com/investing/stocks/bank-of-america-sends-strong-signal-to-microsoft-stock-investors?.tsrc=rss",
+"pub": "2026-11-22T19:03:00+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-22T19:15:38+00:00"
+},
+{
+"id": "6293759807e9",
+"t": "MU",
+"title": "Stocks are 'on fire sale' as Anthropic IPO fails to calm AI trade jitters",
+"url": "https://finance.yahoo.com/markets/article/stocks-are-on-fire-sale-as-anthropic-ipo-fails-to-calm-ai-trade-jitters-190051253.html?.tsrc=rss",
+"pub": "2026-11-22T19:00:51+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-22T19:15:38+00:00"
+},
+{
+"id": "ed826976c880",
+"t": "MU",
+"title": "Micron Technology vs. Sandisk: Which Technology Stock Is a Better Buy for 2027?",
+"url": "https://www.fool.com/coverage/better-buy/2026/11/22/micron-technology-vs-sandisk-which-technology-stock-is-a-better-buy-for-2027/?.tsrc=rss",
+"pub": "2026-11-22T19:00:08+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-22T19:15:38+00:00"
+},
+{
+"id": "2945d1bf5b1d",
+"t": "NVDA",
+"title": "Palantir Stock Could Finish 2026 Lower. Its Only 2 Losing Years Ended Very Differently.",
+"url": "https://www.fool.com/investing/2026/11/22/palantir-stock-could-finish-2026-lower-its-only-2-losing-years-ended-very-differently/?.tsrc=rss",
+"pub": "2026-11-22T18:57:02+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-22T19:15:38+00:00"
+},
+{
+"id": "4b0ee852e781",
+"t": "SPCX",
+"title": "Why Saturday’s Historic Starship Catch Changes the Bull Case for SpaceX Stock",
+"url": "https://www.fool.com/investing/2026/11/22/why-saturday-s-historic-starship-catch-changes-the-bull-case-for-spacex-stock/?.tsrc=rss",
+"pub": "2026-11-22T18:50:02+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-22T19:15:38+00:00"
+},
 {
 "id": "42bb6dc8be1e",
 "t": "TSLA",
@@ -7294,6 +7344,16 @@
 "seen": "2026-11-20T21:44:59+00:00"
 },
 {
+"id": "52ba89debb89",
+"t": "INTC",
+"title": "Could Jensen Huang Land At Nvidia Rival Intel?",
+"url": "https://finance.yahoo.com/m/0f796a98-f9a0-3610-b88d-21a75faa2e7b/could-jensen-huang-land-at.html?.tsrc=rss",
+"pub": "2026-11-20T21:28:35+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-22T19:15:38+00:00"
+},
+{
 "id": "ae565d33822b",
 "t": "NVDA",
 "title": "Nvidia Stock Plunge Wipes Out Nearly $500 Billion in One Day as SEC Reportedly Probes Its Accounting",
@@ -7954,64 +8014,14 @@
 "seen": "2026-11-20T20:36:06+00:00"
 },
 {
-"id": "21176bec1e89",
-"t": "NVDA",
-"title": "Jensen Huang's exit is part of a troubling CEO scandal history",
-"url": "https://www.thestreet.com/personalities/jensen-huang-nvidia-ceo-scandal-exits?.tsrc=rss",
-"pub": "2026-11-20T20:13:00+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-20T20:36:06+00:00"
-},
-{
-"id": "435d782a96ee",
-"t": "COST",
-"title": "What the stock sell-off and bond-buying mean for mortgage rates",
-"url": "https://financialpost.com/real-estate/mortgages/mortgage-rates/what-the-stock-sell-off-and-bond-buying-mean-for-mortgage-rates/?.tsrc=rss",
-"pub": "2026-11-20T20:12:06+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-20T20:44:19+00:00"
-},
-{
-"id": "d1b19b086e51",
-"t": "SPCX",
-"title": "SpaceX’s New ‘Game Plan’ Could Pay Off, Says Top Analyst",
-"url": "https://finance.yahoo.com/technology/ai/articles/spacex-game-plan-could-pay-201104881.html?.tsrc=rss",
-"pub": "2026-11-20T20:11:04+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-20T20:36:06+00:00"
-},
-{
-"id": "b87fe56ab9d4",
-"t": "ILMN",
-"title": "Illumina (ILMN) Stock May Be A Bargain Despite Singapore Genome Win",
-"url": "https://finance.yahoo.com/markets/stocks/articles/illumina-ilmn-stock-may-bargain-201047649.html?.tsrc=rss",
-"pub": "2026-11-20T20:10:47+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-20T20:44:19+00:00"
-},
-{
-"id": "41d661c9b40e",
-"t": "GEN",
-"title": "Gen Digital (GEN) Could Be 5% Below Fair Value Following Digital Grid Cyber Focus",
-"url": "https://finance.yahoo.com/markets/stocks/articles/gen-digital-gen-could-5-201042689.html?.tsrc=rss",
-"pub": "2026-11-20T20:10:42+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-20T20:36:06+00:00"
-},
-{
-"id": "e44535840f38",
-"t": "WMT",
-"title": "Why BJ’s Wholesale Club and Lowe’s invest windfalls in their customers",
-"url": "https://www.customerexperiencedive.com/news/bjs-wholesale-club-lowes-invest-windfalls-in-customers/875386/?.tsrc=rss",
-"pub": "2026-11-20T20:05:17+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-20T20:44:19+00:00"
+"id": "bb031ac9d17a",
+"t": "",
+"title": "Goldman Traders See Entry Point in US Stocks But Warn of Risks",
+"url": "https://www.bloomberg.com/news/articles/2026-11-22/goldman-traders-see-entry-point-in-us-stocks-but-warn-of-risks",
+"pub": "2026-11-22T19:05:02+00:00",
+"src": "Bloomberg",
+"kind": "market",
+"seen": "2026-11-22T19:15:38+00:00"
 },
 {
 "id": "65e3884558e2",
@@ -8064,6 +8074,16 @@
 "seen": "2026-11-22T17:21:43+00:00"
 },
 {
+"id": "e7b93f370881",
+"t": "",
+"title": "More than 12 drone boats intercepted off Benghazi coast by Libyan naval and air forces, two Libyan military sources say",
+"url": "https://www.financialjuice.com/News/9863506/More-than-12-drone-boats-intercepted-off-Benghazi-coast-by-Libyan-naval-and-air-forces-two-Libyan-military-sources-say.aspx",
+"pub": "2026-11-22T17:18:51+00:00",
+"src": "FinancialJuice",
+"kind": "market",
+"seen": "2026-11-22T19:15:38+00:00"
+},
+{
 "id": "4962d0d88061",
 "t": "",
 "title": "Week Ahead Sentiment: Anthropic's IPO & Nvidia News Continues to Weigh on Sentiment - FJElite",
@@ -8074,6 +8094,16 @@
 "seen": "2026-11-22T17:21:43+00:00"
 },
 {
+"id": "1ccc30caab88",
+"t": "",
+"title": "Week Ahead Sentiment: Anthropic's IPO & Nvidia News Continues to Weigh on Sentiment - FJElite",
+"url": "https://www.financialjuice.com/News/9863505/Week-Ahead-Sentiment-Anthropics-IPO--Nvidia-News-Continues-to-Weigh-on-Sentiment---FJElite.aspx",
+"pub": "2026-11-22T17:17:54+00:00",
+"src": "FinancialJuice",
+"kind": "market",
+"seen": "2026-11-22T19:15:38+00:00"
+},
+{
 "id": "9d3eab05c65b",
 "t": "",
 "title": "Commercial vessel flying Maltese flag hit by suicide drone boat off Libya's Benghazi: two Libyan military sources",
@@ -8082,6 +8112,16 @@
 "src": "FinancialJuice",
 "kind": "market",
 "seen": "2026-11-22T17:21:43+00:00"
+},
+{
+"id": "cebeccec186e",
+"t": "",
+"title": "Commercial vessel flying Maltese flag hit by suicide drone boat off Libya's Benghazi: two Libyan military sources",
+"url": "https://www.financialjuice.com/News/9863504/Commercial-vessel-flying-Maltese-flag-hit-by-suicide-drone-boat-off-Libyas-Benghazi-two-Libyan-military-sources.aspx",
+"pub": "2026-11-22T17:17:23+00:00",
+"src": "FinancialJuice",
+"kind": "market",
+"seen": "2026-11-22T19:15:38+00:00"
 },
 {
 "id": "70bc10bc9058",
@@ -8134,6 +8174,16 @@
 "seen": "2026-11-22T16:44:48+00:00"
 },
 {
+"id": "f9e2691b2d24",
+"t": "",
+"title": "Yemen's Houthis: attack on Rabigh oil refinery on Saudi Arabia's western Red Sea coast",
+"url": "https://www.financialjuice.com/News/9863491/Yemens-Houthis-attack-on-Rabigh-oil-refinery-on-Saudi-Arabias-western-Red-Sea-coast.aspx",
+"pub": "2026-11-22T16:35:42+00:00",
+"src": "FinancialJuice",
+"kind": "market",
+"seen": "2026-11-22T19:15:38+00:00"
+},
+{
 "id": "52100f89d495",
 "t": "",
 "title": "By The Way: Headlines You May Have Missed",
@@ -8162,6 +8212,16 @@
 "src": "FinancialJuice",
 "kind": "market",
 "seen": "2026-11-22T16:13:46+00:00"
+},
+{
+"id": "108f3174d776",
+"t": "",
+"title": "Ukmto reports incident involving tanker and military forces in Gulf of Oman",
+"url": "https://www.financialjuice.com/News/9863476/Ukmto-reports-incident-involving-tanker-and-military-forces-in-Gulf-of-Oman.aspx",
+"pub": "2026-11-22T15:59:00+00:00",
+"src": "FinancialJuice",
+"kind": "market",
+"seen": "2026-11-22T19:15:38+00:00"
 },
 {
 "id": "f8a075353f50",
@@ -8194,6 +8254,26 @@
 "seen": "2026-11-22T15:45:03+00:00"
 },
 {
+"id": "6649b0da4067",
+"t": "",
+"title": "US Treasury Secretary Bessent: need to determine which level of Nvidia business was aware, confident committees are swiftly seeking answers - CBS",
+"url": "https://www.financialjuice.com/News/9863475/US-Treasury-Secretary-Bessent-need-to-determine-which-level-of-Nvidia-business-was-aware-confident-committees-are-swiftly-seeking-answers---CBS.aspx",
+"pub": "2026-11-22T15:41:28+00:00",
+"src": "FinancialJuice",
+"kind": "market",
+"seen": "2026-11-22T19:15:38+00:00"
+},
+{
+"id": "8dc0f16029c1",
+"t": "",
+"title": "US Treasury Secretary Bessent: we need to find where the buck stops",
+"url": "https://www.financialjuice.com/News/9863474/US-Treasury-Secretary-Bessent-we-need-to-find-where-the-buck-stops.aspx",
+"pub": "2026-11-22T15:41:28+00:00",
+"src": "FinancialJuice",
+"kind": "market",
+"seen": "2026-11-22T19:15:38+00:00"
+},
+{
 "id": "cb54e2d15eaa",
 "t": "",
 "title": "US Treasury Secretary Bessent: need to identify who led compliance at Nvidia - CBS",
@@ -8224,6 +8304,36 @@
 "seen": "2026-11-22T15:45:03+00:00"
 },
 {
+"id": "263d7f7f8223",
+"t": "",
+"title": "US Treasury Secretary Bessent: need to identify who led compliance at Nvidia - CBS",
+"url": "https://www.financialjuice.com/News/9863473/US-Treasury-Secretary-Bessent-need-to-identify-who-led-compliance-at-Nvidia---CBS.aspx",
+"pub": "2026-11-22T15:41:04+00:00",
+"src": "FinancialJuice",
+"kind": "market",
+"seen": "2026-11-22T19:15:38+00:00"
+},
+{
+"id": "24aac53e21b5",
+"t": "",
+"title": "US Treasury Secretary Bessent: what level of Nvidia business we need to see",
+"url": "https://www.financialjuice.com/News/9863472/US-Treasury-Secretary-Bessent-what-level-of-Nvidia-business-we-need-to-see.aspx",
+"pub": "2026-11-22T15:41:04+00:00",
+"src": "FinancialJuice",
+"kind": "market",
+"seen": "2026-11-22T19:15:38+00:00"
+},
+{
+"id": "b5504e8f8e08",
+"t": "",
+"title": "Knew about this, confident committees moving quickly to find answers: CBS",
+"url": "https://www.financialjuice.com/News/9863471/Knew-about-this-confident-committees-moving-quickly-to-find-answers-CBS.aspx",
+"pub": "2026-11-22T15:41:04+00:00",
+"src": "FinancialJuice",
+"kind": "market",
+"seen": "2026-11-22T19:15:38+00:00"
+},
+{
 "id": "b5f6d735af71",
 "t": "",
 "title": "Nutrien Ltd (NTR.TO) | Stock Price & Latest News - Reuters",
@@ -8242,6 +8352,16 @@
 "src": "FinancialJuice",
 "kind": "market",
 "seen": "2026-11-22T15:45:03+00:00"
+},
+{
+"id": "3b1637f2a37d",
+"t": "",
+"title": "US Treasury Secretary Bessent: no answers yet on Nvidia chip sales to China, we need clarity",
+"url": "https://www.financialjuice.com/News/9863470/US-Treasury-Secretary-Bessent-no-answers-yet-on-Nvidia-chip-sales-to-China-we-need-clarity.aspx",
+"pub": "2026-11-22T15:38:29+00:00",
+"src": "FinancialJuice",
+"kind": "market",
+"seen": "2026-11-22T19:15:38+00:00"
 },
 {
 "id": "ab495253f16b",
@@ -8324,6 +8444,16 @@
 "seen": "2026-11-22T13:43:54+00:00"
 },
 {
+"id": "e50cccce18a4",
+"t": "",
+"title": "Libya's eastern government: preliminary probe points to explosion on Russian vessel at Benghazi port, suspects drone strike - statement",
+"url": "https://www.financialjuice.com/News/9863433/Libyas-eastern-government-preliminary-probe-points-to-explosion-on-Russian-vessel-at-Benghazi-port-suspects-drone-strike---statement.aspx",
+"pub": "2026-11-22T13:42:38+00:00",
+"src": "FinancialJuice",
+"kind": "market",
+"seen": "2026-11-22T19:15:38+00:00"
+},
+{
 "id": "c2aecacfcd59",
 "t": "",
 "title": "Helport AI Ltd (HPAI.O) | Stock Price & Latest News - Reuters",
@@ -8402,6 +8532,16 @@
 "src": "Reuters",
 "kind": "market",
 "seen": "2026-11-22T17:21:43+00:00"
+},
+{
+"id": "19188c62ceac",
+"t": "",
+"title": "4544.J3 - | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPdWdwbWhzYUdWQkZiMkp1T1draFZnNko3MlN0SllXcTM0SmxLU2hjWUZMSTRoRjlvdllYSzU1SjhoaXlQVEpPR3lmT2hlczR4U0cwbHNvMVRudy0yTWw3YUllbHVjbVQwTlZETnhmd0xwcmdHMVR5ckc3bERLT3JKVlpIS3daUnFsS0kzVzFDQQ?oc=5",
+"pub": "2026-11-22T13:00:20+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-22T19:15:38+00:00"
 },
 {
 "id": "f36d27c5802b",
@@ -8544,6 +8684,16 @@
 "seen": "2026-11-22T13:06:08+00:00"
 },
 {
+"id": "7fad3a8d4bc1",
+"t": "",
+"title": "Anthropic sought six-month limits barring some bankers from joining rivals including OpenAI and DeepSeek, people said",
+"url": "https://www.financialjuice.com/News/9863410/Anthropic-sought-six-month-limits-barring-some-bankers-from-joining-rivals-including-OpenAI-and-DeepSeek-people-said.aspx",
+"pub": "2026-11-22T12:53:48+00:00",
+"src": "FinancialJuice",
+"kind": "market",
+"seen": "2026-11-22T19:15:38+00:00"
+},
+{
 "id": "3337d1d2f699",
 "t": "",
 "title": "Anthropic requested some IPO banks to restrict deal teams to four senior bankers, people said",
@@ -8554,6 +8704,16 @@
 "seen": "2026-11-22T13:06:08+00:00"
 },
 {
+"id": "2042c33be101",
+"t": "",
+"title": "Anthropic requested some IPO banks to restrict deal teams to four senior bankers, people said",
+"url": "https://www.financialjuice.com/News/9863409/Anthropic-requested-some-IPO-banks-to-restrict-deal-teams-to-four-senior-bankers-people-said.aspx",
+"pub": "2026-11-22T12:53:46+00:00",
+"src": "FinancialJuice",
+"kind": "market",
+"seen": "2026-11-22T19:15:38+00:00"
+},
+{
 "id": "73607c0cc855",
 "t": "",
 "title": "Bankers said anthropic's IPO was plagued by last-minute changes, hurried approvals and unusual leak concerns, people familiar with the matter said",
@@ -8562,6 +8722,16 @@
 "src": "FinancialJuice",
 "kind": "market",
 "seen": "2026-11-22T13:06:08+00:00"
+},
+{
+"id": "638019ec8980",
+"t": "",
+"title": "Bankers said anthropic's IPO was plagued by last-minute changes, hurried approvals and unusual leak concerns, people familiar with the matter said",
+"url": "https://www.financialjuice.com/News/9863408/Bankers-said-anthropics-IPO-was-plagued-by-last-minute-changes-hurried-approvals-and-unusual-leak-concerns-people-familiar-with-the-matter-said.aspx",
+"pub": "2026-11-22T12:53:45+00:00",
+"src": "FinancialJuice",
+"kind": "market",
+"seen": "2026-11-22T19:15:38+00:00"
 },
 {
 "id": "eea5c88a94ac",
@@ -8934,6 +9104,16 @@
 "seen": "2026-11-22T05:44:26+00:00"
 },
 {
+"id": "49acd1d787e8",
+"t": "",
+"title": "Korean Won/Swiss Franc FX Cross Rate (KRWCHF=X) | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE80OEdETXZxWXpndF9aQWZ1MkUzM3pQT3c0bnZ0dGx1U3Z1SG14eXpOMDdQTXBsYXdEVzVtODRHR1VaMVk4ZElwMHBnbE5JOGNwWXEwYjE4Zk5LQ2llZFdYOUtUMXdhNnVRUk9uWHhjdw?oc=5",
+"pub": "2026-11-22T02:49:10+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-22T19:15:38+00:00"
+},
+{
 "id": "571d6ce54b8c",
 "t": "",
 "title": "CAR Group Limited (WN61y.F) | Stock Price & Latest News - Reuters",
@@ -9002,6 +9182,16 @@
 "src": "Reuters",
 "kind": "market",
 "seen": "2026-11-22T07:56:09+00:00"
+},
+{
+"id": "b1cd99b2f344",
+"t": "",
+"title": "2DJ.LAS - | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPMy1VOVNiREFJaHNOLWxObzgycEl0Xzh0VXREanJvVXNqY2kwbF9oZ3JHWllPVG0weWVYWTMyVGFVVlU0X0Y0OEJ6eklKWVJhWUVYTlAxdi1DaVJmRkVHZUlybjdVcDdRR0R6SVRjbUd0Nk9KOXlDWndQY1hpUFhrN3RKSUQ?oc=5",
+"pub": "2026-11-22T01:20:44+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-22T19:15:38+00:00"
 },
 {
 "id": "ef7dcc4efa8b",
@@ -10822,196 +11012,6 @@
 "src": "Reuters",
 "kind": "market",
 "seen": "2026-11-21T18:44:40+00:00"
-},
-{
-"id": "a6729be57e93",
-"t": "",
-"title": "KYG989221000.TWEA%5EJ22 - | Stock Price & Latest News - Reuters",
-"url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQbnJGb3Z2aWZPSUMzOUdRRmIzTTZmcXZCTWlhZlZDNEQ5ZEw5R2lmSEI1MnFvRDgxRXZxb0o1OHR4NUYwb1FhdGZmUE43UFVXeEk5TVE2Zml3SzNUN2ZaSWZlcmN4VVh1WnQtV3RGazRjTWR4aXotN3IyVDRhT1hmN3VubUJCSmNwZGxqX29B?oc=5",
-"pub": "2026-11-21T12:42:28+00:00",
-"src": "Reuters",
-"kind": "market",
-"seen": "2026-11-21T19:44:12+00:00"
-},
-{
-"id": "8703383e15e1",
-"t": "",
-"title": "KYG989221000.TWEA%5EJ22 - | Stock Price & Latest News - Reuters",
-"url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQelNJQ1NhQlk1a2dfWTNTZWgtdkJZNzJoVjhoT0R6Zkt2TU9zZ08xSlUyTVNXTlFMSGVTTXEtR2R1SmRxQ09COVlnQnRUTWliM0cyZy1sZEt0M29FY1htNnJLb2c5R0s5Zy1LZ2VGSUtrR0VkYnYxUC1TMWttY0Zydy0xQXpGbGdZb2ZQRg?oc=5",
-"pub": "2026-11-21T12:42:28+00:00",
-"src": "Reuters",
-"kind": "market",
-"seen": "2026-11-22T01:43:56+00:00"
-},
-{
-"id": "e4357f774786",
-"t": "",
-"title": "3020.J3 - | Stock Price & Latest News - Reuters",
-"url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9CTmlTbzdmZm9oNGlVMC0xUnFBVmhmUVluSWs5TUdPRk9paDVGUFhITDI5YkI0STlHY3dWZ1BGS1FPN01EYWVnME4zMmcwQnhCNjgwZHNPT2pYWXpzVTFFZXA4OXJCZ1BCdGowRXptNA?oc=5",
-"pub": "2026-11-21T12:41:38+00:00",
-"src": "Reuters",
-"kind": "market",
-"seen": "2026-11-21T16:14:06+00:00"
-},
-{
-"id": "1045c331418f",
-"t": "",
-"title": "3020.J3 - | Stock Price & Latest News - Reuters",
-"url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBpOVUtX0ducVhXcnJzbmFNTWU1LTk0R0FCNmRoZU5TWUlaSEFBT2xBYkJ4YWJjVjE1N1dZQW5hLUdob3ZuM1VkNTNyN28zMWhQZnhqaHZNVTJzWjBHU0F0UDJvMU9MdUdnNXdmWWdR?oc=5",
-"pub": "2026-11-21T12:41:38+00:00",
-"src": "Reuters",
-"kind": "market",
-"seen": "2026-11-22T01:43:56+00:00"
-},
-{
-"id": "3c9a54f682e5",
-"t": "",
-"title": "BRBI BR Partners SA (BRBI.O) | Stock Price & Latest News - Reuters",
-"url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5BSFA5ekhDMVIzNzRmT2JzbHFiek04MzR5dnZmR0hrMGk5SDRGVDd1eVlQU0RJZkVTUTR3M1dvRUN3RzBwaGp5OFZOaVRzRjBtaktpOWxlRXk5MXNSMkMtOUtSbk8zY1pxWTBseEV3?oc=5",
-"pub": "2026-11-21T12:38:32+00:00",
-"src": "Reuters",
-"kind": "market",
-"seen": "2026-11-21T21:31:18+00:00"
-},
-{
-"id": "89e4b4098e00",
-"t": "",
-"title": "WisdomTree Europe SmallCap Dividend Fund (DFE.N) | Stock Price & Latest News - Reuters",
-"url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBUaHJwT000d1Y3UjRUa09fMU9FTWFOeEpycTBrUmtVUjRFMXZPN0ZxUlZfckVhZmtsTXdXOUJDVEd4YnlBTmpQSTVRemRIQXdSdDRFQ0R0MGRUeGdVaThFd0Rxc3IwOEFQSnc?oc=5",
-"pub": "2026-11-21T12:36:46+00:00",
-"src": "Reuters",
-"kind": "market",
-"seen": "2026-11-21T23:14:30+00:00"
-},
-{
-"id": "1bf4a7e9fcd6",
-"t": "",
-"title": "MBBC.O - Reuters",
-"url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE0tamhfczlZZVZOaVEwdXFES1h0VkVUNUJfclF4VHE2S295UHJRX2FObDBpcmVkSTFYR1BYbDUwWncySHBnYlBCNTBCQlprXzJ6WHdOTHFGOGp2SVdBeTFVYlFPaDdQUGY0TzR5OVJn?oc=5",
-"pub": "2026-11-21T12:35:43+00:00",
-"src": "Reuters",
-"kind": "market",
-"seen": "2026-11-21T15:10:04+00:00"
-},
-{
-"id": "6a396d195da8",
-"t": "",
-"title": "Equitable Holdings Inc (EQH_pa) | Stock Price & Latest News - Reuters",
-"url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8zTmlFamZYbW5IcVlVQ1RsVzI4U2NpZW83QjJzdnJwTzE4OGVkdTV6OEVpMEdMWVZqYVJGbi1mbmJxRDdxYkpaZHZEbW95TmttNHhNOExqRTBla1NwRFdua04tM2RqbGJqTjNj?oc=5",
-"pub": "2026-11-21T12:34:27+00:00",
-"src": "Reuters",
-"kind": "market",
-"seen": "2026-11-21T19:44:12+00:00"
-},
-{
-"id": "f34d3c4dbb89",
-"t": "",
-"title": "THO.TH - Reuters",
-"url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNS1A0RW5vTVRLTVRLX0Naa1dYZUVLMGpIdk40bWpxU2U4U0Qxc0dtU05ORl9JZWF2NVRGWm9sQTd2bHpUenJoRHljUjBINnM0VXVMR3ZPSms3SVJnSlloN18yWTRFUl91aDR5UEMxTktPdm5SRWN2azRUdjY0a1REeU9wcTMwc3FoaVRkdTlMcw?oc=5",
-"pub": "2026-11-21T12:30:07+00:00",
-"src": "Reuters",
-"kind": "market",
-"seen": "2026-11-22T03:43:59+00:00"
-},
-{
-"id": "7fd7be14e1b2",
-"t": "",
-"title": "White House reduces special status allowing staffers to remain in private sector - WSJ",
-"url": "https://www.financialjuice.com/News/9862973/White-House-reduces-special-status-allowing-staffers-to-remain-in-private-sector---WSJ.aspx?xy=rss",
-"pub": "2026-11-21T12:18:34+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-21T12:43:42+00:00"
-},
-{
-"id": "56efbb5e0712",
-"t": "",
-"title": "White House reduces special status allowing staffers to remain in private sector - WSJ",
-"url": "https://www.financialjuice.com/News/9862973/White-House-reduces-special-status-allowing-staffers-to-remain-in-private-sector---WSJ.aspx",
-"pub": "2026-11-21T12:18:34+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-21T19:14:53+00:00"
-},
-{
-"id": "7ea093412264",
-"t": "",
-"title": "Zelenskiy: China summit was very unsuccessful for Russia",
-"url": "https://www.financialjuice.com/News/9862959/Zelenskiy-China-summit-was-very-unsuccessful-for-Russia.aspx?xy=rss",
-"pub": "2026-11-21T11:56:29+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-21T12:10:49+00:00"
-},
-{
-"id": "6d67dd4f404d",
-"t": "",
-"title": "Zelenskiy: China summit was very unsuccessful for Russia",
-"url": "https://www.financialjuice.com/News/9862959/Zelenskiy-China-summit-was-very-unsuccessful-for-Russia.aspx",
-"pub": "2026-11-21T11:56:29+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-21T19:14:53+00:00"
-},
-{
-"id": "9f798df6165d",
-"t": "",
-"title": "Zelenskiy: too early to tell if Ukraine will join Nato when war ends",
-"url": "https://www.financialjuice.com/News/9862951/Zelenskiy-too-early-to-tell-if-Ukraine-will-join-Nato-when-war-ends.aspx?xy=rss",
-"pub": "2026-11-21T11:47:08+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-21T12:10:49+00:00"
-},
-{
-"id": "cc2ff9042f06",
-"t": "",
-"title": "Zelenskiy: too early to tell if Ukraine will join Nato when war ends",
-"url": "https://www.financialjuice.com/News/9862951/Zelenskiy-too-early-to-tell-if-Ukraine-will-join-Nato-when-war-ends.aspx",
-"pub": "2026-11-21T11:47:08+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-21T19:14:53+00:00"
-},
-{
-"id": "e41db561ff2d",
-"t": "",
-"title": "New US AI Chip Rules Against China Threaten Pain for Southeast Asia",
-"url": "https://www.bloomberg.com/news/newsletters/2026-11-21/new-us-ai-chip-rules-against-china-threaten-pain-for-southeast-asia",
-"pub": "2026-11-21T11:45:01+00:00",
-"src": "Bloomberg",
-"kind": "market",
-"seen": "2026-11-21T12:10:49+00:00"
-},
-{
-"id": "8e72c71d3f21",
-"t": "",
-"title": "Russia Says Cargo Ship Attacked By Drones in Gulf of Finland",
-"url": "https://www.bloomberg.com/news/articles/2026-11-21/russia-says-cargo-ship-attacked-by-drones-in-gulf-of-finland",
-"pub": "2026-11-21T11:44:46+00:00",
-"src": "Bloomberg",
-"kind": "market",
-"seen": "2026-11-21T12:10:49+00:00"
-},
-{
-"id": "0e53ea4a3150",
-"t": "",
-"title": "BNP Paribas SA (BNPP.PA) | Stock Price & Latest News - Reuters",
-"url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE05Rk9DM2FKTURON3JhZm9UbDE2ekJ6UkFOUUw1alFpbUNmVTBkdVhEcUFZblF3VEU1dnpfVGpGNkNEMmhrWE1WdTdRTTY0WDFpcnhSZG9ZWG05YnRWSi1Z?oc=5",
-"pub": "2026-11-21T11:42:12+00:00",
-"src": "Reuters",
-"kind": "market",
-"seen": "2026-11-21T13:15:23+00:00"
-},
-{
-"id": "f3cf6013ce63",
-"t": "",
-"title": "Los Angeles Port Strike Threat Resolved With Tentative Agreement",
-"url": "https://www.bloomberg.com/news/articles/2026-11-21/los-angeles-port-strike-threat-resolved-with-tentative-agreement",
-"pub": "2026-11-21T11:22:06+00:00",
-"src": "Bloomberg",
-"kind": "market",
-"seen": "2026-11-22T06:41:39+00:00"
 }
 ]
 }
