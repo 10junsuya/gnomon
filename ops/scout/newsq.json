@@ -1,5 +1,5 @@
 {
-"updated_kst": "2026-11-23 00:43",
+"updated_kst": "2026-11-23 00:45",
 "rot": 129,
 "how": "Scout(프로그램)이 10분마다 모은 기사 제목·링크와 공시예요. Wren이 공식 출처로 확인한 뒤 회사 화면에 한국어로 반영해요. 본문은 받지 않아요.",
 "sources": {
@@ -7,12 +7,22 @@
 "CNBC": "63건",
 "Bloomberg": "21건",
 "WSJ": "61건",
-"Reuters": "40건",
+"Reuters": "42건",
 "FinancialJuice": "100건",
 "SEC EDGAR": "실패 HTTPError",
 "Fox Business": "50건"
 },
 "items": [
+{
+"id": "2faa82ccdf98",
+"t": "SPCX",
+"title": "Anthropic’s Record-Breaking IPO Comes With a $1 Trillion Financial Burden Wall Street Can’t Ignore",
+"url": "https://247wallst.com/investing/2026/11/22/anthropics-record-breaking-ipo-comes-with-a-1-trillion-financial-burden-wall-street-cant-ignore/?.tsrc=rss",
+"pub": "2026-11-22T15:36:13+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-22T15:45:03+00:00"
+},
 {
 "id": "aacd7e587120",
 "t": "NVDA",
@@ -21,7 +31,7 @@
 "pub": "2026-11-22T15:13:02+00:00",
 "src": "Yahoo Finance",
 "kind": "news",
-"seen": "2026-11-22T15:43:58+00:00"
+"seen": "2026-11-22T15:45:03+00:00"
 },
 {
 "id": "c26598d8b484",
@@ -31,7 +41,7 @@
 "pub": "2026-11-22T15:08:05+00:00",
 "src": "Yahoo Finance",
 "kind": "news",
-"seen": "2026-11-22T15:43:58+00:00"
+"seen": "2026-11-22T15:45:03+00:00"
 },
 {
 "id": "544f00e301c2",
@@ -41,7 +51,7 @@
 "pub": "2026-11-22T15:07:00+00:00",
 "src": "Yahoo Finance",
 "kind": "news",
-"seen": "2026-11-22T15:43:58+00:00"
+"seen": "2026-11-22T15:45:03+00:00"
 },
 {
 "id": "85efdb16bc45",
@@ -51,7 +61,7 @@
 "pub": "2026-11-22T15:05:23+00:00",
 "src": "Yahoo Finance",
 "kind": "news",
-"seen": "2026-11-22T15:43:58+00:00"
+"seen": "2026-11-22T15:45:03+00:00"
 },
 {
 "id": "cc0fbff26db8",
@@ -871,7 +881,7 @@
 "pub": "2026-11-22T10:19:12+00:00",
 "src": "Yahoo Finance",
 "kind": "news",
-"seen": "2026-11-22T15:43:58+00:00"
+"seen": "2026-11-22T15:45:03+00:00"
 },
 {
 "id": "d2ec897250e3",
@@ -1511,7 +1521,7 @@
 "pub": "2026-11-22T00:47:32+00:00",
 "src": "Yahoo Finance",
 "kind": "news",
-"seen": "2026-11-22T15:43:58+00:00"
+"seen": "2026-11-22T15:45:03+00:00"
 },
 {
 "id": "73c5c956bb89",
@@ -8004,16 +8014,6 @@
 "seen": "2026-11-20T19:14:18+00:00"
 },
 {
-"id": "3588252cd039",
-"t": "NVDA",
-"title": "Berkshire Hathaway Is Up 14% in 2026 While the NASDAQ 100 Has Gone Nowhere. Is It Time to Dump Tech Stocks and Buy Berkshire?",
-"url": "https://247wallst.com/investing/2026/11/20/berkshire-hathaway-is-up-14-in-2026-while-the-nasdaq-100-has-gone-nowhere-is-it-time-to-dump-tech-stocks-and-buy-berkshire/?.tsrc=rss",
-"pub": "2026-11-20T18:52:53+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-20T19:14:18+00:00"
-},
-{
 "id": "eef13c3d837d",
 "t": "",
 "title": "US Treasury Secretary Bessent: need to determine which level of Nvidia business was aware, confident committees are swiftly seeking answers - CBS",
@@ -8021,7 +8021,7 @@
 "pub": "2026-11-22T15:41:28+00:00",
 "src": "FinancialJuice",
 "kind": "market",
-"seen": "2026-11-22T15:43:58+00:00"
+"seen": "2026-11-22T15:45:03+00:00"
 },
 {
 "id": "65a948f8ebff",
@@ -8031,7 +8031,7 @@
 "pub": "2026-11-22T15:41:28+00:00",
 "src": "FinancialJuice",
 "kind": "market",
-"seen": "2026-11-22T15:43:58+00:00"
+"seen": "2026-11-22T15:45:03+00:00"
 },
 {
 "id": "cb54e2d15eaa",
@@ -8041,7 +8041,7 @@
 "pub": "2026-11-22T15:41:04+00:00",
 "src": "FinancialJuice",
 "kind": "market",
-"seen": "2026-11-22T15:43:58+00:00"
+"seen": "2026-11-22T15:45:03+00:00"
 },
 {
 "id": "10168c8e68e8",
@@ -8051,7 +8051,7 @@
 "pub": "2026-11-22T15:41:04+00:00",
 "src": "FinancialJuice",
 "kind": "market",
-"seen": "2026-11-22T15:43:58+00:00"
+"seen": "2026-11-22T15:45:03+00:00"
 },
 {
 "id": "bd655bdffd60",
@@ -8061,7 +8061,7 @@
 "pub": "2026-11-22T15:41:04+00:00",
 "src": "FinancialJuice",
 "kind": "market",
-"seen": "2026-11-22T15:43:58+00:00"
+"seen": "2026-11-22T15:45:03+00:00"
 },
 {
 "id": "f3d3dd32fe8b",
@@ -8071,7 +8071,7 @@
 "pub": "2026-11-22T15:38:29+00:00",
 "src": "FinancialJuice",
 "kind": "market",
-"seen": "2026-11-22T15:43:58+00:00"
+"seen": "2026-11-22T15:45:03+00:00"
 },
 {
 "id": "ab495253f16b",
@@ -8081,7 +8081,7 @@
 "pub": "2026-11-22T15:18:13+00:00",
 "src": "Bloomberg",
 "kind": "market",
-"seen": "2026-11-22T15:43:58+00:00"
+"seen": "2026-11-22T15:45:03+00:00"
 },
 {
 "id": "e791d01d2b6f",
@@ -8091,7 +8091,7 @@
 "pub": "2026-11-22T15:00:00+00:00",
 "src": "Bloomberg",
 "kind": "market",
-"seen": "2026-11-22T15:43:58+00:00"
+"seen": "2026-11-22T15:45:03+00:00"
 },
 {
 "id": "9020aeaad346",
@@ -8101,7 +8101,7 @@
 "pub": "2026-11-22T14:47:30+00:00",
 "src": "Bloomberg",
 "kind": "market",
-"seen": "2026-11-22T15:43:58+00:00"
+"seen": "2026-11-22T15:45:03+00:00"
 },
 {
 "id": "01aedb7040e6",
@@ -8234,34 +8234,14 @@
 "seen": "2026-11-22T15:14:28+00:00"
 },
 {
-"id": "e37faf35dde7",
+"id": "3f79263738d2",
 "t": "",
-"title": "4956.JNX - | Stock Price & Latest News - Reuters",
-"url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNVHlNYWNJSTBHM1JLay1JcDlzNm9hOFlxNEVWOFdKUm85eW53WDlsaFcxanlhQTduSTVmYnozY0Uzb1hVYVFoTUFpRUJJX0JHV3psZ2ZHTFgwRjRubjN6d282SGhWcDlsanFxTVcwY2xzOWI5NmF5X2VJYkRFODJCZHFWRTMzQUU?oc=5",
-"pub": "2026-11-22T12:57:10+00:00",
+"title": "Sarepta Therapeutics, Inc. (AB3A.H) | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9SSk81ajNmcmVVVlZMbVpkUC01Y3lMMk1KYjdLd2hTNFVjRkc3aEZxWUhtQVZVM3RHazNtTVNVa3lmQTFLSVViV05DbnlOaF95ajJmSWpoN0JmV3hMVUE?oc=5",
+"pub": "2026-11-22T12:56:06+00:00",
 "src": "Reuters",
 "kind": "market",
-"seen": "2026-11-22T15:43:58+00:00"
-},
-{
-"id": "8cd4bfe1e581",
-"t": "",
-"title": "QGEN.DY - Reuters",
-"url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBvMjJpQzdOekhzU2V3VkdjY3RFb3JPVzlDU3FkdUNleHVGQVVJcHB5b2hoUFBCOXFxUzVjV2FpRzdOQjFuUGNGR1piaHdvMU1NMFo1V1BTV3ZuZXNORGNQRG5YVFZ0QWZBZXVGdHVR?oc=5",
-"pub": "2026-11-22T12:56:09+00:00",
-"src": "Reuters",
-"kind": "market",
-"seen": "2026-11-22T15:43:58+00:00"
-},
-{
-"id": "82d8b5519f46",
-"t": "",
-"title": "SBZ.AX - | Stock Price & Latest News - Reuters",
-"url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE05WnBIOEUyZXo0TC1sUmctRGE0R3BHVTZxNnd1bzNVRDRKYXJUamtDVEtYNjQxbjJZSDlxSmVtVmhIQ3E4TUFQcDlQaXZWdzVxSlI2Q2NxaWtwc2N3LUtRQWwwbTcyYU12UGFWR2R1cw?oc=5",
-"pub": "2026-11-22T12:55:20+00:00",
-"src": "Reuters",
-"kind": "market",
-"seen": "2026-11-22T15:43:58+00:00"
+"seen": "2026-11-22T15:45:03+00:00"
 },
 {
 "id": "2a2a49dd2b86",
@@ -8312,6 +8292,16 @@
 "src": "FinancialJuice",
 "kind": "market",
 "seen": "2026-11-22T13:06:08+00:00"
+},
+{
+"id": "3fd2ebfe9950",
+"t": "",
+"title": "7414.JSF - | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQZEZhUTZrSHVNS3FiTl8yX1pmVDNnZEczLWxqTXhfdFBmcnUwRnNHcjdnUlR2MTljSVVVRExPcV9hRzJHRS1vSGgzOEtFdzVBSTA1NnZMY3lWX2VhdnBHMWtFTmtWWktQNmIzZE9VQ0p3bUctc0NGMWptNUFDOWlLYjFYUU5DOFFfNjU4NmRJQnROdw?oc=5",
+"pub": "2026-11-22T12:50:20+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-22T15:45:03+00:00"
 },
 {
 "id": "5a3ba6ae7b31",
@@ -8444,6 +8434,16 @@
 "seen": "2026-11-22T10:14:19+00:00"
 },
 {
+"id": "146d610231dc",
+"t": "",
+"title": "CTVA.ZY - Reuters",
+"url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1fa1R6ejRLdDd3T3pFUW9pVlhFR0xTa1otTXRkOEs1SjlYSmJueGlYWGpucjJVT0pPWUVvTTBqaVE2TWpiTk1CMUctZktHb1JuQk1jTkdTUnRxTnpmc3NSVU9nNU1vRHBnR0pGTE9R?oc=5",
+"pub": "2026-11-22T08:49:22+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-22T15:45:03+00:00"
+},
+{
 "id": "c1739ad86740",
 "t": "",
 "title": "CaSy Co Ltd (9215.T) | Stock Price & Latest News - Reuters",
@@ -8494,16 +8494,6 @@
 "seen": "2026-11-22T08:14:33+00:00"
 },
 {
-"id": "e2ada545d6fa",
-"t": "",
-"title": "002270.SZ - | Stock Price & Latest News - Reuters",
-"url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9UUVlXQW1LTTVHMHZVSjYtZUhsakFFeHFVZlhKN2JJLWZPX1plWGtCVXAtSVB0MExzYjU3UW1xN1E0d09xU0tUTEYtbHpwY1pKUGxneWRLMnZOODNVZldZOUtmNUNLQU5mYkM0WHVyMzFFSUxKRXhkRzdmZHE?oc=5",
-"pub": "2026-11-22T06:50:15+00:00",
-"src": "Reuters",
-"kind": "market",
-"seen": "2026-11-22T15:43:58+00:00"
-},
-{
 "id": "c81bd239b32c",
 "t": "",
 "title": "6498JPY.JPx - Reuters",
@@ -8512,16 +8502,6 @@
 "src": "Reuters",
 "kind": "market",
 "seen": "2026-11-22T11:21:57+00:00"
-},
-{
-"id": "c6b3cb28cc0a",
-"t": "",
-"title": "6498JPY.JPx - Reuters",
-"url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9rX25COTJyWm10eWk5M242UTFpWU9HLXZXck8xbmY3eVlXU05ZZnZEa29MUGwyNnEyZ0RUck5UaWFGcUNRYWtScFQyUkFFYkthdGM2ZUVpZFpMa2ZxazhGT0daVnRhUnNxOEMzazRpaVk4cE0?oc=5",
-"pub": "2026-11-22T05:25:26+00:00",
-"src": "Reuters",
-"kind": "market",
-"seen": "2026-11-22T15:43:58+00:00"
 },
 {
 "id": "f640d09cf0ba",
@@ -8624,16 +8604,6 @@
 "seen": "2026-11-22T07:56:09+00:00"
 },
 {
-"id": "b6436e60e2fd",
-"t": "",
-"title": "0255.BE%5EA12 - | Stock Price & Latest News - Reuters",
-"url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9CdWRhTW1fQmsxeFkwNHZPN3Fjc2gwN2YzSEFicEFfWkFBU256QzBrUGVLLVdKNHdQT242ZDRtRE1Yb3Z4ZUFmMko0YmF5V3VpUm11bnQtZ3hCbHpKTlZ1bm5SQU1kTk90X1ZhN2pGX0tTdw?oc=5",
-"pub": "2026-11-22T02:55:19+00:00",
-"src": "Reuters",
-"kind": "market",
-"seen": "2026-11-22T15:43:58+00:00"
-},
-{
 "id": "b2af1f79a699",
 "t": "",
 "title": "MGNM.NS - Reuters",
@@ -8722,16 +8692,6 @@
 "src": "Reuters",
 "kind": "market",
 "seen": "2026-11-22T07:56:09+00:00"
-},
-{
-"id": "b1cd99b2f344",
-"t": "",
-"title": "2DJ.LAS - | Stock Price & Latest News - Reuters",
-"url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPMy1VOVNiREFJaHNOLWxObzgycEl0Xzh0VXREanJvVXNqY2kwbF9oZ3JHWllPVG0weWVYWTMyVGFVVlU0X0Y0OEJ6eklKWVJhWUVYTlAxdi1DaVJmRkVHZUlybjdVcDdRR0R6SVRjbUd0Nk9KOXlDWndQY1hpUFhrN3RKSUQ?oc=5",
-"pub": "2026-11-22T01:20:44+00:00",
-"src": "Reuters",
-"kind": "market",
-"seen": "2026-11-22T15:43:58+00:00"
 },
 {
 "id": "ef7dcc4efa8b",
@@ -11009,6 +10969,46 @@
 "title": "EU's von der Leyen: Russia's hybrid threats are becoming more real, less hybrid; we have tools to respond",
 "url": "https://www.financialjuice.com/News/9862908/EUs-von-der-Leyen-Russias-hybrid-threats-are-becoming-more-real-less-hybrid-we-have-tools-to-respond.aspx?xy=rss",
 "pub": "2026-11-21T08:46:45+00:00",
+"src": "FinancialJuice",
+"kind": "market",
+"seen": "2026-11-21T08:50:41+00:00"
+},
+{
+"id": "e1bcdc1aca80",
+"t": "",
+"title": "EU's von der Leyen: Russia's hybrid threats are becoming more real, less hybrid; we have tools to respond",
+"url": "https://www.financialjuice.com/News/9862908/EUs-von-der-Leyen-Russias-hybrid-threats-are-becoming-more-real-less-hybrid-we-have-tools-to-respond.aspx",
+"pub": "2026-11-21T08:46:45+00:00",
+"src": "FinancialJuice",
+"kind": "market",
+"seen": "2026-11-21T19:14:53+00:00"
+},
+{
+"id": "a1bd63aa2d89",
+"t": "",
+"title": "EU's Von der Leyen: we stand in full solidarity with Denmark",
+"url": "https://www.financialjuice.com/News/9862907/EUs-Von-der-Leyen-we-stand-in-full-solidarity-with-Denmark.aspx?xy=rss",
+"pub": "2026-11-21T08:45:51+00:00",
+"src": "FinancialJuice",
+"kind": "market",
+"seen": "2026-11-21T08:50:41+00:00"
+},
+{
+"id": "a9dfa3619527",
+"t": "",
+"title": "EU's Von der Leyen: we stand in full solidarity with Denmark",
+"url": "https://www.financialjuice.com/News/9862907/EUs-Von-der-Leyen-we-stand-in-full-solidarity-with-Denmark.aspx",
+"pub": "2026-11-21T08:45:51+00:00",
+"src": "FinancialJuice",
+"kind": "market",
+"seen": "2026-11-21T19:14:53+00:00"
+},
+{
+"id": "0ecf2b695b9e",
+"t": "",
+"title": "EU's Von Der Leyen: strongly condemn assassination attempt on US-Ukrainian citizen in Denmark by Russian intelligence services",
+"url": "https://www.financialjuice.com/News/9862906/EUs-Von-Der-Leyen-strongly-condemn-assassination-attempt-on-US-Ukrainian-citizen-in-Denmark-by-Russian-intelligence-services.aspx?xy=rss",
+"pub": "2026-11-21T08:45:37+00:00",
 "src": "FinancialJuice",
 "kind": "market",
 "seen": "2026-11-21T08:50:41+00:00"
