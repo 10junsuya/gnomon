@@ -1,11 +1,11 @@
 {
-"updated_kst": "2026-11-23 01:13",
-"rot": 10,
+"updated_kst": "2026-11-23 01:30",
+"rot": 70,
 "how": "Scout(프로그램)이 10분마다 모은 기사 제목·링크와 공시예요. Wren이 공식 출처로 확인한 뒤 회사 화면에 한국어로 반영해요. 본문은 받지 않아요.",
 "sources": {
 "Yahoo Finance": "120종목 확인 · 실패 0",
 "CNBC": "63건",
-"Bloomberg": "22건",
+"Bloomberg": "24건",
 "WSJ": "61건",
 "Reuters": "46건",
 "FinancialJuice": "100건",
@@ -13,6 +13,66 @@
 "Fox Business": "50건"
 },
 "items": [
+{
+"id": "ce2dac18f5ae",
+"t": "NVDA",
+"title": "What do the U.S. midterms mean for investors?",
+"url": "https://finance.yahoo.com/markets/stocks/articles/u-midterms-mean-investors-162618596.html?.tsrc=rss",
+"pub": "2026-11-22T16:26:18+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-22T16:30:23+00:00"
+},
+{
+"id": "1e474b94c53b",
+"t": "NVDA",
+"title": "2 Utility Stocks With Reliable Dividends to Hold for the Next 5 Years",
+"url": "https://www.fool.com/investing/2026/11/22/2-utility-stocks-with-reliable-dividends-to-hold-for-the-next-5-years/?.tsrc=rss",
+"pub": "2026-11-22T16:20:02+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-22T16:30:23+00:00"
+},
+{
+"id": "fbd80309976a",
+"t": "GOOGL",
+"title": "Anthropic Drove “the Entire Acceleration in AWS and Google Cloud,” per Gil Luria. That’s a Big Risk for Amazon and Alphabet",
+"url": "https://www.tikr.com/blog/anthropic-drove-the-entire-acceleration-in-aws-and-google-cloud-per-gil-luria-thats-a-big-risk-for-amazon-and-alphabet?ref=yahoofinance&tlnk=yf-261122-rqv8x2vc&.tsrc=rss",
+"pub": "2026-11-22T16:09:13+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-22T16:30:23+00:00"
+},
+{
+"id": "80f91b39d63d",
+"t": "MSFT",
+"title": "Is Microsoft (MSFT) Building A Bigger AI Role In Scientific Labs?",
+"url": "https://finance.yahoo.com/technology/ai/articles/microsoft-msft-building-bigger-ai-160715680.html?.tsrc=rss",
+"pub": "2026-11-22T16:07:15+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-22T16:30:23+00:00"
+},
+{
+"id": "cbdc974991e7",
+"t": "NEE",
+"title": "NextEra Energy Is Slowing Dividend Growth From 10% to 6%. Here’s Why",
+"url": "https://247wallst.com/investing/2026/11/22/nextera-energy-is-slowing-dividend-growth-from-10-to-6-heres-why/?.tsrc=rss",
+"pub": "2026-11-22T16:07:06+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-22T16:30:23+00:00"
+},
+{
+"id": "d080894a49a4",
+"t": "SPCX",
+"title": "3 Stocks Riding The AI Data Center Power Buildout",
+"url": "https://finance.yahoo.com/markets/stocks/articles/3-stocks-riding-ai-data-160704018.html?.tsrc=rss",
+"pub": "2026-11-22T16:07:04+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-22T16:30:23+00:00"
+},
 {
 "id": "d850784374e4",
 "t": "NVDA",
@@ -92,6 +152,16 @@
 "src": "Yahoo Finance",
 "kind": "news",
 "seen": "2026-11-22T15:45:03+00:00"
+},
+{
+"id": "56d8e56a8168",
+"t": "KO",
+"title": "10-Year TIPS Pay 2.77% Above Inflation. Here’s How Dividend Stocks Compare",
+"url": "https://247wallst.com/investing/2026/11/22/10-year-tips-pay-2-77-above-inflation-heres-how-dividend-stocks-compare/?.tsrc=rss",
+"pub": "2026-11-22T15:07:12+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-22T16:30:23+00:00"
 },
 {
 "id": "544f00e301c2",
@@ -352,6 +422,16 @@
 "src": "Yahoo Finance",
 "kind": "news",
 "seen": "2026-11-22T13:43:54+00:00"
+},
+{
+"id": "e80a294785bb",
+"t": "VRTX",
+"title": "Vertex’s executive chairman: Here’s how we got our drug-trial success rate over 70% when the industry’s is 10% to 20%",
+"url": "https://finance.yahoo.com/healthcare/articles/vertex-executive-chairman-got-drug-133000131.html?.tsrc=rss",
+"pub": "2026-11-22T13:30:00+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-22T16:30:23+00:00"
 },
 {
 "id": "cb05544ae3b6",
@@ -7934,84 +8014,24 @@
 "seen": "2026-11-20T19:44:51+00:00"
 },
 {
-"id": "d84b31a6b874",
-"t": "SPCX",
-"title": "Ripple’s CEO Says Investors Sold XRP and Bitcoin to Buy Anthropic Shares",
-"url": "https://247wallst.com/investing/cryptocurrency/2026/11/20/ripples-ceo-says-investors-sold-xrp-and-bitcoin-to-buy-anthropic-shares/?.tsrc=rss",
-"pub": "2026-11-20T19:01:03+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-20T19:44:51+00:00"
+"id": "52100f89d495",
+"t": "",
+"title": "By The Way: Headlines You May Have Missed",
+"url": "https://www.bloomberg.com/news/videos/2026-11-22/by-the-way-headlines-you-may-have-missed-video",
+"pub": "2026-11-22T16:17:05+00:00",
+"src": "Bloomberg",
+"kind": "market",
+"seen": "2026-11-22T16:30:23+00:00"
 },
 {
-"id": "69e6ee211b94",
-"t": "JPM",
-"title": "Labour’s ‘unfair’ bank tax will have consequences, warns JP Morgan boss",
-"url": "https://uk.finance.yahoo.com/news/labour-unfair-bank-tax-consequences-190058863.html?.tsrc=rss",
-"pub": "2026-11-20T19:00:58+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-20T19:44:51+00:00"
-},
-{
-"id": "920413f0a79d",
-"t": "JPM",
-"title": "Labour’s ‘unfair’ bank tax will have consequences, warns JP Morgan boss",
-"url": "https://www.telegraph.co.uk/business/2026/11/20/labour-unfair-bank-tax-consequences-jp-morgan/?.tsrc=rss",
-"pub": "2026-11-20T19:00:58+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-20T20:44:19+00:00"
-},
-{
-"id": "152f4c042da9",
-"t": "JPM",
-"title": "JPMorgan adds Dallas fund-banking hub as Y’all Street private capital ecosystem grows",
-"url": "https://finance.yahoo.com/real-estate/articles/jpmorgan-adds-dallas-fund-banking-190000985.html?.tsrc=rss",
-"pub": "2026-11-20T19:00:00+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-20T19:44:51+00:00"
-},
-{
-"id": "169feb1051c5",
-"t": "NVDA",
-"title": "AMD Stock Just Crashed Nearly 8%: Here's Why and What to Do Now",
-"url": "https://finance.yahoo.com/markets/stocks/articles/amd-stock-just-crashed-nearly-190000127.html?.tsrc=rss",
-"pub": "2026-11-20T19:00:00+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-20T20:14:00+00:00"
-},
-{
-"id": "d47528c2a11f",
-"t": "QNT",
-"title": "QNT & QBTS: 2 Quantum Stocks to Buy for Triple-Digit Growth in 2027",
-"url": "https://finance.yahoo.com/technology/ai/articles/qnt-qbts-2-quantum-stocks-190000464.html?.tsrc=rss",
-"pub": "2026-11-20T19:00:00+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-20T20:14:00+00:00"
-},
-{
-"id": "a899d56eb33e",
-"t": "AMZN",
-"title": "Retailers Are Backsliding on Toxic Chemicals and Plastic. Here’s Who’s Falling Short.",
-"url": "https://wwd.com/sourcing-journal/industry-news/report-walmart-target-amazon-backsliding-chemical-plastic-cuts-1239460454/?.tsrc=rss",
-"pub": "2026-11-20T18:57:34+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-20T19:44:51+00:00"
-},
-{
-"id": "4ae7542ffd5e",
-"t": "GOOGL",
-"title": "Anthropic At $97: Big IPOs Rewarded Patient Buyers",
-"url": "https://www.trefis.com/stock/ant/articles/627186/anthropic-at-97-big-ipos-rewarded-patient-buyers/2026-11-20?.tsrc=rss",
-"pub": "2026-11-20T18:55:31+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-20T19:14:18+00:00"
+"id": "387129c61946",
+"t": "",
+"title": "Bessent Warns Fed Risks Overtightening as US Markets Swoon",
+"url": "https://www.bloomberg.com/news/articles/2026-11-22/bessent-warns-fed-risks-overtightening-as-us-markets-swoon",
+"pub": "2026-11-22T16:08:20+00:00",
+"src": "Bloomberg",
+"kind": "market",
+"seen": "2026-11-22T16:30:23+00:00"
 },
 {
 "id": "f256f27f76da",
@@ -10989,26 +11009,6 @@
 "title": "EU's Von der Leyen: soon we will present new European security plan to boost preparedness and deterrence",
 "url": "https://www.financialjuice.com/News/9862909/EUs-Von-der-Leyen-soon-we-will-present-new-European-security-plan-to-boost-preparedness-and-deterrence.aspx?xy=rss",
 "pub": "2026-11-21T08:47:05+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-21T08:50:41+00:00"
-},
-{
-"id": "5564e96d7937",
-"t": "",
-"title": "EU's Von der Leyen: soon we will present new European security plan to boost preparedness and deterrence",
-"url": "https://www.financialjuice.com/News/9862909/EUs-Von-der-Leyen-soon-we-will-present-new-European-security-plan-to-boost-preparedness-and-deterrence.aspx",
-"pub": "2026-11-21T08:47:05+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-21T19:14:53+00:00"
-},
-{
-"id": "dc0781484dbf",
-"t": "",
-"title": "EU's von der Leyen: Russia's hybrid threats are becoming more real, less hybrid; we have tools to respond",
-"url": "https://www.financialjuice.com/News/9862908/EUs-von-der-Leyen-Russias-hybrid-threats-are-becoming-more-real-less-hybrid-we-have-tools-to-respond.aspx?xy=rss",
-"pub": "2026-11-21T08:46:45+00:00",
 "src": "FinancialJuice",
 "kind": "market",
 "seen": "2026-11-21T08:50:41+00:00"
