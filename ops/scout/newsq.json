@@ -1,18 +1,38 @@
 {
-"updated_kst": "2026-11-23 08:05",
-"rot": 77,
+"updated_kst": "2026-11-23 08:14",
+"rot": 137,
 "how": "Scout(프로그램)이 10분마다 모은 기사 제목·링크와 공시예요. Wren이 공식 출처로 확인한 뒤 회사 화면에 한국어로 반영해요. 본문은 받지 않아요.",
 "sources": {
 "Yahoo Finance": "120종목 확인 · 실패 0",
 "CNBC": "63건",
 "Bloomberg": "25건",
 "WSJ": "61건",
-"Reuters": "48건",
+"Reuters": "46건",
 "FinancialJuice": "100건",
 "SEC EDGAR": "실패 HTTPError",
 "Fox Business": "50건"
 },
 "items": [
+{
+"id": "ddeec605fbe0",
+"t": "ORCL",
+"title": "Dow Jones Futures Rise As Oracle, Korea Try To Ease Market Fears; Look For These Absolute Losers",
+"url": "https://finance.yahoo.com/m/9ef9da98-bccf-3565-9a30-9bc3e57ad4b9/dow-jones-futures-rise-as.html?.tsrc=rss",
+"pub": "2026-11-22T23:09:03+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-22T23:14:10+00:00"
+},
+{
+"id": "3caa53dba044",
+"t": "QQQ",
+"title": "His 401(k) Hit $900,000 Before the Market Crash, Enough to Retire at 64. A 19.8% Slide in His Nasdaq 100 Fund Erased $178,200 Weeks Before His Last Day",
+"url": "https://247wallst.com/personal-finance/2026/11/22/his-401k-hit-900000-before-the-market-crash-enough-to-retire-at-64-a-19-8-slide-in-his-nasdaq-100-fund-erased-178200-weeks-before-his-last-day/?.tsrc=rss",
+"pub": "2026-11-22T23:03:16+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-22T23:14:10+00:00"
+},
 {
 "id": "46255b78b70a",
 "t": "NVDA",
@@ -24,6 +44,16 @@
 "seen": "2026-11-22T23:05:42+00:00"
 },
 {
+"id": "47c050341151",
+"t": "GS",
+"title": "Goldman Sachs’ economic outlook for 2027",
+"url": "https://finance.yahoo.com/economy/articles/goldman-sachs-economic-outlook-2027-225442534.html?.tsrc=rss",
+"pub": "2026-11-22T22:54:42+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-22T23:14:10+00:00"
+},
+{
 "id": "f128c62f1256",
 "t": "NVDA",
 "title": "Where Will USA Rare Earth Stock Be in 5 Years? This Mine Holds the Keys.",
@@ -32,6 +62,16 @@
 "src": "Yahoo Finance",
 "kind": "news",
 "seen": "2026-11-22T23:05:42+00:00"
+},
+{
+"id": "237c7bcb6141",
+"t": "SPCX",
+"title": "Stanley Druckenmiller and 42 Other Big Funds Bought SpaceX Last Quarter. Brad Gerstner and 23 Others Sold. Who’s Right?",
+"url": "https://www.tikr.com/blog/stanley-druckenmiller-and-42-other-big-funds-bought-spacex-last-quarter-brad-gerstner-and-23-others-sold-whos-right?ref=yahoofinance&tlnk=yf-261122-prh63fwm&.tsrc=rss",
+"pub": "2026-11-22T22:35:12+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-22T23:14:10+00:00"
 },
 {
 "id": "8869991fb6b2",
@@ -832,6 +872,16 @@
 "src": "Yahoo Finance",
 "kind": "news",
 "seen": "2026-11-22T17:44:32+00:00"
+},
+{
+"id": "31638621a669",
+"t": "D",
+"title": "2 Energy Stocks Bridgewater Associates Is Buying Right Now",
+"url": "https://www.barchart.com/story/news/8956585/2-energy-stocks-bridgewater-associates-is-buying-right-now?.tsrc=rss",
+"pub": "2026-11-22T16:30:03+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-22T23:14:10+00:00"
 },
 {
 "id": "ac96533ebd32",
@@ -7964,56 +8014,6 @@
 "seen": "2026-11-20T21:44:59+00:00"
 },
 {
-"id": "1cd2cc34a2a8",
-"t": "SPCX",
-"title": "Should Tesla (TSLA) Investors Watch Its Merger Talks And Cybercab FSD Rollout?",
-"url": "https://finance.yahoo.com/markets/stocks/articles/tesla-tsla-investors-watch-merger-211259073.html?.tsrc=rss",
-"pub": "2026-11-20T21:12:59+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-20T21:44:59+00:00"
-},
-{
-"id": "7a424d7b361a",
-"t": "TXN",
-"title": "Texas Instruments (TXN) Could Be 50% Overvalued As AI Tools And Earnings Impress",
-"url": "https://finance.yahoo.com/markets/stocks/articles/texas-instruments-txn-could-50-211249173.html?.tsrc=rss",
-"pub": "2026-11-20T21:12:49+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-20T22:14:08+00:00"
-},
-{
-"id": "3634423c086c",
-"t": "LITE",
-"title": "Lumentum Holdings (LITE) Stock Dropped, So What Is Driving Attention Now?",
-"url": "https://finance.yahoo.com/markets/stocks/articles/lumentum-holdings-lite-stock-dropped-211217297.html?.tsrc=rss",
-"pub": "2026-11-20T21:12:17+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-20T21:44:59+00:00"
-},
-{
-"id": "1dc11db72d03",
-"t": "MU",
-"title": "Nasdaq Dives 1,261 Points as Anthropic, AI Stocks Sink: Stock Market Today",
-"url": "https://www.kiplinger.com/investing/stocks/nasdaq-dives-1-261-points-as-anthropic-ai-stocks-sink-stock-market-today?.tsrc=rss",
-"pub": "2026-11-20T21:12:15+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-20T23:44:15+00:00"
-},
-{
-"id": "78bfb9cd9dd6",
-"t": "IONQ",
-"title": "IonQ (IONQ) Stock Looks Overvalued As Its 83% 3 Year Gain Continues",
-"url": "https://finance.yahoo.com/markets/stocks/articles/ionq-ionq-stock-looks-overvalued-211212154.html?.tsrc=rss",
-"pub": "2026-11-20T21:12:12+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-20T21:44:59+00:00"
-},
-{
 "id": "fc8d3b43beed",
 "t": "",
 "title": "World's Biggest Warrants Market Is Fueled by Unusual Trading in Hong Kong",
@@ -8752,6 +8752,16 @@
 "src": "Reuters",
 "kind": "market",
 "seen": "2026-11-22T17:21:43+00:00"
+},
+{
+"id": "3bdfa7c94e09",
+"t": "",
+"title": "Lastminute.com NV (09B.F) | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE15MEtiYzlTalFHaEJUVGo0eEZEc0JiVHdwLXRlckZRVWtYZ014VThEdmREUllYcGNwbHQxQTBQMl8wcEhOX29DU2FoUUNLdVdRTFJCNnp2MnZpajY2WDQzNUJTR3MyYVVVeGRnWQ?oc=5",
+"pub": "2026-11-22T13:00:59+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-22T23:14:10+00:00"
 },
 {
 "id": "19188c62ceac",
@@ -11002,16 +11012,6 @@
 "src": "Bloomberg",
 "kind": "market",
 "seen": "2026-11-21T15:13:59+00:00"
-},
-{
-"id": "013926bc94da",
-"t": "",
-"title": "Trump on Iran: I'm going to broker a lasting deal - Fox News interview",
-"url": "https://www.financialjuice.com/News/9863037/Trump-on-Iran-Im-going-to-broker-a-lasting-deal---Fox-News-interview.aspx?xy=rss",
-"pub": "2026-11-21T15:09:22+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-21T15:10:04+00:00"
 }
 ]
 }
