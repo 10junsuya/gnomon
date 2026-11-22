@@ -1,18 +1,38 @@
 {
-"updated_kst": "2026-11-23 05:34",
-"rot": 134,
+"updated_kst": "2026-11-23 05:44",
+"rot": 15,
 "how": "Scout(프로그램)이 10분마다 모은 기사 제목·링크와 공시예요. Wren이 공식 출처로 확인한 뒤 회사 화면에 한국어로 반영해요. 본문은 받지 않아요.",
 "sources": {
 "Yahoo Finance": "120종목 확인 · 실패 0",
 "CNBC": "63건",
 "Bloomberg": "25건",
 "WSJ": "61건",
-"Reuters": "49건",
+"Reuters": "40건",
 "FinancialJuice": "100건",
 "SEC EDGAR": "실패 HTTPError",
 "Fox Business": "50건"
 },
 "items": [
+{
+"id": "7017322738a1",
+"t": "NVDA",
+"title": "When Can Anthropic Insiders Sell? What the Post-IPO Lockup Period Means for Shareholders.",
+"url": "https://www.fool.com/investing/2026/11/22/when-can-anthropic-insiders-sell-what-the-lockup-means-for-shareholders/?.tsrc=rss",
+"pub": "2026-11-22T20:29:02+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-22T20:44:25+00:00"
+},
+{
+"id": "766353900db0",
+"t": "NVDA",
+"title": "United Airlines Has Warned Air Traffic Control Isn’t Ready for Air Taxis. That’s a Bigger Problem for Archer Than Its Cash Burn.",
+"url": "https://www.fool.com/investing/2026/11/22/united-airlines-has-warned-air-traffic-control-isn-t-ready-for-air-taxis-that-s-a-bigger-problem-for-archer-than-its-cash-burn/?.tsrc=rss",
+"pub": "2026-11-22T20:25:02+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-22T20:44:25+00:00"
+},
 {
 "id": "baa92381eedd",
 "t": "MP",
@@ -7994,24 +8014,14 @@
 "seen": "2026-11-20T21:15:37+00:00"
 },
 {
-"id": "c9a3e4e56599",
-"t": "NVDA",
-"title": "Nvidia Shares Sink to 52-Week Low After Report SEC Is Probing Accounting",
-"url": "https://decrypt.co/383744/nvidia-shares-sink-52-week-low-sec-probing-accounting?.tsrc=rss",
-"pub": "2026-11-20T20:36:54+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-20T21:15:37+00:00"
-},
-{
-"id": "a92a5d2132ee",
-"t": "SPCX",
-"title": "What XRP Did After SpaceX’s IPO and What It Could Do After Anthropic’s",
-"url": "https://247wallst.com/investing/cryptocurrency/2026/11/20/what-xrp-did-after-spacexs-ipo-and-what-it-could-do-after-anthropics/?.tsrc=rss",
-"pub": "2026-11-20T20:34:19+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-20T20:44:19+00:00"
+"id": "3e879bcc0620",
+"t": "",
+"title": "Dip Buyers Hesitate to Step In as Nasdaq 100 Nears a Bear Market",
+"url": "https://www.bloomberg.com/news/articles/2026-11-22/dip-buyers-hesitate-to-step-in-as-nasdaq-100-nears-a-bear-market",
+"pub": "2026-11-22T20:31:44+00:00",
+"src": "Bloomberg",
+"kind": "market",
+"seen": "2026-11-22T20:44:25+00:00"
 },
 {
 "id": "819fa7a21990",
@@ -8192,6 +8202,16 @@
 "src": "FinancialJuice",
 "kind": "market",
 "seen": "2026-11-22T19:15:38+00:00"
+},
+{
+"id": "f8574375d297",
+"t": "",
+"title": "4761.JNX - | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1fM2hiamlpN1lEOGZuWXVrRTNyM0J3T2ZxUGtQS1lOY2xEaFdXcnAxVEJkbThMTDB3TEJjRTJ2T0lHM2xHWGYybmx4NXhuVVE3VUNneUhqVWFHOENGaFFzMktBMEV6T0VWTWRXSlFCLXY0bWxJdnJXODJ4RQ?oc=5",
+"pub": "2026-11-22T16:24:03+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-22T20:44:25+00:00"
 },
 {
 "id": "52100f89d495",
@@ -8574,6 +8594,16 @@
 "seen": "2026-11-22T13:43:54+00:00"
 },
 {
+"id": "9b06a789128f",
+"t": "",
+"title": "AOIL.BE%5EA24 - | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQZ0JoRGlrUVBvYzc4aUc0em1XZmNnbnAzekxDT0k1WUdqdUtibXVXRFRSWWdkOVhIMWpsendxZkpJOHp3OHk2bE1jdTh2dzJlN2cydkpJS0YwTUd3bVN4dDNjQ1Ayc295T1YtMzBUSFhENGUxWU9MNVh5MnhfcmdJcg?oc=5",
+"pub": "2026-11-22T13:02:00+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-22T20:44:25+00:00"
+},
+{
 "id": "b68e3b0bfe01",
 "t": "",
 "title": "300148.ZKh - | Stock Price & Latest News - Reuters",
@@ -8622,6 +8652,16 @@
 "src": "Reuters",
 "kind": "market",
 "seen": "2026-11-22T17:21:43+00:00"
+},
+{
+"id": "81cb2b500f34",
+"t": "",
+"title": "VNLYY.AX - | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBic0hzOENZT2ZvdzBGOU1ObHNXdGRZejhqdWxURXpxWDBNTmVJM1Y0RndHQUI4cEVHeUNkVHZGdTQtUFFGZDlnNjQ5WEc5Vnl2WDVVZHdQcENNTWVtT3VrS19nc0hxTjNXU1FPemMwVjk?oc=5",
+"pub": "2026-11-22T12:58:22+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-22T20:44:25+00:00"
 },
 {
 "id": "05b6d023f722",
@@ -8724,6 +8764,16 @@
 "seen": "2026-11-22T17:21:43+00:00"
 },
 {
+"id": "82d8b5519f46",
+"t": "",
+"title": "SBZ.AX - | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE05WnBIOEUyZXo0TC1sUmctRGE0R3BHVTZxNnd1bzNVRDRKYXJUamtDVEtYNjQxbjJZSDlxSmVtVmhIQ3E4TUFQcDlQaXZWdzVxSlI2Q2NxaWtwc2N3LUtRQWwwbTcyYU12UGFWR2R1cw?oc=5",
+"pub": "2026-11-22T12:55:20+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-22T20:44:25+00:00"
+},
+{
 "id": "6820d40de183",
 "t": "",
 "title": "0OFG.L - Reuters",
@@ -8742,6 +8792,16 @@
 "src": "Reuters",
 "kind": "market",
 "seen": "2026-11-22T14:44:21+00:00"
+},
+{
+"id": "05bd586ee27b",
+"t": "",
+"title": "GLOBALFOUNDRIES Inc. (76J.F) | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE45YUhJS21WaXk1N2ZqZE5VLUxGWW9NM2lLNXRwWHY0bjVrdWRVMnktaGN3Rng3MXlBbUJ4R2Z5T2pib3R6UWJGN1BGNXRJQ3pHOEIweTl2X2dubXhZYTdtVS1EbDRVSmk5TEZmRA?oc=5",
+"pub": "2026-11-22T12:54:35+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-22T20:44:25+00:00"
 },
 {
 "id": "e15cc8dc768d",
@@ -8894,6 +8954,16 @@
 "seen": "2026-11-22T11:14:06+00:00"
 },
 {
+"id": "70022f3dc6fe",
+"t": "",
+"title": "Melar Acquisition Corp. I (EVRL.OQ) | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE4ydzRFampnQjZ0emdQbUhBMlNnYmdfMGJ5SzRIWGZKWmVjX3lSbUtQclJKR011S3N2NmtYMld0M3FRcldoZlFydllIV1FhckxQdDM4ZTEtUHVZcjdxeVZJ?oc=5",
+"pub": "2026-11-22T10:51:44+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-22T20:44:25+00:00"
+},
+{
 "id": "730625e1b8a6",
 "t": "",
 "title": "Has the AI Bubble Already Burst?",
@@ -8954,6 +9024,16 @@
 "seen": "2026-11-22T12:14:51+00:00"
 },
 {
+"id": "2f2f6e31e646",
+"t": "",
+"title": "Reeflex Solutions Inc (RFX.V) | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5KaThLbFlrR0E3MmhJMFd1ODB6bFdHWVFOa0NCSlRQX2EtbkRfMXRtQ0t3ajk3YWRBa05taGpKUF92SUxuMGRibF93QklEZHZjQnltUlZEQWhvUzA3VVgtZDhUbVRaTTYydkE?oc=5",
+"pub": "2026-11-22T09:25:20+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-22T20:44:25+00:00"
+},
+{
 "id": "fdb6e01f07fc",
 "t": "",
 "title": "Atlas Arteria Group (M82.MU) | Stock Price & Latest News - Reuters",
@@ -8962,6 +9042,16 @@
 "src": "Reuters",
 "kind": "market",
 "seen": "2026-11-22T19:44:27+00:00"
+},
+{
+"id": "9a3c1f785bdf",
+"t": "",
+"title": "Gabelli Asset Fund;AAA (GABAX.O) | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9sWHlibmkwRjNONnh4czJseEZSVlhNVXNDMWJSNHdSTU56cS1iZFBLV2VyU1VNaHduVHlLam5nWkZhNDVWQUJQWml0V214ZWRKNFpKblFWLVlxZ3FXbFJrYU9wSmo1eW1JanNvTg?oc=5",
+"pub": "2026-11-22T09:19:29+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-22T20:44:25+00:00"
 },
 {
 "id": "b7a042ff5f6c",
@@ -8992,6 +9082,16 @@
 "src": "Reuters",
 "kind": "market",
 "seen": "2026-11-22T10:14:19+00:00"
+},
+{
+"id": "66c044d9bb9a",
+"t": "",
+"title": "PFLC.PK - | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQT2lXcGZQaFlLWWo3VEtkYU9sNjlzSHpWWWZlcXBoRmJfX211QUxzNUs5QzQ0RDdRTUZaTzZZcFNHM3NfSXo5MVBwMzNkZ1VKUWEyVFZkV3B2clNSTW9BbjlOelFxYW1Bb1RZTlhUalZhVmh2U1FkWmw0WW53NGEzS2U0TQ?oc=5",
+"pub": "2026-11-22T08:55:46+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-22T20:44:25+00:00"
 },
 {
 "id": "146d610231dc",
@@ -9054,6 +9154,16 @@
 "seen": "2026-11-22T08:14:33+00:00"
 },
 {
+"id": "e2ada545d6fa",
+"t": "",
+"title": "002270.SZ - | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9UUVlXQW1LTTVHMHZVSjYtZUhsakFFeHFVZlhKN2JJLWZPX1plWGtCVXAtSVB0MExzYjU3UW1xN1E0d09xU0tUTEYtbHpwY1pKUGxneWRLMnZOODNVZldZOUtmNUNLQU5mYkM0WHVyMzFFSUxKRXhkRzdmZHE?oc=5",
+"pub": "2026-11-22T06:50:15+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-22T20:44:25+00:00"
+},
+{
 "id": "c81bd239b32c",
 "t": "",
 "title": "6498JPY.JPx - Reuters",
@@ -9082,6 +9192,16 @@
 "src": "Reuters",
 "kind": "market",
 "seen": "2026-11-22T11:21:57+00:00"
+},
+{
+"id": "570ce5cc6b75",
+"t": "",
+"title": "NVTKI.RTS - | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE92M0pQQ3NQTUlLMVRQWVhOa0w4LWdJRzFtQk5IVzRwM3FNVTBmcFpsOWZtcnFpclB1NlNKb0VPODhOdmxNenFrbDljdnJPaEFDTTlScWoxUkloQWcybHpWa3FNa0lTYnNMeUgzcl9qR3dET1VTOU5JMnR4UzJKUQ?oc=5",
+"pub": "2026-11-22T04:57:02+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-22T20:44:25+00:00"
 },
 {
 "id": "2d97706dc272",
@@ -9122,6 +9242,16 @@
 "src": "Reuters",
 "kind": "market",
 "seen": "2026-11-22T09:44:06+00:00"
+},
+{
+"id": "5926331100dc",
+"t": "",
+"title": "TAPa.Z - Reuters",
+"url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPVHdDUGRPd3pRRlJsQXdhSUk1TUtzdElMWDhmVkJiWUtLQ1p2dlhGTXp5UkFIN0RKV0xaS1lHR1U4am9jWFNKcXBEQ2c3SGZpUzY4eGVNcERZM1JVcDh2Smx5LWx3NFJUam44Z0dTTE4xb0UwWHBLbDRCWThmMFVXWkdPMUZzYUl1RDhzS3p1Zw?oc=5",
+"pub": "2026-11-22T04:52:10+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-22T20:44:25+00:00"
 },
 {
 "id": "eaca433704e2",
@@ -9182,6 +9312,16 @@
 "src": "Reuters",
 "kind": "market",
 "seen": "2026-11-22T18:05:19+00:00"
+},
+{
+"id": "9bb336c0c562",
+"t": "",
+"title": "Schoolblazer Ltd (SBZ.AX) | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1MemFRQWVfclYyYmJfRkJqNVlQbnYybkpGZHNRdkd2X2FtX3BvT0JCMExJNFJRenJNNURPcUtNZ3MtZkNVZEcyNW1ORWMwMmpCclNURVltaVkyLXl2WVdjanNWQjlnbEEySDh2SHJR?oc=5",
+"pub": "2026-11-22T02:54:12+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-22T20:44:25+00:00"
 },
 {
 "id": "b2af1f79a699",
@@ -10694,6 +10834,16 @@
 "seen": "2026-11-22T07:14:31+00:00"
 },
 {
+"id": "2ca0a4842535",
+"t": "",
+"title": "Tech outages are fueling a new doomsday economy",
+"url": "https://www.cnbc.com/2026/11/21/emergency-prep-spending-tech-outages.html",
+"pub": "2026-11-21T15:04:56+00:00",
+"src": "CNBC",
+"kind": "market",
+"seen": "2026-11-22T20:44:25+00:00"
+},
+{
 "id": "536629d503e2",
 "t": "",
 "title": "US Centcom: Iran did not strike a U.S. F-16 fighter jet yesterday",
@@ -10862,156 +11012,6 @@
 "src": "Bloomberg",
 "kind": "market",
 "seen": "2026-11-21T14:14:40+00:00"
-},
-{
-"id": "1db8d42f6e3a",
-"t": "",
-"title": "Anthropic IPO Fails to Calm AI Jitters",
-"url": "https://www.bloomberg.com/news/videos/2026-11-21/anthropic-ipo-fails-to-calm-ai-jitters-video",
-"pub": "2026-11-21T13:43:18+00:00",
-"src": "Bloomberg",
-"kind": "market",
-"seen": "2026-11-21T14:14:40+00:00"
-},
-{
-"id": "7fc9aa10031a",
-"t": "",
-"title": "EU and Indonesia sign trade deal after 10 years of negotiations - Reuters",
-"url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxORXBKanhocjVnYXhZczc5TjhSZHBQMTcwOVRLekN0TzZzVTd6S3Rfc2gtVDNVVk5QOVIydlZzVTgtR3VObmplSVdlM2dVY3M3M19Ycy1wRUxLNnJ6RnlaN1dBQldDZlh5QnFBMjFNUHVuSk5zazlxRkh6VzlrQm83aFVXa2JQdTh1Z3RCQmZQZTgtejVRRnQ0dFNaUjZqVGpNck5haVVBN2NRZGxaZFktTlBn?oc=5",
-"pub": "2026-11-21T13:37:27+00:00",
-"src": "Reuters",
-"kind": "market",
-"seen": "2026-11-21T14:14:40+00:00"
-},
-{
-"id": "16729af6dfc4",
-"t": "",
-"title": "No immediate US confirmation of Iranian assertion that F-16 was damaged over Gulf",
-"url": "https://www.financialjuice.com/News/9863001/No-immediate-US-confirmation-of-Iranian-assertion-that-F-16-was-damaged-over-Gulf.aspx?xy=rss",
-"pub": "2026-11-21T13:28:51+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-21T13:44:18+00:00"
-},
-{
-"id": "77b1bdc6d47d",
-"t": "",
-"title": "No immediate US confirmation of Iranian assertion that F-16 was damaged over Gulf",
-"url": "https://www.financialjuice.com/News/9863001/No-immediate-US-confirmation-of-Iranian-assertion-that-F-16-was-damaged-over-Gulf.aspx",
-"pub": "2026-11-21T13:28:51+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-21T19:14:53+00:00"
-},
-{
-"id": "b4ffe169d590",
-"t": "",
-"title": "Iran’s army: its air defence missile damaged US F-16 fighter jet over Gulf, forcing emergency landing - state media",
-"url": "https://www.financialjuice.com/News/9863000/Irans-army-its-air-defence-missile-damaged-US-F-16-fighter-jet-over-Gulf-forcing-emergency-landing---state-media.aspx?xy=rss",
-"pub": "2026-11-21T13:28:29+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-21T13:44:18+00:00"
-},
-{
-"id": "1bcb2490b9f1",
-"t": "",
-"title": "Iran’s army: its air defence missile damaged US F-16 fighter jet over Gulf, forcing emergency landing - state media",
-"url": "https://www.financialjuice.com/News/9863000/Irans-army-its-air-defence-missile-damaged-US-F-16-fighter-jet-over-Gulf-forcing-emergency-landing---state-media.aspx",
-"pub": "2026-11-21T13:28:29+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-21T19:14:53+00:00"
-},
-{
-"id": "a1aed4cdf95c",
-"t": "",
-"title": "Just Ice Tea Builds on Honest Tea’s Legacy",
-"url": "https://www.bloomberg.com/news/videos/2026-11-21/just-ice-tea-builds-on-honest-tea-s-legacy-video",
-"pub": "2026-11-21T13:19:50+00:00",
-"src": "Bloomberg",
-"kind": "market",
-"seen": "2026-11-21T13:44:18+00:00"
-},
-{
-"id": "a1f934e7273c",
-"t": "",
-"title": "Putin Gains From Trump, Xi Summit Spotlight",
-"url": "https://www.bloomberg.com/news/videos/2026-11-21/putin-gains-from-trump-xi-summit-spotlight-video",
-"pub": "2026-11-21T13:12:23+00:00",
-"src": "Bloomberg",
-"kind": "market",
-"seen": "2026-11-21T13:44:18+00:00"
-},
-{
-"id": "283b5b69ac33",
-"t": "",
-"title": "Saudi civil defense: danger has passed in Jazan",
-"url": "https://www.financialjuice.com/News/9862988/Saudi-civil-defense-danger-has-passed-in-Jazan.aspx?xy=rss",
-"pub": "2026-11-21T13:05:31+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-21T13:15:23+00:00"
-},
-{
-"id": "54b5cdf76f55",
-"t": "",
-"title": "Saudi civil defense: danger has passed in Jazan",
-"url": "https://www.financialjuice.com/News/9862988/Saudi-civil-defense-danger-has-passed-in-Jazan.aspx",
-"pub": "2026-11-21T13:05:31+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-21T19:14:53+00:00"
-},
-{
-"id": "264c46d2afa0",
-"t": "",
-"title": "Trump’s Putin Ties Draw Focus After Summit",
-"url": "https://www.bloomberg.com/news/videos/2026-11-21/trump-s-putin-ties-draw-focus-after-summit-video",
-"pub": "2026-11-21T13:05:13+00:00",
-"src": "Bloomberg",
-"kind": "market",
-"seen": "2026-11-21T13:15:23+00:00"
-},
-{
-"id": "d4b70f2783f1",
-"t": "",
-"title": "M Evo Global Acquisition Corp II (MEVO.O) | Stock Price & Latest News - Reuters",
-"url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBQNC1KUVNnUkdBMTNuT0dfbTdXYnNmOXRUZHVkTnlMY0JXOHR0OFlFcEZpSVNTd1NrT3lBek9Fbng0OW5ZNXNvWjM5MXlGMmlwSUZFdThzUjNhOG9UR1Q5Y1N1QWFfWUZxa2ZZ?oc=5",
-"pub": "2026-11-21T13:04:52+00:00",
-"src": "Reuters",
-"kind": "market",
-"seen": "2026-11-22T01:43:56+00:00"
-},
-{
-"id": "1f46bd4944d1",
-"t": "",
-"title": "9905stat.TW - Reuters",
-"url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBrNnR4bW9KVXJVOEgxV3lCak42MnlnWElUai1mRk5icjd3bWlZM3N6bWZFcTNYNnFKWGRsekRCWXJNRDY1enEtM2xDOFJOU0d1RS04TTItR0FfaG9oR0RWZldoYzBYbkJCTGdjaF9kVW9Ib0pwalhycVB0OXJMdw?oc=5",
-"pub": "2026-11-21T13:04:42+00:00",
-"src": "Reuters",
-"kind": "market",
-"seen": "2026-11-21T18:44:40+00:00"
-},
-{
-"id": "78fea761cfd2",
-"t": "",
-"title": "9905stat.TW - Reuters",
-"url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5CT2xROHRPS0lfY00zbFg3U05TaDJFeG9JeFZIWTVkazlhZXZBQkk3eXpteFBDNlYzeGRCY3NlS01wUTQya1hqdjBoWElfc3pQdFBpV2FWb25KUHNMSFdQN1BXMzRwNERGdFFicWR2bk5aUWFLUU1Tbm5HSEY?oc=5",
-"pub": "2026-11-21T13:04:42+00:00",
-"src": "Reuters",
-"kind": "market",
-"seen": "2026-11-21T20:43:38+00:00"
-},
-{
-"id": "3712c4e6d9dd",
-"t": "",
-"title": "'Raise Taxes, Cut Spending': Bill Dudley on the Debt",
-"url": "https://www.bloomberg.com/news/videos/2026-11-21/-raise-taxes-cut-spending-bill-dudley-on-the-debt-video",
-"pub": "2026-11-21T13:04:30+00:00",
-"src": "Bloomberg",
-"kind": "market",
-"seen": "2026-11-21T13:15:23+00:00"
 }
 ]
 }
