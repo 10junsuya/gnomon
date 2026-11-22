@@ -1,18 +1,48 @@
 {
-"updated_kst": "2026-11-23 06:13",
-"rot": 75,
+"updated_kst": "2026-11-23 06:25",
+"rot": 135,
 "how": "Scout(프로그램)이 10분마다 모은 기사 제목·링크와 공시예요. Wren이 공식 출처로 확인한 뒤 회사 화면에 한국어로 반영해요. 본문은 받지 않아요.",
 "sources": {
 "Yahoo Finance": "120종목 확인 · 실패 0",
 "CNBC": "63건",
 "Bloomberg": "25건",
 "WSJ": "61건",
-"Reuters": "45건",
+"Reuters": "50건",
 "FinancialJuice": "100건",
 "SEC EDGAR": "실패 HTTPError",
 "Fox Business": "50건"
 },
 "items": [
+{
+"id": "1d3b1ce9693e",
+"t": "AVGO",
+"title": "Her $420,000 in Employer Stock Inside Her 401(k) Lost 11% in a Day. Rolling It Into an IRA Would Turn Her Long-Term Gain Into Ordinary Income",
+"url": "https://247wallst.com/personal-finance/2026/11/22/her-420000-in-employer-stock-inside-her-401k-lost-11-in-a-day-rolling-it-into-an-ira-would-turn-her-long-term-gain-into-ordinary-income/?.tsrc=rss",
+"pub": "2026-11-22T21:17:03+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-22T21:25:33+00:00"
+},
+{
+"id": "5dd07fe018ef",
+"t": "NVDA",
+"title": "How exposed is the S&P 500 to an AI trade bust?",
+"url": "https://finance.yahoo.com/markets/stocks/articles/exposed-p-500-ai-trade-211253614.html?.tsrc=rss",
+"pub": "2026-11-22T21:12:53+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-22T21:25:33+00:00"
+},
+{
+"id": "1dc94ca6979e",
+"t": "NVDA",
+"title": "U.S. Treasury Secretary Scott Bessent Just Delivered Great News to Former Nvidia CEO Jensen Huang. Should You Buy Nvidia Stock Before Nov. 25?",
+"url": "https://www.fool.com/investing/2026/11/22/u-s-treasury-secretary-scott-bessent-just-delivered-great-news-to-former-nvidia-ceo-jensen-huang-should-you-buy-nvidia-stock-before-nov-25/?.tsrc=rss",
+"pub": "2026-11-22T21:08:04+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-22T21:25:33+00:00"
+},
 {
 "id": "ee970f4d3abf",
 "t": "NVDA",
@@ -5194,6 +5224,16 @@
 "seen": "2026-11-21T11:44:23+00:00"
 },
 {
+"id": "d8afd48cd2f2",
+"t": "GS",
+"title": "Goldman Sachs Market Panic Index Hit 9 out of 10 – What Does It Mean?",
+"url": "https://beincrypto.com/wall-street-selloff-not-over-goldman-bitcoin/?.tsrc=rss",
+"pub": "2026-11-21T11:04:05+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-22T21:25:33+00:00"
+},
+{
 "id": "34593f8601de",
 "t": "COST",
 "title": "She Tastes Chemicals in the Thanksgiving Whipped Cream and Spends 3 Nights in the Hospital Under “Observation,” Leaving Her Without Medicare Rehab Coverage and Facing a $9,450 Bill",
@@ -7974,46 +8014,6 @@
 "seen": "2026-11-20T21:44:59+00:00"
 },
 {
-"id": "f752b11ae4cd",
-"t": "NVDA",
-"title": "White House Is ‘Terrified’ of Ending the AI Boom, Paul Kedrosky Says",
-"url": "https://www.benzinga.com/markets/prediction-markets/26/11/63511454/white-house-ai-boom?utm_source=yahooFinance&utm_campaign=partner_feed&utm_medium=referral&.tsrc=rss",
-"pub": "2026-11-20T21:01:06+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-20T21:15:37+00:00"
-},
-{
-"id": "e66c532dcbed",
-"t": "SAP",
-"title": "Three Data Hurdles Businesses Face As COP31 Turns to Implementation",
-"url": "https://finance.yahoo.com/technology/ai/articles/three-data-hurdles-businesses-face-210100600.html?.tsrc=rss",
-"pub": "2026-11-20T21:01:00+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-20T21:44:59+00:00"
-},
-{
-"id": "411eefb2bf6e",
-"t": "NVDA",
-"title": "Market Hang: AI Reset? Anthropic's Outlook, Amodei's Future, and Who Could Dethrone NVIDIA?",
-"url": "https://finance.yahoo.com/video/market-hang-ai-reset-anthropics-outlook-amodeis-future-and-who-could-dethrone-nvidia-210048852.html?.tsrc=rss",
-"pub": "2026-11-20T21:00:48+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-20T21:15:37+00:00"
-},
-{
-"id": "0a6b09aaf938",
-"t": "MU",
-"title": "Anthropic falls to five cents above $83 IPO price in first full session",
-"url": "https://blockspace.media/insight/anthropic-shares-near-ipo-price/?.tsrc=rss",
-"pub": "2026-11-20T20:57:33+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-21T20:03:56+00:00"
-},
-{
 "id": "3e879bcc0620",
 "t": "",
 "title": "Dip Buyers Hesitate to Step In as Nasdaq 100 Nears a Bear Market",
@@ -9472,6 +9472,16 @@
 "src": "Reuters",
 "kind": "market",
 "seen": "2026-11-22T04:44:22+00:00"
+},
+{
+"id": "7b30f77e44f1",
+"t": "",
+"title": "Mistras Group Inc (MG.A) | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBycVdHMnc2T1hMeUVqS1puVVdxVmxDMDJ5dU5fTS14OFMxOWIwV0J5ZTdaaEJkdWhORlJOSlRNakg2YmpwQTB4cEF2QnY3ZWQ4RGRlak9malJXS0F2aXphN0lrbnJrcWtoXzc4?oc=5",
+"pub": "2026-11-22T00:56:27+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-22T21:25:33+00:00"
 },
 {
 "id": "25fd8c4cd813",
@@ -11002,16 +11012,6 @@
 "src": "FinancialJuice",
 "kind": "market",
 "seen": "2026-11-21T14:14:40+00:00"
-},
-{
-"id": "0702a9c4c546",
-"t": "",
-"title": "Finland border guard: cargo ship Sparta II linked to Russian military",
-"url": "https://www.financialjuice.com/News/9863009/Finland-border-guard-cargo-ship-Sparta-II-linked-to-Russian-military.aspx",
-"pub": "2026-11-21T13:57:02+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-21T19:14:53+00:00"
 }
 ]
 }
