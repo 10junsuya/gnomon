@@ -1,18 +1,58 @@
 {
-"updated_kst": "2026-11-22 13:14",
-"rot": 177,
+"updated_kst": "2026-11-22 13:41",
+"rot": 58,
 "how": "Scout(프로그램)이 10분마다 모은 기사 제목·링크와 공시예요. Wren이 공식 출처로 확인한 뒤 회사 화면에 한국어로 반영해요. 본문은 받지 않아요.",
 "sources": {
 "Yahoo Finance": "120종목 확인 · 실패 0",
 "CNBC": "63건",
 "Bloomberg": "27건",
 "WSJ": "61건",
-"Reuters": "31건",
+"Reuters": "46건",
 "FinancialJuice": "100건",
 "SEC EDGAR": "실패 HTTPError",
 "Fox Business": "50건"
 },
 "items": [
+{
+"id": "0ec08a260cd6",
+"t": "NVDA",
+"title": "Mark Zuckerberg’s Meta Platforms Is Pouring Up to $145 Billion Into AI This Year. Investors Should Watch This 1 Number.",
+"url": "https://www.fool.com/investing/2026/11/21/mark-zuckerberg-s-meta-platforms-is-pouring-up-to-usd145-billion-into-ai-this-year-investors-should-watch-this-1-number/?.tsrc=rss",
+"pub": "2026-11-22T04:31:01+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-22T04:41:01+00:00"
+},
+{
+"id": "c154d6570add",
+"t": "NVDA",
+"title": "Netflix Falls Below $60. Bill Ackman Explains Why That’s an Incredible Investment Opportunity.",
+"url": "https://www.fool.com/investing/2026/11/21/netflix-falls-below-usd60-bill-ackman-explains-why-that-s-an-incredible-investment-opportunity/?.tsrc=rss",
+"pub": "2026-11-22T04:20:02+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-22T04:41:01+00:00"
+},
+{
+"id": "760bd35c1cdb",
+"t": "AAPL",
+"title": "GTA 6's $3.79 billion debut sends Apple stock investors an unmistakable signal",
+"url": "https://www.thestreet.com/investing/stocks/gta-6-apple-innovation?.tsrc=rss",
+"pub": "2026-11-22T04:17:00+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-22T04:41:01+00:00"
+},
+{
+"id": "e6ff1ea33e38",
+"t": "GLW",
+"title": "3 AI Infrastructure Stocks Retail Investors Are Watching After The Tech Pullback",
+"url": "https://finance.yahoo.com/technology/ai/articles/3-ai-infrastructure-stocks-retail-041650757.html?.tsrc=rss",
+"pub": "2026-11-22T04:16:50+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-22T04:41:01+00:00"
+},
 {
 "id": "bbbbd209f037",
 "t": "NVDA",
@@ -7974,44 +8014,14 @@
 "seen": "2026-11-20T17:40:09+00:00"
 },
 {
-"id": "0487d159b809",
-"t": "NVDA",
-"title": "Update: US Equity Indexes Slide as Anthropic Leads Big-Tech Plunge",
-"url": "https://finance.yahoo.com/markets/stocks/articles/us-equity-indexes-slide-anthropic-172138782.html?.tsrc=rss",
-"pub": "2026-11-20T17:21:38+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-20T17:40:09+00:00"
-},
-{
-"id": "602109c71498",
-"t": "NVDA",
-"title": "What Would Warren Buffett Do With Nike Stock Down 79% From Its Peak?",
-"url": "https://www.fool.com/investing/2026/11/20/what-would-warren-buffett-do-with-nike-stock-down-79-from-its-peak/?.tsrc=rss",
-"pub": "2026-11-20T17:20:03+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-20T17:40:09+00:00"
-},
-{
-"id": "7a20d18f57a9",
-"t": "MU",
-"title": "Stock Market Midday, Nov. 20: Nasdaq Plunges Nearly 3% as AMD and Micron Lead a Brutal Semiconductor Sell-Off",
-"url": "https://www.fool.com/coverage/stock-market-today/2026/11/20/stock-market-midday-nov-20-nasdaq-plunges-nearly-3-as-amd-and-micron-lead-a-brutal-semiconductor-sell-off/?.tsrc=rss",
-"pub": "2026-11-20T17:20:02+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-20T17:40:09+00:00"
-},
-{
-"id": "9ff7898fe21f",
-"t": "AVGO",
-"title": "Broadcom Stocks Move Lower as Anthropic IPO Eases Its $42 Billion Lending Risk",
-"url": "https://finance.yahoo.com/markets/stocks/articles/broadcom-stocks-move-lower-anthropic-171930686.html?.tsrc=rss",
-"pub": "2026-11-20T17:19:30+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-20T17:40:09+00:00"
+"id": "d139da33bad3",
+"t": "",
+"title": "China Investigates CNPC Deputy General Manager for Corruption",
+"url": "https://www.bloomberg.com/news/articles/2026-11-22/china-investigates-cnpc-deputy-general-manager-for-corruption",
+"pub": "2026-11-22T03:36:34+00:00",
+"src": "Bloomberg",
+"kind": "market",
+"seen": "2026-11-22T04:41:01+00:00"
 },
 {
 "id": "69ca35b35188",
@@ -11002,16 +11012,6 @@
 "src": "Reuters",
 "kind": "market",
 "seen": "2026-11-21T07:56:17+00:00"
-},
-{
-"id": "c95117218004",
-"t": "",
-"title": "SPACCircle Acquisition Corp. (SCQC.OQ) | Stock Price & Latest News - Reuters",
-"url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQeHk5T2VSb3VRcllLNEtTS0lSVHBhUE96TmRnN2V4VzJqQ3BlcEZ2VTV2ZlNaaVRZelk5Rkh3bFV5c0JDU3Z0dkhxRzYyUzhkYndwMXZwVGd6MV9HbXNCQ1VhRTNIRmlycndNYWpTTEgtYkdTRVJJRUJyMEJKSkZoVQ?oc=5",
-"pub": "2026-11-20T23:51:46+00:00",
-"src": "Reuters",
-"kind": "market",
-"seen": "2026-11-21T02:14:20+00:00"
 }
 ]
 }
