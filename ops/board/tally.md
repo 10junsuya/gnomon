@@ -262,3 +262,4 @@
 - 출처: [세레브라스 3분기 실적 발표 (SEC 8-K)](https://www.sec.gov/Archives/edgar/data/0002021728/000162828026073366/cbrsannouncesfinancialresu.htm) · [Implicator (LSEG 예상치)](https://www.implicator.ai/cerebras-reports-q3-core-revenue-up-70-yoy-230-9m-vs-214-7m/) · 공식 여부: 공식(실적) / 보도(예상치)
 - 확신도: 높음 (8-K 앞부분 본문·표 확인, 뒷부분 조정표 일부는 요약으로만 봄 · 예상치는 매체 한 곳)
 - 참고: 남은 칸 없는 앱 종목(ETF 제외): LIN·SHOP·GOOG·SATS(ECHO)·IREN·CLS·APH·TTMI·STX·MA·FFIV·VICR·NXE·DNN.
+- 참고: 앱 다시 게시함(07:25 KST, 버전 269). 지난 게시와 같게 게시용 복사본에서만 CSP meta 한 줄을 뺐어요(저장소 파일은 그대로). 게시본과 차이는 실적 데이터 한 줄뿐이었어요.
