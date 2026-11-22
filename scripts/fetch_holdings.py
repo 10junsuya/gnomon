@@ -4,7 +4,7 @@
 2순위(실패 시): S&P500은 SPY, 나스닥100은 QQQ 공시 보유종목 / 우주항공TOP10은 신한자산운용 사이트
 실패해도 기존 값을 지우지 않고 오류만 기록해요. 하루 한 번만 받아요.
 """
-import csv, datetime as dt, html, http.cookiejar, io, json, re, sys, time, urllib.request
+import csv, datetime as dt, html, http.cookiejar, io, json, re, sys, time, urllib.error, urllib.request
 from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
@@ -30,9 +30,19 @@ NAME2TICKER = {"space exploration technologies": "SPCX", "rocket lab": "RKLB", "
                "firefly aerospace": "FLY", "planet labs": "PL", "intuitive machines": "LUNR", "redwire": "RDW", "blacksky": "BKSY", "satellogic": "SATL"}
 
 
-def get(url, timeout=40):
-    with OP.open(urllib.request.Request(url, headers=UA), timeout=timeout) as r:
-        return r.read()
+def get(url, timeout=40, tries=3):
+    # 429(너무 자주 물음)·503 이면 잠깐 쉬었다 다시 물어요 (승인 30번, 2026-11-22)
+    for k in range(tries):
+        try:
+            with OP.open(urllib.request.Request(url, headers=UA), timeout=timeout) as r:
+                return r.read()
+        except urllib.error.HTTPError as e:
+            if e.code not in (429, 503) or k == tries - 1:
+                raise
+            ra = e.headers.get("Retry-After", "") if e.headers else ""
+            wait = min(60, int(ra)) if ra.isdigit() else 10 * (k + 1)
+            print(f"  {e.code} → {wait}초 쉬고 다시 ({k + 1}/{tries - 1})")
+            time.sleep(wait)
 
 
 def num(x):
@@ -136,57 +146,72 @@ def main():
     today = dt.datetime.now(KST).strftime("%Y-%m-%d")
     out = {"generated_at_kst": dt.datetime.now(KST).strftime("%Y-%m-%d %H:%M"), "etfs": dict(old.get("etfs", {})), "errors": []}
     cache = {}
-    for code, name, g in ETFS:
-        G = GROUPS[g]
-        src, asof, items = "", "", []
-        funetf.other, funetf.asia, funetf.isin_rest = [], [], []
-        if G["kind"] == "bond":  # 채권형은 회사가 아니라 국채를 담아서, 같은 지수 미국 ETF(proxy)만 써요
-            out["etfs"][code] = {"kind": "bond", "group": g, "name": name, "index": G["name"], "proxy": G["proxy"], "asof": f"{today} 확인",
-                                 "n_total": 0, "top": [], "top_weight": 0, "cash_weight": 0, "src": f"채권형 · {G['proxy']}(같은 지수 미국 ETF)로 계산"}
-            continue
-        try:
-            asof, items = funetf(code)
-            src = "FunETF 구성종목 공시"
-            time.sleep(1.5)
-        except Exception as e:  # noqa: BLE001
-            out["errors"].append(f"{code} FunETF: {type(e).__name__}: {str(e)[:120]}")
-        if len(items) < 5 and g in FALLBACK:
-            try:
-                if g not in cache:
-                    cache[g] = FALLBACK[g][1]()
-                asof, items = cache[g]
-                src = FALLBACK[g][0]
-            except Exception as e:  # noqa: BLE001
-                out["errors"].append(f"{code} 대체 출처: {type(e).__name__}: {str(e)[:120]}")
-        if len(items) + len(funetf.asia) < 5:
-            out["errors"].append(f"{code} {name}: 구성종목을 못 받아서 이전 값을 그대로 둬요")
-            continue
-        merged = {}
-        for i in items:
-            if i["weight"]:
-                if i["ticker"] in merged:
-                    merged[i["ticker"]]["weight"] += i["weight"]
-                else:
-                    merged[i["ticker"]] = dict(i)
-        items = sorted(merged.values(), key=lambda i: -i["weight"])
-        asia_w = round(sum(w for _, w in funetf.asia), 2)
-        isin_w = round(sum(w for _, w in funetf.isin_rest), 2)
-        top = items[:TOP_INDEX] if G["kind"] == "index" else items[:TOP_PDF]
-        tw = sum(i["weight"] for i in items)
-        out["etfs"][code] = {"kind": G["kind"], "group": g, "name": name, "index": G["name"], "proxy": G["proxy"],
-                             "asof": asof or f"{today} 받음", "n_total": len(items) + len(funetf.isin_rest),
-                             "top": [{"ticker": i["ticker"], "name": i["name"], "ko": i.get("ko", ""), "weight": round(i["weight"], 3)} for i in top],
-                             "top_weight": round(sum(i["weight"] for i in top), 2), "cash_weight": round(max(0.0, 100 - tw - asia_w - isin_w), 2) if G["kind"] == "pdf" else 0,
-                             "asia_weight": asia_w if G["kind"] == "pdf" else 0, "asia": [a[0] for a in funetf.asia[:12]] if G["kind"] == "pdf" else [],
-                             "rest_weight": round(max(0.0, tw - sum(i["weight"] for i in top)) + isin_w, 2) if G["kind"] == "pdf" else 0,
-                             "rest_extra": [a[0] for a in funetf.isin_rest[:12]] if G["kind"] == "pdf" else [],
-                             "src": src, "other": funetf.other[:15]}
+    failed = [x for x in ETFS if not one(*x, out, cache, today)]
+    if failed:  # 실패한 ETF만 잠깐 쉬고 한 번 더 (승인 30번)
+        print(f"실패 {len(failed)}개 → 30초 쉬고 한 번 더")
+        time.sleep(30)
+        for code, name, g in failed:
+            before = len(out["errors"])
+            if one(code, name, g, out, cache, today):
+                out["errors"] = [e for e in out["errors"] if not e.startswith(code + " ")]
+                print(f"  {code} 두 번째에 받음")
+            else:
+                del out["errors"][before:]  # 같은 오류 두 번 적지 않아요
     OUT.write_text(json.dumps(out, ensure_ascii=False, indent=1) + "\n", encoding="utf-8")
     print(f"ETF {len(out['etfs'])}개, 오류 {len(out['errors'])}개")
     for e in out["errors"]:
         print(" -", e)
     for c, v in out["etfs"].items():
         print(c, v["src"], v["n_total"], v["top_weight"], [(i["ticker"], i["weight"]) for i in v["top"][:4]])
+
+
+def one(code, name, g, out, cache, today):
+    """ETF 하나의 구성종목을 받아 out 에 넣어요. 못 받으면 이전 값을 두고 False."""
+    G = GROUPS[g]
+    src, asof, items = "", "", []
+    funetf.other, funetf.asia, funetf.isin_rest = [], [], []
+    if G["kind"] == "bond":  # 채권형은 회사가 아니라 국채를 담아서, 같은 지수 미국 ETF(proxy)만 써요
+        out["etfs"][code] = {"kind": "bond", "group": g, "name": name, "index": G["name"], "proxy": G["proxy"], "asof": f"{today} 확인",
+                             "n_total": 0, "top": [], "top_weight": 0, "cash_weight": 0, "src": f"채권형 · {G['proxy']}(같은 지수 미국 ETF)로 계산"}
+        return True
+    try:
+        asof, items = funetf(code)
+        src = "FunETF 구성종목 공시"
+        time.sleep(1.5)
+    except Exception as e:  # noqa: BLE001
+        out["errors"].append(f"{code} FunETF: {type(e).__name__}: {str(e)[:120]}")
+    if len(items) < 5 and g in FALLBACK:
+        try:
+            if g not in cache:
+                cache[g] = FALLBACK[g][1]()
+            asof, items = cache[g]
+            src = FALLBACK[g][0]
+        except Exception as e:  # noqa: BLE001
+            out["errors"].append(f"{code} 대체 출처: {type(e).__name__}: {str(e)[:120]}")
+    if len(items) + len(funetf.asia) < 5:
+        out["errors"].append(f"{code} {name}: 구성종목을 못 받아서 이전 값을 그대로 둬요")
+        return False
+    merged = {}
+    for i in items:
+        if i["weight"]:
+            if i["ticker"] in merged:
+                merged[i["ticker"]]["weight"] += i["weight"]
+            else:
+                merged[i["ticker"]] = dict(i)
+    items = sorted(merged.values(), key=lambda i: -i["weight"])
+    asia_w = round(sum(w for _, w in funetf.asia), 2)
+    isin_w = round(sum(w for _, w in funetf.isin_rest), 2)
+    top = items[:TOP_INDEX] if G["kind"] == "index" else items[:TOP_PDF]
+    tw = sum(i["weight"] for i in items)
+    out["etfs"][code] = {"kind": G["kind"], "group": g, "name": name, "index": G["name"], "proxy": G["proxy"],
+                         "asof": asof or f"{today} 받음", "n_total": len(items) + len(funetf.isin_rest),
+                         "top": [{"ticker": i["ticker"], "name": i["name"], "ko": i.get("ko", ""), "weight": round(i["weight"], 3)} for i in top],
+                         "top_weight": round(sum(i["weight"] for i in top), 2), "cash_weight": round(max(0.0, 100 - tw - asia_w - isin_w), 2) if G["kind"] == "pdf" else 0,
+                         "asia_weight": asia_w if G["kind"] == "pdf" else 0, "asia": [a[0] for a in funetf.asia[:12]] if G["kind"] == "pdf" else [],
+                         "rest_weight": round(max(0.0, tw - sum(i["weight"] for i in top)) + isin_w, 2) if G["kind"] == "pdf" else 0,
+                         "rest_extra": [a[0] for a in funetf.isin_rest[:12]] if G["kind"] == "pdf" else [],
+                         "src": src, "other": funetf.other[:15]}
+    return True
 
 
 if __name__ == "__main__":
