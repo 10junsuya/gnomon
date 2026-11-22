@@ -246,3 +246,4 @@
 - 출처: [넷플릭스 3분기 주주 서한 (SEC 8-K)](https://www.sec.gov/Archives/edgar/data/0001065280/000106528026000290/ex991_q326.htm) · [Coincentral](https://coincentral.com/netflix-nflx-stock-sinks-6-even-after-an-earnings-beat-heres-why/) · [247 Wall St](https://247wallst.com/cards/netflix-q3-2026-earnings-nflx-01m5deq0f119rjb4fjrht5sjde) · 공식 여부: 공식(실적) / 보도(예상치)
 - 확신도: 높음 (예상치는 매체 정리, 집계 기관 이름은 확인 못 함)
 - 참고: 남은 칸 없는 앱 종목(ETF 제외): LIN·SHOP·GOOG·SATS(ECHO)·IREN·APLD·CLS·CBRS·APH·TTMI·STX·MA·FFIV·VICR·NXE·DNN.
+- 참고: 앱 다시 게시함(06:27 KST, 버전 267). 지난 게시와 같게 게시용 복사본에서만 CSP meta 한 줄을 뺐어요(저장소 파일은 그대로). 게시본과 차이는 실적 데이터 한 줄뿐이었어요.
