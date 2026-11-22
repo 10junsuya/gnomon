@@ -1,18 +1,38 @@
 {
-"updated_kst": "2026-11-23 07:44",
-"rot": 17,
+"updated_kst": "2026-11-23 08:05",
+"rot": 77,
 "how": "Scout(프로그램)이 10분마다 모은 기사 제목·링크와 공시예요. Wren이 공식 출처로 확인한 뒤 회사 화면에 한국어로 반영해요. 본문은 받지 않아요.",
 "sources": {
 "Yahoo Finance": "120종목 확인 · 실패 0",
 "CNBC": "63건",
 "Bloomberg": "25건",
 "WSJ": "61건",
-"Reuters": "57건",
+"Reuters": "48건",
 "FinancialJuice": "100건",
 "SEC EDGAR": "실패 HTTPError",
 "Fox Business": "50건"
 },
 "items": [
+{
+"id": "46255b78b70a",
+"t": "NVDA",
+"title": "Apple Is Now 25% of Berkshire Hathaway's Stock Portfolio. Here's What Holding Every Share Tells Investors.",
+"url": "https://www.fool.com/investing/2026/11/22/apple-is-now-25-of-berkshire-hathaway-s-stock-portfolio-here-s-what-holding-every-share-tells-investors/?.tsrc=rss",
+"pub": "2026-11-22T22:55:02+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-22T23:05:42+00:00"
+},
+{
+"id": "f128c62f1256",
+"t": "NVDA",
+"title": "Where Will USA Rare Earth Stock Be in 5 Years? This Mine Holds the Keys.",
+"url": "https://www.fool.com/investing/2026/11/22/where-will-usa-rare-earth-stock-be-in-5-years-this-mine-holds-the-keys/?.tsrc=rss",
+"pub": "2026-11-22T22:50:02+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-22T23:05:42+00:00"
+},
 {
 "id": "8869991fb6b2",
 "t": "SPCX",
@@ -7994,24 +8014,24 @@
 "seen": "2026-11-20T21:44:59+00:00"
 },
 {
-"id": "c176357c7804",
-"t": "PEP",
-"title": "Is PepsiCo (PEP) Facing A Fresh Challenge In Sports Drinks After Its Poppi Deal?",
-"url": "https://finance.yahoo.com/markets/stocks/articles/pepsico-pep-facing-fresh-challenge-211210020.html?.tsrc=rss",
-"pub": "2026-11-20T21:12:10+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-20T22:24:18+00:00"
+"id": "fc8d3b43beed",
+"t": "",
+"title": "World's Biggest Warrants Market Is Fueled by Unusual Trading in Hong Kong",
+"url": "https://www.bloomberg.com/graphics/hongkong-derivative-warrants-leverage-volume-ping-pong-trades/",
+"pub": "2026-11-22T23:00:17+00:00",
+"src": "Bloomberg",
+"kind": "market",
+"seen": "2026-11-22T23:05:42+00:00"
 },
 {
-"id": "a86882d93e2c",
-"t": "GOOGL",
-"title": "$1,000 in Anthropic or Bitcoin: Which Could Be Worth More by 2030?",
-"url": "https://247wallst.com/investing/cryptocurrency/2026/11/20/1000-in-anthropic-or-bitcoin-which-could-be-worth-more-by-2030/?.tsrc=rss",
-"pub": "2026-11-20T21:12:00+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-20T21:29:57+00:00"
+"id": "955ab8ae245e",
+"t": "",
+"title": "Live: Asia-Pacific Stocks, Currencies React After Nasdaq, S&P 500 Selloff",
+"url": "https://www.bloomberg.com/news/live-blog/2026-11-22/asia-market-open",
+"pub": "2026-11-22T22:56:32+00:00",
+"src": "Bloomberg",
+"kind": "market",
+"seen": "2026-11-22T23:05:42+00:00"
 },
 {
 "id": "dbda121af27e",
@@ -10989,26 +11009,6 @@
 "title": "Trump on Iran: I'm going to broker a lasting deal - Fox News interview",
 "url": "https://www.financialjuice.com/News/9863037/Trump-on-Iran-Im-going-to-broker-a-lasting-deal---Fox-News-interview.aspx?xy=rss",
 "pub": "2026-11-21T15:09:22+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-21T15:10:04+00:00"
-},
-{
-"id": "c82fa0b5a220",
-"t": "",
-"title": "Trump on Iran: I'm going to broker a lasting deal - Fox News interview",
-"url": "https://www.financialjuice.com/News/9863037/Trump-on-Iran-Im-going-to-broker-a-lasting-deal---Fox-News-interview.aspx",
-"pub": "2026-11-21T15:09:22+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-21T19:14:53+00:00"
-},
-{
-"id": "b88225b1199a",
-"t": "",
-"title": "Trump on incoming Democratic Congress: could collaborate on credit card rates - Fox News interview",
-"url": "https://www.financialjuice.com/News/9863036/Trump-on-incoming-Democratic-Congress-could-collaborate-on-credit-card-rates---Fox-News-interview.aspx?xy=rss",
-"pub": "2026-11-21T15:08:46+00:00",
 "src": "FinancialJuice",
 "kind": "market",
 "seen": "2026-11-21T15:10:04+00:00"
