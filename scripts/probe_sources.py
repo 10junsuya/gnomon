@@ -1,4 +1,4 @@
-"""출처 접속 확인(한 번씩). 이번: 그림이 겹치는 프로젝트의 관련 사진 후보 찾기·현재 사진 열리는지 확인 (대표 요청 2026-11-22). 결과 → data/probe.json"""
+"""출처 접속 확인(한 번씩). 이번: 달 착륙선·UAE·영국·노르웨이 관련 사진 후보 (대표 요청 2026-11-22). 결과 → data/probe.json"""
 import base64, json, time, urllib.parse, urllib.request
 from pathlib import Path
 UA = {"User-Agent": "GnomonApp/1.0 (https://github.com/10junsuya/gnomon)"}
@@ -7,16 +7,12 @@ def get(u, raw=False):
         b = r.read(); return b if raw else json.loads(b)
 API = "https://commons.wikimedia.org/w/api.php?"
 Q = {
- "golden": "Trump announces Golden Dome missile defense Oval Office",
- "uae": "Trump Abu Dhabi UAE AI campus May 2025",
- "uk": "Trump Starmer Technology Prosperity Deal signing",
- "intel-oh": "Intel Ohio groundbreaking New Albany 2022",
- "sda": "Space Development Agency Tranche 1 launch Falcon 9",
- "iris": "IRIS2 satellite constellation ESA",
- "de-space": "Weltraumkommando Bundeswehr",
- "skh-in": "Purdue Research Park West Lafayette",
- "arg": "Patagonia Neuquen data center OpenAI Stargate Argentina",
- "sgkr": "Sam Altman Lee Jae-myung",
+ "clps1": "Blue Ghost Mission 1 lander Firefly Kennedy",
+ "clps2": "Odysseus lander Intuitive Machines Moon surface",
+ "clps3": "Commercial Lunar Payload Services lander",
+ "uae": "Trump Abu Dhabi May 2025 Mohamed bin Zayed",
+ "uk": "Trump Starmer Chequers September 2025",
+ "nor": "Narvik Norway hydropower",
 }
 out = {"cands": {}, "check": {}}
 for k, q in Q.items():
@@ -38,9 +34,7 @@ for k, q in Q.items():
     except Exception as e:  # noqa: BLE001
         out["cands"][k] = {"err": f"{type(e).__name__}: {str(e)[:150]}"}
     time.sleep(2)
-for u in ["https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/FTG-15_Flight_Test_%284108842%29.jpeg/1280px-FTG-15_Flight_Test_%284108842%29.jpeg",
-          "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Blue_Ghost_M1_on_the_Moon.png/1280px-Blue_Ghost_M1_on_the_Moon.png",
-          "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Blue_Ghost_M1_on_the_Moon.png/960px-Blue_Ghost_M1_on_the_Moon.png"]:
+for u in []:
     try:
         b = get(u, True); out["check"][u] = {"ok": True, "n": len(b), "b64": base64.b64encode(b).decode() if "960px" in u else ""}
     except Exception as e:  # noqa: BLE001
