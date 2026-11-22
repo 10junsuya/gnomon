@@ -1,18 +1,38 @@
 {
-"updated_kst": "2026-11-22 09:23",
-"rot": 54,
+"updated_kst": "2026-11-22 09:43",
+"rot": 114,
 "how": "Scout(프로그램)이 10분마다 모은 기사 제목·링크와 공시예요. Wren이 공식 출처로 확인한 뒤 회사 화면에 한국어로 반영해요. 본문은 받지 않아요.",
 "sources": {
 "Yahoo Finance": "120종목 확인 · 실패 0",
 "CNBC": "63건",
 "Bloomberg": "27건",
 "WSJ": "61건",
-"Reuters": "33건",
+"Reuters": "40건",
 "FinancialJuice": "100건",
 "SEC EDGAR": "실패 HTTPError",
 "Fox Business": "50건"
 },
 "items": [
+{
+"id": "584f0d55aee1",
+"t": "NVDA",
+"title": "The Ultimate Growth Stock to Buy With $1,000 Before the End of November",
+"url": "https://www.fool.com/investing/2026/11/21/the-ultimate-growth-stock-to-buy-with-usd1-000-before-the-end-of-november/?.tsrc=rss",
+"pub": "2026-11-22T00:20:03+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-22T00:43:46+00:00"
+},
+{
+"id": "99684ec0fb8a",
+"t": "GOOGL",
+"title": "Alphabet (GOOGL) Stock Gets Fair Value Trim As Analysts Weigh AI Spending And Monetization",
+"url": "https://finance.yahoo.com/markets/stocks/articles/alphabet-googl-stock-gets-fair-001209637.html?.tsrc=rss",
+"pub": "2026-11-22T00:12:09+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-22T00:43:46+00:00"
+},
 {
 "id": "8a5639694b47",
 "t": "S",
@@ -52,6 +72,16 @@
 "src": "Yahoo Finance",
 "kind": "news",
 "seen": "2026-11-22T00:13:51+00:00"
+},
+{
+"id": "66ecaeed735d",
+"t": "QLYS",
+"title": "Qualys (QLYS) Raised Its 2026 Guidance. Where Does Its Growth Rank?",
+"url": "https://finance.yahoo.com/technology/ai/articles/qualys-qlys-raised-2026-guidance-000028794.html?.tsrc=rss",
+"pub": "2026-11-22T00:00:28+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-22T00:43:46+00:00"
 },
 {
 "id": "65b84d792af2",
@@ -7984,36 +8014,6 @@
 "seen": "2026-11-20T17:40:09+00:00"
 },
 {
-"id": "05fafc1ca5bd",
-"t": "WMT",
-"title": "Walmart's Fiscal Q3 Results Reinforce Durability of ECommerce Flywheel, Morgan Stanley Says",
-"url": "https://finance.yahoo.com/markets/stocks/articles/walmart-apos-fiscal-q3-results-165810251.html?.tsrc=rss",
-"pub": "2026-11-20T16:58:10+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-20T17:40:09+00:00"
-},
-{
-"id": "754a5d530ec1",
-"t": "NEE",
-"title": "Utility ETFs to Buy as Data Center Electricity Usage Is Set to Double by 2030",
-"url": "https://finance.yahoo.com/energy/articles/utility-etfs-buy-data-center-165800435.html?.tsrc=rss",
-"pub": "2026-11-20T16:58:00+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-20T18:14:43+00:00"
-},
-{
-"id": "2c0293d59577",
-"t": "SPCX",
-"title": "Tesla Falls 4% Despite HSBC Upgrade and $359 Target Tied to SpaceX Merger Talk; Rivian Drops 5%, Lucid Slides 4%",
-"url": "https://247wallst.com/investing/2026/11/20/tesla-falls-4-despite-hsbc-upgrade-and-359-target-tied-to-spacex-merger-talk-rivian-drops-5-lucid-slides-4/?.tsrc=rss",
-"pub": "2026-11-20T16:57:39+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-20T17:14:24+00:00"
-},
-{
 "id": "8f1a682b7131",
 "t": "",
 "title": "UK govt: UK joins 10 other nations in NATO starlift program to build network of adaptable satellite launch services",
@@ -8412,6 +8412,16 @@
 "src": "Reuters",
 "kind": "market",
 "seen": "2026-11-21T22:14:01+00:00"
+},
+{
+"id": "a04a7716693b",
+"t": "",
+"title": "Oriental Rise Holdings Ltd (ORISF.PK) | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBmQkFUS0VyMjJ5bVUyOHN4UVA2VXR2c2dOUkRSS1M4NURPSnpIb09wbEtnNjNvc1poZTdjSnFyOUprZFdkRkpEODR3Y1ZKYWkzelVSYVlRWDY0UDNTbnI4N1hveXBJZXUwUTR3RmhPaHg?oc=5",
+"pub": "2026-11-21T19:08:37+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-22T00:43:46+00:00"
 },
 {
 "id": "9ff50b69c8f2",
@@ -11000,16 +11010,6 @@
 "url": "https://www.bloomberg.com/news/videos/2026-11-20/-always-remain-liquid-richards-video",
 "pub": "2026-11-20T22:30:37+00:00",
 "src": "Bloomberg",
-"kind": "market",
-"seen": "2026-11-20T22:44:38+00:00"
-},
-{
-"id": "fd51e754248c",
-"t": "",
-"title": "Niron Magnetics to build $1.8 billion Alabama rare-earth-free magnet facility - Reuters",
-"url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNa1Z5MW1VaW1HelJUY3Rld29LMEt1SWxCdDl1cXFMOURKa0ltQlJEemRWVEpSTnV5NHJNUHNWZEZQTmZJdEFJM3ZxNFZlb29adEtMeDdGOFYtX0pvNE5vOGxwdU5abENrRms2d2l0a3ZHY3haMzFEeDM1RmpxbEZDYTZCengybnpyTzJQMXVFelhyM2wxaWQtak83c21xWm81V0NBTTVaVXpIbmU2WU9aMnlIeGY3Q0tOUTg3eUZYUWNMWk01VFE?oc=5",
-"pub": "2026-11-20T22:26:13+00:00",
-"src": "Reuters",
 "kind": "market",
 "seen": "2026-11-20T22:44:38+00:00"
 }
