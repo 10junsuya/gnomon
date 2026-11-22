@@ -1,18 +1,28 @@
 {
-"updated_kst": "2026-11-22 16:14",
-"rot": 1,
+"updated_kst": "2026-11-22 16:44",
+"rot": 61,
 "how": "Scout(프로그램)이 10분마다 모은 기사 제목·링크와 공시예요. Wren이 공식 출처로 확인한 뒤 회사 화면에 한국어로 반영해요. 본문은 받지 않아요.",
 "sources": {
 "Yahoo Finance": "120종목 확인 · 실패 0",
 "CNBC": "63건",
 "Bloomberg": "26건",
 "WSJ": "61건",
-"Reuters": "42건",
+"Reuters": "45건",
 "FinancialJuice": "100건",
 "SEC EDGAR": "실패 HTTPError",
 "Fox Business": "50건"
 },
 "items": [
+{
+"id": "d5ae68b64908",
+"t": "SPCX",
+"title": "Tesla Just Started Selling Cybercabs, Here's What It Means for a SpaceX and Tesla Merger .",
+"url": "https://www.fool.com/investing/2026/11/22/tesla-just-started-selling-cybercabs-here-s-what-it-means-for-a-spacex-and-tesla-merger/?.tsrc=rss",
+"pub": "2026-11-22T07:25:02+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-22T07:44:32+00:00"
+},
 {
 "id": "0156289a200c",
 "t": "NVDA",
@@ -8004,16 +8014,6 @@
 "seen": "2026-11-20T17:45:12+00:00"
 },
 {
-"id": "a74cf996bb69",
-"t": "MO",
-"title": "The Roth IRA Mistake That Turns a 59-Year-Old’s $6,325 a Month in Tax-Free Dividends Into a Tax Bill",
-"url": "https://247wallst.com/personal-finance/2026/11/20/the-roth-ira-mistake-that-turns-a-59-year-olds-6325-a-month-in-tax-free-dividends-into-a-tax-bill/?.tsrc=rss",
-"pub": "2026-11-20T17:31:14+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-20T18:39:45+00:00"
-},
-{
 "id": "2428ccc4698a",
 "t": "",
 "title": "Else Nutrition Holdings Inc (BABYF.PK) | Stock Price & Latest News - Reuters",
@@ -8032,6 +8032,26 @@
 "src": "Bloomberg",
 "kind": "market",
 "seen": "2026-11-22T04:41:01+00:00"
+},
+{
+"id": "e7c7a7f07649",
+"t": "",
+"title": "Bodycote PLC (BYPLF.PK) | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE53V2ZORFJ4Y0JkY0NEWHpkOFMwcy1GOS1McTZLcVJuMlBXU0Jfd1YwTTVLRHo0S1liRTJDYmpJcjdLeFZpVXl3MVQyaXppbWc5WFNmV0FybU82R1lVY04xMy01Q1pWNDlVUmRIdW9n?oc=5",
+"pub": "2026-11-22T02:58:21+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-22T07:44:32+00:00"
+},
+{
+"id": "b2af1f79a699",
+"t": "",
+"title": "MGNM.NS - Reuters",
+"url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxORHRiMzN6MEtQN0tPdV84R0VFaGxxcHF6ZUtsbWVTdkNPTDZpOV9rY3l3TzN4VlpVVWUteEY1eFBYd0drUkNJT2c1RXpHaGxwVms2QlIxbURDMHhnWnBPajVYT2tyTU05UGp1cDN6bDczU0NEb2VocC15TXZzVHczamFqQmJtZw?oc=5",
+"pub": "2026-11-22T02:53:38+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-22T07:44:32+00:00"
 },
 {
 "id": "95ba7e439f4a",
@@ -10992,26 +11012,6 @@
 "src": "Reuters",
 "kind": "market",
 "seen": "2026-11-21T13:15:23+00:00"
-},
-{
-"id": "877134965940",
-"t": "",
-"title": "Aboitiz Power Corp (ABZPF.PK) | Stock Price & Latest News - Reuters",
-"url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9sQ2hmWkM4YnlJMUpadGFmcEVxdVZqUklRZDhwMW1oaDFDTHp1SlhxM2ZaN2RqME4xWHBhblZROU5VSHBwX0E4REVTLXdfVjRtb1BKNFBRNXhuN1B4YmtMMENRUHRSemVEZF9GUll3?oc=5",
-"pub": "2026-11-21T01:05:53+00:00",
-"src": "Reuters",
-"kind": "market",
-"seen": "2026-11-21T15:10:04+00:00"
-},
-{
-"id": "5d0e7653a88a",
-"t": "",
-"title": "STMicroelectronics N.V. (STMN34.SA) | Stock Price & Latest News - Reuters",
-"url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1VbUJMWjF0TlJvbzk4bWtoSTBTc1ZhdGlQd0t1dG1LS3ZUWE9EbU1YYTc3N2JhVnM3UW90Qlo5dnpQb1V3MWdJMU5lN2V3OENLM21JR2tSY1BPdjlYQ2xaWXczMjdQSmg1QXJJQXlSTTluQQ?oc=5",
-"pub": "2026-11-21T01:05:22+00:00",
-"src": "Reuters",
-"kind": "market",
-"seen": "2026-11-21T07:56:17+00:00"
 }
 ]
 }
