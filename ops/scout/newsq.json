@@ -1,13 +1,13 @@
 {
-"updated_kst": "2026-11-23 06:44",
-"rot": 16,
+"updated_kst": "2026-11-23 07:14",
+"rot": 76,
 "how": "Scout(프로그램)이 10분마다 모은 기사 제목·링크와 공시예요. Wren이 공식 출처로 확인한 뒤 회사 화면에 한국어로 반영해요. 본문은 받지 않아요.",
 "sources": {
 "Yahoo Finance": "120종목 확인 · 실패 0",
 "CNBC": "63건",
 "Bloomberg": "25건",
 "WSJ": "61건",
-"Reuters": "45건",
+"Reuters": "50건",
 "FinancialJuice": "100건",
 "SEC EDGAR": "실패 HTTPError",
 "Fox Business": "50건"
@@ -8014,6 +8014,76 @@
 "seen": "2026-11-20T21:29:57+00:00"
 },
 {
+"id": "dbda121af27e",
+"t": "",
+"title": "Asia Braces for More Volatility After US Selloff: Markets Wrap",
+"url": "https://www.bloomberg.com/news/articles/2026-11-22/asia-braces-for-more-volatility-after-us-selloff-markets-wrap",
+"pub": "2026-11-22T22:02:27+00:00",
+"src": "Bloomberg",
+"kind": "market",
+"seen": "2026-11-22T22:14:20+00:00"
+},
+{
+"id": "2a629e8cce95",
+"t": "",
+"title": "Opinion | How to Kill a Bull Market",
+"url": "https://www.wsj.com/opinion/how-to-kill-a-bull-market-ai-policy-15fb5af6?mod=rss_markets_main",
+"pub": "2026-11-22T22:01:00+00:00",
+"src": "WSJ",
+"kind": "market",
+"seen": "2026-11-22T22:14:20+00:00"
+},
+{
+"id": "612958e348d6",
+"t": "",
+"title": "Australian Services PMI Flash Actual 46.2 (Forecast -, Previous 48.5)",
+"url": "https://www.financialjuice.com/News/9863566/Australian-Services-PMI-Flash-Actual-462-Forecast---Previous-485.aspx?xy=rss",
+"pub": "2026-11-22T22:00:10+00:00",
+"src": "FinancialJuice",
+"kind": "market",
+"seen": "2026-11-22T22:14:20+00:00"
+},
+{
+"id": "9e1a92160bdc",
+"t": "",
+"title": "Australian Composite PMI Flash Actual 46.1 (Forecast -, Previous 48.2)",
+"url": "https://www.financialjuice.com/News/9863565/Australian-Composite-PMI-Flash-Actual-461-Forecast---Previous-482.aspx?xy=rss",
+"pub": "2026-11-22T22:00:09+00:00",
+"src": "FinancialJuice",
+"kind": "market",
+"seen": "2026-11-22T22:14:20+00:00"
+},
+{
+"id": "d1b6ab458e61",
+"t": "",
+"title": "Australian Manufacturing PMI Flash Actual 48.7 (Forecast -, Previous 49.6)",
+"url": "https://www.financialjuice.com/News/9863564/Australian-Manufacturing-PMI-Flash-Actual-487-Forecast---Previous-496.aspx?xy=rss",
+"pub": "2026-11-22T22:00:09+00:00",
+"src": "FinancialJuice",
+"kind": "market",
+"seen": "2026-11-22T22:14:20+00:00"
+},
+{
+"id": "aa1ec0b72afa",
+"t": "",
+"title": "New Zealand Retail Sales QoQ Actual 2.2% (Forecast 0.5%, Previous -0.5%)",
+"url": "https://www.financialjuice.com/News/9863558/New-Zealand-Retail-Sales-QoQ-Actual-22-Forecast-05-Previous--05.aspx?xy=rss",
+"pub": "2026-11-22T21:45:10+00:00",
+"src": "FinancialJuice",
+"kind": "market",
+"seen": "2026-11-22T22:14:20+00:00"
+},
+{
+"id": "3959f12feaa9",
+"t": "",
+"title": "New Zealand Retail Sales YoY Actual 3.5% (Forecast -, Previous 3.3%)",
+"url": "https://www.financialjuice.com/News/9863557/New-Zealand-Retail-Sales-YoY-Actual-35-Forecast---Previous-33.aspx?xy=rss",
+"pub": "2026-11-22T21:45:09+00:00",
+"src": "FinancialJuice",
+"kind": "market",
+"seen": "2026-11-22T22:14:20+00:00"
+},
+{
 "id": "c78f6be97d2e",
 "t": "",
 "title": "Aussie Seen Rebounding Against Kiwi From Worst Month Since 2022",
@@ -10942,76 +11012,6 @@
 "src": "Reuters",
 "kind": "market",
 "seen": "2026-11-22T07:14:31+00:00"
-},
-{
-"id": "2ca0a4842535",
-"t": "",
-"title": "Tech outages are fueling a new doomsday economy",
-"url": "https://www.cnbc.com/2026/11/21/emergency-prep-spending-tech-outages.html",
-"pub": "2026-11-21T15:04:56+00:00",
-"src": "CNBC",
-"kind": "market",
-"seen": "2026-11-22T20:44:25+00:00"
-},
-{
-"id": "536629d503e2",
-"t": "",
-"title": "US Centcom: Iran did not strike a U.S. F-16 fighter jet yesterday",
-"url": "https://www.financialjuice.com/News/9863032/US-Centcom-Iran-did-not-strike-a-US-F-16-fighter-jet-yesterday.aspx?xy=rss",
-"pub": "2026-11-21T14:46:40+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-21T15:10:04+00:00"
-},
-{
-"id": "8645ff1cbb93",
-"t": "",
-"title": "US Centcom: Iran did not strike a U.S. F-16 fighter jet yesterday",
-"url": "https://www.financialjuice.com/News/9863032/US-Centcom-Iran-did-not-strike-a-US-F-16-fighter-jet-yesterday.aspx",
-"pub": "2026-11-21T14:46:40+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-21T19:14:53+00:00"
-},
-{
-"id": "cabe591863f4",
-"t": "",
-"title": "Mehr citing Iranian deputy foreign minister Gharibabad: US-imposed economic blockade an act of war, Iran will take necessary action to break it",
-"url": "https://www.financialjuice.com/News/9863025/Mehr-citing-Iranian-deputy-foreign-minister-Gharibabad-US-imposed-economic-blockade-an-act-of-war-Iran-will-take-necessary-action-to-break-it.aspx?xy=rss",
-"pub": "2026-11-21T14:39:28+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-21T14:44:29+00:00"
-},
-{
-"id": "99c821e6fcda",
-"t": "",
-"title": "Mehr citing Iranian deputy foreign minister Gharibabadi: US-imposed economic blockade an act of war, Iran will take necessary action to break it",
-"url": "https://www.financialjuice.com/News/9863025/Mehr-citing-Iranian-deputy-foreign-minister-Gharibabadi-US-imposed-economic-blockade-an-act-of-war-Iran-will-take-necessary-action-to-break-it.aspx?xy=rss",
-"pub": "2026-11-21T14:39:28+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-21T15:10:04+00:00"
-},
-{
-"id": "24b627ae946b",
-"t": "",
-"title": "Mehr citing Iranian deputy foreign minister Gharibabadi: US-imposed economic blockade an act of war, Iran will take necessary action to break it",
-"url": "https://www.financialjuice.com/News/9863025/Mehr-citing-Iranian-deputy-foreign-minister-Gharibabadi-US-imposed-economic-blockade-an-act-of-war-Iran-will-take-necessary-action-to-break-it.aspx",
-"pub": "2026-11-21T14:39:28+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-21T19:14:53+00:00"
-},
-{
-"id": "0eaf0a43ef64",
-"t": "",
-"title": "Invesco BulletShares 2031 High Yield Corp Bd ETF (BSJV.O) | Stock Price & Latest News - Reuters",
-"url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8zNi1xNnhsSUxnQ3hvWmdwVWpJMzZBemYxRDQ3UTNwUGlhMVNiS2MyOWdzNGItZnliblU5TTBOeEdlTzdUY1dnS2NlODhDbWxlLTQzRUlYdDBZMlA5Z3BaZEc4MHh3bmkyTFlr?oc=5",
-"pub": "2026-11-21T14:24:34+00:00",
-"src": "Reuters",
-"kind": "market",
-"seen": "2026-11-22T01:43:56+00:00"
 }
 ]
 }
