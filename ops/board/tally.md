@@ -270,3 +270,4 @@
 - 출처: [마스터카드 3분기 실적 발표 (SEC 8-K)](https://www.sec.gov/Archives/edgar/data/0001141391/000114139126000122/ma09302026-exx991xearnings.htm) · [StockStory](https://stockstory.org/us/stocks/nyse/ma/news/earnings/mastercards-nysema-q3-2026-sales-top-estimates) · [Newsquawk](https://www.newsquawk.com/headlines/mastercard-incorporated-ma-q3-2026-usd-adj-eps-531-exp-517-revenue-98bln-exp-966bln) · [Zacks](https://www.zacks.com/stock/news/3018925/mastercard-beats-q3-earnings-on-higher-cross-border-volumes-pricing) · 공식 여부: 공식(실적) / 보도(예상치·콜 전망)
 - 확신도: 높음 (실적 숫자는 8-K 표 / 다음 분기 전망은 매체 정리)
 - 참고: 남은 칸 없는 앱 종목(ETF 제외): LIN·SHOP·GOOG·SATS(ECHO)·IREN·CLS·APH·TTMI·STX·FFIV·VICR·NXE·DNN.
+- 참고: 앱 다시 게시함(08:0x KST, 버전 270). 지난 게시와 같게 게시용 복사본에서만 CSP meta 한 줄을 뺐어요(저장소 파일은 그대로). 게시본과 차이는 실적 데이터 한 줄뿐이었어요.
