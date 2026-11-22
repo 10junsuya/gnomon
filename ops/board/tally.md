@@ -286,3 +286,4 @@
 - 출처: [셀레스티카 3분기 실적 발표 (SEC 8-K)](https://www.sec.gov/Archives/edgar/data/0001030894/000103089426000049/cls-20260930prcondensedfs.htm) · [FMP](https://site.financialmodelingprep.com/market-news/celestica-q3-2026-results-beat-estimates) · [24/7 Wall St.](https://247wallst.com/cards/celestica-q3-2026-earnings-cls-01m5wye16dkezbw1zs666n1v2m) · 공식 여부: 공식(실적) / 보도(예상치)
 - 확신도: 높음 (실적은 8-K 본문 / 예상치는 출처를 밝히지 않은 매체 두 곳)
 - 참고: 남은 칸 없는 앱 종목(ETF 제외): LIN·SHOP·GOOG·SATS(ECHO)·IREN·APH·TTMI·STX·VICR·NXE·DNN.
+- 참고: 앱 다시 게시함(08:56 KST, 버전 272). 지난 게시와 같게 게시용 복사본에서만 CSP meta 한 줄을 뺐어요(저장소 파일은 그대로). 게시본은 cebf4ab 기준이었고, 그 뒤 저장소 데이터(KO 매출·aimap 등)도 함께 올라갔어요.
