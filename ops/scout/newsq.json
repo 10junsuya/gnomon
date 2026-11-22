@@ -1,18 +1,28 @@
 {
-"updated_kst": "2026-11-22 17:43",
-"rot": 62,
+"updated_kst": "2026-11-22 17:51",
+"rot": 122,
 "how": "Scout(프로그램)이 10분마다 모은 기사 제목·링크와 공시예요. Wren이 공식 출처로 확인한 뒤 회사 화면에 한국어로 반영해요. 본문은 받지 않아요.",
 "sources": {
 "Yahoo Finance": "120종목 확인 · 실패 0",
 "CNBC": "63건",
 "Bloomberg": "26건",
 "WSJ": "61건",
-"Reuters": "48건",
+"Reuters": "47건",
 "FinancialJuice": "100건",
 "SEC EDGAR": "실패 HTTPError",
 "Fox Business": "50건"
 },
 "items": [
+{
+"id": "1759a1cd2d9e",
+"t": "JPM",
+"title": "JPMorgan Says $290B AI-Fueled IPO Wave Is A ‘Drop In The Bucket’ For $70 Trillion Stock Market — ‘Eventual Winners In AI May Not Even Exist Yet’",
+"url": "https://stocktwits.com/news-articles/markets/equity/jpmorgan-290b-ai-ipo-wave-drop-bucket-70-trillion-stock-market/cNbnFLGR91u?.tsrc=rss",
+"pub": "2026-11-22T08:36:20+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-22T08:51:06+00:00"
+},
 {
 "id": "b0afa902081d",
 "t": "NVDA",
@@ -8002,16 +8012,6 @@
 "src": "Yahoo Finance",
 "kind": "news",
 "seen": "2026-11-20T19:14:18+00:00"
-},
-{
-"id": "cc9ec64d3698",
-"t": "NVDA",
-"title": "Nvidia Sinks 7% on New Probes as California AG Says Scandal “Raises Bright Red Flags”",
-"url": "https://www.tikr.com/blog/nvidia-sinks-7-on-new-probes-as-california-ag-says-scandal-raises-bright-red-flags?ref=yahoofinance&tlnk=yf-261120-hhpg7vp9&.tsrc=rss",
-"pub": "2026-11-20T17:37:21+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-20T18:14:43+00:00"
 },
 {
 "id": "ee934b6c250c",
