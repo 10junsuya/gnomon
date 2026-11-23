@@ -1,6 +1,6 @@
 {
-"updated_kst": "2026-11-23 23:15",
-"rot": 91,
+"updated_kst": "2026-11-23 23:20",
+"rot": 151,
 "how": "Scout(프로그램)이 10분마다 모은 기사 제목·링크와 공시예요. Wren이 공식 출처로 확인한 뒤 회사 화면에 한국어로 반영해요. 본문은 받지 않아요.",
 "sources": {
 "Yahoo Finance": "120종목 확인 · 실패 0",
@@ -10,7 +10,7 @@
 "CNBC": "63건",
 "Bloomberg": "40건",
 "WSJ": "61건",
-"Reuters": "실패 HTTPError",
+"Reuters": "39건",
 "FinancialJuice": "100건",
 "SEC EDGAR": "실패 HTTPError",
 "Fox Business": "50건"
@@ -67,6 +67,16 @@
 "seen": "2026-11-23T14:15:52+00:00"
 },
 {
+"id": "84a0a80ded82",
+"t": "WMT",
+"title": "That’s a Wrap! The Q3 Earnings Season Concludes with a Look at Holiday Shopping from the Retailers",
+"url": "https://www.wallstreethorizon.com/blog/Thats-a-Wrap-The-Q3-Earnings-Season-Concludes-with-a-Look-at-Holiday-Shopping-from-the-Retailers",
+"pub": "2026-11-23T14:07:37+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-23T14:20:06+00:00"
+},
+{
 "id": "e24fc9fb1bdf",
 "t": "NVDA",
 "title": "Nvidia Reinstates Jensen Huang as CEO Days After Board Ruled Out His Return",
@@ -105,6 +115,16 @@
 "src": "Yahoo Finance",
 "kind": "news",
 "seen": "2026-11-23T14:15:52+00:00"
+},
+{
+"id": "fd507587a7d5",
+"t": "MU",
+"title": "“I Absolutely Do Not Expect” Customers to Break Their Deals, Micron’s CEO Says. Here’s What’s Riding on It",
+"url": "https://www.tikr.com/blog/i-absolutely-do-not-expect-customers-to-break-their-deals-microns-ceo-says-heres-whats-riding-on-it",
+"pub": "2026-11-23T14:04:12+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-23T14:20:06+00:00"
 },
 {
 "id": "90596e9964d0",
@@ -175,6 +195,46 @@
 "src": "Yahoo Finance",
 "kind": "news",
 "seen": "2026-11-23T14:15:52+00:00"
+},
+{
+"id": "41259fa0e199",
+"t": "TENB",
+"title": "CyberAgents Exchange to Recognize Defenders Building Agentic Solutions that Improve AI Security",
+"url": "https://finance.yahoo.com/technology/ai/articles/cyberagents-exchange-recognize-defenders-building-140000039.html",
+"pub": "2026-11-23T14:00:00+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-23T14:20:06+00:00"
+},
+{
+"id": "5f03b757a2f8",
+"t": "JPM",
+"title": "J.P. Morgan NextList Turns 10: The Books, Stages and Destinations Defining What's Next in 2027",
+"url": "https://finance.yahoo.com/media-advertising/articles/j-p-morgan-nextlist-turns-140000015.html",
+"pub": "2026-11-23T14:00:00+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-23T14:20:06+00:00"
+},
+{
+"id": "eab01e15b818",
+"t": "GS",
+"title": "Key1 Capital, Founded by Former Goldman Sachs Leaders, Announces $320M In First Close for Second Late Growth Fund Following Two Major Exits",
+"url": "https://finance.yahoo.com/technology/articles/key1-capital-founded-former-goldman-140000765.html",
+"pub": "2026-11-23T14:00:00+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-23T14:20:06+00:00"
+},
+{
+"id": "b9d5a5bb307d",
+"t": "SNOW",
+"title": "Attentive MCP Launches on Snowflake Marketplace",
+"url": "https://finance.yahoo.com/technology/ai/articles/attentive-mcp-launches-snowflake-marketplace-140000037.html",
+"pub": "2026-11-23T14:00:00+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-23T14:20:06+00:00"
 },
 {
 "id": "0e89b00109b6",
@@ -335,6 +395,36 @@
 "src": "Yahoo Finance",
 "kind": "news",
 "seen": "2026-11-23T14:15:52+00:00"
+},
+{
+"id": "90096f7ec8d3",
+"t": "GS",
+"title": "Charles Schwab to Present at Goldman Sachs 2026 Financial Services Conference",
+"url": "https://finance.yahoo.com/markets/stocks/articles/charles-schwab-present-goldman-sachs-134500274.html",
+"pub": "2026-11-23T13:45:00+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-23T14:20:06+00:00"
+},
+{
+"id": "6f8ee7a784cb",
+"t": "CRM",
+"title": "Salesforce’s Cloud Software Business Is Slowing—and AI Can’t Save It Yet, Say Analysts",
+"url": "https://finance.yahoo.com/m/c3fc1db7-7acb-3f4b-82eb-aecf4b5c650e/salesforce%E2%80%99s-cloud-software.html",
+"pub": "2026-11-23T13:45:00+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-23T14:20:06+00:00"
+},
+{
+"id": "d3c178a9791d",
+"t": "AXP",
+"title": "Energy Fuels Targets One Million Pounds of Uranium Production at White Mesa Mill as US Mining Projects Advance",
+"url": "https://investorshub.advfn.com/market-news/article/40520/energy-fuels-targets-one-million-pounds-of-uranium-production-at-white-mesa-mill-as-us-mining-projects-advance",
+"pub": "2026-11-23T13:44:16+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-23T14:20:06+00:00"
 },
 {
 "id": "995e1132c5aa",
@@ -838,6 +928,16 @@
 "seen": "2026-11-23T14:15:52+00:00"
 },
 {
+"id": "bef773ca51ee",
+"t": "BABA",
+"title": "Alibaba Group Holding Limited (BABA) Is a Trending Stock: Facts to Know Before Betting on It",
+"url": "https://finance.yahoo.com/markets/stocks/articles/alibaba-group-holding-limited-baba-130006745.html",
+"pub": "2026-11-23T13:00:06+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-23T14:20:06+00:00"
+},
+{
 "id": "f920beef66ad",
 "t": "AMD",
 "title": "Advanced Micro Devices, Inc. (AMD) is Attracting Investor Attention: Here is What You Should Know",
@@ -856,6 +956,36 @@
 "src": "Yahoo Finance",
 "kind": "news",
 "seen": "2026-11-23T14:15:52+00:00"
+},
+{
+"id": "23222b58f7aa",
+"t": "ALB",
+"title": "Albemarle Corporation (ALB) is Attracting Investor Attention: Here is What You Should Know",
+"url": "https://finance.yahoo.com/markets/stocks/articles/albemarle-corporation-alb-attracting-investor-130005076.html",
+"pub": "2026-11-23T13:00:05+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-23T14:20:06+00:00"
+},
+{
+"id": "a46e206567ac",
+"t": "JPM",
+"title": "Investors Heavily Search JPMorgan Chase & Co. (JPM): Here is What You Need to Know",
+"url": "https://finance.yahoo.com/markets/stocks/articles/investors-heavily-search-jpmorgan-chase-130004248.html",
+"pub": "2026-11-23T13:00:04+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-23T14:20:06+00:00"
+},
+{
+"id": "1c9c1a06743f",
+"t": "CDNS",
+"title": "Is Trending Stock Cadence Design Systems, Inc. (CDNS) a Buy Now?",
+"url": "https://finance.yahoo.com/markets/stocks/articles/trending-stock-cadence-design-systems-130004549.html",
+"pub": "2026-11-23T13:00:04+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-23T14:20:06+00:00"
 },
 {
 "id": "e9ba8e53113a",
@@ -1039,6 +1169,16 @@
 "orig_url": "https://www.bloomberg.com/news/videos/2026-11-23/why-ed-yardeni-lowered-his-year-end-s-p-500-target-video"
 },
 {
+"id": "283801edc47c",
+"t": "RVMD",
+"title": "5 Biotech Stocks Investors Can Consider Adding to Their Portfolio",
+"url": "https://finance.yahoo.com/healthcare/articles/5-biotech-stocks-investors-consider-125300629.html",
+"pub": "2026-11-23T12:53:00+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-23T14:20:06+00:00"
+},
+{
 "id": "9a3f536c939c",
 "t": "PG",
 "title": "2 Safe S&P 500 Consumer Staples Stocks Boomers Can Buy and Hold Forever",
@@ -1189,6 +1329,16 @@
 "seen": "2026-11-23T12:45:22+00:00"
 },
 {
+"id": "d9361147076d",
+"t": "JPM",
+"title": "Bank of America Doubles EMEA Banking Team: Can Deal Revenues Grow?",
+"url": "https://finance.yahoo.com/markets/stocks/articles/bank-america-doubles-emea-banking-124100666.html",
+"pub": "2026-11-23T12:41:00+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-23T14:20:06+00:00"
+},
+{
 "id": "df2347cc2e99",
 "t": "MU",
 "title": "The Stock Market Rebound Is Here for a Good Time, Not a Long Time",
@@ -1329,6 +1479,16 @@
 "seen": "2026-11-23T13:45:52+00:00"
 },
 {
+"id": "35f9b47e83c4",
+"t": "CRM",
+"title": "FRSH's Record $73.9M Cash Flow: Can the Momentum Continue in 2027?",
+"url": "https://finance.yahoo.com/markets/stocks/articles/frshs-record-73-9m-cash-123100059.html",
+"pub": "2026-11-23T12:31:00+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-23T14:20:06+00:00"
+},
+{
 "id": "44fa6f5c7722",
 "t": "FDX",
 "title": "FedEx-led consortium finalizes $9.2B deal for Polish delivery company",
@@ -1347,6 +1507,16 @@
 "src": "Yahoo Finance",
 "kind": "news",
 "seen": "2026-11-23T13:45:52+00:00"
+},
+{
+"id": "edbd26e44965",
+"t": "BRKB",
+"title": "Here's How Much You'd Have If You Invested $1000 in Berkshire Hathaway B a Decade Ago",
+"url": "https://finance.yahoo.com/markets/stocks/articles/heres-much-youd-invested-1000-123002224.html",
+"pub": "2026-11-23T12:30:02+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-23T14:20:06+00:00"
 },
 {
 "id": "e4c7061f6ffe",
@@ -7850,176 +8020,6 @@
 "seen": "2026-11-21T20:52:52+00:00"
 },
 {
-"id": "5f3cbe24ac7c",
-"t": "NVDA",
-"title": "2 Financial Stocks to Buy Near Their 52-Week Lows",
-"url": "https://www.fool.com/investing/2026/11/21/2-financial-stocks-to-buy-near-their-52-week-lows/?.tsrc=rss",
-"pub": "2026-11-21T20:43:01+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-21T21:14:08+00:00"
-},
-{
-"id": "2d3dba6b83cd",
-"t": "VOO",
-"title": "The S&P 500 Is Now Below Every Wall Street Year-End Target for 2026",
-"url": "https://247wallst.com/investing/2026/11/21/the-sp-500-is-now-below-every-wall-street-year-end-target-for-2026/?.tsrc=rss",
-"pub": "2026-11-21T20:42:00+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-21T20:52:52+00:00"
-},
-{
-"id": "4bff7efbb404",
-"t": "NET",
-"title": "Billionaire Druckenmiller’s New AI Thesis Could Crush These 5 Overvalued Cybersecurity Stocks",
-"url": "https://finance.yahoo.com/technology/ai/articles/billionaire-druckenmiller-ai-thesis-could-202147060.html?.tsrc=rss",
-"pub": "2026-11-21T20:21:47+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-21T20:52:52+00:00"
-},
-{
-"id": "7f7ef47ef737",
-"t": "GOOGL",
-"title": "$1,000 in Anthropic Stock or XRP: Which Could Be Worth More in 5 Years?",
-"url": "https://247wallst.com/investing/cryptocurrency/2026/11/21/1000-in-anthropic-stock-or-xrp-which-could-be-worth-more-in-5-years/?.tsrc=rss",
-"pub": "2026-11-21T20:11:31+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-21T20:43:38+00:00"
-},
-{
-"id": "a6220a3b1011",
-"t": "CRWD",
-"title": "3 Growth Stocks To Own In November 2026",
-"url": "https://finance.yahoo.com/markets/stocks/articles/3-growth-stocks-own-november-200734758.html?.tsrc=rss",
-"pub": "2026-11-21T20:07:34+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-21T20:52:52+00:00"
-},
-{
-"id": "4a12b178d67c",
-"t": "MCHP",
-"title": "Texas Instruments, Analog Devices and Microchip Pay Dividends Through Chip Downturns",
-"url": "https://247wallst.com/investing/2026/11/21/texas-instruments-analog-devices-and-microchip-pay-dividends-through-chip-downturns/?.tsrc=rss",
-"pub": "2026-11-21T20:07:09+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-21T20:43:38+00:00"
-},
-{
-"id": "6c0f0f111a58",
-"t": "NVDA",
-"title": "1 Compelling Reason to Buy Vistra Stock Before November Ends",
-"url": "https://www.fool.com/investing/2026/11/21/1-compelling-reason-to-buy-vistra-stock-before-november-ends/?.tsrc=rss",
-"pub": "2026-11-21T20:05:02+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-21T20:43:38+00:00"
-},
-{
-"id": "ff9521c106bb",
-"t": "NVDA",
-"title": "The S&P 500 Is Having the Longest Losing Streak Since February 2020",
-"url": "https://247wallst.com/investing/2026/11/21/the-sp-500-is-having-the-longest-losing-streak-since-february-2020/?.tsrc=rss",
-"pub": "2026-11-21T20:02:04+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-21T20:14:31+00:00"
-},
-{
-"id": "5a1361342311",
-"t": "META",
-"title": "A $3.2 Billion Fund Just Bought These 3 Stocks",
-"url": "https://www.tikr.com/blog/a-3-2-billion-fund-just-bought-these-3-stocks?ref=yahoofinance&tlnk=yf-261121-5m8xrrcc&.tsrc=rss",
-"pub": "2026-11-21T19:52:12+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-21T20:43:38+00:00"
-},
-{
-"id": "da1e2bfb401c",
-"t": "TSLA",
-"title": "Musk Says Cybercab “Covers About 90%” of Passenger Miles. Tesla’s Next Robotaxi Is a Wheel-Less Model Y",
-"url": "https://www.tikr.com/blog/musk-says-cybercab-covers-about-90-of-passenger-miles-teslas-next-robotaxi-is-a-wheel-less-model-y?ref=yahoofinance&tlnk=yf-261121-466h9wgx&.tsrc=rss",
-"pub": "2026-11-21T19:52:03+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-21T20:14:31+00:00"
-},
-{
-"id": "5bd716010f76",
-"t": "NVDA",
-"title": "Meet the Warren Buffett Rule That Makes This Consumer Stock a Buy With $1,000 Right Now",
-"url": "https://www.fool.com/investing/2026/11/21/meet-the-warren-buffett-rule-that-makes-this-consumer-stock-a-buy-with-1000-right-now/?.tsrc=rss",
-"pub": "2026-11-21T19:47:02+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-21T20:03:56+00:00"
-},
-{
-"id": "4090984fb106",
-"t": "AMZN",
-"title": "A $2.2 Billion Fund Just Bought These 3 Stocks",
-"url": "https://www.tikr.com/blog/a-2-2-billion-fund-just-bought-these-3-stocks-2?ref=yahoofinance&tlnk=yf-261121-75qm98f6&.tsrc=rss",
-"pub": "2026-11-21T19:35:35+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-21T20:14:31+00:00"
-},
-{
-"id": "e0ac2e85f96f",
-"t": "SPCX",
-"title": "Better Recent IPO: SpaceX or Anthropic?",
-"url": "https://www.fool.com/investing/2026/11/21/better-recent-ipo-spacex-or-anthropic/?.tsrc=rss",
-"pub": "2026-11-21T19:35:02+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-21T19:44:12+00:00"
-},
-{
-"id": "be01fe9f1e67",
-"t": "TSLA",
-"title": "Cathie Wood Doubles Down On ‘Highest Conviction Names’ Nvidia, Tesla and AMD As Cyclical Tech Stocks Get ‘Slaughtered’ Amid Market Pullback",
-"url": "https://finance.yahoo.com/markets/stocks/articles/cathie-wood-doubles-down-highest-193008245.html?.tsrc=rss",
-"pub": "2026-11-21T19:30:08+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-21T20:43:38+00:00"
-},
-{
-"id": "52430d970717",
-"t": "AMZN",
-"title": "Amazon tells NYC shoppers a Mamdani-backed delivery bill could cost them up to $664 a year per household",
-"url": "https://finance.yahoo.com/economy/policy/articles/amazon-tells-nyc-shoppers-mamdani-193000343.html?.tsrc=rss",
-"pub": "2026-11-21T19:30:00+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-21T19:44:12+00:00"
-},
-{
-"id": "d11948d88f22",
-"t": "NVDA",
-"title": "Medtronic Is About to Report Its First Earnings Since Spinning Off MiniMed. Should You Buy the Stock Before Nov. 24?",
-"url": "https://www.fool.com/investing/2026/11/21/medtronic-is-about-to-report-its-first-earnings-since-spinning-off-minimed-should-you-buy-the-stock-before-nov-24/?.tsrc=rss",
-"pub": "2026-11-21T19:27:02+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-21T19:44:12+00:00"
-},
-{
-"id": "df485e65fd19",
-"t": "NVDA",
-"title": "2 Growth Stocks That Could Double by 2031",
-"url": "https://www.fool.com/investing/2026/11/21/2-growth-stocks-that-could-double-by-2031/?.tsrc=rss",
-"pub": "2026-11-21T19:25:02+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-21T19:44:12+00:00"
-},
-{
 "id": "3c4af30a8f90",
 "t": "",
 "title": "US credit-default risks ease further after Huang reinstatement.",
@@ -8028,6 +8028,16 @@
 "src": "FinancialJuice",
 "kind": "market",
 "seen": "2026-11-23T14:15:52+00:00"
+},
+{
+"id": "cc9a8fb91c15",
+"t": "",
+"title": "Dollar Jumps as Nvidia Reinstates Jensen Huang",
+"url": "https://www.wsj.com/finance/currencies/yen-may-strengthen-vs-dollar-on-diminished-risk-appetite-6434fe7e",
+"pub": "2026-11-23T14:16:00+00:00",
+"src": "WSJ",
+"kind": "market",
+"seen": "2026-11-23T14:20:06+00:00"
 },
 {
 "id": "fade1ca0168b",
@@ -11006,16 +11016,6 @@
 "url": "https://www.wsj.com/finance/commodities-futures/oil-falls-amid-risk-off-sentiment-c478ebdc?mod=rss_markets_main",
 "pub": "2026-11-23T00:41:00+00:00",
 "src": "WSJ",
-"kind": "market",
-"seen": "2026-11-23T00:44:55+00:00"
-},
-{
-"id": "9063eeb60cad",
-"t": "",
-"title": "Treasuries' Negative Correlation to Stocks Is Back: State Street",
-"url": "https://www.bloomberg.com/news/videos/2026-11-23/why-treasuries-negative-correlation-to-stocks-is-back-video",
-"pub": "2026-11-23T00:30:45+00:00",
-"src": "Bloomberg",
 "kind": "market",
 "seen": "2026-11-23T00:44:55+00:00"
 }
