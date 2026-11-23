@@ -1,13 +1,13 @@
 {
-"updated_kst": "2026-11-23 08:52",
-"rot": 78,
+"updated_kst": "2026-11-23 09:14",
+"rot": 138,
 "how": "Scout(프로그램)이 10분마다 모은 기사 제목·링크와 공시예요. Wren이 공식 출처로 확인한 뒤 회사 화면에 한국어로 반영해요. 본문은 받지 않아요.",
 "sources": {
 "Yahoo Finance": "120종목 확인 · 실패 0",
 "CNBC": "63건",
-"Bloomberg": "25건",
+"Bloomberg": "27건",
 "WSJ": "61건",
-"Reuters": "35건",
+"Reuters": "44건",
 "FinancialJuice": "100건",
 "SEC EDGAR": "실패 HTTPError",
 "Fox Business": "50건"
@@ -504,6 +504,16 @@
 "seen": "2026-11-22T19:15:38+00:00"
 },
 {
+"id": "7d0d381335dc",
+"t": "DELL",
+"title": "Inflation, Best Buy, Zoom, Dell, Deere, and More to Watch This Week",
+"url": "https://finance.yahoo.com/m/b0484e57-7de1-3e23-9bf6-f4cc21f76c51/inflation%2C-best-buy%2C-zoom%2C.html?.tsrc=rss",
+"pub": "2026-11-22T19:00:00+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-23T00:14:09+00:00"
+},
+{
 "id": "2945d1bf5b1d",
 "t": "NVDA",
 "title": "Palantir Stock Could Finish 2026 Lower. Its Only 2 Losing Years Ended Very Differently.",
@@ -692,6 +702,16 @@
 "src": "Yahoo Finance",
 "kind": "news",
 "seen": "2026-11-22T18:44:35+00:00"
+},
+{
+"id": "239da657caee",
+"t": "DELL",
+"title": "Tech and AI Sentiment, Thanksgiving and Other Key Things to Watch this Week",
+"url": "https://www.barchart.com/story/news/8956898/tech-and-ai-sentiment-thanksgiving-and-other-key-things-to-watch-this-week?.tsrc=rss",
+"pub": "2026-11-22T18:00:03+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-23T00:14:09+00:00"
 },
 {
 "id": "405009f0c22f",
@@ -7994,24 +8014,54 @@
 "seen": "2026-11-20T21:44:59+00:00"
 },
 {
-"id": "57f4d621279e",
-"t": "NFLX",
-"title": "Walt Disney (DIS) Says Its In House AI Cuts Film Compute Costs 30%",
-"url": "https://finance.yahoo.com/technology/ai/articles/walt-disney-dis-says-house-211608108.html?.tsrc=rss",
-"pub": "2026-11-20T21:16:08+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-20T21:44:59+00:00"
+"id": "a2de653decf1",
+"t": "",
+"title": "UK Workers Stay Put as Safety Trumps Pay in Perilous Jobs Market",
+"url": "https://www.bloomberg.com/news/articles/2026-11-23/uk-workers-stay-put-as-safety-trumps-pay-in-perilous-jobs-market",
+"pub": "2026-11-23T00:01:00+00:00",
+"src": "Bloomberg",
+"kind": "market",
+"seen": "2026-11-23T00:14:09+00:00"
 },
 {
-"id": "aa67bfc807ac",
-"t": "NVDA",
-"title": "Analysts See 40% Boost for Take-Two Stock on Blowout Grand Theft Auto VI Sales. Are They Right?",
-"url": "https://www.fool.com/investing/2026/11/20/analysts-see-40-boost-for-take-two-stock-on-blowout-grand-theft-auto-vi-sales-are-they-right/?.tsrc=rss",
-"pub": "2026-11-20T21:15:02+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-20T21:44:59+00:00"
+"id": "836060f746a5",
+"t": "",
+"title": "South Korea’s Early Exports Gain After $1 Trillion Milestone",
+"url": "https://www.bloomberg.com/news/articles/2026-11-23/south-korea-s-early-exports-gain-after-1-trillion-milestone",
+"pub": "2026-11-23T00:00:00+00:00",
+"src": "Bloomberg",
+"kind": "market",
+"seen": "2026-11-23T00:14:09+00:00"
+},
+{
+"id": "43e16a85d7a0",
+"t": "",
+"title": "Treasury Futures Fall as Rising Stock Futures Damp Haven Demand",
+"url": "https://www.bloomberg.com/news/articles/2026-11-22/treasury-futures-fall-as-rising-stock-futures-damp-haven-demand",
+"pub": "2026-11-22T23:59:06+00:00",
+"src": "Bloomberg",
+"kind": "market",
+"seen": "2026-11-23T00:14:09+00:00"
+},
+{
+"id": "3c7107c493c9",
+"t": "",
+"title": "Libya's NOC: valve closure on Sharara oil pipeline by unlawful group to cut about 350,000 bpd of output",
+"url": "https://www.financialjuice.com/News/9863606/Libyas-NOC-valve-closure-on-Sharara-oil-pipeline-by-unlawful-group-to-cut-about-350000-bpd-of-output.aspx?xy=rss",
+"pub": "2026-11-22T23:57:48+00:00",
+"src": "FinancialJuice",
+"kind": "market",
+"seen": "2026-11-23T00:14:09+00:00"
+},
+{
+"id": "59ed46ef367e",
+"t": "",
+"title": "Yen May Strengthen Vs. Dollar on Diminished Risk Appetite",
+"url": "https://www.wsj.com/finance/currencies/yen-may-strengthen-vs-dollar-on-diminished-risk-appetite-6434fe7e?mod=rss_markets_main",
+"pub": "2026-11-22T23:54:00+00:00",
+"src": "WSJ",
+"kind": "market",
+"seen": "2026-11-23T00:14:09+00:00"
 },
 {
 "id": "e68aaf3281a3",
@@ -8142,6 +8192,16 @@
 "src": "Bloomberg",
 "kind": "market",
 "seen": "2026-11-22T21:44:25+00:00"
+},
+{
+"id": "c41203260cc2",
+"t": "",
+"title": "4576.t - Reuters",
+"url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBwLURIcVNpVm9yRThxUzZwcVVxa0gwX3ljcjZRSEk0MkVqWWI5dDRCR05FM2dfeGRQdkZsbXVBUlk4bm5vWTAwWnhGNHZGc2l2VExtVjU0ZTlRa3pVTFI4TVhuTXJyUWZCRHdnY29tc3V0dUJ3MzFrMA?oc=5",
+"pub": "2026-11-22T20:47:14+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-23T00:14:09+00:00"
 },
 {
 "id": "3e879bcc0620",
@@ -8364,6 +8424,16 @@
 "seen": "2026-11-22T20:44:25+00:00"
 },
 {
+"id": "c9067a521c44",
+"t": "",
+"title": "Nichimo Co Ltd (8091.T) | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNcDFOSFFOM0FKZDk4ZWlrWmtLMXlTamJQU19ZVHNncmZCZ1EyS2E5Y2JDOUd6Njd3YmNSTE83LUlIcnZ0WHFzczJEMExrbUtnWmltOVhNcERUSEtsdERsYUFnSDlxdFpNelA0QWxVMms0eTZUamwwNmc4TEMxWVlBT2txWWpCeW9ZSTBXMDFnQ21lWFh5SFQwZFZmOHRzdmNjU0dZaDBTcw?oc=5",
+"pub": "2026-11-22T16:19:24+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-23T00:14:09+00:00"
+},
+{
 "id": "52100f89d495",
 "t": "",
 "title": "By The Way: Headlines You May Have Missed",
@@ -8582,6 +8652,16 @@
 "src": "Reuters",
 "kind": "market",
 "seen": "2026-11-22T23:44:00+00:00"
+},
+{
+"id": "569fe82ba8af",
+"t": "",
+"title": "Oasis Securities Ltd (OASE.BO) | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1BdTRpUlBzaHJ5T2pkcUFIVnRnbGJVS2VHNUo2SEMyeVhyMWdNV3B5TWZIVElLLWpCMlpoQVZZT25lSi1pVEFtcVY2dG80eUpMTDIwWUhiU085d3IxMGR5MjVYTF9fZTlMQU9tbVpyRQ?oc=5",
+"pub": "2026-11-22T14:50:34+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-23T00:14:09+00:00"
 },
 {
 "id": "9020aeaad346",
@@ -10932,86 +11012,6 @@
 "src": "Reuters",
 "kind": "market",
 "seen": "2026-11-21T20:43:38+00:00"
-},
-{
-"id": "d7572727f6f7",
-"t": "",
-"title": "Hyperblock Inc (HYBOF.PK) | Stock Price & Latest News - Reuters",
-"url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1wOEtKOVFUdmlXR2FXNWVqckRGMVh3VDZOZWhodjdkMHhOa2xoZml3aG05cTBTYkhpYThnWWFHeEM5c1hnU1ZYdl90REc4aEotVm1xVklOM0lDUkN1SWdSVGVRN0ZnWDMzSEh1ZGthdy0?oc=5",
-"pub": "2026-11-21T15:43:55+00:00",
-"src": "Reuters",
-"kind": "market",
-"seen": "2026-11-22T01:43:56+00:00"
-},
-{
-"id": "d28788a0ec66",
-"t": "",
-"title": "Pointed! Bloomberg’s Weekly News Quiz For Risk-Takers",
-"url": "https://www.bloomberg.com/news/videos/2026-11-21/pointed-bloomberg-s-weekly-news-quiz-for-risk-takers-video",
-"pub": "2026-11-21T15:43:12+00:00",
-"src": "Bloomberg",
-"kind": "market",
-"seen": "2026-11-21T15:58:00+00:00"
-},
-{
-"id": "46a3f6bfbdc4",
-"t": "",
-"title": "Finland border guard: crew of Sparta II cargo ship evacuating into life raft and rescue boat",
-"url": "https://www.financialjuice.com/News/9863055/Finland-border-guard-crew-of-Sparta-II-cargo-ship-evacuating-into-life-raft-and-rescue-boat.aspx?xy=rss",
-"pub": "2026-11-21T15:31:28+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-21T15:44:37+00:00"
-},
-{
-"id": "a79374f6b1ee",
-"t": "",
-"title": "Finland border guard: crew of Sparta II cargo ship evacuating into life raft and rescue boat",
-"url": "https://www.financialjuice.com/News/9863055/Finland-border-guard-crew-of-Sparta-II-cargo-ship-evacuating-into-life-raft-and-rescue-boat.aspx",
-"pub": "2026-11-21T15:31:28+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-21T19:14:53+00:00"
-},
-{
-"id": "691aeea036b1",
-"t": "",
-"title": "Goldman’s SpaceX Pitch Helps Solve AI Debt Puzzle: Credit Weekly",
-"url": "https://www.bloomberg.com/news/articles/2026-11-21/goldman-s-spacex-pitch-helps-solve-ai-debt-puzzle-credit-weekly",
-"pub": "2026-11-21T15:31:22+00:00",
-"src": "Bloomberg",
-"kind": "market",
-"seen": "2026-11-21T15:58:00+00:00"
-},
-{
-"id": "1e909d774291",
-"t": "",
-"title": "Thanksgiving Dinner Is Moving to Restaurants",
-"url": "https://www.bloomberg.com/news/videos/2026-11-21/thanksgiving-dinner-is-moving-to-restaurants-video",
-"pub": "2026-11-21T15:28:00+00:00",
-"src": "Bloomberg",
-"kind": "market",
-"seen": "2026-11-21T15:44:37+00:00"
-},
-{
-"id": "926516bb283e",
-"t": "",
-"title": "Rallybio Corp (RLYB.OQ) | Stock Price & Latest News - Reuters",
-"url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5tNFA2QlJyV3JGWFgtMEtEbWtIZmVkOTZIZ2hrOGpyWHdsdkNGYnY4NG83WGtRVVluX3pGRGx6VGU1VERDQVFzQmRocU1yTURtUWVzanIzSmkxNExZYVdB?oc=5",
-"pub": "2026-11-21T15:24:20+00:00",
-"src": "Reuters",
-"kind": "market",
-"seen": "2026-11-21T20:52:52+00:00"
-},
-{
-"id": "51f2f6e7f570",
-"t": "",
-"title": "Rallybio Corp (RLYB.OQ) | Stock Price & Latest News - Reuters",
-"url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1hQm9lS0hmaFFjcFdta09kUHZoSEVDc1FsVW5xSWx3cFZnU2VSYWh0RG5vQWZQcnVWSmxwemhqZEh1ZnlSM2ZpWms5VHJldFdLcjlCNEk3c3doWWh6Q1E?oc=5",
-"pub": "2026-11-21T15:24:20+00:00",
-"src": "Reuters",
-"kind": "market",
-"seen": "2026-11-22T05:41:13+00:00"
 }
 ]
 }
