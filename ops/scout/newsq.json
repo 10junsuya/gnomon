@@ -1,18 +1,48 @@
 {
-"updated_kst": "2026-11-23 15:14",
-"rot": 84,
+"updated_kst": "2026-11-23 15:44",
+"rot": 144,
 "how": "Scout(프로그램)이 10분마다 모은 기사 제목·링크와 공시예요. Wren이 공식 출처로 확인한 뒤 회사 화면에 한국어로 반영해요. 본문은 받지 않아요.",
 "sources": {
 "Yahoo Finance": "120종목 확인 · 실패 0",
 "CNBC": "63건",
 "Bloomberg": "31건",
 "WSJ": "61건",
-"Reuters": "31건",
+"Reuters": "33건",
 "FinancialJuice": "100건",
 "SEC EDGAR": "실패 HTTPError",
 "Fox Business": "50건"
 },
 "items": [
+{
+"id": "7ffb50275ba9",
+"t": "NVDA",
+"title": "Nvidia Just Reported Its First Quarter Without Jensen Huang. If the AI Trade Is Cracking, Warren Buffett’s Advice Comes Down to 1 Move.",
+"url": "https://www.fool.com/investing/2026/11/23/nvidia-just-reported-its-first-quarter-without-jensen-huang-if-the-ai-trade-is-cracking-warren-buffett-s-advice-comes-down-to-1-move/?.tsrc=rss",
+"pub": "2026-11-23T06:20:02+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-23T06:44:07+00:00"
+},
+{
+"id": "1b663ba30b44",
+"t": "SPY",
+"title": "Stock Market: Will S&P 500 Open Up or Down Today?",
+"url": "https://www.benzinga.com/markets/prediction-markets/26/11/63518745/stock-market-will-sp-500-open-up-or-down-today-83?utm_source=yahooFinance&utm_campaign=partner_feed&utm_medium=referral&.tsrc=rss",
+"pub": "2026-11-23T06:16:44+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-23T06:44:07+00:00"
+},
+{
+"id": "bc9e7df568ab",
+"t": "NVDA",
+"title": "Anthropic Stock Trend, Jensen Huang’s Potential Return As Nvidia CEO And Dell’s Q4 Results To Keep Tech Investors Busy This Week",
+"url": "https://stocktwits.com/news-articles/markets/equity/anthropic-stock-trend-jensen-huang-s-potential-return-as-nvidia-ceo-and-dell-s-q4-results-to-keep-tech-investors-busy-this-week/cNbYAtgR9Sf?.tsrc=rss",
+"pub": "2026-11-23T06:14:45+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-23T06:44:07+00:00"
+},
 {
 "id": "bcccf3416fe3",
 "t": "NVDA",
@@ -22,6 +52,16 @@
 "src": "Yahoo Finance",
 "kind": "news",
 "seen": "2026-11-23T06:14:15+00:00"
+},
+{
+"id": "23346d4e6489",
+"t": "NVDA",
+"title": "Green Week Ahead? Nvidia Futures Rip 6%, Nasdaq and S&P 500 Futures Snap Back 2%",
+"url": "https://beincrypto.com/nvidia-futures-rip-as-markets-rebound/?.tsrc=rss",
+"pub": "2026-11-23T06:00:00+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-23T06:44:07+00:00"
 },
 {
 "id": "a948a2992148",
@@ -82,6 +122,16 @@
 "src": "Yahoo Finance",
 "kind": "news",
 "seen": "2026-11-23T06:14:15+00:00"
+},
+{
+"id": "579d9d982b5b",
+"t": "SPCX",
+"title": "Musk Hails a “32 Hour Launch Pad Recycle” as SpaceX Sets Its Fastest Same-Pad Turnaround",
+"url": "https://www.tikr.com/blog/musk-hails-a-32-hour-launch-pad-recycle-as-spacex-sets-its-fastest-same-pad-turnaround?ref=yahoofinance&tlnk=yf-261123-q4c7xhq6&.tsrc=rss",
+"pub": "2026-11-23T04:52:13+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-23T06:44:07+00:00"
 },
 {
 "id": "e6e349ca1329",
@@ -7964,54 +8014,24 @@
 "seen": "2026-11-20T23:44:15+00:00"
 },
 {
-"id": "03264ffa0d4f",
-"t": "ORCL",
-"title": "Credo Technology Group vs. Western Digital: Which Technology Stock Is a Better Buy for 2027?",
-"url": "https://www.fool.com/coverage/better-buy/2026/11/20/credo-technology-group-vs-western-digital-which-technology-stock-is-a-better-buy-for-2027/?.tsrc=rss",
-"pub": "2026-11-20T22:17:08+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-20T22:44:38+00:00"
+"id": "57dbb44155ac",
+"t": "",
+"title": "ABB to Buy Germany’s Ziehl-Abegg for $2.22 Billion",
+"url": "https://www.wsj.com/business/energy-oil/abb-to-buy-germanys-ziehl-abegg-for-2-22-billion-fad3bf35?mod=rss_markets_main",
+"pub": "2026-11-23T06:28:00+00:00",
+"src": "WSJ",
+"kind": "market",
+"seen": "2026-11-23T06:44:07+00:00"
 },
 {
-"id": "ef704f1b7160",
-"t": "CRWD",
-"title": "ZS Stock Soars After-Hours While CRWD Slips On Reported $265B Takeover Talks",
-"url": "https://stocktwits.com/news-articles/markets/equity/zs-stock-soars-after-hours-while-crwd-slips-on-reported-265-b-takeover-talks/cNbSHb0R91a?.tsrc=rss",
-"pub": "2026-11-20T22:16:02+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-20T23:14:14+00:00"
-},
-{
-"id": "342c29a0ac43",
-"t": "SPCX",
-"title": "SpaceX Plans to Spend $2.8 Billion on Gas Turbines. Here’s What That Much Natural Gas Demand Means for Pipeline Investors.",
-"url": "https://www.fool.com/investing/2026/11/20/spacex-plans-to-spend-usd2-8-billion-on-gas-turbines-here-s-what-that-much-natural-gas-demand-means-for-pipeline-investors/?.tsrc=rss",
-"pub": "2026-11-20T22:15:02+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-20T22:44:38+00:00"
-},
-{
-"id": "92e3ea8c5218",
-"t": "NVDA",
-"title": "Nvidia Plunges as SEC Probe Deepens AI Market Selloff | Closing Bell",
-"url": "https://finance.yahoo.com/video/nvidia-plunges-sec-probe-deepens-221134186.html?.tsrc=rss",
-"pub": "2026-11-20T22:11:34+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-20T23:14:14+00:00"
-},
-{
-"id": "719d6545cbcc",
-"t": "ON",
-"title": "Why Seagate Stock And AI Data Center Demand Are Back On Investors Radar",
-"url": "https://finance.yahoo.com/technology/ai/articles/why-seagate-stock-ai-data-221127563.html?.tsrc=rss",
-"pub": "2026-11-20T22:11:27+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-20T23:14:14+00:00"
+"id": "73db488b5b36",
+"t": "",
+"title": "Malaysia Palm Oil Industry Says CPO Tax-Waiver Window Has Passed",
+"url": "https://www.bloomberg.com/news/articles/2026-11-23/malaysia-palm-oil-industry-says-cpo-tax-waiver-window-has-passed",
+"pub": "2026-11-23T06:26:14+00:00",
+"src": "Bloomberg",
+"kind": "market",
+"seen": "2026-11-23T06:44:07+00:00"
 },
 {
 "id": "7f1627729988",
@@ -8202,6 +8222,16 @@
 "src": "Bloomberg",
 "kind": "market",
 "seen": "2026-11-23T04:13:56+00:00"
+},
+{
+"id": "c8aaa6ef0eb5",
+"t": "",
+"title": "Tesla Inc (TSLA.O) | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1NVlA5X1VtZkpsMHdqSUN2bm1IWm1lcmFLVjZqaWFMOEd1X2FpRVoxQ05WOUc2VWV0QVZONE5aazJuLWZSTHNNcHlDSHJKcnhtS3dmaUZhU2tGY29JNWc?oc=5",
+"pub": "2026-11-23T03:58:17+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-23T06:44:07+00:00"
 },
 {
 "id": "1b24a14139d5",
@@ -8524,6 +8554,16 @@
 "seen": "2026-11-23T05:13:49+00:00"
 },
 {
+"id": "8d8c2a1e2123",
+"t": "",
+"title": "1945.JNF - | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNR1ViT01qX09jSUtfcnd4SWxzYWszUldkU2RHVGIwc182WnI0U3g2bFR2NWo3S0tEQzZxUjU5SFVSUmdORnd2VnJ1TnZTaDU4NjdfOWo4cWRzYV9RcmhCTkIxUE5iNWVtUm9sSnhHZkxneV9BMnhfbXpFb25WZ2h0dkRqQ1l2eVMzYXZ3b0x6QmI?oc=5",
+"pub": "2026-11-23T00:58:33+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-23T06:44:07+00:00"
+},
+{
 "id": "4a3a91835be4",
 "t": "",
 "title": "2107.CHJ - | Stock Price & Latest News - Reuters",
@@ -8562,6 +8602,16 @@
 "src": "Reuters",
 "kind": "market",
 "seen": "2026-11-23T04:06:00+00:00"
+},
+{
+"id": "b49dac74746c",
+"t": "",
+"title": "ProShares UltraShort Anthropic (ANTY.OQ) | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5YRk1qeGZMMDBjNVg3Um1faElUWVFkR3JXbUdycGZneFpUQ2tkR2g4dzNIaHNnRDVXSHQzbWp1M0VwZDFMZmdtOVJOUEM3MXRlV3VKeHJ5YnFvSnJmRGdj?oc=5",
+"pub": "2026-11-23T00:57:47+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-23T06:44:07+00:00"
 },
 {
 "id": "65464a3ede14",
@@ -8642,6 +8692,16 @@
 "src": "Reuters",
 "kind": "market",
 "seen": "2026-11-23T04:13:56+00:00"
+},
+{
+"id": "388f53cb585b",
+"t": "",
+"title": "Insight Digital Partners II (DYOR.O) | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBNWkxpdURHaGRtUFJSaXZ2RnVteW5WY2lMNGpfaWQ1dTdDWVdoSDE1MHoyc0JJQlUtdXd0VE9MQl8zblNsaWtiUWhuRGY3WS1RN19pbXBkYmNEOU01YWhGX2NmVlg1OHc?oc=5",
+"pub": "2026-11-23T00:50:03+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-23T06:44:07+00:00"
 },
 {
 "id": "e08801938fac",
@@ -9222,6 +9282,16 @@
 "src": "Reuters",
 "kind": "market",
 "seen": "2026-11-23T01:44:22+00:00"
+},
+{
+"id": "61b801c43eb3",
+"t": "",
+"title": "3482.J1 - | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNZWRQak5jNjZHVjNHNXFVMlVWRWt2NkpEbDBGcW9iYTY4bi1KYmtJQkNxN3k2YnJDajZReEVCVE9BSGZUdHF2RGVLUlRaNDZCNC1oVkc2VEQwUmM5NlE1b0hvRmlGZGtPb3ZSWlhsbzdnaXNBZDBnMmoyems4MkR6WjZTc2Y?oc=5",
+"pub": "2026-11-22T16:55:55+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-23T06:44:07+00:00"
 },
 {
 "id": "64ab8d6a5d81",
@@ -10942,76 +11012,6 @@
 "src": "FinancialJuice",
 "kind": "market",
 "seen": "2026-11-22T01:43:56+00:00"
-},
-{
-"id": "508da51a08f0",
-"t": "",
-"title": "China commerce ministry: opposes US FCC vote to block Chinese telecoms from direct access to US phone numbers",
-"url": "https://www.financialjuice.com/News/9863209/China-commerce-ministry-opposes-US-FCC-vote-to-block-Chinese-telecoms-from-direct-access-to-US-phone-numbers.aspx?xy=rss",
-"pub": "2026-11-22T01:26:02+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-22T01:47:13+00:00"
-},
-{
-"id": "415b080fb31f",
-"t": "",
-"title": "Blockchain Digital Infrastructure Inc (AIB.A) | Stock Price & Latest News - Reuters",
-"url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBTbURUTU1qbEZ6b20xMVJLUFl0cFBhQ18xRmdXTlZRcnJlcUhUY05ocG91bTUtRUE2Y0tPM3RFZHl4Y2s0NGdsb3VKMTZfYWVRSVBRemRzTldBYzBURE1COGprV3dBUQ?oc=5",
-"pub": "2026-11-22T01:23:42+00:00",
-"src": "Reuters",
-"kind": "market",
-"seen": "2026-11-22T05:44:26+00:00"
-},
-{
-"id": "45dee155e349",
-"t": "",
-"title": "Blockchain Digital Infrastructure Inc (AIB.A) | Stock Price & Latest News - Reuters",
-"url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE8zR2ozdWdpM1ZBNHZhNUJLYk91aFlnUE9aeFJ1aGY0ZmtrRlFfblJITXNaRTg1bkpCank0c09FdGhOZzRxQnVuY3FSd3lGdmxKVTVpd3UtVE0zQ1FoYmpiV0NzY0w?oc=5",
-"pub": "2026-11-22T01:23:42+00:00",
-"src": "Reuters",
-"kind": "market",
-"seen": "2026-11-22T07:56:09+00:00"
-},
-{
-"id": "a086dfbefa24",
-"t": "",
-"title": "2DJ.LAS - | Stock Price & Latest News - Reuters",
-"url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPMGNfeDBMeWxfMlR3TnRZTW5DU25kNkJqZElfZnZCZi1KaWpjeXZJWDdqVmFBbFJOMUstRkhmVW9HMk5DUDJtckhKeWJZTW5ZbFhkUERDdk5WRHBydmF1bDc5UTVUSzdheHdKR2JETi1hS21QRzNhZkRLRVFnZ1JQR296RGczUQ?oc=5",
-"pub": "2026-11-22T01:20:44+00:00",
-"src": "Reuters",
-"kind": "market",
-"seen": "2026-11-22T07:56:09+00:00"
-},
-{
-"id": "b1cd99b2f344",
-"t": "",
-"title": "2DJ.LAS - | Stock Price & Latest News - Reuters",
-"url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPMy1VOVNiREFJaHNOLWxObzgycEl0Xzh0VXREanJvVXNqY2kwbF9oZ3JHWllPVG0weWVYWTMyVGFVVlU0X0Y0OEJ6eklKWVJhWUVYTlAxdi1DaVJmRkVHZUlybjdVcDdRR0R6SVRjbUd0Nk9KOXlDWndQY1hpUFhrN3RKSUQ?oc=5",
-"pub": "2026-11-22T01:20:44+00:00",
-"src": "Reuters",
-"kind": "market",
-"seen": "2026-11-22T19:15:38+00:00"
-},
-{
-"id": "ef7dcc4efa8b",
-"t": "",
-"title": "Horseshoe Metals Ltd (HOR.AX) | Stock Price & Latest News - Reuters",
-"url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5rRjlQQ0h6N1A1N3lSZ3FzY1pQWTZpTzVQSnV4NVY0SE9vQVZsRHJMem9ISnZkWVpiUEwta1JtaU1jdXgwSjdZalR3MC12RGxDTkZXbzl3a2sySy1EUEMwN2VvbGZRZy1tcThQd25R?oc=5",
-"pub": "2026-11-22T00:57:09+00:00",
-"src": "Reuters",
-"kind": "market",
-"seen": "2026-11-22T04:44:22+00:00"
-},
-{
-"id": "7b30f77e44f1",
-"t": "",
-"title": "Mistras Group Inc (MG.A) | Stock Price & Latest News - Reuters",
-"url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBycVdHMnc2T1hMeUVqS1puVVdxVmxDMDJ5dU5fTS14OFMxOWIwV0J5ZTdaaEJkdWhORlJOSlRNakg2YmpwQTB4cEF2QnY3ZWQ4RGRlak9malJXS0F2aXphN0lrbnJrcWtoXzc4?oc=5",
-"pub": "2026-11-22T00:56:27+00:00",
-"src": "Reuters",
-"kind": "market",
-"seen": "2026-11-22T21:25:33+00:00"
 }
 ]
 }
