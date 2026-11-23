@@ -1,13 +1,13 @@
 {
-"updated_kst": "2026-11-23 13:06",
-"rot": 82,
+"updated_kst": "2026-11-23 13:13",
+"rot": 142,
 "how": "Scout(프로그램)이 10분마다 모은 기사 제목·링크와 공시예요. Wren이 공식 출처로 확인한 뒤 회사 화면에 한국어로 반영해요. 본문은 받지 않아요.",
 "sources": {
 "Yahoo Finance": "120종목 확인 · 실패 0",
 "CNBC": "63건",
-"Bloomberg": "27건",
+"Bloomberg": "28건",
 "WSJ": "61건",
-"Reuters": "34건",
+"Reuters": "80건",
 "FinancialJuice": "100건",
 "SEC EDGAR": "실패 HTTPError",
 "Fox Business": "50건"
@@ -22,6 +22,16 @@
 "src": "Yahoo Finance",
 "kind": "news",
 "seen": "2026-11-23T04:06:00+00:00"
+},
+{
+"id": "8f7133641cb0",
+"t": "ARGX",
+"title": "Argenx Wins Its Myositis Trial and Posts $1.7 Billion in Quarterly Sales",
+"url": "https://finance.yahoo.com/healthcare/articles/argenx-wins-myositis-trial-posts-033101227.html?.tsrc=rss",
+"pub": "2026-11-23T03:31:01+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-23T04:13:56+00:00"
 },
 {
 "id": "95ac9366dfc3",
@@ -8004,14 +8014,24 @@
 "seen": "2026-11-20T22:14:08+00:00"
 },
 {
-"id": "b71178c448b0",
-"t": "SNPS",
-"title": "Synopsys (SNPS) Dips More Than Broader Market: What You Should Know",
-"url": "https://finance.yahoo.com/markets/stocks/articles/synopsys-snps-dips-more-broader-214502752.html?.tsrc=rss",
-"pub": "2026-11-20T21:45:02+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-20T23:44:15+00:00"
+"id": "ae279519bac0",
+"t": "",
+"title": "Australia Recession Risk Is ‘High and Rising,’ AMP’s Oliver Says",
+"url": "https://www.bloomberg.com/news/articles/2026-11-23/australia-recession-risk-is-high-and-rising-amp-s-oliver-says",
+"pub": "2026-11-23T04:02:45+00:00",
+"src": "Bloomberg",
+"kind": "market",
+"seen": "2026-11-23T04:13:56+00:00"
+},
+{
+"id": "5dd03296a89e",
+"t": "",
+"title": "South Africa’s Woolworths, Momentum Face Investor Pay Challenges",
+"url": "https://www.bloomberg.com/news/articles/2026-11-23/south-africa-s-woolworths-momentum-face-investor-pay-challenges",
+"pub": "2026-11-23T04:00:00+00:00",
+"src": "Bloomberg",
+"kind": "market",
+"seen": "2026-11-23T04:13:56+00:00"
 },
 {
 "id": "1b24a14139d5",
@@ -8234,6 +8254,16 @@
 "seen": "2026-11-23T01:14:45+00:00"
 },
 {
+"id": "50fb42de452c",
+"t": "",
+"title": "JVC.F - | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1YVHFlaFhsOVc5SHVDWjgtWnE5QmtZMTFiSzFjTTVfZWpQYWEyT3RiT0dUY3phVHoxc09ZR21US2x5RWctWEltbklyQWJjcWRJdl9pcW5sS1BUWFY5RWxhbjNYdUdhUFBPOXM4?oc=5",
+"pub": "2026-11-23T01:03:37+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-23T04:13:56+00:00"
+},
+{
 "id": "6098e19f39c9",
 "t": "",
 "title": "MRMXF.PQ - | Stock Price & Latest News - Reuters",
@@ -8304,6 +8334,16 @@
 "seen": "2026-11-23T02:44:11+00:00"
 },
 {
+"id": "cffc64084f2b",
+"t": "",
+"title": "SLRC.D - Reuters",
+"url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPMWYza29qTE8xZjNNemFNVGVZZEcwaEdrSkRIb09JNUhKdXFtUW4zUElBN3loWFZCWGN0ZGtQVVJYZXFkRENCSmVqVWFCa3N6WWlJV3VnRVEzZzN2TnJmRjI1ZVNmdjlXRzc0QTBvNFk3Nm1ORmpaS25BdzdQSWNjcTgwdE0?oc=5",
+"pub": "2026-11-23T00:51:41+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-23T04:13:56+00:00"
+},
+{
 "id": "5c0251f31e2e",
 "t": "",
 "title": "603926.SSh - | Stock Price & Latest News - Reuters",
@@ -8312,6 +8352,16 @@
 "src": "Reuters",
 "kind": "market",
 "seen": "2026-11-23T02:59:39+00:00"
+},
+{
+"id": "bba5232f5706",
+"t": "",
+"title": "YSX Tech Co Ltd (YSXT.OQ) | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5Pem5XUUFBZkN2ZjMxSEtrTDNUOVBEdVVHa2VLdVlHVm9hc1B4UHduSTRPTDdpS2NCUjI4dlZ2bGVsenI1cDdSR3ZKRmxpTXdiM1RfTjZZOXVRNHB5WGNhYUJUbGlhelctZEJqTzVMMA?oc=5",
+"pub": "2026-11-23T00:51:14+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-23T04:13:56+00:00"
 },
 {
 "id": "0e1ef746ff90",
@@ -8572,6 +8622,16 @@
 "src": "Reuters",
 "kind": "market",
 "seen": "2026-11-23T01:44:22+00:00"
+},
+{
+"id": "1ffb2ea4e884",
+"t": "",
+"title": "Nokian Renkaat Oyj (NKRKY.PK) | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBncDNFZjc4Q0t1UjNrY283SmJNWC1QeVRQb2ZhTHRGb2U3SkxLUFlDbmZ3UzNhRUQ0cC13Y0VtNTdoRm54eXdDbkZIa3lIQXptRGM3Xy05TTBOb1ZwM29hQmFqQ3JtZk8tdG8zQTJB?oc=5",
+"pub": "2026-11-22T20:51:39+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-23T04:13:56+00:00"
 },
 {
 "id": "c41203260cc2",
@@ -8932,6 +8992,16 @@
 "src": "Reuters",
 "kind": "market",
 "seen": "2026-11-23T02:59:39+00:00"
+},
+{
+"id": "b88fe5719fc5",
+"t": "",
+"title": "Windward Bio AG (WWB.OQ) | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNbS1jNmNHbGtFM2kyeHNGMm9BVW5LTVdpbFBDTjRXRnVWNWVta2ZJMUwyS3htckdDVkRIM1lOeElaSmhlbmtCZllqcVRCQTAtSDBlNnhfc0xOZjR0blU2VmFxdXZpa0x5M2xpQU9QUUN3VFhyTmJNLW4zY0kxNmVHUE5pWC1uNUpQ?oc=5",
+"pub": "2026-11-22T16:24:24+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-23T04:13:56+00:00"
 },
 {
 "id": "f8574375d297",
@@ -9452,6 +9522,16 @@
 "src": "Reuters",
 "kind": "market",
 "seen": "2026-11-22T19:50:27+00:00"
+},
+{
+"id": "ec0771412015",
+"t": "",
+"title": "BMO MSCI EAFE Selection Equity Index ETF (ESGE.TO) | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBDd1FpeTVZbHE0VWFWM1l6Rzg3N243SzRWdENacWYyQWZJb01LcXlwQUliVDhlOVVUZVl6alJwNGxiNzBiSXd2VjNwNVBMNmhPemtGSUVORk0tbDk1a1Fv?oc=5",
+"pub": "2026-11-22T13:02:03+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-23T04:13:56+00:00"
 },
 {
 "id": "9346ceb9d6bd",
@@ -10929,86 +11009,6 @@
 "title": "Saudi civil defense issues warning of potential threat in Mecca region",
 "url": "https://www.financialjuice.com/News/9863139/Saudi-civil-defense-issues-warning-of-potential-threat-in-Mecca-region.aspx?xy=rss",
 "pub": "2026-11-21T20:41:51+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-21T20:43:38+00:00"
-},
-{
-"id": "c4e1b57de193",
-"t": "",
-"title": "Saudi civil defense issues warning of potential threat in Mecca region",
-"url": "https://www.financialjuice.com/News/9863139/Saudi-civil-defense-issues-warning-of-potential-threat-in-Mecca-region.aspx",
-"pub": "2026-11-21T20:41:51+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-21T23:42:01+00:00"
-},
-{
-"id": "ac4380653d35",
-"t": "",
-"title": "Alchemy Labs Inc (ALCH.V) | Stock Price & Latest News - Reuters",
-"url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFAtZmlKV3NlLXcza2NzYjdaN1BvcjNNdm56aThrcndHc0NfbXBoX0w1QVVDX3ZQYkhBNU1rQkhTNG9HLWhuYVBHbURVVXU3anN4ck9ydHh6SFZDTVk2V3c?oc=5",
-"pub": "2026-11-21T20:41:38+00:00",
-"src": "Reuters",
-"kind": "market",
-"seen": "2026-11-22T11:14:06+00:00"
-},
-{
-"id": "b3834f7f5629",
-"t": "",
-"title": "Gentor Resources Inc (GNTOF.PK) | Stock Price & Latest News - Reuters",
-"url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1wTW5IR1ZnZjlSU0JzTE54LXAtaWI2V3ExNzZMZy1QbERoZ2xoeF94d09GTmFaMGdZWnlQYU1xeVJjWWNkWGZxNU1WNUNjZUFxamdyUE9ZWDRCaFFNamRSQ01IY1cwbmhXRHowYU9hVHI?oc=5",
-"pub": "2026-11-21T20:39:02+00:00",
-"src": "Reuters",
-"kind": "market",
-"seen": "2026-11-22T01:43:56+00:00"
-},
-{
-"id": "ec2eb36c6b19",
-"t": "",
-"title": "Asia Carbon Industries Inc (ACRB.PK) | Stock Price & Latest News - Reuters",
-"url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1VYURCWV9JUjBoNjlUYUVONm9oaHhpWGU5TlZubDNrbFBTM0Z2RFhDWnJQNHhERXJqODNLLVVKeHZWNzBXRU5CYmVDWnF2V2Mtd3pvNS1DSEkxbnhLMnM0Vl85TVg1ZnNBeGI4UVBsSQ?oc=5",
-"pub": "2026-11-21T20:38:29+00:00",
-"src": "Reuters",
-"kind": "market",
-"seen": "2026-11-22T01:43:56+00:00"
-},
-{
-"id": "c32c60a9706f",
-"t": "",
-"title": "American States Water Company (AWR.P) | Stock Price & Latest News - Reuters",
-"url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE15Q0lIQzFDdkNReG9Tb1R4d2lxZHBUbjA0NnVSdlJOaVpuYXhsNzhLb3ZqdmVXbnJOYzM3NlVEbG96TTZnaVJGVGN5TEZYS2M5aF9nV0JfOFRQZmRBMHJ3Sm9Yc09keTRzNXFvQg?oc=5",
-"pub": "2026-11-21T20:38:27+00:00",
-"src": "Reuters",
-"kind": "market",
-"seen": "2026-11-22T03:43:59+00:00"
-},
-{
-"id": "1165e7823c8f",
-"t": "",
-"title": "Bahrain's interior ministry raises another warning on potential threat - post on X",
-"url": "https://www.financialjuice.com/News/9863138/Bahrains-interior-ministry-raises-another-warning-on-potential-threat---post-on-X.aspx?xy=rss",
-"pub": "2026-11-21T20:36:31+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-21T20:43:38+00:00"
-},
-{
-"id": "001dba12bcd8",
-"t": "",
-"title": "Bahrain's interior ministry raises another warning on potential threat - post on X",
-"url": "https://www.financialjuice.com/News/9863138/Bahrains-interior-ministry-raises-another-warning-on-potential-threat---post-on-X.aspx",
-"pub": "2026-11-21T20:36:31+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-21T23:42:01+00:00"
-},
-{
-"id": "acd7a08c1ff5",
-"t": "",
-"title": "Bahrain air defences intercept, destroy hostile Iranian aerial attacks over Bahrain: king's media adviser",
-"url": "https://www.financialjuice.com/News/9863137/Bahrain-air-defences-intercept-destroy-hostile-Iranian-aerial-attacks-over-Bahrain-kings-media-adviser.aspx?xy=rss",
-"pub": "2026-11-21T20:35:23+00:00",
 "src": "FinancialJuice",
 "kind": "market",
 "seen": "2026-11-21T20:43:38+00:00"
