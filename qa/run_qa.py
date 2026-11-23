@@ -15,7 +15,7 @@ from playwright.sync_api import sync_playwright
 
 ROUTES = ["main", "home", "calendar", "news", "portfolio", "guide",
           "macro", "macro-price", "macro-job", "macro-rate", "macro-mkt", "macro-map-cpi", "check",
-          "amap", "amap-ai", "amap-semi", "amap-space", "amap-power", "amap-ai--sgus", "amap-semi--tsmc-az", "amap-space--artemis", "amap-power--crane"]  # A 화면 (2026-11-20 대표 승인, Vernon V-20261119-1541-2)
+          "ahub", "amap", "amap-ai", "amap-semi", "amap-space", "amap-power", "amap-ai--sgus", "amap-semi--tsmc-az", "amap-space--artemis", "amap-power--crane"]  # Aleph 산업 지도 (옛 A 화면, 2026-11-20 대표 승인, Vernon V-20261119-1541-2)
 VIEWPORTS = {"phone": (390, 844), "small": (320, 640), "desktop": (1280, 900)}
 THEMES = ["light", "dark"]
 TIMES = ["", "07:30", "09:02", "15:25", "23:50", "06:30"]

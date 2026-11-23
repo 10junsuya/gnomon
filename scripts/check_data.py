@@ -95,6 +95,10 @@ def check_src(where, src):
             err(where, f"출처 형식이 틀렸어요: {x!r} (예: [\"이름\", \"https://...\"])")
 
 
+EV_LEGACY = {ln.strip() for ln in (ROOT / "ops" / "events_nosrc.txt").read_text(encoding="utf-8").splitlines()
+             if ln.strip() and not ln.startswith("#")} if (ROOT / "ops" / "events_nosrc.txt").exists() else set()
+
+
 def check_events(ev, known):
     if not isinstance(ev, list):
         return err("events", "목록([ ])이어야 해요.")
@@ -116,6 +120,9 @@ def check_events(ev, known):
         if key in seen:
             err(w, "같은 회사·날짜 일정이 두 번 들어 있어요.")
         seen.add(key)
+        # 대표 승인 44번(2026-11-23): 일정마다 공식 출처 칸 src. 그 전부터 있던 일정은 ops/events_nosrc.txt 에 있으면 봐줘요
+        if e.get("src") is not None or f"{e.get('t')}:{e.get('d')}" not in EV_LEGACY:
+            check_src(w + " 일정 출처", e.get("src"))
         c = e.get("card")
         if c:
             if c.get("real") and not DATE.match(str(c.get("asof", ""))):
@@ -413,7 +420,7 @@ def _aimap_map(name, ai):
 
 
 def check_aimap(d):
-    """A 화면(산업 지도, data/aimap.json): 층 이름, 근거 꼬리표, 출처 링크, 확인일 모양을 본다.
+    """Aleph 산업 지도(옛 A 화면, data/aimap.json): 층 이름, 근거 꼬리표, 출처 링크, 확인일 모양을 본다.
     AI 는 맨 위 projects·layers 와 ai, 다른 산업(예: semi)은 그 키 안에 rows·co·e·layers·projects."""
     if not d:
         err("data/aimap.json", "비어 있어요")

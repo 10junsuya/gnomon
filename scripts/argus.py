@@ -36,6 +36,21 @@ def age_h(ts):
         return 999
 
 
+def biz_age_h(ts):
+    """토·일(한국 시간)을 뺀 자료 나이(시간). 대표 승인 46번(2026-11-23): 월요일 새벽에 금요일 자료를 '멈춤'으로 알리던 문제."""
+    try:
+        t0 = dt.datetime.strptime(ts[:16], "%Y-%m-%d %H:%M").replace(tzinfo=KST)
+    except (TypeError, ValueError):
+        return 999
+    h, t = 0.0, t0
+    while t < now:
+        nxt = min(now, dt.datetime.combine(t.date() + dt.timedelta(days=1), dt.time(), KST))
+        if t.weekday() < 5:
+            h += (nxt - t).total_seconds() / 3600
+        t = nxt
+    return h
+
+
 alerts = []  # (key, 급함 여부, 제목, 내용)
 # 1. 서버
 try:
@@ -49,11 +64,11 @@ except Exception as e:  # noqa: BLE001
 if now.weekday() < 5:
     for f, lim in (("live.json", 30), ("holdings.json", 54), ("macro.json", 30)):
         try:
-            a = age_h(json.loads((ROOT / "data" / f).read_text(encoding="utf-8")).get("generated_at_kst"))
+            a = biz_age_h(json.loads((ROOT / "data" / f).read_text(encoding="utf-8")).get("generated_at_kst"))
         except (OSError, ValueError):
             a = 999
         if a > lim:
-            alerts.append((f"stale:{f}", f == "live.json", f"자동 수집이 멈춘 듯해요: {f}", f"마지막으로 받은 지 {a:.0f}시간 (기준 {lim}시간)"))
+            alerts.append((f"stale:{f}", f == "live.json", f"자동 수집이 멈춘 듯해요: {f}", f"마지막으로 받은 지 주말 빼고 {a:.0f}시간 (기준 {lim}시간)"))
     # 분배금(SEIBro, 평일 저녁 1번): 주말을 넘겨도 80시간이면 충분. 실패가 많으면 사이트 구조가 바뀐 것일 수 있어요
     try:
         _d = json.loads((ROOT / "data/dist.json").read_text(encoding="utf-8"))
@@ -64,12 +79,12 @@ if now.weekday() < 5:
             alerts.append(("dist:fail", False, "분배금 수집 실패가 많아요", f"59개 중 {_d.get('fail')}개 실패 · 이전 기록을 그대로 쓰는 중"))
     except (OSError, ValueError):
         pass
-    # A 화면(산업 지도, 사람이 넣는 자료): 관계 확인일이 45일 넘으면 다시 확인할 때예요 (2026-11-19 대표 승인)
+    # Aleph 산업 지도(사람이 넣는 자료): 관계 확인일이 45일 넘으면 다시 확인할 때예요 (2026-11-19 대표 승인)
     try:
         _m = json.loads((ROOT / "data/aimap.json").read_text(encoding="utf-8"))
         _old = [e for _k in ("ai", "semi", "space", "power") for e in (_m.get(_k) or {}).get("e", []) if (dt.date.today() - dt.date.fromisoformat(e.get("chk", "2000-01-01"))).days > 45]
         if _old:
-            alerts.append(("stale:aimap", False, f"A 지도 관계 {len(_old)}개 확인이 오래됐어요", "확인일이 45일을 넘었어요 · Wren이 바뀐 소식을 찾고 Vernon이 근거를 다시 확인해 주세요"))
+            alerts.append(("stale:aimap", False, f"Aleph 산업 지도 관계 {len(_old)}개 확인이 오래됐어요", "확인일이 45일을 넘었어요 · Wren이 바뀐 소식을 찾고 Vernon이 근거를 다시 확인해 주세요"))
     except (OSError, ValueError):
         pass
 

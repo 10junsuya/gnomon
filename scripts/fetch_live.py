@@ -4,7 +4,7 @@ GitHub Actions에서 하루 몇 번 돌아요. 키는 GitHub Secrets 환경변�
 - 미국 시세: Finnhub (구성종목 + 같은 지수 미국 ETF SPY·QQQ·SOXQ)
 - 미국 종가 기록: 시세에서 나온 종가/전일 종가를 날짜별로 쌓아요(최근 20거래일)
 - 국내 ETF 기준가·종가: 공공데이터포털 금융위원회 증권상품시세 (보통 하루 늦게 올라와요)
-- 원/달러: 유럽중앙은행 기준환율(하루 한 번) 최근 기록
+- 원/달러: 서울 15~16시 환율(야후 KRW=X 1시간 막대) 최근 기록, 못 받으면 유럽중앙은행 기준환율 (대표 승인 40번)
 앱은 이 파일을 내장해서, 실시간 서버에 못 붙는 곳(미리보기 등)에서도 '언제 기준 숫자인지' 밝히고 보여줘요.
 """
 import datetime as dt
@@ -157,13 +157,34 @@ def backfill(closes, names, errors):
 
 
 def yahoo_quote(t):
-    """Finnhub 무료 요금제에 없는 종목(장외 거래 ADR 등)은 야후 파이낸스 일봉으로 대신 받아요."""
+    """Finnhub 무료 요금제에 없는 종목(장외 거래 ADR 등)은 야후 파이낸스 일봉으로 대신 받아요.
+    대표 승인 42번(2026-11-23): 전날 종가는 meta 의 chartPreviousClose(구간 시작 전 종가 = 5거래일 전)가 아니라
+    일봉 칸에서 '시세 날짜 바로 앞 장 날' 종가로 정해요. 그 칸이 없으면 pc 를 비워 종가 기록에 쓰지 않아요."""
     u = f"https://query1.finance.yahoo.com/v8/finance/chart/{urllib.parse.quote(t)}?range=5d&interval=1d"
-    m = json.loads(get(u))["chart"]["result"][0]["meta"]
-    p, pc, tm = m.get("regularMarketPrice"), m.get("chartPreviousClose") or m.get("previousClose"), m.get("regularMarketTime")
+    res = json.loads(get(u))["chart"]["result"][0]
+    m = res["meta"]
+    p, tm = m.get("regularMarketPrice"), m.get("regularMarketTime")
     if not (p and tm):
         return None
-    return {"c": p, "pc": pc, "dp": (p / pc - 1) * 100 if pc else None, "t": tm}
+    d = dt.datetime.fromtimestamp(tm, dt.timezone.utc).astimezone(NY).date()
+    ts = res.get("timestamp") or []
+    cl = ((res.get("indicators") or {}).get("quote") or [{}])[0].get("close") or []
+    bars = sorted((dt.datetime.fromtimestamp(a, NY).date(), b) for a, b in zip(ts, cl) if b)
+    before = [(bd, b) for bd, b in bars if bd < d]
+    pc, pcd = (before[-1][1], before[-1][0].isoformat()) if before else (None, None)
+    return {"c": p, "pc": pc, "pcd": pcd, "dp": (p / pc - 1) * 100 if pc else None, "t": tm, "src": "yahoo"}
+
+
+def finnhub_quote(t):
+    """Finnhub 시세. 429(잠깐 너무 많이 물음)면 쉬었다가 한 번 더 물어요 (대표 승인 42번, 구성종목 30번과 같은 방식)."""
+    u = "https://finnhub.io/api/v1/quote?" + urllib.parse.urlencode({"symbol": t, "token": FINNHUB_KEY})
+    try:
+        return json.loads(get(u))
+    except urllib.error.HTTPError as e:
+        if e.code != 429:
+            raise
+        time.sleep(8)
+        return json.loads(get(u))
 
 
 def quotes(old, errors):
@@ -176,7 +197,7 @@ def quotes(old, errors):
     for t in tickers():
         time.sleep(1.05)  # 무료 한도: 1분에 60번
         try:
-            j = json.loads(get("https://finnhub.io/api/v1/quote?" + urllib.parse.urlencode({"symbol": t, "token": FINNHUB_KEY})))
+            j = finnhub_quote(t)
         except Exception as e:  # noqa: BLE001 — 순간 연결 끊김이면 야후로, 그것도 안 되면 지난 값 유지 (2026-11-17)
             errors.append(scrub(f"{t}: {type(e).__name__}: {e}")[:160])
             j = None
@@ -212,7 +233,12 @@ def quotes(old, errors):
             q[t]["old"] = True
             stale.append(f"{t}: 시세가 {lag}거래일 지난 값 ({d.isoformat()} 뉴욕)")
         if j.get("pc"):
-            closes.setdefault(prev_us(d).isoformat(), {})[t] = j["pc"]
+            # 야후 값은 전날 종가의 실제 날짜(pcd)에만, 이미 있는 칸은 덮지 않아요 (대표 승인 42번)
+            if j.get("src") == "yahoo":
+                if j.get("pcd") and us_trading(dt.date.fromisoformat(j["pcd"])):
+                    closes.setdefault(j["pcd"], {}).setdefault(t, j["pc"])
+            else:
+                closes.setdefault(prev_us(d).isoformat(), {})[t] = j["pc"]
         session_over = now_ny.date() > d or now_ny.hour >= 16
         # 대표 승인 21번(2026-11-19): 토·일·미국 휴장일 날짜로는 종가 칸을 만들지 않아요(장외 종목 시각이 주말로 찍힐 때)
         if session_over and us_trading(d):
@@ -277,17 +303,53 @@ def kr_navs(old, errors):
     return out
 
 
+def seoul_fx():
+    """서울 15~16시 원/달러 환율 {날짜: 값} — 야후 KRW=X 1시간 막대 중 한국 15시에 시작하는 막대의 종가(없으면 14시 막대).
+    대표 승인 40번(2026-11-23): 국내 ETF 기준가가 쓰는 환율(오후 고시)에 더 가까워 '밤사이 예상' 오차가 줄어요
+    (시험 평균 차이 유럽중앙은행 0.140%p → 0.077%p, owner.md 34번 ①)."""
+    u = "https://query1.finance.yahoo.com/v8/finance/chart/KRW=X?range=3mo&interval=60m"
+    with urllib.request.urlopen(urllib.request.Request(u, headers=BROWSER), timeout=25) as r:
+        res = json.loads(r.read())["chart"]["result"][0]
+    ts, cl = res.get("timestamp") or [], ((res.get("indicators") or {}).get("quote") or [{}])[0].get("close") or []
+    by = {}
+    for a, b in zip(ts, cl):
+        if not b or not 800 < b < 2500:
+            continue
+        k = dt.datetime.fromtimestamp(a, KST)
+        if k.hour in (14, 15) and k.weekday() < 5:
+            by.setdefault(k.date().isoformat(), {})[k.hour] = round(float(b), 2)
+    now = dt.datetime.now(KST)
+    out = {}
+    for d, h in by.items():
+        if d == now.date().isoformat() and now.hour < 16:
+            continue  # 오늘 16시 전에는 아직 15~16시 막대가 끝나지 않았어요
+        v = h.get(15) or h.get(14)
+        if v:
+            out[d] = v
+    return out
+
+
 def fx(old, errors):
+    prev = old.get("fx", {}) or {}
+    try:
+        got = seoul_fx()
+        if len(got) < 5:
+            raise ValueError(f"서울 환율 {len(got)}일만 받음")
+        hist = dict(sorted({**prev.get("hist", {}), **got}.items())[-KEEP:])
+        last = max(got)
+        return {"rate": got[last], "date": last, "src": "서울 15~16시 환율 (야후 KRW=X)", "live": False, "hist": hist}
+    except Exception as e:  # noqa: BLE001 — 야후가 막히면 예전처럼 유럽중앙은행 값
+        errors.append(f"서울 환율: {type(e).__name__}: {str(e)[:100]} → 유럽중앙은행 값")
     try:
         start = (dt.date.today() - dt.timedelta(days=45)).isoformat()
         j = json.loads(get(f"https://api.frankfurter.dev/v1/{start}..?base=USD&symbols=KRW"))
-        hist = {d: r["KRW"] for d, r in j.get("rates", {}).items()}
-        hist = dict(sorted({**old.get("fx", {}).get("hist", {}), **hist}.items())[-KEEP:])
+        new = {d: r["KRW"] for d, r in j.get("rates", {}).items()}
+        hist = dict(sorted({**new, **prev.get("hist", {})}.items())[-KEEP:])  # 이미 있는 서울 값은 덮지 않아요
         last = max(hist)
-        return {"rate": hist[last], "date": last, "src": "유럽중앙은행 기준환율", "live": False, "hist": hist}
+        return {"rate": hist[last], "date": last, "src": "유럽중앙은행 기준환율 (서울 환율 못 받음)", "live": False, "hist": hist}
     except Exception as e:  # noqa: BLE001
         errors.append(f"환율: {type(e).__name__}: {str(e)[:120]}")
-        return old.get("fx", {})
+        return prev
 
 
 def main():

@@ -3380,7 +3380,7 @@ function toolBody(k){
   if(k==="fx") return `<div class="hcmp"><div><b>비H (${tw("환노출")})</b><span>달러 자산을 그대로 들고 있어요. 환율이 오르면(원화 약세) 수익이 더 커지고, 내리면 줄어요.</span><span class="tiny muted">이름에 (H)가 없는 상품 · 예: TIGER 미국S&P500</span></div>
       <div><b>H (${tw("환헤지")})</b><span>환율 영향을 거의 없애요. 대신 한미 금리 차이만큼 ${tw("헤지 비용")}이 들어요.</span><span class="tiny muted">이름 끝에 (H)가 붙은 상품</span></div></div>
     <div class="fxnow"><div><span class="tiny muted">지금 원/달러 환율</span><b class="num">${FX.now.toLocaleString("ko-KR")}원</b>${(()=>{ const h=(LIVE.fx||{}).hist||{}, ks=Object.keys(h).sort(), d=LV.fxDate||ks[ks.length-1]||"", pk=ks.filter(x=>x<d).pop(), pv=pk?h[pk]:NaN, df=FX.now-pv;
-      return `<span class="tiny muted">${okn(df)?`전날(${mdTxt(pk)})보다 <span class="num ${cls(df)}">${df>0?"+":""}${df.toFixed(1)}원</span> · `:""}유럽중앙은행 기준환율${d?` · ${mdTxt(d)} 기준`:""}</span>`; })()}</div>
+      return `<span class="tiny muted">${okn(df)?`전날(${mdTxt(pk)})보다 <span class="num ${cls(df)}">${df>0?"+":""}${df.toFixed(1)}원</span> · `:""}${/유럽/.test(LV.fxSrc||"")?"유럽중앙은행 기준환율":"서울 15~16시 환율"}${d?` · ${mdTxt(d)} 기준`:""}</span>`; })()}</div>
       <button type="button" class="btn ghost" data-fxfill>지금 환율로 넣기</button></div>
     <form class="form calc" data-calc="fx" onsubmit="return false" style="margin-top:12px">
       ${inp("usd",`기간 동안 ${tw("미국 지수 수익률")} (%)`,"10")}${inp("s",`산 때 ${tw("환율")} (원)`,"1300")}${inp("e","지금(끝) 환율 (원)",String(FX.now))}
