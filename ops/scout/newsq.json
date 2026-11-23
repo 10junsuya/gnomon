@@ -1,18 +1,38 @@
 {
-"updated_kst": "2026-11-23 14:13",
-"rot": 83,
+"updated_kst": "2026-11-23 14:29",
+"rot": 143,
 "how": "Scout(프로그램)이 10분마다 모은 기사 제목·링크와 공시예요. Wren이 공식 출처로 확인한 뒤 회사 화면에 한국어로 반영해요. 본문은 받지 않아요.",
 "sources": {
 "Yahoo Finance": "120종목 확인 · 실패 0",
 "CNBC": "63건",
-"Bloomberg": "29건",
+"Bloomberg": "30건",
 "WSJ": "61건",
-"Reuters": "34건",
+"Reuters": "33건",
 "FinancialJuice": "100건",
 "SEC EDGAR": "실패 HTTPError",
 "Fox Business": "50건"
 },
 "items": [
+{
+"id": "cbb24a749613",
+"t": "SPCX",
+"title": "These 5 Stocks Could Double by 2028. Here's What Has to Go Right.",
+"url": "https://www.fool.com/investing/2026/11/23/these-5-stocks-could-double-by-2028-here-s-what-has-to-go-right/?.tsrc=rss",
+"pub": "2026-11-23T05:20:02+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-23T05:29:50+00:00"
+},
+{
+"id": "086e835d56bf",
+"t": "ORCL",
+"title": "Why Did NVDA, NFLX, ORCL Slip To 52-Week Lows Last Week?",
+"url": "https://stocktwits.com/news-articles/markets/equity/why-did-nvda-nflx-orcl-slip-to-52-week-lows-last-week/cNbYpPuR9SJ?.tsrc=rss",
+"pub": "2026-11-23T05:11:19+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-23T05:29:50+00:00"
+},
 {
 "id": "5fd0425d55ef",
 "t": "NVDA",
@@ -32,6 +52,16 @@
 "src": "Yahoo Finance",
 "kind": "news",
 "seen": "2026-11-23T05:13:49+00:00"
+},
+{
+"id": "e4371c6c81a6",
+"t": "INSM",
+"title": "Insmed Inc. (INSM) is Giving Investors More to Celebrate",
+"url": "https://finance.yahoo.com/markets/stocks/articles/insmed-inc-insm-giving-investors-044446341.html?.tsrc=rss",
+"pub": "2026-11-23T04:44:46+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-23T05:29:50+00:00"
 },
 {
 "id": "cfb654cd6de5",
@@ -7984,34 +8014,24 @@
 "seen": "2026-11-20T22:14:08+00:00"
 },
 {
-"id": "f7405389650d",
-"t": "NFLX",
-"title": "Prediction: Netflix and Disney Will “Blame Grand Theft Auto” for Falling Viewership, per Scott Galloway",
-"url": "https://www.tikr.com/blog/prediction-netflix-and-disney-will-blame-grand-theft-auto-for-falling-viewership-per-scott-galloway?ref=yahoofinance&tlnk=yf-261120-w2ppff3q&.tsrc=rss",
-"pub": "2026-11-20T21:59:41+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-20T22:14:08+00:00"
+"id": "8657512a7f52",
+"t": "",
+"title": "Libya’s Oil Output Drops as Pipeline Shutdown Hits Biggest Field",
+"url": "https://www.bloomberg.com/news/articles/2026-11-23/libya-oil-output-pipeline-shutdown-biggest-sharara-field-opec",
+"pub": "2026-11-23T05:13:36+00:00",
+"src": "Bloomberg",
+"kind": "market",
+"seen": "2026-11-23T05:29:50+00:00"
 },
 {
-"id": "a034a523c7c7",
-"t": "ORCL",
-"title": "Billionaire Dan Loeb’s “Bear Math”: AI Needs $2-3 Trillion of New Yearly Revenue. He Sold Amazon",
-"url": "https://www.tikr.com/blog/billionaire-dan-loebs-bear-math-ai-needs-2-3-trillion-of-new-yearly-revenue-he-sold-amazon?ref=yahoofinance&tlnk=yf-261120-5qww8h93&.tsrc=rss",
-"pub": "2026-11-20T21:59:08+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-20T22:14:08+00:00"
-},
-{
-"id": "b2a953d9b790",
-"t": "NVDA",
-"title": "Trump’s Treasury Secretary Keeps Nvidia’s H200 China Policy as House Data Show Nearly 880,000 AI Chips Approved",
-"url": "https://www.tikr.com/blog/trumps-treasury-secretary-keeps-nvidias-h200-china-policy-as-house-data-show-nearly-880000-ai-chips-approved?ref=yahoofinance&tlnk=yf-261120-rx666q2r&.tsrc=rss",
-"pub": "2026-11-20T21:58:37+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-20T22:14:08+00:00"
+"id": "dab29f7fec90",
+"t": "",
+"title": "Australia to Lower Nominal Economy Estimate in Budget Update",
+"url": "https://www.bloomberg.com/news/articles/2026-11-23/australia-lower-economy-estimate-budget-update-inflation-unemployment-treasurer-jim-chalmers",
+"pub": "2026-11-23T05:13:13+00:00",
+"src": "Bloomberg",
+"kind": "market",
+"seen": "2026-11-23T05:29:50+00:00"
 },
 {
 "id": "d795f0e71a23",
@@ -8032,6 +8052,16 @@
 "src": "Bloomberg",
 "kind": "market",
 "seen": "2026-11-23T05:13:49+00:00"
+},
+{
+"id": "b937122d1fbe",
+"t": "",
+"title": "Timely Fuel Payments Crucial to Boost Pertamina’s Cash, S&P Says",
+"url": "https://www.bloomberg.com/news/articles/2026-11-23/timely-fuel-payments-crucial-to-boost-pertamina-s-cash-s-p-says",
+"pub": "2026-11-23T04:56:08+00:00",
+"src": "Bloomberg",
+"kind": "market",
+"seen": "2026-11-23T05:29:50+00:00"
 },
 {
 "id": "f60e470e18a6",
@@ -8352,6 +8382,16 @@
 "src": "Reuters",
 "kind": "market",
 "seen": "2026-11-23T05:13:49+00:00"
+},
+{
+"id": "4a3a91835be4",
+"t": "",
+"title": "2107.CHJ - | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPRTljRkRDSGYwX2psTlFnSU9WOEVmUWo2LXhNYnV5eTdsUlRtQjlJWjVEdnBFZUdyX256MHJGQjRTUVRoTzd0Z011Y3lwR3J3VzBHdHBxbEVJTmpVTFotTmpUd1M0WmNHd2xNLVlMb0Y1TER6a3JpWk9sLTkwOXhjU1pVUUV3VDBB?oc=5",
+"pub": "2026-11-23T00:58:27+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-23T05:29:50+00:00"
 },
 {
 "id": "8fcae0fb4449",
@@ -10972,46 +11012,6 @@
 "src": "Reuters",
 "kind": "market",
 "seen": "2026-11-22T17:14:43+00:00"
-},
-{
-"id": "ecf9cd374900",
-"t": "",
-"title": "iShares Core S&P Total US Stock Market ETF (ITOT.P) | Stock Price & Latest News - Reuters",
-"url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5QUGVWbkdlLWZtaGdZS01KemJwOGxianhtSWJpWkM2SUtxY0lyZkVwX2Mtbm5KY1VxTHFsZmNUckRQZ29wUnRWOE05Qm1pY3p0SzZ1dHEwQTVtYUhOb0VsQlVOQVEzQXJLYXJtcA?oc=5",
-"pub": "2026-11-21T22:59:21+00:00",
-"src": "Reuters",
-"kind": "market",
-"seen": "2026-11-22T01:43:56+00:00"
-},
-{
-"id": "b38d2c50b43f",
-"t": "",
-"title": "Traton SE (8TRA.DE) | Stock Price & Latest News - Reuters",
-"url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5XWjRjU1R0YXFHc1lWdGw4Q2oxNGh4dldiQ1BUVkRSZkdtcUs1SW9qLTExQTctbGxEMnFQbUF0UGhqUnpMRmRlSWNIZUItVDZqRDBQSkNwQ05PTVVKUWRr?oc=5",
-"pub": "2026-11-21T22:52:05+00:00",
-"src": "Reuters",
-"kind": "market",
-"seen": "2026-11-22T01:43:56+00:00"
-},
-{
-"id": "7b31b2ed68b1",
-"t": "",
-"title": "Burnham, Netherlands PM Jetten committed to continue close cooperation to provide Ukraine support it needs: Downing Street spokesperson",
-"url": "https://www.financialjuice.com/News/9863162/Burnham-Netherlands-PM-Jetten-committed-to-continue-close-cooperation-to-provide-Ukraine-support-it-needs-Downing-Street-spokesperson.aspx?xy=rss",
-"pub": "2026-11-21T22:19:07+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-21T22:44:15+00:00"
-},
-{
-"id": "824e0fbb7bf3",
-"t": "",
-"title": "Burnham, Netherlands PM Jetten committed to continue close cooperation to provide Ukraine support it needs: Downing Street spokesperson",
-"url": "https://www.financialjuice.com/News/9863162/Burnham-Netherlands-PM-Jetten-committed-to-continue-close-cooperation-to-provide-Ukraine-support-it-needs-Downing-Street-spokesperson.aspx",
-"pub": "2026-11-21T22:19:07+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-21T23:42:01+00:00"
 }
 ]
 }
