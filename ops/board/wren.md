@@ -3391,3 +3391,22 @@ Scout(소식 감지 프로그램)가 모은 기사·공시를 공식 출처로 �
 - 나에게 온 새 요청(RULES 0-3): 없음. 미국 지표: 미국 동부 11-23 16:1x(월) — 오늘 6개 지표 발표 없음(다음 pce·claims 11-25), 매크로 수집 안 돌림, 분석 모두 최신. A 지도: 고칠 것 없음. 앱 다시 게시: 반영이 없어 안 함. done 은 대기 목록에 없는 오래된 id 부터 잘라 3000개 유지.
 - 출처: ops/scout/newsq.json · 공식 여부: 저장소
 - 확신도: 높음
+
+### W-20261124-0643-1 · 반영 · GE 방산·시스템 부문 대표 교체 (공식)
+- 시각: 2026-11-24 06:5x KST
+- 내용: news.GE 에 "방산·시스템 부문 대표 에이미 가우더가 내년 1분기에 떠나고, 디토마소가 임시 대표를 맡았어요"(11-24 06:15, 공식)를 넣었어요. 회사 보도자료(미 동부 11-23 16:15) 기준 — 다린 디토마소(같은 부문 엔지니어링 부사장)가 바로 임시 대표를 맡고 내·외부에서 후임을 찾아요. GE 의 첫 소식 줄이에요.
+- 출처: [GE 에어로스페이스 보도자료(GlobeNewswire)](https://www.globenewswire.com/news-release/2026/11/23/3408897/0/en/ge-aerospace-defense-systems-leadership-transition.html) · 공식 여부: 공식
+- 확신도: 높음
+
+### W-20261124-0643-2 · 반영 · CSCO OpenAI와 오픈소스 보안 프로젝트 '시루도' 공개 (공식)
+- 시각: 2026-11-24 06:5x KST
+- 내용: news.CSCO 맨 앞에 "OpenAI와 함께, AI 에이전트가 리눅스 보안 구멍을 임시로 막는 오픈소스 '시루도'를 내놨어요"(11-24 06:20, 공식)를 넣었어요. 시스코 보도자료(PR Newswire, 미 동부 11-23 16:20쯤) 기준 — 재부팅 없이 임시 '방패'를 씌우고, 시험을 통과한 것만 켜요. PR Newswire 원문 주소는 검색에 나오지 않아 야후·StockTitan 전재본을 출처로 썼어요. A 지도: 시스코가 AI 지도 회사 목록에 없어 고치지 않음.
+- 출처: [시스코 보도자료(야후 전재)](https://finance.yahoo.com/technology/ai/articles/cisco-openai-launch-shirudo-project-212000509.html) · [StockTitan(전재)](https://www.stocktitan.net/news/CSCO/cisco-and-open-ai-launch-shirudo-a-new-project-to-safeguard-agentic-esikkf48tdqy.html) · [Investing.com](https://www.investing.com/news/company-news/cisco-and-openai-launch-open-source-security-project-shirudo-93CH-5046442) · 공식 여부: 공식
+- 확신도: 높음
+
+### W-20261124-0643-3 · 알림 · 이번 차례
+- 시각: 2026-11-24 06:5x KST
+- 내용: Scout를 직접 돌린 뒤(성공) 새 항목 53건(news 39·market 14) 모두 처리. 반영 2건(위). 건너뜀: 황 복귀 뒤 지수·TSMC 급등 정리·해설·스캔들 일지·머스크 발언 글 약 15건(11-23 22:55 NVDA 공식 줄과 같은 사건), '블랙록, 440억 달러 GPU 금융 주도'(SPCX — 11월 아폴로·골드만 440억 달러 줄과 같은 사건), '릴리, 샌안토니오 유방암 학회 새 자료'(학회 발표 예고 — 결과 발표 때 다시 봄)·'릴리 임원 항암 성장' 발언, 인텔·암젠·KKR 콘퍼런스 참석 안내, 구글 검색-지갑 연결 해설(미디어포스트 분석 글), 지스케일러 인수 해설(11-23 반영), 바이낸스 해킹 USDC 몰수(앱 종목 아님), 증권사 의견·드러켄밀러·캐시 우드·ETF 추천·종목 비교 글. market 14건(윌리엄스 뉴욕 연은 발언 6건, 블룸버그·WSJ 마감 정리 등 — 06시대라 done 만).
+- 나에게 온 새 요청(RULES 0-3): 없음. 미국 지표: 미국 동부 11-23 16:4x(월) — 오늘 6개 지표 발표 없음(다음 pce·claims 11-25), 매크로 수집 안 돌림, 분석 모두 최신. A 지도: 고칠 것 없음. done 은 대기 목록에 없는 오래된 id 부터 잘라 3000개 유지.
+- 출처: ops/scout/newsq.json · 공식 여부: 저장소
+- 확신도: 높음
