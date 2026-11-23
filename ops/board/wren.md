@@ -3343,3 +3343,16 @@ Scout(소식 감지 프로그램)가 모은 기사·공시를 공식 출처로 �
 - 나에게 온 새 요청(RULES 0-3): 없음. 미국 지표: 미국 동부 11-23 13:1x(월) — 오늘 6개 지표 발표 없음(다음 pce·claims 11-25), 매크로 수집 안 돌림, 분석 모두 최신. A 지도: 고칠 것 없음. 앱 다시 게시: 반영이 없어 안 함. done 은 대기 목록에 없는 오래된 id 부터 잘라 3000개 유지(저장 뒤 다시 읽어 대기 목록 새 항목은 보류 1건뿐 확인).
 - 출처: ops/scout/newsq.json · [악시오스 (11-17)](https://axios.com/2026/11/17/nvidia-jensen-huang-congress-testify-dates) · [테크크런치 (10-20)](https://techcrunch.com/2026/10/20/spacex-and-tesla-boards-form-special-committees-to-review-merger/) · 공식 여부: 저장소·보도
 - 확신도: 높음
+
+### W-20261124-0343-1 · 반영 · NVDA 젠슨 황 12/3 상원 은행위 공개 청문회 (보도)
+- 시각: 2026-11-24 03:5x KST
+- 내용: news.NVDA 맨 앞에 "젠슨 황이 12월 3일 상원 은행위의 수출 통제 공개 청문회에 나온다고 보도됐어요"(11-24 02:03, 보도)를 넣었어요. 테크크런치(11-23 10:12 PST)는 위원회 누리집 공지를 근거로 공개 청문회·주제 수출 통제라고 썼고, 로이터(Investing.com 전재)·블룸버그(제목)도 같은 날짜예요. 위원회 공지 원문은 열지 않아 '보도'로 두었어요 — 공지가 확인되면 '공식'으로 바꾸면 돼요. 이걸로 세 차례 보류했던 FinancialJuice 제목(37e8904f2555)도 같은 사건으로 처리해 done 에 넣었어요. 가장 오래된 NVDA 소식 1개(11-19 00:16 WSJ 하원 브리핑 요청)는 8개 유지로 빠졌어요.
+- 출처: [테크크런치](https://techcrunch.com/2026/11/23/jensen-huang-scheduled-to-testify-next-week-in-senate-following-reinstatement-as-nvidia-ceo/) · [로이터(Investing.com 전재)](https://www.investing.com/news/stock-market-news/nvidias-huang-to-testify-before-us-senate-on-dec-3-5046191) · [Bloomberg(제목)](https://www.bloomberg.com/news/articles/2026-11-23/jensen-huang-will-testify-publicly-before-us-senators-next-week) · 공식 여부: 보도
+- 확신도: 높음
+
+### W-20261124-0343-2 · 알림 · 이번 차례
+- 시각: 2026-11-24 03:5x KST
+- 내용: Scout를 직접 돌린 뒤(성공) 새 항목 70건(news 62·market 8) 모두 처리. 반영 1건(위). 건너뜀: 황 복귀 뒤 지수·반도체·AI 하드웨어·양자·비트코인 급등 정리와 트럼프·슈머 발언 글 약 35건(11-23 22:55 NVDA 공식 줄과 같은 사건), 'KLA 새 싱가포르 공장'(지난 발표, 03:13 차례와 같은 판단), '록히드 새 사이버보안 협력'(노조미 네트웍스 공동 개발 과제 — 작은 협력, 날짜·회사 공식 발표 확인 못 함), '보잉 주가 상승'(모틀리풀 — 검색에 새 회사 사건 없음), BCE AI 기반시설(앱 종목 아님), 크라우드스트라이크-지스케일러(11-23 반영), 텍사스인스트루먼츠 투자의견 상향, 펀드 매매·의견·비교·추천 글. market 7건(이란 공격 준비 발언·미 2년물 입찰·캐나다 달러·퍼미안 가스·웰스파고 의견·WSJ 칼럼·북한 바이낸스 해킹 자산 환수 소송 — 03시대라 done 만).
+- 나에게 온 새 요청(RULES 0-3): 없음. 미국 지표: 미국 동부 11-23 13:4x(월) — 오늘 6개 지표 발표 없음(다음 pce·claims 11-25), 매크로 수집 안 돌림, 분석 모두 최신. A 지도: 고칠 것 없음(청문회는 회사 사이 관계 아님). done 은 대기 목록에 없는 오래된 id 부터 잘라 3000개 유지(새 항목 0건 확인).
+- 출처: ops/scout/newsq.json · 공식 여부: 저장소
+- 확신도: 높음
