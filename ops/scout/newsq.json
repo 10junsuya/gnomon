@@ -1,18 +1,28 @@
 {
-"updated_kst": "2026-11-23 14:29",
-"rot": 143,
+"updated_kst": "2026-11-23 14:44",
+"rot": 24,
 "how": "Scout(프로그램)이 10분마다 모은 기사 제목·링크와 공시예요. Wren이 공식 출처로 확인한 뒤 회사 화면에 한국어로 반영해요. 본문은 받지 않아요.",
 "sources": {
 "Yahoo Finance": "120종목 확인 · 실패 0",
 "CNBC": "63건",
-"Bloomberg": "30건",
+"Bloomberg": "31건",
 "WSJ": "61건",
-"Reuters": "33건",
+"Reuters": "34건",
 "FinancialJuice": "100건",
 "SEC EDGAR": "실패 HTTPError",
 "Fox Business": "50건"
 },
 "items": [
+{
+"id": "1458ba275a71",
+"t": "NVDA",
+"title": "Tech back in the firing line as traders track Wall Street rout",
+"url": "https://www.euronews.com/2026/11/23/tech-back-in-the-firing-line-as-traders-track-wall-street-rout?.tsrc=rss",
+"pub": "2026-11-23T05:20:14+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-23T05:44:14+00:00"
+},
 {
 "id": "cbb24a749613",
 "t": "SPCX",
@@ -72,6 +82,16 @@
 "src": "Yahoo Finance",
 "kind": "news",
 "seen": "2026-11-23T04:43:54+00:00"
+},
+{
+"id": "9b29a95521e4",
+"t": "ADM",
+"title": "Procter & Gamble or Archer-Daniels-Midland: The One Dividend Stock I’d Hold for the Next 10 Years",
+"url": "https://www.tikr.com/blog/procter-gamble-or-archer-daniels-midland-the-one-dividend-stock-id-hold-for-the-next-10-years?ref=yahoofinancedividend&tlnk=yf-261123-47g8h987&.tsrc=rss",
+"pub": "2026-11-23T04:33:50+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-23T05:44:14+00:00"
 },
 {
 "id": "c9c6a01541f1",
@@ -7994,24 +8014,24 @@
 "seen": "2026-11-20T22:24:18+00:00"
 },
 {
-"id": "972e1d11214f",
-"t": "GOOGL",
-"title": "Jevons paradox and AI: Data shows usage soars as prices plunge",
-"url": "https://finance.yahoo.com/video/jevons-paradox-and-ai-data-shows-usage-soars-as-prices-plunge-220139526.html?.tsrc=rss",
-"pub": "2026-11-20T22:01:39+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-20T22:14:08+00:00"
+"id": "4eeba7a092a0",
+"t": "",
+"title": "Earnings Could Signal When to Buy the AI Dip",
+"url": "https://www.bloomberg.com/news/videos/2026-11-23/earnings-could-signal-when-to-buy-the-ai-dip-video",
+"pub": "2026-11-23T05:31:29+00:00",
+"src": "Bloomberg",
+"kind": "market",
+"seen": "2026-11-23T05:44:14+00:00"
 },
 {
-"id": "6d722cf3c8c5",
-"t": "AAPL",
-"title": "Shots Fired: Meta Will Reportedly Sell a $300 Muse Charm With Free Verizon 5G as Apple Builds Its Agent",
-"url": "https://www.tikr.com/blog/shots-fired-meta-will-reportedly-sell-a-300-muse-charm-with-free-verizon-5g-as-apple-builds-its-agent?ref=yahoofinance&tlnk=yf-261120-pg825wq7&.tsrc=rss",
-"pub": "2026-11-20T22:00:18+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-20T22:14:08+00:00"
+"id": "aea407a54b42",
+"t": "",
+"title": "India’s Economic Activity Holds Steady as Manufacturing Picks Up",
+"url": "https://www.bloomberg.com/news/articles/2026-11-23/india--private-sector-economic-activity-manufacturing-hsbc-flash-survey",
+"pub": "2026-11-23T05:19:07+00:00",
+"src": "Bloomberg",
+"kind": "market",
+"seen": "2026-11-23T05:44:14+00:00"
 },
 {
 "id": "8657512a7f52",
@@ -8032,6 +8052,16 @@
 "src": "Bloomberg",
 "kind": "market",
 "seen": "2026-11-23T05:29:50+00:00"
+},
+{
+"id": "710d9979972d",
+"t": "",
+"title": "Asia’s Stock Rescue Efforts Gather Pace",
+"url": "https://www.bloomberg.com/news/videos/2026-11-23/the-asia-trade-11-23-2026-video",
+"pub": "2026-11-23T05:02:33+00:00",
+"src": "Bloomberg",
+"kind": "market",
+"seen": "2026-11-23T05:44:14+00:00"
 },
 {
 "id": "d795f0e71a23",
@@ -8112,6 +8142,16 @@
 "src": "Bloomberg",
 "kind": "market",
 "seen": "2026-11-23T04:06:00+00:00"
+},
+{
+"id": "26785ab35439",
+"t": "",
+"title": "Atkinsrealis Group Inc (ATRL.TO) | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE85M2N1T0ZBUWJzVzdVbHYxMnFSZGtsZl83RWZrdnhCTkV1dEN6bENKc2x0eF9ZU3lZZ2tQNEF6VUxKMVNWdmZMNVNXZFdHQWt4UFdSaVFJY2pfYUt0TFNN?oc=5",
+"pub": "2026-11-23T03:33:12+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-23T05:44:14+00:00"
 },
 {
 "id": "f4e714c045fd",
@@ -8412,6 +8452,16 @@
 "src": "Reuters",
 "kind": "market",
 "seen": "2026-11-23T04:06:00+00:00"
+},
+{
+"id": "65464a3ede14",
+"t": "",
+"title": "RICXX.AX - | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5EazU5NGZ0c0x6b3lZeHo0TFJpX0JqQW5jempsbUt1anhOUDJKNmVWckFDWEU4S3BQV1FxUThDOUdwRzU2NlpvRmloelhCdldNSGlmMk5kV0ZPMENHRWFWRllpWXNfa2VEazMzbDl6alBrcFNwaWljNWNhMA?oc=5",
+"pub": "2026-11-23T00:57:31+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-23T05:44:14+00:00"
 },
 {
 "id": "e4c3b2b45723",
@@ -9112,6 +9162,16 @@
 "src": "Reuters",
 "kind": "market",
 "seen": "2026-11-23T04:06:00+00:00"
+},
+{
+"id": "cd7993178336",
+"t": "",
+"title": "GASXX.AX - | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE10Wk80WWF3UEVnNWJuX2ZyRVVDNzZsbklNazlaX2pOQVJ4RkVNeERpSk1KMFFWUTNKMjVQU0V1X3hnNUR4RFNHd0tUYV9IdDZ6MkhjYkpySTVLTXRodm9qZ295TURnZElKa2xtWV9MMm51R2xYVGdBQUFn?oc=5",
+"pub": "2026-11-22T16:48:24+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-23T05:44:14+00:00"
 },
 {
 "id": "c56fbe5cd38c",
@@ -10952,66 +11012,6 @@
 "src": "Reuters",
 "kind": "market",
 "seen": "2026-11-22T02:39:49+00:00"
-},
-{
-"id": "5407ff221905",
-"t": "",
-"title": "UBS Group AG (UBSG.S) | Stock Price & Latest News - Reuters",
-"url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFAwTW5KVElGNG0xcE9UMVNGYUFGdTllMnhKS2R2MnR1M2RWSGlIclJRNDRoQ1piWWxyY3k4cjVFNnp2NzBzeVY0OUdISzl5LXNTWk81dUYyc1hheTJ6SGc?oc=5",
-"pub": "2026-11-21T23:17:23+00:00",
-"src": "Reuters",
-"kind": "market",
-"seen": "2026-11-22T17:44:32+00:00"
-},
-{
-"id": "fc9a6f06ad05",
-"t": "",
-"title": "LeonaBio Inc (LONA.OQ) | Stock Price & Latest News - Reuters",
-"url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBrdVBxeW1RSUpCR2FRb2hVTldRNndTZDVmNmFlYjg2SmdmcEZmcng5WF9TNlIzN250OVdPdlM3ODBwdEgtRVVZa2NIbmZFME93MDd4dDE4Nmk0YUFJNy05Ulg4MzI2NHFPWExHNA?oc=5",
-"pub": "2026-11-21T23:09:56+00:00",
-"src": "Reuters",
-"kind": "market",
-"seen": "2026-11-22T02:43:51+00:00"
-},
-{
-"id": "1d4448be758d",
-"t": "",
-"title": "WHG.Z - | Stock Price & Latest News - Reuters",
-"url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE8wUjQ2WEZNT2FZRzlObFVHLU1fc2NZdnZYVUJib3loU2JieHdhaWltWVNFYy1Od25TV09aU0h0c0lmZmREU1dGbm1qNkU0Y1NReHBPa1AyLXFYcWo5cEFxT2o2QnJaLUtKLXZkNldjY1hTWVhsNXNacDF3?oc=5",
-"pub": "2026-11-21T23:09:47+00:00",
-"src": "Reuters",
-"kind": "market",
-"seen": "2026-11-22T05:14:17+00:00"
-},
-{
-"id": "059046b56840",
-"t": "",
-"title": "Agroz Inc (AGRZ.OQ) | Stock Price & Latest News - Reuters",
-"url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9TSHJ3LVhKcjl3cG1BaWE0LU5UY01hU0dWQXhSOUtqRjN0Ujc3OG55cTdWWnV4WUNBTVg0N09IaUl0VER3NDIzTk5NVG5MdHVMNGRtVzU0a2loMWlvSUdRV0RSQWZ3bnNPZTZRcHBfMA?oc=5",
-"pub": "2026-11-21T23:08:03+00:00",
-"src": "Reuters",
-"kind": "market",
-"seen": "2026-11-22T04:14:12+00:00"
-},
-{
-"id": "06e97467cf7e",
-"t": "",
-"title": "Take-Two Interactive Software, Inc. (TTWO.O) | Stock Price & Latest News - Reuters",
-"url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1sa3lISTJhN3lHMHdubDRmcnM0RDM1VDZ5RlpuNWJnd1VHQjVnZ0ZocmNfUFFhVzJvNlYtMG1HVW5PZXU2QmFhMUpHNVVWZXJ1Z0trNFpvd0xzVDdFM3c?oc=5",
-"pub": "2026-11-21T23:05:45+00:00",
-"src": "Reuters",
-"kind": "market",
-"seen": "2026-11-22T01:13:48+00:00"
-},
-{
-"id": "7040dec51f2c",
-"t": "",
-"title": "Vertu Motors PLC (VTU.L) | Stock Price & Latest News - Reuters",
-"url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1qOU9jVWM5eHZySndRcDh0aDMyNE5aTjlHalR2RTQ5RW9aRjZBQjdLTTB2ZGFRTFcwV2dMUF9nZ0I5anpWdWFEWEtnQzdtOW91TlR2M2RmX0Z1NXNHbUZsMmlQaUJQb3NUN1E?oc=5",
-"pub": "2026-11-21T23:05:32+00:00",
-"src": "Reuters",
-"kind": "market",
-"seen": "2026-11-22T17:14:43+00:00"
 }
 ]
 }
