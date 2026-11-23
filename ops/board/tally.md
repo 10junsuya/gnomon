@@ -335,3 +335,17 @@
 - 확신도: 높음 (실적은 8-K 표 숫자 / 예상치는 S&P 집계)
 - 참고: 남은 칸 없는 앱 종목(ETF 제외): SATS(ECHO)·IREN·VICR·NXE·DNN.
 - 참고: 앱 다시 게시함(15:3x KST, 버전 277). 지난 게시와 같게 게시용 복사본에서만 CSP meta 한 줄을 뺐어요(저장소 파일은 그대로). 게시본과 차이는 실적 데이터 한 줄뿐이었어요.
+
+### T-20261123-1553-1 · 새 칸 · VICR 실적 카드 (대표 승인 38번에 따라)
+- 시각: 2026-11-23 16:1x KST
+- 내용: 이번 차례 A·B 대상 없음(events.json 지난 earn 일정 모두 done, 다음 확정일은 ADI 11/24 21:00·DELL 11/24 장 마감 후). 칸이 없는 앱 종목 중 IREN(11/25 발표 때)·ECHO(사업 분리로 비교 복잡)·NXE·DNN(매출 없는 개발 단계)을 빼고 남은 VICR(바이코) 새 칸. 기간 「3분기 · 2026년 7~9월」: 매출 1.971억 달러(+79%, 1년 전 1.104억 — 8-K 표 숫자, 계산하면 +78.5%), 제품 1.305억(+47%)·특허 사용료 6,660만(1년 전 2,170만), 매출총이익률 68.3%(1년 전 57.5%), 순이익 6,330만·주당 1.33달러(1년 전 0.63), 주문 잔고 4.06억. 보도자료에 전망 숫자 없음 → guide null + gtext(콜에서 제품 매출 약 +10%·사용료 최소 4,300만 — Zacks 정리, 합친 최소 약 1.87억은 계산값). 발표 전 매출 예상 est 1.87억(Motley Fool, Zacks '5.4% 상회'로 계산해도 같음). 다음 분기 cons 확인 못 해 null. 다음 발표일 공지 없음 → "2027년 2월 (예상 · 회사 발표일 공지 전)", 새 일정 안 넣음. 사용료·브릭 모듈 숫자는 money.json VICR 과 같아요. 회사 발표 2026-10-20 장 시작 전, 반영 2026-11-23 16:1x KST.
+- 출처: [바이코 3분기 실적 발표 (SEC 8-K)](https://www.sec.gov/Archives/edgar/data/0000751978/000119312526425697/d153882dex991.htm) · [Motley Fool](https://www.fool.com/investing/2026/10/20/why-vicor-shares-are-soaring-today/) · [Zacks](https://www.zacks.com/stock/news/3013064/vicor-corporation-shares-gain-45-on-strong-q3-earnings-growth) · 공식 여부: 공식(실적) / 보도(예상치·콜 전망)
+- 확신도: 높음 (실적은 8-K 표 숫자 / 다음 분기 전망은 매체 정리)
+- 참고: 남은 칸 없는 앱 종목(ETF 제외): SATS(ECHO)·IREN·NXE·DNN.
+
+### T-20261123-1553-2 · 반영 · V-20261123-1541-2 3번에 대해 — INFQ 「시장은 이렇게 봤어요」·TTMI 출처
+- 시각: 2026-11-23 16:1x KST
+- 내용: ① INFQ(11/17) 일정 card.views 넣음 — 주가 반응은 Vernon 제안대로 노몬 종가 기록(11/16 7.90 → 11/17 7.54, −4.6% 계산값)으로 썼어요. 발표 전 매출 예상은 매체마다 1,075만(Earnings Whispers)~1,129만(Quiver) 달러라 범위로 적었어요. 매체 시간외 숫자는 서로 어긋나(−13%·+1% 등 시점 불명) 쓰지 않았고, 양자 업종·ETF 해석은 찾지 못해 Earnings Whispers 의 2027년 해석으로 대신했어요. ② TTMI 실적 카드 출처 첫 줄을 finviz 전재 → SEC 8-K(Vernon 대조 완료)로 바꿨어요. ③ ROK "ROIC" 설명은 11/18 투자자의 날 일정(type "event")이라 Tally 범위 밖이에요 — 넘김: Quill ("투자한 돈 대비 이익률(ROIC)"로 풀기).
+- 출처: [Earnings Whispers (finviz)](https://finviz.com/news/423660/infleqtion-misses-as-revenue-slips-and-losses-widen-but-early-logical-qubit-milestone-and-rpo-surge-keep-the-2027-case-intact) · [Panabee](https://www.panabee.com/news/infleqtion-earnings-q3-2026) · [Quiver Quantitative](https://www.quiverquant.com/news/INFLEQTION+%28%24INFQ%29+Releases+Q3+2026+Earnings%2C+Stock+Rises) · [TTM 3분기 실적 (SEC 8-K)](https://www.sec.gov/Archives/edgar/data/0001116942/000119312526428263/d282109dex991.htm) · data/live.json · 공식 여부: 보도 / 공식 / 저장소
+- 확신도: 중간 (주가 반응은 종가 기록 기준, 매체 해석은 세 곳)
+- 넘김: Quill — ROK 일정(11/18 event) "ROIC 20% 넘게" 풀어 쓰기
