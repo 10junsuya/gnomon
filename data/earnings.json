@@ -12640,5 +12640,61 @@
     8615
    ]
   }
+ },
+ "SHOP": {
+  "p": "3분기 · 2026년 7~9월",
+  "tag": "+32%",
+  "rows": [
+   [
+    "매출",
+    "37.42억 달러 (+32%, 1년 전 28.44억 달러 · 예상 37.5억)"
+   ],
+   [
+    "부문별",
+    "판매자 솔루션 29.06억(+35%) · 구독 솔루션 8.36억(+20%)"
+   ],
+   [
+    "거래액·이익",
+    "거래액(GMV) 1,191억 달러(+29%) · 영업이익 5.68억(1년 전 3.43억) · 잉여현금흐름 8.16억(매출의 22%)"
+   ],
+   [
+    "다음 분기 전망",
+    "10~12월 매출 30% 초반 성장 · 매출총이익 20% 후반 성장"
+   ]
+  ],
+  "note": "결제(쇼피파이 페이먼츠) 등 판매자 솔루션이 35% 늘며 매출을 이끌었고, 영업이익률은 15.2%(1년 전 12.1%, 계산값)로 올라갔어요. 다만 거래액과 구독 매출이 일부 애널리스트 예상에 조금 못 미쳤다는 보도가 있었어요. 발표 전 매출 예상은 S&P 집계 37.5억(StockStory, Newsquawk 같음 · Motley Fool 37.3억)이고, 회사는 분기 매출 금액 전망 대신 성장률만 내서 그래프에 전망 범위를 넣지 않았으며 다음 분기 애널리스트 매출 예상은 숫자를 확인하지 못해 뺐어요.",
+  "src": [
+   [
+    "쇼피파이 3분기 실적 발표 (SEC 8-K)",
+    "https://www.sec.gov/Archives/edgar/data/0001594805/000159480526000067/exhibit991pressreleaseq320.htm"
+   ],
+   [
+    "예상 비교 (StockStory)",
+    "https://stockstory.org/us/stocks/nasdaq/shop/news/earnings/shopifys-nasdaqshop-q3-2026-earnings-results-revenue-in-line-with-expectations-but-stock-drops-151percent"
+   ],
+   [
+    "예상치 (Newsquawk)",
+    "https://www.newsquawk.com/headlines/shopify-shop-q3-2026-usd-revenue-374bln-exp-375bln-gmv-119bln-operating-income-568mln-gross-profit-178bln-fcf-816mln"
+   ]
+  ],
+  "chart": {
+   "cur": "usd",
+   "now": [
+    "7~9월",
+    3742
+   ],
+   "est": 3750,
+   "next": {
+    "label": "10~12월",
+    "guide": null,
+    "cons": null,
+    "when": "2027년 2월 중순 (예상 · 회사 발표일 공지 전)",
+    "gtext": "10~12월 매출 1년 전보다 30% 초반 성장 · 매출총이익 20% 후반 성장"
+   },
+   "prev": [
+    "1년 전",
+    2844
+   ]
+  }
  }
 }

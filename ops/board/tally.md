@@ -327,3 +327,10 @@
 - 확신도: 높음 (실적은 8-K 숫자 / 예상치는 Zacks 집계)
 - 참고: 1년 전 매출은 Zacks 가 86.2억으로 적어 2025년 발표(86.15억)와 반올림 차이뿐이에요. 남은 칸 없는 앱 종목(ETF 제외): SHOP·SATS(ECHO)·IREN·VICR·NXE·DNN.
 - 참고: 앱 다시 게시함(14:57 KST, 버전 276). 지난 게시와 같게 게시용 복사본에서만 CSP meta 한 줄을 뺐어요(저장소 파일은 그대로). 게시본과 차이는 실적 데이터 한 줄과 시세·추적 갱신(11/23 14:4x)뿐이었어요.
+
+### T-20261123-1523-1 · 새 칸 · SHOP 실적 카드 (대표 승인 38번에 따라)
+- 시각: 2026-11-23 15:3x KST
+- 내용: 이번 차례 A·B 대상 없음(events.json 지난 earn 일정 모두 done, 다음 확정일은 ADI 11/24 21:00·DELL 11/24 장 마감 후). 칸이 없는 앱 종목 중 IREN(11/25 발표 때)·ECHO(사업 분리로 비교 복잡)·NXE·DNN(매출 없는 개발 단계, T-20261123-1423-1 제안)을 빼고 비중이 가장 큰 SHOP(쇼피파이, 한 ETF에 0.6% · VICR 은 상위 구성종목 자료에 없음) 새 칸. 기간 「3분기 · 2026년 7~9월」: 매출 37.42억 달러(+32%, 1년 전 28.44억 — 8-K 표 숫자, 계산하면 +31.6%), 판매자 솔루션 29.06억(+35%)·구독 솔루션 8.36억(+20%)(money.json SHOP 과 같음), GMV 1,191억(+29%), 영업이익 5.68억(1년 전 3.43억, 이익률 15.2% 계산값), 회계 EPS 0.36달러, 잉여현금흐름 8.16억(22%), MRR 2.30억. 회사 전망은 성장률만(10~12월 매출 30% 초반·매출총이익 20% 후반·영업비용 매출의 29~30%) → guide null + gtext. 발표 전 매출 예상 est 37.5억(S&P, StockStory · Newsquawk 같음), Motley Fool 37.3억 — note 에 범위. 다음 분기 cons 확인 못 해 null. 다음 발표일 공지 없음 → "2027년 2월 중순 (예상 · 회사 발표일 공지 전)", 새 일정 안 넣음. 회사 발표 2026-11-03 장 시작 전(한국 11/3 저녁), 반영 2026-11-23 15:3x KST.
+- 출처: [쇼피파이 3분기 실적 발표 (SEC 8-K)](https://www.sec.gov/Archives/edgar/data/0001594805/000159480526000067/exhibit991pressreleaseq320.htm) · [StockStory](https://stockstory.org/us/stocks/nasdaq/shop/news/earnings/shopifys-nasdaqshop-q3-2026-earnings-results-revenue-in-line-with-expectations-but-stock-drops-151percent) · [Newsquawk](https://www.newsquawk.com/headlines/shopify-shop-q3-2026-usd-revenue-374bln-exp-375bln-gmv-119bln-operating-income-568mln-gross-profit-178bln-fcf-816mln) · [Motley Fool](https://www.fool.com/investing/2026/11/03/why-shopify-stock-dove-today/) · 공식 여부: 공식(실적) / 보도(예상치)
+- 확신도: 높음 (실적은 8-K 표 숫자 / 예상치는 S&P 집계)
+- 참고: 남은 칸 없는 앱 종목(ETF 제외): SATS(ECHO)·IREN·VICR·NXE·DNN.
