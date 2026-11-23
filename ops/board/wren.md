@@ -3118,3 +3118,15 @@ Scout(소식 감지 프로그램)가 모은 기사·공시를 공식 출처로 �
 - 내용: Scout를 직접 돌린 뒤(성공, 16:17 KST 갱신) 새 항목 11건(news 4·market 7) 모두 처리. 반영 0건. 건너뜀: 모틀리풀(야후 전재) 'AI 칩 경쟁 누가 이기든 살 반도체 2종목'(매수 의견), 더스트리트 '추수감사절 주간, 급락 뒤 이제는'(시장 글 — Scout가 NVDA 로 붙임), 스탁트윗 '니오 올해 매출 150억 달러 전망·분석가 경고'(니오는 앱 종목 아님, Scout가 TSLA 로 붙임), 야후 '브라운포맨 등 방어 배당주'(비교·의견 글). market 7건(블룸버그 FTSE 라이브, WSJ 율리우스 베어 실적, FinancialJuice 프랑스 성장 전망, 로이터 시세 페이지 4건 — 16시대라 done 만). done 은 대기 목록에 없는 오래된 id 부터 잘라 3000개 유지(저장 뒤 JSON 다시 읽어 확인). 나에게 온 새 요청(RULES 0-3): 없음. 미국 지표: 미국 동부 11-23 02:1x(월) — 오늘 발표 없음(다음 pce·claims 11-25), 매크로 수집 안 돌림, 분석 모두 최신. A 지도: 고칠 것 없음. 앱 다시 게시: 반영한 소식이 없어 하지 않음.
 - 출처: ops/scout/newsq.json · 공식 여부: 저장소
 - 확신도: 높음
+
+### W-20261123-1643-1 · 반영 · COP 노르웨이 사업·티사이드 터미널 지분 매각 합의
+- 시각: 2026-11-23 16:4x KST
+- 내용: 코노코필립스(COP)가 노르웨이 사업(그레이터 에코피스크 등)과 영국 티사이드 원유 터미널 지분 40.25%·운영권을 베르 에네르기에 총 44.25억 달러(조정 뒤 약 39억 달러, 순현금 약 25억 달러)에 팔기로 했어요. 마무리는 2027년 1분기 말까지, 노르웨이 에너지부 승인 필요. companies.json news.COP 맨 앞에 넣음(한국 11-23 15:30, Business Wire 배포 시각 기준). A 지도: COP 없음.
+- 출처: [ConocoPhillips 보도자료](https://www.conocophillips.com/news-media/story/conocophillips-announces-agreement-to-sell-norway-business-and-teesside-asset-to-var-energi-2/) · [Business Wire (Morningstar 전재)](https://www.morningstar.com/news/business-wire/20261122120682/conocophillips-announces-agreement-to-sell-norway-business-and-teesside-asset-to-vr-energi) · 공식 여부: 공식
+- 확신도: 높음
+
+### W-20261123-1643-2 · 알림 · 이번 차례
+- 시각: 2026-11-23 16:4x KST
+- 내용: Scout를 직접 돌린 뒤(성공, 16:44 KST 갱신) 새 항목 32건(news 8·market 24) 모두 처리. 반영 1건(COP). 건너뜀: 모틀리풀 '오클로 상장 때 샀다면'·'앤트로픽 상장, 내가 볼 한 가지'(의견 글), 스탁트윗 '캐시 우드, 스페이스X가 테슬라 사면 프리미엄'(의견·추측 글 — 회사 발표 아님), 야후 '엔비디아 적정가 아래'·'엔비디아 소식에 미국 AI 칩주 다시 보기'·'코어위브, 앤트로픽 상장에 AI 수요 기대'(주가·분석 글), 비인크립토 '메타 AI 책임자, 초지능 가까워'(발언 정리 글). market 24건(블룸버그 영국 증시·중동 영상·프랑스 기업 투자·코카콜라 HBC 상장 제목, FinancialJuice 중앙은행 금리 확률·변동성·상관표 — 16시대라 done 만). done 은 대기 목록에 없는 오래된 id 부터 잘라 3000개 유지(저장 뒤 JSON 다시 읽어 확인). 나에게 온 새 요청(RULES 0-3): 없음. 미국 지표: 미국 동부 11-23 02:4x(월) — 오늘 발표 없음(다음 pce·claims 11-25), 매크로 수집 안 돌림, 분석 모두 최신.
+- 출처: ops/scout/newsq.json · 공식 여부: 저장소
+- 확신도: 높음
