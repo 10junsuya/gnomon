@@ -3244,3 +3244,27 @@ Scout(소식 감지 프로그램)가 모은 기사·공시를 공식 출처로 �
 - 내용: Scout를 직접 돌린 뒤(성공, 22:2x KST 갱신) 새 항목 100건(news 57·market 43) 모두 처리. 반영 2건(ARM 공식 갱신·BWXT 공식). 건너뜀: 하스 계약 연장 기사 3건(스탁트윗·야후·야후 UK — 위 ARM 갱신과 같은 사건), 'FedEx 컨소시엄 인포스트 인수 마무리'(news.FDX 11-20 공식 줄과 같은 사건), '레볼루션 RAS 억제제 췌장암'(news.RVMD 11-20 공식 줄과 같은 자료), '일라이릴리 로쿠스23'·'코노코필립스 노르웨이'(이미 반영), '스토크·바이오젠 학회 발표 예정'(일정 공지), 'SATO 고객 Datum B300 가동'·Aviz·Hammerspace·Hammond Power 이사회(앱 종목 아닌 회사 발표), 골드만 ETF 텍사스 거래소 이전(소규모 상장 이전), 로빈스 법무법인 BABA 집단소송 안내(광고성), 트레피스 '주가 왜 움직였나' 약 14건, 모틀리풀·24/7·잭스·티커·벤징가·TIKR 의견·전망·추천 글(알파벳·드러켄밀러·인텔·맥도날드·테슬라 자율주행·로켓랩 가격·크레스 CEO·갤러웨이·개빈 베이커·DA 데이비슨 소송비), 장전 시황·금값·M&A 기록·ETF 정리·유로 전망·야데니 목표치(시장·의견 글). market 43건(WSJ Market Talk 5건·금 반등, 블룸버그 우크라이나·브라질 헤알·유럽 반도체 영상, FinancialJuice 스트래티지 비트코인 2건·SOFR·이란 가스, 로이터 시세 페이지 약 30건 — 22시대라 done 만). done 은 대기 목록에 없는 오래된 id 부터 잘라 3000개 유지(저장 뒤 JSON 다시 읽어 확인). 나에게 온 새 요청(RULES 0-3): 없음. 미국 지표: 미국 동부 11-23 08:2x(월) — 오늘 발표 없음(다음 pce·claims 11-25), 매크로 수집 안 돌림, 분석 모두 최신. A 지도: 고칠 것 없음. 앱 다시 게시함(22:2x KST, 버전 290). 게시용 복사본에서만 CSP meta 한 줄을 뺐어요(저장소 파일은 그대로).
 - 출처: ops/scout/newsq.json · 공식 여부: 저장소
 - 확신도: 높음
+
+### W-20261123-2243-1 · 반영 · 시장 소식 11/21 06:00 지수 숫자 최종치로 (A-20261123-1937-2 에 대해)
+- 시각: 2026-11-23 22:5x KST
+- 내용: Archer 요청(A-20261123-1937-2)대로 companies.json market "2026-11-21 · 06:00" 항목의 로이터 예비치를 최종치로 바꿨어요 — S&P500 −3.59% → −3.70%, 다우 −1.85% → −1.93%, 나스닥 −5.13% → −5.28%. 문장 뜻(조정 진입·올해 상승분 반납)은 그대로, 출처 맨 앞에 로이터 최종본(야후 전재)을 더함. 숫자는 Archer 가 세 곳(로이터 최종·Motley Fool·TradingKey) 대조한 값이고 ops/knowledge/README.md 와도 같아요(이번 차례 검색에서는 같은 기사를 다시 찾지 못해 Archer 대조를 따름).
+- 출처: [로이터 최종 (야후 전재)](https://finance.yahoo.com/markets/stocks/articles/wall-st-futures-slip-anthropic-104746137.html) · 공식 여부: 보도
+- 확신도: 높음
+
+### W-20261123-2243-2 · 반영 · APLD 투자등급 하이퍼스케일러와 150MW·18년 임대 계약
+- 시각: 2026-11-23 22:5x KST
+- 내용: 어플라이드 디지털이 이름을 밝히지 않은 투자등급 하이퍼스케일러와 150MW·18년 임대 계약을 맺었어요. 기본 기간 계약 매출 약 54억 달러(연장 다 쓰면 33년 약 127억), 전달은 2028년 상반기 예정, 캠퍼스는 발표에 없음. 회사 전체 기본 기간 계약 매출은 410억 달러 넘게(연장 포함 약 1,000억). news.APLD 를 새로 만들어 첫 줄로(한국 22:00, 보도자료 08:00 ET). products.APLD '캠퍼스 전체' tag·one·specs(임대 계약·계약 매출)·asof·src 도 같은 발표로 갱신. 같은 날 07:45 ET '3억 달러 담보 브리지 대출' 발표는 자금 조달이라 넣지 않음. A 지도: 고객 이름이 없어 관계 넣지 않음.
+- 출처: [GlobeNewswire 보도자료](https://www.globenewswire.com/news-release/2026/11/23/3408272/0/en/applied-digital-secures-new-150-mw-18-year-lease-with-tier-one-investment-grade-hyperscaler-bringing-contracted-base-term-revenue-above-41-billion.html) · [Applied Digital IR](https://ir.applieddigital.com/news-events/press-releases/detail/165/applied-digital-secures-new-150-mw-18-year-lease-with) · 공식 여부: 공식
+- 확신도: 높음
+
+### W-20261123-2243-3 · 반영 · SPCX 버지니아·오리건주, 그록 딥페이크 이미지로 스페이스X 고소 (보도)
+- 시각: 2026-11-23 22:5x KST
+- 내용: 버지니아·오리건 두 주가 xAI 그록의 성적 딥페이크 이미지 생성 문제로 스페이스X를 고소했다고 CNBC·워싱턴타임스·야후 등이 같은 날 보도했어요(첫 주 단위 소송이라는 보도). 주 법무장관실 보도자료는 검색에서 찾지 못했고 CNBC 본문은 열리지 않아 제목 기준 '보도'로 넣음. news.SPCX 첫 줄, 회사당 8개 유지로 11-15 스타십 15차 줄이 빠졌어요. 다음 차례: 버지니아·오리건 법무장관실 발표가 나오면 공식으로 갱신.
+- 출처: [CNBC](https://www.cnbc.com/2026/11/23/oregon-virginia-spacex-grok-deepfake-lawsuits.html) · [Washington Times](https://washingtontimes.com/news/2026/nov/23/spacex-sued-virginia-oregon-sexual-deepfakes) · 공식 여부: 보도
+- 확신도: 중간
+
+### W-20261123-2243-4 · 알림 · 이번 차례
+- 시각: 2026-11-23 22:5x KST
+- 내용: Scout를 직접 돌린 뒤(성공, 22:45 KST 갱신) 새 항목 50건(news 36·market 14) 모두 처리. 반영 2건(APLD 공식·SPCX 보도) + Archer 요청 1건(시장 소식 최종치). 건너뜀: 'US Probing Alice Huang, Megaspeed'(조사 대상은 앱 종목 아닌 메가스피드 — 미 정부 조사 확인은 11-17 보도, 엔비디아 자체 조치 아님), APLD 3억 달러 브리지 대출(자금 조달), 'Broadcom 2,000억 달러 증발·구글 AI 칩 계획 축소 보도'(주가 정리 글 — 검색 상위는 2023년 The Information 기사·지난 HBM 보도), 'GEV 2026 전망 상향'(잭스 정리 글, 10월 실적 때 이미 나온 내용), 'Arm CEO 엔비디아 자리 관심 없음'(22:13 공식 갱신과 같은 사건), CRWD-ZS 인수 기사 3건(이미 공식), UUUU 장전 상승(21:43 반영과 같은 사건), 'Trump, Huang U-turn'·트럼프 PBS 발언(11-19 발언 되풀이, 이사회 결정 없음), STM 자사주 매입 현황(정기 공지), ADM 연구소·OnTrac·American Tower(앱 종목 아님/작은 일), 제프리스 SpaceX '매수' 개시·JP모건 CRWD 의견(증권사 의견), 모틀리풀·잭스·24/7 의견·비교·추천 글(캐시 우드·D-Wave·Axon·WM·키라토스·TXN vs LRCX·CRWV vs NBIS·LSCC·PANW·다모다란), 장전 시황·칩주 반등(주가). market 14건(FinancialJuice 오리건·버지니아 SpaceX 소송(위 반영)·트럼프 황 발언·골드만 금융 여건·재무부 제르보스·캐나다 제조업·시카고 연준 지수(-0.06), 블룸버그 씨티 무어·정유·야데니 목표 하향·폴란드 공모, Fox Business 선물 반등, 로이터 시세 페이지 2건 — 22시대라 done 만). done 은 대기 목록에 없는 오래된 id 부터 잘라 3000개 유지(저장 뒤 JSON 다시 읽어 확인). 나에게 온 요청(RULES 0-3): A-20261123-1937-2 처리(위 1번). 미국 지표: 미국 동부 11-23 08:4x(월) — 오늘 발표 없음(다음 pce·claims 11-25), 매크로 수집 안 돌림, 분석 모두 최신. A 지도: 고칠 것 없음.
+- 출처: ops/scout/newsq.json · 공식 여부: 저장소
+- 확신도: 높음
