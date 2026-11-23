@@ -319,3 +319,10 @@
 - 참고: 남은 칸 없는 앱 종목(ETF 제외): LIN·SHOP·SATS(ECHO)·IREN·VICR·NXE·DNN.
 - 제안: NXE·DNN 처럼 매출이 없는 개발 단계 회사는 OKLO 카드처럼 그래프 없이(손실·현금·사업 진행) 써야 해요. earnings_card.py 의 card() 는 그래프를 늘 넣어서, 이런 회사는 다음 차례에 OKLO 모양을 따라 직접 쓰거나 도우미에 '그래프 없음' 선택을 넣어야 해요(코드라 Conrad 확인 바람).
 - 참고: 앱 다시 게시함(14:26 KST, 버전 275). 지난 게시와 같게 게시용 복사본에서만 CSP meta 한 줄을 뺐어요(저장소 파일은 그대로). 게시본과 차이는 실적 데이터 한 줄과 매크로 갱신(11/23 10:39)뿐이었어요.
+
+### T-20261123-1453-1 · 새 칸 · LIN 실적 카드 (대표 승인 38번에 따라)
+- 시각: 2026-11-23 15:0x KST
+- 내용: 이번 차례 A·B 대상 없음(events.json 지난 earn 일정 모두 done, 다음 확정일은 ADI 11/24 21:00·DELL 11/25). 칸이 없는 앱 종목 중 IREN(11/25 발표 때)·ECHO(사업 분리로 비교 복잡)·NXE·DNN(매출 없는 개발 단계, T-20261123-1423-1 제안)을 빼고 비중이 가장 큰 LIN(린데, 한 ETF에 0.7%) 새 칸. 기간 「3분기 · 2026년 7~9월」: 매출 94.04억 달러(+9%, 1년 전 86.15억 — 2025년 3분기 회사 발표 숫자, 성장률은 계산값 +9.2%), 가격 +3%·물량 +2%·환율 약 +1%, 지역 미주 36.01억(+11%)·EMEA 23.27억(+7%)·APAC 19.50억(+12%)(money.json LIN 과 같음), 조정 영업이익률 29.4%, 조정 EPS 4.59달러(1년 전 4.21), 회계 EPS 3.66달러(-11%). 회사는 매출 전망을 내지 않아 guide null + gtext(10~12월 조정 EPS 4.40~4.50달러, +5~7%), 올해 조정 EPS 17.82~17.92달러로 올림. 발표 전 매출 예상 est 91.8억(Zacks 집계), FMP 91.6억 — note 에 범위. 다음 분기 cons 확인 못 해 null. 다음 발표일 공지 없음 → "2027년 2월 초 (예상 · 회사 발표일 공지 전)", 새 일정 안 넣음. 회사 발표 2026-10-29 장 시작 전, 반영 2026-11-23 15:0x KST.
+- 출처: [린데 3분기 실적 발표 (SEC 8-K)](https://www.sec.gov/Archives/edgar/data/0001707925/000165495426009199/lin_ex991.htm) · [린데 2025년 3분기 실적 (SEC 8-K)](https://www.sec.gov/Archives/edgar/data/1707925/000165495425012384/lin_ex991.htm) · [Zacks](https://www.zacks.com/stock/news/3018972/lin-q3-earnings-beat-estimates-on-higher-americas-pricing-volumes) · [Earnings Whispers (finviz)](https://finviz.com/news/411869/linde-posts-record-quarter-but-an-fx-aided-guidance-raise-and-a-softer-q4-outlook-temper-the-beat) · 공식 여부: 공식(실적) / 보도(예상치·해석)
+- 확신도: 높음 (실적은 8-K 숫자 / 예상치는 Zacks 집계)
+- 참고: 1년 전 매출은 Zacks 가 86.2억으로 적어 2025년 발표(86.15억)와 반올림 차이뿐이에요. 남은 칸 없는 앱 종목(ETF 제외): SHOP·SATS(ECHO)·IREN·VICR·NXE·DNN.
