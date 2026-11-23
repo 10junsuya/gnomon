@@ -1,18 +1,78 @@
 {
-"updated_kst": "2026-11-23 16:17",
-"rot": 25,
+"updated_kst": "2026-11-23 16:44",
+"rot": 85,
 "how": "Scout(프로그램)이 10분마다 모은 기사 제목·링크와 공시예요. Wren이 공식 출처로 확인한 뒤 회사 화면에 한국어로 반영해요. 본문은 받지 않아요.",
 "sources": {
 "Yahoo Finance": "120종목 확인 · 실패 0",
 "CNBC": "63건",
 "Bloomberg": "31건",
 "WSJ": "61건",
-"Reuters": "34건",
+"Reuters": "실패 HTTPError",
 "FinancialJuice": "100건",
 "SEC EDGAR": "실패 HTTPError",
 "Fox Business": "50건"
 },
 "items": [
+{
+"id": "26e9eff6bcb7",
+"t": "NVDA",
+"title": "If You’d Bought Oklo at Its SPAC Debut, Here’s What You’d Have Today",
+"url": "https://www.fool.com/investing/2026/11/23/if-youd-bought-oklo-at-its-spac-debut-heres-what-youd-have-today/?.tsrc=rss",
+"pub": "2026-11-23T07:35:02+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-23T07:44:28+00:00"
+},
+{
+"id": "cc7cd21ede12",
+"t": "NVDA",
+"title": "Anthropic Just Went Public. Here’s the 1 Thing I’m Watching.",
+"url": "https://www.fool.com/investing/2026/11/23/anthropic-just-went-public-heres-the-1-thing-im-watching/?.tsrc=rss",
+"pub": "2026-11-23T07:20:02+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-23T07:44:28+00:00"
+},
+{
+"id": "282dda6a322e",
+"t": "SPCX",
+"title": "Cathie Wood Says TSLA Holders ‘Will Get’ A Premium If SpaceX Buys Tesla — HSBC Puts It At Over 30%",
+"url": "https://stocktwits.com/news-articles/markets/equity/cathie-wood-tsla-holders-premium-if-spacex-buys-tesla-hsbc/cNbYtWbR9Si?.tsrc=rss",
+"pub": "2026-11-23T07:14:05+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-23T07:44:28+00:00"
+},
+{
+"id": "7645bc9af036",
+"t": "NVDA",
+"title": "Nvidia (NVDA) Stock Looks Below Fair Value After Recent Turmoil",
+"url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-nvda-stock-looks-below-070752587.html?.tsrc=rss",
+"pub": "2026-11-23T07:07:52+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-23T07:44:28+00:00"
+},
+{
+"id": "c39b3a71e330",
+"t": "NVDA",
+"title": "Nvidia News Has Investors Rethinking These U.S. AI Chip Stocks",
+"url": "https://finance.yahoo.com/technology/ai/articles/nvidia-news-investors-rethinking-u-070751605.html?.tsrc=rss",
+"pub": "2026-11-23T07:07:51+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-23T07:44:28+00:00"
+},
+{
+"id": "e196b165fc0a",
+"t": "CRWV",
+"title": "CoreWeave (CRWV) Stock Gets An AI Demand Jolt From A Record $81.3 Billion IPO",
+"url": "https://finance.yahoo.com/technology/ai/articles/coreweave-crwv-stock-gets-ai-070621794.html?.tsrc=rss",
+"pub": "2026-11-23T07:06:21+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-23T07:44:28+00:00"
+},
 {
 "id": "16b27bc1c408",
 "t": "NVDA",
@@ -34,6 +94,16 @@
 "seen": "2026-11-23T07:17:24+00:00"
 },
 {
+"id": "37ec18040089",
+"t": "META",
+"title": "A 167-Year-Old Math Problem Just Became Meta's Case That Superintelligence Is Near",
+"url": "https://beincrypto.com/superintelligence-inevitable-meta-ai-chief/?.tsrc=rss",
+"pub": "2026-11-23T06:43:45+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-23T07:44:28+00:00"
+},
+{
 "id": "d387a538e8c6",
 "t": "TSLA",
 "title": "Nio Sees Revenue Topping $15B This Year— But Analyst Warns Onvo Could Derail Tesla Roadster-Inspired Luxury Bet",
@@ -42,6 +112,16 @@
 "src": "Yahoo Finance",
 "kind": "news",
 "seen": "2026-11-23T07:17:24+00:00"
+},
+{
+"id": "d8b0e9d9aef5",
+"t": "COP",
+"title": "ConocoPhillips announces agreement to sell Norway business and Teesside asset to Vår Energi",
+"url": "https://finance.yahoo.com/energy/articles/conocophillips-announces-agreement-sell-norway-063000729.html?.tsrc=rss",
+"pub": "2026-11-23T06:30:00+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-23T07:44:28+00:00"
 },
 {
 "id": "7ffb50275ba9",
@@ -7934,84 +8014,244 @@
 "seen": "2026-11-20T23:14:14+00:00"
 },
 {
-"id": "673ae2581a06",
-"t": "NVDA",
-"title": "Pfizer's Launched and Acquired Drugs Grew 32% in Q3 — and 3 Other Reasons to Buy the Stock Before 2027",
-"url": "https://www.fool.com/investing/2026/11/20/pfizers-launched-and-acquired-drugs-grew-32-in-q3-and-3-other-reasons-to-buy-the-stock-before-2027/?.tsrc=rss",
-"pub": "2026-11-20T22:35:02+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-20T23:14:14+00:00"
+"id": "1ab66b59681a",
+"t": "",
+"title": "Horizons Middle East & Africa 11/23/2026 (Video)",
+"url": "https://www.bloomberg.com/news/videos/2026-11-23/horizons-middle-east-africa-11-23-2026-video",
+"pub": "2026-11-23T07:38:43+00:00",
+"src": "Bloomberg",
+"kind": "market",
+"seen": "2026-11-23T07:44:28+00:00"
 },
 {
-"id": "2a43a6628244",
-"t": "NVDA",
-"title": "Methuselah Advisors Issues Open Letter to the Board of Directors of NVIDIA Corporation",
-"url": "https://finance.yahoo.com/markets/stocks/articles/methuselah-advisors-issues-open-letter-223500869.html?.tsrc=rss",
-"pub": "2026-11-20T22:35:00+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-20T22:44:38+00:00"
+"id": "77a6e1ea1a39",
+"t": "",
+"title": "UK Traders Face Shaky Start After Worst Week for Stocks Since March",
+"url": "https://www.bloomberg.com/news/newsletters/2026-11-23/uk-traders-face-shaky-start-after-worst-week-for-stocks-since-march",
+"pub": "2026-11-23T07:30:16+00:00",
+"src": "Bloomberg",
+"kind": "market",
+"seen": "2026-11-23T07:44:28+00:00"
 },
 {
-"id": "976f26ddf3dd",
-"t": "NVDA",
-"title": "Anthropic’s Day Two Drop Fuels Broader Tech Rout; Dan Ives Points To ‘Perfect Storm’",
-"url": "https://stocktwits.com/news-articles/markets/equity/anthropic-s-day-two-drop-fuels-broader-tech-rout-dan-ives-points-to-perfect-storm/cNbSHWSR91O?.tsrc=rss",
-"pub": "2026-11-20T22:30:31+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-20T22:44:38+00:00"
+"id": "1159fc5cf362",
+"t": "",
+"title": "SNB Interest Rate Probabilities",
+"url": "https://www.financialjuice.com/News/9863952/SNB-Interest-Rate-Probabilities.aspx?xy=rss",
+"pub": "2026-11-23T07:26:02+00:00",
+"src": "FinancialJuice",
+"kind": "market",
+"seen": "2026-11-23T07:44:28+00:00"
 },
 {
-"id": "be9e4f77563d",
-"t": "NVDA",
-"title": "Michael Burry warns AI stocks mirror 1929 and 2000 crashes — and singles out Nvidia's risky deals",
-"url": "https://finance.yahoo.com/markets/stocks/articles/michael-burry-warns-ai-stocks-223000286.html?.tsrc=rss",
-"pub": "2026-11-20T22:30:00+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-20T22:44:38+00:00"
+"id": "f627af69116c",
+"t": "",
+"title": "UK First Secretary of State Haigh: UK-EU deal will reduce supermarket trading costs",
+"url": "https://www.financialjuice.com/News/9863951/UK-First-Secretary-of-State-Haigh-UK-EU-deal-will-reduce-supermarket-trading-costs.aspx?xy=rss",
+"pub": "2026-11-23T07:25:50+00:00",
+"src": "FinancialJuice",
+"kind": "market",
+"seen": "2026-11-23T07:44:28+00:00"
 },
 {
-"id": "06b358ed291a",
-"t": "CRWD",
-"title": "Zscaler Stock Soars 18% On CrowdStrike Takeover Report. $32 Billion Cybersecurity Deal In Focus.",
-"url": "https://www.ibtimes.com/crowdstrike-talks-acquire-zscaler-3810044?.tsrc=rss",
-"pub": "2026-11-20T22:27:40+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-20T23:14:14+00:00"
+"id": "8f645ef37fa2",
+"t": "",
+"title": "RBNZ Interest Rate Probabilities",
+"url": "https://www.financialjuice.com/News/9863950/RBNZ-Interest-Rate-Probabilities.aspx?xy=rss",
+"pub": "2026-11-23T07:25:46+00:00",
+"src": "FinancialJuice",
+"kind": "market",
+"seen": "2026-11-23T07:44:28+00:00"
 },
 {
-"id": "9a474f161227",
-"t": "MSFT",
-"title": "Andrew Ross Sorkin Doubts OpenAI Will Be “Worth More Than Anthropic.” That’s a Problem for Microsoft",
-"url": "https://www.tikr.com/blog/andrew-ross-sorkin-doubts-openai-will-be-worth-more-than-anthropic-thats-a-problem-for-microsoft?ref=yahoofinance&tlnk=yf-261120-j5jvg3r4&.tsrc=rss",
-"pub": "2026-11-20T22:26:38+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-20T22:44:38+00:00"
+"id": "19e480154001",
+"t": "",
+"title": "RBA Interest Rate Probabilities",
+"url": "https://www.financialjuice.com/News/9863949/RBA-Interest-Rate-Probabilities.aspx?xy=rss",
+"pub": "2026-11-23T07:25:17+00:00",
+"src": "FinancialJuice",
+"kind": "market",
+"seen": "2026-11-23T07:44:28+00:00"
 },
 {
-"id": "cef15d1b680a",
-"t": "NVDA",
-"title": "The Fear Gauge Hit 40. This Is What the Market Is Worried About.",
-"url": "https://finance.yahoo.com/m/f1ef20dd-1915-38ad-9581-22cac677d2a9/the-fear-gauge-hit-40.-this.html?.tsrc=rss",
-"pub": "2026-11-20T22:26:00+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-20T23:44:15+00:00"
+"id": "4bc0a0b2e224",
+"t": "",
+"title": "BoJ Interest Rate Probabilities",
+"url": "https://www.financialjuice.com/News/9863948/BoJ-Interest-Rate-Probabilities.aspx?xy=rss",
+"pub": "2026-11-23T07:24:58+00:00",
+"src": "FinancialJuice",
+"kind": "market",
+"seen": "2026-11-23T07:44:28+00:00"
 },
 {
-"id": "2cd8284d9a4e",
-"t": "NVDA",
-"title": "Is Coca-Cola a Millionaire-Maker Stock?",
-"url": "https://www.fool.com/investing/2026/11/20/is-coca-cola-a-millionaire-maker-stock/?.tsrc=rss",
-"pub": "2026-11-20T22:25:00+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-20T22:44:38+00:00"
+"id": "eec766cfb48f",
+"t": "",
+"title": "Ebadian: Saudi Private Credit Market Shows Promise",
+"url": "https://www.bloomberg.com/news/videos/2026-11-23/ebadian-saudi-private-credit-market-shows-promise-video",
+"pub": "2026-11-23T07:24:56+00:00",
+"src": "Bloomberg",
+"kind": "market",
+"seen": "2026-11-23T07:44:28+00:00"
+},
+{
+"id": "1b4765322460",
+"t": "",
+"title": "UK First Secretary of State Haigh: Want to intervene where markets are failing",
+"url": "https://www.financialjuice.com/News/9863947/UK-First-Secretary-of-State-Haigh-Want-to-intervene-where-markets-are-failing.aspx?xy=rss",
+"pub": "2026-11-23T07:24:54+00:00",
+"src": "FinancialJuice",
+"kind": "market",
+"seen": "2026-11-23T07:44:28+00:00"
+},
+{
+"id": "33094b8632a3",
+"t": "",
+"title": "BoC Interest Rate Probabilities",
+"url": "https://www.financialjuice.com/News/9863946/BoC-Interest-Rate-Probabilities.aspx?xy=rss",
+"pub": "2026-11-23T07:24:19+00:00",
+"src": "FinancialJuice",
+"kind": "market",
+"seen": "2026-11-23T07:44:28+00:00"
+},
+{
+"id": "c972759854ad",
+"t": "",
+"title": "BoE Interest Rate Probabilities",
+"url": "https://www.financialjuice.com/News/9863945/BoE-Interest-Rate-Probabilities.aspx?xy=rss",
+"pub": "2026-11-23T07:24:04+00:00",
+"src": "FinancialJuice",
+"kind": "market",
+"seen": "2026-11-23T07:44:28+00:00"
+},
+{
+"id": "55fecad7c433",
+"t": "",
+"title": "ECB Interest Rate Probabilities",
+"url": "https://www.financialjuice.com/News/9863944/ECB-Interest-Rate-Probabilities.aspx?xy=rss",
+"pub": "2026-11-23T07:23:43+00:00",
+"src": "FinancialJuice",
+"kind": "market",
+"seen": "2026-11-23T07:44:28+00:00"
+},
+{
+"id": "4a39c38c5da0",
+"t": "",
+"title": "Fed Interest Rate Probabilities",
+"url": "https://www.financialjuice.com/News/9863943/Fed-Interest-Rate-Probabilities.aspx?xy=rss",
+"pub": "2026-11-23T07:23:25+00:00",
+"src": "FinancialJuice",
+"kind": "market",
+"seen": "2026-11-23T07:44:28+00:00"
+},
+{
+"id": "d0301e43fd46",
+"t": "",
+"title": "Amjad: Dubai’s Property Boom Strategic with Vision 2040",
+"url": "https://www.bloomberg.com/news/videos/2026-11-23/amjad-dubai-s-property-boom-strategic-with-vision-2040-video",
+"pub": "2026-11-23T07:23:24+00:00",
+"src": "Bloomberg",
+"kind": "market",
+"seen": "2026-11-23T07:44:28+00:00"
+},
+{
+"id": "60198cfb8add",
+"t": "",
+"title": "Commodities Implied Volatility",
+"url": "https://www.financialjuice.com/News/9863942/Commodities-Implied-Volatility.aspx?xy=rss",
+"pub": "2026-11-23T07:22:35+00:00",
+"src": "FinancialJuice",
+"kind": "market",
+"seen": "2026-11-23T07:44:28+00:00"
+},
+{
+"id": "3274564a4ba7",
+"t": "",
+"title": "FX Implied Volatility",
+"url": "https://www.financialjuice.com/News/9863941/FX-Implied-Volatility.aspx?xy=rss",
+"pub": "2026-11-23T07:22:17+00:00",
+"src": "FinancialJuice",
+"kind": "market",
+"seen": "2026-11-23T07:44:28+00:00"
+},
+{
+"id": "bbf5748da9fc",
+"t": "",
+"title": "French Companies to Announce €14.9 Billion in Local Investments",
+"url": "https://www.bloomberg.com/news/articles/2026-11-23/french-companies-to-announce-14-9-billion-in-local-investments",
+"pub": "2026-11-23T07:22:15+00:00",
+"src": "Bloomberg",
+"kind": "market",
+"seen": "2026-11-23T07:44:28+00:00"
+},
+{
+"id": "c0300d1fb79d",
+"t": "",
+"title": "US Index Futures Implied Volatility",
+"url": "https://www.financialjuice.com/News/9863940/US-Index-Futures-Implied-Volatility.aspx?xy=rss",
+"pub": "2026-11-23T07:22:01+00:00",
+"src": "FinancialJuice",
+"kind": "market",
+"seen": "2026-11-23T07:44:28+00:00"
+},
+{
+"id": "f5ff41f8adc6",
+"t": "",
+"title": "Top S&P 500 Stock Names Implied Volatility",
+"url": "https://www.financialjuice.com/News/9863939/Top-SP-500-Stock-Names-Implied-Volatility.aspx?xy=rss",
+"pub": "2026-11-23T07:21:38+00:00",
+"src": "FinancialJuice",
+"kind": "market",
+"seen": "2026-11-23T07:44:28+00:00"
+},
+{
+"id": "20455a610a55",
+"t": "",
+"title": "120-Day Correlation Matrix",
+"url": "https://www.financialjuice.com/News/9863938/120-Day-Correlation-Matrix.aspx?xy=rss",
+"pub": "2026-11-23T07:20:52+00:00",
+"src": "FinancialJuice",
+"kind": "market",
+"seen": "2026-11-23T07:44:28+00:00"
+},
+{
+"id": "00470ae69de6",
+"t": "",
+"title": "90-Day Correlation Matrix",
+"url": "https://www.financialjuice.com/News/9863937/90-Day-Correlation-Matrix.aspx?xy=rss",
+"pub": "2026-11-23T07:20:31+00:00",
+"src": "FinancialJuice",
+"kind": "market",
+"seen": "2026-11-23T07:44:28+00:00"
+},
+{
+"id": "b128a4926516",
+"t": "",
+"title": "60-Day Correlation Matrix",
+"url": "https://www.financialjuice.com/News/9863936/60-Day-Correlation-Matrix.aspx?xy=rss",
+"pub": "2026-11-23T07:20:13+00:00",
+"src": "FinancialJuice",
+"kind": "market",
+"seen": "2026-11-23T07:44:28+00:00"
+},
+{
+"id": "8cea114b138e",
+"t": "",
+"title": "30-Day Correlation Matrix",
+"url": "https://www.financialjuice.com/News/9863935/30-Day-Correlation-Matrix.aspx?xy=rss",
+"pub": "2026-11-23T07:19:56+00:00",
+"src": "FinancialJuice",
+"kind": "market",
+"seen": "2026-11-23T07:44:28+00:00"
+},
+{
+"id": "039a868453cb",
+"t": "",
+"title": "Coca-Cola HBC Rises in JSE Debut Ahead of $2.6 Billion Deal",
+"url": "https://www.bloomberg.com/news/articles/2026-11-23/coca-cola-hbc-rises-in-jse-debut-ahead-of-2-6-billion-deal",
+"pub": "2026-11-23T07:17:43+00:00",
+"src": "Bloomberg",
+"kind": "market",
+"seen": "2026-11-23T07:44:28+00:00"
 },
 {
 "id": "c5ecc8ec7339",
@@ -10772,246 +11012,6 @@
 "src": "Reuters",
 "kind": "market",
 "seen": "2026-11-22T15:45:03+00:00"
-},
-{
-"id": "c503f6e02e23",
-"t": "",
-"title": "CTVA.ZY - Reuters",
-"url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE14bVBTc3FNYnhwLS1yOTctbWhRMTV5S2Nuc0QyX3Jma3ZrU2VianlWN0MyWG1MWXpaanM4dUc3clJ6TEUtSXNlTWRyZkRKcWtVOU1PcktsRW05dUl2T0VDODBBVFROQ0lBdVFFM0pRQQ?oc=5",
-"pub": "2026-11-22T08:49:22+00:00",
-"src": "Reuters",
-"kind": "market",
-"seen": "2026-11-22T21:44:25+00:00"
-},
-{
-"id": "c1739ad86740",
-"t": "",
-"title": "CaSy Co Ltd (9215.T) | Stock Price & Latest News - Reuters",
-"url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5NM0JOYUNqdzE1VjdYSWZCbXVjTmRTaklwdjdpSGd1ME5zRmplbEJkTVNHTUg2OHZ0N1NkX2JYOWJhb1FWRk03Yy1pUUdTQzRPLWxSaE04dkVwZy1ZeG5yYnYwWGsxYUZDVW84?oc=5",
-"pub": "2026-11-22T08:48:03+00:00",
-"src": "Reuters",
-"kind": "market",
-"seen": "2026-11-22T12:44:29+00:00"
-},
-{
-"id": "ee934b6c250c",
-"t": "",
-"title": "Swiss Inflation Has Been Accelerating, SNB Vice President Martin Says",
-"url": "https://www.bloomberg.com/news/articles/2026-11-22/swiss-inflation-has-been-accelerating-snb-vice-president-martin-says",
-"pub": "2026-11-22T08:00:00+00:00",
-"src": "Bloomberg",
-"kind": "market",
-"seen": "2026-11-22T08:43:48+00:00"
-},
-{
-"id": "2058b81e0b71",
-"t": "",
-"title": "Pacer ActiveAlpha India Quality ETF (INDQ.OQ) | Stock Price & Latest News - Reuters",
-"url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBLYnhXbkhTYmdrcWdUNWQ3dmVEcEV3X0g1aUthUGVvTXZ6Wm5KTHVDT19DRWZQR285ckFmWGo1QzhIblB0bUhVc3BmeDBKX0VhdGg2ZW5rNUJhZw?oc=5",
-"pub": "2026-11-22T07:42:54+00:00",
-"src": "Reuters",
-"kind": "market",
-"seen": "2026-11-22T09:39:36+00:00"
-},
-{
-"id": "6f1711d890cb",
-"t": "",
-"title": "Porter & Company Porter Portfolio Index ETF (PCPP.N) | Stock Price & Latest News - Reuters",
-"url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE41MjVMbS1taDZXUW51aGZ3NFdHNUt4SzR1R3oxUllIbktaSWJfdDlRbzRDNkx3MkQxajNJcjZEQ2daeDhwS1RnbFVaaHBucHRsSkpZNHprckc?oc=5",
-"pub": "2026-11-22T07:30:10+00:00",
-"src": "Reuters",
-"kind": "market",
-"seen": "2026-11-22T09:14:33+00:00"
-},
-{
-"id": "572a544fab40",
-"t": "",
-"title": "IncomeSTKd 1x US Stocks & 1x Bitcoin Premium ETF (ISSB.N) | Stock Price & Latest News - Reuters",
-"url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBuR1pidi1YU05jbGU0S0ctbEp1U2lEcDR6dlpZTGcwR21TTnZoSkVyNThtcnBkdE1JejFZS0NPbG9DbXJ1R2xIY09ESzNjNFVtUGNSMDZsSVM?oc=5",
-"pub": "2026-11-22T06:55:19+00:00",
-"src": "Reuters",
-"kind": "market",
-"seen": "2026-11-22T08:14:33+00:00"
-},
-{
-"id": "669d7b18811b",
-"t": "",
-"title": "Link Reservations, Inc (LRSV.PK) | Stock Price & Latest News - Reuters",
-"url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE10YWRnOExfV1BRakxxREtGTE1lSk1MY0E0eVlhTDJPMmQzMDhPdDlYTkh3LTF4MUw2azVmaThFN2NEWndDY2pvaHhjVVlUdVNJbjU4SkhXRWdQd0NhUDQ5S0dGcTBsTEk5NXlwSEJJSQ?oc=5",
-"pub": "2026-11-22T06:51:32+00:00",
-"src": "Reuters",
-"kind": "market",
-"seen": "2026-11-22T23:44:00+00:00"
-},
-{
-"id": "e2ada545d6fa",
-"t": "",
-"title": "002270.SZ - | Stock Price & Latest News - Reuters",
-"url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9UUVlXQW1LTTVHMHZVSjYtZUhsakFFeHFVZlhKN2JJLWZPX1plWGtCVXAtSVB0MExzYjU3UW1xN1E0d09xU0tUTEYtbHpwY1pKUGxneWRLMnZOODNVZldZOUtmNUNLQU5mYkM0WHVyMzFFSUxKRXhkRzdmZHE?oc=5",
-"pub": "2026-11-22T06:50:15+00:00",
-"src": "Reuters",
-"kind": "market",
-"seen": "2026-11-22T20:44:25+00:00"
-},
-{
-"id": "c81bd239b32c",
-"t": "",
-"title": "6498JPY.JPx - Reuters",
-"url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBMampVZTc3dTN0NnlEN0VHdFRvY2ZkRzVjd2JVSko3Z2FSSWt0Q0hRY2Z3TXQ3LWVjN1NWbmxjaHpENUtaamZiNjVWcldLOFNZbndVSFRrblZzTUdnS1NGcmVWM0JfaGRMTVh6Q0tYT2NKc3ZJ?oc=5",
-"pub": "2026-11-22T05:25:26+00:00",
-"src": "Reuters",
-"kind": "market",
-"seen": "2026-11-22T11:21:57+00:00"
-},
-{
-"id": "c6b3cb28cc0a",
-"t": "",
-"title": "6498JPY.JPx - Reuters",
-"url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9rX25COTJyWm10eWk5M242UTFpWU9HLXZXck8xbmY3eVlXU05ZZnZEa29MUGwyNnEyZ0RUck5UaWFGcUNRYWtScFQyUkFFYkthdGM2ZUVpZFpMa2ZxazhGT0daVnRhUnNxOEMzazRpaVk4cE0?oc=5",
-"pub": "2026-11-22T05:25:26+00:00",
-"src": "Reuters",
-"kind": "market",
-"seen": "2026-11-22T20:13:47+00:00"
-},
-{
-"id": "f640d09cf0ba",
-"t": "",
-"title": "NVTKI.RTS - | Stock Price & Latest News - Reuters",
-"url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5ZZ3BwSURTeGNHVUxpVXpMU18tOHc1eENsMWdTR1lmMDVua00zTG9OYVNEd1F3T1pIa3AzVDJsandhSmhWdHotdE84RC1lU09CMTZfel9VZE1USDdkYktrUnoxNEdOMDhxMllrcFU4d0xzREhtZjVBSkpWbFNka2s?oc=5",
-"pub": "2026-11-22T04:57:02+00:00",
-"src": "Reuters",
-"kind": "market",
-"seen": "2026-11-22T11:21:57+00:00"
-},
-{
-"id": "570ce5cc6b75",
-"t": "",
-"title": "NVTKI.RTS - | Stock Price & Latest News - Reuters",
-"url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE92M0pQQ3NQTUlLMVRQWVhOa0w4LWdJRzFtQk5IVzRwM3FNVTBmcFpsOWZtcnFpclB1NlNKb0VPODhOdmxNenFrbDljdnJPaEFDTTlScWoxUkloQWcybHpWa3FNa0lTYnNMeUgzcl9qR3dET1VTOU5JMnR4UzJKUQ?oc=5",
-"pub": "2026-11-22T04:57:02+00:00",
-"src": "Reuters",
-"kind": "market",
-"seen": "2026-11-22T20:44:25+00:00"
-},
-{
-"id": "2d97706dc272",
-"t": "",
-"title": "0OFG.L - Reuters",
-"url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1kWFh5Zkw0QTJ5czk1MEdFdzhwWllMT0FNZEN6UVlTZUM5Y3lXc1NseEhlOEpLZXJROHRFTTMzNXpPZVh6cFdrZHJGc19mQy1XWU1JSDBWcGhuUGs0MGE3dF9wckN4ZV9nZHlpYldaOUE3SExOZmFr?oc=5",
-"pub": "2026-11-22T04:56:23+00:00",
-"src": "Reuters",
-"kind": "market",
-"seen": "2026-11-22T14:44:21+00:00"
-},
-{
-"id": "bedde68f0dc7",
-"t": "",
-"title": "Myseum AI Inc (MYSE.OQ) | Stock Price & Latest News - Reuters",
-"url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE53cGdMSFZsOEVOQTVuY1VmZVlGRjI0enE0WEQ2aUZnWW1VZ2g4MDZ5T2FNQ2NTWDd6OENHOEcxNzRVSEx2VkhzRW5zcmFrX3BtbHFfT0ZRSUlwNWFOaXBNRXNPM0l4YTFtVm8yR3Z3MA?oc=5",
-"pub": "2026-11-22T04:53:56+00:00",
-"src": "Reuters",
-"kind": "market",
-"seen": "2026-11-22T08:43:48+00:00"
-},
-{
-"id": "d95b0292e7f4",
-"t": "",
-"title": "6555f.TWO - | Stock Price & Latest News - Reuters",
-"url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPSFZHUzU3RWkwLUdJRk1Yb082T3NZTF9KbHh5MU1JYUl6UndWSE5ZOG00amtLWHVQaG4tbmdqa1BmVHlSZVBYZl9mZnRUenNSRnpZUEhsUDB5V2VjSFR6S2NCRHJid3ZTXzJEcHRwUFBaaWZCTmJVRGpfOW9CcV9ObGZLMUNQVkZUUFZfTHd6TjJZdw?oc=5",
-"pub": "2026-11-22T04:52:30+00:00",
-"src": "Reuters",
-"kind": "market",
-"seen": "2026-11-22T07:56:09+00:00"
-},
-{
-"id": "3ee184645283",
-"t": "",
-"title": "6555f.TWO - | Stock Price & Latest News - Reuters",
-"url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNZF8wU3FIQldCN2ZIUV82bXhhbVBOTG1SaXJRU0xYOFk4WklueEFYa0FqbGJEWE05Z0Q5V3pJQ015TmtCbDh6cVktWmI1SnJXRnRKbTVwZ0xJRXIxbWpZSWNQNEdnRlpHenU3X0xDa1NOZWZNWFNDMHZmdE1LM0RRbFN5R0JZbXdsNWhOX3lmTTcxa2M?oc=5",
-"pub": "2026-11-22T04:52:30+00:00",
-"src": "Reuters",
-"kind": "market",
-"seen": "2026-11-22T09:44:06+00:00"
-},
-{
-"id": "5926331100dc",
-"t": "",
-"title": "TAPa.Z - Reuters",
-"url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPVHdDUGRPd3pRRlJsQXdhSUk1TUtzdElMWDhmVkJiWUtLQ1p2dlhGTXp5UkFIN0RKV0xaS1lHR1U4am9jWFNKcXBEQ2c3SGZpUzY4eGVNcERZM1JVcDh2Smx5LWx3NFJUam44Z0dTTE4xb0UwWHBLbDRCWThmMFVXWkdPMUZzYUl1RDhzS3p1Zw?oc=5",
-"pub": "2026-11-22T04:52:10+00:00",
-"src": "Reuters",
-"kind": "market",
-"seen": "2026-11-22T20:44:25+00:00"
-},
-{
-"id": "eaca433704e2",
-"t": "",
-"title": "Amata Corporation PCL (AMCUF.PK) | Stock Price & Latest News - Reuters",
-"url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5fUTlfZnotblZFWGw3WXd5d003R2hzWVYwTGhiVVY5OU4yWFJJZDhtU3JKWDF1TUdfNzRWY3lHRHRXMk5QdkRKWXdySG41VXkyeXM4V0NqN0R1MV90SGdveFo0alhrRUIzNXJkM1VrSlY?oc=5",
-"pub": "2026-11-22T04:51:39+00:00",
-"src": "Reuters",
-"kind": "market",
-"seen": "2026-11-22T07:56:09+00:00"
-},
-{
-"id": "45a7d9e5ba89",
-"t": "",
-"title": "Aida Pharmaceuticals Inc (AIDA.PK) | Stock Price & Latest News - Reuters",
-"url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE44UEJ0T1BnZUQ1ZXZMeDJMZmpLUHdXTS1iWkZSX2s2N2lvMmdSaFBFdml5YWpEcVhhLTdQWVNuWXBxQnVJTXh3eWhYZWtuZzZBeFZPN000V1c3aFhTY3FaZktULWdRbjRUNWtQWDY3SQ?oc=5",
-"pub": "2026-11-22T04:47:31+00:00",
-"src": "Reuters",
-"kind": "market",
-"seen": "2026-11-22T21:44:25+00:00"
-},
-{
-"id": "2428ccc4698a",
-"t": "",
-"title": "Else Nutrition Holdings Inc (BABYF.PK) | Stock Price & Latest News - Reuters",
-"url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5nemduNEFGdFJ6N0FMa3JuZWh0T1BsOHNwNXNYZHgta3YwNnNpS3RwWWkxWXFsbGhNQ21xYUZWLXE3el9DU3hxLXZlT2NNM2pydFNfbER6WnNZbXM?oc=5",
-"pub": "2026-11-22T03:46:40+00:00",
-"src": "Reuters",
-"kind": "market",
-"seen": "2026-11-22T05:41:13+00:00"
-},
-{
-"id": "d139da33bad3",
-"t": "",
-"title": "China Investigates CNPC Deputy General Manager for Corruption",
-"url": "https://www.bloomberg.com/news/articles/2026-11-22/china-investigates-cnpc-deputy-general-manager-for-corruption",
-"pub": "2026-11-22T03:36:34+00:00",
-"src": "Bloomberg",
-"kind": "market",
-"seen": "2026-11-22T04:41:01+00:00"
-},
-{
-"id": "e7c7a7f07649",
-"t": "",
-"title": "Bodycote PLC (BYPLF.PK) | Stock Price & Latest News - Reuters",
-"url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE53V2ZORFJ4Y0JkY0NEWHpkOFMwcy1GOS1McTZLcVJuMlBXU0Jfd1YwTTVLRHo0S1liRTJDYmpJcjdLeFZpVXl3MVQyaXppbWc5WFNmV0FybU82R1lVY04xMy01Q1pWNDlVUmRIdW9n?oc=5",
-"pub": "2026-11-22T02:58:21+00:00",
-"src": "Reuters",
-"kind": "market",
-"seen": "2026-11-22T07:44:32+00:00"
-},
-{
-"id": "bc199df12b1a",
-"t": "",
-"title": "0255.BE%5EA12 - | Stock Price & Latest News - Reuters",
-"url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA5aV9JTXctbEwtUlFfd1Fsd3c1cF9kQktHdjQzVl8tWG43VWE5dHdyTzlabXFUelJFNlpxMFA0bUZXYzJGdGMtam1Tc1JfUldoVjZWOTNjVEFoc0dXZFMzRWJZX2NtNGpHejdOR1duRjg?oc=5",
-"pub": "2026-11-22T02:55:19+00:00",
-"src": "Reuters",
-"kind": "market",
-"seen": "2026-11-22T07:56:09+00:00"
-},
-{
-"id": "b6436e60e2fd",
-"t": "",
-"title": "0255.BE%5EA12 - | Stock Price & Latest News - Reuters",
-"url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9CdWRhTW1fQmsxeFkwNHZPN3Fjc2gwN2YzSEFicEFfWkFBU256QzBrUGVLLVdKNHdQT242ZDRtRE1Yb3Z4ZUFmMko0YmF5V3VpUm11bnQtZ3hCbHpKTlZ1bm5SQU1kTk90X1ZhN2pGX0tTdw?oc=5",
-"pub": "2026-11-22T02:55:19+00:00",
-"src": "Reuters",
-"kind": "market",
-"seen": "2026-11-22T18:05:19+00:00"
 }
 ]
 }
