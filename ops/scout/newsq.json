@@ -1,18 +1,38 @@
 {
-"updated_kst": "2026-11-23 14:44",
-"rot": 24,
+"updated_kst": "2026-11-23 15:14",
+"rot": 84,
 "how": "Scout(프로그램)이 10분마다 모은 기사 제목·링크와 공시예요. Wren이 공식 출처로 확인한 뒤 회사 화면에 한국어로 반영해요. 본문은 받지 않아요.",
 "sources": {
 "Yahoo Finance": "120종목 확인 · 실패 0",
 "CNBC": "63건",
 "Bloomberg": "31건",
 "WSJ": "61건",
-"Reuters": "34건",
+"Reuters": "31건",
 "FinancialJuice": "100건",
 "SEC EDGAR": "실패 HTTPError",
 "Fox Business": "50건"
 },
 "items": [
+{
+"id": "bcccf3416fe3",
+"t": "NVDA",
+"title": "It’s time to follow the cash at Nvidia",
+"url": "https://uk.finance.yahoo.com/news/time-cash-nvidia-060000333.html?.tsrc=rss",
+"pub": "2026-11-23T06:00:00+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-23T06:14:15+00:00"
+},
+{
+"id": "a948a2992148",
+"t": "NFLX",
+"title": "NFLX Vs DIS: Which Streaming Stock Is A Favorite Among Analysts?",
+"url": "https://stocktwits.com/news-articles/markets/equity/nflx-vs-dis-which-streaming-stock-is-a-favorite-among-analysts/cNbYqJwR9SO?.tsrc=rss",
+"pub": "2026-11-23T05:55:24+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-23T06:14:15+00:00"
+},
 {
 "id": "1458ba275a71",
 "t": "NVDA",
@@ -54,6 +74,16 @@
 "seen": "2026-11-23T05:13:49+00:00"
 },
 {
+"id": "54f26fa6aebf",
+"t": "NVDA",
+"title": "Scott Bessent Says 'We Do Need Answers' From Nvidia on China Chip Sales: Stock Climbs Nearly 7% Overnight on Robinhood",
+"url": "https://finance.yahoo.com/markets/stocks/articles/scott-bessent-says-answers-nvidia-045537654.html?.tsrc=rss",
+"pub": "2026-11-23T04:55:37+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-23T06:14:15+00:00"
+},
+{
 "id": "e6e349ca1329",
 "t": "TSLA",
 "title": "Musk Says Tesla’s Real-World AI Will Get Smarter by “About an Order of Magnitude per Year”",
@@ -72,6 +102,16 @@
 "src": "Yahoo Finance",
 "kind": "news",
 "seen": "2026-11-23T05:29:50+00:00"
+},
+{
+"id": "06f6ce6eb9eb",
+"t": "SO",
+"title": "Better Dividend Stock for Retirees: Southern Company vs. American Water Works",
+"url": "https://www.tikr.com/blog/better-dividend-stock-for-retirees-southern-company-vs-american-water-works?ref=yahoofinancedividend&tlnk=yf-261123-rrh6f338&.tsrc=rss",
+"pub": "2026-11-23T04:35:01+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-23T06:14:15+00:00"
 },
 {
 "id": "cfb654cd6de5",
@@ -7974,44 +8014,64 @@
 "seen": "2026-11-20T23:14:14+00:00"
 },
 {
-"id": "90519a102939",
-"t": "IONQ",
-"title": "IonQ (IONQ) Stock Dropped, So What Is Driving Attention Now?",
-"url": "https://finance.yahoo.com/markets/stocks/articles/ionq-ionq-stock-dropped-driving-220928364.html?.tsrc=rss",
-"pub": "2026-11-20T22:09:28+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-20T22:44:38+00:00"
+"id": "7f1627729988",
+"t": "",
+"title": "Swiss Bourse Owner SIX Steps Up Effort to Attract Growth Stocks",
+"url": "https://www.bloomberg.com/news/articles/2026-11-23/swiss-bourse-six-group-attract-growth-stocks-aquis-stock-exchange",
+"pub": "2026-11-23T06:00:00+00:00",
+"src": "Bloomberg",
+"kind": "market",
+"seen": "2026-11-23T06:14:15+00:00"
 },
 {
-"id": "a8ca495e7194",
-"t": "AMZN",
-"title": "Generac (GNRC) Stock May Be 23% Undervalued Despite AI Backlog Growth",
-"url": "https://finance.yahoo.com/markets/stocks/articles/generac-gnrc-stock-may-23-220807655.html?.tsrc=rss",
-"pub": "2026-11-20T22:08:07+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-20T22:44:38+00:00"
+"id": "4698b861bba7",
+"t": "",
+"title": "Pakistan Minister Says India Terrorism Talks Must Be Fact-Based",
+"url": "https://www.bloomberg.com/news/articles/2026-11-23/pakistan-minister-musadik-malik-india-terrorism-talks",
+"pub": "2026-11-23T05:53:07+00:00",
+"src": "Bloomberg",
+"kind": "market",
+"seen": "2026-11-23T06:14:15+00:00"
 },
 {
-"id": "65be19377af8",
-"t": "MSFT",
-"title": "NiSource: 3 Key Takeaways for Long-Term Investors",
-"url": "https://www.fool.com/earnings/takeaways/2026/11/20/nisource-3-key-takeaways-for-long-term-investors/?.tsrc=rss",
-"pub": "2026-11-20T22:05:03+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-20T22:24:18+00:00"
+"id": "d52b59250983",
+"t": "",
+"title": "Asian Stocks Drop as AI Worries Offset Support Measures",
+"url": "https://www.bloomberg.com/news/videos/2026-11-23/asian-stocks-drop-as-ai-worries-offset-support-measures-video",
+"pub": "2026-11-23T05:50:54+00:00",
+"src": "Bloomberg",
+"kind": "market",
+"seen": "2026-11-23T06:14:15+00:00"
 },
 {
-"id": "77ee8f075004",
-"t": "NVDA",
-"title": "If I Could Tell All S&P 500 Investors Just 1 Thing Right Now, It's This",
-"url": "https://www.fool.com/investing/2026/11/20/if-i-could-tell-all-sp-500-investors-just-1-thing/?.tsrc=rss",
-"pub": "2026-11-20T22:05:00+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-20T22:24:18+00:00"
+"id": "926f6a959799",
+"t": "",
+"title": "'Risk Is Still Here': How Asia Was Hit By Market Rout",
+"url": "https://www.bloomberg.com/news/videos/2026-11-23/-risk-is-still-here-how-asia-was-hit-by-market-rout-video",
+"pub": "2026-11-23T05:44:28+00:00",
+"src": "Bloomberg",
+"kind": "market",
+"seen": "2026-11-23T06:14:15+00:00"
+},
+{
+"id": "aab16a1a4548",
+"t": "",
+"title": "Honda recalls 810K vehicles over dangerous Takata airbag inflator rupture risk",
+"url": "https://www.foxbusiness.com/economy/honda-recalls-810k-vehicles-over-dangerous-takata-airbag-inflator-rupture-risk",
+"pub": "2026-11-23T05:42:14+00:00",
+"src": "Fox Business",
+"kind": "market",
+"seen": "2026-11-23T06:14:15+00:00"
+},
+{
+"id": "b6ae47825421",
+"t": "",
+"title": "Asian Stocks Drop AI Fears Outweigh Support Measures",
+"url": "https://www.bloomberg.com/news/videos/2026-11-23/the-china-show-11-23-2026-video",
+"pub": "2026-11-23T05:38:33+00:00",
+"src": "Bloomberg",
+"kind": "market",
+"seen": "2026-11-23T06:14:15+00:00"
 },
 {
 "id": "4eeba7a092a0",
@@ -8022,6 +8082,16 @@
 "src": "Bloomberg",
 "kind": "market",
 "seen": "2026-11-23T05:44:14+00:00"
+},
+{
+"id": "d60444fc90d0",
+"t": "",
+"title": "Japan Power Prices Extend Rise to Four-Year High on Cold Outlook",
+"url": "https://www.bloomberg.com/news/articles/2026-11-23/japan-power-prices-four-year-high-cold-outlook-winter-snow-weather-gas-lng",
+"pub": "2026-11-23T05:23:01+00:00",
+"src": "Bloomberg",
+"kind": "market",
+"seen": "2026-11-23T06:14:15+00:00"
 },
 {
 "id": "aea407a54b42",
@@ -8344,6 +8414,26 @@
 "seen": "2026-11-23T04:06:00+00:00"
 },
 {
+"id": "b564efcabe86",
+"t": "",
+"title": "7516.JSF - | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOQmpNT2dHVUR0S25LRWxDakVJYUt2b3ozMFlrak96dndsWWx4N1otT2FDckJjUVdPX04zaVNJSXgyT0tuVjM5NzlRVEpCTll5TzhBUXk1UmI2ZXJDcjNtc2o2M21BZTEyc21WaEstakh2NHFNYVdIRzJpdVNkS1pkZU1PaV9UODA?oc=5",
+"pub": "2026-11-23T01:21:13+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-23T06:14:15+00:00"
+},
+{
+"id": "7de8a067a11b",
+"t": "",
+"title": "043590bl.KQ - | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNSGt0Q29qR0hNVkh6c3VZcmhGdWxBZUw0NXhNMlgtRVV5aFd0REF4RDdQU0xPQndTc1JnZlRPS2k1SFFIYks3eF9NNFNiRk4wWTlHZnFNUnlrZnFReVBNYzlFNi15V1hOcV93SEJ2UHFRdDdqVU9kY3lNTlBlNEotRjNyM0k2Zy05?oc=5",
+"pub": "2026-11-23T01:19:03+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-23T06:14:15+00:00"
+},
+{
 "id": "9ab4e33545f9",
 "t": "",
 "title": "Beammwave AB (BEAMMWb.ST) | Stock Price & Latest News - Reuters",
@@ -8414,6 +8504,16 @@
 "seen": "2026-11-23T02:44:11+00:00"
 },
 {
+"id": "b6c3f2e5e4fa",
+"t": "",
+"title": "7036.JNX - | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1oblgxRWlQY1pSNktqY203cHZpbnppenZzWVBNbFAybm1fZVVkUEF0WGNwUGdrdW5Dd1BTQy1oU0FZc3pFQnl4NF9BV2NRR2s2TXc2VVZOVWJFNVVoajltdU1lRVlTTU42V2JNWWthMms3cURPRUxqVnhZMA?oc=5",
+"pub": "2026-11-23T00:59:55+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-23T06:14:15+00:00"
+},
+{
 "id": "e0309752f501",
 "t": "",
 "title": "1945.JNF - | Stock Price & Latest News - Reuters",
@@ -8432,6 +8532,16 @@
 "src": "Reuters",
 "kind": "market",
 "seen": "2026-11-23T05:29:50+00:00"
+},
+{
+"id": "3d7de031f988",
+"t": "",
+"title": "ProFunds UltraBear ProFund;Service (URPSX.O) | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5hUm1jeUotM1MyV2NITXZsZVJzOVVkX0ZPbHFPbDF4VXZTRTRpcENLTjZYVHBtVnBMSkFwbXk4bDFPa3BEODk2ellaTzgtM2Q5UWZtSUNPY2FoOF9uSlFEX3RQMUhwN2drVFdZUg?oc=5",
+"pub": "2026-11-23T00:58:25+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-23T06:14:15+00:00"
 },
 {
 "id": "8fcae0fb4449",
@@ -8772,6 +8882,16 @@
 "src": "FinancialJuice",
 "kind": "market",
 "seen": "2026-11-22T22:14:20+00:00"
+},
+{
+"id": "ea2a4bd28626",
+"t": "",
+"title": "Bega Cheese Limited (B6G.D) | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNV1VlMFg3enlYQUU3dXlyMFFoXzZjODlCdDREWGk2LUJ5U21OcTJZTWN5TERnMWM0b1pNcDUwV0tENGItODRhWTFEYlVfb0s4NUlRQkg1bl9jbUVwRU91Vy1KVDY0VTZYNS16SXRpUVlxMzVtWGFtZDlCNVpJUjR5NEVn?oc=5",
+"pub": "2026-11-22T21:47:50+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-23T06:14:15+00:00"
 },
 {
 "id": "aa1ec0b72afa",
@@ -9312,6 +9432,16 @@
 "src": "Bloomberg",
 "kind": "market",
 "seen": "2026-11-22T16:13:46+00:00"
+},
+{
+"id": "b539db81e17d",
+"t": "",
+"title": "4729f.TWO - | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQX19Pc3l6YWZCVVJoZ1UzUjluRzBCTjZPbzJoalh5T29PSGRmTU9mR1l0ZnJ6X3lQYnJlNndpcWdJN3A1MVU5MUJhdmlSc25LSHAycFBIdV9KM0pxTzlSS3k0TXgydU5vZ0xEZVhzZmZxRXlBRFZyU1dCTjAzd2tHSGJlcWF5S2k3?oc=5",
+"pub": "2026-11-22T15:47:59+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-23T06:14:15+00:00"
 },
 {
 "id": "eef13c3d837d",
@@ -10882,136 +11012,6 @@
 "src": "Reuters",
 "kind": "market",
 "seen": "2026-11-22T21:25:33+00:00"
-},
-{
-"id": "25fd8c4cd813",
-"t": "",
-"title": "MOM.AX - Reuters",
-"url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNb09PSjhmNFNyZk05d042cTgzTzlob0hqLVAtdHVhWXc3ekVTckxJZ3JKTlpWZ2Y0b0J0dnRXbWxydkZyc3B0cDBuU3ZRbUpjSEZJUV9OTlVxUTNpN0lFdmpuemtHVV9zZ1hUZ0tUWDVqZ29nakdTWW9qQ1ZMdGZDNTVlOFg?oc=5",
-"pub": "2026-11-22T00:56:04+00:00",
-"src": "Reuters",
-"kind": "market",
-"seen": "2026-11-22T05:14:17+00:00"
-},
-{
-"id": "354b1a4bee96",
-"t": "",
-"title": "Aida Pharmaceuticals Inc (AIDA.PK) | Stock Price & Latest News - Reuters",
-"url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1EdW5reV9vV0c3alpPYU0tMWtOUEJxNkhLdUpfYmxvZWttb2xGMzFqUW9WV21UY1BCTjBqNXpCWkhkWkUxRDFtblV6aFpTTUQ3ajJqc0huQ3NwTzlFWWt5aTRWaGdQUFdnTFZnVA?oc=5",
-"pub": "2026-11-22T00:55:16+00:00",
-"src": "Reuters",
-"kind": "market",
-"seen": "2026-11-22T05:44:26+00:00"
-},
-{
-"id": "55eb1bb22d93",
-"t": "",
-"title": "SOBKY.PQ - | Stock Price & Latest News - Reuters",
-"url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPZjBlU21xN3hLTGpGYTlibEJxTU1qMGU4OTZEYW0zeTN1VU1UQ2kxWGwtQ2ZRcWMyTUZVVGtDaEt3RjZPb0VmTVctbjYzWHhYOUUzN1ZPWEJQR2NLUkQxNWpBeTRObXN3TUYtMG41TjRqRlVVbWZDYVFlRmFWQzZNZUlBYw?oc=5",
-"pub": "2026-11-22T00:54:55+00:00",
-"src": "Reuters",
-"kind": "market",
-"seen": "2026-11-22T03:35:49+00:00"
-},
-{
-"id": "2d20b9ebc231",
-"t": "",
-"title": "SOBKY.PQ - | Stock Price & Latest News - Reuters",
-"url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOakZCM0Q4WUdaSzR1NHY3bnVYT3k0VERzTjBiSXBDWkh0NjN0UkJrbHRDYW1pQjJMc0dqaUdfOEw0SUR4X0l3X1RDSXFvWlNKdjlJRkFUZ1NoTVZxVzNqOWV5M2N2dmhQdTd6YklVYXBscTFKUW16OC0zdmVBa1NzenVlV0s?oc=5",
-"pub": "2026-11-22T00:54:55+00:00",
-"src": "Reuters",
-"kind": "market",
-"seen": "2026-11-22T05:44:26+00:00"
-},
-{
-"id": "a4d1f854b8db",
-"t": "",
-"title": "iShares Global Water UCITS ETF USD (Dist) (IQQQ.DE) | Stock Price & Latest News - Reuters",
-"url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE4yTDkwankzczBrVktOQVBOWlZqM1l2R3pYWWhXQjlMZFRJSGxQenBsNkJVY1I5UDVwQlBURTJpMlFhYVo5akFzRFZDbnNrS0hTdW9kdzZWT1lHekJVbXNxcEktbkFjX1c5RkkzYVN3?oc=5",
-"pub": "2026-11-22T00:50:54+00:00",
-"src": "Reuters",
-"kind": "market",
-"seen": "2026-11-22T07:56:09+00:00"
-},
-{
-"id": "3a019a24a698",
-"t": "",
-"title": "iShares Global Water UCITS ETF USD (Dist) (IQQQ.DE) | Stock Price & Latest News - Reuters",
-"url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE51aUoyRGtObGk1ZHNFWXR3eG9iWU5KelRGNW40T2hTMXJsejlJb2dLS2ZocjVqcUJKckZJakh6aldWZUdMTjhHNlZjRGdBVWY3S0VDQ05vODRfbURkeEdWMmNXd3ZMM2hrV1Z1UW9DZw?oc=5",
-"pub": "2026-11-22T00:48:09+00:00",
-"src": "Reuters",
-"kind": "market",
-"seen": "2026-11-22T03:43:59+00:00"
-},
-{
-"id": "c8aaa6ef0eb5",
-"t": "",
-"title": "Tesla Inc (TSLA.O) | Stock Price & Latest News - Reuters",
-"url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1NVlA5X1VtZkpsMHdqSUN2bm1IWm1lcmFLVjZqaWFMOEd1X2FpRVoxQ05WOUc2VWV0QVZONE5aazJuLWZSTHNNcHlDSHJKcnhtS3dmaUZhU2tGY29JNWc?oc=5",
-"pub": "2026-11-22T00:44:05+00:00",
-"src": "Reuters",
-"kind": "market",
-"seen": "2026-11-22T02:43:51+00:00"
-},
-{
-"id": "2a9b0aa45ca0",
-"t": "",
-"title": "Centrais Eletricas de Santa Catarina SA Celesc (CLSC3.SA) | Stock Price & Latest News - Reuters",
-"url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBlNjVSZVpzZmpCeG9EbUJFNTExQ3NQLW80OFdZOV9fQ3E1VXI4ZGhqNjN3WnRDWE5GbF8wQWxFVFJCZHNiOEZwMFlwZ1NTLU5oaDVEby1jOHQ0V01ZNnVQLWdtRUhlU2xQdjJsTlFB?oc=5",
-"pub": "2026-11-22T00:23:09+00:00",
-"src": "Reuters",
-"kind": "market",
-"seen": "2026-11-22T02:39:49+00:00"
-},
-{
-"id": "8f1a682b7131",
-"t": "",
-"title": "UK govt: UK joins 10 other nations in NATO starlift program to build network of adaptable satellite launch services",
-"url": "https://www.financialjuice.com/News/9863187/UK-govt-UK-joins-10-other-nations-in-NATO-starlift-program-to-build-network-of-adaptable-satellite-launch-services.aspx?xy=rss",
-"pub": "2026-11-22T00:12:37+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-22T00:13:51+00:00"
-},
-{
-"id": "8e204b9efa1b",
-"t": "",
-"title": "UK govt: UK joins 10 other nations in NATO starlift program to build network of adaptable satellite launch services",
-"url": "https://www.financialjuice.com/News/9863187/UK-govt-UK-joins-10-other-nations-in-NATO-starlift-program-to-build-network-of-adaptable-satellite-launch-services.aspx",
-"pub": "2026-11-22T00:12:37+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-22T01:43:56+00:00"
-},
-{
-"id": "b835a4c33d7e",
-"t": "",
-"title": "XLMedia PLC (XLMDF.PK) | Stock Price & Latest News - Reuters",
-"url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPczRCT0pJalFNdHZBYVlnWFQwQ0pFNzU1RDBCdW80Tk5DanMtTnJjQzdOdXRXREhGZ3lHNUtxYUI0RElUWWozZjlsTllIbmsyT2VXZHZrNk5zZ1lIMldWNHE2bXlPVWh4S3N5U3F5YzBZNFNMSEY4UC1kUXNVRVBlNTJJRnpxZw?oc=5",
-"pub": "2026-11-22T00:04:49+00:00",
-"src": "Reuters",
-"kind": "market",
-"seen": "2026-11-22T05:41:13+00:00"
-},
-{
-"id": "216430f08308",
-"t": "",
-"title": "China’s $1.7 Trillion AI Rout Turns Hot Trade Into Losing Bet",
-"url": "https://www.bloomberg.com/news/articles/2026-11-22/china-s-1-7-trillion-ai-rout-turns-hot-trade-into-losing-bet",
-"pub": "2026-11-22T00:00:00+00:00",
-"src": "Bloomberg",
-"kind": "market",
-"seen": "2026-11-22T01:13:48+00:00"
-},
-{
-"id": "f9b0bad551bc",
-"t": "",
-"title": "Genfit SA (GNFTF.PK) | Stock Price & Latest News - Reuters",
-"url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1POXgxd1Nqb0hpNFh6cEQxSGhkRHlkazhrZ05wRVlIaXB6eTRDbmo3UkJsQ2ZSVUZjalR3cG1YRGFtUkg5ZXpraWpzOERSOWl5S3NqeXJYZzh4R3I1ZEpxdDE4RG5yczVPYlV2U2JvNV8?oc=5",
-"pub": "2026-11-21T23:33:52+00:00",
-"src": "Reuters",
-"kind": "market",
-"seen": "2026-11-22T02:39:49+00:00"
 }
 ]
 }
