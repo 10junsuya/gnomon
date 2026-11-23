@@ -1,6 +1,6 @@
 {
-"updated_kst": "2026-11-24 08:25",
-"rot": 160,
+"updated_kst": "2026-11-24 08:43",
+"rot": 41,
 "how": "Scout(프로그램)이 10분마다 모은 기사 제목·링크와 공시예요. Wren이 공식 출처로 확인한 뒤 회사 화면에 한국어로 반영해요. 본문은 받지 않아요.",
 "sources": {
 "Yahoo Finance": "120종목 확인 · 실패 0",
@@ -16,6 +16,76 @@
 "Fox Business": "50건"
 },
 "items": [
+{
+"id": "b0b0c4fc3215",
+"t": "VOO",
+"title": "Retirees: Is Now the Time to Ditch S&P 500 Funds?",
+"url": "https://www.fool.com/investing/2026/11/23/retirees-is-now-the-time-to-ditch-s-and-p-500-funds/",
+"pub": "2026-11-23T23:33:02+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-23T23:43:56+00:00"
+},
+{
+"id": "cdbf02db0c3d",
+"t": "NVDA",
+"title": "Huang's return at Nvidia puts spotlight on chipmaker's board",
+"url": "https://www.cbsnews.com/news/nvidia-board-reinstates-ceo-jensen-huang/",
+"pub": "2026-11-23T23:33:02+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-23T23:43:56+00:00"
+},
+{
+"id": "7372de980cf2",
+"t": "NFLX",
+"title": "How Investors May Respond To Netflix (NFLX) Big Investors Split",
+"url": "https://finance.yahoo.com/markets/stocks/articles/investors-may-respond-netflix-nflx-232426716.html",
+"pub": "2026-11-23T23:24:26+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-23T23:43:56+00:00"
+},
+{
+"id": "33cfac62b8be",
+"t": "AMD",
+"title": "AMD registers up to 337 million shares for resale tied to OpenAI, Meta warrants",
+"url": "https://finance.yahoo.com/markets/stocks/articles/amd-registers-337-million-shares-232224001.html",
+"pub": "2026-11-23T23:22:24+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-23T23:43:56+00:00"
+},
+{
+"id": "1071bbbfa4bb",
+"t": "ORCL",
+"title": "Jensen Huang Is Back and Nvidia Just Soared 31%. Here’s What 6 Giant Stocks Did the Week and the Year After a Day Like This",
+"url": "https://247wallst.com/investing/2026/11/23/jensen-huang-is-back-and-nvidia-just-soared-31-heres-what-6-giant-stocks-did-the-week-and-the-year-after-a-day-like-this/",
+"pub": "2026-11-23T23:22:00+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-23T23:43:56+00:00"
+},
+{
+"id": "dcf92e77f1c3",
+"t": "MRVL",
+"title": "Marvell (MRVL) Stock Looks Reasonable Following Its 161% Three Year Run",
+"url": "https://finance.yahoo.com/markets/stocks/articles/marvell-mrvl-stock-looks-reasonable-232050664.html",
+"pub": "2026-11-23T23:20:50+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-23T23:43:56+00:00"
+},
+{
+"id": "d589428248d3",
+"t": "NVDA",
+"title": "Fastly Stock and Asia Pacific AI Infrastructure Names Outside U.S. Sanctions",
+"url": "https://finance.yahoo.com/technology/ai/articles/fastly-stock-asia-pacific-ai-231750500.html",
+"pub": "2026-11-23T23:17:50+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-23T23:43:56+00:00"
+},
 {
 "id": "e14223988ef0",
 "t": "NVDA",
@@ -187,6 +257,16 @@
 "seen": "2026-11-23T22:44:37+00:00"
 },
 {
+"id": "4f9c88adc497",
+"t": "TSAT",
+"title": "News of the day: Telesat’s role in telecom bid, China becomes top oil buyer, Canada’s southbound startups, Bombardier workers strike, Jensen Huang returns and more",
+"url": "https://financialpost.com/news/news-of-the-day-telesats-role-in-telecom-bid-china-becomes-top-oil-buyer-canadas-southbound-startups-bombardier-workers-vote-jensen-huang-returns-and-more/",
+"pub": "2026-11-23T22:31:50+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-23T23:43:56+00:00"
+},
+{
 "id": "cc3d9ece5936",
 "t": "LUNR",
 "title": "This Space ETF Breaks Past Its Seven-Day Decline Amid NASA’s Partnership Call For Moon Nuclear Reactor",
@@ -195,6 +275,16 @@
 "src": "Yahoo Finance",
 "kind": "news",
 "seen": "2026-11-23T22:44:37+00:00"
+},
+{
+"id": "a61c884a2466",
+"t": "AMZN",
+"title": "Gen Z Worker Confronts Kevin O’Leary Over Why Investors Get Rich While Employees Miss Out: ‘Why Should You Be the Only One Getting Wealthy?’",
+"url": "https://finance.yahoo.com/small-business/articles/gen-z-worker-confronts-kevin-223006879.html",
+"pub": "2026-11-23T22:30:06+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-23T23:43:56+00:00"
 },
 {
 "id": "89dad8d5d6af",
@@ -7930,95 +8020,14 @@
 "seen": "2026-11-23T20:44:11+00:00"
 },
 {
-"id": "fb0bbcafb199",
-"t": "SMR",
-"title": "Robbins LLP Urges SMR Shareholders Who Lost Money Investing in NuScale Power Corporation to Contact the Firm About Leading the Class Action",
-"url": "https://www.prnewswire.com/news-releases/robbins-llp-urges-smr-shareholders-who-lost-money-investing-in-nuscale-power-corporation-to-contact-the-firm-about-leading-the-class-action-302946459.html",
-"pub": "2026-11-23T14:21:00+00:00",
-"src": "PR Newswire",
-"kind": "news",
-"orig": true,
-"seen": "2026-11-23T14:44:39+00:00"
-},
-{
-"id": "bd9dc64472f7",
-"t": "QQQ",
-"title": "Exchange-Traded Funds, Equity Futures Higher Pre-Bell Monday as Jensen Huang Returns to Nvidia",
-"url": "https://finance.yahoo.com/markets/stocks/articles/exchange-traded-funds-equity-futures-142039189.html",
-"pub": "2026-11-23T14:20:39+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-23T14:44:39+00:00"
-},
-{
-"id": "fa2578881712",
-"t": "MU",
-"title": "Growth Stocks Are the New Bargains",
-"url": "https://finance.yahoo.com/m/b558d34a-7ce8-371f-9baf-26d5ba39d6f9/growth-stocks-are-the-new.html",
-"pub": "2026-11-23T14:20:26+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-23T16:15:46+00:00"
-},
-{
-"id": "d36a66fde63e",
-"t": "SPCX",
-"title": "Elon Musk warns AI industry faces a severe cash shortage",
-"url": "https://www.proactiveinvestors.com/companies/news/1102264/elon-musk-warns-ai-industry-faces-a-severe-cash-shortage-1102264.html",
-"pub": "2026-11-23T14:20:00+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-23T15:29:37+00:00"
-},
-{
-"id": "542efb27bd29",
-"t": "GOOGL",
-"title": "Paying for Subscriptions You Forgot About? How to Find and Cancel Them",
-"url": "https://finance.yahoo.com/markets/articles/stop-wasting-money-cancel-unused-155722212.html",
-"pub": "2026-11-23T14:19:00+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-23T15:29:37+00:00"
-},
-{
-"id": "67f0cf920991",
-"t": "CVX",
-"title": "Exxon, Chevron and ConocoPhillips Are Down. Here’s What Their Dividends Tell Investors",
-"url": "https://247wallst.com/investing/2026/11/23/exxon-chevron-and-conocophillips-are-down-heres-what-their-dividends-tell-investors/",
-"pub": "2026-11-23T14:17:05+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-23T15:16:45+00:00"
-},
-{
-"id": "90736ad34223",
-"t": "AMZN",
-"title": "Sector Update: Consumer Stocks Mixed Premarket Monday",
-"url": "https://finance.yahoo.com/markets/stocks/articles/sector-consumer-stocks-mixed-premarket-141547621.html",
-"pub": "2026-11-23T14:15:47+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-23T14:44:39+00:00"
-},
-{
-"id": "c186d707aa58",
-"t": "ORCL",
-"title": "Stock Market Today: Dow, S&P 500, and Nasdaq Surge as Nvidia Leads a Major AI Rebound",
-"url": "https://247wallst.com/investing/2026/11/23/stock-market-today-dow-sp-500-and-nasdaq-surge-as-nvidia-leads-a-major-ai-rebound/",
-"pub": "2026-11-23T14:15:17+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-23T14:44:39+00:00"
-},
-{
-"id": "fcd6580ee3e9",
-"t": "SPCX",
-"title": "SpaceX Stock: Is It a Buy at $130?",
-"url": "https://www.fool.com/investing/2026/11/23/spacex-stock-is-it-a-buy-at-130/",
-"pub": "2026-11-23T14:14:02+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-23T14:44:39+00:00"
+"id": "3bee36a66bd7",
+"t": "",
+"title": "Oil Futures Edge Higher on Likely Technical Recovery",
+"url": "https://www.wsj.com/finance/commodities-futures/oil-futures-edge-higher-on-likely-technical-recovery-3d1650f7",
+"pub": "2026-11-23T23:38:00+00:00",
+"src": "WSJ",
+"kind": "market",
+"seen": "2026-11-23T23:43:56+00:00"
 },
 {
 "id": "284547193568",
@@ -8111,6 +8120,16 @@
 "seen": "2026-11-23T23:13:36+00:00"
 },
 {
+"id": "19985a756eb3",
+"t": "",
+"title": "Ence Energia y Celulosa SA (ENC.MC) | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBqd1FZcGNSbFl4amw2WmIybjJYNF8wNFY0elFkT2sxS3JHWGRlb2NjUzFOUDJmalM1RHE5emZVWDlXTlJ6cVFaTHpFSngxZ2wtM2N3WHY4X1BzOUQ2dlpVV1huaGJWZ0luNHg3ZHJB?oc=5",
+"pub": "2026-11-23T22:05:04+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-23T23:43:56+00:00"
+},
+{
 "id": "3ef2cbd8d376",
 "t": "",
 "title": "Biotech Kymera Therapeutics Seeks $1.5 Billion in Share Sale",
@@ -8141,6 +8160,16 @@
 "seen": "2026-11-23T22:14:27+00:00"
 },
 {
+"id": "d5aee2936b7e",
+"t": "",
+"title": "Health Care Roundup: Market Talk",
+"url": "https://www.wsj.com/business/health-care-roundup-market-talk-d350f360",
+"pub": "2026-11-23T21:57:00+00:00",
+"src": "WSJ",
+"kind": "market",
+"seen": "2026-11-23T23:43:56+00:00"
+},
+{
 "id": "c566bad1f124",
 "t": "",
 "title": "ANZ Bank brings forward first RBA rate cut forecast to June 2027.",
@@ -8159,6 +8188,16 @@
 "src": "FinancialJuice",
 "kind": "market",
 "seen": "2026-11-23T22:14:27+00:00"
+},
+{
+"id": "c7cf2da80cd0",
+"t": "",
+"title": "Energy & Utilities Roundup: Market Talk",
+"url": "https://www.wsj.com/business/energy-utilities-roundup-market-talk-39f5dead",
+"pub": "2026-11-23T21:55:00+00:00",
+"src": "WSJ",
+"kind": "market",
+"seen": "2026-11-23T23:43:56+00:00"
 },
 {
 "id": "4877a74fbbfa",
@@ -8189,6 +8228,16 @@
 "src": "Fox Business",
 "kind": "market",
 "seen": "2026-11-23T22:14:27+00:00"
+},
+{
+"id": "3bbf54915457",
+"t": "",
+"title": "Anthropic, PBC (ANT.O) | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1sMzJxaDFtcTdDUE1rWGVFZFVhMjJhX0RVSko2RlMtejdUdDlMY2MtZXdLYUh3aVc0WFBSMnlZR3hLc0MwVjNRUG00Q1Nxd1loR055XzZPZ0tvZk0t?oc=5",
+"pub": "2026-11-23T21:46:49+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-23T23:43:56+00:00"
 },
 {
 "id": "70a534dbb24c",
@@ -8911,6 +8960,16 @@
 "seen": "2026-11-23T19:14:46+00:00"
 },
 {
+"id": "39657946eb1a",
+"t": "",
+"title": "PGIM S&P 500 Max Buffer ETF - February (PMFB.N) | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBWZFdPWjJkbk5kTFFBZnNXN0ZZeW1JalREZFNwY0p6dUdMOVJDbjBMX1FRcERhVmp1TkFkXzM3WkxqZHlGWTZtemswVkQxVE0wbGR1Snc1cXBsZWVFRV9MSXAteHdvRGVUMnpWeA?oc=5",
+"pub": "2026-11-23T18:46:19+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-23T23:43:56+00:00"
+},
+{
 "id": "bc255d3a0344",
 "t": "",
 "title": "5942.JSA - | Stock Price & Latest News - Reuters",
@@ -9309,6 +9368,16 @@
 "src": "FinancialJuice",
 "kind": "market",
 "seen": "2026-11-23T17:14:22+00:00"
+},
+{
+"id": "78e7ba8bbb9a",
+"t": "",
+"title": "014820S.KS - | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNemNoRXRlMlJVM2tpY1Fsai0yRzhYZlRWUzh3R3l0Slh3TGEzSFRMY1pBN0ZEeVRldTEteUVtWEc4eTQ0SnB1bi1mYnppWFhyenJMUERHbUFjOEFqd190RUY0OTY0cEYtMUR4em55ejh0WGhqdDNDc25PUUNzLXFiVzh6Z2hCa1doRTNSVWVpN0g0Tzg5?oc=5",
+"pub": "2026-11-23T16:49:59+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-23T23:43:56+00:00"
 },
 {
 "id": "52ff3cc80761",
@@ -10621,6 +10690,16 @@
 "seen": "2026-11-23T18:14:06+00:00"
 },
 {
+"id": "d9514932b43f",
+"t": "",
+"title": "BBLG.OQ - Reuters",
+"url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQNHozUkp3dWhQM1A4dVBzZVp0LUF5S184RmVHdDU3UTkyVFNMS29Vc0h1LUlHZTZOdmR4bnJzWnNqc0dxZmpEemZHNXR3ZXpvaDR4OE5MQnFqeFg4S192YjF4SFRwT041bzZIaVpmY0NxZ21CWWc5eWNjZWtMaHZzWDZHOTd3NEVT?oc=5",
+"pub": "2026-11-23T13:38:53+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-23T23:43:56+00:00"
+},
+{
 "id": "68c5963ecaeb",
 "t": "",
 "title": "Citi Wealth CIO Moore Says ‘Going to Wait It Out’  on Market Selloff",
@@ -10939,86 +11018,6 @@
 "src": "Reuters",
 "kind": "market",
 "seen": "2026-11-23T17:44:16+00:00"
-},
-{
-"id": "52342531695a",
-"t": "",
-"title": "TVSCta.BO - | Stock Price & Latest News - Reuters",
-"url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNeGhhb09MZ2VkeWZrb1MwdU9ZUWRGUjhMOE9aX1gxTHdDNFcyUTJfQ2RvZTNTc3lkQk83QWdUejQyWDlEUFdlc2JtLVFGU09NRjRfWHNpRnhqcmRVVl8wLUpzSUd6YmhydzZEM0RETnZ5M2VYcjJ2ejlhdWRMR2E1U012WnVERFFBV056RTdSMDJ1dHM?oc=5",
-"pub": "2026-11-23T13:07:15+00:00",
-"src": "Reuters",
-"kind": "market",
-"seen": "2026-11-23T23:25:45+00:00"
-},
-{
-"id": "9f1966c1c4af",
-"t": "",
-"title": "RBCAA.ZY - Reuters",
-"url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOZ0lvSDlpNGZmLTdHNE5WQTdCZ09wdXZ1aTQ1VnRaMUtvQ2ZHUWlHbVFRTE5HNW9mRzZBdk1vQlhTTm42YlQ4ZXVzb19pS2g3WlRDSWhWZFlEd1VEdlhSWnd3S25SQ08xc2V0NEJVYmlhRk9aR1ZPYjVtSS03RnFUZnROSWd2YWM?oc=5",
-"pub": "2026-11-23T13:07:14+00:00",
-"src": "Reuters",
-"kind": "market",
-"seen": "2026-11-23T23:13:36+00:00"
-},
-{
-"id": "94d8086555a1",
-"t": "",
-"title": "HTSUY.PQ - | Stock Price & Latest News - Reuters",
-"url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9uV2t5YXJnS0pNTXVFbmM4VmpvWVI3WTNicnludkdrRnNMSnYtM0JVa3hrdzR6VFh3YUFtWTZJTHFGcWF3UzFvbzFPcThoUkxycUZ0cmljRTBqVFNxTV9ueFBnTmllRC1aXzhjal8xcGR6QXRGeHVhR3VaVQ?oc=5",
-"pub": "2026-11-23T13:07:08+00:00",
-"src": "Reuters",
-"kind": "market",
-"seen": "2026-11-23T23:25:45+00:00"
-},
-{
-"id": "22e175c9430f",
-"t": "",
-"title": "Basic Materials Roundup: Market Talk",
-"url": "https://www.wsj.com/business/basic-materials-roundup-market-talk-d9c78f9e",
-"pub": "2026-11-23T13:07:00+00:00",
-"src": "WSJ",
-"kind": "market",
-"seen": "2026-11-23T13:22:08+00:00"
-},
-{
-"id": "dc23a954dc90",
-"t": "",
-"title": "Gold Rebounds After Sharpest Weekly Decline Since March",
-"url": "https://www.wsj.com/finance/commodities-futures/gold-rebounds-after-sharpest-weekly-decline-since-march-deaa4b87",
-"pub": "2026-11-23T13:07:00+00:00",
-"src": "WSJ",
-"kind": "market",
-"seen": "2026-11-23T13:22:08+00:00"
-},
-{
-"id": "890df2c24812",
-"t": "",
-"title": "6927.CJS - | Stock Price & Latest News - Reuters",
-"url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1NcnFvbVVRemxlZEMtZXZIRlhVQjJsd09tT2Zid0pPb0RsODlvMkNlSVlhQVF0eFRyU09pS3hWSU5QZkpPR3JNeWdvNE1VakhnczZNaGlCc3MtVkkyUjhfbnBzT3JLN3hBZHpYbWh1bU1qTkwwcEFvTmpn?oc=5",
-"pub": "2026-11-23T13:06:45+00:00",
-"src": "Reuters",
-"kind": "market",
-"seen": "2026-11-23T15:16:45+00:00"
-},
-{
-"id": "47405f6e4485",
-"t": "",
-"title": "131370F.KQ - | Stock Price & Latest News - Reuters",
-"url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBCSUVkdDFlN21kbmxtQjlvTzQ5WG51R1BxdmcwQTVVUnB4dEhwUUVDMnR1dkxPUUFLUGljQ0g4S3VhWFAtRVBFbk02aWs2dG9CZmtLb3BGZkpnNUVGZWNrT05DRjNNUlN3NGRsSU84MG5Wa0k?oc=5",
-"pub": "2026-11-23T13:06:35+00:00",
-"src": "Reuters",
-"kind": "market",
-"seen": "2026-11-23T23:25:45+00:00"
-},
-{
-"id": "378d02b4dc85",
-"t": "",
-"title": "TKS_f.BK - Reuters",
-"url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNU0t3YTFseHB2bW9yUXQ3WTg3VTR0ZmZKLVI2UUw5dEFZUndBMzUzSDNSd2UtazBzQkZLU1dtSXVRMEt4QnVpdkR2UndwV2JyMUJjanhhU0FsUjhlbnVvQlBHWEF4MzFCYWdkN01TQ1JtZzdPSWtLR2JyNGpNZ2VDV3pENjRJOVRu?oc=5",
-"pub": "2026-11-23T13:06:29+00:00",
-"src": "Reuters",
-"kind": "market",
-"seen": "2026-11-23T23:25:45+00:00"
 }
 ]
 }
