@@ -1,6 +1,6 @@
 {
-"updated_kst": "2026-11-24 05:14",
-"rot": 97,
+"updated_kst": "2026-11-24 05:30",
+"rot": 157,
 "how": "Scout(프로그램)이 10분마다 모은 기사 제목·링크와 공시예요. Wren이 공식 출처로 확인한 뒤 회사 화면에 한국어로 반영해요. 본문은 받지 않아요.",
 "sources": {
 "Yahoo Finance": "120종목 확인 · 실패 0",
@@ -10,12 +10,52 @@
 "CNBC": "63건",
 "Bloomberg": "40건",
 "WSJ": "61건",
-"Reuters": "46건",
+"Reuters": "48건",
 "FinancialJuice": "100건",
 "SEC EDGAR": "실패 HTTPError",
 "Fox Business": "50건"
 },
 "items": [
+{
+"id": "6ce631533a60",
+"t": "SPCX",
+"title": "Nebius & CoreWeave Jump 21% While Oracle Sees 12% Gains on Monday Following Jensen’s Return",
+"url": "https://247wallst.com/videos/nebius-coreweave-jump-21-while-oracle-sees-12-gains-on-monday-following-jensens-return/",
+"pub": "2026-11-23T20:16:14+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-23T20:30:15+00:00"
+},
+{
+"id": "3808c6d35885",
+"t": "NVT",
+"title": "nVent to Participate in Upcoming Investor Events",
+"url": "https://finance.yahoo.com/markets/stocks/articles/nvent-participate-upcoming-investor-events-201500412.html",
+"pub": "2026-11-23T20:15:00+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-23T20:30:15+00:00"
+},
+{
+"id": "43aab8dcd799",
+"t": "AVGO",
+"title": "Jensen Huang’s Return Just Added About $500 Billion to Micron, Dell, TSMC and the AI Stocks That Depend on Nvidia",
+"url": "https://247wallst.com/investing/2026/11/23/jensen-huangs-return-just-added-about-500-billion-to-micron-dell-tsmc-and-the-ai-stocks-that-depend-on-nvidia/",
+"pub": "2026-11-23T20:13:00+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-23T20:30:15+00:00"
+},
+{
+"id": "0a1a8e161ea8",
+"t": "SPCX",
+"title": "Anthropic Had a Strong First Day, but Will It End Up Like SpaceX?",
+"url": "https://www.fool.com/investing/2026/11/23/anthropic-had-a-strong-first-day-but-will-it-end-up-like-spacex/",
+"pub": "2026-11-23T20:12:01+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-23T20:30:15+00:00"
+},
 {
 "id": "5fe54918cd55",
 "t": "NVDA",
@@ -27,6 +67,16 @@
 "seen": "2026-11-23T20:14:14+00:00"
 },
 {
+"id": "746e54bfff96",
+"t": "AVGO",
+"title": "Google Can Spend $48 Billion More On AI From Its Own Cash. Is That Enough For Nvidia?",
+"url": "https://www.trefis.com/stock/googl/articles/627438/google-can-spend-48-billion-more-on-ai-from-its-own-cash-is-that-enough-for-nvidia/2026-11-23",
+"pub": "2026-11-23T20:08:10+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-23T20:30:15+00:00"
+},
+{
 "id": "b0380401c2e9",
 "t": "NVDA",
 "title": "Palantir Rips 10% to Lead Software Stocks. Cloudflare and ServiceNow Also Join ‘Jensen Rally’",
@@ -35,6 +85,66 @@
 "src": "Yahoo Finance",
 "kind": "news",
 "seen": "2026-11-23T20:14:14+00:00"
+},
+{
+"id": "28170214045f",
+"t": "GEV",
+"title": "GE Vernova (GEV) Stock Looks Fairly Valued As Its 21% Run Cools",
+"url": "https://finance.yahoo.com/markets/stocks/articles/ge-vernova-gev-stock-looks-200616266.html",
+"pub": "2026-11-23T20:06:16+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-23T20:30:15+00:00"
+},
+{
+"id": "35df44bf6f89",
+"t": "INSM",
+"title": "Insmed (INSM) Stock May Be Fully Priced As Takeover Interest Emerges",
+"url": "https://finance.yahoo.com/markets/stocks/articles/insmed-insm-stock-may-fully-200611157.html",
+"pub": "2026-11-23T20:06:11+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-23T20:30:15+00:00"
+},
+{
+"id": "e502161a12eb",
+"t": "NVDA",
+"title": "Uber Or DiDi: Which Stock Keeps More Cash?",
+"url": "https://www.trefis.com/stock/didiy/articles/627625/uber-or-didi-which-stock-keeps-more-cash/2026-11-23",
+"pub": "2026-11-23T20:05:41+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-23T20:30:15+00:00"
+},
+{
+"id": "a2dda957eaf7",
+"t": "TKR",
+"title": "Meadville Forging ordered to supply parts to Stark-based Timken Co.",
+"url": "https://www.cantonrep.com/story/business/2026/11/23/meadville-forging-to-supply-timken-co-parts-until-legal-case-settled/92925513007/",
+"pub": "2026-11-23T20:05:01+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-23T20:30:15+00:00"
+},
+{
+"id": "684cd0871999",
+"t": "COST",
+"title": "She Picks a Medicare Advantage Plan With Costco’s Name on It, Expecting Familiar Prices to Reach Her Medical Bills. The New SCAN Partnership Still Leaves Her Facing the Plan’s Copays and Out-of-Pocket Limit",
+"url": "https://247wallst.com/personal-finance/2026/11/23/she-picks-a-medicare-advantage-plan-with-costcos-name-on-it-expecting-familiar-prices-to-reach-her-medical-bills-the-new-scan-partnership-still-leaves-her-facing-the-plans-copays-and-out-of-pock/",
+"pub": "2026-11-23T20:02:34+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-23T20:30:15+00:00"
+},
+{
+"id": "8bce090edb5f",
+"t": "AXP",
+"title": "Black Friday shopping: Check this credit card perk first",
+"url": "https://finance.yahoo.com/personal-finance/credit-cards/article/black-friday-shopping-check-this-credit-card-perk-first-195924850.html",
+"pub": "2026-11-23T19:59:24+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-23T20:30:15+00:00"
 },
 {
 "id": "6a68dd0a89c6",
@@ -7911,114 +8021,34 @@
 "seen": "2026-11-23T13:22:08+00:00"
 },
 {
-"id": "3ea5580721f8",
-"t": "AVGO",
-"title": "When Did Nvidia Buyers Break Even After 30% Falls?",
-"url": "https://www.trefis.com/stock/nvda/articles/627664/when-did-nvidia-buyers-break-even-after-30-falls/2026-11-23",
-"pub": "2026-11-23T12:39:53+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-23T13:22:08+00:00"
+"id": "9d1bb5c63cdf",
+"t": "",
+"title": "The US is set to add Chinese chip firm Megaspeed to its trade blacklist later on Monday - Source Familiar with the matter",
+"url": "https://www.financialjuice.com/News/9864997/The-US-is-set-to-add-Chinese-chip-firm-Megaspeed-to-its-trade-blacklist-later-on-Monday---Source-Familiar-with-the-matter.aspx?xy=rss",
+"pub": "2026-11-23T20:30:24+00:00",
+"src": "FinancialJuice",
+"kind": "market",
+"seen": "2026-11-23T20:30:15+00:00"
 },
 {
-"id": "e1a4e4699178",
-"t": "V",
-"title": "This Week In Digital Payment - Tech Boosts Nonprofit Fundraising Through Finix-LifeMoves Partnership",
-"url": "https://finance.yahoo.com/technology/articles/week-digital-payment-tech-boosts-123740312.html",
-"pub": "2026-11-23T12:37:40+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-23T14:15:52+00:00"
+"id": "56f471889a9e",
+"t": "",
+"title": "Tuesday FX Options Expiries",
+"url": "https://www.financialjuice.com/News/9864992/Tuesday-FX-Options-Expiries-.aspx?xy=rss",
+"pub": "2026-11-23T20:22:18+00:00",
+"src": "FinancialJuice",
+"kind": "market",
+"seen": "2026-11-23T20:30:15+00:00"
 },
 {
-"id": "70e5a1116447",
-"t": "SPCX",
-"title": "Musk Says Teslas Will Tap “Grok’s Real-Time X Feed.” Another Tie Between Tesla and SpaceX",
-"url": "https://www.tikr.com/blog/musk-says-teslas-will-tap-groks-real-time-x-feed-another-tie-between-tesla-and-spacex",
-"pub": "2026-11-23T12:36:24+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-23T13:22:08+00:00"
-},
-{
-"id": "c80a1c651e63",
-"t": "NBIS",
-"title": "Gavin Baker Says “Consolidation Is Probably Coming” for Neoclouds That Can’t Get Prepayments. Here’s Who Can",
-"url": "https://www.tikr.com/blog/gavin-baker-says-consolidation-is-probably-coming-for-neoclouds-that-cant-get-prepayments-heres-who-can",
-"pub": "2026-11-23T12:36:20+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-23T13:22:08+00:00"
-},
-{
-"id": "581bf9df580a",
-"t": "NVDA",
-"title": "Boss of British chip firm rules out taking Nvidia top job",
-"url": "https://uk.finance.yahoo.com/news/boss-british-chip-firm-rules-123559953.html",
-"pub": "2026-11-23T12:35:59+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-23T12:50:17+00:00"
-},
-{
-"id": "95328ec980b2",
-"t": "GOOGL",
-"title": "Why Did Palantir Stock Fall?",
-"url": "https://www.trefis.com/stock/pltr/articles/627801/why-did-palantir-stock-fall/2026-11-23",
-"pub": "2026-11-23T12:35:51+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-23T13:22:08+00:00"
-},
-{
-"id": "6dc9da98b7d8",
-"t": "MSFT",
-"title": "Intuit Stock Fell 13% On A Small Cut. Is Software's Subscription Model Breaking?",
-"url": "https://www.trefis.com/stock/intu/articles/627442/intuit-stock-fell-13-on-a-small-cut-is-software-s-subscription-model-breaking/2026-11-23",
-"pub": "2026-11-23T12:35:51+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-23T13:22:08+00:00"
-},
-{
-"id": "3685fc0c05c3",
-"t": "LMT",
-"title": "Can Kratos Defense Expand Its Role in Mobile Space Surveillance?",
-"url": "https://finance.yahoo.com/technology/articles/kratos-defense-expand-role-mobile-123200869.html",
-"pub": "2026-11-23T12:32:00+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-23T13:45:52+00:00"
-},
-{
-"id": "a50413de6228",
-"t": "NVDA",
-"title": "Black Friday Stock Deals: 4 Great Stocks Down 30% or More",
-"url": "https://www.fool.com/investing/2026/11/23/black-friday-stock-deals-4-great-stocks-down-30-or-more/",
-"pub": "2026-11-23T12:31:01+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-23T12:45:22+00:00"
-},
-{
-"id": "0745c53967bc",
-"t": "GEV",
-"title": "Is GEV a Buy Now as Power Growth Battles Wind and Execution Risks?",
-"url": "https://finance.yahoo.com/markets/stocks/articles/gev-buy-now-power-growth-123100563.html",
-"pub": "2026-11-23T12:31:00+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-23T13:45:52+00:00"
-},
-{
-"id": "9fae4a7deac1",
-"t": "GEV",
-"title": "GEV Raises 2026 Outlook as Power and Electrification Growth Accelerate",
-"url": "https://finance.yahoo.com/energy/articles/gev-raises-2026-outlook-power-123100865.html",
-"pub": "2026-11-23T12:31:00+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-23T13:45:52+00:00"
+"id": "396d85da5b02",
+"t": "",
+"title": "‘Key Man Risk’ Meets ‘Too Big to Fail’",
+"url": "https://www.bloomberg.com/news/newsletters/2026-11-23/-key-man-risk-meets-too-big-to-fail",
+"pub": "2026-11-23T20:22:04+00:00",
+"src": "Bloomberg",
+"kind": "market",
+"seen": "2026-11-23T20:30:15+00:00"
 },
 {
 "id": "931bc876d1ca",
@@ -8029,6 +8059,16 @@
 "src": "Bloomberg",
 "kind": "market",
 "seen": "2026-11-23T20:14:14+00:00"
+},
+{
+"id": "7ec98d58b5cb",
+"t": "",
+"title": "Spanish airline Plus Ultra suspends last active route amid restructuring - Reuters",
+"url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPMHNMZHlQeW9BbGNTYUlRdHRobXZMMVRHY0w3UGpkSlk3dGZMM2FhRTJkWnVuOEZUWVZoSHFvYWRUSGF6VkZzOVlPOEszZV9FREthMHd1MEt3Q0R3QmlCQ2t4ZkhaWU5VUUk2QWthWUVZcHB5U1ZkdWNtc2xocmtlOHpxMEhWVU05REZnTUlLTkVBRmYtLWlGbUZNOUlFdmdXN0JiaW5ORzFIMnZKWUp5Zkc0c0tROFc1djVGZUJiZnQ?oc=5",
+"pub": "2026-11-23T20:11:49+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-23T20:30:15+00:00"
 },
 {
 "id": "8b0fa8ec41c5",
@@ -8099,6 +8139,16 @@
 "src": "Bloomberg",
 "kind": "market",
 "seen": "2026-11-23T20:14:14+00:00"
+},
+{
+"id": "63486c1a9da2",
+"t": "",
+"title": "Nvidia’s Rally Ripples Across Markets",
+"url": "https://www.wsj.com/finance/stocks/stock-futures-rally-as-dust-settles-after-ai-driven-selloff-705ff2c4",
+"pub": "2026-11-23T19:45:00+00:00",
+"src": "WSJ",
+"kind": "market",
+"seen": "2026-11-23T20:30:15+00:00"
 },
 {
 "id": "0f24df753345",
@@ -10811,6 +10861,16 @@
 "seen": "2026-11-23T10:50:46+00:00"
 },
 {
+"id": "3f035c6124d9",
+"t": "",
+"title": "Glanbia PLC (GL9.I) | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBXNFYtS1NQSkdOUE1YNURGQnZ6ZFlMRzFmalFZUVNHaV9uQ0lyWFpHdDNWT3ZhUHdvNDVIVWUwb1FtLThaRUo2Z3dyTzlJNW4zbzJxbUF3SmFnOVhx?oc=5",
+"pub": "2026-11-23T10:50:05+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-23T20:30:15+00:00"
+},
+{
 "id": "af126ba6815c",
 "t": "",
 "title": "Ukraine Farm Failures Loom as War Drains Financial Buffers, Top Trader Says",
@@ -10959,66 +11019,6 @@
 "src": "FinancialJuice",
 "kind": "market",
 "seen": "2026-11-23T10:14:18+00:00"
-},
-{
-"id": "32f64e645d2e",
-"t": "",
-"title": "ING: The EUR - FJElite",
-"url": "https://www.financialjuice.com/News/9864141/ING-The-EUR---FJElite.aspx?xy=rss",
-"pub": "2026-11-23T09:55:01+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-23T10:14:18+00:00"
-},
-{
-"id": "4535dcbf2061",
-"t": "",
-"title": "ING: The CHF - FJElite",
-"url": "https://www.financialjuice.com/News/9864140/ING-The-CHF---FJElite.aspx?xy=rss",
-"pub": "2026-11-23T09:54:03+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-23T10:14:18+00:00"
-},
-{
-"id": "bde52a174df0",
-"t": "",
-"title": "Stock Market Today: Stock Futures Point to Recovery After Friday’s Bloodbath",
-"url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-23-2026",
-"pub": "2026-11-23T09:52:53+00:00",
-"src": "WSJ",
-"kind": "market",
-"seen": "2026-11-23T10:14:18+00:00"
-},
-{
-"id": "c88956b54aea",
-"t": "",
-"title": "Deutsche Bank: Week  Ahead - FJElite",
-"url": "https://www.financialjuice.com/News/9864139/Deutsche-Bank-Week--Ahead---FJElite.aspx?xy=rss",
-"pub": "2026-11-23T09:51:30+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-23T10:14:18+00:00"
-},
-{
-"id": "18b0c3620e08",
-"t": "",
-"title": "Hungary Blames Fight Against Cronyism For Plunge in Investments",
-"url": "https://www.bloomberg.com/news/articles/2026-11-23/hungary-blames-fight-against-cronyism-for-plunge-in-investments",
-"pub": "2026-11-23T09:50:39+00:00",
-"src": "Bloomberg",
-"kind": "market",
-"seen": "2026-11-23T10:14:18+00:00"
-},
-{
-"id": "ad17a3520092",
-"t": "",
-"title": "Great Boulder Resources Ltd (GBR.AX) | Stock Price & Latest News - Reuters",
-"url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQQTYzQ19HQTJfQjFqc29WSHFxMDU0Qmd0S0pUM0doTjc5V2k4WjA5NkFhTUQzMktTTlFRQml2NFJTQWlNVWJlNjBFU1hVYW9PRVJiZ0VaSk8zN2RSTVZwRjhQVjJlSm1ucW55SGI0UEFCTXZ4Z2wyTnlZeWdpV2IzLVl5NA?oc=5",
-"pub": "2026-11-23T09:50:39+00:00",
-"src": "Reuters",
-"kind": "market",
-"seen": "2026-11-23T15:16:45+00:00"
 }
 ]
 }
