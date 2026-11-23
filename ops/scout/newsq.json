@@ -1,18 +1,78 @@
 {
-"updated_kst": "2026-11-23 13:13",
-"rot": 142,
+"updated_kst": "2026-11-23 13:43",
+"rot": 23,
 "how": "Scout(프로그램)이 10분마다 모은 기사 제목·링크와 공시예요. Wren이 공식 출처로 확인한 뒤 회사 화면에 한국어로 반영해요. 본문은 받지 않아요.",
 "sources": {
 "Yahoo Finance": "120종목 확인 · 실패 0",
 "CNBC": "63건",
 "Bloomberg": "28건",
 "WSJ": "61건",
-"Reuters": "80건",
+"Reuters": "36건",
 "FinancialJuice": "100건",
 "SEC EDGAR": "실패 HTTPError",
 "Fox Business": "50건"
 },
 "items": [
+{
+"id": "cfb654cd6de5",
+"t": "PANW",
+"title": "Netskope Inc. (NTSK) Emerges as a Bright Spot Amid Market Turmoil",
+"url": "https://finance.yahoo.com/markets/stocks/articles/netskope-inc-ntsk-emerges-bright-043453671.html?.tsrc=rss",
+"pub": "2026-11-23T04:34:53+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-23T04:43:54+00:00"
+},
+{
+"id": "a447ccedaca9",
+"t": "NVDA",
+"title": "Trump urges Nvidia board to rehire Jensen Huang",
+"url": "https://finance.yahoo.com/technology/articles/trump-urges-nvidia-board-rehire-042759448.html?.tsrc=rss",
+"pub": "2026-11-23T04:27:59+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-23T04:43:54+00:00"
+},
+{
+"id": "f3adf0456735",
+"t": "PANW",
+"title": "While Markets Are Struggling, Palo Alto Networks (PANW) is Soaring — Here’s What You Need to Know",
+"url": "https://finance.yahoo.com/markets/stocks/articles/while-markets-struggling-palo-alto-042239601.html?.tsrc=rss",
+"pub": "2026-11-23T04:22:39+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-23T04:43:54+00:00"
+},
+{
+"id": "3b5aea7c6a22",
+"t": "ORCL",
+"title": "Dow Jones Futures Jump As Oracle, Korea Try To Ease Market Fears; Look For These Absolute Losers",
+"url": "https://finance.yahoo.com/m/9ef9da98-bccf-3565-9a30-9bc3e57ad4b9/dow-jones-futures-jump-as.html?.tsrc=rss",
+"pub": "2026-11-23T04:15:50+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-23T04:43:54+00:00"
+},
+{
+"id": "bb0bd72ac94b",
+"t": "NVDA",
+"title": "Trump Throws His Weight Behind Jensen Huang’s Return As Nvidia CEO: ‘It Would Be The Best Thing For The Company’",
+"url": "https://stocktwits.com/news-articles/markets/equity/trump-throws-his-weight-behind-jensen-huang-s-return-as-nvidia-ceo-it-would-be-the-best-thing-for-the-company/cNbY8mTR9S3?.tsrc=rss",
+"pub": "2026-11-23T04:13:37+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-23T04:43:54+00:00"
+},
+{
+"id": "69e0ef0dded5",
+"t": "AAPL",
+"title": "BTIG's Krinsky Says S&P 500 Bottom Unlikely While Apple Holds Near Highs",
+"url": "https://beincrypto.com/sp-500-bottom-unlikely-apple-krinsky/?.tsrc=rss",
+"pub": "2026-11-23T04:00:00+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-23T04:43:54+00:00"
+},
 {
 "id": "f570def94a43",
 "t": "NVDA",
@@ -62,6 +122,16 @@
 "src": "Yahoo Finance",
 "kind": "news",
 "seen": "2026-11-23T04:06:00+00:00"
+},
+{
+"id": "4646b64ec1d9",
+"t": "NVDA",
+"title": "Michael Burry on Nvidia Board? ‘Big Short’ Investor Jokes He’d ‘Volunteer’ as NVDA Stock Sinks 40%",
+"url": "https://finance.yahoo.com/markets/stocks/articles/michael-burry-nvidia-board-big-031945302.html?.tsrc=rss",
+"pub": "2026-11-23T03:19:45+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-23T04:43:54+00:00"
 },
 {
 "id": "8e70533dde2d",
@@ -7944,76 +8014,6 @@
 "seen": "2026-11-20T22:14:08+00:00"
 },
 {
-"id": "d7e013c2ae60",
-"t": "MU",
-"title": "Anthropic, Nvidia, AMD, Micron, Sandisk, Bloom Energy, and More Stocks That Explain Today’s Market",
-"url": "https://finance.yahoo.com/m/801603d1-8318-3eb0-99a6-10147f0d5ed5/anthropic%2C-nvidia%2C-amd%2C.html?.tsrc=rss",
-"pub": "2026-11-20T21:53:00+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-21T06:44:03+00:00"
-},
-{
-"id": "e061b4226544",
-"t": "NVDA",
-"title": "Navitas Sinks 15%, Western Down 12%, Everpure Down 13% as AI Chip Rout Deepens",
-"url": "https://www.tikr.com/blog/navitas-sinks-15-western-down-12-everpure-down-13-as-ai-chip-rout-deepens?ref=yahoofinance&tlnk=yf-261120-9x747276&.tsrc=rss",
-"pub": "2026-11-20T21:50:51+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-20T22:14:08+00:00"
-},
-{
-"id": "4fd0045530ef",
-"t": "NVDA",
-"title": "Frontline Ltd. Q3 2026 Earnings Call Summary",
-"url": "https://app.moby.co/home/research/tools/earningsCalendar/earnings-frontline-ltd-q3-2026-earnings-call-summary?utm_source=yahoo_finance&utm_medium=rss&.tsrc=rss",
-"pub": "2026-11-20T21:50:21+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-20T22:14:08+00:00"
-},
-{
-"id": "809712eb4f58",
-"t": "TER",
-"title": "Teradyne: 3 Key Takeaways for Long-Term Investors",
-"url": "https://www.fool.com/earnings/takeaways/2026/11/20/teradyne-3-key-takeaways-for-long-term-investors/?.tsrc=rss",
-"pub": "2026-11-20T21:50:02+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-20T22:24:18+00:00"
-},
-{
-"id": "0d5a9ed17b61",
-"t": "NVDA",
-"title": "Dow Jones Futures: Market Has Worst Week Since Covid Amid Nvidia, Anthropic. Does Fear Gauge Offer Hope?",
-"url": "https://finance.yahoo.com/m/9ef9da98-bccf-3565-9a30-9bc3e57ad4b9/dow-jones-futures%3A-market-has.html?.tsrc=rss",
-"pub": "2026-11-20T21:49:14+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-20T22:14:08+00:00"
-},
-{
-"id": "794caa9eb36b",
-"t": "MSFT",
-"title": "Salesforce vs. ServiceNow: Which Technology Stock Is a Better Buy for 2027?",
-"url": "https://www.fool.com/coverage/better-buy/2026/11/20/salesforce-vs-servicenow-which-technology-stock-is-a-better-buy-for-2027/?.tsrc=rss",
-"pub": "2026-11-20T21:47:17+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-20T22:14:08+00:00"
-},
-{
-"id": "5a3022d736cb",
-"t": "NVDA",
-"title": "Anthropic’s IPO Is Triggering a Selloff. How to Play It Now.",
-"url": "https://finance.yahoo.com/m/54889cad-03e6-3a63-8ae5-965b8aa2e1fa/anthropic%E2%80%99s-ipo-is-triggering.html?.tsrc=rss",
-"pub": "2026-11-20T21:46:00+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-20T22:14:08+00:00"
-},
-{
 "id": "ae279519bac0",
 "t": "",
 "title": "Australia Recession Risk Is ‘High and Rising,’ AMP’s Oliver Says",
@@ -8182,6 +8182,16 @@
 "src": "WSJ",
 "kind": "market",
 "seen": "2026-11-23T02:02:50+00:00"
+},
+{
+"id": "7082953492c0",
+"t": "",
+"title": "3513.JSFx - | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNZU4yaTEtc1p0UGVHY24zVjdYWkg0eGg3S1B5U2gzem9JRE9qN3BfNHFzYXFpaDNkLXFOVmZKbGVZOGpiMGpLSFpwdGtobWxqZXc1UUpBLVozYmtqYTBBV2tjS3UxVjEtckRZXzduN2VhejhkS3NiRnpXOXVfdUlsOHQxbldJbGdDb0ZWMlY4SFFReGM?oc=5",
+"pub": "2026-11-23T01:30:18+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-23T04:43:54+00:00"
 },
 {
 "id": "b5fcdbe42fce",
@@ -8362,6 +8372,26 @@
 "src": "Reuters",
 "kind": "market",
 "seen": "2026-11-23T04:13:56+00:00"
+},
+{
+"id": "e08801938fac",
+"t": "",
+"title": "3482.J1 - | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOc2NmYXB3b2FQMWM1QUczdkNhSEx1MkxIMDlJT3Y5LVB0T2hPMWFjZy1xdmxHU0tDSGZVYWwtcmhncDI1N0NsSXowQ2NhSzN2Qi14MURXZjJ5RWtEVjE4WW50ajlkTUhOcm1fb1EyUzg5MUpjZVVHdDNSNlU5Z2o1ajBR?oc=5",
+"pub": "2026-11-23T00:49:19+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-23T04:43:54+00:00"
+},
+{
+"id": "8d2298b41acb",
+"t": "",
+"title": "5KD.SG - Reuters",
+"url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE43eXc5aTJtMmZjS0xjb2p0X2ZiRlRZZTdHNHVTaWZnQ1JJbXNBVVF0SzVQNWdadGc0UF9jaTVjcGdCUEZBa0JGNmNYMFNod3h3NWo1eVJCckk3NWpxd1VtVm1rT0d0bW5kamQzSG93?oc=5",
+"pub": "2026-11-23T00:47:18+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-23T04:43:54+00:00"
 },
 {
 "id": "0e1ef746ff90",
@@ -8712,6 +8742,26 @@
 "src": "Reuters",
 "kind": "market",
 "seen": "2026-11-23T02:14:12+00:00"
+},
+{
+"id": "fee2d37dd49a",
+"t": "",
+"title": "Atlas Arteria Group (M82.MU) | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBEM1hNNUpqOC12SU1RVG5OQ2lxRXFxa1daUkFoMWpMR1Zuak16dDAwYjAyZDFfSXFCYlRDeFpuYlVacm1fS2dybkJsd2NacGN5VG43QnNKRUUzaVE1bkJlRVVZQ3U4MGVQZHkwX1FR?oc=5",
+"pub": "2026-11-22T18:51:27+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-23T04:43:54+00:00"
+},
+{
+"id": "08874c4b462d",
+"t": "",
+"title": "Cincinnati Financial Corporation (CINF.N) | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5WWHlWTUZ1Mm5HelJ0TURnSklJb1BfMVlENjgwMDIyNWZjV2NJa0hEQ0FYa0I1Vm0xbkp1Z25za0syR2Jma2JfeG1wOXhiVzlZdXZvSmFJaTlTTzVKLXpGVVphUXFyZzg1VEc4?oc=5",
+"pub": "2026-11-22T18:51:14+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-23T04:43:54+00:00"
 },
 {
 "id": "4f0feb7c57a9",
@@ -10962,56 +11012,6 @@
 "src": "FinancialJuice",
 "kind": "market",
 "seen": "2026-11-21T20:52:52+00:00"
-},
-{
-"id": "e674e3ea8f9e",
-"t": "",
-"title": "Bahrain Defence Force: Shrapnel from air defense hits caused material damage, no casualties",
-"url": "https://www.financialjuice.com/News/9863142/Bahrain-Defence-Force-Shrapnel-from-air-defense-hits-caused-material-damage-no-casualties.aspx",
-"pub": "2026-11-21T20:45:51+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-21T23:42:01+00:00"
-},
-{
-"id": "2833f47e06de",
-"t": "",
-"title": "5 of the Top Financial Advisor Companies for Retirees: Well-Known Fiduciary Firms to Consider",
-"url": "https://www.wsj.com/buyside/personal-finance/financial-advisors/top-financial-advisors-for-retirees?mod=rss_markets_main",
-"pub": "2026-11-21T20:45:00+00:00",
-"src": "WSJ",
-"kind": "market",
-"seen": "2026-11-23T02:59:39+00:00"
-},
-{
-"id": "b80eae95361c",
-"t": "",
-"title": "Bahrain Defence Force: air defences intercepted multiple Iranian aerial assaults",
-"url": "https://www.financialjuice.com/News/9863140/Bahrain-Defence-Force-air-defences-intercepted-multiple-Iranian-aerial-assaults.aspx?xy=rss",
-"pub": "2026-11-21T20:43:33+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-21T20:43:38+00:00"
-},
-{
-"id": "1828add19a1b",
-"t": "",
-"title": "Bahrain Defence Force: air defences intercepted multiple Iranian aerial assaults",
-"url": "https://www.financialjuice.com/News/9863140/Bahrain-Defence-Force-air-defences-intercepted-multiple-Iranian-aerial-assaults.aspx",
-"pub": "2026-11-21T20:43:33+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-21T23:42:01+00:00"
-},
-{
-"id": "9e226718ff16",
-"t": "",
-"title": "Saudi civil defense issues warning of potential threat in Mecca region",
-"url": "https://www.financialjuice.com/News/9863139/Saudi-civil-defense-issues-warning-of-potential-threat-in-Mecca-region.aspx?xy=rss",
-"pub": "2026-11-21T20:41:51+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-21T20:43:38+00:00"
 }
 ]
 }
