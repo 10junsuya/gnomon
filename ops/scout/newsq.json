@@ -1,18 +1,38 @@
 {
-"updated_kst": "2026-11-23 10:14",
-"rot": 139,
+"updated_kst": "2026-11-23 10:44",
+"rot": 20,
 "how": "Scout(프로그램)이 10분마다 모은 기사 제목·링크와 공시예요. Wren이 공식 출처로 확인한 뒤 회사 화면에 한국어로 반영해요. 본문은 받지 않아요.",
 "sources": {
 "Yahoo Finance": "120종목 확인 · 실패 0",
 "CNBC": "63건",
 "Bloomberg": "27건",
 "WSJ": "61건",
-"Reuters": "36건",
+"Reuters": "57건",
 "FinancialJuice": "100건",
 "SEC EDGAR": "실패 HTTPError",
 "Fox Business": "50건"
 },
 "items": [
+{
+"id": "80c60a72ce04",
+"t": "NOK",
+"title": "Nokia vs. AT&T: Which Telecom Stock Is a Better Buy for 2027?",
+"url": "https://www.fool.com/coverage/better-buy/2026/11/22/nokia-vs-at-and-t-which-telecom-stock-is-a-better-buy-for-2027/?.tsrc=rss",
+"pub": "2026-11-23T01:23:14+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-23T01:44:22+00:00"
+},
+{
+"id": "12d374572de1",
+"t": "SPCX",
+"title": "Stifel Says SpaceX Could Buy Stalled Data Centers for One Reason: Their Power. Here’s Why Electricity Is the Real Asset.",
+"url": "https://www.fool.com/investing/2026/11/22/stifel-says-spacex-could-buy-stalled-data-centers-for-one-reason-their-power-heres-why-electricity-is-the-real-asset/?.tsrc=rss",
+"pub": "2026-11-23T01:21:02+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-23T01:44:22+00:00"
+},
 {
 "id": "01bb970a04b5",
 "t": "COST",
@@ -62,6 +82,16 @@
 "src": "Yahoo Finance",
 "kind": "news",
 "seen": "2026-11-23T01:14:45+00:00"
+},
+{
+"id": "07a388a85b30",
+"t": "NVDA",
+"title": "Elon Musk Could Use His Nvidia Chip Orders to Push for Jensen Huang’s Return, Analyst Says",
+"url": "https://finance.yahoo.com/technology/ai/articles/elon-musk-could-nvidia-chip-003007166.html?.tsrc=rss",
+"pub": "2026-11-23T00:30:07+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-23T01:44:22+00:00"
 },
 {
 "id": "366c98a0c011",
@@ -512,6 +542,16 @@
 "src": "Yahoo Finance",
 "kind": "news",
 "seen": "2026-11-22T19:44:27+00:00"
+},
+{
+"id": "dedfaeb28c91",
+"t": "INTC",
+"title": "Intel Just Landed Its First 18A-P Chip Customer. What That Means for INTC Stock.",
+"url": "https://www.barchart.com/story/news/8957190/intel-just-landed-its-first-18a-p-chip-customer-what-that-means-for-intc-stock?.tsrc=rss",
+"pub": "2026-11-22T19:30:03+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-23T01:44:22+00:00"
 },
 {
 "id": "2787fa9c9dde",
@@ -7974,46 +8014,6 @@
 "seen": "2026-11-20T21:44:59+00:00"
 },
 {
-"id": "f4019df9f058",
-"t": "NFLX",
-"title": "Disney (DIS) Is Catching Up to Netflix (NFLX), but the Upside May Be Shrinking",
-"url": "https://finance.yahoo.com/media-advertising/articles/disney-dis-catching-netflix-nflx-212947164.html?.tsrc=rss",
-"pub": "2026-11-20T21:29:47+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-20T21:44:59+00:00"
-},
-{
-"id": "52ba89debb89",
-"t": "INTC",
-"title": "Could Jensen Huang Land At Nvidia Rival Intel?",
-"url": "https://finance.yahoo.com/m/0f796a98-f9a0-3610-b88d-21a75faa2e7b/could-jensen-huang-land-at.html?.tsrc=rss",
-"pub": "2026-11-20T21:28:35+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-22T19:15:38+00:00"
-},
-{
-"id": "ae565d33822b",
-"t": "NVDA",
-"title": "Nvidia Stock Plunge Wipes Out Nearly $500 Billion in One Day as SEC Reportedly Probes Its Accounting",
-"url": "https://www.fool.com/investing/2026/11/20/nvidia-stock-plunge-wipes-out-nearly-usd500-billion-in-one-day-as-sec-reportedly-probes-its-accounting/?.tsrc=rss",
-"pub": "2026-11-20T21:27:22+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-20T21:44:59+00:00"
-},
-{
-"id": "903bbe1d1931",
-"t": "GOOGL",
-"title": "Atalanta CEO Anjana Rajan Addresses Software Understanding Gap at The National Academies Cyber Resilience Forum",
-"url": "https://finance.yahoo.com/technology/articles/atalanta-ceo-anjana-rajan-addresses-212600268.html?.tsrc=rss",
-"pub": "2026-11-20T21:26:00+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-20T21:44:59+00:00"
-},
-{
 "id": "b34163a0ac08",
 "t": "",
 "title": "California Attorney General Bonta: This week I filed lawsuit against OpenAI for neglecting model security and endangering public safety",
@@ -8022,6 +8022,16 @@
 "src": "FinancialJuice",
 "kind": "market",
 "seen": "2026-11-23T01:14:45+00:00"
+},
+{
+"id": "51f336f1c0b8",
+"t": "",
+"title": "Copper Rises After Falling More Than 9% Last Week on AI Gloom",
+"url": "https://www.bloomberg.com/news/articles/2026-11-23/copper-rises-after-falling-more-than-9-last-week-on-ai-gloom",
+"pub": "2026-11-23T01:05:30+00:00",
+"src": "Bloomberg",
+"kind": "market",
+"seen": "2026-11-23T01:44:22+00:00"
 },
 {
 "id": "7346750569d9",
@@ -8174,6 +8184,16 @@
 "seen": "2026-11-22T23:05:42+00:00"
 },
 {
+"id": "2db7103e6204",
+"t": "",
+"title": "Alerian MLP Index ETN due 28 January 2044 (AMJB.N) | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5pbHB4aUpENnZETTdHU19kSjBRZ283ODcwa1AtWUo2UFZjbFE2dnoxOVBLbEF5NDNRUmlBdTRrcjBwZ2JWTUZaV0FGbmptLWpkdDJtUG04UWg?oc=5",
+"pub": "2026-11-22T22:53:59+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-23T01:44:22+00:00"
+},
+{
 "id": "dbda121af27e",
 "t": "",
 "title": "Asia Braces for More Volatility After US Selloff: Markets Wrap",
@@ -8254,6 +8274,16 @@
 "seen": "2026-11-22T21:44:25+00:00"
 },
 {
+"id": "490dee5817e9",
+"t": "",
+"title": "Longview Advantage Fixed Income ETF (LVIG.OQ) | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1QX2g1bmd3Y2I4eUlLMmlGN0xWZkcyTEpzd05MY1VpUVpyRkxENTNtV1duM01GaFhlS3lMV0NoU3ViN3NJaDRjeUphSnBLbzZQVmFESGtISTMxdw?oc=5",
+"pub": "2026-11-22T20:54:48+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-23T01:44:22+00:00"
+},
+{
 "id": "c41203260cc2",
 "t": "",
 "title": "4576.t - Reuters",
@@ -8294,6 +8324,16 @@
 "seen": "2026-11-22T22:19:25+00:00"
 },
 {
+"id": "e5d4ad96ca78",
+"t": "",
+"title": "Ludwig Enterprises Inc (LUDG.PK) | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE56Q2lScXgwYkpDTnRvNTUtUTZ2eWsyVnZzMG1KWktiMEd1YzlXTnlSUnN0clNOMzVYTVB3aVRGdjF5bEVGZ19WN21WZ09BLVpqT2FNZzRyNzQ5MnowbUVreHVXUHFLQy1JWU4wYmw3bw?oc=5",
+"pub": "2026-11-22T19:24:39+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-23T01:44:22+00:00"
+},
+{
 "id": "bb031ac9d17a",
 "t": "",
 "title": "Goldman Traders See Entry Point in US Stocks But Warn of Risks",
@@ -8304,6 +8344,16 @@
 "seen": "2026-11-22T19:15:38+00:00"
 },
 {
+"id": "4f0feb7c57a9",
+"t": "",
+"title": "YieldMax CRCL Option Income Strategy ETF (CRCO.N) | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE4taXpEVkhVbWo0c2tNRUtHamtjU1RvMFZtWnNJRVk2a0thNU5FS0NvTDZySExrMGt2RzhuRjZJNlJyMk1qUzFQTjlobVdqVUJIMnBOZjMzRnllUzFtVDRiMUV0a0d0ZlJfMEg0eTFn?oc=5",
+"pub": "2026-11-22T18:48:52+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-23T01:44:22+00:00"
+},
+{
 "id": "ecd185816848",
 "t": "",
 "title": "WFR.L - | Stock Price & Latest News - Reuters",
@@ -8312,6 +8362,16 @@
 "src": "Reuters",
 "kind": "market",
 "seen": "2026-11-22T22:44:03+00:00"
+},
+{
+"id": "f1cf845604b2",
+"t": "",
+"title": "Beijing Comens New Materials Co Ltd (300200.SZ) | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9hMDM3elE5SDdYTEg0Q2w2RnVQSWZoNmR1TEtQc2ZVOGh5eGVmVVZ0SnNha1dRNi1PTmpId2JhdXVuc21jcy02YU9JeDh6a1d4Mk8wRkE4dDFxTzRCR3BnVy1sQmJxMGpFNl9lRVJYTEpHZw?oc=5",
+"pub": "2026-11-22T18:26:30+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-23T01:44:22+00:00"
 },
 {
 "id": "65e3884558e2",
@@ -8422,6 +8482,26 @@
 "src": "Bloomberg",
 "kind": "market",
 "seen": "2026-11-22T18:05:19+00:00"
+},
+{
+"id": "f075864e5995",
+"t": "",
+"title": "3482.J1 - | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPZnZ1a3NIRThQUmZ6d3ViV1R5dGhFVkFiMGNxQUVibE1QZWYwbW9DaUVTV2lxSERMSTlrQmt2S3pqd3RIX2ZIcXZCMmNMOEVnOVN2OVk3UzZ0U2xMZDFVcHJ0bGNnWUg3Z2RTMXlTckxFVDBjMmZodm9mYjFvZ3l5QlFQUWM5dw?oc=5",
+"pub": "2026-11-22T16:55:55+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-23T01:44:22+00:00"
+},
+{
+"id": "e5dd569c1eb7",
+"t": "",
+"title": "CYIE_bv.NS - | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQVFA1N21aMVNNUUxzWnFnV0dSaV9IQmw4WEJWM1NxLWxNVGRMQl9zOTBUdFFqdmdYUXlISlBGQjI1aTdVVkd2Y1lZbnhXeS0xTjF0c2tURDNEbzluQWluRXFOQS1DcmtzQjB2dTFkNHdtQzZTclVIcC0xWjI1Zmt0WmRYcFpHbnYtYkdBTVIyV29rcWM?oc=5",
+"pub": "2026-11-22T16:55:32+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-23T01:44:22+00:00"
 },
 {
 "id": "80c50868ecdc",
@@ -10932,86 +11012,6 @@
 "src": "WSJ",
 "kind": "market",
 "seen": "2026-11-21T17:14:26+00:00"
-},
-{
-"id": "bb5b8bdedccb",
-"t": "",
-"title": "Quanta Services Inc (PWR.P) | Stock Price & Latest News - Reuters",
-"url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5WUEF0ODNHNHoyMWlMUldoY090M2lfNTByUi1SdDJUQ3FoUURIUzRpRUNrZ1NGS0hhcjVHVkk1cEJ3bHJIZW1zc1hMTDRFdS1rNTVpNldzamhWeE5PX2psbjVGcl9oZl9iSEdIZA?oc=5",
-"pub": "2026-11-21T16:59:33+00:00",
-"src": "Reuters",
-"kind": "market",
-"seen": "2026-11-22T03:43:59+00:00"
-},
-{
-"id": "509bd77e8855",
-"t": "",
-"title": "Pioneer Power Solutions Inc (PPSI.N) | Stock Price & Latest News - Reuters",
-"url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9odVRuQzRrdUdPdzRuUUt6WXBiS3JQV3NuTHluRTE5ZEt2OU9NRERPTWNZMmZKTnhSaXloelhrSXFNSXltLThDMGU5a2d0Q0M1RHZTRnpFZy1KZEdZd2xLV1l5Nmh1SkJJNWhV?oc=5",
-"pub": "2026-11-21T16:55:13+00:00",
-"src": "Reuters",
-"kind": "market",
-"seen": "2026-11-21T20:52:52+00:00"
-},
-{
-"id": "cdef4ac85628",
-"t": "",
-"title": "IAEA on Ukraine: one transmission line remains offline",
-"url": "https://www.financialjuice.com/News/9863076/IAEA-on-Ukraine-one-transmission-line-remains-offline.aspx?xy=rss",
-"pub": "2026-11-21T16:53:56+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-21T17:14:26+00:00"
-},
-{
-"id": "d9193244b560",
-"t": "",
-"title": "IAEA on Ukraine: one transmission line remains offline",
-"url": "https://www.financialjuice.com/News/9863076/IAEA-on-Ukraine-one-transmission-line-remains-offline.aspx",
-"pub": "2026-11-21T16:53:56+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-21T19:14:53+00:00"
-},
-{
-"id": "60ce52e35658",
-"t": "",
-"title": "IAEA: one Ukrainian nuclear plant cuts output after two 330 kv power lines disconnected amid military activity",
-"url": "https://www.financialjuice.com/News/9863075/IAEA-one-Ukrainian-nuclear-plant-cuts-output-after-two-330-kv-power-lines-disconnected-amid-military-activity.aspx?xy=rss",
-"pub": "2026-11-21T16:52:58+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-21T17:14:26+00:00"
-},
-{
-"id": "e75358becab9",
-"t": "",
-"title": "IAEA: one Ukrainian nuclear plant cuts output after two 330 kv power lines disconnected amid military activity",
-"url": "https://www.financialjuice.com/News/9863075/IAEA-one-Ukrainian-nuclear-plant-cuts-output-after-two-330-kv-power-lines-disconnected-amid-military-activity.aspx",
-"pub": "2026-11-21T16:52:58+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-21T19:14:53+00:00"
-},
-{
-"id": "36eba9a95723",
-"t": "",
-"title": "NCH2.SG - Reuters",
-"url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB1bmliR1F2eHV3VFFsdDRqUV8yV1dmQjhEa2pzUW5odmRQSVZkNk01bXdhZjhPTlV0Nk9pNlY1SUx0bFBhNThLeTlBM1g0N2hvUkpKbHV4dmVaV1MwZEZFNDhkcUI4N0N3eHI4LUtZYkI4VnU5UnFzTg?oc=5",
-"pub": "2026-11-21T16:38:00+00:00",
-"src": "Reuters",
-"kind": "market",
-"seen": "2026-11-22T02:39:49+00:00"
-},
-{
-"id": "05ae8fcc7492",
-"t": "",
-"title": "Finland defence force: strike on Russian ship probably conducted by Ukraine",
-"url": "https://www.financialjuice.com/News/9863064/Finland-defence-force-strike-on-Russian-ship-probably-conducted-by-Ukraine.aspx?xy=rss",
-"pub": "2026-11-21T16:06:37+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-21T16:14:06+00:00"
 }
 ]
 }
