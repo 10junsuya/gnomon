@@ -3208,3 +3208,21 @@ Scout(소식 감지 프로그램)가 모은 기사·공시를 공식 출처로 �
 - 내용: Scout를 직접 돌린 뒤(성공, 21:17 KST 갱신) 새 항목 52건(news 38·market 14) 모두 처리. 반영 0건. 건너뜀: 유로뉴스 '트럼프, 엔비디아에 황 재고용 촉구'·야후 '트럼프 촉구에 엔비디아 상승'(검색으로 본 기사 모두 11-19 트럼프 발언과 이사회 '복귀 계획 없음·후임 찾기' 입장의 되풀이 — 새 이사회 결정·정부 조치 없음, 20:43 차례와 같은 기준), 야후 'SpaceX 대출 기관들, 엔비디아 칩 궤도 발사 막으려 해'(news.SPCX 11-20 FT 보도 줄과 같은 사건), 'CrowdStrike, 지스케일러 440억 달러 인수, 함께가 나은 이유'(20:13 차례에 공식 합의로 이미 갱신, 분석 글), 'DXL, 메타 AI 에이전트 Muse 로 판매'(앱 종목 아닌 회사 발표), 'Salesforce 출신들 Traversive 창업'(앱 종목 아님), 야후 'ETF 순매수·순매도 11/19' 류 4건, '주가 왜 움직였나' 류(디지털리얼티·아스테라랩스·로빈후드·램리서치·리비안·UPS), 모틀리풀·배런스 의견·전망 글(버리·버핏·코스트코 배당·S&P 7일 연속 하락 뒤·서비스나우 위험·익스피디아), 베어드 VRT·JP모건 네메첵·골드만 S&P·금 전망(증권사 의견), 일드맥스·JP모건AM 분배금 공지, '트럼프 9월 매매 공개'·'젠슨 황 신탁 보유 주식'(회사 사건 아님), '베스트바이 내일 실적'(Tally 담당). market 14건(FinancialJuice '러시아 우주 핵무기 경고'·인민은행 판 총재 EU 2건, 블룸버그 멕시코 경제·도슨 연준·'워시 풋'·AI 수출 통제 영상·환헤지·M&A 기록·브라질 금리·'용감한 자의 매수 기회'·JP모건 트레이더 강세 철회·러시아 정유 공장, 로이터 TSX 선물 — 21시대라 done 만). done 은 대기 목록에 없는 오래된 id 부터 잘라 3000개 유지(저장 뒤 JSON 다시 읽어 확인). 나에게 온 새 요청(RULES 0-3): 없음. 미국 지표: 미국 동부 11-23 07:1x(월) — 오늘 발표 없음(다음 pce·claims 11-25), 매크로 수집 안 돌림, 분석 모두 최신. A 지도: 고칠 것 없음. 앱 다시 게시: 반영한 소식이 없어 하지 않음.
 - 출처: ops/scout/newsq.json · [PC Gamer(트럼프 발언·이사회 입장)](https://www.pcgamer.com/software/ai/trump-supports-jensen-huangs-return-as-nvidia-ceo-but-it-doesnt-sound-like-the-board-is-interested/) · 공식 여부: 저장소
 - 확신도: 높음
+
+### W-20261123-2143-1 · 반영 · ARM 르네 하스 CEO 계약 2033년까지 연장 (보도)
+- 시각: 2026-11-23 21:4x KST
+- 내용: Arm 르네 하스 CEO가 계약을 2033년까지 늘렸다고 블룸버그가 보도했어요(엔비디아의 후임 CEO 접촉 보도 열흘 뒤). 회사 보도자료·공시는 검색에서 찾지 못해 "보도"로 넣음. companies.json news.ARM 맨 앞(11-14 FT 접촉 보도 줄은 그대로 둠, 한국 11-23 21:19 야후 게재 기준). A 지도: 관계 변화 아님.
+- 출처: [블룸버그 (제목만)](https://www.bloomberg.com/news/articles/2026-11-23/arm-ceo-extends-contract-through-2033-after-nvidia-approach) · [Seeking Alpha](https://seekingalpha.com/news/4675500-arm-ceo-haas-affirms-long-term-commitment-seemingly-ending-nvidia-ceo-speculation?feed_item_type=news) · 공식 여부: 보도
+- 확신도: 중간(공식 확인 전 — 다음 차례가 Arm 뉴스룸·6-K 가 나오면 공식으로 갱신)
+
+### W-20261123-2143-2 · 반영 · UUUU 화이트메사 공장 우라늄 약 100만 파운드 처리 계획
+- 시각: 2026-11-23 21:4x KST
+- 내용: 에너지 퓨얼스(UUUU)가 12월부터 2027년 1분기까지 유타 화이트메사 공장에서 핀연플레인·라살 광산 광석 등으로 우라늄(U3O8) 약 100만 파운드를 처리한다고 밝혔어요. 끝나면 희토류 생산으로 돌아가요. news.UUUU 첫 줄(한국 11-23 20:15, 보도자료 06:15 ET 기준).
+- 출처: [Energy Fuels 보도자료 (PR Newswire)](https://www.prnewswire.com/news-releases/energy-fuels-targets-additional-one-million-pounds-of-low-cost-us-uranium-production-in-upcoming-processing-campaign-advances-additional-uranium-ramp-ups-302947729.html) · 공식 여부: 공식
+- 확신도: 높음
+
+### W-20261123-2143-3 · 알림 · 이번 차례
+- 시각: 2026-11-23 21:4x KST
+- 내용: Scout를 직접 돌린 뒤(성공, 21:4x KST 갱신) 새 항목 54건(news 42·market 12) 모두 처리. 반영 2건(ARM 보도·UUUU 공식). 건너뜀: CRWD-ZS 인수 기사 4건(IBTimes·스탁트윗·인베스터스허브·Verdict 류 — 20:13 차례에 공식 갱신함)·CRWD·ZS 실적 요약(Tally 담당), 트레피스 '주가 왜 움직였나' 약 9건, 모틀리풀·24/7·잭스·티커 의견·비교·추천 글(블랙프라이데이 종목·엔비디아 1년 뒤·ASML vs TSMC·마벨·디즈니 vs 넷플릭스·스페이스X ETF·IREN 가치·크레도), 티커 '델·슈퍼마이크로 서버값 최대 45% 인상 요구'(블로그 글 — 믿을 만한 원 보도 확인 못 함), 'V2X-마이크로소프트 협력 확대'(V2X 는 앱 종목 아님), 'Unspun CEO'·'Finlay Minerals'(앱 종목 아님), '자나두 PennyLane 사용 36% 증가'(홍보성), '모더나 12월 학회 발표'(일정 공지), '테슬라 노인 운전자 광고'(칼럼), '이달 신약 승인 정리'·'S&P500 11개 종목'·'AI 지출 둔화'(Axios 칼럼)·'AI 매도가 약세장 부를까'·'테크 기업 자금 조달'(블룸버그 정리 글)·'AI 큰손 투자자'(영상), '유럽 클린테크 주식'(주가 글). market 12건(FinancialJuice 도이체방크 2027 전망 5건·영국 EU 협상, 블룸버그 인도 석탄 공모·유럽 은행 M&A·콩고 코발트 수출 금지 재개, 로이터 시세 페이지 3건 — 21시대라 done 만). done 은 대기 목록에 없는 오래된 id 부터 잘라 3000개 유지(저장 뒤 JSON 다시 읽어 확인). companies.json 은 원래 줄 모양(항목당 한 줄) 그대로 다시 썼어요. 나에게 온 새 요청(RULES 0-3): 없음. 미국 지표: 미국 동부 11-23 07:4x(월) — 오늘 발표 없음(다음 pce·claims 11-25), 매크로 수집 안 돌림, 분석 모두 최신. A 지도: 고칠 것 없음.
+- 출처: ops/scout/newsq.json · 공식 여부: 저장소
+- 확신도: 높음
