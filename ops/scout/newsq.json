@@ -1,18 +1,38 @@
 {
-"updated_kst": "2026-11-23 12:44",
-"rot": 22,
+"updated_kst": "2026-11-23 13:06",
+"rot": 82,
 "how": "Scout(프로그램)이 10분마다 모은 기사 제목·링크와 공시예요. Wren이 공식 출처로 확인한 뒤 회사 화면에 한국어로 반영해요. 본문은 받지 않아요.",
 "sources": {
 "Yahoo Finance": "120종목 확인 · 실패 0",
 "CNBC": "63건",
 "Bloomberg": "27건",
 "WSJ": "61건",
-"Reuters": "실패 HTTPError",
+"Reuters": "34건",
 "FinancialJuice": "100건",
 "SEC EDGAR": "실패 HTTPError",
 "Fox Business": "50건"
 },
 "items": [
+{
+"id": "f570def94a43",
+"t": "NVDA",
+"title": "Asia stocks slide as AI rout deepens despite rebound in U.S. futures",
+"url": "https://finance.yahoo.com/markets/stocks/articles/asia-stocks-slide-ai-rout-033321972.html?.tsrc=rss",
+"pub": "2026-11-23T03:33:21+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-23T04:06:00+00:00"
+},
+{
+"id": "95ac9366dfc3",
+"t": "LLY",
+"title": "5 Best High-Growth Stocks to Diversify Away From Big Tech",
+"url": "https://finance.yahoo.com/markets/stocks/articles/5-best-high-growth-stocks-032641482.html?.tsrc=rss",
+"pub": "2026-11-23T03:26:41+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-23T04:06:00+00:00"
+},
 {
 "id": "e7963ab84028",
 "t": "NVDA",
@@ -24,6 +44,16 @@
 "seen": "2026-11-23T03:44:09+00:00"
 },
 {
+"id": "cc730649485f",
+"t": "VZ",
+"title": "Comcast vs. Walt Disney: Which Media Stock Is a Better Buy?",
+"url": "https://www.fool.com/coverage/better-buy/2026/11/22/comcast-vs-walt-disney-which-media-stock-is-a-better-buy/?.tsrc=rss",
+"pub": "2026-11-23T03:20:02+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-23T04:06:00+00:00"
+},
+{
 "id": "8e70533dde2d",
 "t": "META",
 "title": "After Blockbuster Anthropic IPO, OpenAI Wants AI Rivals To Agree On Development ‘Limits’, While Meta Calls For Controlled Approach",
@@ -32,6 +62,16 @@
 "src": "Yahoo Finance",
 "kind": "news",
 "seen": "2026-11-23T03:44:09+00:00"
+},
+{
+"id": "15523987088e",
+"t": "SNDK",
+"title": "SNDK Stock Wrapped Its Worst Week Since July: Why Morningstar Sees A NAND Memory Bust Looming For SanDisk",
+"url": "https://stocktwits.com/news-articles/markets/equity/sndk-stock-nand-price-downcycle-forecast-morningstar/cNbYVUtR9S2?.tsrc=rss",
+"pub": "2026-11-23T03:12:15+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-23T04:06:00+00:00"
 },
 {
 "id": "7c905a51ab37",
@@ -62,6 +102,16 @@
 "src": "Yahoo Finance",
 "kind": "news",
 "seen": "2026-11-23T02:59:39+00:00"
+},
+{
+"id": "1a22b7713c37",
+"t": "NVDA",
+"title": "Kevin O’Leary Says Nvidia CEO Colette Kress Is ‘Pretty Sharp,’ Chip Demand ‘Insatiable’: Crypto Bettors Weigh Jensen Huang Comeback Odds",
+"url": "https://finance.yahoo.com/markets/stocks/articles/kevin-o-leary-says-nvidia-025309458.html?.tsrc=rss",
+"pub": "2026-11-23T02:53:09+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-23T04:06:00+00:00"
 },
 {
 "id": "549eb376f919",
@@ -7964,54 +8014,14 @@
 "seen": "2026-11-20T23:44:15+00:00"
 },
 {
-"id": "bcccfffde0b2",
-"t": "NVDA",
-"title": "Marvell Reports Dec. 1. History Says What Its Stock Usually Does Next.",
-"url": "https://www.fool.com/investing/2026/11/20/marvell-reports-dec-1-history-says-what-its-stock-usually-does-next/?.tsrc=rss",
-"pub": "2026-11-20T21:43:02+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-20T22:14:08+00:00"
-},
-{
-"id": "4001789209f7",
-"t": "GOOGL",
-"title": "Nvidia’s Stock Slide Deepens After Report of SEC Accounting Probe",
-"url": "https://finance.yahoo.com/m/30e2a4ab-b95f-395f-9f4d-e4058f562e01/nvidia%E2%80%99s-stock-slide-deepens.html?.tsrc=rss",
-"pub": "2026-11-20T21:43:00+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-20T22:14:08+00:00"
-},
-{
-"id": "65acf5e183de",
-"t": "NVDA",
-"title": "Update: S&P 500, Dow Sink Into Correction Territory as Investors Seek Treasury Cover Amid Plunging Big-Tech",
-"url": "https://finance.yahoo.com/markets/stocks/articles/p-500-dow-sink-correction-214248905.html?.tsrc=rss",
-"pub": "2026-11-20T21:42:48+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-20T22:14:08+00:00"
-},
-{
-"id": "1c009b3c23b2",
-"t": "NVDA",
-"title": "Meta's Server Chip Shake-Up Could Hand Nvidia a Win",
-"url": "https://finance.yahoo.com/technology/articles/metas-server-chip-shake-could-214208711.html?.tsrc=rss",
-"pub": "2026-11-20T21:42:08+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-20T22:14:08+00:00"
-},
-{
-"id": "cf712bf27428",
-"t": "BABA",
-"title": "Alibaba's AI Cloud Growth Could Slow Sharply as U.S. Tightens Chip Curbs",
-"url": "https://finance.yahoo.com/technology/ai/articles/alibabas-ai-cloud-growth-could-214205586.html?.tsrc=rss",
-"pub": "2026-11-20T21:42:05+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-20T22:44:38+00:00"
+"id": "1b24a14139d5",
+"t": "",
+"title": "India Stocks Erase Yearly Losses as Foreign Buying Spurs Rebound",
+"url": "https://www.bloomberg.com/news/articles/2026-11-23/india-stocks-erase-yearly-losses-as-foreign-buying-spurs-rebound",
+"pub": "2026-11-23T03:50:16+00:00",
+"src": "Bloomberg",
+"kind": "market",
+"seen": "2026-11-23T04:06:00+00:00"
 },
 {
 "id": "f4e714c045fd",
@@ -8164,6 +8174,26 @@
 "seen": "2026-11-23T02:14:12+00:00"
 },
 {
+"id": "0f11bb31fa3f",
+"t": "",
+"title": "ENGI.NSf - | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPZ3dURE9lWllJdnczVEl4MFVKQzVsUGtPRGxuN0tmMU0wMG9GQktCT3dTc0c1WFdkbDRyZmJuUVlERnltVkJPMFZNc3ByOW1jQURpaFlPSVo1cmJfN0gzZTc0Q2hoOUVidGRaallxdy1tdm1mNjZtUlVlVGktSDUwY1pnM3hTdG41Z1E?oc=5",
+"pub": "2026-11-23T01:22:02+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-23T04:06:00+00:00"
+},
+{
+"id": "8a20df25bed0",
+"t": "",
+"title": "3064f.TWO - | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQTXJiXzIxXzhOUXlvQzVyS2dGLWV1WlNDTmlBWHdrc0wtOXFGb0J4X1ZYUTFTb05xQjM2YmppcjMwOGJzNGNLQnBWZkUtWll1blBVY0xoOHJPejY4bl95VlZPVU5QMzlFOHRfQng3Vks2NEozSGhtOUVpUm9Mb3R6RTJ0T1FaZw?oc=5",
+"pub": "2026-11-23T01:21:54+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-23T04:06:00+00:00"
+},
+{
 "id": "9ab4e33545f9",
 "t": "",
 "title": "Beammwave AB (BEAMMWb.ST) | Stock Price & Latest News - Reuters",
@@ -8204,6 +8234,16 @@
 "seen": "2026-11-23T01:14:45+00:00"
 },
 {
+"id": "6098e19f39c9",
+"t": "",
+"title": "MRMXF.PQ - | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOTzNnMmM4emxYOTBBQzBSd0I0UkZsc2RIX1E3a2dlTEhvRjNkUXJYeGM4Z0hDWDR1NzU2M3YyWkUyTERIS0daZmcyUVVkQzc4Qjl5U3E5bUpQUHczWXIzM3JObEpmS3VfVS02aUE2SW1Cb3M4N3lJVHZDTG5MTzhscHZ6U0IyWVpiSkExeEtINXVOdw?oc=5",
+"pub": "2026-11-23T01:00:55+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-23T04:06:00+00:00"
+},
+{
 "id": "d8a518c4ecb3",
 "t": "",
 "title": "JLens 500 Jewish Advocacy US ETF (TOV.N) | Stock Price & Latest News - Reuters",
@@ -8222,6 +8262,26 @@
 "src": "WSJ",
 "kind": "market",
 "seen": "2026-11-23T01:14:45+00:00"
+},
+{
+"id": "f2cc113ba832",
+"t": "",
+"title": "600325.SHh - | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE51TmZhajEtekIxLW9hV2gwcHdJLVZsWUtSWndUcm5ILXRWeDRvSUhkOE43N2hUNVV3a0VmMW1IajV1Y3I4aUZ1eGdzVlFScm83NExITHFTbVVYaWtiQ2xFY3dhdGF1MEpUakJrRzJwdmNxd3NLNUZPZ3NHSFU?oc=5",
+"pub": "2026-11-23T00:57:54+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-23T04:06:00+00:00"
+},
+{
+"id": "e4c3b2b45723",
+"t": "",
+"title": "Vita Resources NL (VTA.AX) | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9vVjF0eHBSWEhMYlBuZlBacGl5R0kwbUxnMDVJclR6STZXM1dTYXVuNUI3R04zZEpxQU1ScGp0S2FrMTRQaHZzN25FdlZSR1l6OW9OdTRtQnNCZkZIdnB3WU9naHVlX2lsTWFj?oc=5",
+"pub": "2026-11-23T00:57:29+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-23T04:06:00+00:00"
 },
 {
 "id": "afa102c7e26a",
@@ -8802,6 +8862,26 @@
 "src": "Reuters",
 "kind": "market",
 "seen": "2026-11-22T18:58:56+00:00"
+},
+{
+"id": "ab68f61987b8",
+"t": "",
+"title": "Tradegate AG (T2GG.TG) | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB2eFhkSlJMc3VlOHk1MTFEcm5tRkFaekVBaWdkYTdXN1NISjI4X3lFbmdlb21FM0tPbWF5OTAtWTdxV0VCMFltT1RvM2taZDctZ1NvZ2VXeGVMa2pCaTFLLUd6SVBlZ3JsclhMNTJBYw?oc=5",
+"pub": "2026-11-22T16:48:32+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-23T04:06:00+00:00"
+},
+{
+"id": "c56fbe5cd38c",
+"t": "",
+"title": "Altria Group Inc (MO.Z) | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9mZ1pWa2dZNHp2MVQ3R2hOUkxmNjdQd052TEphZF90cm9yU2w2R1hnaEtWNVZvd3EwTHN2Tm1Ja3lSTTFFUUpNWDBURVk4Nk5OS1JSZFh3YVJmS01FYUZKMzJpaWpiM0U2a3pV?oc=5",
+"pub": "2026-11-22T16:48:07+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-23T04:06:00+00:00"
 },
 {
 "id": "1827c6de6742",
@@ -10932,86 +11012,6 @@
 "src": "FinancialJuice",
 "kind": "market",
 "seen": "2026-11-21T20:43:38+00:00"
-},
-{
-"id": "785d0e80dcdb",
-"t": "",
-"title": "Bahrain air defences intercept, destroy hostile Iranian aerial attacks over Bahrain: king's media adviser",
-"url": "https://www.financialjuice.com/News/9863137/Bahrain-air-defences-intercept-destroy-hostile-Iranian-aerial-attacks-over-Bahrain-kings-media-adviser.aspx",
-"pub": "2026-11-21T20:35:23+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-21T23:42:01+00:00"
-},
-{
-"id": "b4e002837a61",
-"t": "",
-"title": "Direxion Daily AMD Bear 1X ETF (AMDD.O) | Stock Price & Latest News - Reuters",
-"url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9sRTktX1ktaFhvRXlDcDRLaWZGekZ2c1gzc241NUR3YUlxZG9SeHlDUUxELUJISzB4dmM1OC0tMGVPVTFka3JpUTZDa2d4Q3BvWi1BVWtsWGI?oc=5",
-"pub": "2026-11-21T20:20:21+00:00",
-"src": "Reuters",
-"kind": "market",
-"seen": "2026-11-21T22:14:01+00:00"
-},
-{
-"id": "c9324b6e3eff",
-"t": "",
-"title": "Bahrain's interior ministry issues all-clear alert: post on X",
-"url": "https://www.financialjuice.com/News/9863132/Bahrains-interior-ministry-issues-all-clear-alert-post-on-X.aspx?xy=rss",
-"pub": "2026-11-21T20:17:27+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-21T20:43:38+00:00"
-},
-{
-"id": "f020114c8738",
-"t": "",
-"title": "Bahrain's interior ministry issues all-clear alert: post on X",
-"url": "https://www.financialjuice.com/News/9863132/Bahrains-interior-ministry-issues-all-clear-alert-post-on-X.aspx",
-"pub": "2026-11-21T20:17:27+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-21T23:42:01+00:00"
-},
-{
-"id": "bb25be12d358",
-"t": "",
-"title": "Iran's Revolutionary Guards: attacked two US Patriot air defense radars at Bahrain bases - IRNA",
-"url": "https://www.financialjuice.com/News/9863130/Irans-Revolutionary-Guards-attacked-two-US-Patriot-air-defense-radars-at-Bahrain-bases---IRNA.aspx?xy=rss",
-"pub": "2026-11-21T20:12:29+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-21T20:14:31+00:00"
-},
-{
-"id": "032ae6eea70f",
-"t": "",
-"title": "Iran's Revolutionary Guards: attacked two US Patriot air defense radars at Bahrain bases - IRNA",
-"url": "https://www.financialjuice.com/News/9863130/Irans-Revolutionary-Guards-attacked-two-US-Patriot-air-defense-radars-at-Bahrain-bases---IRNA.aspx",
-"pub": "2026-11-21T20:12:29+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-21T23:42:01+00:00"
-},
-{
-"id": "c68523a9b7ae",
-"t": "",
-"title": "Kraken aware of issue with Cyber-Optimism funding gateway, deposits may face delays; other methods operating normally",
-"url": "https://www.financialjuice.com/News/9863129/Kraken-aware-of-issue-with-Cyber-Optimism-funding-gateway-deposits-may-face-delays-other-methods-operating-normally.aspx?xy=rss",
-"pub": "2026-11-21T20:02:24+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-21T20:03:56+00:00"
-},
-{
-"id": "9a3b09771387",
-"t": "",
-"title": "Kraken aware of issue with Cyber-Optimism funding gateway, deposits may face delays; other methods operating normally",
-"url": "https://www.financialjuice.com/News/9863129/Kraken-aware-of-issue-with-Cyber-Optimism-funding-gateway-deposits-may-face-delays-other-methods-operating-normally.aspx",
-"pub": "2026-11-21T20:02:24+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-21T23:42:01+00:00"
 }
 ]
 }
