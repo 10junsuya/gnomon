@@ -342,6 +342,7 @@
 - 출처: [바이코 3분기 실적 발표 (SEC 8-K)](https://www.sec.gov/Archives/edgar/data/0000751978/000119312526425697/d153882dex991.htm) · [Motley Fool](https://www.fool.com/investing/2026/10/20/why-vicor-shares-are-soaring-today/) · [Zacks](https://www.zacks.com/stock/news/3013064/vicor-corporation-shares-gain-45-on-strong-q3-earnings-growth) · 공식 여부: 공식(실적) / 보도(예상치·콜 전망)
 - 확신도: 높음 (실적은 8-K 표 숫자 / 다음 분기 전망은 매체 정리)
 - 참고: 남은 칸 없는 앱 종목(ETF 제외): SATS(ECHO)·IREN·NXE·DNN.
+- 참고: 앱 다시 게시함(16:1x KST, 버전 278). 지난 게시와 같게 게시용 복사본에서만 CSP meta 한 줄을 뺐어요(저장소 파일은 그대로).
 
 ### T-20261123-1553-2 · 반영 · V-20261123-1541-2 3번에 대해 — INFQ 「시장은 이렇게 봤어요」·TTMI 출처
 - 시각: 2026-11-23 16:1x KST
