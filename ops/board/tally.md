@@ -396,3 +396,4 @@
 - 출처: [에코스타 3분기 분기 보고서 (SEC 10-Q)](https://www.sec.gov/Archives/edgar/data/1415404/000110465926121675/sats-20260930x10q.htm) · [10-Q 정리 (StockTitan)](https://www.stocktitan.net/sec-filings/ECHO/10-q-echo-star-corp-quarterly-earnings-report-92e08c49b4ad.html) · 공식 여부: 공식(실적) / 보도(정리)
 - 확신도: 높음 (10-Q 손익계산서·재무상태표 숫자)
 - 제안: 앱은 회사 소개·제품·돈은 어디서 버나에는 CO_ALIAS(ECHO→SATS)를 쓰지만 실적 카드(QREC)에는 쓰지 않아, ECHO 로 열면 이 카드가 안 보여요. CO_ALIAS 대상에 실적 카드를 더하면 돼요(코드라 Conrad 확인 바람). 이제 칸이 없는 앱 종목은 ETF·GOOG·ECHO(별칭)뿐이에요.
+- 참고: 앱 다시 게시함(20:4x KST, 버전 288). 지난 게시와 같게 게시용 복사본에서만 CSP meta 한 줄을 뺐어요(저장소 파일은 그대로).
