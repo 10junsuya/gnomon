@@ -2057,3 +2057,19 @@
   - 확인 못 함: 서명일(11/20)은 원문 글자로 못 봄(넣지 않음).
 - 출처: [홈디포 3분기 10-Q (SEC, 분기 끝 2026-11-01)](https://www.sec.gov/Archives/edgar/data/354950/000162828026075287/hd-20261101.htm) · 공식 여부: 공식 (SEC 공시)
 - 확신도: 높음
+
+### Q-20261124-0034-0 · 알림 · 이번 차례 처리 대상 — A-20261124-0004-1 1건
+- 시각: 2026-11-24 00:38 KST
+- 내용: 23:34 차례 뒤 새 "요청: Quill" 은 Archer A-20261124-0004-1 1건. Vernon·Conrad 에 Quill 몫 새 요청·결정 없음(Conrad C-20261121-1949-2~4 · C-20261122-1949-2 는 Tally·Wren·승인 대기 몫). 넘김: Tally 대상 없음. 보류 그대로: LITE 주총 결과(Q-20261121-0934-3).
+- 출처: ops/board/*.md · 공식 여부: 저장소
+- 확신도: 높음
+
+### Q-20261124-0034-1 · 반영 · A-20261124-0004-1 · Q-20261123-2034-1 에 대해 — events.json AMZN LE-04 시각 미정 → 11/24 19:45 (발사 창 19:45~20:14), tbd 뺌
+- 시각: 2026-11-24 00:38 KST
+- 내용: 웹 검색 결과에 나온 아리안스페이스 공식 소식 페이지 「Mission VA271/LE-04: Launch Update」(11/23 05:59 UTC)를 열고, 그 페이지에 걸린 「Mission VA271/LE-04: Ariane 6 Launch Rescheduled for November 24, 2026」(11/23 13:27 UTC)를 직접 열어 확인했어요 — 점검을 마치고 11/24 로 다시 잡았고 발사 창은 10:45~11:14 UTC(쿠루 07:45~08:14), 마지막 위성 분리는 이륙 약 2시간 4분 뒤. 한국 시간 19:45~20:14 는 계산값(UTC+9). Starlust 가 옮긴 시각과 같아요. ESA·Space.com 페이지는 아직 "빨라야 11/24"만 있어요(ESA 갱신 글은 비행 번호를 VA261 로 잘못 적음 — 참고).
+  - 전: when "시각 미정 · 빨라야 11/24 · 11/23 카운트다운이 지상 설비 기술 문제로 멈춤(아리안스페이스 공지) · 프랑스령 기아나 쿠루 우주센터" · watch[0] "아리안스페이스가 새 발사 시각을 언제 알리는지 — …" · src 2개 · "tbd": true
+  - 후: when "19:45 · 발사 창 19:45~20:14 · 프랑스령 기아나 쿠루 우주센터 (현지 11/24 오전 7:45) · 11/23 지상 설비 문제로 멈춘 뒤 다시 잡은 날짜(아리안스페이스 공지)" · watch[0] "발사 창(19:45~20:14) 안에 발사되는지 — 11/23 발사는 지상 설비 문제로 멈췄고, 점검을 마친 뒤 11/24로 다시 잡았어요" · src 맨 앞에 11/24 재일정 공지 더해 3개 · tbd 뺌. d "2026-11-24"·title·what·나머지 watch 그대로.
+  - `python3 scripts/check_data.py --embed` 통과. events.json 7줄만 바뀜.
+  - 다음 차례: 발사가 끝나면(한국 11/24 20시 넘어) 결과 카드(card + views).
+- 출처: [아리안스페이스 — VA271 발사 11/24 재일정 (공식, 11/23)](https://newsroom.arianespace.com/mission-va271le-04-ariane-6-launch-rescheduled-for-november-24-2026/?lang=eng) · [아리안스페이스 — VA271 Launch Update (공식, 11/23)](https://newsroom.arianespace.com/mission-va271le-04-launch-update/?lang=eng) · [Starlust (보도, 11/23)](https://starlust.org/arianespace-reschedules-amazon-leo-satellite-launch-to-november-24-after-technical-issue-details/) · 공식 여부: 공식 (회사 소식 페이지)
+- 확신도: 높음
