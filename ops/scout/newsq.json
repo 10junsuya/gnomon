@@ -1,6 +1,6 @@
 {
-"updated_kst": "2026-11-23 17:16",
-"rot": 86,
+"updated_kst": "2026-11-23 17:44",
+"rot": 146,
 "how": "Scout(프로그램)이 10분마다 모은 기사 제목·링크와 공시예요. Wren이 공식 출처로 확인한 뒤 회사 화면에 한국어로 반영해요. 본문은 받지 않아요.",
 "sources": {
 "Yahoo Finance": "120종목 확인 · 실패 0",
@@ -8,14 +8,34 @@
 "PR Newswire": "0건",
 "Business Wire": "0건",
 "CNBC": "63건",
-"Bloomberg": "30건",
+"Bloomberg": "33건",
 "WSJ": "61건",
-"Reuters": "34건",
+"Reuters": "32건",
 "FinancialJuice": "100건",
 "SEC EDGAR": "실패 HTTPError",
 "Fox Business": "50건"
 },
 "items": [
+{
+"id": "26ef70b26172",
+"t": "NVDA",
+"title": "Why Is HPE Stock Up 6% Overnight?",
+"url": "https://stocktwits.com/news-articles/markets/equity/why-is-hpe-stock-up-6-overnight/cNbYHhnR9SN",
+"pub": "2026-11-23T08:30:37+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-23T08:44:10+00:00"
+},
+{
+"id": "ee14d7cd61ea",
+"t": "XEL",
+"title": "Utility Spending Plans Grow as Large New Power Customers Sign On",
+"url": "https://finance.yahoo.com/energy/articles/utility-spending-plans-grow-large-081800094.html",
+"pub": "2026-11-23T08:18:00+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-23T08:44:10+00:00"
+},
 {
 "id": "11fad7e773d5",
 "t": "AAPL",
@@ -25,6 +45,16 @@
 "src": "Yahoo Finance",
 "kind": "news",
 "seen": "2026-11-23T08:16:40+00:00"
+},
+{
+"id": "09b1999779ef",
+"t": "WMT",
+"title": "What Does Walmart (WMT) Nearly Tripling 30 Minute Delivery Volume Mean?",
+"url": "https://finance.yahoo.com/markets/stocks/articles/does-walmart-wmt-nearly-tripling-080658672.html",
+"pub": "2026-11-23T08:06:58+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-23T08:44:10+00:00"
 },
 {
 "id": "2d84533fc0c9",
@@ -115,6 +145,16 @@
 "src": "Yahoo Finance",
 "kind": "news",
 "seen": "2026-11-23T07:44:28+00:00"
+},
+{
+"id": "370977d3c84e",
+"t": "INSM",
+"title": "Insmed's Stock Rises 21% on Reports of Buyout Interest From Sanofi",
+"url": "https://finance.yahoo.com/healthcare/articles/insmeds-stock-rises-21-reports-071300065.html",
+"pub": "2026-11-23T07:13:00+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-23T08:44:10+00:00"
 },
 {
 "id": "7645bc9af036",
@@ -325,6 +365,16 @@
 "src": "Yahoo Finance",
 "kind": "news",
 "seen": "2026-11-23T05:29:50+00:00"
+},
+{
+"id": "f36515d41ec9",
+"t": "SPCX",
+"title": "Musk Says the Moon and Mercury Will Be Turned Into “Computronium.” SpaceX’s Space-Compute Bet Is Bigger Than It Looks",
+"url": "https://www.tikr.com/blog/musk-says-the-moon-and-mercury-will-be-turned-into-computronium-spacexs-space-compute-bet-is-bigger-than-it-looks",
+"pub": "2026-11-23T05:08:27+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-23T08:44:10+00:00"
 },
 {
 "id": "5fd0425d55ef",
@@ -7967,54 +8017,104 @@
 "seen": "2026-11-20T23:44:15+00:00"
 },
 {
-"id": "3544646288a2",
-"t": "TSLA",
-"title": "3 EV Stocks With Earnings Growth Up To 38%",
-"url": "https://finance.yahoo.com/markets/stocks/articles/3-ev-stocks-earnings-growth-231417251.html?.tsrc=rss",
-"pub": "2026-11-20T23:14:17+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-20T23:44:15+00:00"
+"id": "85d3d80f1ac9",
+"t": "",
+"title": "German Business Activity Gauge Surges to Highest Since 2022",
+"url": "https://www.bloomberg.com/news/articles/2026-11-23/german-business-activity-gauge-surges-to-highest-since-2022",
+"pub": "2026-11-23T08:30:00+00:00",
+"src": "Bloomberg",
+"kind": "market",
+"seen": "2026-11-23T08:44:10+00:00"
 },
 {
-"id": "d163431d2ca0",
-"t": "WMT",
-"title": "Walmart (WMT) Q3 Results Meet Sales Growth But Profitability Cools",
-"url": "https://finance.yahoo.com/markets/stocks/articles/walmart-wmt-q3-results-meet-231353428.html?.tsrc=rss",
-"pub": "2026-11-20T23:13:53+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-20T23:44:15+00:00"
+"id": "bc779068a760",
+"t": "",
+"title": "German Composite PMI Flash Actual 55 (Forecast 53.2, Previous 53.4)",
+"url": "https://www.financialjuice.com/News/9864017/German-Composite-PMI-Flash-Actual-55-Forecast-532-Previous-534.aspx?xy=rss",
+"pub": "2026-11-23T08:30:00+00:00",
+"src": "FinancialJuice",
+"kind": "market",
+"seen": "2026-11-23T08:44:10+00:00"
 },
 {
-"id": "e51b17bc9850",
-"t": "NVDA",
-"title": "Why Globant Stock Flew Higher on a Lousy Friday for the Market",
-"url": "https://www.fool.com/investing/2026/11/20/why-globant-stock-flew-higher-on-a-lousy-friday-for-the-market/?.tsrc=rss",
-"pub": "2026-11-20T23:08:53+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-20T23:44:15+00:00"
+"id": "741944704b4a",
+"t": "",
+"title": "German Service PMI Flash Actual 54 (Forecast 52.3, Previous 52.5)",
+"url": "https://www.financialjuice.com/News/9864016/German-Service-PMI-Flash-Actual-54-Forecast-523-Previous-525.aspx?xy=rss",
+"pub": "2026-11-23T08:30:00+00:00",
+"src": "FinancialJuice",
+"kind": "market",
+"seen": "2026-11-23T08:44:10+00:00"
 },
 {
-"id": "c1abc93ef328",
-"t": "MU",
-"title": "She Moves $250,000 of Her 401(k) Into a Nasdaq-100 Fund at 60 to Own Anthropic From Its Debut Thursday. Nasdaq’s Fast-Entry Rule Keeps Her Fund From Buying Until Dec. 21, After Any First-Month Pop",
-"url": "https://247wallst.com/personal-finance/2026/11/20/she-moves-250000-of-her-401k-into-a-nasdaq-100-fund-at-60-to-own-anthropic-from-its-debut-thursday-nasdaqs-fast-entry-rule-keeps-her-fund-from-buying-until-dec-21-after-any-first-month-pop/?.tsrc=rss",
-"pub": "2026-11-20T23:02:13+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-20T23:14:14+00:00"
+"id": "f833175c03a1",
+"t": "",
+"title": "German Manufacturing PMI Flash Actual 55 (Forecast 54.2, Previous 54.2)",
+"url": "https://www.financialjuice.com/News/9864015/German-Manufacturing-PMI-Flash-Actual-55-Forecast-542-Previous-542.aspx?xy=rss",
+"pub": "2026-11-23T08:30:00+00:00",
+"src": "FinancialJuice",
+"kind": "market",
+"seen": "2026-11-23T08:44:10+00:00"
 },
 {
-"id": "162217b04277",
-"t": "MOGA",
-"title": "Moog Inc (MOG.A) (Q4 2026) Earnings Call Highlights: Record Fiscal 2026 Results and a Cautious ...",
-"url": "https://finance.yahoo.com/markets/stocks/articles/moog-inc-mog-q4-2026-230050624.html?.tsrc=rss",
-"pub": "2026-11-20T23:00:50+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-20T23:44:15+00:00"
+"id": "8940422c30a4",
+"t": "",
+"title": "European stocks recover after steep technology-led selloff - Reuters",
+"url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNdDFuaFRyaktlcVA5TVR0eXF2QlktZ3ZVU3JkbzZycU8zTU90WEhFSlhuVTc5RTRCdVctYVpuQzZhdUJnN1BlZWdOYkZEQXg5alR6d1BDVWEwMEszRTlRUFB1aG9ueFhHWmZmbkI1dmFSSmNZMVF6VzlhZFpBOG5BaVJ0QlprZnRVRmVIZ2djcXFzM3VrU2VQa3FQelVLU2Qzd2MwT19jTUdkRnVWYmc?oc=5",
+"pub": "2026-11-23T08:29:18+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-23T08:44:10+00:00"
+},
+{
+"id": "210b2a3d90df",
+"t": "",
+"title": "India’s New Data Series to Aid RBI Policy, Gupta Says",
+"url": "https://www.bloomberg.com/news/articles/2026-11-23/india-s-new-data-series-to-improve-rbi-forecasts-gupta-says",
+"pub": "2026-11-23T08:29:05+00:00",
+"src": "Bloomberg",
+"kind": "market",
+"seen": "2026-11-23T08:44:10+00:00"
+},
+{
+"id": "6220c9c84d7b",
+"t": "",
+"title": "Capita Plunges 57% as CEO Quits Over Botched Pensions Contract",
+"url": "https://www.bloomberg.com/news/articles/2026-11-23/capita-plunges-57-as-ceo-quits-over-botched-pensions-contract",
+"pub": "2026-11-23T08:22:21+00:00",
+"src": "Bloomberg",
+"kind": "market",
+"seen": "2026-11-23T08:44:10+00:00"
+},
+{
+"id": "5dd46bd895a6",
+"t": "",
+"title": "German Bund Yields Rise, French Yields Fall Ahead of PMI Data",
+"url": "https://www.wsj.com/articles/german-bund-yields-rise-french-yields-fall-ahead-of-pmi-data-c4d45e93",
+"pub": "2026-11-23T08:21:00+00:00",
+"src": "WSJ",
+"kind": "market",
+"seen": "2026-11-23T08:44:10+00:00"
+},
+{
+"id": "eff65aa03107",
+"t": "",
+"title": "European TTF Gas Climbs on Colder Weather, Low Storage",
+"url": "https://www.wsj.com/finance/commodities-futures/european-ttf-gas-climbs-on-colder-weather-low-storage-c3b99a8a",
+"pub": "2026-11-23T08:18:00+00:00",
+"src": "WSJ",
+"kind": "market",
+"seen": "2026-11-23T08:44:10+00:00"
+},
+{
+"id": "ddc71e1240e3",
+"t": "",
+"title": "French Comp Flash PMI Actual 46.2 (Forecast 47.9, Previous 46.6)",
+"url": "https://www.financialjuice.com/News/9863997/French-Comp-Flash-PMI-Actual-462-Forecast-479-Previous-466.aspx?xy=rss",
+"pub": "2026-11-23T08:15:09+00:00",
+"src": "FinancialJuice",
+"kind": "market",
+"seen": "2026-11-23T08:44:10+00:00"
 },
 {
 "id": "e78645ce303b",
@@ -8035,6 +8135,16 @@
 "src": "FinancialJuice",
 "kind": "market",
 "seen": "2026-11-23T08:15:05+00:00"
+},
+{
+"id": "66d189e460b1",
+"t": "",
+"title": "France’s Private Sector Weakens on Election, Budget Concerns",
+"url": "https://www.bloomberg.com/news/articles/2026-11-23/france-s-private-sector-weakens-on-election-budget-concerns",
+"pub": "2026-11-23T08:15:00+00:00",
+"src": "Bloomberg",
+"kind": "market",
+"seen": "2026-11-23T08:44:10+00:00"
 },
 {
 "id": "8b616bf10533",
@@ -8075,6 +8185,16 @@
 "src": "Bloomberg",
 "kind": "market",
 "seen": "2026-11-23T07:44:28+00:00"
+},
+{
+"id": "939a00986c56",
+"t": "",
+"title": "Vitol Unit Sets Timeline for $2.3 Billion Durban LNG Power Plant",
+"url": "https://www.bloomberg.com/news/articles/2026-11-23/vitol-unit-sets-timeline-for-2-3-billion-durban-lng-power-plant",
+"pub": "2026-11-23T07:33:22+00:00",
+"src": "Bloomberg",
+"kind": "market",
+"seen": "2026-11-23T08:44:10+00:00"
 },
 {
 "id": "77a6e1ea1a39",
@@ -8175,6 +8295,16 @@
 "src": "FinancialJuice",
 "kind": "market",
 "seen": "2026-11-23T07:44:28+00:00"
+},
+{
+"id": "e2ca1dbda21b",
+"t": "",
+"title": "UK's Crest Nicholson warns of wider loss on weak demand, fresh writedowns - Reuters",
+"url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPcjNSUXIyWlZTMDluTHM3WXVWRGF2MVFqbk1rTlRiaWtNUnZpVm1UaU5SUnQ3dFhUMU9PYUlOVGFlSk8wLXVKM2V4dGhSMmFkYXpNZVYtVEN3bGt1WEQ4RXg4U1FQeV9UX1NJM3d6U2x4MUN3OGJJeXlpNjFscU5WR2dORkxPSzBOY1AyaHBmNk5HV1BjdG1rN3dYRmJkakk4TnQ4bTR1MXhrWGhhVUd0UkQtWHZwZEpHTE9v?oc=5",
+"pub": "2026-11-23T07:24:00+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-23T08:44:10+00:00"
 },
 {
 "id": "55fecad7c433",
@@ -8647,6 +8777,16 @@
 "seen": "2026-11-23T03:14:26+00:00"
 },
 {
+"id": "e65c87160b90",
+"t": "",
+"title": "3024.CHJ - | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9KellWZ0FBX2otWDZCRW9LS1NaUEg4MmhxdEFNVGlGNUJmdDBITm1yVFBJcVgwWk90OTUwVUtXbzM0dFJoODA2SVRGNnBFQkhkcEs4dGxjc2RCSWVOTUxIQjF4b19pN2k5Wkp2MERjR2pydjh1cnhSQ2JDUQ?oc=5",
+"pub": "2026-11-23T02:56:37+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-23T08:44:10+00:00"
+},
+{
 "id": "de22d72241fc",
 "t": "",
 "title": "HaiXin Foods Co Ltd (002702.SZ) | Stock Price & Latest News - Reuters",
@@ -9095,6 +9235,16 @@
 "src": "Reuters",
 "kind": "market",
 "seen": "2026-11-23T04:13:56+00:00"
+},
+{
+"id": "388f53cb585b",
+"t": "",
+"title": "Insight Digital Partners II (DYOR.O) | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBNWkxpdURHaGRtUFJSaXZ2RnVteW5WY2lMNGpfaWQ1dTdDWVdoSDE1MHoyc0JJQlUtdXd0VE9MQl8zblNsaWtiUWhuRGY3WS1RN19pbXBkYmNEOU01YWhGX2NmVlg1OHc?oc=5",
+"pub": "2026-11-23T00:50:03+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-23T08:44:10+00:00"
 },
 {
 "id": "28140672c5b5",
@@ -10865,156 +11015,6 @@
 "src": "Reuters",
 "kind": "market",
 "seen": "2026-11-22T17:21:43+00:00"
-},
-{
-"id": "3fd2ebfe9950",
-"t": "",
-"title": "7414.JSF - | Stock Price & Latest News - Reuters",
-"url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQZEZhUTZrSHVNS3FiTl8yX1pmVDNnZEczLWxqTXhfdFBmcnUwRnNHcjdnUlR2MTljSVVVRExPcV9hRzJHRS1vSGgzOEtFdzVBSTA1NnZMY3lWX2VhdnBHMWtFTmtWWktQNmIzZE9VQ0p3bUctc0NGMWptNUFDOWlLYjFYUU5DOFFfNjU4NmRJQnROdw?oc=5",
-"pub": "2026-11-22T12:50:20+00:00",
-"src": "Reuters",
-"kind": "market",
-"seen": "2026-11-22T15:45:03+00:00"
-},
-{
-"id": "5a3ba6ae7b31",
-"t": "",
-"title": "Trump’s Asia Trip Leaves Key Issues Unresolved",
-"url": "https://www.bloomberg.com/news/videos/2026-11-22/trump-s-asia-trip-leaves-key-issues-unresolved-video",
-"pub": "2026-11-22T12:39:41+00:00",
-"src": "Bloomberg",
-"kind": "market",
-"seen": "2026-11-22T12:44:29+00:00"
-},
-{
-"id": "284492e2c4e3",
-"t": "",
-"title": "Taiwan Mulls Lowering Margin Requirement to Support Stock Market",
-"url": "https://www.bloomberg.com/news/articles/2026-11-22/taiwan-mulls-lowering-margin-requirement-to-support-stock-market",
-"pub": "2026-11-22T12:35:15+00:00",
-"src": "Bloomberg",
-"kind": "market",
-"seen": "2026-11-22T13:06:08+00:00"
-},
-{
-"id": "a4198fe3f1f6",
-"t": "",
-"title": "US Power Advantage Over China Shrinks Further on Iran War Effect",
-"url": "https://www.bloomberg.com/news/articles/2026-11-22/us-power-advantage-over-china-shrinks-further-on-iran-war-effect",
-"pub": "2026-11-22T11:30:00+00:00",
-"src": "Bloomberg",
-"kind": "market",
-"seen": "2026-11-22T12:07:56+00:00"
-},
-{
-"id": "e4c9ff8bbfd8",
-"t": "",
-"title": "China Lowers Margin Requirement to 80% to Boost Stock Liquidity",
-"url": "https://www.bloomberg.com/news/articles/2026-11-22/china-lowers-margin-requirement-to-80-to-boost-stock-liquidity",
-"pub": "2026-11-22T11:06:19+00:00",
-"src": "Bloomberg",
-"kind": "market",
-"seen": "2026-11-22T11:14:06+00:00"
-},
-{
-"id": "bbc486d67960",
-"t": "",
-"title": "From Squeezes to Meltdown, a Week of Mayhem Rocks Metals Markets",
-"url": "https://www.bloomberg.com/news/articles/2026-11-22/from-squeezes-to-meltdown-a-week-of-mayhem-rocks-metals-markets",
-"pub": "2026-11-22T11:00:00+00:00",
-"src": "Bloomberg",
-"kind": "market",
-"seen": "2026-11-22T11:14:06+00:00"
-},
-{
-"id": "70022f3dc6fe",
-"t": "",
-"title": "Melar Acquisition Corp. I (EVRL.OQ) | Stock Price & Latest News - Reuters",
-"url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE4ydzRFampnQjZ0emdQbUhBMlNnYmdfMGJ5SzRIWGZKWmVjX3lSbUtQclJKR011S3N2NmtYMld0M3FRcldoZlFydllIV1FhckxQdDM4ZTEtUHVZcjdxeVZJ?oc=5",
-"pub": "2026-11-22T10:51:44+00:00",
-"src": "Reuters",
-"kind": "market",
-"seen": "2026-11-22T20:44:25+00:00"
-},
-{
-"id": "730625e1b8a6",
-"t": "",
-"title": "Has the AI Bubble Already Burst?",
-"url": "https://www.wsj.com/finance/stocks/has-the-ai-bubble-already-burst-2f1dcca8?mod=rss_markets_main",
-"pub": "2026-11-22T10:30:00+00:00",
-"src": "WSJ",
-"kind": "market",
-"seen": "2026-11-22T10:44:08+00:00"
-},
-{
-"id": "c4219e53773a",
-"t": "",
-"title": "James Bond’s Bare Wrist Sets Off Watch Industry War",
-"url": "https://www.wsj.com/business/retail/james-bonds-bare-wrist-sets-off-watch-industry-war-b6b179a9?mod=rss_markets_main",
-"pub": "2026-11-22T10:30:00+00:00",
-"src": "WSJ",
-"kind": "market",
-"seen": "2026-11-22T10:44:08+00:00"
-},
-{
-"id": "3bbf54915457",
-"t": "",
-"title": "Anthropic, PBC (ANT.O) | Stock Price & Latest News - Reuters",
-"url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1sMzJxaDFtcTdDUE1rWGVFZFVhMjJhX0RVSko2RlMtejdUdDlMY2MtZXdLYUh3aVc0WFBSMnlZR3hLc0MwVjNRUG00Q1Nxd1loR055XzZPZ0tvZk0t?oc=5",
-"pub": "2026-11-22T10:26:27+00:00",
-"src": "Reuters",
-"kind": "market",
-"seen": "2026-11-23T00:48:07+00:00"
-},
-{
-"id": "6352afdc7f29",
-"t": "",
-"title": "iShares MSCI Japan ETF (EWJ.N) | Stock Price & Latest News - Reuters",
-"url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBnTV9rSGR6YWtSVUJva1hpZG02cXF6bGg4Yjd3UzNCWm04Q3NJemJwaEw1RmV2OTZ5RERjdW1lVDNRb09OVURRMUdleWNMV0xXSG56bmRCbHNmMVpYSWR6OXM3eW43bldMZjlJOQ?oc=5",
-"pub": "2026-11-22T10:24:43+00:00",
-"src": "Reuters",
-"kind": "market",
-"seen": "2026-11-22T21:44:25+00:00"
-},
-{
-"id": "95fdff1faa06",
-"t": "",
-"title": "S. Korea Rolls Out Phased Measures to Stabilize Volatile Markets",
-"url": "https://www.bloomberg.com/news/articles/2026-11-22/s-korea-rolls-out-phased-measures-to-stabilize-volatile-markets",
-"pub": "2026-11-22T10:16:45+00:00",
-"src": "Bloomberg",
-"kind": "market",
-"seen": "2026-11-22T10:30:29+00:00"
-},
-{
-"id": "33dfe2e1ed45",
-"t": "",
-"title": "UBS Capital Fight Enters Final Round as Lawmakers Resume Debate",
-"url": "https://www.bloomberg.com/news/articles/2026-11-22/ubs-capital-fight-enters-final-round-as-lawmakers-resume-debate",
-"pub": "2026-11-22T10:00:00+00:00",
-"src": "Bloomberg",
-"kind": "market",
-"seen": "2026-11-22T10:14:19+00:00"
-},
-{
-"id": "281537550430",
-"t": "",
-"title": "Boomers Are Rewriting the Playbook for Old Age. It Doesn’t Include Winding Down.",
-"url": "https://www.wsj.com/personal-finance/retirement/baby-boomers-aging-eec29458?mod=rss_markets_main",
-"pub": "2026-11-22T10:00:00+00:00",
-"src": "WSJ",
-"kind": "market",
-"seen": "2026-11-22T17:44:32+00:00"
-},
-{
-"id": "7d69f28eaa91",
-"t": "",
-"title": "iShares MSCI Japan ETF (EWJ.N) | Stock Price & Latest News - Reuters",
-"url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4yZTdNX2xjeTZISndHMG9zb2d2UFJZU1BYT19HaWoxamhJcFFxRGFMcmlqSlpyVnNDNW1YVzJ6WW82VC12cF8wakxQaE05ZmlGU2FTS3E2TzBwcEh3UzlpVU83dFp2U2Rienc?oc=5",
-"pub": "2026-11-22T09:52:56+00:00",
-"src": "Reuters",
-"kind": "market",
-"seen": "2026-11-22T12:14:51+00:00"
 }
 ]
 }
