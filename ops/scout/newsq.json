@@ -1,18 +1,38 @@
 {
-"updated_kst": "2026-11-23 13:43",
-"rot": 23,
+"updated_kst": "2026-11-23 14:13",
+"rot": 83,
 "how": "Scout(프로그램)이 10분마다 모은 기사 제목·링크와 공시예요. Wren이 공식 출처로 확인한 뒤 회사 화면에 한국어로 반영해요. 본문은 받지 않아요.",
 "sources": {
 "Yahoo Finance": "120종목 확인 · 실패 0",
 "CNBC": "63건",
-"Bloomberg": "28건",
+"Bloomberg": "29건",
 "WSJ": "61건",
-"Reuters": "36건",
+"Reuters": "34건",
 "FinancialJuice": "100건",
 "SEC EDGAR": "실패 HTTPError",
 "Fox Business": "50건"
 },
 "items": [
+{
+"id": "5fd0425d55ef",
+"t": "NVDA",
+"title": "Jim Cramer Says AI Selloff Is Not 2000 as S&P 500 Enters Correction, Not Crash",
+"url": "https://beincrypto.com/cramer-says-ai-selloff-not-2000/?.tsrc=rss",
+"pub": "2026-11-23T05:02:00+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-23T05:13:49+00:00"
+},
+{
+"id": "e6e349ca1329",
+"t": "TSLA",
+"title": "Musk Says Tesla’s Real-World AI Will Get Smarter by “About an Order of Magnitude per Year”",
+"url": "https://www.tikr.com/blog/musk-says-teslas-real-world-ai-will-get-smarter-by-about-an-order-of-magnitude-per-year?ref=yahoofinance&tlnk=yf-261122-c3v9325h&.tsrc=rss",
+"pub": "2026-11-23T04:50:01+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-23T05:13:49+00:00"
+},
 {
 "id": "cfb654cd6de5",
 "t": "PANW",
@@ -24,6 +44,16 @@
 "seen": "2026-11-23T04:43:54+00:00"
 },
 {
+"id": "c9c6a01541f1",
+"t": "NEE",
+"title": "NextEra Energy or Franklin Templeton: I Can Only Pick One Dividend Stock for the Next 20 Years. Here’s Mine",
+"url": "https://www.tikr.com/blog/nextera-energy-or-franklin-templeton-i-can-only-pick-one-dividend-stock-for-the-next-20-years-heres-mine?ref=yahoofinancedividend&tlnk=yf-261123-3r2grpvc&.tsrc=rss",
+"pub": "2026-11-23T04:32:26+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-23T05:13:49+00:00"
+},
+{
 "id": "a447ccedaca9",
 "t": "NVDA",
 "title": "Trump urges Nvidia board to rehire Jensen Huang",
@@ -32,6 +62,16 @@
 "src": "Yahoo Finance",
 "kind": "news",
 "seen": "2026-11-23T04:43:54+00:00"
+},
+{
+"id": "847106058361",
+"t": "SKHY",
+"title": "Asian shares mostly fall after S&P 500 drops 3.7% into a correction",
+"url": "https://finance.yahoo.com/markets/world-indices/articles/asian-shares-mostly-fall-p-042312132.html?.tsrc=rss",
+"pub": "2026-11-23T04:23:12+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-23T05:13:49+00:00"
 },
 {
 "id": "f3adf0456735",
@@ -7974,44 +8014,44 @@
 "seen": "2026-11-20T22:14:08+00:00"
 },
 {
-"id": "f0f79b196c98",
-"t": "CRWD",
-"title": "CrowdStrike Said in Talks to Buy Cybersecurity Firm Zscaler",
-"url": "https://finance.yahoo.com/video/crowdstrike-said-talks-buy-cybersecurity-215606920.html?.tsrc=rss",
-"pub": "2026-11-20T21:56:06+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-20T23:14:14+00:00"
+"id": "d795f0e71a23",
+"t": "",
+"title": "Al Moammar: contract for provision of Microsoft IT services",
+"url": "https://www.financialjuice.com/News/9863792/Al-Moammar-contract-for-provision-of-Microsoft-IT-services.aspx?xy=rss",
+"pub": "2026-11-23T05:00:56+00:00",
+"src": "FinancialJuice",
+"kind": "market",
+"seen": "2026-11-23T05:13:49+00:00"
 },
 {
-"id": "fdc5cb34ede4",
-"t": "NVDA",
-"title": "Stock Market Today, Nov. 20: Nvidia's $2.5 Trillion Rout Deepens as SEC Accounting Probe Adds to Wall Street's AI Sell-Off",
-"url": "https://www.fool.com/coverage/stock-market-today/2026/11/20/stock-market-today-nov-20-nvidia-s-usd2-5-trillion-rout-deepens-as-sec-accounting-probe-adds-to-wall-street-s-ai-sell-off/?.tsrc=rss",
-"pub": "2026-11-20T21:55:02+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-20T22:14:08+00:00"
+"id": "525ea1830cba",
+"t": "",
+"title": "Singapore Core Inflation Eases to 1.5% as Electricity Rates Cut",
+"url": "https://www.bloomberg.com/news/articles/2026-11-23/singapore-core-inflation-eases-to-1-5-as-electricity-rates-cut",
+"pub": "2026-11-23T05:00:00+00:00",
+"src": "Bloomberg",
+"kind": "market",
+"seen": "2026-11-23T05:13:49+00:00"
 },
 {
-"id": "c6c58c32291a",
-"t": "CRWD",
-"title": "CrowdStrike weighs Zscaler buyout in potential cybersecurity mega-deal - Bloomberg",
-"url": "https://finance.yahoo.com/markets/stocks/articles/crowdstrike-weighs-zscaler-buyout-potential-215316433.html?.tsrc=rss",
-"pub": "2026-11-20T21:53:16+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-20T22:14:08+00:00"
+"id": "f60e470e18a6",
+"t": "",
+"title": "Asian Regulators Step Up Efforts to Calm AI-Driven Market Turmoil",
+"url": "https://www.wsj.com/finance/stocks/asian-regulators-step-up-efforts-to-calm-ai-driven-market-turmoil-95ea6cf8?mod=rss_markets_main",
+"pub": "2026-11-23T04:55:00+00:00",
+"src": "WSJ",
+"kind": "market",
+"seen": "2026-11-23T05:13:49+00:00"
 },
 {
-"id": "11fe10f3809b",
-"t": "NVDA",
-"title": "Take-Two Interactive vs. Anthropic: Which Market-Moving Stock Is the Better Buy?",
-"url": "https://www.fool.com/investing/2026/11/20/take-two-interactive-vs-anthropic-which-market-moving-stock-is-the-better-buy/?.tsrc=rss",
-"pub": "2026-11-20T21:53:01+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-20T22:14:08+00:00"
+"id": "f00687a302fb",
+"t": "",
+"title": "American Airlines Group Inc. (AAL.O) | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBQV0VRQ2Z5V3VjOW5OZzFtdGZfTExsTFJna2RkUXVKNXVTS190eUMxYWticklLcnQ1dURkb3hpYm5TN09FdUhzekZZNE1Kd21GajVRWTZTYXl4SmtV?oc=5",
+"pub": "2026-11-23T04:40:01+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-23T05:13:49+00:00"
 },
 {
 "id": "ae279519bac0",
@@ -8184,6 +8224,16 @@
 "seen": "2026-11-23T02:02:50+00:00"
 },
 {
+"id": "edc791cee659",
+"t": "",
+"title": "O4403O.T - | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOSUttTmxqZHVITDNTb1pCZkJzZXdQZE1XR1BRdHRZWjVyVmRHaWZFZVRuekpHeDM3THItcy14bDFJNlJIbjlCWmZhdTNuS2FqcTdzLTFkX0JmLU1GQ0dJdjkxQ1p4T211eVFTRmVVWnlmd0x3UW1PS3FSTHdUZmplYXZuX1Q?oc=5",
+"pub": "2026-11-23T01:39:53+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-23T05:13:49+00:00"
+},
+{
 "id": "7082953492c0",
 "t": "",
 "title": "3513.JSFx - | Stock Price & Latest News - Reuters",
@@ -8294,6 +8344,16 @@
 "seen": "2026-11-23T02:44:11+00:00"
 },
 {
+"id": "e0309752f501",
+"t": "",
+"title": "1945.JNF - | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQNnV6RWQ3dVY1Mm80Z0lEVGZmNldzUVRtX1Nta3pxSXQwal9JVG9HZzg3VDFqamtuVXFQaHRRUmRDckJraVRpZTJEUGlVSURoUDJGREpYY215UWYzdlp0TkVSVUdZckNEZkJiTDVNU3dyY1RYZ0FmS2Z1eWtpMnFqSjJIUjIzcmpLdmNSWlBNWGphQQ?oc=5",
+"pub": "2026-11-23T00:58:33+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-23T05:13:49+00:00"
+},
+{
 "id": "8fcae0fb4449",
 "t": "",
 "title": "Gold Rises in Likely Technical Rebound",
@@ -8354,6 +8414,16 @@
 "seen": "2026-11-23T04:13:56+00:00"
 },
 {
+"id": "b33598f005f4",
+"t": "",
+"title": "2107.CHJ - | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOOWJLbk1qM0J3RWtGampIeEV4YnZYTDVTbzVZVmZxU0hNWVRZdWdOdkhxUVN1cUlZRy1XZ01YS1FHZ1cySmlxMzlBSHN0MHRxdXplZnRGZXdqa1B0dUhndkpCUmVVQ24ycDdmUWMzTlVYYTkwRV9Ud3FmV0FCdm84cmQwa0NQdlVIQjd0WW40Zzk?oc=5",
+"pub": "2026-11-23T00:51:30+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-23T05:13:49+00:00"
+},
+{
 "id": "5c0251f31e2e",
 "t": "",
 "title": "603926.SSh - | Stock Price & Latest News - Reuters",
@@ -8382,6 +8452,16 @@
 "src": "Reuters",
 "kind": "market",
 "seen": "2026-11-23T04:43:54+00:00"
+},
+{
+"id": "06768614ea97",
+"t": "",
+"title": "3482.J1 - | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPNTl4UWQ3QlRtb0MyaXJqMkZTZ0lpREdSRXpmcEsyV1g4a2Q5bVNGcXZoZUJlQjlrc0VVZkhqNnIxVHJOZkZ6NTZKUTQ0Nk5YUlRJMGNaT29vNXF2aDZxMEtNY01vTWFMNnFJX2MxWkpycUo0RGRVSTBnLUtjYzhqcmpxMA?oc=5",
+"pub": "2026-11-23T00:49:19+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-23T05:13:49+00:00"
 },
 {
 "id": "8d2298b41acb",
@@ -8782,6 +8862,16 @@
 "src": "Reuters",
 "kind": "market",
 "seen": "2026-11-23T02:44:11+00:00"
+},
+{
+"id": "a91eb89c2035",
+"t": "",
+"title": "Genelux Corp (GNLX.O) | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBEVExLaXFocnNzbDFVN3lxdHA3MGlZV1RfVkpHcXYzSm5MWkkwbmx0R3FBQUIzNmJWMUtJNzYwUERRYWdGWVB0MnlGUUF3RC02Qy1ZSzFQOTRPa0Z2bzYzblFVclhPcTg3UUlF?oc=5",
+"pub": "2026-11-22T18:46:24+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-23T05:13:49+00:00"
 },
 {
 "id": "ecd185816848",
@@ -9964,6 +10054,16 @@
 "seen": "2026-11-22T21:44:25+00:00"
 },
 {
+"id": "4bfe1978f1a6",
+"t": "",
+"title": "VNLYY.AX - | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPVklDLTVja0t4VnNvYkVITl9BaGxteXJMSmFxR0o0b0xnRk12N0hGY2M3Qi1YeUdqWUlTQVY1WXgtM1Uzd3k0ZDJrSlZycXR1NHl1TGFlSklPdFM3ZGF0QUFXb2NzSkdEMm44YlU4M2k1UExVVk9qUXp2UDg5bzFmeFdwNWNaQlhk?oc=5",
+"pub": "2026-11-22T12:53:50+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-23T05:13:49+00:00"
+},
+{
 "id": "bf206c8e5d5c",
 "t": "",
 "title": "Anthropic sought six-month limits barring some bankers from joining rivals including OpenAI and DeepSeek, people said",
@@ -10912,106 +11012,6 @@
 "src": "FinancialJuice",
 "kind": "market",
 "seen": "2026-11-21T23:42:01+00:00"
-},
-{
-"id": "96bd8cc1f2b3",
-"t": "",
-"title": "UK PM Burnham met Rob Jetten, prime minister of Netherlands, in Amsterdam: Downing Street spokesperson",
-"url": "https://www.financialjuice.com/News/9863160/UK-PM-Burnham-met-Rob-Jetten-prime-minister-of-Netherlands-in-Amsterdam-Downing-Street-spokesperson.aspx?xy=rss",
-"pub": "2026-11-21T22:16:48+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-21T22:16:35+00:00"
-},
-{
-"id": "38dd2792905c",
-"t": "",
-"title": "UK PM Burnham met Rob Jetten, prime minister of Netherlands, in Amsterdam: Downing Street spokesperson",
-"url": "https://www.financialjuice.com/News/9863160/UK-PM-Burnham-met-Rob-Jetten-prime-minister-of-Netherlands-in-Amsterdam-Downing-Street-spokesperson.aspx",
-"pub": "2026-11-21T22:16:48+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-21T23:42:01+00:00"
-},
-{
-"id": "a62c34825782",
-"t": "",
-"title": "Vertu Motors PLC (VTU.L) | Stock Price & Latest News - Reuters",
-"url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE52cnVxWWQ3R2FYNzBqRkNxcFY1NnpfUklvemt0N0ExVU1FX2QwbkkzZ3ZoMkVMQk1XYXNaaTJ2VnBQWjhpdElhYWMydXFzNHhyN054ZkdadE5sb1dfUVBPWmt3Vkk3VzgwZU40Ng?oc=5",
-"pub": "2026-11-21T21:34:06+00:00",
-"src": "Reuters",
-"kind": "market",
-"seen": "2026-11-22T03:43:59+00:00"
-},
-{
-"id": "d3134e0ff4d0",
-"t": "",
-"title": "Saudi-led coalition: intercepts and destroys missile launched by Yemen's Houthis toward western region",
-"url": "https://www.financialjuice.com/News/9863149/Saudi-led-coalition-intercepts-and-destroys-missile-launched-by-Yemens-Houthis-toward-western-region.aspx?xy=rss",
-"pub": "2026-11-21T21:28:16+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-21T21:31:18+00:00"
-},
-{
-"id": "c979ebcd2752",
-"t": "",
-"title": "Saudi-led coalition: intercepts and destroys missile launched by Yemen's Houthis toward western region",
-"url": "https://www.financialjuice.com/News/9863149/Saudi-led-coalition-intercepts-and-destroys-missile-launched-by-Yemens-Houthis-toward-western-region.aspx",
-"pub": "2026-11-21T21:28:16+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-21T23:42:01+00:00"
-},
-{
-"id": "b55e5a00669e",
-"t": "",
-"title": "US Consumers Are Holding Up Against Inflation Going Into Holiday Season",
-"url": "https://www.bloomberg.com/news/articles/2026-11-21/us-consumers-are-holding-up-against-inflation-going-into-holiday-season",
-"pub": "2026-11-21T21:00:00+00:00",
-"src": "Bloomberg",
-"kind": "market",
-"seen": "2026-11-21T21:14:08+00:00"
-},
-{
-"id": "39825a1ed296",
-"t": "",
-"title": "Delek Logistics Partners LP (DKL.P) | Stock Price & Latest News - Reuters",
-"url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9XU0JjNjR5Uk1fcG5pazRsejMyZWpVWkk4cDhoV3lQR0V2X3cyam5fX3dtQjYteGY1U0V3aWtwWEF6TWY4RXphcjBrV25YRWZTcU9yWXJ2Y01DVVNKNlRLaTl4bndiX0VhV3hSWA?oc=5",
-"pub": "2026-11-21T20:50:33+00:00",
-"src": "Reuters",
-"kind": "market",
-"seen": "2026-11-22T01:13:48+00:00"
-},
-{
-"id": "9d6f6d33812e",
-"t": "",
-"title": "Saudi civil defense: danger has passed in Mecca region",
-"url": "https://www.financialjuice.com/News/9863144/Saudi-civil-defense-danger-has-passed-in-Mecca-region.aspx?xy=rss",
-"pub": "2026-11-21T20:50:14+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-21T20:52:52+00:00"
-},
-{
-"id": "2d01b3b94459",
-"t": "",
-"title": "Saudi civil defense: danger has passed in Mecca region",
-"url": "https://www.financialjuice.com/News/9863144/Saudi-civil-defense-danger-has-passed-in-Mecca-region.aspx",
-"pub": "2026-11-21T20:50:14+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-21T23:42:01+00:00"
-},
-{
-"id": "79b6e4b9c905",
-"t": "",
-"title": "Bahrain Defence Force: Shrapnel from air defense hits caused material damage, no casualties",
-"url": "https://www.financialjuice.com/News/9863142/Bahrain-Defence-Force-Shrapnel-from-air-defense-hits-caused-material-damage-no-casualties.aspx?xy=rss",
-"pub": "2026-11-21T20:45:51+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-21T20:52:52+00:00"
 }
 ]
 }
