@@ -1,18 +1,68 @@
 {
-"updated_kst": "2026-11-23 11:14",
-"rot": 140,
+"updated_kst": "2026-11-23 11:44",
+"rot": 21,
 "how": "Scout(프로그램)이 10분마다 모은 기사 제목·링크와 공시예요. Wren이 공식 출처로 확인한 뒤 회사 화면에 한국어로 반영해요. 본문은 받지 않아요.",
 "sources": {
 "Yahoo Finance": "120종목 확인 · 실패 0",
 "CNBC": "63건",
 "Bloomberg": "27건",
 "WSJ": "61건",
-"Reuters": "36건",
+"Reuters": "75건",
 "FinancialJuice": "100건",
 "SEC EDGAR": "실패 HTTPError",
 "Fox Business": "50건"
 },
 "items": [
+{
+"id": "b6c5c9a85c0f",
+"t": "SPCX",
+"title": "Elon Musk Says 2027 AI Cash Crunch Will Be ‘Nuts’ — Analysts Still See SpaceX Emerging As The Biggest AI Hyperscaler",
+"url": "https://stocktwits.com/news-articles/markets/equity/elon-musk-2027-ai-cash-crunch-analysts-spacex-biggest-ai-hyperscaler/cNbYZvbR9Sb?.tsrc=rss",
+"pub": "2026-11-23T02:32:31+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-23T02:44:11+00:00"
+},
+{
+"id": "febe4d7cafea",
+"t": "MU",
+"title": "NVDA, INTC, MU, AMD Chip Stocks Rip Higher: Dan Ives Says ‘Bears Feel Validated,’ But There’s No Stopping The AI Wave",
+"url": "https://stocktwits.com/news-articles/markets/equity/nvda-intc-mu-amd-chip-stocks-rip-higher-dan-ives-says-bears-feel-validated-but-there-s-no-stopping-the-ai-wave/cNbYZnYR916?.tsrc=rss",
+"pub": "2026-11-23T02:24:05+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-23T02:44:11+00:00"
+},
+{
+"id": "82aa97d94416",
+"t": "TSLA",
+"title": "Forget Flying Roadsters. Tesla Investors Have 3 Bigger Challenges to Watch.",
+"url": "https://www.fool.com/investing/2026/11/22/forget-flying-roadsters-tesla-investors-have-3-bigger-challenges-to-watch/?.tsrc=rss",
+"pub": "2026-11-23T02:20:01+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-23T02:44:11+00:00"
+},
+{
+"id": "a02314045c60",
+"t": "SPCX",
+"title": "ANT, BABA, PANW, TTWO, ZS: Why Retail Traders Couldn’t Take Their Eyes Off These Stocks Last Week",
+"url": "https://stocktwits.com/news-articles/markets/equity/ant-baba-panw-ttwo-zs-why-retail-traders-couldn-t-take-their-eyes-off-these-stocks-last-week/cNbYZ7qR91C?.tsrc=rss",
+"pub": "2026-11-23T02:08:57+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-23T02:44:11+00:00"
+},
+{
+"id": "768cb6eba98b",
+"t": "MU",
+"title": "David Tepper's Micron bet raises a $32 billion question",
+"url": "https://www.thestreet.com/investing/david-teppers-micron-bet-raises-a-32-billion-question?.tsrc=rss",
+"pub": "2026-11-23T02:03:00+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-23T02:44:11+00:00"
+},
 {
 "id": "5c828c667cf3",
 "t": "NVDA",
@@ -192,6 +242,16 @@
 "src": "Yahoo Finance",
 "kind": "news",
 "seen": "2026-11-22T23:14:10+00:00"
+},
+{
+"id": "73240b076127",
+"t": "NVDA",
+"title": "Stock Traders Brace For More Volatility After Tech-Driven Rout",
+"url": "https://finance.yahoo.com/markets/stocks/articles/stock-traders-brace-more-volatility-230442405.html?.tsrc=rss",
+"pub": "2026-11-22T23:04:42+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-23T02:44:11+00:00"
 },
 {
 "id": "3caa53dba044",
@@ -422,6 +482,16 @@
 "src": "Yahoo Finance",
 "kind": "news",
 "seen": "2026-11-22T21:13:53+00:00"
+},
+{
+"id": "0b8b21e8df0d",
+"t": "MSFT",
+"title": "Microsoft Remains Attractively Valued as Azure and Cloud Drive Growth",
+"url": "https://www.barchart.com/story/news/8957349/microsoft-remains-attractively-valued-as-azure-and-cloud-drive-growth?.tsrc=rss",
+"pub": "2026-11-22T20:30:03+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-23T02:44:11+00:00"
 },
 {
 "id": "7017322738a1",
@@ -7944,74 +8014,24 @@
 "seen": "2026-11-20T21:44:59+00:00"
 },
 {
-"id": "d0916b14342a",
-"t": "GOOGL",
-"title": "Apple Stock Has a New AI Catalyst -- It Could Take on OpenAI, Meta and Anthropic",
-"url": "https://finance.yahoo.com/technology/ai/articles/apple-stock-ai-catalyst-could-214023171.html?.tsrc=rss",
-"pub": "2026-11-20T21:40:23+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-20T22:14:08+00:00"
+"id": "648b1730353b",
+"t": "",
+"title": "India’s Nifty Stands Apart as Global Stocks, Gold Suffer Rare Joint Selloff",
+"url": "https://www.bloomberg.com/news/newsletters/2026-11-23/india-s-nifty-stands-apart-as-global-stocks-gold-suffer-rare-joint-selloff",
+"pub": "2026-11-23T02:36:16+00:00",
+"src": "Bloomberg",
+"kind": "market",
+"seen": "2026-11-23T02:44:11+00:00"
 },
 {
-"id": "2770bca6b5c7",
-"t": "NVDA",
-"title": "CoreWeave Finds AI Demand Outside the Commercial Market",
-"url": "https://finance.yahoo.com/technology/ai/articles/coreweave-finds-ai-demand-outside-213902215.html?.tsrc=rss",
-"pub": "2026-11-20T21:39:02+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-20T21:44:59+00:00"
-},
-{
-"id": "24c9514ddf7a",
-"t": "AVGO",
-"title": "Nasdaq turns negative: Why Anthropic & other tech stocks are getting crushed",
-"url": "https://finance.yahoo.com/video/nasdaq-turns-negative-why-anthropic--other-tech-stocks-are-getting-crushed-213846825.html?.tsrc=rss",
-"pub": "2026-11-20T21:38:46+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-20T21:44:59+00:00"
-},
-{
-"id": "481997f61097",
-"t": "MU",
-"title": "Micron Shares Crash Despite Strong AI Memory Demand: Is MU Undervalued?",
-"url": "https://finance.yahoo.com/technology/ai/articles/micron-shares-crash-despite-strong-213845047.html?.tsrc=rss",
-"pub": "2026-11-20T21:38:45+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-20T21:44:59+00:00"
-},
-{
-"id": "0eb748df732c",
-"t": "BE",
-"title": "Bloom Energy Supports Lincoln Fire & Rescue Ahead of Ohio State-Nebraska Matchup",
-"url": "https://finance.yahoo.com/energy/articles/bloom-energy-supports-lincoln-fire-213700997.html?.tsrc=rss",
-"pub": "2026-11-20T21:37:00+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-20T21:44:59+00:00"
-},
-{
-"id": "f5e5e619ac56",
-"t": "SPCX",
-"title": "A $9.7 Billion Fund Bought These 3 Stocks Last Quarter",
-"url": "https://www.tikr.com/blog/a-9-7-billion-fund-bought-these-3-stocks-last-quarter?ref=yahoofinance&tlnk=yf-261120-83gq9xg9&.tsrc=rss",
-"pub": "2026-11-20T21:35:24+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-20T22:14:08+00:00"
-},
-{
-"id": "0f56aa90d609",
-"t": "NVDA",
-"title": "From Nvidia To Amazon, Tech Giants Face Stunning Reversal As Nasdaq Erases 2026 Gains",
-"url": "https://www.ibtimes.com/us-stocks-ai-selloff-nasdaq-market-decline-3810038?.tsrc=rss",
-"pub": "2026-11-20T21:34:47+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-20T21:44:59+00:00"
+"id": "55084fa1d350",
+"t": "",
+"title": "Tata Steel to Acquire 26.4% in APL Apollo Tubes for $1.7 Billion",
+"url": "https://www.bloomberg.com/news/articles/2026-11-23/tata-steel-to-acquire-26-4-in-apl-apollo-tubes-for-1-7-billion",
+"pub": "2026-11-23T02:30:05+00:00",
+"src": "Bloomberg",
+"kind": "market",
+"seen": "2026-11-23T02:44:11+00:00"
 },
 {
 "id": "d2b261efd27d",
@@ -8094,6 +8114,16 @@
 "seen": "2026-11-23T02:14:12+00:00"
 },
 {
+"id": "9ab4e33545f9",
+"t": "",
+"title": "Beammwave AB (BEAMMWb.ST) | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5XaU04T0hpTS1CQzRUYldxVEkzZno3b1lSaEtxWGVPZTlmbWlsQmwyMWxpMUJYTW5LYkZ2RmpyX3JpMWN0cWJXOEVsOXRHeU9HeWg4dGhrZEgtakRUdlozZnhkRERwcW10RUROdFZoSVpfdlk?oc=5",
+"pub": "2026-11-23T01:18:32+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-23T02:44:11+00:00"
+},
+{
 "id": "b34163a0ac08",
 "t": "",
 "title": "California Attorney General Bonta: This week I filed lawsuit against OpenAI for neglecting model security and endangering public safety",
@@ -8124,6 +8154,16 @@
 "seen": "2026-11-23T01:14:45+00:00"
 },
 {
+"id": "d8a518c4ecb3",
+"t": "",
+"title": "JLens 500 Jewish Advocacy US ETF (TOV.N) | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFB4aUpyZWZ0S3VrYUJzR3JTLVg4eURCQTFkSDNmNmJ4aUp2RDFnNkcwVmpXWWotRXp0ek9rNFBXamhQUU5qdDdqemNuQkdJUWpWOFd0a29MUQ?oc=5",
+"pub": "2026-11-23T01:00:39+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-23T02:44:11+00:00"
+},
+{
 "id": "8fcae0fb4449",
 "t": "",
 "title": "Gold Rises in Likely Technical Rebound",
@@ -8132,6 +8172,16 @@
 "src": "WSJ",
 "kind": "market",
 "seen": "2026-11-23T01:14:45+00:00"
+},
+{
+"id": "506e313a76e9",
+"t": "",
+"title": "7701.JNX - | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5iR25jVXI2cldnaHFxc05hMGNRX3RaTndiMV9JZE4zOGQ1SVRISGxlNmNqanFSVmV6WFNqaHFtR3lYbURKemxJMTFvTUk1WlRuNVpvbnpOcFAwS0M4QktKZW5tVDA3Ny1yMURxODIxRnNlbU55LXMwUVhyWVFsdw?oc=5",
+"pub": "2026-11-23T00:52:33+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-23T02:44:11+00:00"
 },
 {
 "id": "0e1ef746ff90",
@@ -8272,6 +8322,16 @@
 "src": "Reuters",
 "kind": "market",
 "seen": "2026-11-23T01:44:22+00:00"
+},
+{
+"id": "23f57e687201",
+"t": "",
+"title": "6432.JNX - | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQZE55TDRwcXJuSVp4Qm1aWE45Vkd4N2U3VDNqXzRkZW9CT1p6NFVvcTdvWDJNQ1BzUFpTaGRSdzN1VVNGNmZVdzd2bHNVd3dUQmc2aVZZdnNLTjJPSnNDbkdXb3ZKOUI1VTAzV3kwMmVMdU1RVHR1eHFOQVo5VVpNRzh0aDdwRjg?oc=5",
+"pub": "2026-11-22T22:51:49+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-23T02:44:11+00:00"
 },
 {
 "id": "dbda121af27e",
@@ -8462,6 +8522,16 @@
 "src": "Reuters",
 "kind": "market",
 "seen": "2026-11-23T01:44:22+00:00"
+},
+{
+"id": "43c6b54893a2",
+"t": "",
+"title": "YieldMax CRCL Option Income Strategy ETF (CRCO.N) | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5RVHNNN0VlUGNqMUM3QlN5Mkc5dGt1US1uTFNGdlA2NDQ0cF80Z1pwR3RfZk8zS190NXByNGZqM0VIcUZEdGZZcjBhREhQWm5NdXplQk9UeFU?oc=5",
+"pub": "2026-11-22T18:48:52+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-23T02:44:11+00:00"
 },
 {
 "id": "ecd185816848",
@@ -9074,6 +9144,16 @@
 "seen": "2026-11-22T19:44:27+00:00"
 },
 {
+"id": "35bf22893228",
+"t": "",
+"title": "First Carolina Financial Services Inc (FCBM.N) | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBucFdGSzBRb0lQOS1Ia1NwelVic3NCVkhuN1ZPTXNHTERaWmVaQjlwNUhGeDdieDhXQkZkVzZubjJiWkg5a01XNnBFSVhCOS1sejI1TW9JZ2xycXFPSFdrbmpJaGtEZw?oc=5",
+"pub": "2026-11-22T13:26:51+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-23T02:44:11+00:00"
+},
+{
 "id": "7d3e90aff050",
 "t": "",
 "title": "XETFs International Semiconductor ETF (ISMH.OQ) | Stock Price & Latest News - Reuters",
@@ -9082,6 +9162,46 @@
 "src": "Reuters",
 "kind": "market",
 "seen": "2026-11-22T20:34:10+00:00"
+},
+{
+"id": "48f9ceaa73f1",
+"t": "",
+"title": "CIBC Canadian High Dividend Covered Call ETF (CCDC.TO) | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB1T3U2X0hOdkkzSWtMcGozektnYjNiNUtPTnMxcGJDVEQyUEFqZE1LaC1mVk9lM2ZmNDNleUxkVmlueGZ1Vi16V1RPUXVDWFBlaWNRN1ZURHdMWWZQZ1k4?oc=5",
+"pub": "2026-11-22T13:20:51+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-23T02:44:11+00:00"
+},
+{
+"id": "b7d252f255a1",
+"t": "",
+"title": "YieldMax CRCL Option Income Strategy ETF (CRCO.N) | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5CbFgwR0RmYUpVQUxTMWt4MWxEQm9pMVRiRlpwY1VjWlozYUFsbGhZRjBmeGlXdTBzVEFhSjdBWVNRSzRyb0ZNRldTVUxWNm0xclFaMm8zZlZ3eklfbU9GN1F0VmZES2ZCbTVoaQ?oc=5",
+"pub": "2026-11-22T13:14:36+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-23T02:44:11+00:00"
+},
+{
+"id": "75e8bf8d32a1",
+"t": "",
+"title": "Booz Allen Hamilton Holding Corporation (BAH.Z) | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1UTTNXWXl0S2FsZ2twRjdTdGJINGVaclpPUm5KYVJOcGQ3UVhEZjVmb1dLVVE5SDQtX2hMQjJhZ0xDYkdVNjZ1MThxaGhKUnViLXZmRjZsbGNTVjluQVdEWnlMYWtiMXJmZXNFNA?oc=5",
+"pub": "2026-11-22T13:06:32+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-23T02:44:11+00:00"
+},
+{
+"id": "e867b7d658d4",
+"t": "",
+"title": "Beammwave AB (BEAMMWb.ST) | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9fcy1WcWVPdDhfbl8zeDY5ZElfLXJSMHFEdHExS3lzT3djZnJFRzJFZnNnSVBIMW80N0NveWt2WFg2em5LVDZDYjRSVV94X2N3NmFTTHpYaEMyMVUwcThIbjVuMURXaUxOZWVIQ19LNUU?oc=5",
+"pub": "2026-11-22T13:04:32+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-23T02:44:11+00:00"
 },
 {
 "id": "0985be62eab7",
@@ -9212,6 +9332,16 @@
 "src": "Reuters",
 "kind": "market",
 "seen": "2026-11-22T17:21:43+00:00"
+},
+{
+"id": "c86c06b5d347",
+"t": "",
+"title": "JPMorgan All Country Research Enhanced Equity ETF (JALL.N) | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFA2MW5GN2xhdUF0S0JXaEZhYnJLb2ExeWh4cm94Q2dIYmFiMzV1Qjl0NkNSdGRxdkRvVC1vczZWU0hfMWkza1huVEVscDBVMVpRUjYyLXRlRmEtaUI2Nnc?oc=5",
+"pub": "2026-11-22T12:59:19+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-23T02:44:11+00:00"
 },
 {
 "id": "4449277b3003",
@@ -10882,136 +11012,6 @@
 "src": "Reuters",
 "kind": "market",
 "seen": "2026-11-22T01:43:56+00:00"
-},
-{
-"id": "dc42571a972a",
-"t": "",
-"title": "Landfar Bio medicine Co Ltd (000504.SZ) | Stock Price & Latest News - Reuters",
-"url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1DV0tkT1FGMUVkcWZ2N0NORmpMRDdGSWZ5Y0FNMkQtZDBkUFVqNHlETldiZW5raHhOZVl3MVZmbkozZUNFU2xPX1JKZUk3ZDJjU3YyU2ZIMkVHeUkyZXF6MzRyVkllWl9PWjdMbl8zWFJnZw?oc=5",
-"pub": "2026-11-21T19:04:53+00:00",
-"src": "Reuters",
-"kind": "market",
-"seen": "2026-11-22T03:43:59+00:00"
-},
-{
-"id": "864d34079afb",
-"t": "",
-"title": "BLB Ltd (BLB.BO) | Stock Price & Latest News - Reuters",
-"url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5OVlpaczdiOS1HSW1TTUR0MjJxT0ZHRElDbkxfXzJhaTFYQ2M3NmlZOUlRb25kSjM5Zkc5eTJ1dkFkc2FBcUd4Vk1ReElKcjlMV1JXNjVVczNRLWx4eC01b3V4c2FtLVVZakFz?oc=5",
-"pub": "2026-11-21T19:04:28+00:00",
-"src": "Reuters",
-"kind": "market",
-"seen": "2026-11-22T07:56:09+00:00"
-},
-{
-"id": "9ff50b69c8f2",
-"t": "",
-"title": "tmy.f - | Stock Price & Latest News - Reuters",
-"url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBTSHN4TmhWczZqQ0thNnd2eC16ZFk3S282ek0wX2JtSzAtZjNvMFRlUkhBc29ScXkwYlN6SmZ5NnpVUjJJbF9lRVRXaktCc1ZTc1FEODloVU4tSXpKVGc4WTcybloxUTJnOTgxSU9OZjZyVDEzeF9meFcybm1sY0U?oc=5",
-"pub": "2026-11-21T19:04:08+00:00",
-"src": "Reuters",
-"kind": "market",
-"seen": "2026-11-21T23:14:30+00:00"
-},
-{
-"id": "14d6550b0afb",
-"t": "",
-"title": "tmy.f - | Stock Price & Latest News - Reuters",
-"url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNNFFIaERweVlEY3J6Qzc0SmFhTFQzZUxXc1RGMkN3OTZHOHNiT2kxbXlwRmRRWW5QWlJ2VVRYTVZDYW5NbExTcGE0cndXUzZ6bXZ4TXZ5STN5Z1hZX25VSVRVWVhaYVNyc2F3ZGo3emdXNHc1WVBzQWU4aXN5dllZTg?oc=5",
-"pub": "2026-11-21T19:04:08+00:00",
-"src": "Reuters",
-"kind": "market",
-"seen": "2026-11-22T08:43:48+00:00"
-},
-{
-"id": "e7d43095b68c",
-"t": "",
-"title": "Finland border guard: one Russian rescue ship involved in rescue efforts",
-"url": "https://www.financialjuice.com/News/9863108/Finland-border-guard-one-Russian-rescue-ship-involved-in-rescue-efforts.aspx?xy=rss",
-"pub": "2026-11-21T18:42:23+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-21T18:44:40+00:00"
-},
-{
-"id": "c5283235715c",
-"t": "",
-"title": "Finland border guard: one Russian rescue ship involved in rescue efforts",
-"url": "https://www.financialjuice.com/News/9863108/Finland-border-guard-one-Russian-rescue-ship-involved-in-rescue-efforts.aspx",
-"pub": "2026-11-21T18:42:23+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-21T19:14:53+00:00"
-},
-{
-"id": "3a87a2d7cb0e",
-"t": "",
-"title": "Finland border guard: vessel remains ablaze with visible flames",
-"url": "https://www.financialjuice.com/News/9863107/Finland-border-guard-vessel-remains-ablaze-with-visible-flames.aspx?xy=rss",
-"pub": "2026-11-21T18:40:02+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-21T18:44:40+00:00"
-},
-{
-"id": "54d742dd1731",
-"t": "",
-"title": "Finland border guard: vessel remains ablaze with visible flames",
-"url": "https://www.financialjuice.com/News/9863107/Finland-border-guard-vessel-remains-ablaze-with-visible-flames.aspx",
-"pub": "2026-11-21T18:40:02+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-21T19:14:53+00:00"
-},
-{
-"id": "911e7cd997f6",
-"t": "",
-"title": "Finland border guard: crew of damaged Russian cargo ship evacuated to another vessel, en route to Russia",
-"url": "https://www.financialjuice.com/News/9863106/Finland-border-guard-crew-of-damaged-Russian-cargo-ship-evacuated-to-another-vessel-en-route-to-Russia.aspx?xy=rss",
-"pub": "2026-11-21T18:38:31+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-21T18:44:40+00:00"
-},
-{
-"id": "b08289fff6c2",
-"t": "",
-"title": "Finland border guard: crew of damaged Russian cargo ship evacuated to another vessel, en route to Russia",
-"url": "https://www.financialjuice.com/News/9863106/Finland-border-guard-crew-of-damaged-Russian-cargo-ship-evacuated-to-another-vessel-en-route-to-Russia.aspx",
-"pub": "2026-11-21T18:38:31+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-21T19:14:53+00:00"
-},
-{
-"id": "17c106c9691f",
-"t": "",
-"title": "Saudi-led coalition: intercepted and neutralized drone launched by Yemen's Houthis toward Riyadh region",
-"url": "https://www.financialjuice.com/News/9863105/Saudi-led-coalition-intercepted-and-neutralized-drone-launched-by-Yemens-Houthis-toward-Riyadh-region.aspx?xy=rss",
-"pub": "2026-11-21T18:34:25+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-21T18:44:40+00:00"
-},
-{
-"id": "9921cfa62d3d",
-"t": "",
-"title": "Saudi-led coalition: intercepted and neutralized drone launched by Yemen's Houthis toward Riyadh region",
-"url": "https://www.financialjuice.com/News/9863105/Saudi-led-coalition-intercepted-and-neutralized-drone-launched-by-Yemens-Houthis-toward-Riyadh-region.aspx",
-"pub": "2026-11-21T18:34:25+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-21T19:14:53+00:00"
-},
-{
-"id": "2833f47e06de",
-"t": "",
-"title": "5 of the Top Financial Advisor Companies for Retirees: Well-Known Fiduciary Firms to Consider",
-"url": "https://www.wsj.com/buyside/personal-finance/financial-advisors/top-financial-advisors-for-retirees?mod=rss_markets_main",
-"pub": "2026-11-21T18:30:00+00:00",
-"src": "WSJ",
-"kind": "market",
-"seen": "2026-11-21T18:44:40+00:00"
 }
 ]
 }
