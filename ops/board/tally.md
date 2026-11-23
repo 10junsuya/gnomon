@@ -309,3 +309,4 @@
 - 출처: [TTM 3분기 실적 발표 (GlobeNewswire 전재, finviz)](https://finviz.com/news/406155/ttm-technologies-inc-reports-third-quarter-2026-results) · [Earnings Whispers (finviz)](https://finviz.com/news/406847/ttm-technologies-crushes-q3-and-issues-a-50-growth-2027-outlook-but-an-ai-program-slip-and-an-acquisition-spree-explain-a-skeptical-market) · [RTTNews](https://www.rttnews.com/3701930/ttm-technologies-stock-plunges-26-despite-higher-q3-earnings-and-revenue.aspx?type=alleco) · 공식 여부: 공식(실적, 전재본) / 보도(예상치)
 - 확신도: 높음 (실적은 회사 발표 표 숫자 / 예상치는 집계처를 밝히지 않은 매체 한 곳)
 - 참고: 남은 칸 없는 앱 종목(ETF 제외): LIN·SHOP·SATS(ECHO)·IREN·STX·VICR·NXE·DNN.
+- 참고: 앱 다시 게시함(10:0x KST, 버전 274). 지난 게시와 같게 게시용 복사본에서만 CSP meta 한 줄을 뺐어요(저장소 파일은 그대로). 게시본과 차이는 실적 데이터 한 줄과 MU 일정(Quill 커밋)뿐이었어요.
