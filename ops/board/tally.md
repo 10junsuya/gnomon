@@ -334,3 +334,4 @@
 - 출처: [쇼피파이 3분기 실적 발표 (SEC 8-K)](https://www.sec.gov/Archives/edgar/data/0001594805/000159480526000067/exhibit991pressreleaseq320.htm) · [StockStory](https://stockstory.org/us/stocks/nasdaq/shop/news/earnings/shopifys-nasdaqshop-q3-2026-earnings-results-revenue-in-line-with-expectations-but-stock-drops-151percent) · [Newsquawk](https://www.newsquawk.com/headlines/shopify-shop-q3-2026-usd-revenue-374bln-exp-375bln-gmv-119bln-operating-income-568mln-gross-profit-178bln-fcf-816mln) · [Motley Fool](https://www.fool.com/investing/2026/11/03/why-shopify-stock-dove-today/) · 공식 여부: 공식(실적) / 보도(예상치)
 - 확신도: 높음 (실적은 8-K 표 숫자 / 예상치는 S&P 집계)
 - 참고: 남은 칸 없는 앱 종목(ETF 제외): SATS(ECHO)·IREN·VICR·NXE·DNN.
+- 참고: 앱 다시 게시함(15:3x KST, 버전 277). 지난 게시와 같게 게시용 복사본에서만 CSP meta 한 줄을 뺐어요(저장소 파일은 그대로). 게시본과 차이는 실적 데이터 한 줄뿐이었어요.
