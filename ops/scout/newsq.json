@@ -1,18 +1,48 @@
 {
-"updated_kst": "2026-11-23 12:14",
-"rot": 141,
+"updated_kst": "2026-11-23 12:44",
+"rot": 22,
 "how": "Scout(프로그램)이 10분마다 모은 기사 제목·링크와 공시예요. Wren이 공식 출처로 확인한 뒤 회사 화면에 한국어로 반영해요. 본문은 받지 않아요.",
 "sources": {
 "Yahoo Finance": "120종목 확인 · 실패 0",
 "CNBC": "63건",
 "Bloomberg": "27건",
 "WSJ": "61건",
-"Reuters": "33건",
+"Reuters": "실패 HTTPError",
 "FinancialJuice": "100건",
 "SEC EDGAR": "실패 HTTPError",
 "Fox Business": "50건"
 },
 "items": [
+{
+"id": "e7963ab84028",
+"t": "NVDA",
+"title": "Worried About Nvidia? Buy This Fantastic Artificial Intelligence (AI) Stock Instead",
+"url": "https://www.fool.com/investing/2026/11/22/worried-about-nvidia-buy-this-fantastic-artificial-intelligence-ai-stock-instead/?.tsrc=rss",
+"pub": "2026-11-23T03:20:02+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-23T03:44:09+00:00"
+},
+{
+"id": "8e70533dde2d",
+"t": "META",
+"title": "After Blockbuster Anthropic IPO, OpenAI Wants AI Rivals To Agree On Development ‘Limits’, While Meta Calls For Controlled Approach",
+"url": "https://stocktwits.com/news-articles/markets/equity/after-blockbuster-anthropic-ipo-open-ai-wants-ai-rivals-to-agree-on-development-limits-while-meta-calls-for-controlled-approach/cNbYnGlR9SP?.tsrc=rss",
+"pub": "2026-11-23T03:15:10+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-23T03:44:09+00:00"
+},
+{
+"id": "7c905a51ab37",
+"t": "QQQ",
+"title": "Biotech Funds Slide Into Thanksgiving Week — Capricor’s FDA Fight And Back-To-Back Drug Decisions Top Watchlist",
+"url": "https://stocktwits.com/news-articles/markets/equity/biotech-funds-slide-thanksgiving-week-capricor-fda-fight-back-to-back-drug-decisions/cNbYVM2R9Sc?.tsrc=rss",
+"pub": "2026-11-23T03:07:37+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-23T03:44:09+00:00"
+},
 {
 "id": "6022ebfcb202",
 "t": "BABA",
@@ -422,6 +452,16 @@
 "src": "Yahoo Finance",
 "kind": "news",
 "seen": "2026-11-22T22:44:03+00:00"
+},
+{
+"id": "ea8de7607864",
+"t": "AMD",
+"title": "AMD vs. Nvidia Stock After Jensen Huang’s Exit: 1 Trades at Nearly 4x the Other’s Earnings Multiple. Here’s the AI Chip Stock I’d Buy Now.",
+"url": "https://www.barchart.com/story/news/8957514/amd-vs-nvidia-stock-after-jensen-huangs-exit-1-trades-at-nearly-4x-the-others-earnings-multiple-heres-the-ai-chip-stock-id-buy-now?.tsrc=rss",
+"pub": "2026-11-22T21:25:13+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-23T03:44:09+00:00"
 },
 {
 "id": "5948d7948037",
@@ -7972,46 +8012,6 @@
 "src": "Yahoo Finance",
 "kind": "news",
 "seen": "2026-11-20T22:44:38+00:00"
-},
-{
-"id": "70407464ff1c",
-"t": "NVDA",
-"title": "Nvidia Stock Keeps Falling As California Opens A Probe Into Its China Risk",
-"url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-stock-keeps-falling-california-214200884.html?.tsrc=rss",
-"pub": "2026-11-20T21:42:00+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-20T22:14:08+00:00"
-},
-{
-"id": "40e1cdf91b9d",
-"t": "AVGO",
-"title": "Anthropic Stocks Jump 17.07% in Record Debut as $26 Billion Chipmaker Placement Lands",
-"url": "https://finance.yahoo.com/markets/stocks/articles/anthropic-stocks-jump-17-07-214150203.html?.tsrc=rss",
-"pub": "2026-11-20T21:41:50+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-20T22:14:08+00:00"
-},
-{
-"id": "e69eb38af673",
-"t": "NVDA",
-"title": "Nvidia Stocks Fall 3.30% as CEO Transition Overshadows $115.8 Billion Quarter",
-"url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-stocks-fall-3-30-214147795.html?.tsrc=rss",
-"pub": "2026-11-20T21:41:47+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-20T22:14:08+00:00"
-},
-{
-"id": "437f3e2c54e9",
-"t": "GOOGL",
-"title": "Alphabet Stocks Fall 3.46% Even as Anthropic Debut Values Its Stake at $172 Billion",
-"url": "https://finance.yahoo.com/markets/stocks/articles/alphabet-stocks-fall-3-46-214144947.html?.tsrc=rss",
-"pub": "2026-11-20T21:41:44+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-20T22:14:08+00:00"
 },
 {
 "id": "f4e714c045fd",
