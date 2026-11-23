@@ -1,13 +1,13 @@
 {
-"updated_kst": "2026-11-23 11:02",
-"rot": 80,
+"updated_kst": "2026-11-23 11:14",
+"rot": 140,
 "how": "Scout(프로그램)이 10분마다 모은 기사 제목·링크와 공시예요. Wren이 공식 출처로 확인한 뒤 회사 화면에 한국어로 반영해요. 본문은 받지 않아요.",
 "sources": {
 "Yahoo Finance": "120종목 확인 · 실패 0",
 "CNBC": "63건",
 "Bloomberg": "27건",
 "WSJ": "61건",
-"Reuters": "34건",
+"Reuters": "36건",
 "FinancialJuice": "100건",
 "SEC EDGAR": "실패 HTTPError",
 "Fox Business": "50건"
@@ -32,6 +32,16 @@
 "src": "Yahoo Finance",
 "kind": "news",
 "seen": "2026-11-23T02:02:50+00:00"
+},
+{
+"id": "245dab1765db",
+"t": "CRWV",
+"title": "CMO Summit: Council Member Takeaways",
+"url": "https://finance.yahoo.com/video/cmo-summit-council-member-takeaways-013900186.html?.tsrc=rss",
+"pub": "2026-11-23T01:39:00+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-23T02:14:12+00:00"
 },
 {
 "id": "80c60a72ce04",
@@ -8004,14 +8014,34 @@
 "seen": "2026-11-20T21:44:59+00:00"
 },
 {
-"id": "735096c0e382",
-"t": "NVDA",
-"title": "KKR Targets $8 Billion-Plus EdgeCore Deal as Data Center Gold Rush Continues",
-"url": "https://www.benzinga.com/markets/private-markets/26/11/63512945/kkr-targets-8-billion-plus-edgecore-deal-as-data-center-gold-rush-continues?utm_source=yahooFinance&utm_campaign=partner_feed&utm_medium=referral&.tsrc=rss",
-"pub": "2026-11-20T21:34:05+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-20T21:44:59+00:00"
+"id": "d2b261efd27d",
+"t": "",
+"title": "Asia Market Measures May Buffer Stock Losses: BNP",
+"url": "https://www.bloomberg.com/news/videos/2026-11-23/asia-market-measures-may-buffer-stock-losses-bnp-video",
+"pub": "2026-11-23T02:04:38+00:00",
+"src": "Bloomberg",
+"kind": "market",
+"seen": "2026-11-23T02:14:12+00:00"
+},
+{
+"id": "e5e56392f178",
+"t": "",
+"title": "Basketball Made Magic Johnson Famous. Mark Walter Made Him a Billionaire.",
+"url": "https://www.wsj.com/business/media/magic-johnson-mark-walter-federal-probe-a219fc08?mod=rss_markets_main",
+"pub": "2026-11-23T02:00:00+00:00",
+"src": "WSJ",
+"kind": "market",
+"seen": "2026-11-23T02:14:12+00:00"
+},
+{
+"id": "d6255fd51a48",
+"t": "",
+"title": "Jensen and Lori Huang Have Amassed a Vast Fortune. We Break Down Their Wealth.",
+"url": "https://www.wsj.com/finance/investing/jensen-and-lori-huang-have-amassed-a-vast-fortune-we-break-down-their-wealth-3d2287b1?mod=rss_markets_main",
+"pub": "2026-11-23T02:00:00+00:00",
+"src": "WSJ",
+"kind": "market",
+"seen": "2026-11-23T02:14:12+00:00"
 },
 {
 "id": "6cc224ebed9a",
@@ -8024,6 +8054,26 @@
 "seen": "2026-11-23T02:02:50+00:00"
 },
 {
+"id": "72e8c0688927",
+"t": "",
+"title": "Taiwan Stocks See Biggest Leverage Unwind in at Least 30 Years",
+"url": "https://www.bloomberg.com/news/articles/2026-11-23/taiwan-stocks-see-biggest-leverage-unwind-in-at-least-30-years",
+"pub": "2026-11-23T01:55:17+00:00",
+"src": "Bloomberg",
+"kind": "market",
+"seen": "2026-11-23T02:14:12+00:00"
+},
+{
+"id": "38843af2e800",
+"t": "",
+"title": "China State Funds Ramp Up ETF Buying to Record as Rout Deepens",
+"url": "https://www.bloomberg.com/news/articles/2026-11-23/china-state-funds-ramp-up-etf-buying-to-record-as-rout-deepens",
+"pub": "2026-11-23T01:48:30+00:00",
+"src": "Bloomberg",
+"kind": "market",
+"seen": "2026-11-23T02:14:12+00:00"
+},
+{
 "id": "efe3b26822e6",
 "t": "",
 "title": "How the WSJ Determined Mark Walter’s Total Borrowing",
@@ -8032,6 +8082,16 @@
 "src": "WSJ",
 "kind": "market",
 "seen": "2026-11-23T02:02:50+00:00"
+},
+{
+"id": "b5fcdbe42fce",
+"t": "",
+"title": "ICICI Prudential Seeks $800 Million as Alternatives Push Grows",
+"url": "https://www.bloomberg.com/news/articles/2026-11-23/icici-prudential-seeks-800-million-as-alternatives-push-grows",
+"pub": "2026-11-23T01:30:00+00:00",
+"src": "Bloomberg",
+"kind": "market",
+"seen": "2026-11-23T02:14:12+00:00"
 },
 {
 "id": "b34163a0ac08",
@@ -8294,6 +8354,16 @@
 "seen": "2026-11-22T21:44:25+00:00"
 },
 {
+"id": "497072c4a40b",
+"t": "",
+"title": "3031.JNX - | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxObFU1VmZva1NHVTRFLUF4ckVrN0hxVzVSYW9pY3dKa3g2ODZCTGp4YndmSFdKRzhpVE5fQkZsZ016S0Z6amxTUkh3VGluNXZHTXUyazQ4SFJ3UDlNa01RczVkcXVnTkNpUkQtRkVJa19WSzlCalh4bnpSRG8yMXE2dmxWcGdZUko2UHBuYlVsQXZEQQ?oc=5",
+"pub": "2026-11-22T20:58:10+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-23T02:14:12+00:00"
+},
+{
 "id": "490dee5817e9",
 "t": "",
 "title": "Longview Advantage Fixed Income ETF (LVIG.OQ) | Stock Price & Latest News - Reuters",
@@ -8354,6 +8424,16 @@
 "seen": "2026-11-23T01:44:22+00:00"
 },
 {
+"id": "805cfb4612c8",
+"t": "",
+"title": "Easun Reyrolle Ltd (EASU.BO) | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1fVk1xWEpRVXFxVUpMZy1Sc3M3SmlBXzdaMm1fREJweE1QTEk0cUVTUXNIN200UjItWWpHdFM0eGViR0VKYzZpbEgxX0F2NnBJNHNQYXlHRWgyazVPYmR1QWEzeHlmeTV3VlBxbw?oc=5",
+"pub": "2026-11-22T19:09:17+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-23T02:14:12+00:00"
+},
+{
 "id": "bb031ac9d17a",
 "t": "",
 "title": "Goldman Traders See Entry Point in US Stocks But Warn of Risks",
@@ -8362,6 +8442,16 @@
 "src": "Bloomberg",
 "kind": "market",
 "seen": "2026-11-22T19:15:38+00:00"
+},
+{
+"id": "ba4ed0421487",
+"t": "",
+"title": "RICXX.AX - | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1SbGxmSURYem1rem5ReUZiQkU0Y2RidFpCOEdFVmlGb1dfNUJGdkJuM2FoSVZ6VUhuMk14UXpEWE5LanVLblhkWlMtUFE5TFhma3VhWEN1SXFZSFRHN3RiZ1pVWTlfQlIxUW9PbFZ2WQ?oc=5",
+"pub": "2026-11-22T18:56:54+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-23T02:14:12+00:00"
 },
 {
 "id": "4f0feb7c57a9",
@@ -8522,6 +8612,16 @@
 "src": "Reuters",
 "kind": "market",
 "seen": "2026-11-23T01:44:22+00:00"
+},
+{
+"id": "e677cfb783f9",
+"t": "",
+"title": "SLRC.D - Reuters",
+"url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQdlpJTTRlMWotNnU4WnduY0E0MEszOVFmWFY3TlpKc01wSWJYQkRKWVdab2w4dkRZeXFFcEZFcURLenZMSTc5MkNRbDFwM1RLTTFHdXFWNnZuYVFCelN2OXVTTXN3cU1mVGcxWEdreXB4V0MzV2gxWm1Hb2pWaHFTTnJR?oc=5",
+"pub": "2026-11-22T16:55:12+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-23T02:14:12+00:00"
 },
 {
 "id": "80c50868ecdc",
@@ -10912,106 +11012,6 @@
 "src": "WSJ",
 "kind": "market",
 "seen": "2026-11-21T18:44:40+00:00"
-},
-{
-"id": "ba17d1a07b8f",
-"t": "",
-"title": "Bahrain's interior ministry: warning of possible threat",
-"url": "https://www.financialjuice.com/News/9863100/Bahrains-interior-ministry-warning-of-possible-threat.aspx?xy=rss",
-"pub": "2026-11-21T18:11:23+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-21T18:15:18+00:00"
-},
-{
-"id": "85899b037cfc",
-"t": "",
-"title": "Bahrain's interior ministry: warning of possible threat",
-"url": "https://www.financialjuice.com/News/9863100/Bahrains-interior-ministry-warning-of-possible-threat.aspx",
-"pub": "2026-11-21T18:11:23+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-21T19:14:53+00:00"
-},
-{
-"id": "a3b28e9b46ec",
-"t": "",
-"title": "Anthropic IPO signals ‘beginning of a gold rush’ for small businesses, says biz tech CEO",
-"url": "https://www.foxbusiness.com/economy/anthropic-ipo-signals-beginning-gold-rush-small-businesses-says-biz-tech-ceo",
-"pub": "2026-11-21T18:06:16+00:00",
-"src": "Fox Business",
-"kind": "market",
-"seen": "2026-11-21T18:15:18+00:00"
-},
-{
-"id": "ea2caff00f87",
-"t": "",
-"title": "Explosion heard in Sirik on Iran's southern coast: cause unclear, possible warning shot or ship hitting mine - Fars News",
-"url": "https://www.financialjuice.com/News/9863095/Explosion-heard-in-Sirik-on-Irans-southern-coast-cause-unclear-possible-warning-shot-or-ship-hitting-mine---Fars-News.aspx?xy=rss",
-"pub": "2026-11-21T17:45:53+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-21T18:15:18+00:00"
-},
-{
-"id": "315296480418",
-"t": "",
-"title": "Explosion heard in Sirik on Iran's southern coast: cause unclear, possible warning shot or ship hitting mine - Fars News",
-"url": "https://www.financialjuice.com/News/9863095/Explosion-heard-in-Sirik-on-Irans-southern-coast-cause-unclear-possible-warning-shot-or-ship-hitting-mine---Fars-News.aspx",
-"pub": "2026-11-21T17:45:53+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-21T19:14:53+00:00"
-},
-{
-"id": "f6abefed82b5",
-"t": "",
-"title": "Compagnie Financiere Richemont SA (CFR.S) | Stock Price & Latest News - Reuters",
-"url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1vRGlvMGdSNTZ1SGQyckdHNHdKV1NUak5iMmMxNFY2ejN5TDd2SVJhTU53RG02SDNHbFh5bVp5aUdVRWU4YU9QQl9vd3dBQThBYVBvTlE3RWpmOWVT?oc=5",
-"pub": "2026-11-21T17:24:37+00:00",
-"src": "Reuters",
-"kind": "market",
-"seen": "2026-11-21T18:44:40+00:00"
-},
-{
-"id": "f2da49ed1343",
-"t": "",
-"title": "2694.JSF - | Stock Price & Latest News - Reuters",
-"url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1DZWZTaGpseDlVOTdDVXlyX05HclU1QkxOaElMUHZFY2k2RmUzSGttNDA3STVPeHdyZG9SelY5S2Y3eWxQWjNJSDBRRGc2VWtTUjV2bWNFZjNXbFNGcTRETkdYQ21tbVhkTHFuTjdkM2VyQmVfTDRTNmRlQkU4QQ?oc=5",
-"pub": "2026-11-21T17:09:22+00:00",
-"src": "Reuters",
-"kind": "market",
-"seen": "2026-11-21T22:44:15+00:00"
-},
-{
-"id": "cfc7c7aca449",
-"t": "",
-"title": "Silicon Motion Technology Corporation (SIMOy.SG) | Stock Price & Latest News - Reuters",
-"url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5IX2tPSkY1MmJCczEzR29oVlNDR3dBa0l3dXo4b2dJV1E3aHVjcDZnZ19VTlhpb093SmpRdFVKWlV3UE5NMVBEZ1ZTSU9DTUZYZ0JmRUxqZ2dObTN4SDJKNTRWT1pCY1BDczFXYWdn?oc=5",
-"pub": "2026-11-21T17:09:12+00:00",
-"src": "Reuters",
-"kind": "market",
-"seen": "2026-11-21T22:16:35+00:00"
-},
-{
-"id": "1c143400bcfe",
-"t": "",
-"title": "2694.JSF - | Stock Price & Latest News - Reuters",
-"url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQOF9HMzc5dTlKUjB2QkxnSTNIeGg1LTU0SGVQdjNzRTBhVWhfWGRvdEYwZE5PR1RvNGdQQ2NySC01bGhHU21oUEFyVW4zU3NfbThOSklZVG5FN1RzMFFXRTBTaEdlZ3BEYmVkSXZnR1R1SGtFM3dNRTlTWm9WUnFFQjdISm1qRGZJZkE?oc=5",
-"pub": "2026-11-21T17:02:06+00:00",
-"src": "Reuters",
-"kind": "market",
-"seen": "2026-11-21T21:31:18+00:00"
-},
-{
-"id": "965000e256d2",
-"t": "",
-"title": "M Evo Global Acquisition Corp II (MEVO.O) | Stock Price & Latest News - Reuters",
-"url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE90OUJCYWhmS3Y3XzRwUXl3cE45VWtaQmYyRFhOUjhkV3RhZWUxMklmaVoxS1BWSnAzMkV0dWk0VmItcGk2YWZHV244SmxJV3VYdGdCVWttZDF1d19tWXk3VC1teUlpTlQ3TWszb1N3?oc=5",
-"pub": "2026-11-21T17:01:51+00:00",
-"src": "Reuters",
-"kind": "market",
-"seen": "2026-11-22T05:14:17+00:00"
 }
 ]
 }
