@@ -1,6 +1,6 @@
 {
-"updated_kst": "2026-11-23 21:45",
-"rot": 30,
+"updated_kst": "2026-11-23 21:50",
+"rot": 90,
 "how": "Scout(프로그램)이 10분마다 모은 기사 제목·링크와 공시예요. Wren이 공식 출처로 확인한 뒤 회사 화면에 한국어로 반영해요. 본문은 받지 않아요.",
 "sources": {
 "Yahoo Finance": "120종목 확인 · 실패 0",
@@ -10,7 +10,7 @@
 "CNBC": "63건",
 "Bloomberg": "40건",
 "WSJ": "61건",
-"Reuters": "38건",
+"Reuters": "37건",
 "FinancialJuice": "100건",
 "SEC EDGAR": "실패 HTTPError",
 "Fox Business": "50건"
@@ -25,6 +25,16 @@
 "src": "Yahoo Finance",
 "kind": "news",
 "seen": "2026-11-23T12:45:22+00:00"
+},
+{
+"id": "581bf9df580a",
+"t": "NVDA",
+"title": "Boss of British chip firm rules out taking Nvidia top job",
+"url": "https://uk.finance.yahoo.com/news/boss-british-chip-firm-rules-123559953.html",
+"pub": "2026-11-23T12:35:59+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-23T12:50:17+00:00"
 },
 {
 "id": "a50413de6228",
@@ -45,6 +55,16 @@
 "src": "Yahoo Finance",
 "kind": "news",
 "seen": "2026-11-23T12:45:22+00:00"
+},
+{
+"id": "f882ef7eb36c",
+"t": "CLS",
+"title": "Hammond Power Solutions Announces Additions to Its Board of Directors",
+"url": "https://finance.yahoo.com/markets/stocks/articles/hammond-power-solutions-announces-additions-123000486.html",
+"pub": "2026-11-23T12:30:00+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-23T12:50:17+00:00"
 },
 {
 "id": "2d5910f840ab",
@@ -107,6 +127,16 @@
 "seen": "2026-11-23T12:45:22+00:00"
 },
 {
+"id": "30ce9ef69826",
+"t": "LLY",
+"title": "Eli Lilly joins Huntington’s race on $725m LoQus23 takeover",
+"url": "https://www.pharmaceutical-technology.com/news/eli-lilly-725m-loqus23-takeover-huntingtons-disease/",
+"pub": "2026-11-23T12:22:29+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-23T12:50:17+00:00"
+},
+{
 "id": "2adb1f86db49",
 "t": "NVDA",
 "title": "Could an AI selloff trigger a bear market and recession?",
@@ -125,6 +155,16 @@
 "src": "Yahoo Finance",
 "kind": "news",
 "seen": "2026-11-23T12:45:22+00:00"
+},
+{
+"id": "247b5469ec67",
+"t": "NVDA",
+"title": "Nvidia’s Legal Bill Could Run to “Low Billions,” Says DA Davidson. It Earned $65 Billion Last Quarter",
+"url": "https://www.tikr.com/blog/nvidias-legal-bill-could-run-to-low-billions-says-da-davidson-it-earned-65-billion-last-quarter",
+"pub": "2026-11-23T12:20:18+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-23T12:50:17+00:00"
 },
 {
 "id": "a3d3f8ee991f",
@@ -215,6 +255,16 @@
 "src": "Yahoo Finance",
 "kind": "news",
 "seen": "2026-11-23T12:45:22+00:00"
+},
+{
+"id": "5d5697aa8cf7",
+"t": "NEE",
+"title": "3 Funds With Electric Utility Exposure As Data Center Power Outruns The Grid",
+"url": "https://finance.yahoo.com/energy/articles/3-funds-electric-utility-exposure-120915255.html",
+"pub": "2026-11-23T12:09:15+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-23T12:50:17+00:00"
 },
 {
 "id": "b8de83416cd0",
@@ -366,6 +416,16 @@
 "src": "Yahoo Finance",
 "kind": "news",
 "seen": "2026-11-23T12:45:22+00:00"
+},
+{
+"id": "4383956bcb51",
+"t": "ARM",
+"title": "Arm CEO Rene Haas Affirms Long-Term Commitment to Lead Company’s Next Phase of Growth",
+"url": "https://finance.yahoo.com/technology/ai/articles/arm-ceo-rene-haas-affirms-120000554.html",
+"pub": "2026-11-23T12:00:00+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-23T12:50:17+00:00"
 },
 {
 "id": "cfa16af714df",
@@ -596,6 +656,16 @@
 "src": "Yahoo Finance",
 "kind": "news",
 "seen": "2026-11-23T12:16:29+00:00"
+},
+{
+"id": "1894755a5549",
+"t": "MRK",
+"title": "Why Is Everyone Ignoring Zoetis Stock's High Cash Yield?",
+"url": "https://www.trefis.com/stock/zts/articles/627549/why-is-everyone-ignoring-zoetis-stocks-high-cash-yield/2026-11-22",
+"pub": "2026-11-23T11:31:09+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-23T12:50:17+00:00"
 },
 {
 "id": "537865e137f3",
@@ -1466,6 +1536,16 @@
 "src": "Yahoo Finance",
 "kind": "news",
 "seen": "2026-11-23T12:16:29+00:00"
+},
+{
+"id": "d84af6778a7a",
+"t": "COP",
+"title": "ConocoPhillips to Exit Norway in $4.4 Billion Deal With Vår Energi",
+"url": "https://finance.yahoo.com/energy/articles/conocophillips-exit-norway-4-4-110000922.html",
+"pub": "2026-11-23T11:00:00+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-23T12:50:17+00:00"
 },
 {
 "id": "f787b7055baa",
@@ -7938,86 +8018,6 @@
 "seen": "2026-11-21T14:14:40+00:00"
 },
 {
-"id": "fbe330e649a6",
-"t": "NVDA",
-"title": "Nvidia Stock Falls to $150 Per Share. Is It a Buy Now?",
-"url": "https://www.fool.com/investing/2026/11/21/nvidia-stock-falls-to-usd150-per-share-is-it-a-buy-now/?.tsrc=rss",
-"pub": "2026-11-21T13:57:01+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-21T14:14:40+00:00"
-},
-{
-"id": "fcb7be9687f1",
-"t": "NVDA",
-"title": "The Dow Jones Did Something It Hasn’t Done Since October 2008",
-"url": "https://247wallst.com/investing/2026/11/21/the-dow-jones-did-something-it-hasnt-done-since-october-2008/?.tsrc=rss",
-"pub": "2026-11-21T13:53:18+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-21T14:14:40+00:00"
-},
-{
-"id": "fd52dce0ca74",
-"t": "GOOGL",
-"title": "Hank Paulson Has “Never Seen So Much Money Chasing One Opportunity.” That’s a Problem for Microsoft, Amazon and Alphabet",
-"url": "https://www.tikr.com/blog/hank-paulson-has-never-seen-so-much-money-chasing-one-opportunity-thats-a-problem-for-microsoft-amazon-and-alphabet?ref=yahoofinance&tlnk=yf-261121-2ch8r4jc&.tsrc=rss",
-"pub": "2026-11-21T13:46:13+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-21T14:14:40+00:00"
-},
-{
-"id": "80fd436be9de",
-"t": "AVGO",
-"title": "The 1 Thing I'll Be Watching When Broadcom Reports on Dec. 9",
-"url": "https://www.fool.com/investing/2026/11/21/the-1-thing-i-ll-be-watching-when-broadcom-reports-on-dec-9/?.tsrc=rss",
-"pub": "2026-11-21T13:46:02+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-21T14:14:40+00:00"
-},
-{
-"id": "b0b8feb5119d",
-"t": "PANW",
-"title": "The Patchpocalypse Could Be a Big Opportunity for These 2 Cybersecurity Stocks",
-"url": "https://www.marketbeat.com/articles/the-patchpocalypse-could-be-a-big-opportunity-for-these-2-cybersecurity-stocks/?utm_source=yahoofinance&utm_medium=yahoofinance&.tsrc=rss",
-"pub": "2026-11-21T13:45:00+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-22T14:14:32+00:00"
-},
-{
-"id": "7c9bdcb1a35e",
-"t": "NVDA",
-"title": "Bitcoin Has Traded Below Its 200-Week Average Only 8.4% of the Time. History Says This Is When Patient Investors Get Paid.",
-"url": "https://www.fool.com/investing/2026/11/21/bitcoin-traded-below-200-week-average-history-says-this-is-when-patient-investors-get-paid/?.tsrc=rss",
-"pub": "2026-11-21T13:39:41+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-21T14:14:40+00:00"
-},
-{
-"id": "7620560d0bf6",
-"t": "FDX",
-"title": "DHL Express makes customs clearance easier for small cross-border shippers",
-"url": "https://finance.yahoo.com/small-business/articles/dhl-express-makes-customs-clearance-133856106.html?.tsrc=rss",
-"pub": "2026-11-21T13:38:56+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-21T15:10:04+00:00"
-},
-{
-"id": "2d56fb0c9231",
-"t": "GEV",
-"title": "NuScale Is Down 40% in a Month and Just Hit a New 52-Week Low. Is the Selling Overdone?",
-"url": "https://www.tikr.com/blog/nuscale-is-down-40-in-a-month-and-just-hit-a-new-52-week-low-is-the-selling-overdone?ref=yahoofinance&tlnk=yf-261121-rr655jrh&.tsrc=rss",
-"pub": "2026-11-21T13:36:33+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-21T14:14:40+00:00"
-},
-{
 "id": "42d61b82991f",
 "t": "",
 "title": "Deutsche Bank sees Stoxx 600 reaching 750 by Q4 2027",
@@ -10388,6 +10388,16 @@
 "seen": "2026-11-23T02:44:11+00:00"
 },
 {
+"id": "62ef29657f3b",
+"t": "",
+"title": "Unidoc Health Corp (L7T.SG) | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAtbTd2ZHBrNkxXS2JIRDRySEhLbFBScTRvaWl0QzFvNEI1S2ZnODFUTVJ2MVlUMFgwdEhySGVKaVg0VXhpX0IxenFXQmRIU0pWRUFhd21DTTZDbjlWZVZWb0NfNUEwTVU?oc=5",
+"pub": "2026-11-22T22:48:40+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-23T12:50:17+00:00"
+},
+{
 "id": "dbda121af27e",
 "t": "",
 "title": "Asia Braces for More Volatility After US Selloff: Markets Wrap",
@@ -11006,16 +11016,6 @@
 "src": "FinancialJuice",
 "kind": "market",
 "seen": "2026-11-22T16:13:46+00:00"
-},
-{
-"id": "108f3174d776",
-"t": "",
-"title": "Ukmto reports incident involving tanker and military forces in Gulf of Oman",
-"url": "https://www.financialjuice.com/News/9863476/Ukmto-reports-incident-involving-tanker-and-military-forces-in-Gulf-of-Oman.aspx",
-"pub": "2026-11-22T15:59:00+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-22T19:15:38+00:00"
 }
 ]
 }
