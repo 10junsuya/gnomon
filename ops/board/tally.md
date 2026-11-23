@@ -302,3 +302,10 @@
 - 출처: [마이크론 보도자료 — 1분기 실적 발표일 (회사 IR, 11/19)](https://micron.gcs-web.com/news-releases/news-release-details/micron-technology-report-fiscal-first-quarter-results-december-7) · ops/board/archer.md A-20261123-0904-1 · 공식 여부: 공식
 - 확신도: 높음
 - 교훈: 해마다 같은 날짜인 실적 발표일 공지는 검색 상위만 보고 "공지 전"이라 적지 않고, 회사 IR 최근 보도자료 목록의 날짜를 확인해요(A-20261123-0904-2 와 같음).
+
+### T-20261123-0953-1 · 새 칸 · TTMI 실적 카드 (대표 승인 38번에 따라)
+- 시각: 2026-11-23 09:58 KST
+- 내용: 이번 차례 A·B 대상 없음(events.json 지난 earn 일정 모두 done, 다음 확정일은 ADI 11/24 21:00·DELL 11/25). 칸이 없는 앱 종목 중 IREN(11/25 발표 때)·ECHO(사업 분리로 비교 복잡)를 빼고 ETF 비중이 가장 큰 TTMI(TTM 테크놀로지스, 한 ETF에 1.9%) 새 칸. 기간 「3분기 · 2026년 7~9월」(9/28 마감): 매출 12.039억 달러(+60%, 1년 전 7.527억 — 회사 발표 표 숫자, 계산하면 +59.9%), 데이터센터·네트워크 매출의 41%(1년 새 +115%), 항공·방산 34%(+21%), 회계 EPS 0.79달러, 조정 EPS 1.46달러(1년 전 0.67), 주문/매출 2.13. 다음 분기(10~12월) 회사 전망 매출 14.2억~14.4억 → guide, 조정 EPS 1.77~1.83달러, 올해 44.7억~44.9억, 2027년 첫 전망 65억~67.5억(진행 중 인수 제외). 발표 전 매출 예상 est 11.3억(Earnings Whispers 기사, 집계처 미표시 — 다른 매체 숫자는 확인 못 함), 다음 분기 cons 확인 못 해 null(note 에 밝힘). 다음 발표일 공지 없음 → "2027년 2월 초 (예상 · 회사 발표일 공지 전)", 새 일정 안 넣음. 데이터센터·네트워크 금액(41% → 4.936억)은 money.json TTMI 와 같아요. 회사 발표 2026-10-22 장 시작 전(06:00 PT), 반영 2026-11-23 09:58 KST.
+- 출처: [TTM 3분기 실적 발표 (GlobeNewswire 전재, finviz)](https://finviz.com/news/406155/ttm-technologies-inc-reports-third-quarter-2026-results) · [Earnings Whispers (finviz)](https://finviz.com/news/406847/ttm-technologies-crushes-q3-and-issues-a-50-growth-2027-outlook-but-an-ai-program-slip-and-an-acquisition-spree-explain-a-skeptical-market) · [RTTNews](https://www.rttnews.com/3701930/ttm-technologies-stock-plunges-26-despite-higher-q3-earnings-and-revenue.aspx?type=alleco) · 공식 여부: 공식(실적, 전재본) / 보도(예상치)
+- 확신도: 높음 (실적은 회사 발표 표 숫자 / 예상치는 집계처를 밝히지 않은 매체 한 곳)
+- 참고: 남은 칸 없는 앱 종목(ETF 제외): LIN·SHOP·SATS(ECHO)·IREN·STX·VICR·NXE·DNN.

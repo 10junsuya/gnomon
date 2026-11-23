@@ -12468,5 +12468,63 @@
     6194
    ]
   }
+ },
+ "TTMI": {
+  "p": "3분기 · 2026년 7~9월",
+  "tag": "+60%",
+  "rows": [
+   [
+    "매출",
+    "12.04억 달러 (+60%, 1년 전 7.53억 달러)"
+   ],
+   [
+    "데이터센터·네트워크",
+    "매출의 41% (1년 새 +115%) · AI 서버·스위치 기판"
+   ],
+   [
+    "조정 주당순이익",
+    "1.46달러 (1년 전 0.67달러 · 예상 1.25달러)"
+   ],
+   [
+    "다음 분기 전망",
+    "매출 14.2억~14.4억 달러 · 2027년 65억~67.5억 달러"
+   ]
+  ],
+  "note": "AI 데이터센터용 기판 수요로 데이터센터·네트워크 매출이 2배 넘게 늘었고, 주문이 매출의 2.13배로 들어왔어요. 다만 AI 프로그램 하나가 고객 일정으로 미뤄져 데이터센터 매출은 회사 계획보다 낮았고, 여러 건의 인수로 빚 부담이 커졌어요. 1년 전 매출은 회사 발표 표 숫자이고(성장률은 계산해 맞춰 봄), 발표 전 매출 예상 11.3억은 Earnings Whispers 기사 기준(집계처 미표시)이며 다음 분기 애널리스트 예상은 숫자를 확인하지 못해 뺐어요.",
+  "src": [
+   [
+    "TTM 3분기 실적 발표 (GlobeNewswire 전재, finviz)",
+    "https://finviz.com/news/406155/ttm-technologies-inc-reports-third-quarter-2026-results"
+   ],
+   [
+    "예상 비교 (Earnings Whispers, finviz)",
+    "https://finviz.com/news/406847/ttm-technologies-crushes-q3-and-issues-a-50-growth-2027-outlook-but-an-ai-program-slip-and-an-acquisition-spree-explain-a-skeptical-market"
+   ],
+   [
+    "주가 반응 (RTTNews)",
+    "https://www.rttnews.com/3701930/ttm-technologies-stock-plunges-26-despite-higher-q3-earnings-and-revenue.aspx?type=alleco"
+   ]
+  ],
+  "chart": {
+   "cur": "usd",
+   "now": [
+    "7~9월",
+    1203.9
+   ],
+   "est": 1130,
+   "next": {
+    "label": "10~12월",
+    "guide": [
+     1420,
+     1440
+    ],
+    "cons": null,
+    "when": "2027년 2월 초 (예상 · 회사 발표일 공지 전)"
+   },
+   "prev": [
+    "1년 전",
+    752.7
+   ]
+  }
  }
 }
