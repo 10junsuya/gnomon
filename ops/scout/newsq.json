@@ -1,18 +1,61 @@
 {
-"updated_kst": "2026-11-23 16:44",
-"rot": 85,
+"updated_kst": "2026-11-23 17:12",
+"rot": 145,
 "how": "Scout(프로그램)이 10분마다 모은 기사 제목·링크와 공시예요. Wren이 공식 출처로 확인한 뒤 회사 화면에 한국어로 반영해요. 본문은 받지 않아요.",
 "sources": {
 "Yahoo Finance": "120종목 확인 · 실패 0",
+"GlobeNewswire": "실패 HTTPError",
+"PR Newswire": "0건",
+"Business Wire": "0건",
 "CNBC": "63건",
-"Bloomberg": "31건",
+"Bloomberg": "30건",
 "WSJ": "61건",
-"Reuters": "실패 HTTPError",
+"Reuters": "34건",
 "FinancialJuice": "100건",
 "SEC EDGAR": "실패 HTTPError",
 "Fox Business": "50건"
 },
 "items": [
+{
+"id": "1e23ac1f3f39",
+"t": "SPCX",
+"title": "RKLB Stock Has Its Worst Week Ever — But CFO Sees ‘Very Strong Uplift’ In Electron Prices As SpaceX Rideshare Slots Tighten",
+"url": "https://stocktwits.com/news-articles/markets/equity/rklb-stock-cfo-uplift-electron-prices-spacex-rideshare-slots-tighten/cNbYMSlR9SZ",
+"pub": "2026-11-23T07:57:16+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-23T08:12:08+00:00"
+},
+{
+"id": "ed835630755f",
+"t": "NVDA",
+"title": "The National Debt Rose $2.4 Trillion in a Year to $40.6 Trillion. The S&P 500 Gained 9% Anyway.",
+"url": "https://www.fool.com/investing/2026/11/23/national-debt-rose-usd2-4-trillion-in-a-year-to-usd40-6-trillion-the-s-and-p-500-gained-9-anyway/",
+"pub": "2026-11-23T07:50:01+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-23T08:12:08+00:00"
+},
+{
+"id": "6f2b6b33f7ae",
+"t": "AAPL",
+"title": "Michael Burry Names Apple, Costco And Walmart Early Crash Havens — The ‘Generals’ Fell Months After 2000 And 2007 Peaks",
+"url": "https://stocktwits.com/news-articles/markets/equity/michael-burry-apple-costco-walmart-havens-generals-2000-2007-peaks/cNbYM9pR9Sk",
+"pub": "2026-11-23T07:48:58+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-23T08:12:08+00:00"
+},
+{
+"id": "8e02cdab27c9",
+"t": "AXP",
+"title": "PayPal Sale: Why This Analyst Sees A ‘Lower Likelihood’",
+"url": "https://stocktwits.com/news-articles/markets/equity/pay-pal-sale-why-this-analyst-sees-a-lower-likelihood/cNbYMJjR9Sj",
+"pub": "2026-11-23T07:47:22+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-23T08:12:08+00:00"
+},
 {
 "id": "26e9eff6bcb7",
 "t": "NVDA",
@@ -64,6 +107,16 @@
 "seen": "2026-11-23T07:44:28+00:00"
 },
 {
+"id": "d7070e60afec",
+"t": "JPM",
+"title": "JPMorgan Chase (JPM) CEO Warns UK Tax Rise Could Threaten £3 Billion HQ",
+"url": "https://finance.yahoo.com/economy/policy/articles/jpmorgan-chase-jpm-ceo-warns-070656078.html",
+"pub": "2026-11-23T07:06:56+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-23T08:12:08+00:00"
+},
+{
 "id": "e196b165fc0a",
 "t": "CRWV",
 "title": "CoreWeave (CRWV) Stock Gets An AI Demand Jolt From A Record $81.3 Billion IPO",
@@ -72,6 +125,16 @@
 "src": "Yahoo Finance",
 "kind": "news",
 "seen": "2026-11-23T07:44:28+00:00"
+},
+{
+"id": "f49ae3759d80",
+"t": "JPM",
+"title": "JPMorgan sees potential sharp rebound in Asian equities after positioning unwind",
+"url": "https://finance.yahoo.com/markets/world-indices/articles/jpmorgan-sees-potential-sharp-rebound-065327416.html",
+"pub": "2026-11-23T06:53:27+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-23T08:12:08+00:00"
 },
 {
 "id": "16b27bc1c408",
@@ -92,6 +155,16 @@
 "src": "Yahoo Finance",
 "kind": "news",
 "seen": "2026-11-23T07:17:24+00:00"
+},
+{
+"id": "048b0c9e88ae",
+"t": "NVDA",
+"title": "Alice Huang’s Contacts With Chinese Spy Agency Reportedly Tracked by US Intelligence: Nvidia Stock Climbs Over 7% on Robinhood’s Platform",
+"url": "https://finance.yahoo.com/markets/stocks/articles/alice-huang-contacts-chinese-spy-064411334.html",
+"pub": "2026-11-23T06:44:11+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-23T08:12:08+00:00"
 },
 {
 "id": "37ec18040089",
@@ -7944,74 +8017,34 @@
 "seen": "2026-11-21T20:03:56+00:00"
 },
 {
-"id": "825022ef7230",
-"t": "AMZN",
-"title": "Stock Market Today, Nov. 20: Amazon Shares Slide on AI and Mega-Cap Tech Sell-Off",
-"url": "https://www.fool.com/coverage/stock-market-today/2026/11/20/stock-market-today-nov-20-amazon-shares-slide-on-ai-and-mega-cap-tech-sell-off/?.tsrc=rss",
-"pub": "2026-11-20T22:50:02+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-20T23:14:14+00:00"
+"id": "8b616bf10533",
+"t": "",
+"title": "Currency Strength Chart: Strongest: AUD, GBP, EUR, CHF, CAD, NZD, USD, GBP - Weakest",
+"url": "https://www.financialjuice.com/News/9863991/Currency-Strength-Chart-Strongest-AUD-GBP-EUR-CHF-CAD-NZD-USD-GBP---Weakest.aspx?xy=rss",
+"pub": "2026-11-23T08:01:38+00:00",
+"src": "FinancialJuice",
+"kind": "market",
+"seen": "2026-11-23T08:12:08+00:00"
 },
 {
-"id": "587d1e534f49",
-"t": "AMZN",
-"title": "Target Shines, Walmart Merely Fine: Two Retail Giants Split on Q3 Results",
-"url": "https://finance.yahoo.com/markets/stocks/articles/target-shines-walmart-merely-fine-224900183.html?.tsrc=rss",
-"pub": "2026-11-20T22:49:00+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-21T00:12:19+00:00"
+"id": "b4c8f819831e",
+"t": "",
+"title": "Partners Group Shareholders Vote to Split Key Fund Into Two",
+"url": "https://www.bloomberg.com/news/articles/2026-11-23/partners-group-shareholders-vote-to-split-key-fund-into-two",
+"pub": "2026-11-23T08:00:00+00:00",
+"src": "Bloomberg",
+"kind": "market",
+"seen": "2026-11-23T08:12:08+00:00"
 },
 {
-"id": "9e11893c3681",
-"t": "CRWD",
-"title": "Zscaler stock soars on reports that CrowdStrike is eyeing a possible buyout",
-"url": "https://finance.yahoo.com/video/zscaler-stock-soars-on-reports-that-crowdstrike-is-eyeing-a-possible-buyout-224517482.html?.tsrc=rss",
-"pub": "2026-11-20T22:45:17+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-20T23:14:14+00:00"
-},
-{
-"id": "e6b927fa0a47",
-"t": "ORCL",
-"title": "Oracle says OpenAI contract is fully funded, addresses market financing scrutiny",
-"url": "https://finance.yahoo.com/technology/ai/articles/oracle-says-openai-contract-fully-224306974.html?.tsrc=rss",
-"pub": "2026-11-20T22:43:06+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-20T23:14:14+00:00"
-},
-{
-"id": "71c63bcd9a5a",
-"t": "SPCX",
-"title": "ANT Stock Ends Lower: Retail Investors Reportedly Bought As Much As $120B Of Anthropic, Beating SpaceX Debut",
-"url": "https://stocktwits.com/news-articles/markets/equity/ant-stock-ends-lower-retail-investors-reportedly-bought-as-much-as-120-b-of-anthropic-beating-space-x-debut/cNbSHoQR91f?.tsrc=rss",
-"pub": "2026-11-20T22:41:37+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-20T23:14:14+00:00"
-},
-{
-"id": "d9a56d722382",
-"t": "CRCL",
-"title": "Weekly Wrap: Crypto Falls As Stocks Struggle",
-"url": "https://www.cryptoprowl.com/releases/weekly-wrap-crypto-falls-as-stocks-struggle-8016?.tsrc=rss",
-"pub": "2026-11-20T22:38:00+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-20T23:14:14+00:00"
-},
-{
-"id": "ecf3d43369f7",
-"t": "AVGO",
-"title": "Stock Market Today, Nov. 20: Stocks Plunge as AI Trade Unwinds",
-"url": "https://www.fool.com/coverage/stock-market-today/2026/11/20/stock-market-today-nov-20-stocks-plunge-as-ai-trade-unwinds/?.tsrc=rss",
-"pub": "2026-11-20T22:35:13+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-20T23:14:14+00:00"
+"id": "7baaa5a63d84",
+"t": "",
+"title": "Iran's foreign ministry spokesperson: Iran will use all available tools to confront US naval blockade",
+"url": "https://www.financialjuice.com/News/9863988/Irans-foreign-ministry-spokesperson-Iran-will-use-all-available-tools-to-confront-US-naval-blockade.aspx?xy=rss",
+"pub": "2026-11-23T07:49:00+00:00",
+"src": "FinancialJuice",
+"kind": "market",
+"seen": "2026-11-23T08:12:08+00:00"
 },
 {
 "id": "1ab66b59681a",
@@ -10982,36 +11015,6 @@
 "src": "Reuters",
 "kind": "market",
 "seen": "2026-11-22T10:14:19+00:00"
-},
-{
-"id": "66c044d9bb9a",
-"t": "",
-"title": "PFLC.PK - | Stock Price & Latest News - Reuters",
-"url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQT2lXcGZQaFlLWWo3VEtkYU9sNjlzSHpWWWZlcXBoRmJfX211QUxzNUs5QzQ0RDdRTUZaTzZZcFNHM3NfSXo5MVBwMzNkZ1VKUWEyVFZkV3B2clNSTW9BbjlOelFxYW1Bb1RZTlhUalZhVmh2U1FkWmw0WW53NGEzS2U0TQ?oc=5",
-"pub": "2026-11-22T08:55:46+00:00",
-"src": "Reuters",
-"kind": "market",
-"seen": "2026-11-22T20:44:25+00:00"
-},
-{
-"id": "07939dad8024",
-"t": "",
-"title": "Moatable, Inc (MTBLY.PK) | Stock Price & Latest News - Reuters",
-"url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9OQ2c2b0JtbHlfakNiU1NObTc5eWRwcjRVQmtQejBReWt4TFJvd0dTWDJKbHdRZk1JSjBWVmFsTlFlM29RTTNFTUNqdUhOM3RXTjhtMzl0ZGY2Ym1LUGNiQU85bTF0Q0FXNE5rS3lQQ1k?oc=5",
-"pub": "2026-11-22T08:54:39+00:00",
-"src": "Reuters",
-"kind": "market",
-"seen": "2026-11-23T00:44:55+00:00"
-},
-{
-"id": "146d610231dc",
-"t": "",
-"title": "CTVA.ZY - Reuters",
-"url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1fa1R6ejRLdDd3T3pFUW9pVlhFR0xTa1otTXRkOEs1SjlYSmJueGlYWGpucjJVT0pPWUVvTTBqaVE2TWpiTk1CMUctZktHb1JuQk1jTkdTUnRxTnpmc3NSVU9nNU1vRHBnR0pGTE9R?oc=5",
-"pub": "2026-11-22T08:49:22+00:00",
-"src": "Reuters",
-"kind": "market",
-"seen": "2026-11-22T15:45:03+00:00"
 }
 ]
 }
