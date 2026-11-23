@@ -326,3 +326,4 @@
 - 출처: [린데 3분기 실적 발표 (SEC 8-K)](https://www.sec.gov/Archives/edgar/data/0001707925/000165495426009199/lin_ex991.htm) · [린데 2025년 3분기 실적 (SEC 8-K)](https://www.sec.gov/Archives/edgar/data/1707925/000165495425012384/lin_ex991.htm) · [Zacks](https://www.zacks.com/stock/news/3018972/lin-q3-earnings-beat-estimates-on-higher-americas-pricing-volumes) · [Earnings Whispers (finviz)](https://finviz.com/news/411869/linde-posts-record-quarter-but-an-fx-aided-guidance-raise-and-a-softer-q4-outlook-temper-the-beat) · 공식 여부: 공식(실적) / 보도(예상치·해석)
 - 확신도: 높음 (실적은 8-K 숫자 / 예상치는 Zacks 집계)
 - 참고: 1년 전 매출은 Zacks 가 86.2억으로 적어 2025년 발표(86.15억)와 반올림 차이뿐이에요. 남은 칸 없는 앱 종목(ETF 제외): SHOP·SATS(ECHO)·IREN·VICR·NXE·DNN.
+- 참고: 앱 다시 게시함(14:57 KST, 버전 276). 지난 게시와 같게 게시용 복사본에서만 CSP meta 한 줄을 뺐어요(저장소 파일은 그대로). 게시본과 차이는 실적 데이터 한 줄과 시세·추적 갱신(11/23 14:4x)뿐이었어요.
