@@ -1,18 +1,38 @@
 {
-"updated_kst": "2026-11-23 09:48",
-"rot": 79,
+"updated_kst": "2026-11-23 10:14",
+"rot": 139,
 "how": "Scout(프로그램)이 10분마다 모은 기사 제목·링크와 공시예요. Wren이 공식 출처로 확인한 뒤 회사 화면에 한국어로 반영해요. 본문은 받지 않아요.",
 "sources": {
 "Yahoo Finance": "120종목 확인 · 실패 0",
 "CNBC": "63건",
 "Bloomberg": "27건",
 "WSJ": "61건",
-"Reuters": "42건",
+"Reuters": "36건",
 "FinancialJuice": "100건",
 "SEC EDGAR": "실패 HTTPError",
 "Fox Business": "50건"
 },
 "items": [
+{
+"id": "01bb970a04b5",
+"t": "COST",
+"title": "Costco and Albertsons moved jobs to India before Kroger",
+"url": "https://www.thestreet.com/retail/costco-and-albertsons-moved-jobs-to-india-before-kroger?.tsrc=rss",
+"pub": "2026-11-23T01:03:00+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-23T01:14:45+00:00"
+},
+{
+"id": "09ddf9a58009",
+"t": "TSLA",
+"title": "XPENG Launches Public Advanced ADAS Test Rides at Its Paris Store, Becoming the First Chinese Automaker to Offer the Experience Overseas",
+"url": "https://finance.yahoo.com/technology/ai/articles/xpeng-launches-public-advanced-adas-010200031.html?.tsrc=rss",
+"pub": "2026-11-23T01:02:00+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-23T01:14:45+00:00"
+},
 {
 "id": "e3600f09a8a0",
 "t": "SKHY",
@@ -32,6 +52,16 @@
 "src": "Yahoo Finance",
 "kind": "news",
 "seen": "2026-11-23T00:48:07+00:00"
+},
+{
+"id": "ed2cc3285ec6",
+"t": "BRKB",
+"title": "Berkshire Hathaway's Next Big AI Bet Could Be Hiding in Plain Sight",
+"url": "https://www.fool.com/investing/2026/11/22/berkshire-hathaways-next-big-ai-bet-could-be-hiding-in-plain-sight/?.tsrc=rss",
+"pub": "2026-11-23T00:35:02+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-23T01:14:45+00:00"
 },
 {
 "id": "366c98a0c011",
@@ -142,6 +172,16 @@
 "src": "Yahoo Finance",
 "kind": "news",
 "seen": "2026-11-22T23:05:42+00:00"
+},
+{
+"id": "720e1c8959e5",
+"t": "NVDA",
+"title": "Bessent Softens on Jensen Huang. Can Nvidia Stock Finally Catch a Break?",
+"url": "https://beincrypto.com/bessent-jensen-huang-nvidia-stock-outlook/?.tsrc=rss",
+"pub": "2026-11-22T22:45:00+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-23T01:14:45+00:00"
 },
 {
 "id": "237c7bcb6141",
@@ -532,6 +572,16 @@
 "src": "Yahoo Finance",
 "kind": "news",
 "seen": "2026-11-22T19:15:38+00:00"
+},
+{
+"id": "8c8e9da5bda9",
+"t": "AMD",
+"title": "AMD Gained From Nvidia’s China Scandal. Now a Short Seller Says AMD Has a China Problem Too.",
+"url": "https://www.barchart.com/story/news/8957111/amd-gained-from-nvidias-china-scandal-now-a-short-seller-says-amd-has-a-china-problem-too?.tsrc=rss",
+"pub": "2026-11-22T19:01:04+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-23T01:14:45+00:00"
 },
 {
 "id": "6293759807e9",
@@ -7964,54 +8014,34 @@
 "seen": "2026-11-20T21:44:59+00:00"
 },
 {
-"id": "7a9fcb68ddeb",
-"t": "SPCX",
-"title": "SpaceX Sells $32 Bil Of Debt For AI Chips. But Yields, Orbital Deployment Raise Concerns.",
-"url": "https://finance.yahoo.com/m/55ee9a46-96c2-3843-82df-818e8f6dc10d/spacex-sells-%2432-bil-of-debt.html?.tsrc=rss",
-"pub": "2026-11-20T21:25:26+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-21T12:10:49+00:00"
+"id": "b34163a0ac08",
+"t": "",
+"title": "California Attorney General Bonta: This week I filed lawsuit against OpenAI for neglecting model security and endangering public safety",
+"url": "https://www.financialjuice.com/News/9863630/California-Attorney-General-Bonta-This-week-I-filed-lawsuit-against-OpenAI-for-neglecting-model-security-and-endangering-public-safety.aspx?xy=rss",
+"pub": "2026-11-23T01:06:35+00:00",
+"src": "FinancialJuice",
+"kind": "market",
+"seen": "2026-11-23T01:14:45+00:00"
 },
 {
-"id": "5f5e2bbdb89b",
-"t": "WMT",
-"title": "Colgate-Palmolive vs. lululemon athletica: Which Consumer Goods Stock Is a Better Buy for 2027?",
-"url": "https://www.fool.com/coverage/better-buy/2026/11/20/colgate-palmolive-vs-lululemon-athletica-which-consumer-goods-stock-is-a-better-buy-for-2027/?.tsrc=rss",
-"pub": "2026-11-20T21:25:07+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-20T21:44:59+00:00"
+"id": "7346750569d9",
+"t": "",
+"title": "Some Underperforming Japan Stocks May Start Rising After Strong Results",
+"url": "https://www.wsj.com/finance/stocks/some-underperforming-japan-stocks-may-start-rising-after-strong-results-e6e3f434?mod=rss_markets_main",
+"pub": "2026-11-23T01:05:00+00:00",
+"src": "WSJ",
+"kind": "market",
+"seen": "2026-11-23T01:14:45+00:00"
 },
 {
-"id": "34df2ff80648",
-"t": "NVDA",
-"title": "3 Things Dario Amodei Wants You To Know About Anthropic",
-"url": "https://www.fool.com/investing/2026/11/20/3-things-dario-amodei-wants-you-to-know-about-anthropic/?.tsrc=rss",
-"pub": "2026-11-20T21:25:02+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-20T21:44:59+00:00"
-},
-{
-"id": "df6df2f27d75",
-"t": "NVDA",
-"title": "US Equity Indexes Slump as Clouds Hovering Over Chipmakers, Hawkish Fed Outweigh Anthropic's Nasdaq Debut This Week",
-"url": "https://finance.yahoo.com/markets/stocks/articles/us-equity-indexes-slump-clouds-212255820.html?.tsrc=rss",
-"pub": "2026-11-20T21:22:55+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-20T21:29:57+00:00"
-},
-{
-"id": "31371855c13d",
-"t": "PG",
-"title": "Here's How Many Shares of Procter & Gamble You'd Need for $1,000 in Yearly Dividends",
-"url": "https://www.fool.com/investing/2026/11/20/heres-how-many-shares-of-procter-gamble-youd-need-for-1000-in-yearly-dividends/?.tsrc=rss",
-"pub": "2026-11-20T21:20:02+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-20T21:29:57+00:00"
+"id": "8fcae0fb4449",
+"t": "",
+"title": "Gold Rises in Likely Technical Rebound",
+"url": "https://www.wsj.com/finance/commodities-futures/gold-rises-in-likely-technical-rebound-f895016c?mod=rss_markets_main",
+"pub": "2026-11-23T00:58:00+00:00",
+"src": "WSJ",
+"kind": "market",
+"seen": "2026-11-23T01:14:45+00:00"
 },
 {
 "id": "0e1ef746ff90",
@@ -10982,36 +11012,6 @@
 "src": "FinancialJuice",
 "kind": "market",
 "seen": "2026-11-21T16:14:06+00:00"
-},
-{
-"id": "8c1744ed6f28",
-"t": "",
-"title": "Finland defence force: strike on Russian ship probably conducted by Ukraine",
-"url": "https://www.financialjuice.com/News/9863064/Finland-defence-force-strike-on-Russian-ship-probably-conducted-by-Ukraine.aspx",
-"pub": "2026-11-21T16:06:37+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-21T19:14:53+00:00"
-},
-{
-"id": "8f424445f88b",
-"t": "",
-"title": "Finland border guard: strike on Russian vessel probably conducted by Ukraine",
-"url": "https://www.financialjuice.com/News/9863063/Finland-border-guard-strike-on-Russian-vessel-probably-conducted-by-Ukraine.aspx?xy=rss",
-"pub": "2026-11-21T16:03:02+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-21T16:14:06+00:00"
-},
-{
-"id": "c05a29df91e5",
-"t": "",
-"title": "Finland border guard: strike on Russian vessel probably conducted by Ukraine",
-"url": "https://www.financialjuice.com/News/9863063/Finland-border-guard-strike-on-Russian-vessel-probably-conducted-by-Ukraine.aspx",
-"pub": "2026-11-21T16:03:02+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-21T19:14:53+00:00"
 }
 ]
 }
