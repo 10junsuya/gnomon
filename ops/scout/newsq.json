@@ -1,18 +1,28 @@
 {
-"updated_kst": "2026-11-23 11:59",
-"rot": 81,
+"updated_kst": "2026-11-23 12:14",
+"rot": 141,
 "how": "Scout(프로그램)이 10분마다 모은 기사 제목·링크와 공시예요. Wren이 공식 출처로 확인한 뒤 회사 화면에 한국어로 반영해요. 본문은 받지 않아요.",
 "sources": {
 "Yahoo Finance": "120종목 확인 · 실패 0",
 "CNBC": "63건",
 "Bloomberg": "27건",
 "WSJ": "61건",
-"Reuters": "37건",
+"Reuters": "33건",
 "FinancialJuice": "100건",
 "SEC EDGAR": "실패 HTTPError",
 "Fox Business": "50건"
 },
 "items": [
+{
+"id": "6022ebfcb202",
+"t": "BABA",
+"title": "Pazhou Algorithm Competition: Turning AI Innovation into Real-World Impact",
+"url": "https://finance.yahoo.com/technology/ai/articles/pazhou-algorithm-competition-turning-ai-025600679.html?.tsrc=rss",
+"pub": "2026-11-23T02:56:00+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-23T03:14:26+00:00"
+},
 {
 "id": "43df58f24458",
 "t": "NVDA",
@@ -42,6 +52,26 @@
 "src": "Yahoo Finance",
 "kind": "news",
 "seen": "2026-11-23T02:59:39+00:00"
+},
+{
+"id": "0d178ee4da3c",
+"t": "GOOGL",
+"title": "Amazon Spent $1.82 For Every $1 Of Cash Last Quarter. Can It Keep Going?",
+"url": "https://www.trefis.com/stock/amzn/articles/627456/amazon-spent-1-82-for-every-1-of-cash-last-quarter-can-it-keep-going/2026-11-22?.tsrc=rss",
+"pub": "2026-11-23T02:44:11+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-23T03:14:26+00:00"
+},
+{
+"id": "b1bd193059cb",
+"t": "NVDA",
+"title": "How Did Dell Grow From $56 Billion To $151 Billion In 20 Years?",
+"url": "https://www.trefis.com/stock/dell/articles/624827/how-did-dell-grow-from-56-billion-to-151-billion-in-20-years/2026-11-22?.tsrc=rss",
+"pub": "2026-11-23T02:44:11+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-23T03:14:26+00:00"
 },
 {
 "id": "b6c5c9a85c0f",
@@ -7984,34 +8014,34 @@
 "seen": "2026-11-20T22:14:08+00:00"
 },
 {
-"id": "a50a4bc89b5c",
-"t": "AMZN",
-"title": "Amazon Stocks Fall 3.87% as Its $188 Billion Anthropic Stake Starts Trading Daily",
-"url": "https://finance.yahoo.com/markets/stocks/articles/amazon-stocks-fall-3-87-214141974.html?.tsrc=rss",
-"pub": "2026-11-20T21:41:41+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-20T22:14:08+00:00"
+"id": "f4e714c045fd",
+"t": "",
+"title": "South Korea Says Market Measures Will Ease Investor Jitters",
+"url": "https://www.bloomberg.com/news/articles/2026-11-23/south-korea-says-market-measures-will-ease-investor-jitters",
+"pub": "2026-11-23T03:09:14+00:00",
+"src": "Bloomberg",
+"kind": "market",
+"seen": "2026-11-23T03:14:26+00:00"
 },
 {
-"id": "caab83bca3be",
-"t": "AMD",
-"title": "Victor Peng Sees AI, Quantum Computing as Long-Term Opportunities",
-"url": "https://finance.yahoo.com/video/victor-peng-sees-ai-quantum-214139731.html?.tsrc=rss",
-"pub": "2026-11-20T21:41:39+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-20T22:24:18+00:00"
+"id": "1ace08c26619",
+"t": "",
+"title": "India’s Appeal Grows as Global Tech Selloff Deepens",
+"url": "https://www.bloomberg.com/news/videos/2026-11-23/india-s-appeal-grows-as-global-tech-selloff-deepens-video",
+"pub": "2026-11-23T03:08:54+00:00",
+"src": "Bloomberg",
+"kind": "market",
+"seen": "2026-11-23T03:14:26+00:00"
 },
 {
-"id": "b8d4b28706fc",
-"t": "AMD",
-"title": "AMD Stocks Plunge 7.72% as Short Seller Questions China Firmware Ties",
-"url": "https://finance.yahoo.com/markets/stocks/articles/amd-stocks-plunge-7-72-214135649.html?.tsrc=rss",
-"pub": "2026-11-20T21:41:35+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-20T22:14:08+00:00"
+"id": "801c8d7ef299",
+"t": "",
+"title": "Anthropic Committed to Spend $900 Billion. Wall Street Expects Its Debt to Be Junk.",
+"url": "https://www.wsj.com/finance/investing/anthropic-committed-to-spend-900-billion-wall-street-expects-its-debt-to-be-junk-5514d55d?mod=rss_markets_main",
+"pub": "2026-11-23T03:00:00+00:00",
+"src": "WSJ",
+"kind": "market",
+"seen": "2026-11-23T03:14:26+00:00"
 },
 {
 "id": "3119386edf2f",
@@ -8194,6 +8224,16 @@
 "seen": "2026-11-23T01:14:45+00:00"
 },
 {
+"id": "afa102c7e26a",
+"t": "",
+"title": "3482.J1 - | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1aN2Q1ZTlEM3FYOVhQR3VMVjBjZ2JLS1BBVFJfWW5fUGxKaGpZdXZFZlh0TzU4WWlFZHFRalA1OWVtUEdxZ1B5eFdENjhWNy1KZjFZRTZlWjg5dXdTSmNUNVpMVFppRUFtSmpnaEEzRQ?oc=5",
+"pub": "2026-11-23T00:55:55+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-23T03:14:26+00:00"
+},
+{
 "id": "506e313a76e9",
 "t": "",
 "title": "7701.JNX - | Stock Price & Latest News - Reuters",
@@ -8292,6 +8332,16 @@
 "src": "WSJ",
 "kind": "market",
 "seen": "2026-11-23T00:14:09+00:00"
+},
+{
+"id": "6cfd54ee7337",
+"t": "",
+"title": "Michael Page PLC (PAGE.L) | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBzQy1reEZqWHFscmJaYzVNdV81OUFBcTdPWXhsendYZGN4VU5ER1d1R0REM2J3QWIwUDdOWll6djBoN1NjV1QwNG4tci1EellpVm1Cc3dxLWZwbjFmRHc?oc=5",
+"pub": "2026-11-22T23:28:42+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-23T03:14:26+00:00"
 },
 {
 "id": "e68aaf3281a3",
@@ -8702,6 +8752,16 @@
 "src": "Reuters",
 "kind": "market",
 "seen": "2026-11-23T01:44:22+00:00"
+},
+{
+"id": "64ab8d6a5d81",
+"t": "",
+"title": "Hosiden Corp (HOIEF.PK) | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBRa2xMZTFSeWRuVVdON2RKVW1mWkJ5OHdGemFNYzNWNWRHZktPVG9UY3VzRmNHcDBRa1JPN3VnbmJ2Q1RHZmdSR01VMFJpaVI3ZEQwZ1AycEpxWmFOUFV0SDNsdkFjVGs4MkVmbFU3NTQ?oc=5",
+"pub": "2026-11-22T16:55:50+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-23T03:14:26+00:00"
 },
 {
 "id": "e5dd569c1eb7",
@@ -10949,66 +11009,6 @@
 "title": "Kraken aware of issue with Cyber-Optimism funding gateway, deposits may face delays; other methods operating normally",
 "url": "https://www.financialjuice.com/News/9863129/Kraken-aware-of-issue-with-Cyber-Optimism-funding-gateway-deposits-may-face-delays-other-methods-operating-normally.aspx",
 "pub": "2026-11-21T20:02:24+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-21T23:42:01+00:00"
-},
-{
-"id": "4204dff2e434",
-"t": "",
-"title": "M&G PLC (MNG.L) | Stock Price & Latest News - Reuters",
-"url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFB4eXUtRy0wZmJialJZQ1F4bDFVUmJKTHhTRVpLdEdtMzhXZTZNS0E4ckxmeS1NczN6WEdrUkQ1emZRSUxLeG5HMDdoOFVPREZIbzFpLUc0Y1BXTGZC?oc=5",
-"pub": "2026-11-21T19:53:28+00:00",
-"src": "Reuters",
-"kind": "market",
-"seen": "2026-11-21T21:31:18+00:00"
-},
-{
-"id": "db1a400ed8d3",
-"t": "",
-"title": "Iran’s Revolutionary Guards attack two US bases in Bahrain: Fars News Agency reports citing its reporter",
-"url": "https://www.financialjuice.com/News/9863125/Irans-Revolutionary-Guards-attack-two-US-bases-in-Bahrain-Fars-News-Agency-reports-citing-its-reporter.aspx?xy=rss",
-"pub": "2026-11-21T19:47:20+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-21T20:03:56+00:00"
-},
-{
-"id": "3035052346bf",
-"t": "",
-"title": "Iran’s Revolutionary Guards attack two US bases in Bahrain: Fars News Agency reports citing its reporter",
-"url": "https://www.financialjuice.com/News/9863125/Irans-Revolutionary-Guards-attack-two-US-bases-in-Bahrain-Fars-News-Agency-reports-citing-its-reporter.aspx",
-"pub": "2026-11-21T19:47:20+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-21T23:42:01+00:00"
-},
-{
-"id": "fdf95914dc32",
-"t": "",
-"title": "Iran's Revolutionary Guards say they struck two US bases in Bahrain, Fars News Agency reports citing its correspondent",
-"url": "https://www.financialjuice.com/News/9863123/Irans-Revolutionary-Guards-say-they-struck-two-US-bases-in-Bahrain-Fars-News-Agency-reports-citing-its-correspondent.aspx?xy=rss",
-"pub": "2026-11-21T19:32:56+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-21T19:44:12+00:00"
-},
-{
-"id": "a4d14b6d97d5",
-"t": "",
-"title": "Iran's Revolutionary Guards say they attack two US bases in Bahrain, Fars News Agency reports citing its correspondent",
-"url": "https://www.financialjuice.com/News/9863123/Irans-Revolutionary-Guards-say-they-attack-two-US-bases-in-Bahrain-Fars-News-Agency-reports-citing-its-correspondent.aspx?xy=rss",
-"pub": "2026-11-21T19:32:56+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-21T20:43:38+00:00"
-},
-{
-"id": "3ffbdf73bf9c",
-"t": "",
-"title": "Iran's Revolutionary Guards say they attack two US bases in Bahrain, Fars News Agency reports citing its correspondent",
-"url": "https://www.financialjuice.com/News/9863123/Irans-Revolutionary-Guards-say-they-attack-two-US-bases-in-Bahrain-Fars-News-Agency-reports-citing-its-correspondent.aspx",
-"pub": "2026-11-21T19:32:56+00:00",
 "src": "FinancialJuice",
 "kind": "market",
 "seen": "2026-11-21T23:42:01+00:00"
