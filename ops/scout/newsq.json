@@ -1,18 +1,48 @@
 {
-"updated_kst": "2026-11-23 11:44",
-"rot": 21,
+"updated_kst": "2026-11-23 11:59",
+"rot": 81,
 "how": "Scout(프로그램)이 10분마다 모은 기사 제목·링크와 공시예요. Wren이 공식 출처로 확인한 뒤 회사 화면에 한국어로 반영해요. 본문은 받지 않아요.",
 "sources": {
 "Yahoo Finance": "120종목 확인 · 실패 0",
 "CNBC": "63건",
 "Bloomberg": "27건",
 "WSJ": "61건",
-"Reuters": "75건",
+"Reuters": "37건",
 "FinancialJuice": "100건",
 "SEC EDGAR": "실패 HTTPError",
 "Fox Business": "50건"
 },
 "items": [
+{
+"id": "43df58f24458",
+"t": "NVDA",
+"title": "Kevin O’Leary Says Nvidia CEO Colette Kress Is ‘Pretty Sharp,’ Chip Demand ‘Insatiable’: Crypto Bettors Weigh Jensen Huang Comeback Odds",
+"url": "https://www.benzinga.com/markets/prediction-markets/26/11/63518223/kevin-oleary-jensen-huang-nvidia-ceo-polymarket-prediction-market?utm_source=yahooFinance&utm_campaign=partner_feed&utm_medium=referral&.tsrc=rss",
+"pub": "2026-11-23T02:53:09+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-23T02:59:39+00:00"
+},
+{
+"id": "549eb376f919",
+"t": "NVDA",
+"title": "Nvidia stock logs 2008-scale losing streak even as interim CEO delivers beat",
+"url": "https://www.thestreet.com/investing/stocks/nvidia-stock-losing-streak-2008?.tsrc=rss",
+"pub": "2026-11-23T02:47:00+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-23T02:59:39+00:00"
+},
+{
+"id": "a990729cd115",
+"t": "NVDA",
+"title": "Asian tech back in the firing line as traders track Wall St rout",
+"url": "https://finance.yahoo.com/markets/world-indices/articles/asian-tech-back-firing-line-024445930.html?.tsrc=rss",
+"pub": "2026-11-23T02:44:45+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-23T02:59:39+00:00"
+},
 {
 "id": "b6c5c9a85c0f",
 "t": "SPCX",
@@ -7984,34 +8014,14 @@
 "seen": "2026-11-20T22:14:08+00:00"
 },
 {
-"id": "e326e8caeee0",
-"t": "NVDA",
-"title": "SK hynix Stocks Fall 5.92% as Kospi Rout Hits HBM Leader With 80% Margins",
-"url": "https://finance.yahoo.com/markets/stocks/articles/sk-hynix-stocks-fall-5-214132697.html?.tsrc=rss",
-"pub": "2026-11-20T21:41:32+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-20T22:14:08+00:00"
-},
-{
-"id": "6b33441eee27",
-"t": "LITE",
-"title": "Marvell's $115 Billion Lumentum Deal Creates a New Valuation Test",
-"url": "https://finance.yahoo.com/technology/articles/marvells-115-billion-lumentum-deal-214112963.html?.tsrc=rss",
-"pub": "2026-11-20T21:41:12+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-20T21:44:59+00:00"
-},
-{
-"id": "8d60a1694577",
-"t": "GOOGL",
-"title": "Alphabet Raises $4.19 Billion in Debt as Free Cash Flow Turns Negative",
-"url": "https://finance.yahoo.com/technology/articles/alphabet-raises-4-19-billion-214109252.html?.tsrc=rss",
-"pub": "2026-11-20T21:41:09+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-20T21:44:59+00:00"
+"id": "3119386edf2f",
+"t": "",
+"title": "European Gas Surges as Cold Snap Threatens Tight Inventories",
+"url": "https://www.bloomberg.com/news/articles/2026-11-23/european-gas-surges-as-cold-snap-threatens-tight-inventories",
+"pub": "2026-11-23T02:46:27+00:00",
+"src": "Bloomberg",
+"kind": "market",
+"seen": "2026-11-23T02:59:39+00:00"
 },
 {
 "id": "648b1730353b",
@@ -8032,6 +8042,16 @@
 "src": "Bloomberg",
 "kind": "market",
 "seen": "2026-11-23T02:44:11+00:00"
+},
+{
+"id": "13ac7d82bba3",
+"t": "",
+"title": "MSCI Discussed Avoiding Indonesia Downgrade With Prabowo, Dalio",
+"url": "https://www.bloomberg.com/news/articles/2026-11-23/msci-discussed-avoiding-indonesia-downgrade-with-prabowo-dalio",
+"pub": "2026-11-23T02:27:39+00:00",
+"src": "Bloomberg",
+"kind": "market",
+"seen": "2026-11-23T02:59:39+00:00"
 },
 {
 "id": "d2b261efd27d",
@@ -8182,6 +8202,16 @@
 "src": "Reuters",
 "kind": "market",
 "seen": "2026-11-23T02:44:11+00:00"
+},
+{
+"id": "5c0251f31e2e",
+"t": "",
+"title": "603926.SSh - | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxON2lzZ1A5V1d6cjBEdXBHSWozWFRrR1Y3SHRwZE1QNWJ5WU1TZVE1Ri0ybnJsczRjQURJUEhqV0hhalFpU0VFb3gzUENHMFhVYWQ5RDZpcTVXcnJNNjd5ZzM4RHJ6WDY2Nkg4NDBRNmpWUzJELVFxc3NQUUtsUjYxbHJ4OWVyZnplQXVCZg?oc=5",
+"pub": "2026-11-23T00:51:22+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-23T02:59:39+00:00"
 },
 {
 "id": "0e1ef746ff90",
@@ -8694,6 +8724,16 @@
 "seen": "2026-11-23T02:14:12+00:00"
 },
 {
+"id": "33e3daebad69",
+"t": "",
+"title": "Merkur Privatbank KGaA (MBKG.DE) | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOQmJ1M0dSNzFRMTdSaXdQVEVFc0QtTExmQWFyYnU4Uk13ZWRHSEFWNmt3Y0JXaFlzT3lkWmFyOVQ0eHVUclZMU1RvQ3V5R0EzUXo4SWJoa0JQT1Q3R2dJbjZTbmJrWUNrTGVBOTk0QmI1ZmZWWjl2c2tHc3lzTDlNTDd2ZzZoUXNmMmVYLTUwckNwcHBkV0VSS2lnSDRYSEc0cmNEaHpfX0E?oc=5",
+"pub": "2026-11-22T16:55:09+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-23T02:59:39+00:00"
+},
+{
 "id": "80c50868ecdc",
 "t": "",
 "title": "Qnity Electronics, Inc. (Z5O.F) | Stock Price & Latest News - Reuters",
@@ -8742,6 +8782,16 @@
 "src": "FinancialJuice",
 "kind": "market",
 "seen": "2026-11-22T19:15:38+00:00"
+},
+{
+"id": "89fe744754f7",
+"t": "",
+"title": "Standard Bank Group Limited (SBKJ.J) | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFAtaUZHaTVzWEY0TWUtU1prMEJnaUxJUGZjYVpDc3hwNE5PY1dFeTJlc2gtdW8zYkl6Y1JKV3Rqa1JiMEtQUFQ4MjhsVnZaV1JfMkIwZXd6ZmdGRkQ2SVE?oc=5",
+"pub": "2026-11-22T16:35:33+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-23T02:59:39+00:00"
 },
 {
 "id": "f8574375d297",
@@ -8964,6 +9014,16 @@
 "seen": "2026-11-22T15:45:03+00:00"
 },
 {
+"id": "e0396e8219bb",
+"t": "",
+"title": "Helport AI Ltd (HPAI.O) | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8zVjBXZkZuWnY2Wk1DUVhOSWtYWUpJVV8xaWRtTGdjd05WMzBweDhYY3JORURGTllmbU8tRkU3elhMWXBzXy1KSWVwLXhQa2xRa1lqcjhpdEM0MHZLMXRfNkFIYzZ1OS00eFhB?oc=5",
+"pub": "2026-11-22T15:14:48+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-23T02:59:39+00:00"
+},
+{
 "id": "e791d01d2b6f",
 "t": "",
 "title": "Investors Brave Stock Market ‘Fragility’ as AI Trade Falters",
@@ -8972,6 +9032,26 @@
 "src": "Bloomberg",
 "kind": "market",
 "seen": "2026-11-22T15:45:03+00:00"
+},
+{
+"id": "20ce981304eb",
+"t": "",
+"title": "First United Corp (FUNC.O) | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5DWVlVSmJ6Q0hIN2pyVDdmeDdPMlk5NHJHMjBYckw5cGNIRG5CR0lRcS1ibUczR3JhR2UyRl9jSmVsc0FkU2lzZklGNlRyOFdEam94YlFMcjJDYWZwaE1xVjBvMU1teVFOT0tYU0ZR?oc=5",
+"pub": "2026-11-22T14:56:38+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-23T02:59:39+00:00"
+},
+{
+"id": "743678336cff",
+"t": "",
+"title": "Alibaba Group Holding Limited (BABA.Z) | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5LTngzTnlUMkhUMU9pZDk4MDhTcTl6cFdkTDR0aXEzNFpuci1qcy1QUWZmTm9uUGMxT0NmM2VhNlk2Njg4cUR2R0F3emhDR2V3Wmt0Mzk4c2lBQVAzNEthTEhKUU5IQTBBd2JkN1FR?oc=5",
+"pub": "2026-11-22T14:55:46+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-23T02:59:39+00:00"
 },
 {
 "id": "1968295eba1f",
@@ -9162,6 +9242,16 @@
 "src": "Reuters",
 "kind": "market",
 "seen": "2026-11-22T20:34:10+00:00"
+},
+{
+"id": "98afb7184c3a",
+"t": "",
+"title": "Nam Cheong Ltd (NCHGF.PK) | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBqdDZyWEo2SFRYdFU3bXhWdjdYWEkxSjlWeW9SOWxrYTV6R0RpMHpCVExXUkNuOWhnWTM5QWpUb3hVOTFuaVQ3VVhyLXgxWENuWFFsa3hxSGZHc3JlSTVJUGE0bzZuS1pYSWxPREZtUmU?oc=5",
+"pub": "2026-11-22T13:25:36+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-23T02:59:39+00:00"
 },
 {
 "id": "48f9ceaa73f1",
@@ -10664,6 +10754,16 @@
 "seen": "2026-11-21T23:42:01+00:00"
 },
 {
+"id": "2833f47e06de",
+"t": "",
+"title": "5 of the Top Financial Advisor Companies for Retirees: Well-Known Fiduciary Firms to Consider",
+"url": "https://www.wsj.com/buyside/personal-finance/financial-advisors/top-financial-advisors-for-retirees?mod=rss_markets_main",
+"pub": "2026-11-21T20:45:00+00:00",
+"src": "WSJ",
+"kind": "market",
+"seen": "2026-11-23T02:59:39+00:00"
+},
+{
 "id": "b80eae95361c",
 "t": "",
 "title": "Bahrain Defence Force: air defences intercepted multiple Iranian aerial assaults",
@@ -10912,106 +11012,6 @@
 "src": "FinancialJuice",
 "kind": "market",
 "seen": "2026-11-21T23:42:01+00:00"
-},
-{
-"id": "6cfd54ee7337",
-"t": "",
-"title": "Michael Page PLC (PAGE.L) | Stock Price & Latest News - Reuters",
-"url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBzQy1reEZqWHFscmJaYzVNdV81OUFBcTdPWXhsendYZGN4VU5ER1d1R0REM2J3QWIwUDdOWll6djBoN1NjV1QwNG4tci1EellpVm1Cc3dxLWZwbjFmRHc?oc=5",
-"pub": "2026-11-21T19:27:35+00:00",
-"src": "Reuters",
-"kind": "market",
-"seen": "2026-11-22T04:14:12+00:00"
-},
-{
-"id": "1539f602b19f",
-"t": "",
-"title": "Bahrain civil defence working to contain fire: interior ministry",
-"url": "https://www.financialjuice.com/News/9863118/Bahrain-civil-defence-working-to-contain-fire-interior-ministry.aspx?xy=rss",
-"pub": "2026-11-21T19:21:49+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-21T19:44:12+00:00"
-},
-{
-"id": "7f6be9c081d3",
-"t": "",
-"title": "Bahrain civil defence working to contain fire: interior ministry",
-"url": "https://www.financialjuice.com/News/9863118/Bahrain-civil-defence-working-to-contain-fire-interior-ministry.aspx",
-"pub": "2026-11-21T19:21:49+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-21T23:42:01+00:00"
-},
-{
-"id": "4cddb85f4b97",
-"t": "",
-"title": "Bahrain interior ministry: preliminary information points to material damage, no casualties",
-"url": "https://www.financialjuice.com/News/9863117/Bahrain-interior-ministry-preliminary-information-points-to-material-damage-no-casualties.aspx?xy=rss",
-"pub": "2026-11-21T19:21:18+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-21T19:44:12+00:00"
-},
-{
-"id": "4b46efe40e22",
-"t": "",
-"title": "Bahrain interior ministry: preliminary information points to material damage, no casualties",
-"url": "https://www.financialjuice.com/News/9863117/Bahrain-interior-ministry-preliminary-information-points-to-material-damage-no-casualties.aspx",
-"pub": "2026-11-21T19:21:18+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-21T23:42:01+00:00"
-},
-{
-"id": "70958f0cda20",
-"t": "",
-"title": "Bahrain interior ministry: Iranian strike on civilian industrial site causes fire",
-"url": "https://www.financialjuice.com/News/9863116/Bahrain-interior-ministry-Iranian-strike-on-civilian-industrial-site-causes-fire.aspx?xy=rss",
-"pub": "2026-11-21T19:20:57+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-21T19:44:12+00:00"
-},
-{
-"id": "81e1bfa70667",
-"t": "",
-"title": "Bahrain interior ministry: Iranian strike on civilian industrial site causes fire",
-"url": "https://www.financialjuice.com/News/9863116/Bahrain-interior-ministry-Iranian-strike-on-civilian-industrial-site-causes-fire.aspx",
-"pub": "2026-11-21T19:20:57+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-21T23:42:01+00:00"
-},
-{
-"id": "74daf12b88d1",
-"t": "",
-"title": "F/m Ultrashort Tax-Free Municipal ETF (ZMUN.O) | Stock Price & Latest News - Reuters",
-"url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE56SGNOalR4Ul9TaHRQLTNjUkd5RHJ2ZHR6YWZwUzV3VDA4TjZmQloyNmtWS0ktYmc3ZHhCejM5UFJqUFVfYzYtcENiZnJFRV80Vy1NelY4ZXg?oc=5",
-"pub": "2026-11-21T19:15:04+00:00",
-"src": "Reuters",
-"kind": "market",
-"seen": "2026-11-21T22:14:01+00:00"
-},
-{
-"id": "a04a7716693b",
-"t": "",
-"title": "Oriental Rise Holdings Ltd (ORISF.PK) | Stock Price & Latest News - Reuters",
-"url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBmQkFUS0VyMjJ5bVUyOHN4UVA2VXR2c2dOUkRSS1M4NURPSnpIb09wbEtnNjNvc1poZTdjSnFyOUprZFdkRkpEODR3Y1ZKYWkzelVSYVlRWDY0UDNTbnI4N1hveXBJZXUwUTR3RmhPaHg?oc=5",
-"pub": "2026-11-21T19:08:37+00:00",
-"src": "Reuters",
-"kind": "market",
-"seen": "2026-11-22T00:43:46+00:00"
-},
-{
-"id": "034170feebdc",
-"t": "",
-"title": "PARR.Z - Reuters",
-"url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE56N0MyNFY1bC1FT1Y5OXRTa3BRdWtLWDlwQVc4akw4azAyaGlWSk1jaTdscExneFVNZlpUdVNza3BjTzd2U3RfVld4Z0xldjJuM3REUnk4MTBjV3lrSHRfQm9NZ0pJSzR6OXdGbjAzdw?oc=5",
-"pub": "2026-11-21T19:04:59+00:00",
-"src": "Reuters",
-"kind": "market",
-"seen": "2026-11-22T01:43:56+00:00"
 }
 ]
 }
