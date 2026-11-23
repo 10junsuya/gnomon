@@ -287,3 +287,17 @@
 - 확신도: 높음 (실적은 8-K 본문 / 예상치는 출처를 밝히지 않은 매체 두 곳)
 - 참고: 남은 칸 없는 앱 종목(ETF 제외): LIN·SHOP·GOOG·SATS(ECHO)·IREN·APH·TTMI·STX·VICR·NXE·DNN.
 - 참고: 앱 다시 게시함(08:56 KST, 버전 272). 지난 게시와 같게 게시용 복사본에서만 CSP meta 한 줄을 뺐어요(저장소 파일은 그대로). 게시본은 cebf4ab 기준이었고, 그 뒤 저장소 데이터(KO 매출·aimap 등)도 함께 올라갔어요.
+
+### T-20261123-0923-1 · 새 칸 · APH 실적 카드 (대표 승인 38번에 따라)
+- 시각: 2026-11-23 09:25 KST
+- 내용: 이번 차례 A·B 대상 없음(events.json 지난 earn 일정 모두 done, 다음 확정일은 ADI 11/24 21:00·DELL 11/25). 칸이 없는 앱 종목 중 IREN(11/25 발표 때)·ECHO(사업 분리로 비교 복잡)를 빼고 ETF 비중이 가장 큰 APH(암페놀, 한 ETF에 2.1%) 새 칸(GOOG 는 GOOGL 칸이 이미 있어 같은 회사라 뺌). 기간 「3분기 · 2026년 7~9월」: 매출 102.297억 달러(+65%, 1년 전 61.944억 — 회사 발표 표 숫자, 계산하면 +65.1%), 인수 효과 빼면 +37%, 통신 솔루션 65.83억(+99%)·혹독한 환경용 20.42억(+35%)·연결·센서 16.05억(+17%), 회계 EPS 0.79달러·조정 EPS 0.80달러(1년 전 0.46, 9월 2대1 분할 반영), 조정 영업이익률 29.7%, 주문/매출 1.19. 다음 분기(10~12월) 회사 전망 매출 103억~105억 → guide, 조정 EPS 0.81~0.83달러, 올해 매출 369억~371억. 발표 전 매출 예상 est 94.9억(Newsquawk, 다른 매체 숫자는 확인 못 함), 다음 분기 cons 확인 못 해 null(note 에 밝힘). 다음 발표일 공지 없음 → "2027년 1월 말 (예상 · 회사 발표일 공지 전)", 새 일정 안 넣음. 부문 숫자는 money.json APH 와 같아요(부문 표는 전재본 뒷부분 요약으로 봄 — 세 부문 합이 총매출과 맞음). 회사 발표 2026-10-28 장 시작 전, 반영 2026-11-23 09:25 KST.
+- 출처: [암페놀 3분기 실적 발표 (Business Wire 전재, ariva)](https://www.ariva.de/news/amphenol-reports-record-third-quarter-2026-results-and-12184992) · [Newsquawk 예상치](https://www.newsquawk.com/headlines/amphenol-aph-q3-2026-usd-adj-eps-080-exp-073-sales-102bln-exp-949bln) · [Zacks](https://www.zacks.com/stock/news/3017653/amphenols-q3-earnings-beat-estimates-revenues-rise-yy) · 공식 여부: 공식(실적, 전재본) / 보도(예상치)
+- 확신도: 높음 (매출·EPS 는 표 숫자 / 조정 EPS 1년 전·부문 표는 요약으로 봄)
+- 참고: 남은 칸 없는 앱 종목(ETF 제외): LIN·SHOP·SATS(ECHO)·IREN·TTMI·STX·VICR·NXE·DNN.
+
+### T-20261123-0923-2 · 반영 · A-20261123-0904-1 넘김에 대해 — MU 실적 카드 「다음 발표」를 확정 날짜로
+- 시각: 2026-11-23 09:25 KST
+- 내용: Archer 가 찾은 마이크론 회사 보도자료(11/19, FY27 1분기 실적 콜 12/17 오후 2:30 산악 시간)에 따라 earnings.json MU chart.next.when 을 "2026년 12월 중순 (예상 · 회사 발표일 공지 전)" → "2026년 12월 17일 (미국 장 마감 후)"로 되돌렸어요(T-20261121-1523-1 에서 '예상'으로 바꾼 것이 틀렸어요). 이번 차례 검색에는 지난해 공지만 나와 Archer 가 확인한 회사 보도자료를 근거로 했어요. events.json MU 일정(when·tbd)은 Archer 가 Quill 에 요청한 몫이라 건드리지 않았어요. 실적 숫자는 그대로.
+- 출처: [마이크론 보도자료 — 1분기 실적 발표일 (회사 IR, 11/19)](https://micron.gcs-web.com/news-releases/news-release-details/micron-technology-report-fiscal-first-quarter-results-december-7) · ops/board/archer.md A-20261123-0904-1 · 공식 여부: 공식
+- 확신도: 높음
+- 교훈: 해마다 같은 날짜인 실적 발표일 공지는 검색 상위만 보고 "공지 전"이라 적지 않고, 회사 IR 최근 보도자료 목록의 날짜를 확인해요(A-20261123-0904-2 와 같음).
