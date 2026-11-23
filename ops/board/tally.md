@@ -350,3 +350,11 @@
 - 출처: [Earnings Whispers (finviz)](https://finviz.com/news/423660/infleqtion-misses-as-revenue-slips-and-losses-widen-but-early-logical-qubit-milestone-and-rpo-surge-keep-the-2027-case-intact) · [Panabee](https://www.panabee.com/news/infleqtion-earnings-q3-2026) · [Quiver Quantitative](https://www.quiverquant.com/news/INFLEQTION+%28%24INFQ%29+Releases+Q3+2026+Earnings%2C+Stock+Rises) · [TTM 3분기 실적 (SEC 8-K)](https://www.sec.gov/Archives/edgar/data/0001116942/000119312526428263/d282109dex991.htm) · data/live.json · 공식 여부: 보도 / 공식 / 저장소
 - 확신도: 중간 (주가 반응은 종가 기록 기준, 매체 해석은 세 곳)
 - 넘김: Quill — ROK 일정(11/18 event) "ROIC 20% 넘게" 풀어 쓰기
+
+### T-20261123-1623-1 · 새 칸 · IREN 실적 카드 (대표 승인 38번에 따라)
+- 시각: 2026-11-23 16:26 KST
+- 내용: 이번 차례 A·B 대상 없음(events.json 지난 earn 일정 모두 done, 다음 확정일은 ADI 11/24 21:00·DELL 11/24 장 마감 후). 지난 차례들이 IREN 을 "11/25 발표 때"로 미뤘지만, 검색해 보니 FY27 1분기(7~9월) 실적은 이미 **2026-11-05(미국 장 마감 후)** 발표됐어요 → 이번에 새 칸. 기간 「FY27 1분기 · 2026년 7~9월」: 매출 2.28억 달러(-5%, 1년 전 2.403억 — 2025-11-06 회사 발표 숫자, 감소율은 계산값 -5.1%, Earnings Whispers 도 -5.1%), 직전 분기 1.37억에서 +66%. AI 클라우드 2.00억(서비스 1.35억 + 임대 6,500만, 직전 분기 7,100만, +182%)·비트코인 채굴 2,800만(1년 전 2.329억). 순손실 2.63억, 주당 0.62달러 손실(Zacks 예상 0.49달러 손실), 조정 EBITDA 6,600만(직전 분기 1,900만). 회사 분기 매출 전망 없음 → guide null + gtext(ARR 40억 달러 넘게 2027년 1월 목표, 2월 말로 밀릴 수 있음). 계약 잔고 203억 달러, FY27 남은 설비투자 150억 중 60억은 자금 조달 중. 발표 전 매출 예상 est 2.20억(Zacks 집계, Earnings Whispers 칸은 비어 있음). 다음 분기 cons 확인 못 해 null. 다음 발표일 공지 없음 → "2027년 2월 (예상 · 회사 발표일 공지 전)", 새 일정 안 넣음. AI 클라우드·채굴 금액은 money.json IREN 과 같아요. 회사 발표 2026-11-05 장 마감 후, 반영 2026-11-23 16:26 KST.
+- 출처: [아이렌 1분기 실적 발표 (GlobeNewswire 전재, finviz)](https://finviz.com/news/417608/iren-reports-q1-fy27-results) · [아이렌 2025년 1분기 실적 (GlobeNewswire)](https://www.globenewswire.com/news-release/2025/11/06/3183028/0/en/IREN-Reports-Q1-FY26-Results.html) · [Zacks](https://www.zacks.com/stock/news/3025568/) · [Earnings Whispers](https://www.earningswhispers.com/epsdetails/IREN/202609) · 공식 여부: 공식(실적, 전재본) / 보도(예상치)
+- 확신도: 높음 (실적은 회사 발표 표 숫자 / 예상치는 Zacks 집계 한 곳)
+- 교훈: 남은 칸 목록에 "다음 발표 때"라고 적어 둔 회사도 실제 발표일을 검색해 봐요. IREN 은 11/5 에 이미 발표했는데 여러 차례 "11/25 발표 때"로 미뤄졌어요.
+- 참고: 실적 카드 첫 출처는 전재본이라, SEC 6-K/8-K 원문(money.json IREN 에 링크 있음)과 대조해 바꿔 주면 좋아요 — 요청: Tally B. 남은 칸 없는 앱 종목(ETF 제외): SATS(ECHO)·NXE·DNN.
