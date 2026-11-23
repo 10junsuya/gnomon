@@ -1,18 +1,38 @@
 {
-"updated_kst": "2026-11-23 10:44",
-"rot": 20,
+"updated_kst": "2026-11-23 11:02",
+"rot": 80,
 "how": "Scout(프로그램)이 10분마다 모은 기사 제목·링크와 공시예요. Wren이 공식 출처로 확인한 뒤 회사 화면에 한국어로 반영해요. 본문은 받지 않아요.",
 "sources": {
 "Yahoo Finance": "120종목 확인 · 실패 0",
 "CNBC": "63건",
 "Bloomberg": "27건",
 "WSJ": "61건",
-"Reuters": "57건",
+"Reuters": "34건",
 "FinancialJuice": "100건",
 "SEC EDGAR": "실패 HTTPError",
 "Fox Business": "50건"
 },
 "items": [
+{
+"id": "5c828c667cf3",
+"t": "NVDA",
+"title": "Jensen Huang Has Lost $92 Billion and Nvidia’s Board Does Not Intend to Bring Him Back. Here’s What 9 Stocks Did the Year After Their Founder Handed Over",
+"url": "https://247wallst.com/investing/2026/11/22/jensen-huang-has-lost-92-billion-and-nvidias-board-does-not-intend-to-bring-him-back-heres-what-9-stocks-did-the-year-after-their-founder-handed-over/?.tsrc=rss",
+"pub": "2026-11-23T01:47:00+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-23T02:02:50+00:00"
+},
+{
+"id": "f6d6c33d1961",
+"t": "NVDA",
+"title": "With the Nasdaq in a Correction, Vanguard's Tech ETF Is the Fund I'd Buy Now",
+"url": "https://www.fool.com/investing/2026/11/22/with-the-nasdaq-in-a-correction-vanguard-s-tech-etf-is-the-fund-i-d-buy-now/?.tsrc=rss",
+"pub": "2026-11-23T01:43:02+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-23T02:02:50+00:00"
+},
 {
 "id": "80c60a72ce04",
 "t": "NOK",
@@ -7994,24 +8014,24 @@
 "seen": "2026-11-20T21:44:59+00:00"
 },
 {
-"id": "96d74761d659",
-"t": "NVDA",
-"title": "Nvidia Stock Just Lost $900 Billion in Its Worst Week Since 2008. The Last Time the SEC Examined Nvidia’s Accounting, the Stock Fell 81% in a Year",
-"url": "https://247wallst.com/investing/2026/11/20/nvidia-stock-just-lost-900-billion-in-its-worst-week-since-2008-the-last-time-the-sec-examined-nvidias-accounting-the-stock-fell-81-in-a-year/?.tsrc=rss",
-"pub": "2026-11-20T21:33:04+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-20T21:44:59+00:00"
+"id": "6cc224ebed9a",
+"t": "",
+"title": "Why Asia Market Stabilization Measures May Not Be Enough",
+"url": "https://www.bloomberg.com/news/videos/2026-11-23/why-asia-market-stabilization-measures-may-not-be-enough-video",
+"pub": "2026-11-23T01:59:03+00:00",
+"src": "Bloomberg",
+"kind": "market",
+"seen": "2026-11-23T02:02:50+00:00"
 },
 {
-"id": "d8ea1d9ace1d",
-"t": "GS",
-"title": "Matthew Nicholls of Franklin Templeton, Inc. to Speak at the Goldman Sachs 2026 US Financial Services Conference on December 8, 2026",
-"url": "https://finance.yahoo.com/markets/stocks/articles/matthew-nicholls-franklin-templeton-inc-213000647.html?.tsrc=rss",
-"pub": "2026-11-20T21:30:00+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-20T21:44:59+00:00"
+"id": "efe3b26822e6",
+"t": "",
+"title": "How the WSJ Determined Mark Walter’s Total Borrowing",
+"url": "https://www.wsj.com/finance/magic-johnson-mark-walters-methodologytal-borrowing-990d6693?mod=rss_markets_main",
+"pub": "2026-11-23T01:44:00+00:00",
+"src": "WSJ",
+"kind": "market",
+"seen": "2026-11-23T02:02:50+00:00"
 },
 {
 "id": "b34163a0ac08",
@@ -8802,6 +8822,16 @@
 "src": "Reuters",
 "kind": "market",
 "seen": "2026-11-23T00:14:09+00:00"
+},
+{
+"id": "99fcd5ec48ad",
+"t": "",
+"title": "8285.JNX - | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFB3dEZkTy1KSHh5MkZySEpZenp0d3ZjUG1TdzZsb3JpX3B4MG1sNG1IdEVqTXZjOVJhemthVGk4LWRDeU54Z1kyWGY4Wm9IX1J1QVBCYVU0VEVLQWtvQWNUc1VKNUNKLUI1Y1FfaGJFTWxvRjNURjE1SVhQejVJdw?oc=5",
+"pub": "2026-11-22T14:47:44+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-23T02:02:50+00:00"
 },
 {
 "id": "9020aeaad346",
@@ -10982,36 +11012,6 @@
 "src": "Reuters",
 "kind": "market",
 "seen": "2026-11-22T05:14:17+00:00"
-},
-{
-"id": "699965c167dc",
-"t": "",
-"title": "Anthropic Fails to Calm AI Jitters, Ditching the Kitchen for Thanksgiving",
-"url": "https://www.bloomberg.com/news/videos/2026-11-21/bloomberg-this-weekend-11-21-2026-video",
-"pub": "2026-11-21T17:01:32+00:00",
-"src": "Bloomberg",
-"kind": "market",
-"seen": "2026-11-21T18:15:18+00:00"
-},
-{
-"id": "3f035c6124d9",
-"t": "",
-"title": "Glanbia PLC (GL9.I) | Stock Price & Latest News - Reuters",
-"url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBXNFYtS1NQSkdOUE1YNURGQnZ6ZFlMRzFmalFZUVNHaV9uQ0lyWFpHdDNWT3ZhUHdvNDVIVWUwb1FtLThaRUo2Z3dyTzlJNW4zbzJxbUF3SmFnOVhx?oc=5",
-"pub": "2026-11-21T17:00:41+00:00",
-"src": "Reuters",
-"kind": "market",
-"seen": "2026-11-21T21:31:18+00:00"
-},
-{
-"id": "f5d8562472c6",
-"t": "",
-"title": "What It’s Like to Retire in Thailand",
-"url": "https://www.wsj.com/personal-finance/retirement/retire-in-thailand-6853f4a7?mod=rss_markets_main",
-"pub": "2026-11-21T17:00:00+00:00",
-"src": "WSJ",
-"kind": "market",
-"seen": "2026-11-21T17:14:26+00:00"
 }
 ]
 }
