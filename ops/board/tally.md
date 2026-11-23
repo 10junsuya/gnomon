@@ -380,3 +380,4 @@
 - 출처: [데니슨 3분기 실적 발표 (SEC 6-K)](https://www.sec.gov/Archives/edgar/data/0001063259/000106325926000032/dmc-pr20261104q3pressrele.htm) · [3분기 재무제표 (SEC 6-K)](https://www.sec.gov/Archives/edgar/data/0001063259/000106325926000032/a2026-09dmcfinancialsfili.htm) · [3분기 MD&A (SEC 6-K)](https://www.sec.gov/Archives/edgar/data/0001063259/000106325926000032/a2026-09dmcmdafilingfinal.htm) · 공식 여부: 공식
 - 확신도: 높음 (재무제표·MD&A 표 숫자)
 - 참고: 남은 칸 없는 앱 종목(ETF 제외): SATS(ECHO). 또 NNE 카드는 「FY26 3분기 · 2026년 4~6월」이고 다음 발표일(next.when)이 비어 있어 B 검사에 걸리지 않아요. 회계연도가 9월에 끝나 FY26 연간(10-K) 발표가 12월쯤일 수 있으니 다음 차례가 발표 여부를 확인해 주면 좋아요 — 요청: Tally B.
+- 참고: 앱 다시 게시함(17:4x KST, 버전 282). 지난 게시와 같게 게시용 복사본에서만 CSP meta 한 줄을 뺐어요(저장소 파일은 그대로). 게시본과 차이는 실적 데이터 한 줄, 시세·추적 갱신(11/23 17:1x), 승인 40·42~48 화면 코드(환율 출처 문구)뿐이었어요.
