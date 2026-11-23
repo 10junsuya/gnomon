@@ -3226,3 +3226,21 @@ Scout(소식 감지 프로그램)가 모은 기사·공시를 공식 출처로 �
 - 내용: Scout를 직접 돌린 뒤(성공, 21:4x KST 갱신) 새 항목 54건(news 42·market 12) 모두 처리. 반영 2건(ARM 보도·UUUU 공식). 건너뜀: CRWD-ZS 인수 기사 4건(IBTimes·스탁트윗·인베스터스허브·Verdict 류 — 20:13 차례에 공식 갱신함)·CRWD·ZS 실적 요약(Tally 담당), 트레피스 '주가 왜 움직였나' 약 9건, 모틀리풀·24/7·잭스·티커 의견·비교·추천 글(블랙프라이데이 종목·엔비디아 1년 뒤·ASML vs TSMC·마벨·디즈니 vs 넷플릭스·스페이스X ETF·IREN 가치·크레도), 티커 '델·슈퍼마이크로 서버값 최대 45% 인상 요구'(블로그 글 — 믿을 만한 원 보도 확인 못 함), 'V2X-마이크로소프트 협력 확대'(V2X 는 앱 종목 아님), 'Unspun CEO'·'Finlay Minerals'(앱 종목 아님), '자나두 PennyLane 사용 36% 증가'(홍보성), '모더나 12월 학회 발표'(일정 공지), '테슬라 노인 운전자 광고'(칼럼), '이달 신약 승인 정리'·'S&P500 11개 종목'·'AI 지출 둔화'(Axios 칼럼)·'AI 매도가 약세장 부를까'·'테크 기업 자금 조달'(블룸버그 정리 글)·'AI 큰손 투자자'(영상), '유럽 클린테크 주식'(주가 글). market 12건(FinancialJuice 도이체방크 2027 전망 5건·영국 EU 협상, 블룸버그 인도 석탄 공모·유럽 은행 M&A·콩고 코발트 수출 금지 재개, 로이터 시세 페이지 3건 — 21시대라 done 만). done 은 대기 목록에 없는 오래된 id 부터 잘라 3000개 유지(저장 뒤 JSON 다시 읽어 확인). companies.json 은 원래 줄 모양(항목당 한 줄) 그대로 다시 썼어요. 나에게 온 새 요청(RULES 0-3): 없음. 미국 지표: 미국 동부 11-23 07:4x(월) — 오늘 발표 없음(다음 pce·claims 11-25), 매크로 수집 안 돌림, 분석 모두 최신. A 지도: 고칠 것 없음. 앱 다시 게시함(21:5x KST, 버전 289). 게시용 복사본에서만 CSP meta 한 줄을 뺐어요(저장소 파일은 그대로).
 - 출처: ops/scout/newsq.json · 공식 여부: 저장소
 - 확신도: 높음
+
+### W-20261123-2213-1 · 반영 · ARM 르네 하스 CEO 2033년까지 새 계약 (보도 → 공식)
+- 시각: 2026-11-23 22:2x KST
+- 내용: Arm 이 보도자료로 르네 하스 CEO의 2033년까지 새 계약을 발표했고, 하스는 2026-12-01 부터 소프트뱅크그룹 부회장도 맡아요. 21:43 차례에 '보도'로 넣은 news.ARM 첫 줄을 새로 넣지 않고 공식으로 갱신(한국 11-23 21:00, 뉴스룸 게시 12:00 UTC 기준). 보수·주식 조건은 발표에 없음. A 지도: 관계 변화 아님.
+- 출처: [Arm 뉴스룸](https://newsroom.arm.com/news/arm-ceo-rene-haas-long-term-commitment-to-lead-companys-next-phase-of-growth) · [Business Wire](https://www.businesswire.com/news/home/20261123611198/en/Arm-CEO-Rene-Haas-Affirms-Long-Term-Commitment-to-Lead-Companys-Next-Phase-of-Growth) · 공식 여부: 공식
+- 확신도: 높음
+
+### W-20261123-2213-2 · 반영 · BWXT 웨스팅하우스 AP1000 부품 시험 제작 주문
+- 시각: 2026-11-23 22:2x KST
+- 내용: 웨스팅하우스(캐나다)가 BWXT 캐나다에 AP1000 핵심 부품 제작 자격 인증용 시험 제작을 주문했어요 — 증기발생기(온타리오 케임브리지 공장)·원자로 내부 구조물(펜실베이니아 요크 공장). 금액·특정 원전은 밝히지 않음. 두 회사 공동 보도자료(Business Wire, 08:00 EST). BWXT 는 news 칸이 없던 앱 종목이라 news.BWXT 를 새로 만들었어요(칸 구성 변경 아님). A 지도: power 지도에 웨스팅하우스가 없어 관계 넣지 않음.
+- 출처: [웨스팅하우스·BWXT 보도자료 (StockTitan 전재)](https://www.stocktitan.net/news/BWXT/westinghouse-canada-awards-bwxt-ap1000-manufacturing-qualification-wgl1e797m3me.html) · [Stockhouse](https://stockhouse.com/news/press-releases/2026/11/23/westinghouse-canada-awards-bwxt-ap1000-xae-manufacturing-qualification-contracts) · 공식 여부: 공식
+- 확신도: 높음
+
+### W-20261123-2213-3 · 알림 · 이번 차례
+- 시각: 2026-11-23 22:2x KST
+- 내용: Scout를 직접 돌린 뒤(성공, 22:2x KST 갱신) 새 항목 100건(news 56·market 44) 모두 처리. 반영 2건(ARM 공식 갱신·BWXT 공식). 건너뜀: 하스 계약 연장 기사 3건(스탁트윗·야후·야후 UK — 위 ARM 갱신과 같은 사건), 'FedEx 컨소시엄 인포스트 인수 마무리'(news.FDX 11-20 공식 줄과 같은 사건), '레볼루션 RAS 억제제 췌장암'(news.RVMD 11-20 공식 줄과 같은 자료), '일라이릴리 로쿠스23'·'코노코필립스 노르웨이'(이미 반영), '스토크·바이오젠 학회 발표 예정'(일정 공지), 'SATO 고객 Datum B300 가동'·Aviz·Hammerspace·Hammond Power 이사회(앱 종목 아닌 회사 발표), 골드만 ETF 텍사스 거래소 이전(소규모 상장 이전), 로빈스 법무법인 BABA 집단소송 안내(광고성), 트레피스 '주가 왜 움직였나' 약 14건, 모틀리풀·24/7·잭스·티커·벤징가·TIKR 의견·전망·추천 글(알파벳·드러켄밀러·인텔·맥도날드·테슬라 자율주행·로켓랩 가격·크레스 CEO·갤러웨이·개빈 베이커·DA 데이비슨 소송비), 장전 시황·금값·M&A 기록·ETF 정리·유로 전망·야데니 목표치(시장·의견 글). market 44건(WSJ Market Talk 5건·금 반등, 블룸버그 우크라이나·브라질 헤알·유럽 반도체 영상, FinancialJuice 스트래티지 비트코인 2건·SOFR·이란 가스, 로이터 시세 페이지 약 30건 — 22시대라 done 만). done 은 대기 목록에 없는 오래된 id 부터 잘라 3000개 유지(저장 뒤 JSON 다시 읽어 확인). 나에게 온 새 요청(RULES 0-3): 없음. 미국 지표: 미국 동부 11-23 08:2x(월) — 오늘 발표 없음(다음 pce·claims 11-25), 매크로 수집 안 돌림, 분석 모두 최신. A 지도: 고칠 것 없음.
+- 출처: ops/scout/newsq.json · 공식 여부: 저장소
+- 확신도: 높음
