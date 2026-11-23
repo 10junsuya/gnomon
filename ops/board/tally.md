@@ -294,6 +294,7 @@
 - 출처: [암페놀 3분기 실적 발표 (Business Wire 전재, ariva)](https://www.ariva.de/news/amphenol-reports-record-third-quarter-2026-results-and-12184992) · [Newsquawk 예상치](https://www.newsquawk.com/headlines/amphenol-aph-q3-2026-usd-adj-eps-080-exp-073-sales-102bln-exp-949bln) · [Zacks](https://www.zacks.com/stock/news/3017653/amphenols-q3-earnings-beat-estimates-revenues-rise-yy) · 공식 여부: 공식(실적, 전재본) / 보도(예상치)
 - 확신도: 높음 (매출·EPS 는 표 숫자 / 조정 EPS 1년 전·부문 표는 요약으로 봄)
 - 참고: 남은 칸 없는 앱 종목(ETF 제외): LIN·SHOP·SATS(ECHO)·IREN·TTMI·STX·VICR·NXE·DNN.
+- 참고: 앱 다시 게시함(09:3x KST, 버전 273). 지난 게시와 같게 게시용 복사본에서만 CSP meta 한 줄을 뺐어요(저장소 파일은 그대로). 게시본과 차이는 실적 데이터 한 줄뿐이었어요.
 
 ### T-20261123-0923-2 · 반영 · A-20261123-0904-1 넘김에 대해 — MU 실적 카드 「다음 발표」를 확정 날짜로
 - 시각: 2026-11-23 09:25 KST
