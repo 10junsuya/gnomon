@@ -1,6 +1,6 @@
 {
-"updated_kst": "2026-11-24 21:44",
-"rot": 112,
+"updated_kst": "2026-11-24 21:48",
+"rot": 172,
 "how": "Scout(프로그램)이 10분마다 모은 기사 제목·링크와 공시예요. Wren이 공식 출처로 확인한 뒤 회사 화면에 한국어로 반영해요. 본문은 받지 않아요.",
 "sources": {
 "Yahoo Finance": "120종목 확인 · 실패 0",
@@ -10,7 +10,7 @@
 "CNBC": "63건",
 "Bloomberg": "40건",
 "WSJ": "61건",
-"Reuters": "44건",
+"Reuters": "41건",
 "FinancialJuice": "100건",
 "SEC EDGAR": "실패 HTTPError",
 "Fox Business": "50건"
@@ -37,6 +37,16 @@
 "seen": "2026-11-24T12:44:57+00:00"
 },
 {
+"id": "7afe494b2175",
+"t": "NVDA",
+"title": "Nvidia Faces an SEC Probe, According to Press Reports. Should You Still Buy the Stock?",
+"url": "https://www.fool.com/investing/2026/11/24/nvidia-faces-an-sec-probe-according-to-press-reports-should-you-still-buy-the-stock/",
+"pub": "2026-11-24T12:35:01+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-24T12:48:28+00:00"
+},
+{
 "id": "0e74fa050143",
 "t": "NVDA",
 "title": "YYForce (NASDAQ: YFOR) Launches Trained Humanoid Robot for Hotel Concierge Service Using NVIDIA Jetson and Isaac Sim",
@@ -55,6 +65,16 @@
 "src": "Yahoo Finance",
 "kind": "news",
 "seen": "2026-11-24T12:44:57+00:00"
+},
+{
+"id": "2d38db271daf",
+"t": "MPC",
+"title": "America's Biggest Manufacturers, Farmers, Railroads and Labor Unions Unite Against UP-NS Merger",
+"url": "https://finance.yahoo.com/economy/policy/articles/americas-biggest-manufacturers-farmers-railroads-123000299.html",
+"pub": "2026-11-24T12:30:00+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-24T12:48:28+00:00"
 },
 {
 "id": "5e3a663cd55a",
@@ -257,6 +277,16 @@
 "seen": "2026-11-24T12:44:57+00:00"
 },
 {
+"id": "7d3096459108",
+"t": "CSCO",
+"title": "Why Cisco Fans May Look To ETFs After Its OpenAI Security Push",
+"url": "https://finance.yahoo.com/markets/stocks/articles/why-cisco-fans-may-look-121037446.html",
+"pub": "2026-11-24T12:10:37+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-24T12:48:28+00:00"
+},
+{
 "id": "ffa7053ec496",
 "t": "NVDA",
 "title": "Nvidia's Role as AI Industry Advocate Likely to Continue Following Huang's Return Amid Focus on Regulatory Policy, Wedbush Says",
@@ -317,6 +347,16 @@
 "seen": "2026-11-24T12:15:38+00:00"
 },
 {
+"id": "544b890a7a97",
+"t": "BABA",
+"title": "US Blacklists Alibaba Subsidiary Over AI Chip Risks. Chinese Tech Giant Vows Legal Fight.",
+"url": "https://www.ibtimes.com/alibaba-singapore-subsidiary-us-trade-blacklist-3810123",
+"pub": "2026-11-24T12:07:15+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-24T12:48:28+00:00"
+},
+{
 "id": "8a41881bbd02",
 "t": "GOOGL",
 "title": "OpenAI’s Greg Brockman: “The World Is Not Building Enough Compute.” Wall Street Just Stopped Raising Capex Forecasts",
@@ -355,6 +395,16 @@
 "src": "Yahoo Finance",
 "kind": "news",
 "seen": "2026-11-24T12:15:38+00:00"
+},
+{
+"id": "a03ad4e4b775",
+"t": "CRM",
+"title": "TD Cowen Cut Its Salesforce Target to $275 From $300. It Still Sees 48% Upside",
+"url": "https://www.tikr.com/blog/td-cowen-cut-its-salesforce-target-to-275-from-300-it-still-sees-48-upside",
+"pub": "2026-11-24T12:03:34+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-24T12:48:28+00:00"
 },
 {
 "id": "dec4d4462150",
@@ -497,6 +547,16 @@
 "src": "Yahoo Finance",
 "kind": "news",
 "seen": "2026-11-24T12:44:57+00:00"
+},
+{
+"id": "416ef78357b1",
+"t": "CME",
+"title": "FutureSports to Develop First-Ever Broad-Based Basketball Performance Indexes",
+"url": "https://finance.yahoo.com/markets/options/articles/futuresports-develop-first-ever-broad-120000000.html",
+"pub": "2026-11-24T12:00:00+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-24T12:48:28+00:00"
 },
 {
 "id": "941cc0af6a34",
@@ -649,6 +709,16 @@
 "seen": "2026-11-24T12:15:38+00:00"
 },
 {
+"id": "77a8c9bdbea4",
+"t": "BRKB",
+"title": "Warren Buffett gave $1.3B to family foundations at 95 because his kids, 68 to 73, may not age as slowly as he has",
+"url": "https://finance.yahoo.com/markets/stocks/articles/warren-buffett-gave-1-3b-114000975.html",
+"pub": "2026-11-24T11:40:00+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-24T12:48:28+00:00"
+},
+{
 "id": "1dc5119fced6",
 "t": "AAPL",
 "title": "Nvidia Added $954 Billion In A Day. Is Jensen Huang Too Big To Fire?",
@@ -697,6 +767,16 @@
 "src": "Yahoo Finance",
 "kind": "news",
 "seen": "2026-11-24T12:15:38+00:00"
+},
+{
+"id": "4d1179aa403a",
+"t": "NXE",
+"title": "NexGen Grows High-Grade Subdomain Vertically and Along Strike and Further Confirms Strong Continuity of Intense High-Grade Mineralization at Patterson Corridor East (PCE)",
+"url": "https://finance.yahoo.com/markets/commodities/articles/nexgen-grows-high-grade-subdomain-113000139.html",
+"pub": "2026-11-24T11:30:00+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-24T12:48:28+00:00"
 },
 {
 "id": "c600168aab0f",
@@ -1627,6 +1707,16 @@
 "src": "Yahoo Finance",
 "kind": "news",
 "seen": "2026-11-24T10:44:44+00:00"
+},
+{
+"id": "33835ee0afad",
+"t": "INSM",
+"title": "Insmed Stock Jumps 14% on $41 Billion Sanofi Deal. Why the Price Is Right.",
+"url": "https://finance.yahoo.com/m/7a952b43-9d5d-34d0-a5f6-868bdeb1ee28/insmed-stock-jumps-14%25-on-%2441.html",
+"pub": "2026-11-24T10:31:00+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-24T12:48:28+00:00"
 },
 {
 "id": "74ad2aa6ca7f",
@@ -7932,94 +8022,24 @@
 "seen": "2026-11-23T18:14:06+00:00"
 },
 {
-"id": "5c3cc56ec580",
-"t": "NVDA",
-"title": "6 Questions About Jensen Huang's Stunning Return as Nvidia CEO",
-"url": "https://time.com/article/2026/11/23/jensen-huang-return-nvidia-trump/",
-"pub": "2026-11-23T18:00:37+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-23T18:14:06+00:00"
+"id": "7155040ce580",
+"t": "",
+"title": "France 2027 Budget: When It Is, Article 49.3 and Executive Orders",
+"url": "https://www.bloomberg.com/news/articles/2026-11-24/france-2027-budget-when-it-is-article-49-3-and-executive-orders",
+"pub": "2026-11-24T12:47:33+00:00",
+"src": "Bloomberg",
+"kind": "market",
+"seen": "2026-11-24T12:48:28+00:00"
 },
 {
-"id": "ac0ec42b6b47",
-"t": "PWR",
-"title": "MasTec (MTZ) Stock Is Up 10.8% Today Without Company News",
-"url": "https://finance.yahoo.com/markets/stocks/articles/mastec-mtz-stock-10-8-180031675.html",
-"pub": "2026-11-23T18:00:31+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-23T18:14:06+00:00"
-},
-{
-"id": "518c8c5e3750",
-"t": "NVDA",
-"title": "Why Power Integrations (POWI) Stock Is Up 11.2% Today: Chip Rally on Nvidia News",
-"url": "https://finance.yahoo.com/markets/stocks/articles/why-power-integrations-powi-stock-180030974.html",
-"pub": "2026-11-23T18:00:30+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-23T18:14:06+00:00"
-},
-{
-"id": "c6575084cc34",
-"t": "MU",
-"title": "Why Is Ambiq Micro (AMBQ) Stock Up Today? Nvidia's CEO Return Lifts Chip Stocks",
-"url": "https://finance.yahoo.com/markets/stocks/articles/why-ambiq-micro-ambq-stock-180029085.html",
-"pub": "2026-11-23T18:00:29+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-23T18:14:06+00:00"
-},
-{
-"id": "7d269b9456ce",
-"t": "TSLA",
-"title": "China’s Electric Cars Are Taking Over The World. Where Does That Leave Tesla?",
-"url": "https://www.benzinga.com/markets/prediction-markets/26/11/63550701/chinese-evs-tesla",
-"pub": "2026-11-23T18:00:07+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-23T18:14:06+00:00"
-},
-{
-"id": "59164541dbfd",
-"t": "CRCL",
-"title": "Why MoonPay wants a National Trust Bank",
-"url": "https://finance.yahoo.com/video/why-moonpay-wants-a-national-trust-bank-184201009.html",
-"pub": "2026-11-23T18:00:00+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-23T18:44:28+00:00"
-},
-{
-"id": "94d650007983",
-"t": "NVDA",
-"title": "Why Zscaler Stock Rocketed Higher Today",
-"url": "https://www.fool.com/investing/2026/11/23/why-zscaler-stock-rocketed-higher-today/",
-"pub": "2026-11-23T17:58:30+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-23T18:14:06+00:00"
-},
-{
-"id": "1c4d3c788203",
-"t": "NVDA",
-"title": "Nvidia Shares Soar 33% as Short Sellers Take a $12 Billion Hit",
-"url": "https://www.cryptoprowl.com/releases/nvidia-shares-soar-33-as-short-sellers-take-a-12-billion-hit-8034",
-"pub": "2026-11-23T17:57:00+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-23T18:14:06+00:00"
-},
-{
-"id": "b7d23886d608",
-"t": "NVDA",
-"title": "QuEra Computing Joins Harvard-Led, $12 Million DOE Project to Design AI-Driven Error Correction for Fault-Tolerant Quantum Computing",
-"url": "https://finance.yahoo.com/technology/ai/articles/quera-computing-joins-harvard-led-175700175.html",
-"pub": "2026-11-23T17:57:00+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-23T18:14:06+00:00"
+"id": "fe8272da42bf",
+"t": "",
+"title": "BoE’s Greene: Turnaround in data or war needed to change view",
+"url": "https://www.financialjuice.com/News/9866044/BoEs-Greene-Turnaround-in-data-or-war-needed-to-change-view.aspx?xy=rss",
+"pub": "2026-11-24T12:46:58+00:00",
+"src": "FinancialJuice",
+"kind": "market",
+"seen": "2026-11-24T12:48:28+00:00"
 },
 {
 "id": "2bd920280a6d",
@@ -11000,26 +11020,6 @@
 "src": "Bloomberg",
 "kind": "market",
 "seen": "2026-11-23T21:44:13+00:00"
-},
-{
-"id": "369af77b756e",
-"t": "",
-"title": "Three Tankers involved in illegal activities explode in the Strait of Hormuz due to naval mines - IRIB News.",
-"url": "https://www.financialjuice.com/News/9865037/Three-Tankers-involved-in-illegal-activities-explode-in-the-Strait-of-Hormuz-due-to-naval-mines---IRIB-News.aspx?xy=rss",
-"pub": "2026-11-23T21:02:56+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-23T21:14:46+00:00"
-},
-{
-"id": "a8cd7084a24e",
-"t": "",
-"title": "‘I Fell Off My Chair.’ Investors Marvel as Huang’s Return Sends Stocks Rocketing.",
-"url": "https://www.wsj.com/finance/stocks/i-fell-off-my-chair-investors-marvel-as-huangs-return-sends-stocks-rocketing-98131bc6",
-"pub": "2026-11-23T21:02:00+00:00",
-"src": "WSJ",
-"kind": "market",
-"seen": "2026-11-23T21:14:46+00:00"
 }
 ]
 }
