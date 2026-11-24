@@ -1,21 +1,41 @@
 {
-"updated_kst": "2026-11-24 15:58",
-"rot": 107,
+"updated_kst": "2026-11-24 16:14",
+"rot": 167,
 "how": "Scout(프로그램)이 10분마다 모은 기사 제목·링크와 공시예요. Wren이 공식 출처로 확인한 뒤 회사 화면에 한국어로 반영해요. 본문은 받지 않아요.",
 "sources": {
 "Yahoo Finance": "120종목 확인 · 실패 0",
-"GlobeNewswire": "0건",
+"GlobeNewswire": "실패 HTTPError",
 "PR Newswire": "0건",
 "Business Wire": "0건",
 "CNBC": "63건",
 "Bloomberg": "40건",
 "WSJ": "61건",
-"Reuters": "50건",
+"Reuters": "53건",
 "FinancialJuice": "100건",
 "SEC EDGAR": "실패 HTTPError",
 "Fox Business": "50건"
 },
 "items": [
+{
+"id": "eb580fafb97d",
+"t": "NVDA",
+"title": "TSMC, Samsung, SK Hynix Rally As Jensen Huang Returns As Nvidia CEO — Top Analyst Flags Risks To AI Recovery",
+"url": "https://stocktwits.com/news-articles/markets/equity/tsmc-samsung-sk-hynix-rally-as-jensen-huang-returns-as-nvidia-ceo-top-analyst-flags-risks-to-ai-recovery/cNbr6E1R9kE",
+"pub": "2026-11-24T07:00:06+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-24T07:14:12+00:00"
+},
+{
+"id": "cce34c4ce2f7",
+"t": "STM",
+"title": "STMicroelectronics introduces VL53LB, its smallest Time-of-Flight ranging sensor that completes the FlightSense™ portfolio, bringing longer-range depth sensing to slimmer, lower-power devices",
+"url": "https://finance.yahoo.com/technology/articles/stmicroelectronics-introduces-vl53lb-smallest-time-070000042.html",
+"pub": "2026-11-24T07:00:00+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-24T07:14:12+00:00"
+},
 {
 "id": "5a32cfca1ede",
 "t": "NVDA",
@@ -45,6 +65,26 @@
 "src": "Yahoo Finance",
 "kind": "news",
 "seen": "2026-11-24T06:58:39+00:00"
+},
+{
+"id": "e053ad6077fb",
+"t": "INSM",
+"title": "Sanofi to Acquire Insmed in Strategic Step that Strengthens Long-Term Future",
+"url": "https://finance.yahoo.com/healthcare/articles/sanofi-acquire-insmed-strategic-step-063000844.html",
+"pub": "2026-11-24T06:30:00+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-24T07:14:12+00:00"
+},
+{
+"id": "51bfa1889346",
+"t": "INSM",
+"title": "Press Release: Sanofi to acquire Insmed in strategic step that strengthens long-term future",
+"url": "https://finance.yahoo.com/healthcare/articles/press-release-sanofi-acquire-insmed-063000655.html",
+"pub": "2026-11-24T06:30:00+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-24T07:14:12+00:00"
 },
 {
 "id": "3ebf3ed6c773",
@@ -7981,44 +8021,24 @@
 "seen": "2026-11-23T16:15:46+00:00"
 },
 {
-"id": "ffc26aebf604",
-"t": "SPCX",
-"title": "SpaceX Could Hit Microsoft-Scale Revenue in 2027—Then the Math and Mechanics Get Murky",
-"url": "https://247wallst.com/investing/2026/11/23/spacex-could-hit-microsoft-scale-revenue-in-2027-then-the-math-and-mechanics-get-murky/",
-"pub": "2026-11-23T15:45:47+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-23T16:15:46+00:00"
+"id": "bde1e65967af",
+"t": "",
+"title": "FTSE 100 Live: UK Stocks Set to Join Global Stocks Rally",
+"url": "https://www.bloomberg.com/news/live-blog/2026-11-24/ftse-100-live-updates-pound-gilts-gold-prices-uk-retail-sales-nvidia-ai-stocks-jensen-huang-trump-iran-what-s-moving-uk-markets-right-now-markets-today-mwucfxwp",
+"pub": "2026-11-24T06:58:48+00:00",
+"src": "Bloomberg",
+"kind": "market",
+"seen": "2026-11-24T07:14:12+00:00"
 },
 {
-"id": "387fb87e6358",
-"t": "GOOGL",
-"title": "Is Microsoft Stock Stronger Than It Looks?",
-"url": "https://www.trefis.com/stock/msft/articles/627857/is-microsoft-stock-stronger-than-it-looks/2026-11-23",
-"pub": "2026-11-23T15:45:39+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-23T16:15:46+00:00"
-},
-{
-"id": "7b646cc62521",
-"t": "MSFT",
-"title": "Bernstein Grows More Bullish on Microsoft's Enterprise AI After Ignite",
-"url": "https://finance.yahoo.com/technology/ai/articles/bernstein-grows-more-bullish-microsofts-154443441.html",
-"pub": "2026-11-23T15:44:43+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-23T16:15:46+00:00"
-},
-{
-"id": "67e0bc531fbb",
-"t": "AMD",
-"title": "AMD Says It's Never Felt Fundamentally Better Despite Share Slide",
-"url": "https://finance.yahoo.com/markets/stocks/articles/amd-says-never-felt-fundamentally-154304845.html",
-"pub": "2026-11-23T15:43:04+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-23T16:15:46+00:00"
+"id": "0498093f95b4",
+"t": "",
+"title": "Why France is at risk of recession — and what could keep it out of one",
+"url": "https://www.cnbc.com/2026/11/24/france-recession-risk-pmi.html",
+"pub": "2026-11-24T06:55:36+00:00",
+"src": "CNBC",
+"kind": "market",
+"seen": "2026-11-24T07:14:12+00:00"
 },
 {
 "id": "f3293a6f8189",
@@ -8441,6 +8461,16 @@
 "seen": "2026-11-24T06:13:52+00:00"
 },
 {
+"id": "79057bd1c070",
+"t": "",
+"title": "Highlight Communications AG (HLGZ.F) | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9ORnBXOHFfVkE4NHNZcG9TZWp2Unp4eUZtSTRtT1p2NFF6R3NwVUo5NHNxbFlkUU8yWlFfZDg2cGdVSTdYM0poY21kOUptUG9SZERNTzhTRzc2b1k1My11SFBGUlFfV3Z1VDlB?oc=5",
+"pub": "2026-11-24T03:07:22+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-24T07:14:12+00:00"
+},
+{
 "id": "9402acf98323",
 "t": "",
 "title": "Japanese Bonds Rally Across Curve as Domestic Stocks Surge",
@@ -8639,6 +8669,16 @@
 "src": "Reuters",
 "kind": "market",
 "seen": "2026-11-24T06:44:27+00:00"
+},
+{
+"id": "b6de8d6c0eea",
+"t": "",
+"title": "263050.KQ - | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOSzlQZ1pHRjQyTFB2bi1vUG1nSEJOUmU1eXYtRGVuNG9NQnFyLXJRNzEtZWZ4RG1KU2pRcWNQUll4VERTSjhLWkVHWHBxWTVUN3F1cmc1WHZZWHhRb0ZJdXlOOWxRcGNwZHpUVUhxWHhFVUxuTmZySC00dmdzTmw0V24tOGdkSkNv?oc=5",
+"pub": "2026-11-24T01:08:02+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-24T07:14:12+00:00"
 },
 {
 "id": "eb72734e6bd5",
@@ -9359,6 +9399,16 @@
 "src": "WSJ",
 "kind": "market",
 "seen": "2026-11-24T06:13:52+00:00"
+},
+{
+"id": "e1e9c0e4bee7",
+"t": "",
+"title": "TSX posts biggest daily gain since April 2025, led by tech and mining - Reuters",
+"url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOTjloYWVXT0szME9OYklKaHNacFdZUV9OMTdGS1dUSE5ZNll3alotZWF2R2hWMFhOeGEzeV9uY1dlRTNEaHZ6bFZOSFQyOEY5ZTlqZzlLUUxQd2l4QkZsNGZYOU9EbXhIZVpOc20xcFh1bUQ4SWhyNUNkc2RCV1ZfQjVRcG1UWWV1UXQ1N1JtMExMbkx3TlV4US1FN0lMUUhNaHdv?oc=5",
+"pub": "2026-11-23T21:31:33+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-24T07:14:12+00:00"
 },
 {
 "id": "15d24abfaa36",
@@ -10969,56 +11019,6 @@
 "src": "Bloomberg",
 "kind": "market",
 "seen": "2026-11-23T16:15:46+00:00"
-},
-{
-"id": "885143823f14",
-"t": "",
-"title": "Nvidia gets bullish fresh pick designation at Baird. $NVDA",
-"url": "https://www.financialjuice.com/News/9864669/Nvidia-gets-bullish-fresh-pick-designation-at-Baird-NVDA.aspx?xy=rss",
-"pub": "2026-11-23T15:50:16+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-23T16:15:46+00:00"
-},
-{
-"id": "8089feb040e7",
-"t": "",
-"title": "UK holding informal exchange of ideas with EU on future ties.",
-"url": "https://www.financialjuice.com/News/9864666/UK-holding-informal-exchange-of-ideas-with-EU-on-future-ties.aspx?xy=rss",
-"pub": "2026-11-23T15:47:43+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-23T16:15:46+00:00"
-},
-{
-"id": "a21e6a51deb5",
-"t": "",
-"title": "UK PM Burnham: EU deal worth up to 0.5% of the British economy",
-"url": "https://www.financialjuice.com/News/9864653/UK-PM-Burnham-EU-deal-worth-up-to-05-of-the-British-economy.aspx?xy=rss",
-"pub": "2026-11-23T15:46:22+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-23T16:15:46+00:00"
-},
-{
-"id": "34e887f43003",
-"t": "",
-"title": "Woolworths Investors Reject Pay Report in Shareholder Rebuke",
-"url": "https://www.bloomberg.com/news/articles/2026-11-23/woolworths-investors-reject-pay-report-in-shareholder-rebuke",
-"pub": "2026-11-23T15:45:38+00:00",
-"src": "Bloomberg",
-"kind": "market",
-"seen": "2026-11-23T16:15:46+00:00"
-},
-{
-"id": "643c3860cb77",
-"t": "",
-"title": "UK PM Burnham: EU and UK to avoid policy harming each other's industries",
-"url": "https://www.financialjuice.com/News/9864651/UK-PM-Burnham-EU-and-UK-to-avoid-policy-harming-each-others-industries.aspx?xy=rss",
-"pub": "2026-11-23T15:44:13+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-23T15:44:40+00:00"
 }
 ]
 }
