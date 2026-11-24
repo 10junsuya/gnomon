@@ -1,6 +1,6 @@
 {
-"updated_kst": "2026-11-24 16:14",
-"rot": 167,
+"updated_kst": "2026-11-24 16:44",
+"rot": 48,
 "how": "Scout(프로그램)이 10분마다 모은 기사 제목·링크와 공시예요. Wren이 공식 출처로 확인한 뒤 회사 화면에 한국어로 반영해요. 본문은 받지 않아요.",
 "sources": {
 "Yahoo Finance": "120종목 확인 · 실패 0",
@@ -10,12 +10,72 @@
 "CNBC": "63건",
 "Bloomberg": "40건",
 "WSJ": "61건",
-"Reuters": "53건",
+"Reuters": "50건",
 "FinancialJuice": "100건",
 "SEC EDGAR": "실패 HTTPError",
 "Fox Business": "50건"
 },
 "items": [
+{
+"id": "a89fcb8b3018",
+"t": "NVDA",
+"title": "Nvidia Has Incredible News for Artificial Intelligence (AI) Investors. Here Is My Top Stock to Buy Before It Is Too Late",
+"url": "https://www.fool.com/investing/2026/11/24/nvidia-has-incredible-news-for-artificial-intelligence-ai-investors-here-is-my-top-stock-to-buy-before-it-is-too-late/",
+"pub": "2026-11-24T07:27:02+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-24T07:44:08+00:00"
+},
+{
+"id": "c2b5e5f7fb18",
+"t": "LMT",
+"title": "BA, NOC, LMT, KTOS Stocks Draw Bullish Call From Mizuho: Analyst Calls The Group ‘Underappreciated’ Defense Plays",
+"url": "https://stocktwits.com/news-articles/markets/equity/ba-noc-lmt-ktos-stocks-bullish-call-mizuho-group-underappreciated-defense-plays/cNbr6tER9k4",
+"pub": "2026-11-24T07:24:04+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-24T07:44:08+00:00"
+},
+{
+"id": "f410736ef9de",
+"t": "NVDA",
+"title": "$20,000 in Bets, $350,000 in Profit: ‘Suspicious’ Polymarket Clusters Nailed Jensen Huang’s Nvidia Return",
+"url": "https://www.benzinga.com/markets/prediction-markets/26/11/63568662/20000-in-bets-350000-in-profit-suspicious-polymarket-clusters-nailed-jensen-huangs-nvidia-return",
+"pub": "2026-11-24T07:20:38+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-24T07:44:08+00:00"
+},
+{
+"id": "ed9e8fbd85b5",
+"t": "NVDA",
+"title": "Top 3 Australian Insider Owned Growth Stocks To Watch In November 2026",
+"url": "https://finance.yahoo.com/markets/stocks/articles/top-3-australian-insider-owned-071028045.html",
+"pub": "2026-11-24T07:10:28+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-24T07:44:08+00:00"
+},
+{
+"id": "2602816a5111",
+"t": "NVDA",
+"title": "3 Canadian Undervalued Stocks Trading Up To 45% Below Future Cash Flow Value",
+"url": "https://finance.yahoo.com/markets/stocks/articles/3-canadian-undervalued-stocks-trading-071002431.html",
+"pub": "2026-11-24T07:10:02+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-24T07:44:08+00:00"
+},
+{
+"id": "70b4b851eeb7",
+"t": "NVDA",
+"title": "3 AI Infrastructure Stocks Retail Investors Are Watching After Nvidia’s Return",
+"url": "https://finance.yahoo.com/technology/ai/articles/3-ai-infrastructure-stocks-retail-070909902.html",
+"pub": "2026-11-24T07:09:09+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-24T07:44:08+00:00"
+},
 {
 "id": "eb580fafb97d",
 "t": "NVDA",
@@ -35,6 +95,16 @@
 "src": "Yahoo Finance",
 "kind": "news",
 "seen": "2026-11-24T07:14:12+00:00"
+},
+{
+"id": "fdc9359428ba",
+"t": "NVDA",
+"title": "LIVE – Bitcoin Overnight Rally Roundtripped: Saylor and Strategy Didn’t Flinch",
+"url": "https://cryptonews.com/news/bitcoin-rally-roundtrip-saylor-strategy-buying-crypto-news/",
+"pub": "2026-11-24T06:54:19+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-24T07:44:08+00:00"
 },
 {
 "id": "5a32cfca1ede",
@@ -85,6 +155,16 @@
 "src": "Yahoo Finance",
 "kind": "news",
 "seen": "2026-11-24T07:14:12+00:00"
+},
+{
+"id": "776faee1ec77",
+"t": "NVDA",
+"title": "Jensen Huang Scandal: US Moves to Blacklist Megaspeed, Faces ‘Presumption of Denial’ on Export Licenses",
+"url": "https://finance.yahoo.com/technology/articles/jensen-huang-scandal-us-moves-062947091.html",
+"pub": "2026-11-24T06:29:47+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-24T07:44:08+00:00"
 },
 {
 "id": "3ebf3ed6c773",
@@ -7941,84 +8021,34 @@
 "seen": "2026-11-23T16:15:46+00:00"
 },
 {
-"id": "0e96809f20ae",
-"t": "V",
-"title": "Coinbase Global vs. Visa: Which Financial Stock Is a Better Buy for 2027?",
-"url": "https://www.fool.com/coverage/better-buy/2026/11/23/coinbase-global-vs-visa-which-financial-stock-is-a-better-buy-for-2027/",
-"pub": "2026-11-23T15:50:02+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-23T16:15:46+00:00"
+"id": "28cd50ea91a9",
+"t": "",
+"title": "Pound’s Resilience Burnishes UK’s Role as `Quieter Harbour’",
+"url": "https://www.bloomberg.com/news/newsletters/2026-11-24/pound-s-resilience-burnishes-uk-s-role-as-quieter-harbour",
+"pub": "2026-11-24T07:39:06+00:00",
+"src": "Bloomberg",
+"kind": "market",
+"seen": "2026-11-24T07:44:08+00:00"
 },
 {
-"id": "498de73fb8bb",
-"t": "MU",
-"title": "Why Nvidia Rehiring Jensen Huang Is Making Micron Stock Skyrocket Today",
-"url": "https://www.fool.com/investing/2026/11/23/why-nvidia-rehiring-jensen-huang-is-making-micron-stock-skyrocket-today/",
-"pub": "2026-11-23T15:49:53+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-23T16:15:46+00:00"
+"id": "606adcc8d726",
+"t": "",
+"title": "Commerzbank Weighs Partial Withdrawal From US Treasury Market",
+"url": "https://www.bloomberg.com/news/articles/2026-11-24/commerzbank-weighs-partial-withdrawal-from-us-treasury-market",
+"pub": "2026-11-24T07:35:48+00:00",
+"src": "Bloomberg",
+"kind": "market",
+"seen": "2026-11-24T07:44:08+00:00"
 },
 {
-"id": "935edcda3794",
-"t": "SPCX",
-"title": "Cathie Wood Sells a High-Profile AI Stock to Bet on a New Favorite",
-"url": "https://finance.yahoo.com/markets/stocks/articles/cathie-wood-sells-high-profile-154929344.html",
-"pub": "2026-11-23T15:49:29+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-23T16:15:46+00:00"
-},
-{
-"id": "be0c218a28b8",
-"t": "GOOGL",
-"title": "Nvidia's $115B neocloud exposure and what its backstops really cover",
-"url": "https://finance.yahoo.com/video/nvidias-115b-neocloud-exposure-and-what-its-backstops-really-cover-154907019.html",
-"pub": "2026-11-23T15:49:07+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-23T16:15:46+00:00"
-},
-{
-"id": "6a08f8f52241",
-"t": "MU",
-"title": "Why Micron Stock Is Up Today",
-"url": "https://www.fool.com/investing/2026/11/23/why-micron-stock-is-up-today/",
-"pub": "2026-11-23T15:47:02+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-23T16:15:46+00:00"
-},
-{
-"id": "c8232b782baf",
-"t": "ORCL",
-"title": "“You Don’t Have to Own CoreWeave”: Analyst Says Amazon Captures the Same Demand",
-"url": "https://www.tikr.com/blog/you-dont-have-to-own-coreweave-analyst-says-amazon-captures-the-same-demand",
-"pub": "2026-11-23T15:46:55+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-23T16:15:46+00:00"
-},
-{
-"id": "e1774ae32a4e",
-"t": "VRTX",
-"title": "4 Biotech Stocks With Solid Balance Sheets and Financial Strength",
-"url": "https://finance.yahoo.com/healthcare/articles/4-biotech-stocks-solid-balance-154600893.html",
-"pub": "2026-11-23T15:46:00+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-23T17:14:22+00:00"
-},
-{
-"id": "a8127e81d8fe",
-"t": "AVGO",
-"title": "Analog Devices Isn't Restocking. It Trades Like Nvidia Now",
-"url": "https://www.trefis.com/stock/adi/articles/627692/analog-devices-isn-t-restocking-it-trades-like-nvidia-now/2026-11-23",
-"pub": "2026-11-23T15:45:51+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-23T16:15:46+00:00"
+"id": "83029346ae4a",
+"t": "",
+"title": "Compass Plans to Move Main Listing to New York in Blow to London",
+"url": "https://www.bloomberg.com/news/articles/2026-11-24/compass-plans-to-move-main-listing-to-new-york-in-blow-to-london",
+"pub": "2026-11-24T07:11:59+00:00",
+"src": "Bloomberg",
+"kind": "market",
+"seen": "2026-11-24T07:44:08+00:00"
 },
 {
 "id": "bde1e65967af",
@@ -8511,6 +8541,16 @@
 "seen": "2026-11-24T05:44:13+00:00"
 },
 {
+"id": "c33456033e32",
+"t": "",
+"title": "3536.CHJ - | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9KQzFSZXNjODBiMFFIWmJYUmdERXJsV2pWbDNBbFc5MWxRTmpzTm1JR0NBamc4OEl4YjFScDJ2WVl6b2N5d3BTUlB2R3NQaEw0Y2djeFFtdEVfY3JHSlN3SEFpVzZkNEdMcDFF?oc=5",
+"pub": "2026-11-24T03:05:23+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-24T07:44:08+00:00"
+},
+{
 "id": "0e74672a0c62",
 "t": "",
 "title": "U.S. Treasurys Edge Lower Amid Higher Fed Rate-Hike Prospects",
@@ -8809,6 +8849,16 @@
 "src": "WSJ",
 "kind": "market",
 "seen": "2026-11-24T01:14:35+00:00"
+},
+{
+"id": "0f0cdd1c9eb7",
+"t": "",
+"title": "1243ta.HZ - | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNTWlPd0ZteXZIZ2cxb0J1RlBkOTZJcHRnMklYVzBETVp2cVYwcnpxNHhKOGtQYnV6MUE0WmtjTVV4MHFfejBSLUltVkx5VHdpR21TQjdnY3BfeHZqQXpnaHVLelJyUm9EaVJiXy0xanRmTXpIV1E5Z3U1LXJQeVppOFk1UVk4aUVLazZN?oc=5",
+"pub": "2026-11-24T00:45:52+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-24T07:44:08+00:00"
 },
 {
 "id": "27a2c4ab3794",
@@ -10969,56 +11019,6 @@
 "src": "Reuters",
 "kind": "market",
 "seen": "2026-11-24T00:14:30+00:00"
-},
-{
-"id": "6ba26aaaea72",
-"t": "",
-"title": "XBiotech Inc (4XB.F) | Stock Price & Latest News - Reuters",
-"url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB2c0Z6cXhjbUM5LUxYdkYyZEVEMXdIWkQ5OVlEVWpEdF9WYWZ4R1ptdlNRcVQ3NnlNdjhHN1N5b2JKempiQ1pwOV9MeEVTS1FlUzczbzlER2ZOeTJuT2tyUFJNdWJ0QlVQZHpUZQ?oc=5",
-"pub": "2026-11-23T15:52:49+00:00",
-"src": "Reuters",
-"kind": "market",
-"seen": "2026-11-23T23:13:36+00:00"
-},
-{
-"id": "4f8c0730c43d",
-"t": "",
-"title": "Nvidia short sellers set to clock about $12.2 bln in paper losses as shares rise to $168.5, biggest one-day loss since at least 2019 - Ortex. $NVDA",
-"url": "https://www.financialjuice.com/News/9864672/Nvidia-short-sellers-set-to-clock-about-122-bln-in-paper-losses-as-shares-rise-to-1685-biggest-one-day-loss-since-at-least-2019---Ortex-NVDA.aspx?xy=rss",
-"pub": "2026-11-23T15:52:43+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-23T16:15:46+00:00"
-},
-{
-"id": "f9b93c985387",
-"t": "",
-"title": "Trump: Xi is probably not thrilled at the NVIDIA news. $NVDA",
-"url": "https://www.financialjuice.com/News/9864671/Trump-Xi-is-probably-not-thrilled-at-the-NVIDIA-news-NVDA.aspx?xy=rss",
-"pub": "2026-11-23T15:51:56+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-23T16:15:46+00:00"
-},
-{
-"id": "72c41e85dedb",
-"t": "",
-"title": "Trump: I didn't discuss if Alice Huang were a spy with Xi. $NVDA",
-"url": "https://www.financialjuice.com/News/9864670/Trump-I-didnt-discuss-if-Alice-Huang-were-a-spy-with-Xi-NVDA.aspx?xy=rss",
-"pub": "2026-11-23T15:51:31+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-23T16:15:46+00:00"
-},
-{
-"id": "1dde0b1cd11b",
-"t": "",
-"title": "Canadian Stocks Recover as Huang’s Return Fuels Metals, Tech",
-"url": "https://www.bloomberg.com/news/articles/2026-11-23/canadian-stocks-recover-as-huang-s-return-fuels-metals-tech",
-"pub": "2026-11-23T15:50:34+00:00",
-"src": "Bloomberg",
-"kind": "market",
-"seen": "2026-11-23T16:15:46+00:00"
 }
 ]
 }
