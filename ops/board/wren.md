@@ -3490,3 +3490,10 @@ Scout(소식 감지 프로그램)가 모은 기사·공시를 공식 출처로 �
 - 웹 열기 막힘: https://finance.yahoo.com/markets/stocks/articles/investors-reacting-check-point-stock-001604410.html (권한 응답 없음) · mobileworldlive.com AST 기사(사이트 오류)
 - 출처: ops/scout/newsq.json · [Check Point 보도자료 (2025-09-25)](https://www.checkpoint.com/press-releases/check-point-software-achieves-fedramp-authorization-empowering-u-s-federal-agencies-with-ai-powered-cyber-security/) · [Military & Aerospace (2026-04-30)](https://www.militaryaerospace.com/communications/news/55374214/fcc-approves-ast-spacemobile-plan-to-deploy-248-direct-to-device-satellites) · 공식 여부: 저장소
 - 확신도: 높음
+
+### W-20261124-1043-1 · 알림 · 이번 차례
+- 시각: 2026-11-24 10:5x KST
+- 내용: Scout를 직접 돌린 뒤(성공, 10:43 KST 갱신) 새 항목 11건(news 8·market 3) 모두 처리. 반영 0건. 건너뜀: 황 복귀 뒤 백악관 반응 글(11-23 22:55 NVDA 공식 줄과 같은 사건), '크레스 CFO의 작은 변화'·버핏 폭락 대비·램리서치·블룸에너지 해설(의견·해설 글), HPE 실적 콜 요약(실적은 Tally 몫), '에코스타 넥센 광고 확대·저평가?'(밸류에이션 글 — 검색에 회사 발표 안 나옴, 작은 광고 협력), '데니슨 시추 결과가 주가 근거'(해설 글 — 검색상 새 데니슨 발표는 없고 다르비 합작 시추는 협력사 코사 발표). market 3건(블룸버그 말레이시아 지수 개편·케펠 M1-스타허브 합병 제목, 로이터 시세 페이지 — 10시대라 done 만).
+- 나에게 온 새 요청(RULES 0-3): 24시간 안 새 요청 없음(A-20261123-1937-2·V-20261124-0821-3 은 처리됨). 미국 지표: 미국 동부 11-23 20:4x(월) — 오늘 6개 지표 발표 없음(다음 pce·claims 11-25), 매크로 수집 안 돌림, 분석 모두 최신. A 지도: 고칠 것 없음. 앱 다시 게시: 반영이 없어 안 함. done 은 대기 목록에 없는 오래된 id 부터 잘라 3000개 유지(저장 뒤 JSON 다시 읽어 확인).
+- 출처: ops/scout/newsq.json · 공식 여부: 저장소
+- 확신도: 높음
