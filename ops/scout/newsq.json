@@ -1,6 +1,6 @@
 {
-"updated_kst": "2026-11-24 17:14",
-"rot": 108,
+"updated_kst": "2026-11-24 17:31",
+"rot": 168,
 "how": "Scout(프로그램)이 10분마다 모은 기사 제목·링크와 공시예요. Wren이 공식 출처로 확인한 뒤 회사 화면에 한국어로 반영해요. 본문은 받지 않아요.",
 "sources": {
 "Yahoo Finance": "120종목 확인 · 실패 0",
@@ -10,12 +10,72 @@
 "CNBC": "63건",
 "Bloomberg": "40건",
 "WSJ": "61건",
-"Reuters": "49건",
+"Reuters": "100건",
 "FinancialJuice": "100건",
 "SEC EDGAR": "실패 HTTPError",
 "Fox Business": "50건"
 },
 "items": [
+{
+"id": "f3bf31aab69b",
+"t": "SPCX",
+"title": "CRWV, NBIS And IREN Rally In A ‘Good Day’ For Neoclouds — Databricks Co-Founder Flags Security Gaps At ‘Top’ Neoclouds",
+"url": "https://stocktwits.com/news-articles/markets/equity/crwv-nbis-iren-rally-good-day-neoclouds-databricks-co-founder-security-gaps-top-neoclouds/cNbsRgYR9kB",
+"pub": "2026-11-24T08:23:57+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-24T08:31:05+00:00"
+},
+{
+"id": "1b308ed4a1f6",
+"t": "INSM",
+"title": "Why Is INSM Stock Surging 13% Overnight Today?",
+"url": "https://stocktwits.com/news-articles/markets/equity/why-is-insm-stock-surging-overnight-today/cNbsR9GR9kJ",
+"pub": "2026-11-24T08:19:42+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-24T08:31:05+00:00"
+},
+{
+"id": "8c0b49b164e6",
+"t": "COHR",
+"title": "Coherent Stock Is Jensen Huang Reinstatement Changing The AI Partner Story",
+"url": "https://finance.yahoo.com/markets/stocks/articles/coherent-stock-jensen-huang-reinstatement-080923486.html",
+"pub": "2026-11-24T08:09:23+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-24T08:31:05+00:00"
+},
+{
+"id": "95a116c65cc6",
+"t": "GOOGL",
+"title": "David Tepper, Seth Klarman and 5 Other Famous Investors Own Alphabet. Here’s Who Sold Recently",
+"url": "https://www.tikr.com/blog/david-tepper-seth-klarman-and-5-other-famous-investors-own-alphabet-heres-who-sold-recently",
+"pub": "2026-11-24T08:04:51+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-24T08:31:05+00:00"
+},
+{
+"id": "be5dcbaa2262",
+"t": "NVDA",
+"title": "Trump Calls America “a Country of Second Chances” and Pushes Nvidia to Rehire Jensen Huang",
+"url": "https://www.tikr.com/blog/trump-urges-nvidia-rehire-jensen-huang-second-chance",
+"pub": "2026-11-24T08:03:17+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-24T08:31:05+00:00"
+},
+{
+"id": "995dfeacb9bf",
+"t": "ORCL",
+"title": "Dan Loeb and 47 Other Big Funds Bought Microsoft Last Quarter. Bill Ackman and 28 Others Sold. Who’s Right?",
+"url": "https://www.tikr.com/blog/dan-loeb-and-47-other-big-funds-bought-microsoft-last-quarter-bill-ackman-and-28-others-sold-whos-right",
+"pub": "2026-11-24T08:01:14+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-24T08:31:05+00:00"
+},
 {
 "id": "f413c4170256",
 "t": "SPCX",
@@ -125,6 +185,16 @@
 "src": "Yahoo Finance",
 "kind": "news",
 "seen": "2026-11-24T07:44:08+00:00"
+},
+{
+"id": "dd6fdf161dee",
+"t": "INSM",
+"title": "Sanofi agrees to acquire drugmaker Insmed in $41 billion cash deal",
+"url": "https://finance.yahoo.com/healthcare/articles/sanofi-agrees-acquire-drugmaker-insmed-071944533.html",
+"pub": "2026-11-24T07:19:44+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-24T08:31:05+00:00"
 },
 {
 "id": "9429854dbb9b",
@@ -7951,74 +8021,44 @@
 "seen": "2026-11-23T18:14:06+00:00"
 },
 {
-"id": "1e724e25d23c",
-"t": "IONQ",
-"title": "Rigetti's Chiplet Innovation and Federal Funding Support Growth Plans",
-"url": "https://finance.yahoo.com/technology/ai/articles/rigettis-chiplet-innovation-federal-funding-160000462.html",
-"pub": "2026-11-23T16:00:00+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-23T17:30:51+00:00"
+"id": "9486972fce69",
+"t": "",
+"title": "Oil Prices Fall as Traders Weigh Supply Outlook, Shipping Risks",
+"url": "https://www.wsj.com/business/energy-oil/oil-prices-fall-as-traders-weigh-supply-outlook-shipping-risks-7225885e",
+"pub": "2026-11-24T08:27:00+00:00",
+"src": "WSJ",
+"kind": "market",
+"seen": "2026-11-24T08:31:05+00:00"
 },
 {
-"id": "cb37a877c367",
-"t": "PWR",
-"title": "Sterling vs. Everus: Which Data Center Stock Is a Smarter Buy?",
-"url": "https://finance.yahoo.com/markets/stocks/articles/sterling-vs-everus-data-center-155900937.html",
-"pub": "2026-11-23T15:59:00+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-23T17:30:51+00:00"
+"id": "69301ad856b1",
+"t": "",
+"title": "UKMTO gets a time-late report of an incident near Khor Fakkan, UAE",
+"url": "https://www.financialjuice.com/News/9865713/UKMTO-gets-a-time-late-report-of-an-incident-near-Khor-Fakkan-UAE.aspx?xy=rss",
+"pub": "2026-11-24T08:25:22+00:00",
+"src": "FinancialJuice",
+"kind": "market",
+"seen": "2026-11-24T08:31:05+00:00"
 },
 {
-"id": "61b6c3cb1145",
-"t": "SPCX",
-"title": "Rocket Lab Rallies 11% After Its Worst Week Ever as CFO Eyes Higher Electron Prices; AST SpaceMobile Jumps 14%, SpaceX Surges 9%",
-"url": "https://247wallst.com/investing/2026/11/23/rocket-lab-rallies-11-after-its-worst-week-ever-as-cfo-eyes-higher-electron-prices-ast-spacemobile-jumps-14-spacex-surges-9/",
-"pub": "2026-11-23T15:58:23+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-23T16:15:46+00:00"
+"id": "3177580a5ee3",
+"t": "",
+"title": "Sutcliffe: US Appears Set to Reengage With Iran",
+"url": "https://www.bloomberg.com/news/videos/2026-11-24/sutcliffe-us-appears-set-to-reengage-with-iran-video",
+"pub": "2026-11-24T08:17:11+00:00",
+"src": "Bloomberg",
+"kind": "market",
+"seen": "2026-11-24T08:31:05+00:00"
 },
 {
-"id": "70168909fb6c",
-"t": "NET",
-"title": "How Much Could You Lose In Zscaler Stock?",
-"url": "https://www.trefis.com/stock/zs/articles/627540/how-much-could-you-lose-in-zscaler-stock/2026-11-23",
-"pub": "2026-11-23T15:57:27+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-23T16:44:03+00:00"
-},
-{
-"id": "af661de622b5",
-"t": "COHR",
-"title": "Applied Optoelectronics and Lumentum Soar 22% as Jensen Huang’s Return to NVIDIA Sparks AI Optics Rebound; Coherent Jumps 19%",
-"url": "https://247wallst.com/investing/2026/11/23/applied-optoelectronics-and-lumentum-soar-22-as-jensen-huangs-return-to-nvidia-sparks-ai-optics-rebound-coherent-jumps-19/",
-"pub": "2026-11-23T15:57:07+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-23T16:15:46+00:00"
-},
-{
-"id": "1eca4aeb2f8b",
-"t": "IREN",
-"title": "6.5 GW of Texas data center load faces December 10 ERCOT Batch Zero decision: Needham",
-"url": "https://blockspace.media/insight/texas-data-center-batch-zero/",
-"pub": "2026-11-23T15:57:07+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-24T03:14:08+00:00"
-},
-{
-"id": "6d2b281d98ac",
-"t": "NVDA",
-"title": "Taiwan Semiconductor Rallies 17% as Jensen Huang’s Return to NVIDIA Lifts Chip Stocks; Intel Surges 15%, AMD Jumps 8%",
-"url": "https://247wallst.com/investing/2026/11/23/taiwan-semiconductor-rallies-17-as-jensen-huangs-return-to-nvidia-lifts-chip-stocks-intel-surges-15-amd-jumps-8/",
-"pub": "2026-11-23T15:55:28+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-23T16:15:46+00:00"
+"id": "2905c614f5bc",
+"t": "",
+"title": "Tullow Jumps 20% After Settling $387 Million Ghana Tax Case",
+"url": "https://www.bloomberg.com/news/articles/2026-11-24/tullow-jumps-20-after-settling-387-million-ghana-tax-case",
+"pub": "2026-11-24T08:13:11+00:00",
+"src": "Bloomberg",
+"kind": "market",
+"seen": "2026-11-24T08:31:05+00:00"
 },
 {
 "id": "81b86cf16782",
@@ -8401,6 +8441,16 @@
 "seen": "2026-11-24T06:13:52+00:00"
 },
 {
+"id": "2a2d175322ec",
+"t": "",
+"title": "IFFm.BA - Reuters",
+"url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQNVc2TXI5S2lGSDdweWh2d0pxVHI3eXBLaGZHRmlaOTZUTFoyTFAwdjVrNXZHSGZzc0dZc0M5eml1YXR0cEdPUDRnak5TZkJUVkl4QlBpRGFMWUZNZHFwQXVRU3lsNFhaY2VLdW5paFpacTJydmxiS3VERTRWcEJLRXdCSTc4REVhNTc0Y0kyZUo?oc=5",
+"pub": "2026-11-24T05:04:08+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-24T08:31:05+00:00"
+},
+{
 "id": "6e53b7c81ea3",
 "t": "",
 "title": "Asia Stocks Jump as Huang’s Return Lifts AI Trade",
@@ -8429,6 +8479,16 @@
 "src": "Bloomberg",
 "kind": "market",
 "seen": "2026-11-24T05:14:20+00:00"
+},
+{
+"id": "fc909ee4b4a9",
+"t": "",
+"title": "BOLD.PH - Reuters",
+"url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1yd3lnakNEa0NraV9DMjAxSjNzSjBXNENjMVFlM2RMN0s0XzdqUVZfNEJad2plOWktRFNiRzdiWWl4TXloQTg5a2Y3aUp5aWJGNDZsS0pTcmQ5b0UxX21YdjluUElIa21oSk9xWndUcw?oc=5",
+"pub": "2026-11-24T04:45:04+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-24T08:31:05+00:00"
 },
 {
 "id": "25f7372c4020",
@@ -8481,6 +8541,16 @@
 "seen": "2026-11-24T05:14:20+00:00"
 },
 {
+"id": "d9ad285556f3",
+"t": "",
+"title": "Mental Health Technologies Co Ltd (9218.T) | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE40TkFHVTl4YjdwdWlYVXhGRTBMRzExTDVpZ2w1RnJEY2NPZVlZNXlWYUZxT0R5RHF6cG15UEtWUlBZdXJDdmtYQV8yQ040R0NYUnVkQjY3V3M0SGVTWTgxYWx0MW91YnV4dF96QnVB?oc=5",
+"pub": "2026-11-24T04:07:01+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-24T08:31:05+00:00"
+},
+{
 "id": "681e74310f2e",
 "t": "",
 "title": "Australia Bonds Set for Longest Rally Since June on RBA Cut Bets",
@@ -8531,6 +8601,16 @@
 "seen": "2026-11-24T06:44:27+00:00"
 },
 {
+"id": "10c4f0d26680",
+"t": "",
+"title": "Astrotech Corp (ASTC.OQ) | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4zZE1ibVIwX1pOUU01OUl1SjAxU3pGY3l0RnVFYnE3TjRjUnlHMlE1TWJ1R2QyUXl2d2pDNWVCMDdOcGlLaWpUdlNSeDVRTUtXTlhycUZfS2JBSExickpSYUZ3ZkcxMldJVWpROQ?oc=5",
+"pub": "2026-11-24T03:20:03+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-24T08:31:05+00:00"
+},
+{
 "id": "3411016ce166",
 "t": "",
 "title": "Shares in Chinese Cobalt Producers Jump After Congo Bans Exports",
@@ -8579,6 +8659,16 @@
 "src": "Reuters",
 "kind": "market",
 "seen": "2026-11-24T06:13:52+00:00"
+},
+{
+"id": "bb105b8c75a8",
+"t": "",
+"title": "Beyond Commerce Inc (BYOC.PK) | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1qMWdISXRoOTQ3Z2JKMGI1djlKbDNKelVNMHVkcnNwamk0MjBnTnpGektMdkpYVUNyZXRsdUdsRDZMY3NtTWVEc285SVlZa3hrV0F3Y2ZvczRvdTh4OXRmY0JiSWVQY0ZWN1Y2WFJqZw?oc=5",
+"pub": "2026-11-24T03:07:58+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-24T08:31:05+00:00"
 },
 {
 "id": "79057bd1c070",
@@ -8741,6 +8831,16 @@
 "seen": "2026-11-24T06:44:27+00:00"
 },
 {
+"id": "5f84648fa6d2",
+"t": "",
+"title": "AVIX Inc (7836.T) | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE91Y1JNT0NVVi1xbTVlUU1YbkQ3RGlmbTdFUjc2SjNYTmEtd2dfNlowSjRFU2hYVGVmcTV1NjRZMFJySnNTME1iczZ5cnBNQmgtUlRqUEJnVWlEM280ZWl6RFMwY1ozRHVOdzgxTzd3?oc=5",
+"pub": "2026-11-24T02:34:03+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-24T08:31:05+00:00"
+},
+{
 "id": "0954460e787d",
 "t": "",
 "title": "Tokyo Core Used-Condo Prices Fall for First Time Since 2013",
@@ -8801,6 +8901,16 @@
 "seen": "2026-11-24T06:44:27+00:00"
 },
 {
+"id": "2ccf7697b79d",
+"t": "",
+"title": "Bannerman Energy Ltd (BH6.MU) | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5OUTNIMmQ4Nmd6U1ktb0FIUlRpdzVLbG5FUGtTQ0dnS1lEQkZkMXdxYnZfXzhzUUx3RnQyVHdoOHdGQUNiLW9pNm12UlVJalcyM1VhSmJPT1dBb2JRRnc?oc=5",
+"pub": "2026-11-24T01:09:40+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-24T08:31:05+00:00"
+},
+{
 "id": "b6de8d6c0eea",
 "t": "",
 "title": "263050.KQ - | Stock Price & Latest News - Reuters",
@@ -8809,6 +8919,26 @@
 "src": "Reuters",
 "kind": "market",
 "seen": "2026-11-24T07:14:12+00:00"
+},
+{
+"id": "c293652f456d",
+"t": "",
+"title": "94P.F - | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBNMmwxS2p3Ul9ELXN2R2FkZWNDcmpIYW5Fc0Z5YVpOVjQ0cHJoQVEyZUZqN1JscXJ1N2RsaE1tNFhEelB5eUJobzY5LTFyeGY3b0hzQU5SLWlzODFleXBnU29lWUludnhnX3U4bS1pN05kWXRoQWc?oc=5",
+"pub": "2026-11-24T01:07:36+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-24T08:31:05+00:00"
+},
+{
+"id": "9d8c5ae79dc6",
+"t": "",
+"title": "SMP.DG - Reuters",
+"url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1TZTdKekx0NGw1STg2RmZGWXppOGdaZTdmc2lGdVRjczZTZzdaZG9sRHp5UHNNU1B5MmxOckFGTzlBeEdwMXhTWWNvTzYzdE9GM0YtcUtGanpUbFBpLVQyd1RIeG0zYUMxUkdNTzN1S1liUzNaMGcyNW1iYw?oc=5",
+"pub": "2026-11-24T01:07:33+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-24T08:31:05+00:00"
 },
 {
 "id": "eb72734e6bd5",
@@ -8891,6 +9021,16 @@
 "seen": "2026-11-24T01:14:35+00:00"
 },
 {
+"id": "c2d534d65c0b",
+"t": "",
+"title": "DCR.WA - Reuters",
+"url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNbW96eURaOWhZQy1ieVdvUU9IQm1iYVp4QnJNdlNrbko1X1ItdjVEYjBJYmR0UHNzTVAwenFlN1B4bnd6SUZhaVZDeGMwVGlTX1lQRUIwbTBOcjYxVkZ3VUhhVTR6cmZmdDZ1U3BQOWlNaGE4RF9OVzZMQVFGckY5a1ljZWo?oc=5",
+"pub": "2026-11-24T01:03:58+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-24T08:31:05+00:00"
+},
+{
 "id": "c0579c00f882",
 "t": "",
 "title": "5563.JSFx - | Stock Price & Latest News - Reuters",
@@ -8939,6 +9079,16 @@
 "src": "WSJ",
 "kind": "market",
 "seen": "2026-11-24T01:14:35+00:00"
+},
+{
+"id": "c853f71e3eab",
+"t": "",
+"title": "Ryman Hospitality Properties Inc (RHP.N) | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1mRG1kU1VBMkd0ZUFhcmt5RGVMekhTb1ZSY2FpQUtOOVFVWl8xV3JlSXpmYVJrekZPYnU3ekRuVlFqVHpjV1padHVobXY2SFhqaGxMckRuRVBLS3I4eGl5ZVRCM0dvS3RjblE?oc=5",
+"pub": "2026-11-24T00:46:03+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-24T08:31:05+00:00"
 },
 {
 "id": "0f0cdd1c9eb7",
@@ -9009,6 +9159,26 @@
 "src": "Reuters",
 "kind": "market",
 "seen": "2026-11-24T04:51:49+00:00"
+},
+{
+"id": "fcfba1b1c3b0",
+"t": "",
+"title": "Allied Machinery Co Ltd (605060.SS) | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9vODVnRjA2cy1qTGpna3NvVEtsY2dNSW1Ta3U4dUpTcWdjcFkydlRXT3J4QnB6bGlJREFNMFo3VG9CTzRpYVRGVzk2djROLXVyVEhKajZLMzczTUVBUzJ3a2Nndi00Ql93ZVNB?oc=5",
+"pub": "2026-11-24T00:41:17+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-24T08:31:05+00:00"
+},
+{
+"id": "5bbdfc3bc7fb",
+"t": "",
+"title": "CLFm.CHI - | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNbDI1aGlwbkM0UVVZMUNYY0tZei16ako4RERRRUVGZ19acG5LTDZObUlhYnRZbmFjWGNUeXRKV3FvemM2S2tZVDczZnhucXQzd3NGc2UzeWxBakpfZ3hGYnFXQUFVMEZFLVd5eE93bUpGalp1R0NzRHNPbXc4YmhDbjI4bE80eHh3WVVWb0VmazZqZw?oc=5",
+"pub": "2026-11-24T00:41:05+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-24T08:31:05+00:00"
 },
 {
 "id": "51f98fac35b3",
@@ -9289,6 +9459,26 @@
 "src": "WSJ",
 "kind": "market",
 "seen": "2026-11-23T22:26:13+00:00"
+},
+{
+"id": "8010a5403631",
+"t": "",
+"title": "8123.HS - | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE0tRlBHYkFWSXB6TGpwNnlSbEhoZmlncDhmMWY5MGFFcnpfdHZqREN6T1RlV29PRFFMcThNR1EwUDBibElzOXlwejBpdFdHV2V0SkYydmNkVW1LeFNXelk3ZHotbElTc2trVC1sQkZJZw?oc=5",
+"pub": "2026-11-23T22:09:19+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-24T08:31:05+00:00"
+},
+{
+"id": "ba5d8acf054a",
+"t": "",
+"title": "Tillys Inc (TLYS.N) | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9PME1ELUQzWjcwREE4Z0o2OUpRVEYxcnplbkZzTThNdHlzZUgzcmZLbTgwX1BybW5weXA1aFROalYzS2ZjMENmdnY4MU03MzBzM2YzQldFWjVwd2hnYUhqREFCR2JaVk1iVjNXY0Z3?oc=5",
+"pub": "2026-11-23T22:08:08+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-24T08:31:05+00:00"
 },
 {
 "id": "c87b152bce53",
@@ -10351,6 +10541,16 @@
 "seen": "2026-11-23T23:25:45+00:00"
 },
 {
+"id": "f9c8822a8845",
+"t": "",
+"title": "Aristotle Core Income Mutual Fund Class C (PLNCX.O) | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5JNHBWODZteVRmS0lWZGpqb1dldlpZbVNEekxNMHdBRVJNS3lDRUtjR2NSMTNndlJZMlJjaUhWaC1rRGNucEM0T0hyTFU5MnY0b1hwdjE1R3hZaUZqM0VHd2k1cVpsY25PQ21tVHpn?oc=5",
+"pub": "2026-11-23T18:44:36+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-24T08:31:05+00:00"
+},
+{
 "id": "af436227ca30",
 "t": "",
 "title": "Innovator International Developed Mngd 10 Buff ETF (IBFR.N) | Stock Price & Latest News - Reuters",
@@ -10819,206 +11019,6 @@
 "src": "Reuters",
 "kind": "market",
 "seen": "2026-11-24T00:44:21+00:00"
-},
-{
-"id": "12128e9c5d6e",
-"t": "",
-"title": "The Trump Administration stressed to Nvidia in a call over the weekend that they needed to make sure they were abiding by export controls if they were to reinstall Jensen Huang as CEO - Source $NVDA",
-"url": "https://www.financialjuice.com/News/9864762/The-Trump-Administration-stressed-to-Nvidia-in-a-call-over-the-weekend-that-they-needed-to-make-sure-they-were-abiding-by-export-controls-if-they-were-to-reinstall-Jensen-Huang-as-CEO---Source-NVDA.aspx?xy=rss",
-"pub": "2026-11-23T16:50:16+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-23T17:14:22+00:00"
-},
-{
-"id": "78e7ba8bbb9a",
-"t": "",
-"title": "014820S.KS - | Stock Price & Latest News - Reuters",
-"url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNemNoRXRlMlJVM2tpY1Fsai0yRzhYZlRWUzh3R3l0Slh3TGEzSFRMY1pBN0ZEeVRldTEteUVtWEc4eTQ0SnB1bi1mYnppWFhyenJMUERHbUFjOEFqd190RUY0OTY0cEYtMUR4em55ejh0WGhqdDNDc25PUUNzLXFiVzh6Z2hCa1doRTNSVWVpN0g0Tzg5?oc=5",
-"pub": "2026-11-23T16:49:59+00:00",
-"src": "Reuters",
-"kind": "market",
-"seen": "2026-11-23T23:43:56+00:00"
-},
-{
-"id": "52ff3cc80761",
-"t": "",
-"title": "Nigeria’s Naira Weakens With Investors Wary of Election Upset",
-"url": "https://www.bloomberg.com/news/articles/2026-11-23/nigeria-s-naira-weakens-with-investors-wary-of-election-upset",
-"pub": "2026-11-23T16:46:21+00:00",
-"src": "Bloomberg",
-"kind": "market",
-"seen": "2026-11-23T17:14:22+00:00"
-},
-{
-"id": "ce20bef62eea",
-"t": "",
-"title": "US Commerce Secretary Lutnick was not involved with NVIDIA's board decision to reinstate Huang as CEO - Source Familiar. $NVDA",
-"url": "https://www.financialjuice.com/News/9864744/US-Commerce-Secretary-Lutnick-was-not-involved-with-NVIDIAs-board-decision-to-reinstate-Huang-as-CEO---Source-Familiar-NVDA.aspx?xy=rss",
-"pub": "2026-11-23T16:45:56+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-23T17:14:22+00:00"
-},
-{
-"id": "27bf89d93ffc",
-"t": "",
-"title": "US 6-Month Bill Auction",
-"url": "https://www.financialjuice.com/News/9864743/US-6-Month-Bill-Auction.aspx?xy=rss",
-"pub": "2026-11-23T16:45:36+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-23T17:14:22+00:00"
-},
-{
-"id": "cebf17abd6f8",
-"t": "",
-"title": "US 3-Month Bill Auction",
-"url": "https://www.financialjuice.com/News/9864731/US-3-Month-Bill-Auction.aspx?xy=rss",
-"pub": "2026-11-23T16:44:54+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-23T17:14:22+00:00"
-},
-{
-"id": "fe99250e3e68",
-"t": "",
-"title": "US 6-Month Bill High Yield Actual 4.34% (Forecast -, Previous 4.310%)",
-"url": "https://www.financialjuice.com/News/9864730/US-6-Month-Bill-High-Yield-Actual-434-Forecast---Previous-4310.aspx?xy=rss",
-"pub": "2026-11-23T16:42:58+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-23T16:44:03+00:00"
-},
-{
-"id": "7d01689aa260",
-"t": "",
-"title": "US 3-Month Awarded High Actual 20.690% (Forecast -, Previous 93.850%)",
-"url": "https://www.financialjuice.com/News/9864728/US-3-Month-Awarded-High-Actual-20690-Forecast---Previous-93850.aspx?xy=rss",
-"pub": "2026-11-23T16:42:55+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-23T16:44:03+00:00"
-},
-{
-"id": "89af05368fbf",
-"t": "",
-"title": "US 6-Month Bill Bid-to-Cover Actual 2.6 (Forecast -, Previous 2.830)",
-"url": "https://www.financialjuice.com/News/9864729/US-6-Month-Bill-Bid-to-Cover-Actual-26-Forecast---Previous-2830.aspx?xy=rss",
-"pub": "2026-11-23T16:42:51+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-23T16:44:03+00:00"
-},
-{
-"id": "d4e84699eb7a",
-"t": "",
-"title": "US 3-Month Bill High Yield Actual 4.18% (Forecast -, Previous 4.155%)",
-"url": "https://www.financialjuice.com/News/9864727/US-3-Month-Bill-High-Yield-Actual-418-Forecast---Previous-4155.aspx?xy=rss",
-"pub": "2026-11-23T16:42:22+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-23T16:44:03+00:00"
-},
-{
-"id": "577a0514707b",
-"t": "",
-"title": "US 3-Month Bill Bid-to-Cover Actual 2.74 (Forecast -, Previous 2.760)",
-"url": "https://www.financialjuice.com/News/9864726/US-3-Month-Bill-Bid-to-Cover-Actual-274-Forecast---Previous-2760.aspx?xy=rss",
-"pub": "2026-11-23T16:42:15+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-23T16:44:03+00:00"
-},
-{
-"id": "95a4e8dc2513",
-"t": "",
-"title": "Q4 2026 Brent crude price forecast by major banks rises - WSJ",
-"url": "https://www.financialjuice.com/News/9864725/Q4-2026-Brent-crude-price-forecast-by-major-banks-rises---WSJ.aspx?xy=rss",
-"pub": "2026-11-23T16:42:11+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-23T16:44:03+00:00"
-},
-{
-"id": "49a4e3db148a",
-"t": "",
-"title": "Senegal Debt Outlook Key to Investment Decisions, EBRD Says",
-"url": "https://www.bloomberg.com/news/articles/2026-11-23/senegal-debt-outlook-key-to-investment-decisions-ebrd-says",
-"pub": "2026-11-23T16:41:33+00:00",
-"src": "Bloomberg",
-"kind": "market",
-"seen": "2026-11-23T17:14:22+00:00"
-},
-{
-"id": "dbbfc154ef14",
-"t": "",
-"title": "Prediction Market Rule from CFTC Under White House Review",
-"url": "https://www.bloomberg.com/news/articles/2026-11-23/prediction-market-rule-from-cftc-under-white-house-review",
-"pub": "2026-11-23T16:36:51+00:00",
-"src": "Bloomberg",
-"kind": "market",
-"seen": "2026-11-23T16:44:03+00:00"
-},
-{
-"id": "5db7a141a9c4",
-"t": "",
-"title": "UK's PM Burnham: Not proposing at this moment to rerun the EU referendum",
-"url": "https://www.financialjuice.com/News/9864724/UKs-PM-Burnham-Not-proposing-at-this-moment-to-rerun-the-EU-referendum.aspx?xy=rss",
-"pub": "2026-11-23T16:35:47+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-23T16:44:03+00:00"
-},
-{
-"id": "99b957767cb9",
-"t": "",
-"title": "Brazil's MBRF sees online betting ban boosting Christmas meat sales - Reuters",
-"url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOMFB0dFRxb3JvNlZ6RFlOeDc2MG5YRHlJOGg1ZGk1TkFad3QzNUxwWU4ta0h3QVA0YXV0YmRzX1J2cWVCc3poTVA1ZmIxbUNNTFRrVExEOW1KVkN5cHE0UjJrRmNXYWlkQTNxTzY5aENUYlZCMS11Z1FVZjBEZS1yWmV5N244a0RCTk1leUx6NmowTHFSS0Y5LU1UWlBEUFBYVk9OQUFZM0t4Z1hoY2o0cllBM3BIVTlCYnRQenZBaw?oc=5",
-"pub": "2026-11-23T16:35:43+00:00",
-"src": "Reuters",
-"kind": "market",
-"seen": "2026-11-23T17:14:22+00:00"
-},
-{
-"id": "e59d8e4cab27",
-"t": "",
-"title": "Braskem, Creditors Reach Deal on Out-of-Court Debt Revamp",
-"url": "https://www.bloomberg.com/news/articles/2026-11-23/braskem-creditors-reach-deal-on-out-of-court-debt-revamp",
-"pub": "2026-11-23T16:25:27+00:00",
-"src": "Bloomberg",
-"kind": "market",
-"seen": "2026-11-23T16:30:06+00:00"
-},
-{
-"id": "347cb50fdc16",
-"t": "",
-"title": "UK PM Burnham: Unthinkable to take UK back into EU without referendum",
-"url": "https://www.financialjuice.com/News/9864714/UK-PM-Burnham-Unthinkable-to-take-UK-back-into-EU-without-referendum.aspx?xy=rss",
-"pub": "2026-11-23T16:24:44+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-23T16:30:06+00:00"
-},
-{
-"id": "40ed5a2be591",
-"t": "",
-"title": "UBS, Barclays Stuck With €1.2 Billion Debt as Irca Deal Unravels",
-"url": "https://www.bloomberg.com/news/articles/2026-11-23/ubs-barclays-stuck-with-1-2-billion-debt-as-irca-deal-unravels",
-"pub": "2026-11-23T16:23:40+00:00",
-"src": "Bloomberg",
-"kind": "market",
-"seen": "2026-11-23T16:44:03+00:00"
-},
-{
-"id": "720fa9711cbb",
-"t": "",
-"title": "Anthropic has so much demand for computing power that by October. SpaceXAI needed to finish new data centers to fulfill Anthropic’s orders - NYT. $ANT",
-"url": "https://www.financialjuice.com/News/9864713/Anthropic-has-so-much-demand-for-computing-power-that-by-October-SpaceXAI-needed-to-finish-new-data-centers-to-fulfill-Anthropics-orders---NYT-ANT.aspx?xy=rss",
-"pub": "2026-11-23T16:21:40+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-23T16:30:06+00:00"
 }
 ]
 }
