@@ -6294,61 +6294,61 @@
   }
  },
  "DELL": {
-  "p": "2분기 · 2026년 5~7월",
-  "tag": "+58%",
+  "p": "3분기 · 2026년 8~10월",
+  "tag": "+103%",
   "rows": [
    [
     "매출",
-    "469.7억 달러 (+58%)"
+    "549.4억 달러 (+103% · 사상 최대)"
    ],
    [
     "AI 서버 매출",
-    "164억 달러 (2배)"
+    "220.3억 달러 (약 3.9배)"
    ],
    [
     "AI 서버 수주잔고",
-    "950억 달러"
+    "1,323억 달러 (이번 분기 주문 602억)"
    ],
    [
-    "올해(회계) 매출 전망",
-    "약 1,920억 달러 (+69%)"
+    "4분기 매출 전망",
+    "563억 달러 (+69%)"
    ]
   ],
-  "note": "AI 서버 주문이 한 분기에 609억 달러 들어왔어요. 그래프의 1년 전 매출은 발표된 성장률(58%)로 거꾸로 계산한 값이에요.",
+  "note": "AI 서버가 매출의 40%를 차지하며 성장을 이끌었고, 올해(회계) 매출 전망을 1,920억에서 2,020억 달러로 올렸어요. PC 사업(129억 달러)은 3% 느는 데 그쳤어요. 발표 전 매출 예상은 492.7억(TheFly)~493.2억 달러(로이터)였고, 4분기 전망이 하나의 숫자로 나와 그래프 범위가 한 점이에요. 다음 분기 애널리스트 매출 예상은 숫자를 확인하지 못해 뺐어요.",
   "src": [
    [
-    "델 2분기(Zacks)",
-    "https://www.zacks.com/stock/news/2984030/dell-q2-earnings-beat-estimates-strong-ai-demand-aids-revenue-growth"
+    "델 3분기 실적 발표 (Business Wire 전재)",
+    "https://www.financialcontent.com/article/bizwire-2026-11-24-dell-technologies-delivers-third-quarter-fiscal-2027-financial-results"
    ],
    [
-    "델 2분기 요약(Quartr)",
-    "https://quartr.com/events/dell-technologies-inc-dell-q2-2027_3g0NIxXX"
+    "델 3분기 실적 발표 (회사 IR)",
+    "https://investors.delltechnologies.com/news-events/press-releases/detail/1665/dell-technologies-delivers-third-quarter-fiscal-2027-financial-results"
    ],
    [
-    "발표 일정(델 IR 이벤트)",
-    "https://investors.delltechnologies.com/news-events/events/detail/20261124-dell-technologies-fiscal-year-2027-third-quarter-results"
+    "예상치·연간 전망 (로이터 전재)",
+    "https://www.933thedrive.com/2026/11/24/dell-lifts-annual-forecasts-after-record-quarter-on-surging-ai-server-demand/"
    ]
   ],
   "chart": {
    "cur": "usd",
-   "prev": [
-    "1년 전",
-    29730
-   ],
    "now": [
-    "5~7월",
-    46970
+    "8~10월",
+    54937
    ],
-   "est": null,
+   "est": 49320,
    "next": {
-    "label": "8~10월",
+    "label": "11~1월",
     "guide": [
-     48500,
-     49500
+     56300,
+     56300
     ],
     "cons": null,
-    "when": "2026년 11월 24일 (미국 장 마감 후)"
-   }
+    "when": "2027년 2월 말 (예상 · 회사 발표일 공지 전)"
+   },
+   "prev": [
+    "1년 전",
+    27005
+   ]
   }
  },
  "WDC": {
