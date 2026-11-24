@@ -1,10 +1,10 @@
 {
-"updated_kst": "2026-11-24 14:44",
-"rot": 46,
+"updated_kst": "2026-11-24 14:52",
+"rot": 106,
 "how": "Scout(프로그램)이 10분마다 모은 기사 제목·링크와 공시예요. Wren이 공식 출처로 확인한 뒤 회사 화면에 한국어로 반영해요. 본문은 받지 않아요.",
 "sources": {
 "Yahoo Finance": "120종목 확인 · 실패 0",
-"GlobeNewswire": "1건",
+"GlobeNewswire": "실패 HTTPError",
 "PR Newswire": "0건",
 "Business Wire": "0건",
 "CNBC": "63건",
@@ -16,6 +16,16 @@
 "Fox Business": "50건"
 },
 "items": [
+{
+"id": "df2934e44e1d",
+"t": "NVDA",
+"title": "3 AI Infrastructure Stocks Retail Investors Are Watching After Nvidia Shares Jump",
+"url": "https://finance.yahoo.com/technology/ai/articles/3-ai-infrastructure-stocks-retail-052634911.html",
+"pub": "2026-11-24T05:26:34+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-24T05:52:20+00:00"
+},
 {
 "id": "27e6fef80858",
 "t": "NVDA",
@@ -135,6 +145,16 @@
 "src": "Yahoo Finance",
 "kind": "news",
 "seen": "2026-11-24T05:44:13+00:00"
+},
+{
+"id": "296d21d93101",
+"t": "VZ",
+"title": "The Dates That Matter Most For Verizon Shareholders",
+"url": "https://www.trefis.com/stock/vz/articles/627590/the-dates-that-matter-most-for-verizon-shareholders/2026-11-23",
+"pub": "2026-11-24T05:06:42+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-24T05:52:20+00:00"
 },
 {
 "id": "492977ff7e3f",
@@ -8001,26 +8021,6 @@
 "seen": "2026-11-23T16:15:46+00:00"
 },
 {
-"id": "2ba2777ea6b9",
-"t": "ORCL",
-"title": "Digital Logistics - Global Strategic Business Report 2026: Capitalize on 21.2% CAGR and a US$179.4B Market as IBM, Oracle, SAP, Siemens, and Tech Mahindra Disrupt Supply Chains",
-"url": "https://finance.yahoo.com/technology/articles/digital-logistics-global-strategic-business-153400223.html",
-"pub": "2026-11-23T15:34:00+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-23T15:44:40+00:00"
-},
-{
-"id": "00b69f47bb91",
-"t": "NVDA",
-"title": "Canadian Investment Regulatory Organization Single Stock Circuit Breaker Halt - NVDD",
-"url": "https://finance.yahoo.com/markets/stocks/articles/canadian-investment-regulatory-organization-single-153400797.html",
-"pub": "2026-11-23T15:34:00+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-23T15:44:40+00:00"
-},
-{
 "id": "6e53b7c81ea3",
 "t": "",
 "title": "Asia Stocks Jump as Huang’s Return Lifts AI Trade",
@@ -8389,6 +8389,16 @@
 "src": "Reuters",
 "kind": "market",
 "seen": "2026-11-24T04:14:27+00:00"
+},
+{
+"id": "6dd22e167e7d",
+"t": "",
+"title": "EXENS.PA - Reuters",
+"url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5OMmhkZzRsdzVHY25JZmc0emdod3NGSFV6a3hhaWRXM05xbXROYUFFOGhnLXJ0dWp2MHktSjNOY3BvTXFyN0lqdnFjUmVQNHFLN3ZLNUFQRTF1TXpabDZvNUZCbDhkOHkxYV93b01majF1SmFfUTdVdkdaMA?oc=5",
+"pub": "2026-11-24T00:44:21+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-24T05:52:20+00:00"
 },
 {
 "id": "15e2f8a206ad",
@@ -9551,6 +9561,16 @@
 "seen": "2026-11-24T00:22:48+00:00"
 },
 {
+"id": "29b953a3d33e",
+"t": "",
+"title": "Grace Therapeutics, Inc (GRCE.OQ) | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE90ZG5hQm9WbmtsS2psd293cTV3VmE2ZW9vOTRyZkVzWV9uMm54cjZaVzBxYklKOG4wUF9EWmRxRlo2WVI1amVnLXRrUHJ5S2JMYk1CNHJvdU9VcHFvNXRub1N6aHBaY2tlLVZKSVR3bw?oc=5",
+"pub": "2026-11-23T19:26:50+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-24T05:52:20+00:00"
+},
+{
 "id": "f08c736fc53a",
 "t": "",
 "title": "Lohia Securities Ltd (LOHS.BO) | Stock Price & Latest News - Reuters",
@@ -9569,6 +9589,16 @@
 "src": "Bloomberg",
 "kind": "market",
 "seen": "2026-11-23T19:36:38+00:00"
+},
+{
+"id": "29074a1ffcec",
+"t": "",
+"title": "NTRA.PH - Reuters",
+"url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPUmVpZEdxcHRCY3FIUml6QVN0S3JxMmdIU29qalQ2bXp6Y28xS0dQNFZXc28yTFpoTnIyYXRxUlh4TGpDZmRRV0U0MnZpdzdqZXFSWDVVeEhjbzBfZk9vNDcwZHFLZDBLaUhnblNwbi1HQnlTRUhoNEY4dUItTWs3SDI1bVF1UQ?oc=5",
+"pub": "2026-11-23T19:23:20+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-24T05:52:20+00:00"
 },
 {
 "id": "b84aff7edbac",
@@ -10039,6 +10069,16 @@
 "src": "Reuters",
 "kind": "market",
 "seen": "2026-11-24T00:44:21+00:00"
+},
+{
+"id": "a1f0880fe713",
+"t": "",
+"title": "HK Electric Investments Ltd (HKTu.MU) | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE4xN2hxN2JhWlJiRTJxOVAwQk9la1NkeTBYZU9mcEhCWUF1cXRXQnhPR1V2YXZ1ZW9jcVZ1M2VDeEttZWtVWmZzczVLdlo2eG5Va0hiM2ZDaWszbzY5S3l0ODJFckdJS0l1TEFVVU9lbw?oc=5",
+"pub": "2026-11-23T16:56:57+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-24T05:52:20+00:00"
 },
 {
 "id": "9ffadde961d1",
@@ -10681,6 +10721,16 @@
 "seen": "2026-11-23T15:29:37+00:00"
 },
 {
+"id": "18e9b7becf2a",
+"t": "",
+"title": "AME.ZY - Reuters",
+"url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNbHl4WUpmbG9uTnZPT2ZORThjX0dsdFhtLWVLV2pRSjQyYnl5WlVKcUh4SnhKRnlNaG53RlhCVm8wWmRUWmlGSllId09sRExjNVlBdC1lOEdFeE9iQTZEY2VsdkJfcjZRRlFldUxJbDRoTFg2Zjh4ZE00ZVpIMVpxNngtMXNVdDQ?oc=5",
+"pub": "2026-11-23T15:21:19+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-24T05:52:20+00:00"
+},
+{
 "id": "e4a81238b223",
 "t": "",
 "title": "Trump: Huang said he'll work harder than ever. $NVDA",
@@ -10739,6 +10789,16 @@
 "src": "FinancialJuice",
 "kind": "market",
 "seen": "2026-11-23T15:29:37+00:00"
+},
+{
+"id": "d3090f132668",
+"t": "",
+"title": "VVMD_bv.NS - | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9pUFg2NEZzVExKSWdVdUs3aF9relktSjZmaXhZMFZCRnRIaHRvYzh3VUJnek9tWGZVUnlPRlNWQl9DSzVmOWhnaHJ5T1VFQjY3NTMwZUNQdWhjaFY4SUJGSWVIR3RObnJDdDItRVpLczVnX2c?oc=5",
+"pub": "2026-11-23T15:18:09+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-24T05:52:20+00:00"
 },
 {
 "id": "b4747eaf7695",
@@ -10959,66 +11019,6 @@
 "src": "FinancialJuice",
 "kind": "market",
 "seen": "2026-11-23T15:16:45+00:00"
-},
-{
-"id": "73dc54173581",
-"t": "",
-"title": "Swire Pacific to sell Cathay Pacific shares worth $457 million - Reuters",
-"url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNQVpQTkMzZVdSSHNyZndLYkVDT1g2TlZ4RXdQUHkxOFBEdzBDRFZvTDhnS0FSbUF0ZGJVRXZYRkxuUDFlTlQ1c21scXEyM0xTRjVYM2twNEltcVpQcG9OZGpkTjZRUmxDSzFSX0xrdHRKWHduR2lZaTU4amV3eC00MFdTSkRlQW9OVjRrYnh0bzMwSVRscFBDeWZiSk10bEhnaVBONnc0M0ZVU3c?oc=5",
-"pub": "2026-11-23T15:01:43+00:00",
-"src": "Reuters",
-"kind": "market",
-"seen": "2026-11-23T15:29:37+00:00"
-},
-{
-"id": "5cddb014152d",
-"t": "",
-"title": "Nvidia set to add more than $1 trillion in market value. $NVDA",
-"url": "https://www.financialjuice.com/News/9864561/Nvidia-set-to-add-more-than-1-trillion-in-market-value-NVDA.aspx?xy=rss",
-"pub": "2026-11-23T15:00:34+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-23T15:16:45+00:00"
-},
-{
-"id": "be0cbb3dee32",
-"t": "",
-"title": "Oil Futures Start Week Lower as Middle East Flows Continue",
-"url": "https://www.wsj.com/finance/commodities-futures/oil-falls-amid-risk-off-sentiment-c478ebdc",
-"pub": "2026-11-23T14:56:00+00:00",
-"src": "WSJ",
-"kind": "market",
-"seen": "2026-11-23T15:16:45+00:00"
-},
-{
-"id": "0e53ea4a3150",
-"t": "",
-"title": "BNP Paribas SA (BNPP.PA) | Stock Price & Latest News - Reuters",
-"url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE05Rk9DM2FKTURON3JhZm9UbDE2ekJ6UkFOUUw1alFpbUNmVTBkdVhEcUFZblF3VEU1dnpfVGpGNkNEMmhrWE1WdTdRTTY0WDFpcnhSZG9ZWG05YnRWSi1Z?oc=5",
-"pub": "2026-11-23T14:52:59+00:00",
-"src": "Reuters",
-"kind": "market",
-"seen": "2026-11-23T22:44:37+00:00"
-},
-{
-"id": "faa2ec2971fe",
-"t": "",
-"title": "Anthropic Shares Fluctuate as AI Sector Rallies on Nvidia CEO Return",
-"url": "https://www.bloomberg.com/news/articles/2026-11-23/anthropic-shares-churn-defying-ai-trade-rally-on-huang-s-return",
-"pub": "2026-11-23T14:51:48+00:00",
-"src": "Bloomberg",
-"kind": "market",
-"seen": "2026-11-23T15:16:45+00:00"
-},
-{
-"id": "eb9d58a7e104",
-"t": "",
-"title": "AOLL_bv.NS - | Stock Price & Latest News - Reuters",
-"url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNeDM2M3F1LWl3NnRpV0FSWFNVMVV4SWtKMU40dFZWMkc5cm9yZmhKMFAyYXdGLVYwQTlKRVpaS1lSYURhOVJ2b0doMnAxTEJUZW5WbmNFdnd5d2NyWnY0bGIwUkFvMFdpcnc1aTNMZGtZbkdqV2N6d3JpcjNVNWR5RmNNTEp0TElmSkE?oc=5",
-"pub": "2026-11-23T14:49:54+00:00",
-"src": "Reuters",
-"kind": "market",
-"seen": "2026-11-24T00:14:30+00:00"
 }
 ]
 }
