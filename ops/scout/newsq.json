@@ -1,6 +1,6 @@
 {
-"updated_kst": "2026-11-24 16:44",
-"rot": 48,
+"updated_kst": "2026-11-24 17:14",
+"rot": 108,
 "how": "Scout(프로그램)이 10분마다 모은 기사 제목·링크와 공시예요. Wren이 공식 출처로 확인한 뒤 회사 화면에 한국어로 반영해요. 본문은 받지 않아요.",
 "sources": {
 "Yahoo Finance": "120종목 확인 · 실패 0",
@@ -10,12 +10,92 @@
 "CNBC": "63건",
 "Bloomberg": "40건",
 "WSJ": "61건",
-"Reuters": "50건",
+"Reuters": "49건",
 "FinancialJuice": "100건",
 "SEC EDGAR": "실패 HTTPError",
 "Fox Business": "50건"
 },
 "items": [
+{
+"id": "f413c4170256",
+"t": "SPCX",
+"title": "Tesla And SpaceX Reportedly Name 5 Directors To Lead Merger Discussions — Investor Says Talks Are Moving At ‘Warp Speed’",
+"url": "https://stocktwits.com/news-articles/markets/equity/tesla-spacex-5-directors-lead-merger-discussions-investor-talks-warp-speed/cNbsbrxR9ke",
+"pub": "2026-11-24T08:00:14+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-24T08:14:46+00:00"
+},
+{
+"id": "20e89e711019",
+"t": "NVDA",
+"title": "Trump, Nvidia and power: could we be nearing the end of tech’s Gilded Age?",
+"url": "https://finance.yahoo.com/technology/ai/articles/trump-nvidia-power-could-nearing-080011472.html",
+"pub": "2026-11-24T08:00:11+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-24T08:14:46+00:00"
+},
+{
+"id": "2e3cbe8eabd1",
+"t": "NVDA",
+"title": "US targets chip smuggling to China after Huang's return to scandal-hit Nvidia",
+"url": "https://finance.yahoo.com/technology/ai/articles/nvidia-reinstates-jensen-huang-ceo-141738492.html",
+"pub": "2026-11-24T07:59:51+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-24T08:14:46+00:00"
+},
+{
+"id": "a10267ef7600",
+"t": "NVDA",
+"title": "Jim Cramer Calls Nvidia’s Quarter “Fabulous” but Says Buy Anthropic Instead. I’ll Take the Other Side",
+"url": "https://www.tikr.com/blog/jim-cramer-nvidia-vs-anthropic-stock",
+"pub": "2026-11-24T07:58:31+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-24T08:14:46+00:00"
+},
+{
+"id": "18722c51fadf",
+"t": "NVDA",
+"title": "Grayscale Says Bitcoin Looks Oversold, Warns Of Near-Term AI Risks As Nvidia And Anthropic Developments Put Markets In Focus",
+"url": "https://stocktwits.com/news-articles/markets/cryptocurrency/grayscale-bitcoin-oversold-ai-risks-nvidia-anthropic/cNbsGFxR9kI",
+"pub": "2026-11-24T07:57:36+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-24T08:14:46+00:00"
+},
+{
+"id": "7e8862b63603",
+"t": "MU",
+"title": "Black Friday Comes to Tech Stocks: 3 Artificial Intelligence (AI) Names I’d Buy on Sale",
+"url": "https://www.fool.com/investing/2026/11/24/black-friday-comes-to-tech-stocks-3-artificial-intelligence-ai-names-id-buy-on-sale/",
+"pub": "2026-11-24T07:54:02+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-24T08:14:46+00:00"
+},
+{
+"id": "cb706859424f",
+"t": "NVDA",
+"title": "The man behind Nvidia: Jensen Huang’s rise and dramatic return",
+"url": "https://www.euronews.com/2026/11/24/the-man-behind-nvidia-jensen-huangs-rise-and-dramatic-return",
+"pub": "2026-11-24T07:44:56+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-24T08:14:46+00:00"
+},
+{
+"id": "41c0351496ef",
+"t": "NVDA",
+"title": "Who Sold Bitcoin's Nvidia Rally? The Answer Sits in Wall Street's Fund Data",
+"url": "https://beincrypto.com/bitcoin-etf-outflows-huang-return-rally/",
+"pub": "2026-11-24T07:36:59+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-24T08:14:46+00:00"
+},
 {
 "id": "a89fcb8b3018",
 "t": "NVDA",
@@ -45,6 +125,16 @@
 "src": "Yahoo Finance",
 "kind": "news",
 "seen": "2026-11-24T07:44:08+00:00"
+},
+{
+"id": "9429854dbb9b",
+"t": "UNH",
+"title": "Healthcare stocks are sinking, yet this $15 hospital pick surged 72%",
+"url": "https://finance.yahoo.com/healthcare/articles/healthcare-stocks-sinking-yet-15-071251674.html",
+"pub": "2026-11-24T07:12:51+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-24T08:14:46+00:00"
 },
 {
 "id": "ed9e8fbd85b5",
@@ -77,6 +167,16 @@
 "seen": "2026-11-24T07:44:08+00:00"
 },
 {
+"id": "d11e33fe8ba2",
+"t": "SO",
+"title": "Southern Energy Corp. Announces Third Quarter 2026 Financial and Operating Results",
+"url": "https://finance.yahoo.com/energy/articles/southern-energy-corp-announces-third-070200088.html",
+"pub": "2026-11-24T07:02:00+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-24T08:14:46+00:00"
+},
+{
 "id": "eb580fafb97d",
 "t": "NVDA",
 "title": "TSMC, Samsung, SK Hynix Rally As Jensen Huang Returns As Nvidia CEO — Top Analyst Flags Risks To AI Recovery",
@@ -105,6 +205,16 @@
 "src": "Yahoo Finance",
 "kind": "news",
 "seen": "2026-11-24T07:44:08+00:00"
+},
+{
+"id": "03c91177a582",
+"t": "VRT",
+"title": "Best Growth Stocks to Buy for November 24th",
+"url": "https://finance.yahoo.com/markets/stocks/articles/best-growth-stocks-buy-november-064600380.html",
+"pub": "2026-11-24T06:46:00+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-24T08:14:46+00:00"
 },
 {
 "id": "5a32cfca1ede",
@@ -7911,114 +8021,84 @@
 "seen": "2026-11-23T16:15:46+00:00"
 },
 {
-"id": "8fe332a1d153",
-"t": "CRWD",
-"title": "CrowdStrike's Synergy Targets in Zscaler Acquisition 'Ambitious but Achievable,' Wedbush Says",
-"url": "https://finance.yahoo.com/markets/stocks/articles/crowdstrike-apos-synergy-targets-zscaler-155515352.html",
-"pub": "2026-11-23T15:55:15+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-23T16:44:03+00:00"
+"id": "81b86cf16782",
+"t": "",
+"title": "Dollar Stays Strong After Nvidia News Boosts U.S. Tech Stocks",
+"url": "https://www.wsj.com/articles/dollar-stays-strong-after-nvidia-news-boosts-u-s-tech-stocks-a0c603c2",
+"pub": "2026-11-24T08:05:00+00:00",
+"src": "WSJ",
+"kind": "market",
+"seen": "2026-11-24T08:14:46+00:00"
 },
 {
-"id": "011ebeeeaf41",
-"t": "TSLA",
-"title": "Why Did Tesla Stock Fall On Friday?",
-"url": "https://www.trefis.com/stock/tsla/articles/627804/why-did-tesla-stock-fall-on-friday/2026-11-23",
-"pub": "2026-11-23T15:55:00+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-23T16:30:06+00:00"
+"id": "3b705e352797",
+"t": "",
+"title": "Hong Kong’s Hedge Fund Tax Breaks Offer Boon for Pod Shop Stars",
+"url": "https://www.bloomberg.com/news/articles/2026-11-24/hong-kong-s-hedge-fund-tax-breaks-offer-boon-for-pod-shop-stars",
+"pub": "2026-11-24T08:03:36+00:00",
+"src": "Bloomberg",
+"kind": "market",
+"seen": "2026-11-24T08:14:46+00:00"
 },
 {
-"id": "8b33e827ab5e",
-"t": "V",
-"title": "Klarna stock surges on Visa partnership expansion",
-"url": "https://finance.yahoo.com/markets/stocks/articles/klarna-stock-surges-visa-partnership-155426625.html",
-"pub": "2026-11-23T15:54:26+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-23T16:15:46+00:00"
+"id": "6aba50bbd077",
+"t": "",
+"title": "Currency Strength Chart: Strongest: CAD, GBP, EUR, USD, AUD, NZD, CHF, GBP - Weakest",
+"url": "https://www.financialjuice.com/News/9865683/Currency-Strength-Chart-Strongest-CAD-GBP-EUR-USD-AUD-NZD-CHF-GBP---Weakest.aspx?xy=rss",
+"pub": "2026-11-24T08:01:54+00:00",
+"src": "FinancialJuice",
+"kind": "market",
+"seen": "2026-11-24T08:14:46+00:00"
 },
 {
-"id": "f602ed1e63f0",
-"t": "DELL",
-"title": "Dell Faces $49 Billion Earnings Test as AI Server Costs Threaten Margins",
-"url": "https://finance.yahoo.com/technology/ai/articles/dell-faces-49-billion-earnings-155333103.html",
-"pub": "2026-11-23T15:53:33+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-23T16:15:46+00:00"
+"id": "65ee8316acfa",
+"t": "",
+"title": "Japan’s Top Life Insurers Book $7.5 Billion in Bond Sale Losses",
+"url": "https://www.bloomberg.com/news/articles/2026-11-24/japan-s-top-life-insurers-book-7-5-billion-in-bond-sale-losses",
+"pub": "2026-11-24T08:01:34+00:00",
+"src": "Bloomberg",
+"kind": "market",
+"seen": "2026-11-24T08:14:46+00:00"
 },
 {
-"id": "81309b387ff3",
-"t": "AVGO",
-"title": "Jensen Huang Returns to NVIDA. Why Apple, Broadcom, and Anthropic Could Be Under Pressure",
-"url": "https://247wallst.com/videos/jensen-huang-returns-to-nvida-why-apple-broadcom-and-anthropic-could-be-under-pressure/",
-"pub": "2026-11-23T15:52:42+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-23T16:15:46+00:00"
+"id": "d176a26649a4",
+"t": "",
+"title": "Iraqi PM directs federal oil ministry to manage all its oilfields under Kurdish regional security control in Diyala, Kirkuk, Salahuddin, and Nineveh provinces",
+"url": "https://www.financialjuice.com/News/9865682/Iraqi-PM-directs-federal-oil-ministry-to-manage-all-its-oilfields-under-Kurdish-regional-security-control-in-Diyala-Kirkuk-Salahuddin-and-Nineveh-provinces.aspx?xy=rss",
+"pub": "2026-11-24T08:01:16+00:00",
+"src": "FinancialJuice",
+"kind": "market",
+"seen": "2026-11-24T08:14:46+00:00"
 },
 {
-"id": "c8e31d5b5cf0",
-"t": "MU",
-"title": "Semiconductor Stocks like Micron, Marvell, and Bloom Energy See Massive Gains as Jensen Huang Returns to NVIDIA",
-"url": "https://247wallst.com/videos/semiconductor-stocks-like-micron-marvell-and-bloom-energy-see-massive-gains-as-jensen-huang-returns-to-nvidia/",
-"pub": "2026-11-23T15:52:20+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-23T16:15:46+00:00"
+"id": "0f1f6cd2d00c",
+"t": "",
+"title": "JPMorgan, HSBC Trade Digital Gold in London for the First Time",
+"url": "https://www.bloomberg.com/news/articles/2026-11-24/jpmorgan-hsbc-trade-digital-gold-in-london-for-the-first-time",
+"pub": "2026-11-24T08:00:00+00:00",
+"src": "Bloomberg",
+"kind": "market",
+"seen": "2026-11-24T08:14:46+00:00"
 },
 {
-"id": "70d2139c7078",
-"t": "MSFT",
-"title": "Benioff Says “226K Custom Agents” Now Run on Slack. Salesforce Has a New Answer to the SaaSpocalypse",
-"url": "https://www.tikr.com/blog/benioff-says-226k-custom-agents-now-run-on-slack-salesforce-has-a-new-answer-to-the-saaspocalypse",
-"pub": "2026-11-23T15:52:04+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-23T16:30:06+00:00"
+"id": "83735af9a983",
+"t": "",
+"title": "Franklin Templeton Urges Investors to Look Beyond the AI Trade",
+"url": "https://www.bloomberg.com/news/articles/2026-11-24/franklin-templeton-urges-investors-to-look-beyond-the-ai-trade",
+"pub": "2026-11-24T07:49:59+00:00",
+"src": "Bloomberg",
+"kind": "market",
+"seen": "2026-11-24T08:14:46+00:00"
 },
 {
-"id": "d8e398b71e38",
-"t": "CRWD",
-"title": "CrowdStrike to acquire Zscaler for $43.9 billion amid turbulent threat environment",
-"url": "https://www.cybersecuritydive.com/news/crowdstrike-acquire-zscaler-439-billion-turbulent-threat/875477/",
-"pub": "2026-11-23T15:51:35+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-23T17:44:16+00:00"
-},
-{
-"id": "7b4c40c01f8a",
-"t": "MSFT",
-"title": "Can Akamai Strengthen Its Mobile Security Reach With Microsoft Tie-Up?",
-"url": "https://finance.yahoo.com/technology/articles/akamai-strengthen-mobile-security-reach-155100051.html",
-"pub": "2026-11-23T15:51:00+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-23T17:14:22+00:00"
-},
-{
-"id": "d1d2641d64ec",
-"t": "LLY",
-"title": "Pfizer’s CEO Wants AI to “Halve the Time to First Human Study.” Here’s What That Means for Its Pipeline",
-"url": "https://www.tikr.com/blog/pfizers-ceo-wants-ai-to-halve-the-time-to-first-human-study-heres-what-that-means-for-its-pipeline",
-"pub": "2026-11-23T15:50:52+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-23T17:14:22+00:00"
-},
-{
-"id": "98ef955e11c2",
-"t": "ACN",
-"title": "Vuzix stock jumps on reseller deal with Friends With Holograms",
-"url": "https://finance.yahoo.com/markets/stocks/articles/vuzix-stock-jumps-reseller-deal-155040814.html",
-"pub": "2026-11-23T15:50:40+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-23T16:15:46+00:00"
+"id": "48a60bbebffe",
+"t": "",
+"title": "Dangote Clears Key Hurdle Toward Africa’s Biggest Listing",
+"url": "https://www.bloomberg.com/news/articles/2026-11-24/dangote-clears-key-hurdle-toward-africa-s-biggest-listing",
+"pub": "2026-11-24T07:39:48+00:00",
+"src": "Bloomberg",
+"kind": "market",
+"seen": "2026-11-24T08:14:46+00:00"
 },
 {
 "id": "28cd50ea91a9",
@@ -8049,6 +8129,16 @@
 "src": "Bloomberg",
 "kind": "market",
 "seen": "2026-11-24T07:44:08+00:00"
+},
+{
+"id": "d79da94a32b1",
+"t": "",
+"title": "Kingfisher edges up profit outlook on resilient UK - Reuters",
+"url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQWHpKS0RFUllVcXktQWtPOExhYTFoU0M0clZCNmhXMkhzZGFpMzBnSGJHa1lPdWZ0TGMzTU5qbWpsNnlTV3RqbGpYWXpuaXZiNERlSXZtOHAxd0gxX0MxbjJxaTZIZ3hrUGFlNEx4amxiMGtaMUduUHdDSlZVSV9QcDlucC1ZZ1dFMkIxSWdJQ0dXSm9zc3lVeVRHbUhiUXM?oc=5",
+"pub": "2026-11-24T07:10:00+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-24T08:14:46+00:00"
 },
 {
 "id": "bde1e65967af",
@@ -10929,96 +11019,6 @@
 "src": "FinancialJuice",
 "kind": "market",
 "seen": "2026-11-23T16:30:06+00:00"
-},
-{
-"id": "2c9dd7e9e617",
-"t": "",
-"title": "US PCE Price Index Market Reactions & Deviations - FJElite",
-"url": "https://www.financialjuice.com/News/9864712/US-PCE-Price-Index-Market-Reactions--Deviations---FJElite.aspx?xy=rss",
-"pub": "2026-11-23T16:18:41+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-23T16:30:06+00:00"
-},
-{
-"id": "cc59920e4520",
-"t": "",
-"title": "Analyst Backs Huang’s Return, Cautiously",
-"url": "https://www.bloomberg.com/news/videos/2026-11-23/analyst-backs-huang-s-return-cautiously-video",
-"pub": "2026-11-23T16:16:15+00:00",
-"src": "Bloomberg",
-"kind": "market",
-"seen": "2026-11-23T16:30:06+00:00"
-},
-{
-"id": "4735774ff67a",
-"t": "",
-"title": "Musk shared data showing that the company lagged competitors - NYT. $SPCX",
-"url": "https://www.financialjuice.com/News/9864697/Musk-shared-data-showing-that-the-company-lagged-competitors---NYT-SPCX.aspx?xy=rss",
-"pub": "2026-11-23T16:15:29+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-23T16:15:46+00:00"
-},
-{
-"id": "021f47be1c7c",
-"t": "",
-"title": "Musk told staff SpaceX is falling behind on AI development - NYT. $SPCX",
-"url": "https://www.financialjuice.com/News/9864691/Musk-told-staff-SpaceX-is-falling-behind-on-AI-development---NYT-SPCX.aspx?xy=rss",
-"pub": "2026-11-23T16:14:39+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-23T16:15:46+00:00"
-},
-{
-"id": "0f755b1a2f54",
-"t": "",
-"title": "Schumer: Democrats will wield their full power to probe Jensen Huang, the Administration and other Nvidia executives. $NVDA",
-"url": "https://www.financialjuice.com/News/9864690/Schumer-Democrats-will-wield-their-full-power-to-probe-Jensen-Huang-the-Administration-and-other-Nvidia-executives-NVDA.aspx?xy=rss",
-"pub": "2026-11-23T16:08:16+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-23T16:15:46+00:00"
-},
-{
-"id": "8d18f1271064",
-"t": "",
-"title": "Trump ends remarks on CNBC",
-"url": "https://www.financialjuice.com/News/9864674/Trump-ends-remarks-on-CNBC.aspx?xy=rss",
-"pub": "2026-11-23T15:57:39+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-23T16:15:46+00:00"
-},
-{
-"id": "c7cc37a7adef",
-"t": "",
-"title": "Trump: Think China will buy another 250 Boeings. $BA",
-"url": "https://www.financialjuice.com/News/9864673/Trump-Think-China-will-buy-another-250-Boeings-BA.aspx?xy=rss",
-"pub": "2026-11-23T15:57:02+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-23T16:15:46+00:00"
-},
-{
-"id": "666c9c0c5c02",
-"t": "",
-"title": "Credit Heads ‘Swivel’ as Huang Return Ignites Tech Debt Rally",
-"url": "https://www.bloomberg.com/news/articles/2026-11-23/credit-heads-swivel-as-huang-return-ignites-tech-debt-rally",
-"pub": "2026-11-23T15:56:17+00:00",
-"src": "Bloomberg",
-"kind": "market",
-"seen": "2026-11-23T16:15:46+00:00"
-},
-{
-"id": "5698609fe2b9",
-"t": "",
-"title": "Talwalkars Better Value Fitness Ltd (TALW.NS) | Stock Price & Latest News - Reuters",
-"url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9JaklBWExJWm5qQzgtOWlNNFdCazQ4bTFOaXhGeDMtNGVqRC1Pcy12bndxRURMREk4RnBoc0EwVlFYT0dHQjBMZWJTU3IzdmFOU2lqU1hwd0p3S05ualhmNzJ6VlVzVEh5MnVFYng0Zw?oc=5",
-"pub": "2026-11-23T15:56:06+00:00",
-"src": "Reuters",
-"kind": "market",
-"seen": "2026-11-24T00:14:30+00:00"
 }
 ]
 }
