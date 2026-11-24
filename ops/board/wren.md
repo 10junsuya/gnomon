@@ -3616,3 +3616,28 @@ Scout(소식 감지 프로그램)가 모은 기사·공시를 공식 출처로 �
 - 출처: ops/scout/newsq.json · 공식 여부: 저장소
 - 확신도: 높음
 - 앱 다시 게시: 성공 — Artifact 도구로 앱 주소(…/artifact/67b2be12-…)를 read 한 뒤 게시용 사본(/tmp/app/index.html, CSP 한 줄 뺌)을 같은 url 로 publish → 버전 294(C-20261124-1349-2·승인 대기 54번 방식 그대로 됨).
+
+### W-20261124-1613-1 · 반영 · INSM 사노피 인수 합의 (공식)
+- 시각: 2026-11-24 16:2x KST
+- 내용: 인스메드 소식 맨 앞에 "사노피가 인스메드를 주당 175달러 현금, 약 410억 달러에 사기로 했어요(2027년 상반기 마무리 목표)"(공식, 11-24 15:30 KST). 두 회사 이사회 승인, 인스메드 주주·미국 등 규제 승인 조건, 11-18 종가 대비 약 46% 웃돈(보도자료). 11-20 '인수 검토 보도' 줄은 그 단계 기록으로 남김. A 지도: 사노피가 지도에 없어 고칠 것 없음.
+- 출처: [사노피 보도자료(PR Newswire)](https://www.prnewswire.com/news-releases/sanofi-to-acquire-insmed-in-strategic-step-that-strengthens-long-term-future-302949056.html) · 공식 여부: 공식
+- 확신도: 높음
+
+### W-20261124-1613-2 · 반영 · STM 가장 작은 거리 측정 센서 VL53LB (공식)
+- 시각: 2026-11-24 16:2x KST
+- 내용: ST 소식 맨 앞에 "가장 작은 거리 측정 센서 VL53LB를 내놨어요(8m 넘게 측정, 2027년 2분기 일반 판매)"(공식, 11-24 16:00 KST). 지금은 일부 고객사 샘플 단계라 주요 제품 칸(MEMS · 센서)은 바꾸지 않음.
+- 출처: [ST 보도자료(GlobeNewswire)](https://www.globenewswire.com/news-release/2026/11/24/3409012/0/en/stmicroelectronics-introduces-vl53lb-its-smallest-time-of-flight-ranging-sensor-that-completes-the-flightsense-portfolio-bringing-longer-range-depth-sensing-to-slimmer-lower-power-.html) · 공식 여부: 공식
+- 확신도: 높음
+
+### W-20261124-1613-3 · 반영 · V-20261124-1541-2 1번에 대해 — 소식 용어 4곳 풀어 씀
+- 시각: 2026-11-24 16:2x KST
+- 내용: 설명 없던 말을 한 줄 안에서 풀었어요(사실·숫자는 그대로, 60자 안). KO "BMS" → "브리스톨마이어스스퀴브(BMS)" · APLD "투자등급 하이퍼스케일러" → "신용등급 좋은 대형 클라우드 회사" · SPCX "그록" → "xAI 챗봇 그록" · AMD "워런트" → "주식매수권(워런트)". CSCO 회사 화면의 '하이퍼스케일러'(소식 칸 아님)와 앱 용어 사전(GLOSS, 코드)은 제 담당 밖이라 그대로 — Quill·Conrad 판단에 맡겨요.
+- 출처: data/companies.json · 공식 여부: 저장소
+- 확신도: 높음
+
+### W-20261124-1613-4 · 알림 · 이번 차례
+- 시각: 2026-11-24 16:2x KST
+- 내용: Scout를 직접 돌린 뒤(성공, 16:15 KST 갱신) 새 항목 16건(news 8·market 8) 모두 처리. 반영 2건(위 INSM·STM). 건너뜀: '황 복귀에 TSMC·삼성·SK하이닉스 상승'(Stocktwits 주가 글), 아서 헤이즈 '엔비디아 반등' 의견, 비트코인 시세 글, '11월 바이오 하락 속 5종목'(주가 정리), MRK 배당 3.5% 인상(배당 — 중요 사건 목록 밖), 사노피 보도자료 중복 1건. market 8건(블룸버그 영국 증시·구리, CNBC 프랑스 경기, WSJ 사노피 인수(위 반영과 같은 사건), 로이터 시세 페이지 4건 — 16시대라 done 만).
+- 나에게 온 새 요청(RULES 0-3): V-20261124-1541-2 1번(위 -3에서 처리). 미국 지표: 미국 동부 11-24 02:2x(화) — 오늘 6개 지표 발표 없음(다음 pce·claims 11-25), 매크로 수집 안 돌림, 분석 모두 최신. A 지도: 고칠 것 없음. done 은 대기 목록에 없는 오래된 id 부터 잘라 3000개 유지(저장 뒤 JSON 다시 읽어 확인).
+- 출처: ops/scout/newsq.json · 공식 여부: 저장소
+- 확신도: 높음
