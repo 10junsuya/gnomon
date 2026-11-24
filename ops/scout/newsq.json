@@ -1,6 +1,6 @@
 {
-"updated_kst": "2026-11-25 08:13",
-"rot": 122,
+"updated_kst": "2026-11-25 08:32",
+"rot": 3,
 "how": "Scout(프로그램)이 10분마다 모은 기사 제목·링크와 공시예요. Wren이 공식 출처로 확인한 뒤 회사 화면에 한국어로 반영해요. 본문은 받지 않아요.",
 "sources": {
 "Yahoo Finance": "120종목 확인 · 실패 0",
@@ -17,6 +17,56 @@
 },
 "items": [
 {
+"id": "1dfc9950b1ef",
+"t": "NVDA",
+"title": "Why AMD Stock Fell Today",
+"url": "https://www.fool.com/investing/2026/11/24/why-amd-stock-fell-today/",
+"pub": "2026-11-24T23:25:02+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-24T23:32:07+00:00"
+},
+{
+"id": "5dcf2dc2e811",
+"t": "NVDA",
+"title": "Dow Jones Futures Fall: Nvidia, Anthropic Lead AI Retreat But Many Sectors Strong; Fed Inflation Data Due",
+"url": "https://finance.yahoo.com/m/d96603c1-fe7f-3bf3-8158-0728b464d469/dow-jones-futures-fall%3A.html",
+"pub": "2026-11-24T23:21:32+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-24T23:32:07+00:00"
+},
+{
+"id": "523b216f7392",
+"t": "MU",
+"title": "3 AI Investment Stocks We’re Buying Today And Why We’re Selling On Micron",
+"url": "https://247wallst.com/videos/3-ai-investment-stocks-were-buying-today-and-why-were-selling-on-micron/",
+"pub": "2026-11-24T23:19:04+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-24T23:32:07+00:00"
+},
+{
+"id": "c565ca129b15",
+"t": "NVDA",
+"title": "A scandal like the one haunting Nvidia just reached AMD, its biggest rival",
+"url": "https://www.thestreet.com/investing/stocks/scandal-like-one-haunting-nvidia-just-reached-amd-its-biggest-rival",
+"pub": "2026-11-24T23:17:00+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-24T23:32:07+00:00"
+},
+{
+"id": "74c98ce751a6",
+"t": "NVDA",
+"title": "Why Intel Stock Fell Today",
+"url": "https://www.fool.com/investing/2026/11/24/why-intel-stock-fell-today/",
+"pub": "2026-11-24T23:16:01+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-24T23:32:07+00:00"
+},
+{
 "id": "eeb2c09d0df8",
 "t": "MSFT",
 "title": "Driven Tech Completes Acquisitions of ADEX and TekBay, Accelerating Enterprise AI Strategy",
@@ -27,6 +77,26 @@
 "seen": "2026-11-24T23:13:49+00:00"
 },
 {
+"id": "753d9dbcac1c",
+"t": "NVDA",
+"title": "Why Compass Minerals International Stock Rocketed Higher Today",
+"url": "https://www.fool.com/investing/2026/11/24/why-compass-minerals-international-stock-rocketed-higher-today/",
+"pub": "2026-11-24T23:06:56+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-24T23:32:07+00:00"
+},
+{
+"id": "4accafe52dbe",
+"t": "NVDA",
+"title": "California AG Sees 'Bright Red Flags' Regarding Nvidia",
+"url": "https://finance.yahoo.com/video/california-ag-sees-bright-red-230340002.html",
+"pub": "2026-11-24T23:03:40+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-24T23:32:07+00:00"
+},
+{
 "id": "22a773a6d66d",
 "t": "NVDA",
 "title": "In Response to the Turmoil at Nvidia, Bitcoin Drops Below $70,000. Is This a Buy-the-Dip Opportunity?",
@@ -35,6 +105,16 @@
 "src": "Yahoo Finance",
 "kind": "news",
 "seen": "2026-11-24T23:13:49+00:00"
+},
+{
+"id": "5ce00263f06f",
+"t": "AAPL",
+"title": "Tech Keeps Eating Hollywood As Netflix Buys Historic Seinfeld Lot",
+"url": "https://finance.yahoo.com/m/34be458f-965e-30c4-8fb7-e730267a65a9/tech-keeps-eating-hollywood.html",
+"pub": "2026-11-24T23:00:28+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-24T23:32:07+00:00"
 },
 {
 "id": "10b3f1c69c73",
@@ -55,6 +135,26 @@
 "src": "Yahoo Finance",
 "kind": "news",
 "seen": "2026-11-24T23:13:49+00:00"
+},
+{
+"id": "f334e101439e",
+"t": "NVDA",
+"title": "Dick’s Sporting Goods Raised Its Full-Year Earnings Forecast as Foot Locker Returned to Positive Comparable Sales. Here's What Investors Need to Know.",
+"url": "https://www.fool.com/investing/2026/11/24/dicks-sporting-goods-raised-its-full-year-earnings-forecast-as-foot-locker-returned-to-positive-comparable-sales-heres-what-investors-need-to-know/",
+"pub": "2026-11-24T22:51:01+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-24T23:32:07+00:00"
+},
+{
+"id": "20bbceee7c5c",
+"t": "EBAY",
+"title": "Needham Says GameStop Is More Than a Meme Stock Now—and Sees 20% Upside",
+"url": "https://finance.yahoo.com/markets/stocks/articles/needham-says-gamestop-more-meme-224812161.html",
+"pub": "2026-11-24T22:48:12+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-24T23:32:07+00:00"
 },
 {
 "id": "02baa5284cc7",
@@ -976,6 +1076,16 @@
 "src": "Yahoo Finance",
 "kind": "news",
 "seen": "2026-11-24T21:32:03+00:00"
+},
+{
+"id": "30c1359ab107",
+"t": "AMD",
+"title": "Dow Brushes Off Tech Rout, Tariff Worries to Add 423 Points: Stock Market Today",
+"url": "https://www.kiplinger.com/investing/stocks/dow-brushes-off-tech-rout-tariff-worries-stock-market-today",
+"pub": "2026-11-24T21:13:00+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-24T23:32:07+00:00"
 },
 {
 "id": "575998d87a24",
@@ -7910,114 +8020,24 @@
 "seen": "2026-11-24T14:44:20+00:00"
 },
 {
-"id": "a106fc137e53",
-"t": "ORCL",
-"title": "Global Clustering Software Market Report 2026 | Capitalize on AI and cloud growth as Huawei, IBM, Oracle, and Spectro Cloud compete for $14.58B by 2030",
-"url": "https://finance.yahoo.com/technology/ai/articles/global-clustering-software-market-report-143000752.html",
-"pub": "2026-11-24T14:30:00+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-24T14:44:20+00:00"
+"id": "b0e593f233e5",
+"t": "",
+"title": "Butterball CEO on Thanksgiving Dinner Outlook",
+"url": "https://www.bloomberg.com/news/videos/2026-11-24/butterball-ceo-on-thanksgiving-dinner-outlook-video",
+"pub": "2026-11-24T23:12:17+00:00",
+"src": "Bloomberg",
+"kind": "market",
+"seen": "2026-11-24T23:32:07+00:00"
 },
 {
-"id": "34bd6031a9cf",
-"t": "NVDA",
-"title": "Nvidia's Jensen Huang comeback could ease AI industry policy risks, says Wedbush",
-"url": "https://www.proactiveinvestors.com/companies/news/1102347/nvidia-s-jensen-huang-comeback-could-ease-ai-industry-policy-risks-says-wedbush-1102347.html",
-"pub": "2026-11-24T14:30:00+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-24T14:44:20+00:00"
-},
-{
-"id": "93b0d43627ea",
-"t": "NET",
-"title": "Nova Registry and Linkme give every Linkme user a free .link domain",
-"url": "https://finance.yahoo.com/technology/articles/nova-registry-linkme-every-linkme-143000129.html",
-"pub": "2026-11-24T14:30:00+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-24T15:44:24+00:00"
-},
-{
-"id": "361d6fde9f1d",
-"t": "TSLA",
-"title": "Taking On Tesla Again: Lucid and Its Partners Begin Driverless Robo-Taxi Tests.",
-"url": "https://finance.yahoo.com/m/8a9313b7-37ec-3d2d-87fc-5b91b0aacf30/taking-on-tesla-again%3A-lucid.html",
-"pub": "2026-11-24T14:30:00+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-24T16:15:36+00:00"
-},
-{
-"id": "5af1caaa3f71",
-"t": "INSM",
-"title": "Sanofi stock jumps after deal to acquire respiratory drugmaker Insmed",
-"url": "https://finance.yahoo.com/video/sanofi-stock-jumps-after-deal-to-acquire-respiratory-drugmaker-insmed-142928410.html",
-"pub": "2026-11-24T14:29:28+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-24T15:15:37+00:00"
-},
-{
-"id": "9d82bb388053",
-"t": "AAPL",
-"title": "Target vs. Walmart: Which Consumer Goods Stock Is a Better Buy for 2027?",
-"url": "https://www.fool.com/coverage/better-buy/2026/11/24/target-vs-walmart-which-consumer-goods-stock-is-a-better-buy-for-2027/",
-"pub": "2026-11-24T14:29:07+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-24T14:44:20+00:00"
-},
-{
-"id": "1682807651d9",
-"t": "NVDA",
-"title": "Coca-Cola at $95 or PepsiCo at $140: Which Dividend King Could Turn $1,000 Into More Money by 2036?",
-"url": "https://www.fool.com/investing/2026/11/24/coca-cola-at-usd95-or-pepsico-at-usd140-which-dividend-king-could-turn-usd1-000-into-more-money-by-2036/",
-"pub": "2026-11-24T14:29:01+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-24T14:44:20+00:00"
-},
-{
-"id": "0ce827a62920",
-"t": "GOOGL",
-"title": "Global Document Collaboration Market Report 2026: Size, Share, Trends and Forecast to 2030 | Capitalize on AI, Cloud and Secure Workflows with Microsoft, Google, Adobe and Box",
-"url": "https://finance.yahoo.com/technology/articles/global-document-collaboration-market-report-142900939.html",
-"pub": "2026-11-24T14:29:00+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-24T14:44:20+00:00"
-},
-{
-"id": "46a0a078fc34",
-"t": "DELL",
-"title": "Over Half Of Dell's $95 Billion Backlog Waits",
-"url": "https://www.trefis.com/stock/dell/articles/628252/over-half-of-dell-s-95-billion-backlog-waits/2026-11-24",
-"pub": "2026-11-24T14:28:29+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-24T16:15:36+00:00"
-},
-{
-"id": "99cff2ffb3de",
-"t": "ORCL",
-"title": "Global Integration App Market Report 2026: $6.04 Billion Forecast to 2030 | Capitalize on 11.2% CAGR as Microsoft, IBM, Oracle, and Workato Accelerate AI and Multi-Cloud Adoption",
-"url": "https://finance.yahoo.com/technology/articles/global-integration-app-market-report-142800894.html",
-"pub": "2026-11-24T14:28:00+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-24T14:44:20+00:00"
-},
-{
-"id": "a27669512866",
-"t": "INTC",
-"title": "Is Intel a Buy After Its 14.1% Drop in 1 Week as Recovery Risks Mount?",
-"url": "https://finance.yahoo.com/markets/stocks/articles/intel-buy-14-1-drop-142800396.html",
-"pub": "2026-11-24T14:28:00+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-24T15:44:24+00:00"
+"id": "67d2ce40fa29",
+"t": "",
+"title": "Latest Oil Market News and Analysis for Nov. 25",
+"url": "https://www.bloomberg.com/news/articles/2026-11-24/latest-oil-market-news-and-analysis-for-nov-25",
+"pub": "2026-11-24T23:06:29+00:00",
+"src": "Bloomberg",
+"kind": "market",
+"seen": "2026-11-24T23:32:07+00:00"
 },
 {
 "id": "05feeeb9077a",
@@ -10998,26 +11018,6 @@
 "src": "WSJ",
 "kind": "market",
 "seen": "2026-11-24T11:41:09+00:00"
-},
-{
-"id": "1ee0975f3950",
-"t": "",
-"title": "ECB’s Simkus Backs Raising Minimum Reserve Levels for Banks",
-"url": "https://www.bloomberg.com/news/articles/2026-11-24/ecb-s-simkus-backs-raising-minimum-reserve-levels-for-banks",
-"pub": "2026-11-24T11:24:32+00:00",
-"src": "Bloomberg",
-"kind": "market",
-"seen": "2026-11-24T11:41:09+00:00"
-},
-{
-"id": "cc417c23c026",
-"t": "",
-"title": "Siemens AG (SIEGn.DE) | Stock Price & Latest News - Reuters",
-"url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9yUlkxRGNmTDB2VnozenkwbTBtMVZsWUdXcVcxb0p5cjkyN21rcVZDemdjclFjR2xSVHZ3MUo4dzFRWGFwWXlZNzhmOHpYSkdjZ0JuckVaV0RHb2hpRDZ6cQ?oc=5",
-"pub": "2026-11-24T11:20:40+00:00",
-"src": "Reuters",
-"kind": "market",
-"seen": "2026-11-24T13:20:10+00:00"
 }
 ]
 }
