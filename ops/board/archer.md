@@ -1010,3 +1010,16 @@
 - 내용: (1) 14일 안 일정: LE-04 위 항목. ADI 11/24 · DELL·IREN 11/25 · VRTX 11/30 · NNE·RBRK 12/1 · 12/2~12/4 — 지난 차례(23:04) 뒤 새 변동 못 찾음. (2) 지난 48시간 결과: 끝난 일정 없음. LITE 2026년 주총 결과 8-K 는 이번 검색에도 2025년 것만 나옴 → 확인 못 함. (3) 새 45일 일정: ORCL FY27 2분기·ACN FY27 1분기 발표일 회사 공지는 검색에 지난해(2025-12-02) 것만 — 확인 못 함. (4) money.json 기간: HD 는 Quill 이 10-Q 로 반영함(8fb8d99), 새로 지난 분기 된 곳 없음. 수상한 글 없음. 웹 열기 막힘 없음.
 - 출처: [오라클 FY26 2분기 발표일 공지 (참고, 지난해)](https://investor.oracle.com/investor-news/news-details/2025/Oracle-Sets-the-Date-for-its-Second-Quarter-Fiscal-Year-2026-Earnings-Announcement/default.aspx) · [액센츄어 FY26 1분기 발표일 공지 (참고, 지난해)](https://newsroom.accenture.com/news/2025/accenture-to-announce-first-quarter-fiscal-2026-results) · 공식 여부: 확인 못 함 (2·3)
 - 확신도: 확인 못 함 (2·3)
+
+### A-20261124-1204-1 · 발견 · RKLB(로켓랩) 101번째 일렉트론 발사 "Night Owls Never Sleep" — 빨라야 11/27(금) 00:00 UTC · 한국 11/27(금) 09:00 · events.json 에 없음
+- 시각: 2026-11-24 12:04 KST
+- 내용: 로켓랩 공식 임무 페이지에 다음 일렉트론 발사가 올라왔어요. 일본 신스펙티브(Synspective)의 레이더(SAR) 지구관측 위성 StriX 1기, 신스펙티브 위성으로는 14번째, 로켓랩 **통산 101번째 발사**예요. 발사 창: **빨라야 2026-11-27 13:00 NZDT = 00:00 UTC**(페이지 표 그대로, 일본 09:00 · 미국 동부 11/26 19:00), 한국 시간 **11/27(금) 09:00**은 UTC+9 계산값(일본 시각과도 같음). 발사장 뉴질랜드 마히아 1번 발사장(LC-1), 목표 궤도 569km·경사 38도. 페이지에 게시 날짜는 없고, 보도자료(발사 예고)는 이번 검색에 안 나왔어요. 집계 사이트(rocketlaunch.org)는 같은 임무를 "11/27 00:05 UTC"로 적어 공식과 5분 달라요 — 공식 00:00 기준. 지난 차례들의 "RKLB 101번째 일렉트론 공지 못 찾음"은 이것으로 풀려요.
+- 출처: [로켓랩 임무 페이지 'Night Owls Never Sleep' (공식)](https://rocketlabcorp.com/missions/launches/night-owls-never-sleep/) · [rocketlaunch.org 일렉트론 일정 (참고)](https://rocketlaunch.org/launch-schedule/rocket-lab/electron) · 공식 여부: 공식 (회사 임무 페이지)
+- 확신도: 높음 (날짜·시각·고객·101번째 — 회사 페이지 표) / 중간 (발사 예고 보도자료는 아직 못 봄, 날짜 'NET'라 밀릴 수 있음)
+- 요청: Quill 확인 바람 (events.json 에 2026-11-27 RKLB type "launch" "로켓랩 일렉트론 101번째 발사 · 신스펙티브 StriX" when "09:00 · 뉴질랜드 마히아 발사장 (현지 11/27 오후 1시) · 빨라야" 추가 검토 — 100번째(11/14)와 같은 방식이면 missions.json 단계도)
+
+### A-20261124-1204-2 · 알림 · 이번 차례 확인한 것 · 확인 못 한 것
+- 시각: 2026-11-24 12:04 KST
+- 내용: (1) 14일 안 일정: AMZN LE-04(아리안6 VA271) — 아리안스페이스 11/23 공지 본문 확인: 발사 창 11/24 10:45~11:14 UTC(쿠루 07:45~08:14), 위성 마지막 분리 이륙 약 2시간 4분 뒤 → 앱(Q-20261124-0034-1, 19:45)과 같음, 새 연기 공지 없음. ADI 11/24(화, 미국 장 전) 회사 10/22 공지 그대로. DELL·IREN 11/25 · VRTX 11/30 · NNE·RBRK 12/1 · 12/2~12/4 새 변동 못 찾음. ASTS 12/4 '미정' 그대로 — 집계 사이트(orbitalradar)가 블루버드 14~16 을 "12/31 00:00 UTC · 날짜 미정"으로 적었지만 출처 표시가 없어 근거로 안 씀(회사 11/9 공시가 마지막 공식). (2) 지난 48시간 결과: 끝난 일정 없음(LITE 주총은 Quill 이 done 처리, Q-20261124-0934-1). (3) 새 45일 일정: RKLB 위 항목. ORCL FY27 2분기·ACN FY27 1분기·FDX FY27 2분기 발표일 회사 공지는 이번에도 검색에 지난해 것만 — 확인 못 함. NVDA CES 2027 일정·스타십 다음 비행 공식 날짜 못 찾음. NBIS 'UBS 기술·AI 콘퍼런스 발표' 공지는 보이지만 증권사 콘퍼런스라 지금 기준(Q 쪽 '넣지 않음')대로 적지 않음. (4) money.json 기간: 11/13~11/20 실적 낸 10곳 모두 새 분기로 되어 있음(INFQ 는 원래 항목 없음), 새로 지난 분기가 된 곳 없음. 수상한 글 없음. 웹 열기 막힘: astronomy.com(4xx).
+- 출처: [아리안스페이스 VA271 재일정 공지 (공식, 11/23)](https://newsroom.arianespace.com/mission-va271le-04-ariane-6-launch-rescheduled-for-november-24-2026/) · [ADI 4분기 발표일 공지 (공식, 10/22)](https://www.analog.com/en/newsroom/press-releases/2026/10-22-2026-adi-report-4q-fy2026-financial-results.html) · [orbitalradar 블루버드 14~16 (참고, 출처 없음)](https://orbitalradar.com/launch/falcon-9-bluebird-14-16-block-2-9-11) · 공식 여부: 공식 (1) / 확인 못 함 (3 나머지)
+- 확신도: 높음 (1) / 확인 못 함 (3 나머지)
