@@ -3840,3 +3840,17 @@ Scout(소식 감지 프로그램)가 모은 기사·공시를 공식 출처로 �
 - 출처: ops/scout/newsq.json · 공식 여부: 저장소
 - 확신도: 높음
 - 앱 다시 게시: 성공 — 버전 306.
+
+### W-20261125-0013-1 · 반영 · RDW NASA 달 기지 전력 시연 계약 약 4,000만 달러 (공식) · 어센드아크 태양전지판 날개 약 1,500만 달러 (보도)
+- 시각: 2026-11-25 00:2x KST
+- 내용: news.RDW(처음 생김)에 두 줄을 넣었어요. ① 11-10 20:00 KST "NASA 달 기지 사업의 전력 시연 계약(약 4,000만 달러)" — 레드와이어 보도자료(Business Wire 본문, finviz 전재)로 확인, 롤아웃 태양전지판(ROSA) 기반 달 남극 전력 시연. ② 11-19 "정지궤도 통신위성 회사 어센드아크에 태양전지판 날개(ELSA) 약 1,500만 달러 계약" — Via Satellite·Stocktwits 보도(회사 발표를 인용, 보도자료 원문은 못 열어 '보도'). 오늘 Zacks 'ELSA 계약' 해설 글로 이번 달 계약들이 그동안 빠져 있던 걸 찾았어요. 같은 달 미 육군 스토커 드론 후속 주문(11-11, 본문에 금액 없음)은 작은 건이라 건너뜀.
+- 출처: [레드와이어 보도자료(finviz)](https://finviz.com/news/419879/redwire-selected-for-40-million-contract-to-demonstrate-power-generation-for-nasa-moon-base-program-leveraging-its-innovative-roll-out-solar-array-technology) · [ASD News](https://asdnews.com/news/defense/2026/11/10/redwire-selected-40m-contract-demo-power-generation-nasa-moon-base-program-leveraging-its-innovative-roll-out-solar-array-technology) · [Via Satellite](https://www.satellitetoday.com/technology/2026/11/19/redwire-elsa-wings-to-power-ascendarc-geo-sat/) · 공식 여부: ① 공식 ② 보도
+- 확신도: 높음(①) · 중간(②)
+- 요청: 다음 차례 — 어센드아크 계약 레드와이어 보도자료 원문(ir.rdw.com·businesswire)을 찾으면 ②를 '공식'으로 바꿔 주세요.
+
+### W-20261125-0013-2 · 알림 · 이번 차례
+- 시각: 2026-11-25 00:2x KST
+- 내용: Scout를 직접 돌린 뒤(성공, 00:15 KST 갱신) 새 항목 83건(news 64·market 19) 모두 처리. 반영 2건(위 RDW). 건너뜀: 'AAOI 22억 달러 공급 계약'(11-24 AAOI 공식 줄과 같은 사건), '테슬라·스페이스X 합병 팀 구성'(11-24 TSLA·SPCX 줄과 같은 사건), 'META 뮤즈 영국'(23:43 반영), '사노피 인스메드 인수' 3건(INSM 줄과 같은 사건), '테슬라 유럽 판매 84% 증가'(월별 판매 집계 — 같은 달 '감소' 기사도 섞여 나와 연도·달 확인 못 함, 중요 사건 범위 밖), BNP 마이크론 투자의견 하향·애크먼·윌리엄스 발언·앤트로픽 주가·엔비디아 주가 해설(의견·주가 글), PT 프리포트 인도네시아 채권 7.5억 달러(자금 조달, 작은 일), 나비타스 CTO 특허 발언(르네사스 소송은 7월 일), 퀄리 제품 출시·시장 보고서 광고 글들·배당·종목 비교·'살 만한 종목' 글. market 19건(미 소비자신뢰 103.3·리치먼드 연은·ECB 슬라이펜·믹스 의원 황 공개 증언 요구·OPEC+·베네수엘라 부채·EDF 단조 공장 등 — 00시대라 done 만).
+- 나에게 온 새 요청(RULES 0-3): 24시간 안 새 요청 없음. 미국 지표: 미국 동부 11-24 10:1x(화) — 오늘 6개 지표 발표 없음(다음 pce·claims 11-25), 매크로 수집 안 돌림, 분석 모두 최신. A 지도: 고칠 것 없음(NASA·어센드아크는 지도 회사 아님). done 은 대기 목록에 없는 오래된 id 부터 잘라 3000개 유지(저장 뒤 JSON 다시 읽어 확인).
+- 출처: ops/scout/newsq.json · 공식 여부: 저장소
+- 확신도: 높음
