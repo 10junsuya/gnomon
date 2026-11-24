@@ -3504,3 +3504,21 @@ Scout(소식 감지 프로그램)가 모은 기사·공시를 공식 출처로 �
 - 나에게 온 새 요청(RULES 0-3): 24시간 안 새 요청 없음. 미국 지표: 미국 동부 11-23 21:1x(월) — 오늘 6개 지표 발표 없음(다음 pce·claims 11-25), 매크로 수집 안 돌림, 분석 모두 최신. A 지도: 고칠 것 없음. 앱 다시 게시: 반영이 없어 안 함. done 은 대기 목록에 없는 오래된 id 부터 잘라 3000개 유지(저장 뒤 JSON 다시 읽어 확인).
 - 출처: ops/scout/newsq.json · [Arm 6-K (SEC)](https://www.sec.gov/Archives/edgar/data/0001973239/000197323926000155/arm-20261123.htm) · [Newsquawk 오를렌 제목](https://www.newsquawk.com/headlines/orlen-pkn-pw-signs-separate-agreements-with-aws-amzn-microsoft-msft-and-ibm-ibm) · 공식 여부: 저장소 / 공식
 - 확신도: 높음
+
+### W-20261124-1143-1 · 반영 · RKLB 3분기 뉴트론 발사 8건 5.15억 달러 넘게 계약 (공식)
+- 시각: 2026-11-24 11:5x KST
+- 내용: news.RKLB 에 "3분기에 5개 고객과 뉴트론 발사 8건, 5.15억 달러 넘게 계약했다고 밝혔어요"(11-10, 공식)를 날짜 순서대로(11-14 일렉트론 100번째 발사 다음) 넣었어요. 로켓랩 보도자료(미 동부 11-09 오후, GlobeNewswire) — ICEYE 3건(2028년 말부터)·뮤온 스페이스 2건·스타클라우드 1건·케플러 1건·미 우주군 SB-AMTI 1건, 일부 기본 가격 7,000만 달러(전 5,500만), 뉴트론 대기 16건, 첫 발사 2027년 이후. 2주 전 발표가 그동안 빠져 있었고, 오늘 야후 '9.2% 상승' 글로 다시 찾았어요. 발표 시각의 시간대가 안 적혀 tm 은 비웠어요. A 지도: 고객 5곳이 우주 지도 co 에 없어 고치지 않음.
+- 출처: [로켓랩 보도자료](https://investors.rocketlabcorp.com/news-releases/news-release-details/rocket-lab-lands-over-515m-neutron-launch-deals-constellation) · [New Space Economy](https://newspaceeconomy.ca/2026/11/10/rocket-lab-neutron-orders-515-million-launch-business/) · 공식 여부: 공식
+- 확신도: 높음
+
+### W-20261124-1143-2 · 알림 · 이번 차례
+- 시각: 2026-11-24 11:5x KST
+- 내용: Scout를 직접 돌린 뒤(성공, 예약 실행도 11:44 성공) 새 항목 14건(news 11·market 3) 모두 처리. 반영 1건(위). 건너뜀: TheStreet '엔비디아 1,300억 달러 전망, 백악관 시험'(검색에 새 사건 안 나옴 — 12/3 청문회 보도는 02:03 줄에 있음), 황 복귀 뒤 아시아 칩주·선물·금·비트코인·AI 인프라주·트럼프 발언 글(11-23 22:55 NVDA 공식 줄과 같은 사건), 'TSLA·SPCX 랠리, 엔비디아가 스페이스X에 칩 더'(증권사 의견), 팔머 러키 인터뷰·머스크 'AI 회사 2027 현금 위기' 발언(의견). market 3건(로이터 시세 페이지 — 11시대라 done 만).
+- 나에게 온 새 요청(RULES 0-3): 24시간 안 새 요청 없음. 미국 지표: 미국 동부 11-23 21:4x(월) — 오늘 6개 지표 발표 없음(다음 pce·claims 11-25), 매크로 수집 안 돌림, 분석 모두 최신. 앱 다시 게시: 이번 세션 Artifact 도구에 get_artifact/publish_files 가 없어 못 했어요. done 은 대기 목록에 없는 오래된 id 부터 잘라 3000개 유지(저장 뒤 JSON 다시 읽어 확인).
+- 출처: ops/scout/newsq.json · 공식 여부: 저장소
+- 확신도: 높음
+
+### W-20261124-1143-3 · 교훈 · 실적 날 함께 나온 회사 보도자료는 따로 봐요
+- 시각: 2026-11-24 11:5x KST
+- 내용: 로켓랩 뉴트론 5.15억 달러 계약(11-09 보도자료)이 실적과 같은 시기에 나와 2주 동안 news.RKLB 에 빠져 있었어요. 실적 숫자는 Tally 몫이지만, 같은 날 따로 나온 계약·수주 보도자료는 Wren 몫이라 건너뛰지 않아요.
+- 확신도: 중간
