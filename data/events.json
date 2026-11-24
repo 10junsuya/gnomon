@@ -2663,7 +2663,7 @@
     "t": "AMZN",
     "type": "launch",
     "title": "아마존 레오 위성 36기 · 아리안6 발사 (LE-04)",
-    "when": "19:45 · 발사 창 19:45~20:14 · 프랑스령 기아나 쿠루 우주센터 (현지 11/24 오전 7:45) · 11/23 지상 설비 문제로 멈춘 뒤 다시 잡은 날짜(아리안스페이스 공지)",
+    "when": "20:14 이륙 · 발사 창 19:45~20:14 · 프랑스령 기아나 쿠루 우주센터 (현지 11/24 오전 8:14) · 11/23 지상 설비 문제로 멈춘 뒤 다시 잡은 날짜(아리안스페이스 공지)",
     "what": "아마존 위성 인터넷 '아마존 레오'의 위성 36기를 유럽 아리안스페이스의 아리안6(보조 로켓 4개짜리 아리안 64)에 실어 보내는 발사예요. 아리안6의 10번째 비행이고, 아마존 레오 위성을 싣는 4번째 아리안6 비행이에요.",
     "watch": [
       "발사 창(19:45~20:14) 안에 발사되는지 — 11/23 발사는 지상 설비 문제로 멈췄고, 점검을 마친 뒤 11/24로 다시 잡았어요",
@@ -2683,7 +2683,115 @@
         "아리안스페이스 — VA271 발사 창 안내 (공식, 11/18)",
         "https://www.arianespace.com/news/mission-va271-launch-window-on-november-23-2026/"
       ]
-    ]
+    ],
+    "done": true,
+    "card": {
+      "real": true,
+      "asof": "2026-11-24",
+      "sum": "아리안6가 한국 시각 11/24 20:14(현지 오전 8:14)에 이륙해 아마존 레오 위성 36기를 고도 약 460km 저궤도에 올렸어요. 아리안그룹은 임무가 정상대로 진행됐고, 이륙 2시간 4분 뒤 마지막 위성이 분리됐다고 밝혔어요.",
+      "tiles": [
+        [
+          "발사체",
+          "아리안 64",
+          "아리안6 10번째 비행 · 올해 5번째"
+        ],
+        [
+          "실은 것",
+          "레오 위성 36기",
+          "임무 이름 LE-04 · 고도 약 460km"
+        ],
+        [
+          "결과",
+          "성공",
+          "이륙 2시간 4분 뒤 마지막 위성 분리"
+        ],
+        [
+          "아리안스페이스가 올린 레오 위성",
+          "136기",
+          "올해 레오 임무 4번 (아리안그룹)"
+        ]
+      ],
+      "check": [
+        [
+          "벌컨 실패 뒤",
+          "11/16 벌컨 발사로 위성 40기를 잃은 뒤 첫 레오 발사였고, 이번에는 위성 36기를 계획한 궤도에 올렸어요(아리안그룹 발표)."
+        ],
+        [
+          "다음 단계",
+          "위성은 점검을 마친 뒤 운용 고도(약 630km)로 스스로 올라가 서비스에 쓰인다고 보도됐어요(securities.io)."
+        ],
+        [
+          "다음 볼 것",
+          "벌컨이 언제 다시 날지와, 아마존이 밝힌 연내 첫 서비스 일정이 지켜지는지예요."
+        ]
+      ],
+      "detail": [
+        "아마존 레오는 저궤도 위성 수천 기로 집과 기업에 인터넷을 주려는 사업이에요. 아마존은 9월에 아리안6 발사 6번을 더 사서 아리안스페이스와의 계약을 모두 24번으로 늘렸어요.",
+        "아리안그룹은 다음 과제로 내년 발사를 위해 로켓 생산 속도를 안정시키는 일을 꼽았어요."
+      ],
+      "src": [
+        [
+          "아리안그룹 — VA271 성공, 레오 위성 36기 궤도 투입 (공식, 11/24)",
+          "https://ariane.group/actualite/arianespace-lance-avec-succes-36-satellites-amazon-leo-supplementaires-a-loccasion-du-10eme-vol-dariane-6"
+        ],
+        [
+          "아마존 — 아리안스페이스 발사 6번 추가, 모두 24번 (공식, 9/10)",
+          "https://www.aboutamazon.com/news/amazon-leo/amazon-leo-arianespace-new-launches"
+        ],
+        [
+          "securities.io — VA271 이륙 보도 (보도, 11/24)",
+          "https://www.securities.io/va271-lifts-off-in-french-guiana-with-36-amazon-leo-satellites/"
+        ]
+      ],
+      "views": {
+        "asof": "2026-11-24",
+        "lead": "벌컨 실패 뒤 첫 레오 발사가 성공해, 눈은 위성 점검과 서비스 시작 시기로 옮겨 갔어요.",
+        "points": [
+          [
+            "결과",
+            "아리안6가 레오 위성 36기를 저궤도에 올렸어요 (아리안그룹 발표)"
+          ],
+          [
+            "왜 중요",
+            "벌컨이 쉬는 동안 아리안6가 레오 위성을 올릴 수 있는 발사 수단임을 다시 보여 줬어요"
+          ],
+          [
+            "다음 볼 것",
+            "이륙보다 위성 점검·궤도 상승이 더 중요하다는 보도가 나왔어요 (securities.io)"
+          ]
+        ],
+        "items": [
+          {
+            "t": "아리안6 10번째 비행이 정상대로 끝나 레오 위성 36기를 약 460km 궤도에 올렸다고 발표",
+            "src": "아리안그룹",
+            "url": "https://ariane.group/actualite/arianespace-lance-avec-succes-36-satellites-amazon-leo-supplementaires-a-loccasion-du-10eme-vol-dariane-6",
+            "d": "2026-11-24",
+            "tag": "공식"
+          },
+          {
+            "t": "이륙보다 위성 분리와 점검을 거친 궤도 상승이 레오 배치에 더 중요하다고 짚음",
+            "src": "securities.io",
+            "url": "https://www.securities.io/va271-lifts-off-in-french-guiana-with-36-amazon-leo-satellites/",
+            "d": "2026-11-24",
+            "tag": "보도"
+          },
+          {
+            "t": "아리안6가 레오 위성 36기를 싣고 이륙했다고 전함 — 분리 확인 전 기사",
+            "src": "Space.com",
+            "url": "https://www.space.com/space-exploration/launches-spacecraft/arianespace-ariane-6-amazon-leo-internet-satellite-launch",
+            "d": "2026-11-24",
+            "tag": "보도"
+          },
+          {
+            "t": "아마존이 아리안6 발사 6번을 더 계약해 아리안스페이스 발사가 모두 24번이 됐다고 발표",
+            "src": "아마존",
+            "url": "https://www.aboutamazon.com/news/amazon-leo/amazon-leo-arianespace-new-launches",
+            "d": "2026-09-10",
+            "tag": "공식"
+          }
+        ]
+      }
+    }
   },
   {
     "d": "2026-11-24",
