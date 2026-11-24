@@ -644,58 +644,62 @@
   }
  },
  "CRWD": {
-  "p": "2분기 · 2026년 5~7월",
-  "tag": "+26%",
+  "p": "3분기 · 2026년 8~10월",
+  "tag": "+28%",
   "rows": [
    [
-    "2분기 매출",
-    "14.7억 달러 (+26%)"
+    "3분기 매출",
+    "15.83억 달러 (+28%)"
+   ],
+   [
+    "ARR",
+    "62.6억 달러 (+27%) · 새로 4.19억"
    ],
    [
     "잉여현금흐름",
-    "3.77억 달러"
+    "4.74억 달러"
    ],
    [
-    "올해 ARR 목표",
-    "66.03억~66.12억 달러"
+    "4분기 매출 전망",
+    "16.38억~16.44억 달러"
    ]
   ],
-  "note": "",
+  "note": "새로 늘어난 ARR이 4.19억 달러로 분기 최대였고, 올해 매출 전망을 60.78억~60.84억 달러로 올렸어요. 같은 날 지스케일러 인수(주식 교환, 약 439억 달러)를 발표하며 실적도 12/1에서 앞당겨 냈어요. 발표 전 매출 예상은 15.28억(Benzinga)~15.3억 달러(S&P 집계)였어요.",
   "src": [
    [
-    "크라우드스트라이크 IR",
-    "https://ir.crowdstrike.com"
+    "크라우드스트라이크 3분기 실적 발표 (SEC 8-K)",
+    "https://www.sec.gov/Archives/edgar/data/1535527/000153552726000035/crwd-20261123xex991.htm"
    ],
    [
-    "크라우드스트라이크 2분기(Earnings Whispers)",
-    "https://www.earningswhispers.com/epsdetails/CRWD"
+    "예상치·다음 분기 예상 (Benzinga, Longbridge 전재)",
+    "https://longbridge.com/en/news/306526325"
    ],
    [
-    "다음 분기 예상(INDmoney·FactSet)",
-    "https://www.indmoney.com/blog/us-stocks/crowdstrike-stock-q2-earnings-analysis-why-crwd-jumped"
+    "예상치 (StockStory, S&P 집계)",
+    "https://stockstory.org/us/stocks/nasdaq/crwd/news/earnings-call/crowdstrike-q3-cy2026-deep-dive-ai-driven-momentum-and-zscaler-acquisition-reshape-cybersecurity-outlook"
    ]
   ],
   "chart": {
    "cur": "usd",
+   "now": [
+    "8~10월",
+    1583
+   ],
+   "est": 1528,
+   "next": {
+    "label": "11~1월",
+    "guide": [
+     1638,
+     1644
+    ],
+    "cons": 1622,
+    "when": "2027년 3월 초 (예상 · 회사 발표일 공지 전)",
+    "asof": "11/23"
+   },
    "prev": [
     "1년 전",
-    1169
-   ],
-   "now": [
-    "5~7월",
-    1471
-   ],
-   "est": 1440,
-   "next": {
-    "label": "8~10월",
-    "guide": [
-     1523,
-     1529
-    ],
-    "cons": 1515,
-    "asof": "8/26",
-    "when": "2026년 12월 1일 (미국 장 마감 후)"
-   }
+    1234
+   ]
   }
  },
  "CRS": {
@@ -1653,70 +1657,55 @@
   }
  },
  "ZS": {
-  "p": "4분기 · 2026년 5~7월",
-  "tag": "+25%",
+  "p": "1분기 · 2026년 8~10월",
+  "tag": "+20%",
   "rows": [
    [
-    "4분기 매출",
-    "8.982억 달러 (+25%)"
+    "1분기 매출",
+    "9.49억 달러 (+20%)"
    ],
    [
     "ARR",
-    "37.71억 달러 (+25%)"
+    "38.82억 달러 (+21%)"
    ],
    [
-    "100만 달러 넘는 고객",
-    "785곳"
+    "잉여현금흐름",
+    "4.16억 달러"
    ],
    [
-    "내년 ARR 목표",
-    "43.96억~44.26억 달러 (+17%)"
+    "전망",
+    "거둬들임 (인수 합의)"
    ]
   ],
-  "note": "내년 성장 목표가 낮아졌고, 인력 3%를 줄였어요.",
+  "note": "매출이 회사 1분기 전망(9.35억~9.39억 달러)보다 높았어요. 크라우드스트라이크에 인수되기로 해 앞으로의 전망을 거둬들이고 실적 콜도 열지 않았어요. 발표 전 애널리스트 매출 예상은 숫자를 확인하지 못해 뺐어요.",
   "src": [
    [
-    "지스케일러 4분기 실적",
-    "https://technologymagazine.com/globenewswire/3356252"
+    "지스케일러 1분기 실적 발표 (SEC 8-K)",
+    "https://www.sec.gov/Archives/edgar/data/0001713683/000119312526470942/d255961dex991.htm"
    ],
    [
-    "4분기 콜(Nasdaq)",
-    "https://www.nasdaq.com/articles/zscaler-q4-earnings-call-highlights"
-   ],
-   [
-    "지스케일러 4분기(Earnings Whispers)",
-    "https://earningswhispers.com/epsdetails/ZS/202607"
-   ],
-   [
-    "전망 대 예상(Benzinga)",
-    "https://www.itiger.com/news/2664373063"
-   ],
-   [
-    "발표 일정 공지(지스케일러 IR)",
-    "https://ir.zscaler.com/news-releases/news-release-details/zscaler-host-first-quarter-fiscal-year-2027-earnings-conference"
+    "인수 발표 (SEC 8-K)",
+    "https://www.sec.gov/Archives/edgar/data/0001713683/000119312526471211/d115803dex991.htm"
    ]
   ],
   "chart": {
    "cur": "usd",
+   "now": [
+    "8~10월",
+    949
+   ],
+   "est": null,
+   "next": {
+    "label": "11~1월",
+    "guide": null,
+    "cons": null,
+    "when": "미정 (인수 진행 중 · 회사 발표일 공지 전)",
+    "gtext": "크라우드스트라이크 인수 합의로 회사가 기존 전망을 거둬들였어요"
+   },
    "prev": [
     "1년 전",
-    719
-   ],
-   "now": [
-    "5~7월",
-    898
-   ],
-   "est": 877,
-   "next": {
-    "label": "8~10월",
-    "guide": [
-     935,
-     939
-    ],
-    "cons": 927,
-    "asof": "9/3",
-    "when": "2026년 12월 2일 (미국 장 마감 후)"
-   }
+    788
+   ]
   }
  },
  "SAIL": {
