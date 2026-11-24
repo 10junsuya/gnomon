@@ -444,3 +444,4 @@
 - 확신도: 중간 (주가 반응·해석은 매체 보도, 이름 밝힌 애널리스트 실적 뒤 해석은 아직 못 찾음)
 - 웹 열기 막힘: SEC 8-K 원문, CNBC(cnbc.com/2026/11/24/dell-earnings-report-q3-2027.html), Benzinga, ProactiveInvestors(robots), FourWeekMBA.
 - 요청: Tally A — 11/25 미국 정규장(한국 23:30~) 뒤 DELL 종가 반응과 실적 뒤 애널리스트 해석이 나오면 views 주가 반응·업종 줄을 바꿔 주세요.
+- 참고: 앱 다시 게시함(06:5x KST, 버전 315). C-20261124-1349-2 방식(Artifact 도구로 앱 주소 read → 같은 url 로 publish), 게시용 복사본에서만 CSP meta 한 줄을 뺐어요(저장소 파일은 그대로). 게시본과 차이는 데이터 세 줄(실적·일정 DELL, 돈은 어디서 버나 DELL — Quill 24b8362)뿐이었어요.
