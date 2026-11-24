@@ -1,6 +1,6 @@
 {
-"updated_kst": "2026-11-25 02:14",
-"rot": 116,
+"updated_kst": "2026-11-25 02:29",
+"rot": 176,
 "how": "Scout(프로그램)이 10분마다 모은 기사 제목·링크와 공시예요. Wren이 공식 출처로 확인한 뒤 회사 화면에 한국어로 반영해요. 본문은 받지 않아요.",
 "sources": {
 "Yahoo Finance": "120종목 확인 · 실패 0",
@@ -10,12 +10,32 @@
 "CNBC": "63건",
 "Bloomberg": "40건",
 "WSJ": "61건",
-"Reuters": "51건",
+"Reuters": "100건",
 "FinancialJuice": "100건",
 "SEC EDGAR": "실패 HTTPError",
 "Fox Business": "50건"
 },
 "items": [
+{
+"id": "c7ad299381c7",
+"t": "INSM",
+"title": "Sanofi Bets $41 Billion on Insmed to Fuel Growth Beyond Dupixent",
+"url": "https://www.marketbeat.com/instant-alerts/event-sanofi-bets-41-billion-on-insmed-to-fuel-growth-beyond-dupixent-2026-11-24/",
+"pub": "2026-11-24T17:16:06+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-24T17:29:04+00:00"
+},
+{
+"id": "107aaef6b96d",
+"t": "NVDA",
+"title": "Here’s How Many Shares of Realty Income You’d Need for $100 in Monthly Dividends",
+"url": "https://www.fool.com/investing/2026/11/24/heres-how-shares-realty-income-youd-need-100-monthly-dividends/",
+"pub": "2026-11-24T17:13:02+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-24T17:29:04+00:00"
+},
 {
 "id": "a87d88309d75",
 "t": "NVDA",
@@ -77,6 +97,26 @@
 "seen": "2026-11-24T17:14:02+00:00"
 },
 {
+"id": "6879b814ff91",
+"t": "INSM",
+"title": "Disc Medicine (IRON) Stock Is Up 8.5% Today Without Company News",
+"url": "https://finance.yahoo.com/markets/stocks/articles/disc-medicine-iron-stock-8-170057302.html",
+"pub": "2026-11-24T17:00:57+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-24T17:29:04+00:00"
+},
+{
+"id": "8323ef6657d9",
+"t": "INSM",
+"title": "Arvinas (ARVN) Stock Is Up 9.7% Today Without Company News",
+"url": "https://finance.yahoo.com/markets/stocks/articles/arvinas-arvn-stock-9-7-170053113.html",
+"pub": "2026-11-24T17:00:53+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-24T17:29:04+00:00"
+},
+{
 "id": "e8f3c241b4cd",
 "t": "PWR",
 "title": "Why Argan (AGX) Stock Is Down 10.1% Today: JP Morgan Cut Its Target",
@@ -87,6 +127,16 @@
 "seen": "2026-11-24T17:14:02+00:00"
 },
 {
+"id": "90fc120ca811",
+"t": "NVDA",
+"title": "Nvidia Stock Soars as Jensen Huang Returns — Should You Buy or Wait?",
+"url": "https://moneylion.com/trending/money/nvidia-stock-soars-jensen-huang-returns-buy-wait",
+"pub": "2026-11-24T17:00:40+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-24T17:29:04+00:00"
+},
+{
 "id": "302895dba305",
 "t": "NVDA",
 "title": "Sumitomo Electric Stocks Rise 5.99% After Raising Its Full-Year Profit Forecast",
@@ -95,6 +145,26 @@
 "src": "Yahoo Finance",
 "kind": "news",
 "seen": "2026-11-24T17:14:02+00:00"
+},
+{
+"id": "206b274eb816",
+"t": "RPRX",
+"title": "Celcuity (CELC) Stock Is Up 11.0% Today Without Company News",
+"url": "https://finance.yahoo.com/markets/stocks/articles/celcuity-celc-stock-11-0-170031597.html",
+"pub": "2026-11-24T17:00:31+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-24T17:29:04+00:00"
+},
+{
+"id": "9eb4af20b47a",
+"t": "INSM",
+"title": "Mirum Pharmaceuticals (MIRM) Stock Is Up 7.4% Today Without Company News",
+"url": "https://finance.yahoo.com/markets/stocks/articles/mirum-pharmaceuticals-mirm-stock-7-170030562.html",
+"pub": "2026-11-24T17:00:30+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-24T17:29:04+00:00"
 },
 {
 "id": "f44c81a2f10c",
@@ -347,6 +417,16 @@
 "seen": "2026-11-24T17:14:02+00:00"
 },
 {
+"id": "4f02fb7b36eb",
+"t": "CME",
+"title": "CME Group Announces Strong European Dairy Volumes on First Day of Trading",
+"url": "https://finance.yahoo.com/markets/commodities/articles/cme-group-announces-strong-european-164700384.html",
+"pub": "2026-11-24T16:47:00+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-24T17:29:04+00:00"
+},
+{
 "id": "39fab2b07a7e",
 "t": "MU",
 "title": "Down On TSMC Stock? Your Buy Price Decides It",
@@ -405,6 +485,16 @@
 "src": "Yahoo Finance",
 "kind": "news",
 "seen": "2026-11-24T17:14:02+00:00"
+},
+{
+"id": "13e520cc928e",
+"t": "CRCL",
+"title": "DOJ files action to recover $1B in crypto stolen in Binance hack",
+"url": "https://finance.yahoo.com/video/doj-files-action-to-recover-1b-in-crypto-stolen-in-binance-hack-164124021.html",
+"pub": "2026-11-24T16:41:24+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-24T17:29:04+00:00"
 },
 {
 "id": "564d9d1ce647",
@@ -467,6 +557,16 @@
 "seen": "2026-11-24T16:44:26+00:00"
 },
 {
+"id": "564427386caf",
+"t": "CRM",
+"title": "Bending Spoons (BSP) Stock Is Down 12.2% Today Without Company News",
+"url": "https://finance.yahoo.com/markets/stocks/articles/bending-spoons-bsp-stock-down-163104340.html",
+"pub": "2026-11-24T16:31:04+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-24T17:29:04+00:00"
+},
+{
 "id": "b72b8159f171",
 "t": "GLW",
 "title": "Littelfuse (LFUS) Stock Is Down 7.9% Today Amid Tech Selloff",
@@ -507,6 +607,16 @@
 "seen": "2026-11-24T16:44:26+00:00"
 },
 {
+"id": "d8b63daf1bfe",
+"t": "CME",
+"title": "What Just Happened To Coinbase Stock?",
+"url": "https://www.trefis.com/stock/coin/articles/628640/what-just-happened-to-coinbase-stock/2026-11-24",
+"pub": "2026-11-24T16:30:49+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-24T17:29:04+00:00"
+},
+{
 "id": "71f75d0eb692",
 "t": "REGN",
 "title": "Prelude Therapeutics (PRLD) Stock Is Up 18.3% Today Without Company News",
@@ -515,6 +625,16 @@
 "src": "Yahoo Finance",
 "kind": "news",
 "seen": "2026-11-24T16:44:26+00:00"
+},
+{
+"id": "8fc93f50ec1d",
+"t": "NTAP",
+"title": "Why Is NetApp (NTAP) Stock Down Today? Tech Selloff Drags Storage Shares",
+"url": "https://finance.yahoo.com/markets/stocks/articles/why-netapp-ntap-stock-down-163046725.html",
+"pub": "2026-11-24T16:30:46+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-24T17:29:04+00:00"
 },
 {
 "id": "897b00f2be92",
@@ -597,6 +717,16 @@
 "seen": "2026-11-24T16:44:26+00:00"
 },
 {
+"id": "2eea7a5d493c",
+"t": "ILMN",
+"title": "Illumina (ILMN) Rallied in Q3 as Clinical Momentum Outperforms Competitive Risks",
+"url": "https://finance.yahoo.com/healthcare/articles/illumina-ilmn-rallied-q3-clinical-162630869.html",
+"pub": "2026-11-24T16:26:30+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-24T17:29:04+00:00"
+},
+{
 "id": "8948de08332a",
 "t": "GOOGL",
 "title": "The Fed Just Said AI May Be a Major Threat to the U.S. Economy",
@@ -625,6 +755,16 @@
 "src": "Yahoo Finance",
 "kind": "news",
 "seen": "2026-11-24T17:14:02+00:00"
+},
+{
+"id": "9d684c0ad7a6",
+"t": "AMGN",
+"title": "Novo vs. Amgen: Which Healthcare Stock Is the Better Buy Now?",
+"url": "https://finance.yahoo.com/healthcare/articles/novo-vs-amgen-healthcare-stock-162100037.html",
+"pub": "2026-11-24T16:21:00+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-24T17:29:04+00:00"
 },
 {
 "id": "4fe6b03feaf3",
@@ -677,6 +817,16 @@
 "seen": "2026-11-24T16:32:44+00:00"
 },
 {
+"id": "28ee9f673949",
+"t": "CRM",
+"title": "NOW's Subscription Growth: Will Strong Retention Sustain Momentum?",
+"url": "https://finance.yahoo.com/markets/stocks/articles/nows-subscription-growth-strong-retention-162000952.html",
+"pub": "2026-11-24T16:20:00+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-24T17:29:04+00:00"
+},
+{
 "id": "405f637eccfc",
 "t": "NVDA",
 "title": "Kohl's Stock Rocks on Tuesday. Here's Why.",
@@ -695,6 +845,16 @@
 "src": "Yahoo Finance",
 "kind": "news",
 "seen": "2026-11-24T16:32:44+00:00"
+},
+{
+"id": "bfc9589804f0",
+"t": "SHOP",
+"title": "Shopify's Global Expansion Gains Pace: Can It Fuel More Growth?",
+"url": "https://finance.yahoo.com/markets/stocks/articles/shopifys-global-expansion-gains-pace-161800441.html",
+"pub": "2026-11-24T16:18:00+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-24T17:29:04+00:00"
 },
 {
 "id": "e96dca45b0d1",
@@ -1135,6 +1295,16 @@
 "src": "Yahoo Finance",
 "kind": "news",
 "seen": "2026-11-24T16:15:36+00:00"
+},
+{
+"id": "f057d6795046",
+"t": "VST",
+"title": "Midterms provide clarity on data center development: Vistra CEO",
+"url": "https://www.utilitydive.com/news/vistra-midterms-data-center-ercot-pjm/875626/",
+"pub": "2026-11-24T15:54:55+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-24T17:29:04+00:00"
 },
 {
 "id": "8e19fb1aa7c0",
@@ -7851,174 +8021,154 @@
 "seen": "2026-11-24T08:44:13+00:00"
 },
 {
-"id": "8c0b49b164e6",
-"t": "COHR",
-"title": "Coherent Stock Is Jensen Huang Reinstatement Changing The AI Partner Story",
-"url": "https://finance.yahoo.com/markets/stocks/articles/coherent-stock-jensen-huang-reinstatement-080923486.html",
-"pub": "2026-11-24T08:09:23+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-24T08:31:05+00:00"
+"id": "4ca40d890f91",
+"t": "",
+"title": "BoC's Gov. Macklem: We will not rely exclusively on the two main core measures.",
+"url": "https://www.financialjuice.com/News/9866464/BoCs-Gov-Macklem-We-will-not-rely-exclusively-on-the-two-main-core-measures.aspx?xy=rss",
+"pub": "2026-11-24T17:28:52+00:00",
+"src": "FinancialJuice",
+"kind": "market",
+"seen": "2026-11-24T17:29:04+00:00"
 },
 {
-"id": "edba5c5bdc61",
-"t": "SPCX",
-"title": "Brad Gerstner Just Bought $680 Million of Tesla. His Range: “$420 a Share and Let’s Call It $520 or $550”",
-"url": "https://www.tikr.com/blog/brad-gerstner-just-bought-680-million-of-tesla-his-range-420-a-share-and-lets-call-it-520-or-550",
-"pub": "2026-11-24T08:08:27+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-24T10:42:16+00:00"
+"id": "c3a48d5e0916",
+"t": "",
+"title": "BoC's Gov. Macklem: Our 2% target applies to total CPI inflation. Core measures are an input into our outlook for total CPI, not a target.",
+"url": "https://www.financialjuice.com/News/9866463/BoCs-Gov-Macklem-Our-2-target-applies-to-total-CPI-inflation-Core-measures-are-an-input-into-our-outlook-for-total-CPI-not-a-target.aspx?xy=rss",
+"pub": "2026-11-24T17:28:41+00:00",
+"src": "FinancialJuice",
+"kind": "market",
+"seen": "2026-11-24T17:29:04+00:00"
 },
 {
-"id": "a99faa4317e2",
-"t": "CRWV",
-"title": "Leopold Aschenbrenner Sold His $745 Million CoreWeave Stake Last Quarter. It’s Down 45% Since Sept. 30",
-"url": "https://www.tikr.com/blog/leopold-aschenbrenner-sold-his-745-million-coreweave-stake-last-quarter-its-down-45-since-sept-30",
-"pub": "2026-11-24T08:07:28+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-24T10:14:11+00:00"
+"id": "a47a3bec702b",
+"t": "",
+"title": "BoC's Gov. Macklem: We need to communicate more clearly how we use core inflation measures.",
+"url": "https://www.financialjuice.com/News/9866462/BoCs-Gov-Macklem-We-need-to-communicate-more-clearly-how-we-use-core-inflation-measures.aspx?xy=rss",
+"pub": "2026-11-24T17:28:23+00:00",
+"src": "FinancialJuice",
+"kind": "market",
+"seen": "2026-11-24T17:29:04+00:00"
 },
 {
-"id": "95a116c65cc6",
-"t": "GOOGL",
-"title": "David Tepper, Seth Klarman and 5 Other Famous Investors Own Alphabet. Here’s Who Sold Recently",
-"url": "https://www.tikr.com/blog/david-tepper-seth-klarman-and-5-other-famous-investors-own-alphabet-heres-who-sold-recently",
-"pub": "2026-11-24T08:04:51+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-24T08:31:05+00:00"
+"id": "736ea0e74a22",
+"t": "",
+"title": "BoC's Gov. Macklem: Monetary policy framework has performed well but that doesn't mean we can't do better.",
+"url": "https://www.financialjuice.com/News/9866461/BoCs-Gov-Macklem-Monetary-policy-framework-has-performed-well-but-that-doesnt-mean-we-cant-do-better.aspx?xy=rss",
+"pub": "2026-11-24T17:28:02+00:00",
+"src": "FinancialJuice",
+"kind": "market",
+"seen": "2026-11-24T17:29:04+00:00"
 },
 {
-"id": "be5dcbaa2262",
-"t": "NVDA",
-"title": "Trump Calls America “a Country of Second Chances” and Pushes Nvidia to Rehire Jensen Huang",
-"url": "https://www.tikr.com/blog/trump-urges-nvidia-rehire-jensen-huang-second-chance",
-"pub": "2026-11-24T08:03:17+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-24T08:31:05+00:00"
+"id": "ee51b78ff86b",
+"t": "",
+"title": "BoC's Gov. Macklem: If inflation is going to be too high for two long, we would need to hike rates.",
+"url": "https://www.financialjuice.com/News/9866460/BoCs-Gov-Macklem-If-inflation-is-going-to-be-too-high-for-two-long-we-would-need-to-hike-rates.aspx?xy=rss",
+"pub": "2026-11-24T17:27:51+00:00",
+"src": "FinancialJuice",
+"kind": "market",
+"seen": "2026-11-24T17:29:04+00:00"
 },
 {
-"id": "f65320159d47",
-"t": "AVGO",
-"title": "Bad News for Anthropic: Forecaster Puts 60% Odds on Congress Banning “Recursive Self-Improvement”",
-"url": "https://www.tikr.com/blog/anthropic-stock-recursive-self-improvement-ban-60-percent-odds",
-"pub": "2026-11-24T08:02:55+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-24T14:06:43+00:00"
+"id": "e67a8544c571",
+"t": "",
+"title": "BoC's Gov. Macklem: If inflation goes up but is expected to come down on its own, we generally don't need to respond.",
+"url": "https://www.financialjuice.com/News/9866459/BoCs-Gov-Macklem-If-inflation-goes-up-but-is-expected-to-come-down-on-its-own-we-generally-dont-need-to-respond.aspx?xy=rss",
+"pub": "2026-11-24T17:27:41+00:00",
+"src": "FinancialJuice",
+"kind": "market",
+"seen": "2026-11-24T17:29:04+00:00"
 },
 {
-"id": "8d3ce887a22c",
-"t": "SPCX",
-"title": "Musk Asks “Who Wouldn’t Want to Hire Jensen?” as Wall Street Floats SpaceX for His Next Move",
-"url": "https://www.tikr.com/blog/musk-who-wouldnt-want-to-hire-jensen-huang-spacex-nvidia",
-"pub": "2026-11-24T08:02:15+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-24T14:06:43+00:00"
+"id": "e161d6e8fe40",
+"t": "",
+"title": "BoC's Gov. Macklem: A temporary disruption to supply can have bigger, broader and longer-lasting effects on inflation if economy is already running hot.",
+"url": "https://www.financialjuice.com/News/9866458/BoCs-Gov-Macklem-A-temporary-disruption-to-supply-can-have-bigger-broader-and-longer-lasting-effects-on-inflation-if-economy-is-already-running-hot.aspx?xy=rss",
+"pub": "2026-11-24T17:27:29+00:00",
+"src": "FinancialJuice",
+"kind": "market",
+"seen": "2026-11-24T17:29:04+00:00"
 },
 {
-"id": "995dfeacb9bf",
-"t": "ORCL",
-"title": "Dan Loeb and 47 Other Big Funds Bought Microsoft Last Quarter. Bill Ackman and 28 Others Sold. Who’s Right?",
-"url": "https://www.tikr.com/blog/dan-loeb-and-47-other-big-funds-bought-microsoft-last-quarter-bill-ackman-and-28-others-sold-whos-right",
-"pub": "2026-11-24T08:01:14+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-24T08:31:05+00:00"
+"id": "1747b051357b",
+"t": "",
+"title": "BoC's Gov. Macklem: Economic shocks are now likely to be larger, more frequent and more difficult to assess in real time. It's hard to know how monetary policy should respond.",
+"url": "https://www.financialjuice.com/News/9866457/BoCs-Gov-Macklem-Economic-shocks-are-now-likely-to-be-larger-more-frequent-and-more-difficult-to-assess-in-real-time-Its-hard-to-know-how-monetary-policy-should-respond.aspx?xy=rss",
+"pub": "2026-11-24T17:27:13+00:00",
+"src": "FinancialJuice",
+"kind": "market",
+"seen": "2026-11-24T17:29:04+00:00"
 },
 {
-"id": "f413c4170256",
-"t": "SPCX",
-"title": "Tesla And SpaceX Reportedly Name 5 Directors To Lead Merger Discussions — Investor Says Talks Are Moving At ‘Warp Speed’",
-"url": "https://stocktwits.com/news-articles/markets/equity/tesla-spacex-5-directors-lead-merger-discussions-investor-talks-warp-speed/cNbsbrxR9ke",
-"pub": "2026-11-24T08:00:14+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-24T08:14:46+00:00"
+"id": "401942952b92",
+"t": "",
+"title": "BoC's Gov. Macklem: Increased supply shocks mean inflation is likely to be pushed off course more frequently and for longer.",
+"url": "https://www.financialjuice.com/News/9866456/BoCs-Gov-Macklem-Increased-supply-shocks-mean-inflation-is-likely-to-be-pushed-off-course-more-frequently-and-for-longer.aspx?xy=rss",
+"pub": "2026-11-24T17:26:56+00:00",
+"src": "FinancialJuice",
+"kind": "market",
+"seen": "2026-11-24T17:29:04+00:00"
 },
 {
-"id": "20e89e711019",
-"t": "NVDA",
-"title": "Trump, Nvidia and power: could we be nearing the end of tech’s Gilded Age?",
-"url": "https://finance.yahoo.com/technology/ai/articles/trump-nvidia-power-could-nearing-080011472.html",
-"pub": "2026-11-24T08:00:11+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-24T08:14:46+00:00"
+"id": "9d0befe0c2ac",
+"t": "",
+"title": "BoC's Gov. Macklem: Economy has shown more resilience than we expected.",
+"url": "https://www.financialjuice.com/News/9866455/BoCs-Gov-Macklem-Economy-has-shown-more-resilience-than-we-expected.aspx?xy=rss",
+"pub": "2026-11-24T17:26:42+00:00",
+"src": "FinancialJuice",
+"kind": "market",
+"seen": "2026-11-24T17:29:04+00:00"
 },
 {
-"id": "1bb898deb5ce",
-"t": "RKLB",
-"title": "Jim Cramer Says Rocket Lab Has Gotten “Too Cheap” After a 60% Crash",
-"url": "https://www.tikr.com/blog/rocket-lab-stock-too-cheap-jim-cramer",
-"pub": "2026-11-24T08:00:10+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-24T14:44:20+00:00"
+"id": "565f33a74a82",
+"t": "",
+"title": "BoC's Gov. Macklem: Businesses are set to pass through more costs to consumers and this second-round effect of the oil shock will add to inflation persistence.",
+"url": "https://www.financialjuice.com/News/9866454/BoCs-Gov-Macklem-Businesses-are-set-to-pass-through-more-costs-to-consumers-and-this-second-round-effect-of-the-oil-shock-will-add-to-inflation-persistence.aspx?xy=rss",
+"pub": "2026-11-24T17:26:31+00:00",
+"src": "FinancialJuice",
+"kind": "market",
+"seen": "2026-11-24T17:29:04+00:00"
 },
 {
-"id": "9ebf2faaece2",
-"t": "SPCX",
-"title": "Engineer, saleswoman, Elon Musk whisperer: Meet Gwynne Shotwell, the billionaire who really runs SpaceX",
-"url": "https://finance.yahoo.com/technology/ai/articles/engineer-saleswoman-elon-musk-whisperer-080000847.html",
-"pub": "2026-11-24T08:00:00+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-24T10:42:16+00:00"
+"id": "265f4b9575f7",
+"t": "",
+"title": "BoC's Gov. Macklem: End-year inflation may not be quite as high as the roughly 3.5% the bank of Canada predicted in October.",
+"url": "https://www.financialjuice.com/News/9866453/BoCs-Gov-Macklem-End-year-inflation-may-not-be-quite-as-high-as-the-roughly-35-the-bank-of-Canada-predicted-in-October.aspx?xy=rss",
+"pub": "2026-11-24T17:26:20+00:00",
+"src": "FinancialJuice",
+"kind": "market",
+"seen": "2026-11-24T17:29:04+00:00"
 },
 {
-"id": "2e3cbe8eabd1",
-"t": "NVDA",
-"title": "US targets chip smuggling to China after Huang's return to scandal-hit Nvidia",
-"url": "https://finance.yahoo.com/technology/ai/articles/nvidia-reinstates-jensen-huang-ceo-141738492.html",
-"pub": "2026-11-24T07:59:51+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-24T08:14:46+00:00"
+"id": "57fcba2897cf",
+"t": "",
+"title": "BoC Summary: Renewed framework drops all mentions of bank using the 1%-3% target range to seek maximum sustainable employment when conditions warrant",
+"url": "https://www.financialjuice.com/News/9866452/BoC-Summary-Renewed-framework-drops-all-mentions-of-bank-using-the-1-3-target-range-to-seek-maximum-sustainable-employment-when-conditions-warrant.aspx?xy=rss",
+"pub": "2026-11-24T17:25:59+00:00",
+"src": "FinancialJuice",
+"kind": "market",
+"seen": "2026-11-24T17:29:04+00:00"
 },
 {
-"id": "a10267ef7600",
-"t": "NVDA",
-"title": "Jim Cramer Calls Nvidia’s Quarter “Fabulous” but Says Buy Anthropic Instead. I’ll Take the Other Side",
-"url": "https://www.tikr.com/blog/jim-cramer-nvidia-vs-anthropic-stock",
-"pub": "2026-11-24T07:58:31+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-24T08:14:46+00:00"
+"id": "14658f281866",
+"t": "",
+"title": "Crispier Chicken and Remodels Pit McDonald's Against Franchisees",
+"url": "https://www.bloomberg.com/news/videos/2026-11-24/mcdonald-s-remodel-pits-company-against-franchisees-video",
+"pub": "2026-11-24T17:25:50+00:00",
+"src": "Bloomberg",
+"kind": "market",
+"seen": "2026-11-24T17:29:04+00:00"
 },
 {
-"id": "18722c51fadf",
-"t": "NVDA",
-"title": "Grayscale Says Bitcoin Looks Oversold, Warns Of Near-Term AI Risks As Nvidia And Anthropic Developments Put Markets In Focus",
-"url": "https://stocktwits.com/news-articles/markets/cryptocurrency/grayscale-bitcoin-oversold-ai-risks-nvidia-anthropic/cNbsGFxR9kI",
-"pub": "2026-11-24T07:57:36+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-24T08:14:46+00:00"
-},
-{
-"id": "7e8862b63603",
-"t": "MU",
-"title": "Black Friday Comes to Tech Stocks: 3 Artificial Intelligence (AI) Names I’d Buy on Sale",
-"url": "https://www.fool.com/investing/2026/11/24/black-friday-comes-to-tech-stocks-3-artificial-intelligence-ai-names-id-buy-on-sale/",
-"pub": "2026-11-24T07:54:02+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-24T08:14:46+00:00"
-},
-{
-"id": "b2192e88d0ed",
-"t": "TSM",
-"title": "Apple Is Barely Off Its High as Chips Crash. A Strategist Says It “Definitely Needs to Correct”",
-"url": "https://www.tikr.com/blog/apple-is-barely-off-its-high-as-chips-crash-a-strategist-says-it-definitely-needs-to-correct",
-"pub": "2026-11-24T07:53:12+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-24T09:14:29+00:00"
+"id": "5b21a3db6033",
+"t": "",
+"title": "BoC Summary: Monetary policy can temporarily influence housing demand but cannot address supply constraints.",
+"url": "https://www.financialjuice.com/News/9866451/BoC-Summary-Monetary-policy-can-temporarily-influence-housing-demand-but-cannot-address-supply-constraints.aspx?xy=rss",
+"pub": "2026-11-24T17:25:34+00:00",
+"src": "FinancialJuice",
+"kind": "market",
+"seen": "2026-11-24T17:29:04+00:00"
 },
 {
 "id": "dfe5d6d6774c",
@@ -9961,6 +10111,16 @@
 "seen": "2026-11-24T10:42:16+00:00"
 },
 {
+"id": "2dba20bb39bf",
+"t": "",
+"title": "Jensen Huang’s Return Sparks Rally in Asia, but Concerns Remain",
+"url": "https://www.wsj.com/finance/stocks/asian-equities-rebound-as-huang-reinstatement-sparks-ai-stock-rally-515acdd2",
+"pub": "2026-11-24T09:52:00+00:00",
+"src": "WSJ",
+"kind": "market",
+"seen": "2026-11-24T17:29:04+00:00"
+},
+{
 "id": "0bf01d2c9dea",
 "t": "",
 "title": "Xiaomi third-quarter profit falls 57% as smartphone sales hit - Reuters",
@@ -10651,6 +10811,16 @@
 "seen": "2026-11-24T14:16:39+00:00"
 },
 {
+"id": "2435753a5cab",
+"t": "",
+"title": "Leverage Shares 2X Long UUUU Daily ETF (UUUG.OQ) | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9IWGJ5TzR4SXBpZ0xuU18tWUNjOGZlMWxCd3VWb1Byakd4MWNHaExSZ2V3N2hEejFuVnhKUG1ZbzdaYlpWVUEzNjNiaDZfaTVYdWxNUWFsMzJldw?oc=5",
+"pub": "2026-11-24T06:37:46+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-24T17:29:04+00:00"
+},
+{
 "id": "5a5d4c9a2211",
 "t": "",
 "title": "Prime Medicine, Inc. (PRME.OQ) | Stock Price & Latest News - Reuters",
@@ -10849,176 +11019,6 @@
 "src": "FinancialJuice",
 "kind": "market",
 "seen": "2026-11-24T06:44:27+00:00"
-},
-{
-"id": "c7c5621f0a71",
-"t": "",
-"title": "Iran's Parliament Speaker Ghalibaf: Position unchanged on negotiations - Fars",
-"url": "https://www.financialjuice.com/News/9865576/Irans-Parliament-Speaker-Ghalibaf-Position-unchanged-on-negotiations---Fars.aspx?xy=rss",
-"pub": "2026-11-24T06:15:53+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-24T06:44:27+00:00"
-},
-{
-"id": "ccd3d10643ab",
-"t": "",
-"title": "30-Day Correlation Matrix",
-"url": "https://www.financialjuice.com/News/9865575/30-Day-Correlation-Matrix.aspx?xy=rss",
-"pub": "2026-11-24T06:15:46+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-24T06:44:27+00:00"
-},
-{
-"id": "5af103da6732",
-"t": "",
-"title": "China Warns Huang Comeback Doesn’t End ‘Malicious’ Risks From US",
-"url": "https://www.bloomberg.com/news/articles/2026-11-24/china-warns-huang-comeback-doesn-t-end-malicious-risks-from-us",
-"pub": "2026-11-24T06:12:55+00:00",
-"src": "Bloomberg",
-"kind": "market",
-"seen": "2026-11-24T06:44:27+00:00"
-},
-{
-"id": "a3457af18da8",
-"t": "",
-"title": "Japanese Chain Store Sales YoY Actual 1% (Forecast -, Previous 1%)",
-"url": "https://www.financialjuice.com/News/9865572/Japanese-Chain-Store-Sales-YoY-Actual-1-Forecast---Previous-1.aspx?xy=rss",
-"pub": "2026-11-24T06:07:53+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-24T06:13:52+00:00"
-},
-{
-"id": "64fe19507ad9",
-"t": "",
-"title": "Old Republic International Corporation (ORI.P) | Stock Price & Latest News - Reuters",
-"url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9OamhrX2k1dmJCRFJlcjU3amVkaDdmQjNJdjNlNEhnekNUYUxLSUJhb20wVDFsYllIWUhIdU1PTEdwV3NFTmtKZkdkakRvLWllMGJfaTZSMGVremotOERTWmxHbVJibzFOV1E?oc=5",
-"pub": "2026-11-24T06:04:39+00:00",
-"src": "Reuters",
-"kind": "market",
-"seen": "2026-11-24T13:44:55+00:00"
-},
-{
-"id": "23c092d964c3",
-"t": "",
-"title": "Shanghai Electric Group Co Ltd (2727.MU) | Stock Price & Latest News - Reuters",
-"url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1aMTVGc1Vmd3Zmb3dRamstY2Z4RTAwMFZ4MWYzajR2cGxjZlVrOW1vM1I3dmZ2OEdjQW0tbTQwYWo1ZExzb2FybkJkR1BpbWgzc3pxeW9YUjROOGJ4ak1aMUgzQUxsRFB2VXh2Yw?oc=5",
-"pub": "2026-11-24T05:48:45+00:00",
-"src": "Reuters",
-"kind": "market",
-"seen": "2026-11-24T10:44:44+00:00"
-},
-{
-"id": "85353cdb3da3",
-"t": "",
-"title": "SWX.TH - Reuters",
-"url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQcnVEM0Z0aU1CeF9YR3RCbU9Rcl9CT0I2WUlvQ0FtaE8yaTBCNk5PWlhpcnluVF9QVUlSNUZzTDdLVF90OG9sNWNMTXNyZEpHLUVReUxuWlc5aGZXdVRJS2tudk0zdVJDb21TSFlScVZEZWlzTmFmemRhb0FMYjJlVlpzRU12UW8?oc=5",
-"pub": "2026-11-24T05:41:28+00:00",
-"src": "Reuters",
-"kind": "market",
-"seen": "2026-11-24T14:16:39+00:00"
-},
-{
-"id": "c5e6b1cad3e9",
-"t": "",
-"title": "MGXss.AX - | Stock Price & Latest News - Reuters",
-"url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5Fb0k3U1RGcnBhcUctOEZNQU8wUV9fYVJqRTZKT3hLOVNROHh5MFpYRG5QSzZBdEQyU0YwWEoxYldpd1hpUFAwbVJwMzJyVUZSZXBmaWhMN2ZFdkVtOFhkc1JPRWdFR1NQTUdsT3dueXFLcXJtbkhuMVpZWQ?oc=5",
-"pub": "2026-11-24T05:37:58+00:00",
-"src": "Reuters",
-"kind": "market",
-"seen": "2026-11-24T14:44:20+00:00"
-},
-{
-"id": "0e65d26aa4e0",
-"t": "",
-"title": "JPMorgan International Hdgd Eqty Ldrd Overlay ETF (HOLA.N) | Stock Price & Latest News - Reuters",
-"url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE80dHBaU0VDQ04xRXVxZ3Q5VmdqNHBHaDlYbjFaSi1zdVdqOFo3TmoySnluSTBxNDlvcXlJUkRoaE5rN1dQYklFYTZvRnFGeE5uUXo3cXVfbVJTUmpQUEoxLTZRTWlXb2hKM0sw?oc=5",
-"pub": "2026-11-24T05:07:13+00:00",
-"src": "Reuters",
-"kind": "market",
-"seen": "2026-11-24T14:16:39+00:00"
-},
-{
-"id": "af0bb714d06e",
-"t": "",
-"title": "icl.n - | Stock Price & Latest News - Reuters",
-"url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBsZncwMWVNYlJnWEdVSUl6c2ljUHB5dkp5WXlBalBQdUV6R2xzaXR6MzhYSkYwTTJjNmFPaXFoeTlIUnhqUC1sMHhxLS04bGZvZThuaHRyOVRVbzJ2V1B3OVFRbkVtZG1XUWlj?oc=5",
-"pub": "2026-11-24T05:04:53+00:00",
-"src": "Reuters",
-"kind": "market",
-"seen": "2026-11-24T10:44:44+00:00"
-},
-{
-"id": "2a2d175322ec",
-"t": "",
-"title": "IFFm.BA - Reuters",
-"url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQNVc2TXI5S2lGSDdweWh2d0pxVHI3eXBLaGZHRmlaOTZUTFoyTFAwdjVrNXZHSGZzc0dZc0M5eml1YXR0cEdPUDRnak5TZkJUVkl4QlBpRGFMWUZNZHFwQXVRU3lsNFhaY2VLdW5paFpacTJydmxiS3VERTRWcEJLRXdCSTc4REVhNTc0Y0kyZUo?oc=5",
-"pub": "2026-11-24T05:04:08+00:00",
-"src": "Reuters",
-"kind": "market",
-"seen": "2026-11-24T08:31:05+00:00"
-},
-{
-"id": "6e53b7c81ea3",
-"t": "",
-"title": "Asia Stocks Jump as Huang’s Return Lifts AI Trade",
-"url": "https://www.bloomberg.com/news/videos/2026-11-24/the-asia-trade-11-24-2026-video",
-"pub": "2026-11-24T05:00:29+00:00",
-"src": "Bloomberg",
-"kind": "market",
-"seen": "2026-11-24T05:44:13+00:00"
-},
-{
-"id": "a780b2d74b6f",
-"t": "",
-"title": "EV Surge Helps Europe Auto Sales Gains to Nine-Month Run",
-"url": "https://www.bloomberg.com/news/articles/2026-11-24/ev-surge-helps-europe-auto-sales-gains-to-nine-month-run",
-"pub": "2026-11-24T05:00:00+00:00",
-"src": "Bloomberg",
-"kind": "market",
-"seen": "2026-11-24T05:14:20+00:00"
-},
-{
-"id": "8deb0fc7b5dc",
-"t": "",
-"title": "Singapore, China to Deepen Yuan Ties With Focus on Corporates",
-"url": "https://www.bloomberg.com/news/articles/2026-11-24/singapore-china-to-deepen-yuan-ties-with-focus-on-corporates",
-"pub": "2026-11-24T04:50:54+00:00",
-"src": "Bloomberg",
-"kind": "market",
-"seen": "2026-11-24T05:14:20+00:00"
-},
-{
-"id": "fc909ee4b4a9",
-"t": "",
-"title": "BOLD.PH - Reuters",
-"url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1yd3lnakNEa0NraV9DMjAxSjNzSjBXNENjMVFlM2RMN0s0XzdqUVZfNEJad2plOWktRFNiRzdiWWl4TXloQTg5a2Y3aUp5aWJGNDZsS0pTcmQ5b0UxX21YdjluUElIa21oSk9xWndUcw?oc=5",
-"pub": "2026-11-24T04:45:04+00:00",
-"src": "Reuters",
-"kind": "market",
-"seen": "2026-11-24T08:31:05+00:00"
-},
-{
-"id": "e88d0a0b8626",
-"t": "",
-"title": "HUDCt0.NSf - | Stock Price & Latest News - Reuters",
-"url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOQ0JpdFotMGkxYjRLUTN5ZFhORGZtOVVhXzJ4WEJFU0ZiWVdmVWRGU3psZy1JU0dhcGZnQzVpWXZQLURqMmtyamJJQ0JiTzZjNkcyUndQSkFmTWt5djVEX2t2YUhDSXNDMGN1c2tWYW5Kak1JalhFQjVlbUlDQWE0WEhqN0RlUmhzYk40?oc=5",
-"pub": "2026-11-24T04:44:02+00:00",
-"src": "Reuters",
-"kind": "market",
-"seen": "2026-11-24T10:44:44+00:00"
-},
-{
-"id": "25f7372c4020",
-"t": "",
-"title": "Treasuries Advance as Cheaper Oil Alleviates Inflation Concerns",
-"url": "https://www.bloomberg.com/news/articles/2026-11-24/treasuries-advance-as-cheaper-oil-alleviates-inflation-concerns",
-"pub": "2026-11-24T04:42:33+00:00",
-"src": "Bloomberg",
-"kind": "market",
-"seen": "2026-11-24T04:51:49+00:00"
 }
 ]
 }
