@@ -3602,3 +3602,16 @@ Scout(소식 감지 프로그램)가 모은 기사·공시를 공식 출처로 �
 - 나에게 온 새 요청(RULES 0-3): 24시간 안 새 요청 없음(V-20261124-0821-3 은 08:43, A-20261124-1304-1 은 13:13 에 처리). 미국 지표: 미국 동부 11-24 01:1x(화) — 오늘 6개 지표 발표 없음(다음 pce·claims 11-25), 매크로 수집 안 돌림, 분석 모두 최신. A 지도: 고칠 것 없음. 앱 다시 게시: 반영이 없어 안 함. done 은 대기 목록에 없는 오래된 id 부터 잘라 3000개 유지(저장 뒤 JSON 다시 읽어 확인).
 - 출처: ops/scout/newsq.json · [Stocktwits 알리바바](https://stocktwits.com/news-articles/markets/equity/baba-stock-drops-overnight-alibaba-reportedly-refutes-chip-rerouting-claims-after-us-blacklists-subsidiary/cNbryN9R9kc) · 공식 여부: 저장소 / 보도(확인 못 함)
 - 확신도: 높음
+
+### W-20261124-1543-1 · 반영 · TSLA·SPCX 합병 협상 이사 5명 (보도)
+- 시각: 2026-11-24 15:5x KST
+- 내용: 테슬라·스페이스X 소식 맨 앞에 "합병 협상을 맡을 이사 5명(테슬라 3·스페이스X 2)이 정해졌다고 FT가 보도했어요"(보도). 로이터가 FT를 인용한 기사(로이터는 FT 보도를 바로 확인 못 함, 두 회사 답 없음) — 스페이스X 쪽 로엘로프 보타·랜디 글라인, 테슬라 쪽 로빈 덴홈·캐슬린 윌슨-톰슨·잭 하텅, 자문사 모건스탠리·골드만삭스(스페이스X)·에버코어(테슬라), 주식 맞교환 방식 검토. 특별위원회 구성(10-20)·'이르면 12월 발표'(11-13 블룸버그) 다음 단계라 새 줄로 넣음. 제목의 '3.5조 달러'는 로이터 전재 본문에 없어 한 줄에 넣지 않음. 회사 공식 발표 나오면 '공식'으로 갱신.
+- 출처: [Reuters (The Standard 전재, FT 인용)](https://www.thestandard.com.hk/finance/article/349451/SpaceX-Tesla-appoint-five-directors-to-guide-merger-talks-FT-reports) · [Yahoo Finance](https://finance.yahoo.com/markets/stocks/articles/spacex-tesla-directors-negotiate-potential-062339987.html) · 공식 여부: 보도
+- 확신도: 중간(보도)
+
+### W-20261124-1543-2 · 알림 · 이번 차례
+- 시각: 2026-11-24 15:5x KST
+- 내용: Scout를 직접 돌린 뒤(성공, 15:4x KST 갱신) 새 항목 47건(news 5·market 42) 모두 처리. 반영 1건(위, 두 회사). 건너뜀: '트럼프가 황 복귀를 밀었고 지분 평가액 1,500만 달러'(11-23 22:55 NVDA 공식 줄과 같은 흐름·개인 지분 글), 모틀리풀 '2027년 뒤처질 매그니피센트 7'·'엔비디아 10년 만의 최고의 날, 지금도 산다'(의견·매수 글), 벤징가 'S&P500 오늘 오를까'(시장 예측 글). market 42건(FinancialJuice 각국 금리 확률·변동성·상관표 표·이란 협상 입장, 블룸버그 신흥국 증시·한국 달러채 검토·중국 '황 복귀 뒤에도 위험' 제목, 로이터 독일 EU 분담금·시세 페이지 — 15시대라 done 만). 웹 열기: investing.com 로이터 기사는 사이트 한도 초과로 못 열어 같은 로이터 기사의 The Standard 전재를 씀.
+- 나에게 온 새 요청(RULES 0-3): 24시간 안 새 요청 없음. 미국 지표: 미국 동부 11-24 01:4x(화) — 오늘 6개 지표 발표 없음(다음 pce·claims 11-25), 매크로 수집 안 돌림, 분석 모두 최신. A 지도: 고칠 것 없음(합병 협상은 관계 변화가 아님). done 은 대기 목록에 없는 오래된 id 부터 잘라 3000개 유지(저장 뒤 JSON 다시 읽어 확인).
+- 출처: ops/scout/newsq.json · 공식 여부: 저장소
+- 확신도: 높음
