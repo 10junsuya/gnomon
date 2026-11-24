@@ -1,6 +1,6 @@
 {
-"updated_kst": "2026-11-25 04:35",
-"rot": 178,
+"updated_kst": "2026-11-25 04:44",
+"rot": 59,
 "how": "Scout(프로그램)이 10분마다 모은 기사 제목·링크와 공시예요. Wren이 공식 출처로 확인한 뒤 회사 화면에 한국어로 반영해요. 본문은 받지 않아요.",
 "sources": {
 "Yahoo Finance": "120종목 확인 · 실패 0",
@@ -10,12 +10,42 @@
 "CNBC": "63건",
 "Bloomberg": "40건",
 "WSJ": "61건",
-"Reuters": "100건",
+"Reuters": "45건",
 "FinancialJuice": "100건",
 "SEC EDGAR": "실패 HTTPError",
 "Fox Business": "50건"
 },
 "items": [
+{
+"id": "3f15453ea96a",
+"t": "MSFT",
+"title": "Microsoft declares a code red in the middle of a 'Patchpocalypse'",
+"url": "https://finance.yahoo.com/markets/article/microsoft-declares-a-code-red-in-the-middle-of-a-patchpocalypse-193740712.html",
+"pub": "2026-11-24T19:37:40+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-24T19:44:00+00:00"
+},
+{
+"id": "010d614c214e",
+"t": "NVDA",
+"title": "$10,000 in GE Vernova on Its First Day of Trading Is Worth How Much Today?",
+"url": "https://www.fool.com/investing/2026/11/24/10000-in-ge-vernova-on-its-first-day-of-trading-is-worth-how-much-today/",
+"pub": "2026-11-24T19:35:02+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-24T19:44:00+00:00"
+},
+{
+"id": "31e0d27f49ce",
+"t": "AAPL",
+"title": "At 63, a Robo-Adviser Bought You 11 Funds You Can’t Explain. These 3 ETFs Do the Same Job",
+"url": "https://247wallst.com/investing/etf/2026/11/24/at-63-a-robo-adviser-bought-you-11-funds-you-cant-explain-these-3-etfs-do-the-same-job/",
+"pub": "2026-11-24T19:32:13+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-24T19:44:00+00:00"
+},
 {
 "id": "9e3250c3a6d4",
 "t": "NVDA",
@@ -25,6 +55,16 @@
 "src": "Yahoo Finance",
 "kind": "news",
 "seen": "2026-11-24T19:35:01+00:00"
+},
+{
+"id": "016f3ee33cd2",
+"t": "NVDA",
+"title": "Why Fluence Energy Stock Is Powering Higher Today",
+"url": "https://www.fool.com/investing/2026/11/24/why-fluence-energy-stock-is-powering-higher-today/",
+"pub": "2026-11-24T19:29:27+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-24T19:44:00+00:00"
 },
 {
 "id": "082ccadafa70",
@@ -257,6 +297,16 @@
 "seen": "2026-11-24T19:14:35+00:00"
 },
 {
+"id": "08f18220880c",
+"t": "KO",
+"title": "Short-Term Bond Funds vs. Dividend Stocks: Which Income Holds Up Better for Retirees?",
+"url": "https://247wallst.com/investing/2026/11/24/short-term-bond-funds-vs-dividend-stocks-which-income-holds-up-better-for-retirees/",
+"pub": "2026-11-24T18:56:20+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-24T19:44:00+00:00"
+},
+{
 "id": "ecab5c8217b3",
 "t": "MU",
 "title": "Micron Just Hit a $700 Ceiling, Caught a Downgrade, and Is Down 10% Today. Is MU a Toxic Stock or a Prime Bargain?",
@@ -417,6 +467,16 @@
 "seen": "2026-11-24T18:44:31+00:00"
 },
 {
+"id": "dd938e612455",
+"t": "GOOGL",
+"title": "Why Dividend Growth ETFs Deserve a Place in Tech-Heavy Portfolios",
+"url": "https://finance.yahoo.com/markets/stocks/articles/why-dividend-growth-etfs-deserve-183300364.html",
+"pub": "2026-11-24T18:33:00+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-24T19:44:00+00:00"
+},
+{
 "id": "513771f07834",
 "t": "BE",
 "title": "What Triggered The Move In Eaton Stock?",
@@ -457,6 +517,16 @@
 "seen": "2026-11-24T18:44:31+00:00"
 },
 {
+"id": "f0e236169e35",
+"t": "AMZN",
+"title": "Former Amazon VP Reveals What Jeff Bezos Was Really Like Behind Closed Doors: 'Very Demanding And Never Said Anything Good'",
+"url": "https://finance.yahoo.com/small-business/articles/former-amazon-vp-reveals-jeff-183006747.html",
+"pub": "2026-11-24T18:30:06+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-24T19:44:00+00:00"
+},
+{
 "id": "d36fc93ea3a2",
 "t": "CEG",
 "title": "What Just Happened To Vistra Stock?",
@@ -465,6 +535,16 @@
 "src": "Yahoo Finance",
 "kind": "news",
 "seen": "2026-11-24T19:14:35+00:00"
+},
+{
+"id": "f663fc7a75d8",
+"t": "KO",
+"title": "What Did Coca-Cola Do That PepsiCo Did Not?",
+"url": "https://www.trefis.com/stock/pep/articles/628584/what-did-coca-cola-do-that-pepsico-did-not/2026-11-24",
+"pub": "2026-11-24T18:26:57+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-24T19:44:00+00:00"
 },
 {
 "id": "7013da4355f4",
@@ -1246,6 +1326,16 @@
 "src": "Yahoo Finance",
 "kind": "news",
 "seen": "2026-11-24T18:44:31+00:00"
+},
+{
+"id": "ed252e26fa98",
+"t": "ADI",
+"title": "AI Stocks Are Getting Clobbered",
+"url": "https://finance.yahoo.com/m/4ed869bd-466e-3fa6-9f78-569d1e79ff03/ai-stocks-are-getting.html",
+"pub": "2026-11-24T17:38:08+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-24T19:44:00+00:00"
 },
 {
 "id": "2d599dbefd99",
@@ -2946,6 +3036,16 @@
 "src": "Yahoo Finance",
 "kind": "news",
 "seen": "2026-11-24T16:32:44+00:00"
+},
+{
+"id": "b1d5ca10fff0",
+"t": "CBRS",
+"title": "CEO of $21 billion Cerebras says it’s minted 1,000 employees into millionaires—but warns that drastic changes in fortunes can be ‘really stressful’",
+"url": "https://finance.yahoo.com/markets/stocks/articles/ceo-21-billion-cerebras-says-161525759.html",
+"pub": "2026-11-24T16:15:25+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-24T19:44:00+00:00"
 },
 {
 "id": "87f070e2cce3",
@@ -7920,104 +8020,14 @@
 "seen": "2026-11-24T12:15:38+00:00"
 },
 {
-"id": "544b890a7a97",
-"t": "BABA",
-"title": "US Blacklists Alibaba Subsidiary Over AI Chip Risks. Chinese Tech Giant Vows Legal Fight.",
-"url": "https://www.ibtimes.com/alibaba-singapore-subsidiary-us-trade-blacklist-3810123",
-"pub": "2026-11-24T12:07:15+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-24T12:48:28+00:00"
-},
-{
-"id": "d7063bd8a1b7",
-"t": "GOOGL",
-"title": "Susquehanna Cut Its Marvell Target to $225 From $300. It Still Sees [84%] Upside",
-"url": "https://www.tikr.com/blog/susquehanna-marvell-price-target-cut-225-mrvl-upside",
-"pub": "2026-11-24T12:06:19+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-24T14:44:20+00:00"
-},
-{
-"id": "a602000ba4e0",
-"t": "SPCX",
-"title": "Anthropic Backer Dismisses Musk as “a Glorified Compute Reseller.” Here’s What Reselling Earns SpaceX",
-"url": "https://www.tikr.com/blog/anthropic-backer-dismisses-musk-as-a-glorified-compute-reseller-heres-what-reselling-earns-spacex",
-"pub": "2026-11-24T12:06:05+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-24T13:20:10+00:00"
-},
-{
-"id": "b2e903da6c6d",
-"t": "GOOGL",
-"title": "Jensen Huang’s Return “Could Be Negative for Anthropic,” David Faber Warns. That’s a Risk for Amazon and Alphabet",
-"url": "https://www.tikr.com/blog/jensen-huangs-return-could-be-negative-for-anthropic-david-faber-warns-thats-a-risk-for-amazon-and-alphabet",
-"pub": "2026-11-24T12:06:00+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-24T13:20:10+00:00"
-},
-{
-"id": "8a41881bbd02",
-"t": "GOOGL",
-"title": "OpenAI’s Greg Brockman: “The World Is Not Building Enough Compute.” Wall Street Just Stopped Raising Capex Forecasts",
-"url": "https://www.tikr.com/blog/openais-greg-brockman-the-world-is-not-building-enough-compute-wall-street-just-stopped-raising-capex-forecasts",
-"pub": "2026-11-24T12:05:04+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-24T12:44:57+00:00"
-},
-{
-"id": "e7d1d424d3ed",
-"t": "NVDA",
-"title": "Bitcoin or Gold? Cathie Wood of Ark Invest Makes a Compelling Case for Buying Bitcoin.",
-"url": "https://www.fool.com/investing/2026/11/24/bitcoin-or-gold-cathie-wood-of-ark-invest-makes-a-compelling-case-for-buying-bitcoin/",
-"pub": "2026-11-24T12:05:02+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-24T12:15:38+00:00"
-},
-{
-"id": "452d200cbf20",
-"t": "NVDA",
-"title": "China Just Fired A Warning Shot At Nvidia As Jensen Huang Returns",
-"url": "https://finance.yahoo.com/technology/ai/articles/china-just-fired-warning-shot-120411505.html",
-"pub": "2026-11-24T12:04:11+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-24T12:15:38+00:00"
-},
-{
-"id": "1574513b7351",
-"t": "NVDA",
-"title": "Dan Ives Calls Jensen Huang's Return To Nvidia The Start of  ‘AI Godfather Part 2,’ But Warns Of More ‘Noise’ Ahead",
-"url": "https://stocktwits.com/news-articles/markets/equity/dan-ives-calls-jensen-huang-return-to-nvidia-the-start-of-ai-godfather-part-2-but-warns-of-more-noise-ahead/cNbsIBLR9kL",
-"pub": "2026-11-24T12:03:46+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-24T12:15:38+00:00"
-},
-{
-"id": "a03ad4e4b775",
-"t": "CRM",
-"title": "TD Cowen Cut Its Salesforce Target to $275 From $300. It Still Sees 48% Upside",
-"url": "https://www.tikr.com/blog/td-cowen-cut-its-salesforce-target-to-275-from-300-it-still-sees-48-upside",
-"pub": "2026-11-24T12:03:34+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-24T12:48:28+00:00"
-},
-{
-"id": "dec4d4462150",
-"t": "NVDA",
-"title": "TSMC and SK Hynix Stocks Jump After Nvidia Reinstates Jensen Huang as CEO",
-"url": "https://finance.yahoo.com/markets/stocks/articles/tsmc-sk-hynix-stocks-jump-120300756.html",
-"pub": "2026-11-24T12:03:00+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-24T12:15:38+00:00"
+"id": "a2bd075495f3",
+"t": "",
+"title": "Most Fed Regional Boards Wanted to Raise Rates in October",
+"url": "https://www.bloomberg.com/news/articles/2026-11-24/most-fed-regional-boards-wanted-to-raise-rates-in-october",
+"pub": "2026-11-24T19:36:40+00:00",
+"src": "Bloomberg",
+"kind": "market",
+"seen": "2026-11-24T19:44:00+00:00"
 },
 {
 "id": "2838efba22cd",
@@ -8058,6 +8068,16 @@
 "src": "FinancialJuice",
 "kind": "market",
 "seen": "2026-11-24T19:35:01+00:00"
+},
+{
+"id": "b7523cdf0d40",
+"t": "",
+"title": "Canadian Dollar Gains Most Since August on BOC Inflation Warning",
+"url": "https://www.bloomberg.com/news/articles/2026-11-24/canadian-dollar-gains-most-since-august-on-boc-inflation-warning",
+"pub": "2026-11-24T19:31:25+00:00",
+"src": "Bloomberg",
+"kind": "market",
+"seen": "2026-11-24T19:44:00+00:00"
 },
 {
 "id": "55fcee71558d",
@@ -8238,6 +8258,16 @@
 "src": "FinancialJuice",
 "kind": "market",
 "seen": "2026-11-24T19:14:35+00:00"
+},
+{
+"id": "c67c97dba850",
+"t": "",
+"title": "FHFA Clears FICO 10T Scores for Fannie Mae and Freddie Mac",
+"url": "https://www.bloomberg.com/news/articles/2026-11-24/fhfa-clears-fico-10t-scores-for-fannie-mae-and-freddie-mac",
+"pub": "2026-11-24T18:48:49+00:00",
+"src": "Bloomberg",
+"kind": "market",
+"seen": "2026-11-24T19:44:00+00:00"
 },
 {
 "id": "51b0e36b1be2",
@@ -8668,6 +8698,16 @@
 "src": "Bloomberg",
 "kind": "market",
 "seen": "2026-11-24T17:44:03+00:00"
+},
+{
+"id": "d2b98841fef5",
+"t": "",
+"title": "European shares end lower as tech rally fades; Sanofi gains - Reuters",
+"url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPRFZqN1lVNFNOTEFzWnBjSFFrbEVUQ2NLQ3EyOFJVdXVoUDFtdDJOcXoteHFEZWVmQ3dsYWV1OUxjN2FkY2pOVzk0T1NpTXBQTXpIWlJuWVozQlJNMHFHQmlvTFVwOG9LYmZRY3k0RDFLelNheUVaanNPSWpibkxyZXlRSGV6a2ttanl1MjZqLTZ3Z0JubU42OUZybWtUZEU?oc=5",
+"pub": "2026-11-24T17:19:57+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-24T19:44:00+00:00"
 },
 {
 "id": "3d5d2a93eafc",
@@ -9188,6 +9228,16 @@
 "src": "FinancialJuice",
 "kind": "market",
 "seen": "2026-11-24T15:44:24+00:00"
+},
+{
+"id": "81b86cf16782",
+"t": "",
+"title": "Dollar Could Rise Further in 2027 if Fed Lifts Rates",
+"url": "https://www.wsj.com/articles/dollar-stays-strong-after-nvidia-news-boosts-u-s-tech-stocks-a0c603c2",
+"pub": "2026-11-24T15:17:00+00:00",
+"src": "WSJ",
+"kind": "market",
+"seen": "2026-11-24T19:44:00+00:00"
 },
 {
 "id": "0e74672a0c62",
@@ -9990,6 +10040,16 @@
 "seen": "2026-11-24T12:44:57+00:00"
 },
 {
+"id": "9486972fce69",
+"t": "",
+"title": "Oil Prices Rebound as Shipping Risks Persist",
+"url": "https://www.wsj.com/business/energy-oil/oil-prices-fall-as-traders-weigh-supply-outlook-shipping-risks-7225885e",
+"pub": "2026-11-24T12:33:00+00:00",
+"src": "WSJ",
+"kind": "market",
+"seen": "2026-11-24T19:44:00+00:00"
+},
+{
 "id": "ee19d54d6938",
 "t": "",
 "title": "Pentagon reportedly in talks with GM, Ford to scale US military drone production",
@@ -10238,6 +10298,16 @@
 "src": "Reuters",
 "kind": "market",
 "seen": "2026-11-24T15:15:37+00:00"
+},
+{
+"id": "da6c207153d0",
+"t": "",
+"title": "6094.JSF - | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1OR0VkTExhZ0tmVFFvTjAtTlI4bkRFV1pNYkF0SG1GZEJMQlE5N3h5cGs2VWVsX3ppNVRubW9Ydng1akVoR2dCWHZ3eXlBRHRSWC1NY3NKMTJTNFpkSW1QZEpZYlJRVE03N3JoX3NYZGF6bGZoYV9ycE1R?oc=5",
+"pub": "2026-11-24T11:37:18+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-24T19:44:00+00:00"
 },
 {
 "id": "96f6c0359808",
@@ -10948,76 +11018,6 @@
 "src": "Bloomberg",
 "kind": "market",
 "seen": "2026-11-24T08:44:13+00:00"
-},
-{
-"id": "ddf5656a783b",
-"t": "",
-"title": "HROMt0.BO - | Stock Price & Latest News - Reuters",
-"url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQc0dCb0s4dWJrRzQ2NEMxYWxZV1dCaGloemJEbVp3eG1sdWVic2t3VlNLU0NwbjI2d2hPdXk0WXllUEthbmR5d3NjcUpBYUhHcEs4UUhtekNQU3VBSVRhRGhLdUN6NXlDQzhwS1B2ZXdqanVZQi1ob3JZSFJ0U3A0Y3ZjaFF4MXZBdlE?oc=5",
-"pub": "2026-11-24T08:39:49+00:00",
-"src": "Reuters",
-"kind": "market",
-"seen": "2026-11-24T14:16:39+00:00"
-},
-{
-"id": "3c7e46d2ce46",
-"t": "",
-"title": "Price and Volume - Reuters",
-"url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPUndzX2V6Nkh3X0d0VnZiWlgyS1JQRUFTVFhuTVZfNmt3TlRYelJVbzBqcVlabDlDQ3REVmp2NWFzbDFWSXBHbTNvemEwT1VQNGQ5UXlNbE5QYm1CdGNadDJQcWVvVm5kLVlUUFlqRld2OGo4cGRXRHJ2VGZuNUFBZk4yWFFiakU?oc=5",
-"pub": "2026-11-24T08:39:34+00:00",
-"src": "Reuters",
-"kind": "market",
-"seen": "2026-11-24T10:44:44+00:00"
-},
-{
-"id": "93701c2b84cf",
-"t": "",
-"title": "ECB's Simkus: Recent euro weakness is another inflationary factor.",
-"url": "https://www.financialjuice.com/News/9865725/ECBs-Simkus-Recent-euro-weakness-is-another-inflationary-factor.aspx?xy=rss",
-"pub": "2026-11-24T08:37:36+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-24T08:44:13+00:00"
-},
-{
-"id": "f1ad87451e96",
-"t": "",
-"title": "ECB's Simkus: ECB should act preemptively, sooner rather than later.",
-"url": "https://www.financialjuice.com/News/9865724/ECBs-Simkus-ECB-should-act-preemptively-sooner-rather-than-later.aspx?xy=rss",
-"pub": "2026-11-24T08:37:25+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-24T08:44:13+00:00"
-},
-{
-"id": "d511af7b6aa2",
-"t": "",
-"title": "ECB’s Simkus Says It’s ‘Prudent’ to Hike as Inflation Broadens",
-"url": "https://www.bloomberg.com/news/articles/2026-11-24/ecb-s-simkus-says-it-s-prudent-to-hike-as-inflation-broadens",
-"pub": "2026-11-24T08:37:17+00:00",
-"src": "Bloomberg",
-"kind": "market",
-"seen": "2026-11-24T08:44:13+00:00"
-},
-{
-"id": "b3903b5176e6",
-"t": "",
-"title": "ECB's Simkus: Don't see a risk of over-tightening.",
-"url": "https://www.financialjuice.com/News/9865723/ECBs-Simkus-Dont-see-a-risk-of-over-tightening.aspx?xy=rss",
-"pub": "2026-11-24T08:37:09+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-24T08:44:13+00:00"
-},
-{
-"id": "e577b604e5fe",
-"t": "",
-"title": "Gold Falls Ahead of Key U.S. Inflation Data",
-"url": "https://www.wsj.com/finance/commodities-futures/gold-rises-amid-risk-on-sentiment-across-markets-ae66946a",
-"pub": "2026-11-24T08:37:00+00:00",
-"src": "WSJ",
-"kind": "market",
-"seen": "2026-11-24T15:44:24+00:00"
 }
 ]
 }
