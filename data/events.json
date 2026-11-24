@@ -2456,7 +2456,11 @@
         [
           "다음 분기 매출 전망",
           "44억 달러",
-          "±1.5억 달러 · 이번 분기 43.7억 달러"
+          "예상 43.1억 달러 상회 · ±1.5억 달러",
+          [
+            44.0,
+            43.1
+          ]
         ],
         [
           "다음 분기 조정 EPS 전망",
@@ -2488,8 +2492,8 @@
       ],
       "src": [
         [
-          "ADI 4분기 실적 발표 (회사 IR)",
-          "https://investor.analog.com/news-releases/news-release-details/analog-devices-reports-record-fourth-quarter-and-fiscal-2026"
+          "ADI 4분기 실적 발표 (SEC 8-K)",
+          "https://www.sec.gov/Archives/edgar/data/0000006281/000000628126000087/adiq426exhibit991.htm"
         ],
         [
           "예상치·다음 분기 이익 예상 (rallies.ai)",
@@ -2499,7 +2503,48 @@
           "발표 전 예상 (MarketBeat)",
           "https://www.marketbeat.com/instant-alerts/upcoming-analog-devices-adi-set-to-release-quarterly-earnings-on-tuesday-2026-11-17/"
         ]
-      ]
+      ],
+      "views": {
+        "asof": "2026-11-24",
+        "lead": "실적은 예상을 넘었지만, 다음 분기 이익 전망이 기대에 못 미쳐 장 전 주가가 7% 넘게 내렸어요.",
+        "points": [
+          [
+            "결과",
+            "매출 43.7억·조정 EPS 4.06달러로 예상을 넘었고, 다음 분기 이익 전망 3.82달러는 예상보다 조금 낮았어요"
+          ],
+          [
+            "주가 반응",
+            "11/24 미국 장 시작 전 거래에서 7.3% 내린 351달러였어요(rallies.ai). 정규장 반응은 아직 전이에요"
+          ],
+          [
+            "업종·ETF",
+            "Investing.com은 이 하락이 기술주 전반 약세와 겹쳤다고 봤어요. 노몬 ETF 3곳에 5% 안팎 담겨 있어요"
+          ]
+        ],
+        "items": [
+          {
+            "t": "다음 분기 이익 전망 3.82달러가 블룸버그 집계 예상에 못 미쳤고, 장 전 주가가 7% 넘게 내려 기술주 약세와 겹쳤다고 보도",
+            "src": "Investing.com",
+            "url": "https://www.investing.com/news/stock-market-news/analog-devices-unveils-lowerthanexpected-firstquarter-earnings-forecast-5047864",
+            "d": "2026-11-24",
+            "tag": "보도"
+          },
+          {
+            "t": "4분기 EPS 4.06달러로 예상 3.89달러를 넘었고, 다음 분기 매출 전망 42.5억~45.5억 달러를 집계 예상 43.1억 달러와 비교해 정리",
+            "src": "Investing.com",
+            "url": "https://uk.investing.com/news/earnings/analog-devices-earnings-beat-by-017-revenue-topped-estimates-5001511",
+            "d": "2026-11-24",
+            "tag": "보도"
+          },
+          {
+            "t": "다음 분기 이익 전망이 예상 3.86달러보다 낮아 장 전 주가가 7.3% 내린 351달러라고 보도",
+            "src": "rallies.ai",
+            "url": "https://rallies.ai/news/analog-devices-q4-adjusted-eps-406-vs-estimate-of-388-53b8c52f8131abaf",
+            "d": "2026-11-24",
+            "tag": "보도"
+          }
+        ]
+      }
     }
   },
   {
