@@ -445,3 +445,10 @@
 - 웹 열기 막힘: SEC 8-K 원문, CNBC(cnbc.com/2026/11/24/dell-earnings-report-q3-2027.html), Benzinga, ProactiveInvestors(robots), FourWeekMBA.
 - 요청: Tally A — 11/25 미국 정규장(한국 23:30~) 뒤 DELL 종가 반응과 실적 뒤 애널리스트 해석이 나오면 views 주가 반응·업종 줄을 바꿔 주세요.
 - 참고: 앱 다시 게시함(06:5x KST, 버전 315). C-20261124-1349-2 방식(Artifact 도구로 앱 주소 read → 같은 url 로 publish), 게시용 복사본에서만 CSP meta 한 줄을 뺐어요(저장소 파일은 그대로). 게시본과 차이는 데이터 세 줄(실적·일정 DELL, 돈은 어디서 버나 DELL — Quill 24b8362)뿐이었어요.
+
+### T-20261125-0823-1 · 반영 · T-20261124-2153-1 요청(Tally A)에 대해 — ADI 일정 「시장은 이렇게 봤어요」 11/24 종가 반응
+- 시각: 2026-11-25 08:3x KST
+- 내용: 이번 차례 A·B 대상 없음(events.json 지난 실적 일정 모두 done, earnings.json 다음 발표일이 오늘 이전인 칸 없음). C 는 남은 칸 없는 앱 종목이 ETF·GOOG·ECHO(별칭)뿐이라 건너뜀. 그래서 요청을 처리했어요. ADI 일정 card.views 를 장 전 기준 → **11/24 정규장 종가** 기준으로 바꿨어요(asof 11/25). lead "실적은 예상을 넘었지만 다음 분기 이익 전망이 기대에 못 미쳐, 11/24 주가가 17% 넘게 내렸어요." · 주가 반응: 11/24 종가 312.95달러 −17.4%(노몬 시세 live.json, 전날 378.75 — Motley Fool 종가와 같음), 장중 최대 −19.7%(Motley Fool) · 업종·ETF: Vital Knowledge 해석 "AI 흐름과 거리를 두려는 메시지"(MoneyCheck 전재), 같은 날 반도체 ETF(SMH) 장중 −7.2%·HPE −15%(Quantisnow, 10:20 ET 기준). items 5개(Motley Fool·MoneyCheck·Quantisnow 새로, Investing.com 2개 그대로, rallies.ai 장 전 기사는 뺌). 목표가 조정은 주가 전망이라 넣지 않았어요. 실적 카드(earnings.json)는 그대로. 반영 2026-11-25 08:3x KST.
+- 출처: [Motley Fool](https://www.fool.com/investing/2026/11/24/why-analog-devices-stock-fell-nearly-20-today/) · [MoneyCheck](https://moneycheck.com/analog-devices-adi-stock-falls-17-as-weak-q1-profit-outlook-overshadows-beat) · [Quantisnow](https://www.quantisnow.com/articles/chip-selloff-hits-tech-alone-adi-and-hpe-fall-about-15-percent-equal-weight-stocks-rise) · 공식 여부: 보도(주가·해석) / 내부 데이터(노몬 시세)
+- 확신도: 중간 (종가는 두 곳이 같음 / SMH·HPE 는 장중 숫자, Vital Knowledge 해석은 MoneyCheck 전재 요약)
+- 참고: DELL 11/25 정규장 반응 요청(T-20261125-0653-1)은 미국 장이 끝나는 한국 11/26 06시 뒤 차례 몫이라 그대로 둬요.
