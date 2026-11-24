@@ -1,6 +1,6 @@
 {
-"updated_kst": "2026-11-24 13:51",
-"rot": 105,
+"updated_kst": "2026-11-24 14:14",
+"rot": 165,
 "how": "Scout(프로그램)이 10분마다 모은 기사 제목·링크와 공시예요. Wren이 공식 출처로 확인한 뒤 회사 화면에 한국어로 반영해요. 본문은 받지 않아요.",
 "sources": {
 "Yahoo Finance": "120종목 확인 · 실패 0",
@@ -10,12 +10,22 @@
 "CNBC": "63건",
 "Bloomberg": "40건",
 "WSJ": "61건",
-"Reuters": "48건",
+"Reuters": "51건",
 "FinancialJuice": "100건",
 "SEC EDGAR": "실패 HTTPError",
 "Fox Business": "50건"
 },
 "items": [
+{
+"id": "085e562fae05",
+"t": "NVDA",
+"title": "Nvidia Corp. (NVDA) Has Made Investors a Fortune — Is Now Time to Book Profits?",
+"url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-corp-nvda-made-investors-044731067.html",
+"pub": "2026-11-24T04:47:31+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-24T05:14:20+00:00"
+},
 {
 "id": "7d36937dece0",
 "t": "NVDA",
@@ -27,6 +37,26 @@
 "seen": "2026-11-24T04:51:49+00:00"
 },
 {
+"id": "6e66cf02344d",
+"t": "CSCO",
+"title": "A Stock Market Crash Could Be Life-Changing for Investors Who Own These 3 Artificial Intelligence (AI) Stocks",
+"url": "https://www.fool.com/investing/2026/11/23/a-stock-market-crash-could-be-life-changing-for-investors-who-own-these-3-artificial-intelligence-ai-stocks/",
+"pub": "2026-11-24T04:35:01+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-24T05:14:20+00:00"
+},
+{
+"id": "8d9276db2a27",
+"t": "COST",
+"title": "Costco Wholesale (COST) Could Be 27% Overvalued After Its $30 Special Dividend",
+"url": "https://finance.yahoo.com/markets/stocks/articles/costco-wholesale-cost-could-27-043132200.html",
+"pub": "2026-11-24T04:31:32+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-24T05:14:20+00:00"
+},
+{
 "id": "eaf7ba7ee9e7",
 "t": "NVDA",
 "title": "Stocks climb as Huang's return to Nvidia lifts investor optimism",
@@ -35,6 +65,16 @@
 "src": "Yahoo Finance",
 "kind": "news",
 "seen": "2026-11-24T04:44:05+00:00"
+},
+{
+"id": "7effaa8030bc",
+"t": "NVDA",
+"title": "What Is Kymera and Why Did an Eczema Pill Outperform All AI Stocks on Monday?",
+"url": "https://beincrypto.com/what-is-kymera-eczema-pill-stock/",
+"pub": "2026-11-24T04:30:00+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-24T05:14:20+00:00"
 },
 {
 "id": "b29b8064c7fb",
@@ -85,6 +125,16 @@
 "src": "Yahoo Finance",
 "kind": "news",
 "seen": "2026-11-24T04:44:05+00:00"
+},
+{
+"id": "7bd196f456dc",
+"t": "NVDA",
+"title": "Nvidia employee hugs Jensen Huang after comeback speech",
+"url": "https://www.cnn.com/2026/11/23/business/video/nvidia-employee-hugs-jensen-huang-after-comeback-speech-hnk-digvid?cid=external-feeds_iluminar_yahoo",
+"pub": "2026-11-24T04:16:43+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-24T05:14:20+00:00"
 },
 {
 "id": "d2873bb5f393",
@@ -1596,6 +1646,16 @@
 "src": "Yahoo Finance",
 "kind": "news",
 "seen": "2026-11-23T22:44:37+00:00"
+},
+{
+"id": "dee11b23c6e7",
+"t": "MU",
+"title": "Nvidia’s Board Had Other Options: Robert Maciejko",
+"url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-board-had-other-options-222213836.html",
+"pub": "2026-11-23T22:22:13+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-24T05:14:20+00:00"
 },
 {
 "id": "738bd2ed1ef5",
@@ -7961,64 +8021,24 @@
 "seen": "2026-11-23T15:44:40+00:00"
 },
 {
-"id": "5514ec480988",
-"t": "AVGO",
-"title": "Metal-Oxide-Semiconductor (MOS) Microprocessor Market Global Report 2026 | Capitalize on AI, Chiplets and RISC-V as NVIDIA, Intel, Broadcom and Texas Instruments Drive 10.1% CAGR",
-"url": "https://finance.yahoo.com/technology/articles/metal-oxide-semiconductor-mos-microprocessor-152800441.html",
-"pub": "2026-11-23T15:28:00+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-23T15:44:40+00:00"
+"id": "a780b2d74b6f",
+"t": "",
+"title": "EV Surge Helps Europe Auto Sales Gains to Nine-Month Run",
+"url": "https://www.bloomberg.com/news/articles/2026-11-24/ev-surge-helps-europe-auto-sales-gains-to-nine-month-run",
+"pub": "2026-11-24T05:00:00+00:00",
+"src": "Bloomberg",
+"kind": "market",
+"seen": "2026-11-24T05:14:20+00:00"
 },
 {
-"id": "5839de335728",
-"t": "CRWD",
-"title": "CrowdStrike Just Bought Its Way Into the Other Half of Cybersecurity",
-"url": "https://app.moby.co/home/news/news-crowdstrike-just-bought-its-way-into-the-other-half-of-cybersecurity",
-"pub": "2026-11-23T15:27:22+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-23T16:44:03+00:00"
-},
-{
-"id": "98247a216b29",
-"t": "META",
-"title": "Meta AI Chief Issues Stark Warning About Humanity's Future",
-"url": "https://finance.yahoo.com/technology/ai/articles/meta-ai-chief-issues-stark-152611567.html",
-"pub": "2026-11-23T15:26:11+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-23T15:44:40+00:00"
-},
-{
-"id": "550ce415fd63",
-"t": "NVDA",
-"title": "S&P/TSX Composite Index Rises Sharply As Base Metals and Information Technology Sectors Jump",
-"url": "https://finance.yahoo.com/markets/world-indices/articles/p-tsx-composite-index-rises-152558183.html",
-"pub": "2026-11-23T15:25:58+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-23T15:44:40+00:00"
-},
-{
-"id": "27c5bae87fe5",
-"t": "WMT",
-"title": "How Much of Target's Third-Quarter EPS of $2.65 Reflects Core Growth?",
-"url": "https://finance.yahoo.com/markets/stocks/articles/much-targets-third-quarter-eps-152500148.html",
-"pub": "2026-11-23T15:25:00+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-23T17:30:51+00:00"
-},
-{
-"id": "baae8904c879",
-"t": "AVGO",
-"title": "Is Broadcom Stock's Drop A Chance To Buy?",
-"url": "https://www.trefis.com/stock/avgo/articles/627646/is-broadcom-stocks-drop-a-chance-to-buy/2026-11-23",
-"pub": "2026-11-23T15:24:55+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-23T15:44:40+00:00"
+"id": "8deb0fc7b5dc",
+"t": "",
+"title": "Singapore, China to Deepen Yuan Ties With Focus on Corporates",
+"url": "https://www.bloomberg.com/news/articles/2026-11-24/singapore-china-to-deepen-yuan-ties-with-focus-on-corporates",
+"pub": "2026-11-24T04:50:54+00:00",
+"src": "Bloomberg",
+"kind": "market",
+"seen": "2026-11-24T05:14:20+00:00"
 },
 {
 "id": "25f7372c4020",
@@ -8049,6 +8069,26 @@
 "src": "Bloomberg",
 "kind": "market",
 "seen": "2026-11-24T04:44:05+00:00"
+},
+{
+"id": "8dbe641b34b5",
+"t": "",
+"title": "NGN/USD: Nigeria Poised to Hold Rates in Close Call Ahead of Elections",
+"url": "https://www.bloomberg.com/news/articles/2026-11-24/ngn-usd-nigeria-poised-to-hold-rates-in-close-call-ahead-of-elections",
+"pub": "2026-11-24T04:15:00+00:00",
+"src": "Bloomberg",
+"kind": "market",
+"seen": "2026-11-24T05:14:20+00:00"
+},
+{
+"id": "812be4a0be5c",
+"t": "",
+"title": "MSCI Says No Change in Indonesia Market Consultation Process",
+"url": "https://www.bloomberg.com/news/articles/2026-11-24/msci-says-no-change-in-indonesia-market-consultation-process",
+"pub": "2026-11-24T04:13:48+00:00",
+"src": "Bloomberg",
+"kind": "market",
+"seen": "2026-11-24T05:14:20+00:00"
 },
 {
 "id": "681e74310f2e",
@@ -8099,6 +8139,16 @@
 "src": "WSJ",
 "kind": "market",
 "seen": "2026-11-24T03:14:08+00:00"
+},
+{
+"id": "b38d2c50b43f",
+"t": "",
+"title": "Traton SE (8TRA.DE) | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5XWjRjU1R0YXFHc1lWdGw4Q2oxNGh4dldiQ1BUVkRSZkdtcUs1SW9qLTExQTctbGxEMnFQbUF0UGhqUnpMRmRlSWNIZUItVDZqRDBQSkNwQ05PTVVKUWRr?oc=5",
+"pub": "2026-11-24T02:58:54+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-24T05:14:20+00:00"
 },
 {
 "id": "096c6ce45a50",
@@ -8219,6 +8269,16 @@
 "src": "WSJ",
 "kind": "market",
 "seen": "2026-11-24T01:14:35+00:00"
+},
+{
+"id": "27a2c4ab3794",
+"t": "",
+"title": "Osram Licht AG (OSAGF.PK) | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5MT0dhcGxSbjhfZHZiREpWTEp5Q3NkSnUyLUJOZmk2YWY0RHZUU3c1Sm9RbWNGODc3ZmxwNzcwWTI1MHNWa2lWbGtSY3dCUnZNbnRKT3cybmFZY0hWdnhRTGVrZWoyRDNrSU1jcmoxNHc?oc=5",
+"pub": "2026-11-24T00:45:30+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-24T05:14:20+00:00"
 },
 {
 "id": "808095830199",
@@ -10959,66 +11019,6 @@
 "src": "FinancialJuice",
 "kind": "market",
 "seen": "2026-11-23T14:44:39+00:00"
-},
-{
-"id": "c951ab4692b7",
-"t": "",
-"title": "Forint Jumps After Hungary Softens Interest-Rate Guidance",
-"url": "https://www.bloomberg.com/news/articles/2026-11-23/forint-jumps-after-hungary-softens-interest-rate-guidance",
-"pub": "2026-11-23T14:23:04+00:00",
-"src": "Bloomberg",
-"kind": "market",
-"seen": "2026-11-23T14:44:39+00:00"
-},
-{
-"id": "76441e644091",
-"t": "",
-"title": "BoE's Pill: We need to take action now to preserve price stability",
-"url": "https://www.financialjuice.com/News/9864504/BoEs-Pill-We-need-to-take-action-now-to-preserve-price-stability.aspx?xy=rss",
-"pub": "2026-11-23T14:22:32+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-23T14:44:39+00:00"
-},
-{
-"id": "8ff7458e89b9",
-"t": "",
-"title": "Anthropic Committed to Spend $900 Billion. Wall Street Expects Its Debt to Be Junk.",
-"url": "https://www.wsj.com/finance/investing/anthropic-committed-to-spend-900-billion-wall-street-expects-its-debt-to-be-junk-5514d55d",
-"pub": "2026-11-23T14:20:00+00:00",
-"src": "WSJ",
-"kind": "market",
-"seen": "2026-11-23T16:15:46+00:00"
-},
-{
-"id": "91b8bf048ab3",
-"t": "",
-"title": "European Chip Stocks Surge After Nvidia Reinstates Huang as CEO",
-"url": "https://www.wsj.com/finance/stocks/some-underperforming-japan-stocks-may-start-rising-after-strong-results-e6e3f434",
-"pub": "2026-11-23T14:17:00+00:00",
-"src": "WSJ",
-"kind": "market",
-"seen": "2026-11-23T15:29:37+00:00"
-},
-{
-"id": "3c4af30a8f90",
-"t": "",
-"title": "US credit-default risks ease further after Huang reinstatement.",
-"url": "https://www.financialjuice.com/News/9864486/US-credit-default-risks-ease-further-after-Huang-reinstatement.aspx?xy=rss",
-"pub": "2026-11-23T14:16:09+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-23T14:15:52+00:00"
-},
-{
-"id": "cc9a8fb91c15",
-"t": "",
-"title": "Dollar Jumps as Nvidia Reinstates Jensen Huang",
-"url": "https://www.wsj.com/finance/currencies/yen-may-strengthen-vs-dollar-on-diminished-risk-appetite-6434fe7e",
-"pub": "2026-11-23T14:16:00+00:00",
-"src": "WSJ",
-"kind": "market",
-"seen": "2026-11-23T14:20:06+00:00"
 }
 ]
 }
