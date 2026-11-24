@@ -1,6 +1,6 @@
 {
-"updated_kst": "2026-11-24 13:44",
-"rot": 45,
+"updated_kst": "2026-11-24 13:51",
+"rot": 105,
 "how": "Scout(프로그램)이 10분마다 모은 기사 제목·링크와 공시예요. Wren이 공식 출처로 확인한 뒤 회사 화면에 한국어로 반영해요. 본문은 받지 않아요.",
 "sources": {
 "Yahoo Finance": "120종목 확인 · 실패 0",
@@ -10,12 +10,22 @@
 "CNBC": "63건",
 "Bloomberg": "40건",
 "WSJ": "61건",
-"Reuters": "실패 HTTPError",
+"Reuters": "48건",
 "FinancialJuice": "100건",
 "SEC EDGAR": "실패 HTTPError",
 "Fox Business": "50건"
 },
 "items": [
+{
+"id": "7d36937dece0",
+"t": "NVDA",
+"title": "AXT Inc. Just Exploded 24% After a Brutal Losing Streak",
+"url": "https://finance.yahoo.com/markets/stocks/articles/axt-inc-just-exploded-24-044000968.html",
+"pub": "2026-11-24T04:40:00+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-24T04:51:49+00:00"
+},
 {
 "id": "eaf7ba7ee9e7",
 "t": "NVDA",
@@ -2547,6 +2557,16 @@
 "src": "Yahoo Finance",
 "kind": "news",
 "seen": "2026-11-23T23:25:45+00:00"
+},
+{
+"id": "e55f4fef516c",
+"t": "MSFT",
+"title": "Pinterest announces partnership with Microsoft Ads",
+"url": "https://www.socialmediatoday.com/news/pinterest-announces-partnership-with-microsoft-ads/875553/",
+"pub": "2026-11-23T21:10:29+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-24T04:51:49+00:00"
 },
 {
 "id": "9d15ec1720a2",
@@ -8001,24 +8021,14 @@
 "seen": "2026-11-23T15:44:40+00:00"
 },
 {
-"id": "d4496fe936ca",
-"t": "SNOW",
-"title": "Snowflake Stock Rebounds as TD Cowen Backs It Before Earnings",
-"url": "https://finance.yahoo.com/markets/stocks/articles/snowflake-stock-rebounds-td-cowen-152256196.html",
-"pub": "2026-11-23T15:22:56+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-23T16:30:06+00:00"
-},
-{
-"id": "ca2359707f2e",
-"t": "AMD",
-"title": "What Oppenheimer and William Blair See in Advanced Micro Devices (AMD)",
-"url": "https://finance.yahoo.com/markets/stocks/articles/oppenheimer-william-blair-see-advanced-152106413.html",
-"pub": "2026-11-23T15:21:06+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-23T15:29:37+00:00"
+"id": "25f7372c4020",
+"t": "",
+"title": "Treasuries Advance as Cheaper Oil Alleviates Inflation Concerns",
+"url": "https://www.bloomberg.com/news/articles/2026-11-24/treasuries-advance-as-cheaper-oil-alleviates-inflation-concerns",
+"pub": "2026-11-24T04:42:33+00:00",
+"src": "Bloomberg",
+"kind": "market",
+"seen": "2026-11-24T04:51:49+00:00"
 },
 {
 "id": "2dba20bb39bf",
@@ -8171,6 +8181,16 @@
 "seen": "2026-11-24T01:43:39+00:00"
 },
 {
+"id": "706bb81379c1",
+"t": "",
+"title": "Geberit AG (GBRFy.D) | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5OckVuMXdITFZHR1RQUXRMMHpiWWJuNlk5cGk0US1ESE1IVkd1MkhQTDd0cVhMUjNZMFd2d1hpTUQwLWE5VEhqLUR6LTg2ckRSNmJfNVdReHBTQWdHaDBwcEdyYlEyUnRDa2pPQlVR?oc=5",
+"pub": "2026-11-24T01:05:41+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-24T04:51:49+00:00"
+},
+{
 "id": "8d02763cc52e",
 "t": "",
 "title": "R099.TWO%5EB02 - | Stock Price & Latest News - Reuters",
@@ -8229,6 +8249,16 @@
 "src": "Reuters",
 "kind": "market",
 "seen": "2026-11-24T04:14:27+00:00"
+},
+{
+"id": "e76253365a27",
+"t": "",
+"title": "QEKM.BE%5EF08 - | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNV1hZRUJJV3pZZGtqc3N4cEpVRUJhWE8zeXhtOE05R18wdVJiWDJMdV9HcUgzV3VZQjB3Q21jbHZSaEt6ZkM5SmNNOXhvV3VMczVXc2FqbWpVejRrMmQzQlQ2UkZkdlRGLUJZNFVjQW1yNmdveUlqNkU0QjRLZ2VyUHl5Z0Y5OTRoYzh0ek05UQ?oc=5",
+"pub": "2026-11-24T00:44:14+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-24T04:51:49+00:00"
 },
 {
 "id": "51f98fac35b3",
@@ -10989,36 +11019,6 @@
 "src": "WSJ",
 "kind": "market",
 "seen": "2026-11-23T14:20:06+00:00"
-},
-{
-"id": "1222d9c691ab",
-"t": "",
-"title": "India Working to Resolve Scotch Whisky Dispute, Official Says",
-"url": "https://www.bloomberg.com/news/articles/2026-11-23/india-working-to-resolve-scotch-whisky-dispute-official-says",
-"pub": "2026-11-23T14:13:05+00:00",
-"src": "Bloomberg",
-"kind": "market",
-"seen": "2026-11-23T14:44:39+00:00"
-},
-{
-"id": "fade1ca0168b",
-"t": "",
-"title": "Trump: The US has no reason to believe Jensen's return poses a risk. The Attorney General of the United States has confirmed that the US government does not possess evidence that he has engaged in any unlawful conduct. $NVDA",
-"url": "https://www.financialjuice.com/News/9864481/Trump-The-US-has-no-reason-to-believe-Jensens-return-poses-a-risk-The-Attorney-General-of-the-United-States-has-confirmed-that-the-US-government-does-not-possess-evidence-that-he-has-engaged-in-any-unlawful-conduct-NVDA.aspx?xy=rss",
-"pub": "2026-11-23T14:08:40+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-23T14:15:52+00:00"
-},
-{
-"id": "dd8f7dcb6da6",
-"t": "",
-"title": "Trump: Nvidia should continue internal probe. $NVDA",
-"url": "https://www.financialjuice.com/News/9864479/Trump-Nvidia-should-continue-internal-probe-NVDA.aspx?xy=rss",
-"pub": "2026-11-23T14:07:59+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-23T14:15:52+00:00"
 }
 ]
 }
