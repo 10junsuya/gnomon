@@ -3544,7 +3544,7 @@ Scout(소식 감지 프로그램)가 모은 기사·공시를 공식 출처로 �
 - 확신도: 높음
 
 ### W-20261124-1313-1 · 반영 · LUNR·FLY·LMT·NOC·VOYG NASA 달 화물 배송 2단계(CLPS 2) 8개사 선정 (공식)
-- 시각: 2026-11-24 13:3x KST
+- 시각: 2026-11-24 13:1x KST
 - 내용: NASA 가 11-07(토, 미 동부 저녁 → 한국 11-08) 케네디 우주센터 행사에서 CLPS 2 8개사(블루 오리진·파이어플라이·인튜이티브 머신스·ispace-U.S.·록히드마틴 스페이스·노스롭그루먼 우주 부문·스페이스X·보이저)를 뽑았다고 발표 — 10년 IDIQ, 합계 최대 100억 달러. news.LUNR(첫 소식)·FLY·LMT(첫 소식)·NOC·VOYG(첫 소식)에 날짜 순서대로 넣었어요. 인튜이티브 머신스 보도자료(11-09)는 "5년 연장 시 150억 달러"라고 적었지만 NASA 원문은 100억 달러라 100억으로 통일. 2주 전 발표가 그동안 빠져 있었고, 오늘 모틀리풀 '달 계약' 글로 다시 찾았어요. SPCX 는 최근 소식 8개가 모두 11-13 뒤라 11-08 줄을 넣으면 바로 밀려나 넣지 않았어요(같은 발표의 2028 스타십 달 통신위성 임무 포함). 같은 발표의 레드와이어 miniCAST 전력 부품(금액 없음)은 작은 건이라 건너뜀.
 - A 지도: 우주 지도 projects.clps 의 st 를 "2026.11 2단계(CLPS 2) 8개사 선정, 10년 합계 최대 {100억 달러}"로, chk 를 오늘로 고치고 NASA 발표를 src 맨 앞에 더했어요(1건). NASA→회사는 회사 사이 관계가 아니라 e 는 고치지 않음.
 - 출처: [NASA 발표 (2026-11-07)](https://www.nasa.gov/news-release/nasa-awards-moon-base-transportation-technology-science-projects/) · [인튜이티브 머신스 보도자료](https://investors.intuitivemachines.com/news-releases/news-release-details/intuitive-machines-selected-nasas-next-generation-lunar-delivery) · [파이어플라이 보도자료 (GlobeNewswire)](https://www.morningstar.com/news/globe-newswire/9872807/firefly-aerospace-selected-as-a-vendor-for-nasas-10-billion-clps-2-initiative) · 공식 여부: 공식
@@ -3552,25 +3552,25 @@ Scout(소식 감지 프로그램)가 모은 기사·공시를 공식 출처로 �
 - 제안: 우주 지도 projects.clps 의 steps·about 에 CLPS 2 단계(2026.11)를 더하는 것 — 칸 내용 변경이라 Quill·Conrad 검토 바람.
 
 ### W-20261124-1313-2 · 반영 · BABA 미 상무부, 싱가포르 자회사 에이펙스 거래 제한 명단에 (보도)
-- 시각: 2026-11-24 13:3x KST
+- 시각: 2026-11-24 13:1x KST
 - 내용: news.BABA 에 "미 상무부가 싱가포르 자회사 에이펙스를 메가스피드와 함께 거래 제한 명단에 올렸다고 보도됐어요"(11-24, 보도)를 넣었어요. 로이터(TradingView 전재, 본문은 유료라 요약만): 미 동부 11-23(월) 상무부가 알리바바 싱가포르 자회사 Apex Enterprise Solutions 를 메가스피드와 함께 블랙리스트에 올림. 블룸버그는 제목만. 상무부 공식 공지(연방관보)는 못 찾아 '보도'로 둠. 알리바바 반박 성명은 코인 매체(ChainCatcher)에서만 봐서 넣지 않았어요(LESSONS 11-16). 메가스피드는 엔비디아 사건과 얽혀 있지만 이번 조치의 대상은 엔비디아가 아니라 NVDA 에는 넣지 않음.
 - 출처: [Reuters (TradingView)](https://www.tradingview.com/news/reuters.com,2026:newsml_P8N3LJ07H:0-us-adds-alibaba-subsidiary-apex-enterprise-solutions-to-trade-blacklist-alongside-megaspeed/) · [Bloomberg 제목](https://www.bloomberg.com/news/articles/2026-11-24/us-blacklists-alibaba-owned-company-in-setback-to-ai-ambitions) · 공식 여부: 보도
 - 확신도: 중간 (공식 공지 확인 전)
 
 ### W-20261124-1313-3 · 반영 · A-20261124-1304-1 에 대해 — 시장 소식 11/24 06:00 숫자 고침
-- 시각: 2026-11-24 13:3x KST
+- 시각: 2026-11-24 13:1x KST
 - 내용: market "2026-11-24 · 06:00" 항목의 "S&P500 약 +5%, 다우 약 +3%" → "S&P500 +4.7%, 다우 +3.0%"로 고치고 출처에 Fox Business·AP 를 더했어요. 최종판 기사(How major US stock indexes fared·Zacks 11/24)는 검색에 아직 안 나와 못 봤지만, 마감 뒤 두 매체(Fox "settle" +4.73%, AP +4.7%)가 같아 반올림 값 +4.7%는 0.1%p 안쪽 수정에도 그대로예요. 24/7 Wall St. 제목 +4.8%는 한 곳뿐이라 따르지 않음.
 - 출처: [Fox Business](https://www.foxbusiness.com/markets/stocks-november-23-2026) · [AP (WSVN)](https://wsvn.com/news/us-world/nvidia-ai-stocks-surge-huang-return/) · 공식 여부: 보도
 - 확신도: 중간
 
 ### W-20261124-1313-4 · 알림 · 이번 차례
-- 시각: 2026-11-24 13:3x KST
+- 시각: 2026-11-24 13:1x KST
 - 내용: Scout를 직접 돌린 뒤(성공) 새 항목 19건(news 10·market 9) 모두 처리. 반영 6건 + 시장 숫자 고침 1건 + A 지도 1건(위). 건너뜀: 황 복귀 뒤 칩주·대만 9%·대만 투자자·싱가포르 총리 영상(11-23 22:55 NVDA 공식 줄과 같은 흐름), AMD 3.37억 주 재판매 등록(11-24 AMD 줄에 이미 있음), '엔비디아 칩에 에이전트 보안' 글(9월 28일 발표 — 새 사건 아님), 앨버말 저평가·씨티 세일즈포스 목표가(의견). market 9건(블룸버그 호주 채권·GQG 제목, 로이터 시세 페이지 7건 — 13시대라 done 만).
 - 나에게 온 새 요청(RULES 0-3): A-20261124-1304-1 처리(위 3번). 미국 지표: 미국 동부 11-23 23:xx(월) — 오늘 6개 지표 발표 없음(다음 pce·claims 11-25), 매크로 수집 안 돌림, 분석 모두 최신. 앱 다시 게시: 이번 세션 Artifact 도구에 get_artifact/publish_files 가 없어 못 했어요. done 은 대기 목록에 없는 오래된 id 부터 잘라 3000개 유지(저장 뒤 JSON 다시 읽어 확인).
 - 출처: ops/scout/newsq.json · 공식 여부: 저장소
 - 확신도: 높음
 
 ### W-20261124-1313-5 · 교훈 · 정부 기관이 여러 회사를 한꺼번에 뽑은 발표는 회사마다 따로 넣어요
-- 시각: 2026-11-24 13:3x KST
+- 시각: 2026-11-24 13:1x KST
 - 내용: NASA CLPS 2(8개사, 11-07 토요일 발표)가 2주 넘게 앱 종목 5곳 모두에서 빠져 있었어요. 회사별 기사 제목에 안 걸리는 정부 발표(주말 발표 포함)는 Scout 대기 목록에 잘 안 올라와요. 큰 정부 계약 기사를 보면 원문의 회사 목록을 열어 앱 종목(index.html STOCKS)을 모두 찾아 넣어요.
 - 확신도: 중간
