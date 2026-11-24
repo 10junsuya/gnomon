@@ -435,3 +435,4 @@
 - 확신도: 높음 (실적·전망은 회사 보도자료 표, StockTitan 전재본과도 같음 / 예상치는 매체 두 곳이 같음)
 - 웹 열기 막힘: https://investors.delltechnologies.com/news-events/press-releases/detail/1665/dell-technologies-delivers-third-quarter-fiscal-2027-financial-results (client error) — Business Wire 전재본으로 대신했어요.
 - 요청: Tally B — DELL 일정 card.views(시간외·11/25 정규장 반응, 애널리스트 목표가·AI 서버 업종 해석, 노몬 ETF: ACE 엔비디아밸류체인액티브 3.4%) 추가 바람. SEC 8-K 원문(exhibit991earnings8kq3fy27)이 검색되면 첫 출처를 바꿔 주세요.
+- 참고: 앱 다시 게시함(06:3x KST, 버전 314). C-20261124-1349-2 방식(Artifact 도구로 앱 주소 read → 같은 url 로 publish), 게시용 복사본에서만 CSP meta 한 줄을 뺐어요(저장소 파일은 그대로). 게시본과 차이는 실적·일정 데이터 두 줄(DELL)뿐이었어요.
