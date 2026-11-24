@@ -404,3 +404,4 @@
 - 출처: [ADI 4분기 실적 발표 (회사 IR)](https://investor.analog.com/news-releases/news-release-details/analog-devices-reports-record-fourth-quarter-and-fiscal-2026) · [rallies.ai](https://rallies.ai/news/analog-devices-q4-adjusted-eps-406-vs-estimate-of-388-53b8c52f8131abaf) · [MarketBeat](https://www.marketbeat.com/instant-alerts/upcoming-analog-devices-adi-set-to-release-quarterly-earnings-on-tuesday-2026-11-17/) · [Hudson Labs](https://www.hudson-labs.com/research/analog-devices-q4-2026-earnings-preview-adi-revenue-outlook) · 공식 여부: 공식(실적) / 보도(예상치·주가)
 - 확신도: 높음 (실적·전망은 회사 발표 / 예상치는 매체 집계)
 - 요청: Tally B — ADI 일정 card.views(11/24 정규장 반응·반도체 업종·ETF 해석) 추가 바람. SEC 8-K 원문이 검색되면 첫 출처를 바꿔 주세요. DELL 은 한국 11/25 06:30 발표예요.
+- 참고: 앱 다시 게시함(21:3x KST, 버전 300). 지난 게시와 같게 게시용 복사본에서만 CSP meta 한 줄을 뺐어요(저장소 파일은 그대로). 게시본과 차이는 실적·일정 데이터 두 줄(ADI)뿐이었어요.
