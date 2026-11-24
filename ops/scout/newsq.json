@@ -1,6 +1,6 @@
 {
-"updated_kst": "2026-11-24 09:14",
-"rot": 101,
+"updated_kst": "2026-11-24 09:22",
+"rot": 161,
 "how": "Scout(프로그램)이 10분마다 모은 기사 제목·링크와 공시예요. Wren이 공식 출처로 확인한 뒤 회사 화면에 한국어로 반영해요. 본문은 받지 않아요.",
 "sources": {
 "Yahoo Finance": "120종목 확인 · 실패 0",
@@ -10,12 +10,42 @@
 "CNBC": "63건",
 "Bloomberg": "40건",
 "WSJ": "61건",
-"Reuters": "100건",
+"Reuters": "49건",
 "FinancialJuice": "100건",
 "SEC EDGAR": "실패 HTTPError",
 "Fox Business": "50건"
 },
 "items": [
+{
+"id": "42b0b8d32f5f",
+"t": "NVDA",
+"title": "Central Garden & Pet Q4 Earnings Call Highlights",
+"url": "https://www.marketbeat.com/instant-alerts/transcript-central-garden-pet-q4-earnings-call-highlights-2026-11-23/",
+"pub": "2026-11-24T00:12:37+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-24T00:22:48+00:00"
+},
+{
+"id": "a2e2fac9a853",
+"t": "PLTR",
+"title": "Zeta Global Targets $2.3 Billion in 2028 Revenue as Organic Growth Accelerates",
+"url": "https://www.marketbeat.com/instant-alerts/event-zeta-global-targets-23-billion-in-2028-revenue-as-organic-growth-accelerates-2026-11-23/",
+"pub": "2026-11-24T00:12:37+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-24T00:22:48+00:00"
+},
+{
+"id": "da137325d65d",
+"t": "SPCX",
+"title": "Cathie Wood Swapped Nvidia for SpaceX Over the Risk of “Losing Jensen.” Now Jensen’s Back",
+"url": "https://247wallst.com/investing/2026/11/23/cathie-wood-swapped-nvidia-for-spacex-over-the-risk-of-losing-jensen-now-jensens-back/",
+"pub": "2026-11-24T00:07:46+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-24T00:22:48+00:00"
+},
 {
 "id": "2526b08d40c3",
 "t": "NVDA",
@@ -25,6 +55,26 @@
 "src": "Yahoo Finance",
 "kind": "news",
 "seen": "2026-11-24T00:14:30+00:00"
+},
+{
+"id": "90b6d0be98ae",
+"t": "NVDA",
+"title": "Jensen Huang’s Return Sent Nvidia Soaring 31%. Here’s What It Means for a Retiree Who Has to Pull Money Out of an IRA Holding the Stock by Dec. 31",
+"url": "https://247wallst.com/investing/2026/11/23/jensen-huangs-return-sent-nvidia-soaring-31-heres-what-it-means-for-a-retiree-who-has-to-pull-money-out-of-an-ira-holding-the-stock-by-dec-31/",
+"pub": "2026-11-24T00:07:00+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-24T00:22:48+00:00"
+},
+{
+"id": "076a92f326f5",
+"t": "NVDA",
+"title": "Why Motorola's Premium Over Cisco Is Harder To Justify",
+"url": "https://www.trefis.com/stock/msi/articles/627543/why-motorola-s-premium-over-cisco-is-harder-to-justify/2026-11-23",
+"pub": "2026-11-24T00:02:46+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-24T00:22:48+00:00"
 },
 {
 "id": "9f517c8961a6",
@@ -45,6 +95,26 @@
 "src": "Yahoo Finance",
 "kind": "news",
 "seen": "2026-11-24T00:14:30+00:00"
+},
+{
+"id": "d2edae3778aa",
+"t": "MU",
+"title": "Own HP Stock? Memory Costs Are The Risk",
+"url": "https://www.trefis.com/stock/hpq/articles/627662/own-hp-stock-memory-costs-are-the-risk/2026-11-23",
+"pub": "2026-11-23T23:58:29+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-24T00:22:48+00:00"
+},
+{
+"id": "42ae2d768c68",
+"t": "NVDA",
+"title": "Where the AI Trade Goes After Jensen Huang",
+"url": "https://finance.yahoo.com/m/016acd67-c9d7-3842-a43f-a79f3eae6363/where-the-ai-trade-goes-after.html",
+"pub": "2026-11-23T23:58:00+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-24T00:22:48+00:00"
 },
 {
 "id": "9b66227b1f90",
@@ -157,6 +227,16 @@
 "seen": "2026-11-24T00:14:30+00:00"
 },
 {
+"id": "ab2f83ff7578",
+"t": "JPM",
+"title": "Forget JPMorgan: Upstart Has More to Lose From a 10% Card Rate Cap",
+"url": "https://www.tikr.com/blog/forget-jpmorgan-upstart-has-more-to-lose-from-a-10-card-rate-cap",
+"pub": "2026-11-23T23:31:38+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-24T00:22:48+00:00"
+},
+{
 "id": "7a57d0895802",
 "t": "SPCX",
 "title": "Forget AT&T and Verizon: Crown Castle Has More to Lose From Starlink’s 40x Upgrade",
@@ -245,6 +325,16 @@
 "src": "Yahoo Finance",
 "kind": "news",
 "seen": "2026-11-23T23:13:36+00:00"
+},
+{
+"id": "ff5dac6ad2f4",
+"t": "GS",
+"title": "Peloton stock rises on $300M share buyback authorization",
+"url": "https://finance.yahoo.com/markets/stocks/articles/peloton-stock-rises-300m-share-225742929.html",
+"pub": "2026-11-23T22:57:42+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-24T00:22:48+00:00"
 },
 {
 "id": "358205f17517",
@@ -7930,94 +8020,34 @@
 "seen": "2026-11-23T15:29:37+00:00"
 },
 {
-"id": "d77494b5b834",
-"t": "V",
-"title": "Visa Launches New A.I. Agent Wallet",
-"url": "https://www.cryptoprowl.com/releases/visa-launches-new-ai-agent-wallet-8025",
-"pub": "2026-11-23T14:34:00+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-23T15:16:45+00:00"
+"id": "f28a8309d9c8",
+"t": "",
+"title": "US Senate Probes Vance Role in Vitol Choice for Venezuela Oil",
+"url": "https://www.bloomberg.com/news/articles/2026-11-24/us-senate-probes-vance-role-in-vitol-choice-for-venezuela-oil",
+"pub": "2026-11-24T00:11:51+00:00",
+"src": "Bloomberg",
+"kind": "market",
+"seen": "2026-11-24T00:22:48+00:00"
 },
 {
-"id": "9a877797ddf0",
-"t": "MPWR",
-"title": "Vicor Stock Drops 36% in a Month: Should You Still Buy it on the Dip?",
-"url": "https://finance.yahoo.com/markets/stocks/articles/vicor-stock-drops-36-month-143400133.html",
-"pub": "2026-11-23T14:34:00+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-23T16:15:46+00:00"
+"id": "bad0fc120958",
+"t": "",
+"title": "Gold Holds Gain After Nvidia’s Rehiring of Huang Sparks Rally",
+"url": "https://www.bloomberg.com/news/articles/2026-11-24/gold-holds-gain-after-nvidia-s-rehiring-of-huang-sparks-rally",
+"pub": "2026-11-24T00:06:57+00:00",
+"src": "Bloomberg",
+"kind": "market",
+"seen": "2026-11-24T00:22:48+00:00"
 },
 {
-"id": "94e77d0ef591",
-"t": "MU",
-"title": "Can Micron Stock Jump 50%?",
-"url": "https://www.trefis.com/stock/mu/articles/627563/can-micron-stock-jump-50/2026-11-23",
-"pub": "2026-11-23T14:33:58+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-23T15:16:45+00:00"
-},
-{
-"id": "c1a82e21d10b",
-"t": "STX",
-"title": "SK Hynix Soars 8%, Sandisk Up 6% as Memory Stocks Rebound From AI Rout",
-"url": "https://www.tikr.com/blog/sk-hynix-soars-8-sandisk-up-6-as-memory-stocks-rebound-from-ai-rout",
-"pub": "2026-11-23T14:33:55+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-23T14:44:39+00:00"
-},
-{
-"id": "c001a597cb68",
-"t": "META",
-"title": "Wall Street Is Watching AI Stocks. But This Stock Could Be a Bigger Nuclear Energy Opportunity",
-"url": "https://247wallst.com/investing/2026/11/23/wall-street-is-watching-ai-stocks-but-this-stock-could-be-a-bigger-nuclear-energy-opportunity/",
-"pub": "2026-11-23T14:33:23+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-23T14:44:39+00:00"
-},
-{
-"id": "bd8746d2cb85",
-"t": "CRWV",
-"title": "Applied Digital Soars 27% on 18-Year Hyperscaler Lease as Potential Revenue “Nears $100 Billion”",
-"url": "https://www.tikr.com/blog/applied-digital-soars-27-on-18-year-hyperscaler-lease-as-potential-revenue-nears-100-billion",
-"pub": "2026-11-23T14:33:00+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-23T14:44:39+00:00"
-},
-{
-"id": "faabd6dc1c3b",
-"t": "PG",
-"title": "Take the Zacks Approach to Beat the Markets: BRK.B, VRA & ULTA",
-"url": "https://finance.yahoo.com/markets/stocks/articles/zacks-approach-beat-markets-brk-143300578.html",
-"pub": "2026-11-23T14:33:00+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-23T16:15:46+00:00"
-},
-{
-"id": "3becf9189e0a",
-"t": "VZ",
-"title": "4 Dividend Stocks Yielding 5% to 10% That Pay You Tax-Free in a Roth IRA",
-"url": "https://247wallst.com/investing/2026/11/23/4-dividend-stocks-yielding-5-to-10-that-pay-you-tax-free-in-a-roth-ira/",
-"pub": "2026-11-23T14:32:13+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-23T15:16:45+00:00"
-},
-{
-"id": "e98799514ee1",
-"t": "ASX",
-"title": "UMC Soars 21%, ASE Up 23% as Taiwan Bans Short Sales to Halt AI Chip Rout",
-"url": "https://www.tikr.com/blog/umc-soars-21-ase-up-23-as-taiwan-bans-short-sales-to-halt-ai-chip-rout",
-"pub": "2026-11-23T14:32:11+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-23T15:16:45+00:00"
+"id": "9255b22310cb",
+"t": "",
+"title": "Singapore raises 2026 growth forecast after 6.1% Q3 expansion - Reuters",
+"url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNd2VwWDRoVWNubmU1eTdrRlRGUWdjd1lQLWpCVlQtVGZyWHR3LTFsSC1PekZvVHlVUk9CbkdJVXlEUG0zRzJ5SzUwMmFjcVpSZ3NHYzlrS3RCR1lGT3c5TEIyWXVJWExRZ3VJSVpVSXZrMmVYUEU1OEZMYlNkYjdmSFNHMTlJTnItcnBVOXlR?oc=5",
+"pub": "2026-11-24T00:06:00+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-24T00:22:48+00:00"
 },
 {
 "id": "f8c784a37a76",
@@ -8118,6 +8148,16 @@
 "src": "WSJ",
 "kind": "market",
 "seen": "2026-11-23T22:44:37+00:00"
+},
+{
+"id": "cc268f0bd61b",
+"t": "",
+"title": "Saipem SpA (SPMI.MI) | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE05cHhtTmdZVVpSMWMtekVGWHMzLVJ4UUpvQ0Q4NkhHWVVScFdiRHdQWlVOS2REcUd4b3ZtRERMNlhGZXAwb1kxWFFWbjNBV1FRVEh5OHRJQlViVXBncUln?oc=5",
+"pub": "2026-11-23T22:17:35+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-24T00:22:48+00:00"
 },
 {
 "id": "2a07c6fbad99",
@@ -8928,6 +8968,16 @@
 "src": "Reuters",
 "kind": "market",
 "seen": "2026-11-23T23:25:45+00:00"
+},
+{
+"id": "655678bb419e",
+"t": "",
+"title": "6998.JSFx - | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNS2pBSWVvNzZtTW05TTBDSXJRdUlFZ3FvUnllRmJET2hOb1ZtbThuS2ptdGFZLXRmdW1tSkpYMzMtUXdXNzBfajNpeGI0X1l5U05wTGdfLS1vTUhXTjB4cnNESGJOMzJxaHVfem5rSmFmTEpreHJsVHJWYktLRm9XWDJ3VjRCME45Z0E?oc=5",
+"pub": "2026-11-23T19:27:24+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-24T00:22:48+00:00"
 },
 {
 "id": "f08c736fc53a",
@@ -10968,56 +11018,6 @@
 "src": "WSJ",
 "kind": "market",
 "seen": "2026-11-23T13:22:08+00:00"
-},
-{
-"id": "b7cc8fe82f8b",
-"t": "",
-"title": "ORIX CORPORATION (OIXA.F) | Stock Price & Latest News - Reuters",
-"url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5NUzI4Yzl4aHpIYzJUeUhzMmNYX01MYVBOVFNKSkRTM3ZYTjhKY1R0Y1pQYng5NnFlSGxhZ2F4d2VoMnYwVElEa0dtbG9SZk9vZHRRX0NPRWctR1Jwc3B3MDVoT0YzdWlEVV9DSkRR?oc=5",
-"pub": "2026-11-23T13:12:33+00:00",
-"src": "Reuters",
-"kind": "market",
-"seen": "2026-11-23T19:14:46+00:00"
-},
-{
-"id": "bdf16c39266a",
-"t": "",
-"title": "603808.SSh - | Stock Price & Latest News - Reuters",
-"url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPTkFQOWFpRTNQRnNWVU5LWFR6aXNWVGx6aXZrOXk0dUxBZl9hUjhxWXRXMUFBQWVuRFhkTThJcnk2aFVDRDNUWWtoVTNkRDFCYzVVWHp2bmhrODlSRURjVGxUaHZrTS1rZWM1dmF1MnBjRGJsbXVDaXczN2RtdFBLNmVCaGY3OVNDMU1aNA?oc=5",
-"pub": "2026-11-23T13:12:30+00:00",
-"src": "Reuters",
-"kind": "market",
-"seen": "2026-11-23T19:44:23+00:00"
-},
-{
-"id": "dd2da38c8243",
-"t": "",
-"title": "Mission Bancorp (MSBC.PK) | Stock Price & Latest News - Reuters",
-"url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB4OFJqczZsd3pfb2tFWUc0cW45UGU3SE9nVVY4blBLZTZ4WWUxNUdpVldfZmRRay1wR3pVNE9WZjBFRE1yZndRZkU0UFI4MTJxeHJWcDlqRHU3Qlg4X1Y1LXlYYS1JREpydEo4Qnh5SQ?oc=5",
-"pub": "2026-11-23T13:12:23+00:00",
-"src": "Reuters",
-"kind": "market",
-"seen": "2026-11-23T23:13:36+00:00"
-},
-{
-"id": "e9f838d90224",
-"t": "",
-"title": "Hippo Holdings Inc (HIPO.N) | Stock Price & Latest News - Reuters",
-"url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE16MFVsby02WjlNbHVsRG95aktmYVlSZ3dmbzc5YWRjQzNEWWh0S0tEc2JHSWd4YXg3c1FZclB0SUNNeDk0QTZldVdRa190SHRId1phNWN1cS1telFlcTl1TFJVR3RUOUxCazRHci1n?oc=5",
-"pub": "2026-11-23T13:12:11+00:00",
-"src": "Reuters",
-"kind": "market",
-"seen": "2026-11-23T16:44:03+00:00"
-},
-{
-"id": "a02eeb567bb3",
-"t": "",
-"title": "601615ta.SS - | Stock Price & Latest News - Reuters",
-"url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1wX3AwTjBVYndIY3FpWHUxWGdQQTItYWcwbHlvWjRSSkliMlRUUVZJcXdVRWNCX2swZUJXaFVxbUpSa2dOVExpWlAwb2Etaks1UEw0RXlfZjFJaEhnUkF0MXJkM3lBM0EwbTFHZE0tU2p3NnVo?oc=5",
-"pub": "2026-11-23T13:11:35+00:00",
-"src": "Reuters",
-"kind": "market",
-"seen": "2026-11-23T19:44:23+00:00"
 }
 ]
 }
