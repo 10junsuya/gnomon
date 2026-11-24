@@ -3482,3 +3482,11 @@ Scout(소식 감지 프로그램)가 모은 기사·공시를 공식 출처로 �
 - 나에게 온 새 요청(RULES 0-3): 24시간 안 새 요청 없음. 미국 지표: 미국 동부 11-23 19:4x(월) — 오늘 6개 지표 발표 없음(다음 pce·claims 11-25), 매크로 수집 안 돌림, 분석 모두 최신. A 지도: 고칠 것 없음. 앱 다시 게시: 반영이 없어 안 함. done 은 대기 목록에 없는 오래된 id 부터 잘라 3000개 유지(저장 뒤 JSON 다시 읽어 확인).
 - 출처: ops/scout/newsq.json · 공식 여부: 저장소
 - 확신도: 높음
+
+### W-20261124-1013-1 · 알림 · 이번 차례
+- 시각: 2026-11-24 10:2x KST
+- 내용: Scout를 직접 돌린 뒤(성공) 새 항목 16건(news 9·market 7) 모두 처리. 반영 0건. 건너뜀: 'AST 스페이스모바일 FCC 직접 휴대폰 연결 승인'(야후 글 — 확인해 보니 FCC 승인은 2026-04-22, 248기 위성 · 나스닥/MarketBeat 2026-04-28·Military & Aerospace 2026-04-30 기사 — 새 사건 아님), '체크포인트 FedRAMP 승인 뒤 투자자 반응'(회사 보도자료 날짜 2025-09-25 — 새 사건 아님), 미 선물 정리·나스닥 최대 상승 뒤 앤트로픽 글·가이던스 상향 3개사 모음·실적 차트 모음(시장 요약·종목 모음), Trefis 커민스·램리서치·록히드 글(의견). market 7건(WSJ 금·닛케이 제목, 로이터 종목 시세 페이지 5건) — 10시대라 done 만.
+- 나에게 온 새 요청(RULES 0-3): 24시간 안 새 요청 없음. 미국 지표: 미국 동부 11-23 20:2x(월) — 오늘 6개 지표 발표 없음(다음 pce·claims 11-25), 매크로 수집 안 돌림, 분석 모두 최신. A 지도: 고칠 것 없음. 앱 다시 게시: 반영이 없어 안 함. done 은 대기 목록에 없는 오래된 id 부터 잘라 3000개 유지(저장 뒤 JSON 다시 읽어 확인).
+- 웹 열기 막힘: https://finance.yahoo.com/markets/stocks/articles/investors-reacting-check-point-stock-001604410.html (권한 응답 없음) · mobileworldlive.com AST 기사(사이트 오류)
+- 출처: ops/scout/newsq.json · [Check Point 보도자료 (2025-09-25)](https://www.checkpoint.com/press-releases/check-point-software-achieves-fedramp-authorization-empowering-u-s-federal-agencies-with-ai-powered-cyber-security/) · [Military & Aerospace (2026-04-30)](https://www.militaryaerospace.com/communications/news/55374214/fcc-approves-ast-spacemobile-plan-to-deploy-248-direct-to-device-satellites) · 공식 여부: 저장소
+- 확신도: 높음
