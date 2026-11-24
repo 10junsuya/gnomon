@@ -1,21 +1,51 @@
 {
-"updated_kst": "2026-11-24 15:44",
-"rot": 47,
+"updated_kst": "2026-11-24 15:58",
+"rot": 107,
 "how": "Scout(프로그램)이 10분마다 모은 기사 제목·링크와 공시예요. Wren이 공식 출처로 확인한 뒤 회사 화면에 한국어로 반영해요. 본문은 받지 않아요.",
 "sources": {
-"Yahoo Finance": "119종목 확인 · 실패 1",
-"GlobeNewswire": "실패 HTTPError",
+"Yahoo Finance": "120종목 확인 · 실패 0",
+"GlobeNewswire": "0건",
 "PR Newswire": "0건",
 "Business Wire": "0건",
 "CNBC": "63건",
 "Bloomberg": "40건",
 "WSJ": "61건",
-"Reuters": "100건",
+"Reuters": "50건",
 "FinancialJuice": "100건",
 "SEC EDGAR": "실패 HTTPError",
 "Fox Business": "50건"
 },
 "items": [
+{
+"id": "5a32cfca1ede",
+"t": "NVDA",
+"title": "Bitcoin And Stocks Are Moving In Different Directions: Arthur Hayes Says Nvidia's Rally Is The 'Worst Thing' For Crypto",
+"url": "https://stocktwits.com/news-articles/markets/cryptocurrency/arthur-hayes-nvidia-rally-bitcoin-november-selloff/cNbrzA2R9k3",
+"pub": "2026-11-24T06:45:25+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-24T06:58:39+00:00"
+},
+{
+"id": "254be7f8cf53",
+"t": "NVDA",
+"title": "Bitcoin hovers around $60k amid little relief from rate, regulatory jitters",
+"url": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-hovers-around-60k-amid-064423052.html",
+"pub": "2026-11-24T06:44:23+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-24T06:58:39+00:00"
+},
+{
+"id": "095f578cb9f5",
+"t": "AMGN",
+"title": "Biotech Loses Ground In November’s Market Slide — These 5 Stocks Bucked The Selloff As Lilly, AbbVie And Amgen Fell",
+"url": "https://stocktwits.com/news-articles/markets/equity/biotech-loses-ground-november-5-stocks-bucked-selloff-lilly-abb-vie-amgen-fell/cNbrzF5R9kd",
+"pub": "2026-11-24T06:41:55+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-24T06:58:39+00:00"
+},
 {
 "id": "3ebf3ed6c773",
 "t": "SPCX",
@@ -1165,6 +1195,16 @@
 "src": "Yahoo Finance",
 "kind": "news",
 "seen": "2026-11-24T00:44:21+00:00"
+},
+{
+"id": "42f3c9730101",
+"t": "MRK",
+"title": "This Healthcare Stock Just Raised Its Dividend by 3.5%",
+"url": "https://www.barchart.com/story/news/8975533/this-healthcare-stock-just-raised-its-dividend-by-3-5",
+"pub": "2026-11-24T00:30:02+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-24T06:58:39+00:00"
 },
 {
 "id": "962936edf2e5",
@@ -7981,44 +8021,24 @@
 "seen": "2026-11-23T16:15:46+00:00"
 },
 {
-"id": "4a3ac4ddc411",
-"t": "APLD",
-"title": "Needham keeps Applied Digital at Buy with $70 target after ChronoScale’s $43.7 billion contract",
-"url": "https://blockspace.media/insight/applied-digital-needham-price-target/",
-"pub": "2026-11-23T15:42:33+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-24T03:14:08+00:00"
+"id": "f3293a6f8189",
+"t": "",
+"title": "Sanofi to Buy Insmed for $41.0 Billion",
+"url": "https://www.wsj.com/business/deals/sanofi-to-buy-insmed-for-41-0-billion-36d6b07d",
+"pub": "2026-11-24T06:54:00+00:00",
+"src": "WSJ",
+"kind": "market",
+"seen": "2026-11-24T06:58:39+00:00"
 },
 {
-"id": "ee731fe2b841",
-"t": "INTC",
-"title": "Intel Leads A List Of Stocks Winning Over New Hedge Fund Fans",
-"url": "https://finance.yahoo.com/markets/stocks/articles/intel-leads-list-stocks-winning-154214710.html",
-"pub": "2026-11-23T15:42:14+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-23T16:15:46+00:00"
-},
-{
-"id": "78eea4f7eac9",
-"t": "NBIS",
-"title": "Michael Burry’s Latest Top 10 Stock Picks Amid AI Crash",
-"url": "https://finance.yahoo.com/markets/stocks/articles/michael-burry-latest-top-10-154101772.html",
-"pub": "2026-11-23T15:41:01+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-23T16:15:46+00:00"
-},
-{
-"id": "b227000850fc",
-"t": "DELL",
-"title": "HPE Earnings: Numbers on Its Side, Market Against It",
-"url": "https://finance.yahoo.com/markets/stocks/articles/hpe-earnings-numbers-side-market-154100028.html",
-"pub": "2026-11-23T15:41:00+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-23T17:14:22+00:00"
+"id": "12dfdae19382",
+"t": "",
+"title": "Copper Rally Fades as Demand Worries Deepen",
+"url": "https://www.bloomberg.com/news/videos/2026-11-24/copper-rally-fades-as-demand-worries-deepen-video",
+"pub": "2026-11-24T06:49:13+00:00",
+"src": "Bloomberg",
+"kind": "market",
+"seen": "2026-11-24T06:58:39+00:00"
 },
 {
 "id": "6a8c51272bc3",
@@ -10151,6 +10171,16 @@
 "seen": "2026-11-23T21:14:46+00:00"
 },
 {
+"id": "ed1ebdc3f27d",
+"t": "",
+"title": "JPMorgan Flexible Debt ETF (JFLX.N) | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE52ckV5R3VpNU5VdmUxRktEUXV0VzJCaHhyNk8ydWJKM0I4WVdMZmxtSnlDNGl2bnZqNE1wS3ZqWFVJWnJEMkFqTlVkT3VaN05KNDdpTkVDYWNUVGduUlplcjdJYUN1OC1UTUo4Xw?oc=5",
+"pub": "2026-11-23T18:42:16+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-24T06:58:39+00:00"
+},
+{
 "id": "cefc1b421d2e",
 "t": "",
 "title": "FACT II Acquisition Corp (FACT.OQ) | Stock Price & Latest News - Reuters",
@@ -10549,6 +10579,16 @@
 "src": "Bloomberg",
 "kind": "market",
 "seen": "2026-11-23T17:14:22+00:00"
+},
+{
+"id": "0cab2906ec65",
+"t": "",
+"title": "Brookfield Wealth Solutions Ltd. (BNT) | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9nQ29WV2tJN25LTzE4V1dUdW5aTXZfMU5WYW9qM0dtaTIzb0FkeG8zQ2dPQjl4eVdxWmZoTzVFZjM4M1lORUtDRmZfOEhxWndVUzhKSzdKSXp4dw?oc=5",
+"pub": "2026-11-23T16:54:37+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-24T06:58:39+00:00"
 },
 {
 "id": "ed74caa85c49",
@@ -10976,46 +11016,6 @@
 "title": "UK PM Burnham: EU and UK to avoid policy harming each other's industries",
 "url": "https://www.financialjuice.com/News/9864651/UK-PM-Burnham-EU-and-UK-to-avoid-policy-harming-each-others-industries.aspx?xy=rss",
 "pub": "2026-11-23T15:44:13+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-23T15:44:40+00:00"
-},
-{
-"id": "0314719fd64f",
-"t": "",
-"title": "Trump praises Anthropic's Amodei. $ANT",
-"url": "https://www.financialjuice.com/News/9864650/Trump-praises-Anthropics-Amodei-ANT.aspx?xy=rss",
-"pub": "2026-11-23T15:44:03+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-23T15:44:40+00:00"
-},
-{
-"id": "399905d914aa",
-"t": "",
-"title": "Trump: DoJ will intervene if AI firms move too fast.",
-"url": "https://www.financialjuice.com/News/9864649/Trump-DoJ-will-intervene-if-AI-firms-move-too-fast.aspx?xy=rss",
-"pub": "2026-11-23T15:43:39+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-23T15:44:40+00:00"
-},
-{
-"id": "e1e9c0e4bee7",
-"t": "",
-"title": "TSX rebounds on miners' rally; Nvidia CEO return lifts tech - Reuters",
-"url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOTjloYWVXT0szME9OYklKaHNacFdZUV9OMTdGS1dUSE5ZNll3alotZWF2R2hWMFhOeGEzeV9uY1dlRTNEaHZ6bFZOSFQyOEY5ZTlqZzlLUUxQd2l4QkZsNGZYOU9EbXhIZVpOc20xcFh1bUQ4SWhyNUNkc2RCV1ZfQjVRcG1UWWV1UXQ1N1JtMExMbkx3TlV4US1FN0lMUUhNaHdv?oc=5",
-"pub": "2026-11-23T15:42:15+00:00",
-"src": "Reuters",
-"kind": "market",
-"seen": "2026-11-23T22:26:13+00:00"
-},
-{
-"id": "cb970f1f4c47",
-"t": "",
-"title": "UK PM Burnham: Bill to implement EU deal will be introduced Thursday",
-"url": "https://www.financialjuice.com/News/9864648/UK-PM-Burnham-Bill-to-implement-EU-deal-will-be-introduced-Thursday.aspx?xy=rss",
-"pub": "2026-11-23T15:42:08+00:00",
 "src": "FinancialJuice",
 "kind": "market",
 "seen": "2026-11-23T15:44:40+00:00"
