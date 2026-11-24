@@ -452,3 +452,4 @@
 - 출처: [Motley Fool](https://www.fool.com/investing/2026/11/24/why-analog-devices-stock-fell-nearly-20-today/) · [MoneyCheck](https://moneycheck.com/analog-devices-adi-stock-falls-17-as-weak-q1-profit-outlook-overshadows-beat) · [Quantisnow](https://www.quantisnow.com/articles/chip-selloff-hits-tech-alone-adi-and-hpe-fall-about-15-percent-equal-weight-stocks-rise) · 공식 여부: 보도(주가·해석) / 내부 데이터(노몬 시세)
 - 확신도: 중간 (종가는 두 곳이 같음 / SMH·HPE 는 장중 숫자, Vital Knowledge 해석은 MoneyCheck 전재 요약)
 - 참고: DELL 11/25 정규장 반응 요청(T-20261125-0653-1)은 미국 장이 끝나는 한국 11/26 06시 뒤 차례 몫이라 그대로 둬요.
+- 참고: 앱 다시 게시함(08:3x KST, 버전 318). C-20261124-1349-2 방식, 게시용 복사본에서만 CSP meta 한 줄을 뺐어요(저장소 파일은 그대로). 게시본과 차이는 일정 데이터 한 줄(ADI)뿐이었어요.
