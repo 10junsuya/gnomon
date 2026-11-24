@@ -1,6 +1,6 @@
 {
-"updated_kst": "2026-11-24 17:31",
-"rot": 168,
+"updated_kst": "2026-11-24 17:44",
+"rot": 49,
 "how": "Scout(프로그램)이 10분마다 모은 기사 제목·링크와 공시예요. Wren이 공식 출처로 확인한 뒤 회사 화면에 한국어로 반영해요. 본문은 받지 않아요.",
 "sources": {
 "Yahoo Finance": "120종목 확인 · 실패 0",
@@ -10,7 +10,7 @@
 "CNBC": "63건",
 "Bloomberg": "40건",
 "WSJ": "61건",
-"Reuters": "100건",
+"Reuters": "49건",
 "FinancialJuice": "100건",
 "SEC EDGAR": "실패 HTTPError",
 "Fox Business": "50건"
@@ -27,6 +27,16 @@
 "seen": "2026-11-24T08:31:05+00:00"
 },
 {
+"id": "1684d32f46d7",
+"t": "NVDA",
+"title": "The Stock Market Just Entered a Correction. History Says Investors Who Make This 1 Move Right Now Will Win Out.",
+"url": "https://www.fool.com/investing/2026/11/24/the-stock-market-just-entered-a-correction-history-says-investors-who-make-this-1-move-right-now-will-win-out/",
+"pub": "2026-11-24T08:20:02+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-24T08:44:13+00:00"
+},
+{
 "id": "1b308ed4a1f6",
 "t": "INSM",
 "title": "Why Is INSM Stock Surging 13% Overnight Today?",
@@ -35,6 +45,36 @@
 "src": "Yahoo Finance",
 "kind": "news",
 "seen": "2026-11-24T08:31:05+00:00"
+},
+{
+"id": "790d81c3b8a5",
+"t": "NVDA",
+"title": "Nvidia and 3 AI Chip Stocks for Export Control Resilient Growth",
+"url": "https://finance.yahoo.com/technology/ai/articles/nvidia-3-ai-chip-stocks-081204748.html",
+"pub": "2026-11-24T08:12:04+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-24T08:44:13+00:00"
+},
+{
+"id": "03acade4235e",
+"t": "NVDA",
+"title": "Pecoy Copper And 2 Canadian Founder Led Stocks To Watch",
+"url": "https://finance.yahoo.com/markets/stocks/articles/pecoy-copper-2-canadian-founder-081123606.html",
+"pub": "2026-11-24T08:11:23+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-24T08:44:13+00:00"
+},
+{
+"id": "59253ffac55d",
+"t": "NVDA",
+"title": "Keystone Law Group And 2 Other British Founder Led Stocks To Watch",
+"url": "https://finance.yahoo.com/markets/stocks/articles/keystone-law-group-2-other-081113560.html",
+"pub": "2026-11-24T08:11:13+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-24T08:44:13+00:00"
 },
 {
 "id": "8c0b49b164e6",
@@ -7981,44 +8021,104 @@
 "seen": "2026-11-23T16:15:46+00:00"
 },
 {
-"id": "10464b4a5a31",
-"t": "NVDA",
-"title": "/C O R R E C T I O N - Canadian Investment Regulatory Organization (CIRO) - Halts/Resumptions/",
-"url": "https://finance.yahoo.com/markets/stocks/articles/canadian-investment-regulatory-organization-trading-144100590.html",
-"pub": "2026-11-23T16:01:00+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-23T16:15:46+00:00"
+"id": "63fb2f554279",
+"t": "",
+"title": "Japan eyes easing FX special account rules for tax cut - Kyodo.",
+"url": "https://www.financialjuice.com/News/9865726/Japan-eyes-easing-FX-special-account-rules-for-tax-cut---Kyodo.aspx?xy=rss",
+"pub": "2026-11-24T08:42:50+00:00",
+"src": "FinancialJuice",
+"kind": "market",
+"seen": "2026-11-24T08:44:13+00:00"
 },
 {
-"id": "4248fffd0ed6",
-"t": "SAP",
-"title": "Oversold Indices and Spiking Volatility Leave Markets Searching for Footing",
-"url": "https://finance.yahoo.com/news/oversold-indices-spiking-volatility-leave-160100573.html",
-"pub": "2026-11-23T16:01:00+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-23T16:30:06+00:00"
+"id": "21502e8b28ad",
+"t": "",
+"title": "European Auto Sales Increase Again on Surging EV Demand",
+"url": "https://www.bloomberg.com/news/videos/2026-11-24/european-auto-sales-increase-again-on-surging-ev-demand-video",
+"pub": "2026-11-24T08:40:56+00:00",
+"src": "Bloomberg",
+"kind": "market",
+"seen": "2026-11-24T08:44:13+00:00"
 },
 {
-"id": "51df3910cf41",
-"t": "CRWD",
-"title": "CrowdStrike Sinks 12% on $43.9 Billion Zscaler Deal to Build “Cybersecurity’s Operating System”",
-"url": "https://www.tikr.com/blog/crowdstrike-sinks-12-on-43-9-billion-zscaler-deal-to-build-cybersecuritys-operating-system",
-"pub": "2026-11-23T16:00:43+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-23T16:44:03+00:00"
+"id": "93701c2b84cf",
+"t": "",
+"title": "ECB's Simkus: Recent euro weakness is another inflationary factor.",
+"url": "https://www.financialjuice.com/News/9865725/ECBs-Simkus-Recent-euro-weakness-is-another-inflationary-factor.aspx?xy=rss",
+"pub": "2026-11-24T08:37:36+00:00",
+"src": "FinancialJuice",
+"kind": "market",
+"seen": "2026-11-24T08:44:13+00:00"
 },
 {
-"id": "6e7bc629e1ee",
-"t": "POWL",
-"title": "Powell Industries (POWL) Upgraded to Strong Buy: Here's What You Should Know",
-"url": "https://finance.yahoo.com/markets/stocks/articles/powell-industries-powl-upgraded-strong-160003202.html",
-"pub": "2026-11-23T16:00:03+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-23T18:14:06+00:00"
+"id": "f1ad87451e96",
+"t": "",
+"title": "ECB's Simkus: ECB should act preemptively, sooner rather than later.",
+"url": "https://www.financialjuice.com/News/9865724/ECBs-Simkus-ECB-should-act-preemptively-sooner-rather-than-later.aspx?xy=rss",
+"pub": "2026-11-24T08:37:25+00:00",
+"src": "FinancialJuice",
+"kind": "market",
+"seen": "2026-11-24T08:44:13+00:00"
+},
+{
+"id": "d511af7b6aa2",
+"t": "",
+"title": "ECB’s Simkus Says It’s ‘Prudent’ to Hike as Inflation Broadens",
+"url": "https://www.bloomberg.com/news/articles/2026-11-24/ecb-s-simkus-says-it-s-prudent-to-hike-as-inflation-broadens",
+"pub": "2026-11-24T08:37:17+00:00",
+"src": "Bloomberg",
+"kind": "market",
+"seen": "2026-11-24T08:44:13+00:00"
+},
+{
+"id": "b3903b5176e6",
+"t": "",
+"title": "ECB's Simkus: Don't see a risk of over-tightening.",
+"url": "https://www.financialjuice.com/News/9865723/ECBs-Simkus-Dont-see-a-risk-of-over-tightening.aspx?xy=rss",
+"pub": "2026-11-24T08:37:09+00:00",
+"src": "FinancialJuice",
+"kind": "market",
+"seen": "2026-11-24T08:44:13+00:00"
+},
+{
+"id": "59240067569c",
+"t": "",
+"title": "ECB's Simkus: More tightening needed in 2027 if inflation persists.",
+"url": "https://www.financialjuice.com/News/9865722/ECBs-Simkus-More-tightening-needed-in-2027-if-inflation-persists.aspx?xy=rss",
+"pub": "2026-11-24T08:36:59+00:00",
+"src": "FinancialJuice",
+"kind": "market",
+"seen": "2026-11-24T08:44:13+00:00"
+},
+{
+"id": "b177c116bed5",
+"t": "",
+"title": "China Commerce Ministry: Urges EU to abide by bilateral consensus and strictly follow WTO rules in probe.",
+"url": "https://www.financialjuice.com/News/9865721/China-Commerce-Ministry-Urges-EU-to-abide-by-bilateral-consensus-and-strictly-follow-WTO-rules-in-probe.aspx?xy=rss",
+"pub": "2026-11-24T08:34:57+00:00",
+"src": "FinancialJuice",
+"kind": "market",
+"seen": "2026-11-24T08:44:13+00:00"
+},
+{
+"id": "a25507667488",
+"t": "",
+"title": "China Commerce Ministry: Issue temporary EU hybrid vehicle measures.",
+"url": "https://www.financialjuice.com/News/9865720/China-Commerce-Ministry-Issue-temporary-EU-hybrid-vehicle-measures.aspx?xy=rss",
+"pub": "2026-11-24T08:34:46+00:00",
+"src": "FinancialJuice",
+"kind": "market",
+"seen": "2026-11-24T08:44:13+00:00"
+},
+{
+"id": "d2b98841fef5",
+"t": "",
+"title": "Europe's STOXX 600 subdued after AI-driven rally - Reuters",
+"url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPRFZqN1lVNFNOTEFzWnBjSFFrbEVUQ2NLQ3EyOFJVdXVoUDFtdDJOcXoteHFEZWVmQ3dsYWV1OUxjN2FkY2pOVzk0T1NpTXBQTXpIWlJuWVozQlJNMHFHQmlvTFVwOG9LYmZRY3k0RDFLelNheUVaanNPSWpibkxyZXlRSGV6a2ttanl1MjZqLTZ3Z0JubU42OUZybWtUZEU?oc=5",
+"pub": "2026-11-24T08:27:40+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-24T08:44:13+00:00"
 },
 {
 "id": "9486972fce69",
@@ -8059,6 +8159,16 @@
 "src": "Bloomberg",
 "kind": "market",
 "seen": "2026-11-24T08:31:05+00:00"
+},
+{
+"id": "c0374a271182",
+"t": "",
+"title": "Is Nvidia's Rally Overlooking Risks Around Jensen Huang's Return?",
+"url": "https://www.bloomberg.com/news/videos/2026-11-24/insight-with-haslinda-amin-11-24-2026-video",
+"pub": "2026-11-24T08:09:48+00:00",
+"src": "Bloomberg",
+"kind": "market",
+"seen": "2026-11-24T08:44:13+00:00"
 },
 {
 "id": "81b86cf16782",
@@ -10909,116 +11019,6 @@
 "src": "Reuters",
 "kind": "market",
 "seen": "2026-11-23T23:25:45+00:00"
-},
-{
-"id": "af3f8d243335",
-"t": "",
-"title": "Google introduces tailored Google search. $GOOGL",
-"url": "https://www.financialjuice.com/News/9864786/Google-introduces-tailored-Google-search-GOOGL.aspx?xy=rss",
-"pub": "2026-11-23T17:06:26+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-23T17:14:22+00:00"
-},
-{
-"id": "37e8904f2555",
-"t": "",
-"title": "US Sen. Scott announces the Huang hearing for December 3rd. $NVDA",
-"url": "https://www.financialjuice.com/News/9864785/US-Sen-Scott-announces-the-Huang-hearing-for-December-3rd-NVDA.aspx?xy=rss",
-"pub": "2026-11-23T17:03:42+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-23T17:14:22+00:00"
-},
-{
-"id": "754583ae0f6c",
-"t": "",
-"title": "Port Authority Eyes $1 Billion Muni Sale as Cost Pressures Mount",
-"url": "https://www.bloomberg.com/news/articles/2026-11-23/port-authority-eyes-1-billion-muni-sale-as-cost-pressures-mount",
-"pub": "2026-11-23T17:00:39+00:00",
-"src": "Bloomberg",
-"kind": "market",
-"seen": "2026-11-23T17:30:51+00:00"
-},
-{
-"id": "9063b892a869",
-"t": "",
-"title": "HARBb.COf - | Stock Price & Latest News - Reuters",
-"url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNanc3RE9BSkVIWk9vSjhYSGx0M096Z0FDbEZaNDR2VmpfVnM2U1dBTFBDZ3EtTS1MTE1RdlZtOGdtNzlxd1VFcmxMMGxjMVB3R1EzaUduUUxIZm4tM0k3OU4zdGQyekhCeE1RTFFDbjNRVmZvNEo0TTV4eW5lcjlJa0wwR3p4VG9nZ1JqMDdaMnZGd0k?oc=5",
-"pub": "2026-11-23T16:59:30+00:00",
-"src": "Reuters",
-"kind": "market",
-"seen": "2026-11-24T00:44:21+00:00"
-},
-{
-"id": "a1f0880fe713",
-"t": "",
-"title": "HK Electric Investments Ltd (HKTu.MU) | Stock Price & Latest News - Reuters",
-"url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE4xN2hxN2JhWlJiRTJxOVAwQk9la1NkeTBYZU9mcEhCWUF1cXRXQnhPR1V2YXZ1ZW9jcVZ1M2VDeEttZWtVWmZzczVLdlo2eG5Va0hiM2ZDaWszbzY5S3l0ODJFckdJS0l1TEFVVU9lbw?oc=5",
-"pub": "2026-11-23T16:56:57+00:00",
-"src": "Reuters",
-"kind": "market",
-"seen": "2026-11-24T05:52:20+00:00"
-},
-{
-"id": "9ffadde961d1",
-"t": "",
-"title": "Nvidia Rehires Huang in Stunning Comeback",
-"url": "https://www.bloomberg.com/news/videos/2026-11-23/nvidia-rehires-huang-in-stunning-comeback",
-"pub": "2026-11-23T16:54:43+00:00",
-"src": "Bloomberg",
-"kind": "market",
-"seen": "2026-11-23T17:14:22+00:00"
-},
-{
-"id": "0cab2906ec65",
-"t": "",
-"title": "Brookfield Wealth Solutions Ltd. (BNT) | Stock Price & Latest News - Reuters",
-"url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9nQ29WV2tJN25LTzE4V1dUdW5aTXZfMU5WYW9qM0dtaTIzb0FkeG8zQ2dPQjl4eVdxWmZoTzVFZjM4M1lORUtDRmZfOEhxWndVUzhKSzdKSXp4dw?oc=5",
-"pub": "2026-11-23T16:54:37+00:00",
-"src": "Reuters",
-"kind": "market",
-"seen": "2026-11-24T06:58:39+00:00"
-},
-{
-"id": "ed74caa85c49",
-"t": "",
-"title": "US VP Vance spoke with Huang and worked with Nvidia over the weekend - NYT",
-"url": "https://www.financialjuice.com/News/9864763/US-VP-Vance-spoke-with-Huang-and-worked-with-Nvidia-over-the-weekend---NYT.aspx?xy=rss",
-"pub": "2026-11-23T16:53:58+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-23T17:14:22+00:00"
-},
-{
-"id": "064c96f2b55c",
-"t": "",
-"title": "UBS Debate Turns to Amendments on $16 Billion Capital Bill",
-"url": "https://www.bloomberg.com/news/articles/2026-11-23/ubs-debate-turns-to-amendments-on-16-billion-capital-bill",
-"pub": "2026-11-23T16:53:06+00:00",
-"src": "Bloomberg",
-"kind": "market",
-"seen": "2026-11-23T17:14:22+00:00"
-},
-{
-"id": "1084791e6d26",
-"t": "",
-"title": "Cogent Biosciences, Inc. (COGT.O) | Stock Price & Latest News - Reuters",
-"url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA2MjRQYXN6WFV3LXRyTFpPU3RaenVSOVlKQzljR29NYVFlRzNDZ1FMZTE4dnRQam1tTWthMTBRcnhndTRneVR5Z09GS1dXcF9sU05CUFpDdE1odV9mNVFQYnJzbUtQZW40RGFqTzRB?oc=5",
-"pub": "2026-11-23T16:52:49+00:00",
-"src": "Reuters",
-"kind": "market",
-"seen": "2026-11-24T06:44:27+00:00"
-},
-{
-"id": "07f269acd298",
-"t": "",
-"title": "Super House Ltd (SPRH.NS) | Stock Price & Latest News - Reuters",
-"url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE4welI2clBteThWTlJMYklzWmVsa0FsS1YyclpqelU4ejFxSWlSLTJ4TkIxN2llZEFiU3JpLTRRRmRTbHpqU3BRZ2xJMERxQU5wVDcwQkRVR3NSeXFDVmhDNm5GMGxRUVVRaS12YjlkOA?oc=5",
-"pub": "2026-11-23T16:51:14+00:00",
-"src": "Reuters",
-"kind": "market",
-"seen": "2026-11-24T00:44:21+00:00"
 }
 ]
 }
