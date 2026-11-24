@@ -1,21 +1,31 @@
 {
-"updated_kst": "2026-11-25 08:32",
-"rot": 3,
+"updated_kst": "2026-11-25 08:44",
+"rot": 63,
 "how": "Scout(프로그램)이 10분마다 모은 기사 제목·링크와 공시예요. Wren이 공식 출처로 확인한 뒤 회사 화면에 한국어로 반영해요. 본문은 받지 않아요.",
 "sources": {
 "Yahoo Finance": "120종목 확인 · 실패 0",
-"GlobeNewswire": "실패 HTTPError",
+"GlobeNewswire": "0건",
 "PR Newswire": "0건",
 "Business Wire": "0건",
 "CNBC": "63건",
 "Bloomberg": "40건",
 "WSJ": "61건",
-"Reuters": "100건",
+"Reuters": "실패 HTTPError",
 "FinancialJuice": "100건",
 "SEC EDGAR": "실패 HTTPError",
 "Fox Business": "50건"
 },
 "items": [
+{
+"id": "c46ed0ea0e67",
+"t": "NVDA",
+"title": "How Much Is Nvidia Stock Worth Now That Jensen Huang Is Back?",
+"url": "https://www.fool.com/investing/2026/11/24/how-much-is-nvidia-stock-worth-now-that-jensen-huang-is-back/",
+"pub": "2026-11-24T23:30:02+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-24T23:44:53+00:00"
+},
 {
 "id": "1dfc9950b1ef",
 "t": "NVDA",
@@ -135,6 +145,16 @@
 "src": "Yahoo Finance",
 "kind": "news",
 "seen": "2026-11-24T23:13:49+00:00"
+},
+{
+"id": "87a76f94d51b",
+"t": "NVDA",
+"title": "Like ‘family businesses’: Inside the Nvidia board that ousted and rehired Jensen Huang",
+"url": "https://www.cnn.com/2026/11/24/tech/nvidia-board-jensen-huang",
+"pub": "2026-11-24T22:52:02+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-24T23:44:53+00:00"
 },
 {
 "id": "f334e101439e",
@@ -327,6 +347,16 @@
 "seen": "2026-11-24T23:13:49+00:00"
 },
 {
+"id": "0260f0225ac7",
+"t": "TXN",
+"title": "Texas Instruments (TXN) Remains A Preferred Pick Despite Chip Oversupply Risk",
+"url": "https://finance.yahoo.com/markets/stocks/articles/texas-instruments-txn-remains-preferred-222318529.html",
+"pub": "2026-11-24T22:23:18+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-24T23:44:53+00:00"
+},
+{
 "id": "d22b8e6eb4df",
 "t": "NVDA",
 "title": "Wall Street's $1.4 Trillion Bubble May Be on the Verge of Bursting -- but It's Not Artificial Intelligence (AI)",
@@ -497,6 +527,16 @@
 "seen": "2026-11-24T22:33:52+00:00"
 },
 {
+"id": "14c22c20950e",
+"t": "S",
+"title": "Why SentinelOne (S) Dipped More Than Broader Market Today",
+"url": "https://finance.yahoo.com/markets/stocks/articles/why-sentinelone-dipped-more-broader-220001126.html",
+"pub": "2026-11-24T22:00:01+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-24T23:44:53+00:00"
+},
+{
 "id": "7c0c2a59decf",
 "t": "GOOGL",
 "title": "Billionaire Charlie Munger’s Protege Li Lu: Himalaya Capital Has 45% of Its $3.78 Billion Portfolio in Alphabet",
@@ -616,6 +656,16 @@
 "src": "Yahoo Finance",
 "kind": "news",
 "seen": "2026-11-24T22:14:12+00:00"
+},
+{
+"id": "f7d95ca2d19e",
+"t": "OKTA",
+"title": "Why Okta (OKTA) Dipped More Than Broader Market Today",
+"url": "https://finance.yahoo.com/markets/stocks/articles/why-okta-okta-dipped-more-215002273.html",
+"pub": "2026-11-24T21:50:02+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-24T23:44:53+00:00"
 },
 {
 "id": "34f136483daf",
@@ -7965,56 +8015,6 @@
 "title": "Global Workflow Market Size, Trends, and Forecast Report 2026 | Capitalize on 22.5% CAGR as IBM, Oracle, SAP, ServiceNow, and Appian Accelerate AI and Cloud Automation Through 2030",
 "url": "https://finance.yahoo.com/technology/articles/global-workflow-market-size-trends-143400424.html",
 "pub": "2026-11-24T14:34:00+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-24T14:44:20+00:00"
-},
-{
-"id": "4926192fb822",
-"t": "META",
-"title": "What Just Happened To Booking Holdings Stock?",
-"url": "https://www.trefis.com/stock/bkng/articles/628361/what-just-happened-to-booking-holdings-stock/2026-11-24",
-"pub": "2026-11-24T14:33:12+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-24T15:15:37+00:00"
-},
-{
-"id": "15316fd7642e",
-"t": "NVDA",
-"title": "Nvidia's stunning comeback delivers new shock to Fed rate-hike bets",
-"url": "https://www.thestreet.com/fed/nvidia-rally-fed-rate-hike-bets-december-2026",
-"pub": "2026-11-24T14:33:00+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-24T14:44:20+00:00"
-},
-{
-"id": "257453781401",
-"t": "VZ",
-"title": "Retire on Dividends: 5 Ultra-High-Yield Stocks Boomers Are Buying and Holding Forever",
-"url": "https://247wallst.com/investing/2026/11/24/retire-on-dividends-5-ultra-high-yield-stocks-boomers-are-buying-and-holding-forever/",
-"pub": "2026-11-24T14:32:32+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-24T14:44:20+00:00"
-},
-{
-"id": "b3d2b11dc765",
-"t": "ORCL",
-"title": "Global Career Development Software Market 2026: Size, Trends, and Forecast to 2030 | Capitalize on AI, Cloud, and Internal Mobility with Oracle, SAP, Workday, and Eightfold AI",
-"url": "https://finance.yahoo.com/technology/articles/global-career-development-software-market-143200937.html",
-"pub": "2026-11-24T14:32:00+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-24T14:44:20+00:00"
-},
-{
-"id": "30f914972f3e",
-"t": "MSFT",
-"title": "Global Subject Access Request Software Market Report 2026 | Capitalize on 13.5% CAGR to $2.96 Billion by 2030 as Microsoft, IBM, OneTrust and BigID Accelerate AI-Cloud Compliance",
-"url": "https://finance.yahoo.com/technology/ai/articles/global-subject-access-request-software-143100171.html",
-"pub": "2026-11-24T14:31:00+00:00",
 "src": "Yahoo Finance",
 "kind": "news",
 "seen": "2026-11-24T14:44:20+00:00"
