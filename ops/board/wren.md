@@ -3806,3 +3806,22 @@ Scout(소식 감지 프로그램)가 모은 기사·공시를 공식 출처로 �
 - 나에게 온 새 요청(RULES 0-3): 24시간 안 새 요청 없음(V-20261124-1541-2 1번은 16:13, V-20261124-1841-3 은 18:43 에 처리). 미국 지표: 미국 동부 11-24 08:4x(화) — 오늘 6개 지표 발표 없음(다음 pce·claims 11-25), 매크로 수집 안 돌림, 분석 모두 최신. A 지도: 고칠 것 없음. 앱 다시 게시: 반영이 없어 안 함. done 은 대기 목록에 없는 오래된 id 부터 잘라 3000개 유지(저장 뒤 JSON 다시 읽어 확인).
 - 출처: ops/scout/newsq.json · 공식 여부: 저장소
 - 확신도: 높음
+
+### W-20261124-2313-1 · 반영 · BKSY 에포크지오 인수 — 전파·신호 정보 AI 분석 회사(금액 미공개) (공식)
+- 시각: 2026-11-24 23:2x KST
+- 내용: companies.json news.BKSY(처음 생김) 맨 앞에 "전파·신호 정보를 AI로 함께 분석하는 회사 에포크지오를 인수했어요(금액 미공개)"(11-24 22:30 KST, 공식)를 넣었어요. 2018년 세운 지리공간 데이터 분석 회사, 고객은 미국 방산 대기업·미 정부. 인수 금액·방식·마무리 날짜는 보도자료에 없어요(새 직원 최대 43명에게 주식 보상 예정).
+- 출처: [블랙스카이 보도자료(Business Wire 전재)](https://www.financialcontent.com/article/bizwire-2026-11-24-blacksky-acquires-epochgeo-to-expand-real-time-intelligence-capabilities-with-ai-enabled-rf-signals-and-multi-source-analytics) · [Investing.com](https://za.investing.com/news/stock-market-news/blacksky-acquires-epochgeo-to-expand-defense-analytics-93CH-4594691) · 공식 여부: 공식
+- 확신도: 높음
+
+### W-20261124-2313-2 · 반영 · PL 유럽 국방·정보기관 고객 계약 확대(금액 미공개) (공식)
+- 시각: 2026-11-24 23:2x KST
+- 내용: news.PL 맨 앞에 "유럽 국방·정보기관 고객과 6월 맺은 1년 계약(7자리 달러)을 넓혔어요(금액 미공개)"(11-24 23:03 KST, 공식)를 넣었어요. 플래닛스코프 감시·고해상도 촬영 주문을 해양·땅 이용 감시와 기반시설 보호에 써요. 나라 이름·확대 금액·기간은 보도자료에 없어요.
+- 출처: [플래닛 보도자료(Business Wire 전재)](https://www.financialcontent.com/article/bizwire-2026-11-24-planet-awarded-contract-expansion-with-european-defense-and-intelligence-customer) · [Stock Titan](https://www.stocktitan.net/news/PL/planet-awarded-contract-expansion-with-european-defense-and-fyt6smwkeglo.html) · 공식 여부: 공식
+- 확신도: 높음
+
+### W-20261124-2313-3 · 알림 · 이번 차례
+- 시각: 2026-11-24 23:2x KST
+- 내용: Scout를 직접 돌린 뒤(성공, 23:17 KST 갱신) 새 항목 135건(news·market) 모두 처리. 반영 2건(위 BKSY·PL). 건너뜀: '테슬라·스페이스X 합병 협상 이사 선정'(11-24 TSLA·SPCX 보도 줄과 같은 사건), '사노피 인스메드 410억 달러 인수'(11-24 INSM 줄과 같은 사건), '미국, 알리바바 소유 회사 거래 제한'(11-24 BABA 줄과 같은 사건), '시스코 주총·투자자 행사 참가', '키사이트 투자자 행사 참가'(일정 안내), 'Archive Intel MCP'(앱 종목 아님), 칩 주가 하락·종목 비교·목표가·'살 만한 종목' 글들, 시장 지표 속보(FinancialJuice)·WSJ 모음·로이터 시세 페이지. '미국, 중국·EU 관세 인상 발표 임박'(FinancialJuice 속보)은 시장 항목이라 07·19시대가 아니어서 안 넣음.
+- 나에게 온 새 요청(RULES 0-3): 24시간 안 새 요청 없음. 미국 지표: 미국 동부 11-24 09:2x(화) — 오늘 6개 지표 발표 없음(다음 pce·claims 11-25), 매크로 수집 안 돌림, 분석 모두 최신. A 지도: 고칠 것 없음(에포크지오는 지도 밖 회사, 플래닛 고객은 이름 없음). done 은 대기 목록에 없는 오래된 id 부터 잘라 3000개 유지(저장 뒤 JSON 다시 읽어 확인).
+- 출처: ops/scout/newsq.json · 공식 여부: 저장소
+- 확신도: 높음
