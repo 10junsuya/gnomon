@@ -1,10 +1,10 @@
 {
-"updated_kst": "2026-11-25 07:14",
-"rot": 121,
+"updated_kst": "2026-11-25 07:33",
+"rot": 2,
 "how": "Scout(프로그램)이 10분마다 모은 기사 제목·링크와 공시예요. Wren이 공식 출처로 확인한 뒤 회사 화면에 한국어로 반영해요. 본문은 받지 않아요.",
 "sources": {
 "Yahoo Finance": "120종목 확인 · 실패 0",
-"GlobeNewswire": "0건",
+"GlobeNewswire": "실패 HTTPError",
 "PR Newswire": "1건",
 "Business Wire": "0건",
 "CNBC": "63건",
@@ -17,6 +17,86 @@
 },
 "items": [
 {
+"id": "f100e0bf9a8a",
+"t": "NVDA",
+"title": "Elon Thinks Energy is AI’s Biggest Bottleneck",
+"url": "https://app.moby.co/home/news/news-elon-thinks-energy-is-ais-biggest-bottleneck",
+"pub": "2026-11-24T22:29:43+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-24T22:33:52+00:00"
+},
+{
+"id": "d22b8e6eb4df",
+"t": "NVDA",
+"title": "Wall Street's $1.4 Trillion Bubble May Be on the Verge of Bursting -- but It's Not Artificial Intelligence (AI)",
+"url": "https://www.fool.com/investing/2026/11/24/wall-street-s-usd1-4-trillion-bubble-may-be-on-the-verge-of-bursting-but-it-s-not-artificial-intelligence-ai/",
+"pub": "2026-11-24T22:20:02+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-24T22:33:52+00:00"
+},
+{
+"id": "b2133e9765f0",
+"t": "MSFT",
+"title": "A week on, Chase still hasn’t explained its outage",
+"url": "https://www.americanbanker.com/news/a-week-on-chase-still-hasn-t-explained-its-outage",
+"pub": "2026-11-24T22:15:02+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-24T22:33:52+00:00"
+},
+{
+"id": "b7980162c63d",
+"t": "NVDA",
+"title": "Dell Just Reported Earnings and Raised Its Forecast by $10 Billion. Is the Stock a Buy After Tuesday's Selloff?",
+"url": "https://www.fool.com/investing/2026/11/24/dell-just-reported-earnings-and-raised-its-forecast-by-usd10-billion-is-the-stock-a-buy-after-tuesday-s-selloff/",
+"pub": "2026-11-24T22:14:43+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-24T22:33:52+00:00"
+},
+{
+"id": "6234af5bda21",
+"t": "SPCX",
+"title": "How Much Bitcoin Could Elon Musk Control if Tesla and SpaceX Merge?",
+"url": "https://247wallst.com/investing/cryptocurrency/2026/11/24/how-much-bitcoin-could-elon-musk-control-if-tesla-and-spacex-merge/",
+"pub": "2026-11-24T22:12:39+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-24T22:33:52+00:00"
+},
+{
+"id": "bbb9d4bdb85f",
+"t": "NVDA",
+"title": "Stock Market Today, Nov. 24: Tech Sell-Off Drags Nasdaq as Dow Gains on Value Rotation",
+"url": "https://www.fool.com/coverage/stock-market-today/2026/11/24/stock-market-today-nov-24-tech-sell-off-drags-nasdaq-as-dow-gains-on-value-rotation/",
+"pub": "2026-11-24T22:11:48+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-24T22:33:52+00:00"
+},
+{
+"id": "458a9c8097f0",
+"t": "GOOGL",
+"title": "Stephanie Link Says Marvell Could Earn $30 a Share by 2031. Is She Right?",
+"url": "https://247wallst.com/investing/2026/11/24/stephanie-link-says-marvell-could-earn-30-a-share-by-2031-is-she-right/",
+"pub": "2026-11-24T22:07:53+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-24T22:33:52+00:00"
+},
+{
+"id": "1e0551f69939",
+"t": "NVDA",
+"title": "Movado Group, Inc. Q3 2027 Earnings Call Summary",
+"url": "https://app.moby.co/home/research/tools/earningsCalendar/earnings-movado-group-inc-q3-2027-earnings-call-summary",
+"pub": "2026-11-24T22:05:29+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-24T22:33:52+00:00"
+},
+{
 "id": "ad9b298d72b3",
 "t": "NVDA",
 "title": "Dow Jones Futures: Nvidia, Anthropic Lead AI Retreat But Many Sectors Strong; Fed Inflation Data Due",
@@ -25,6 +105,16 @@
 "src": "Yahoo Finance",
 "kind": "news",
 "seen": "2026-11-24T22:14:12+00:00"
+},
+{
+"id": "a55acaa7ed89",
+"t": "NVDA",
+"title": "Kohl's Corporation Q3 2026 Earnings Call Summary",
+"url": "https://app.moby.co/home/research/tools/earningsCalendar/earnings-kohls-corporation-q3-2026-earnings-call-summary",
+"pub": "2026-11-24T22:05:19+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-24T22:33:52+00:00"
 },
 {
 "id": "a087018f8fb7",
@@ -55,6 +145,16 @@
 "src": "Yahoo Finance",
 "kind": "news",
 "seen": "2026-11-24T22:14:12+00:00"
+},
+{
+"id": "f50d606b8934",
+"t": "MU",
+"title": "Morning Movers: Dick’s Sporting and Dollar Tree gain following quarterly reports",
+"url": "https://finance.yahoo.com/markets/stocks/articles/morning-movers-dick-sporting-dollar-220046732.html",
+"pub": "2026-11-24T22:00:46+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-24T22:33:52+00:00"
 },
 {
 "id": "7c0c2a59decf",
@@ -216,6 +316,16 @@
 "src": "Yahoo Finance",
 "kind": "news",
 "seen": "2026-11-24T22:14:12+00:00"
+},
+{
+"id": "9f601098a802",
+"t": "MU",
+"title": "Anthropic falls below IPO price as Nvidia gives back gains",
+"url": "https://finance.yahoo.com/video/anthropic-falls-below-ipo-price-as-nvidia-gives-back-gains-214558309.html",
+"pub": "2026-11-24T21:45:58+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-24T22:33:52+00:00"
 },
 {
 "id": "bf9ec507cef7",
@@ -396,6 +506,26 @@
 "src": "Yahoo Finance",
 "kind": "news",
 "seen": "2026-11-24T21:32:03+00:00"
+},
+{
+"id": "bd954aa931f3",
+"t": "MRVL",
+"title": "Dell Technologies (DELL) Q3 Earnings and Revenues Surpass Estimates",
+"url": "https://finance.yahoo.com/markets/stocks/articles/dell-technologies-dell-q3-earnings-212002733.html",
+"pub": "2026-11-24T21:20:02+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-24T22:33:52+00:00"
+},
+{
+"id": "0dd61f579045",
+"t": "AVGO",
+"title": "Ambarella (AMBA) Misses Q3 Earnings and Revenue Estimates",
+"url": "https://finance.yahoo.com/markets/stocks/articles/ambarella-amba-misses-q3-earnings-212001963.html",
+"pub": "2026-11-24T21:20:01+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-24T22:33:52+00:00"
 },
 {
 "id": "541fc5ec0ed8",
@@ -7891,135 +8021,54 @@
 "seen": "2026-11-24T14:06:43+00:00"
 },
 {
-"id": "72f4b033dce4",
-"t": "CSCO",
-"title": "Cisco to Participate in December Events with the Financial Community",
-"url": "https://www.prnewswire.com/news-releases/cisco-to-participate-in-december-events-with-the-financial-community-302948699.html",
-"pub": "2026-11-24T14:05:00+00:00",
-"src": "PR Newswire",
-"kind": "news",
-"orig": true,
-"seen": "2026-11-24T14:06:43+00:00"
+"id": "05feeeb9077a",
+"t": "",
+"title": "Saudi-led coalition: intercepts and destroys two drones over eastern region",
+"url": "https://www.financialjuice.com/News/9866802/Saudi-led-coalition-intercepts-and-destroys-two-drones-over-eastern-region.aspx?xy=rss",
+"pub": "2026-11-24T22:34:12+00:00",
+"src": "FinancialJuice",
+"kind": "market",
+"seen": "2026-11-24T22:33:52+00:00"
 },
 {
-"id": "aa55d51a37ce",
-"t": "NVDA",
-"title": "Jensen Huang Could Still Be Kicked Out, Nvidia Could Still Fall 40%",
-"url": "https://247wallst.com/investing/2026/11/24/jensen-huang-could-still-be-kicked-out-nvidia-could-still-fall-40/",
-"pub": "2026-11-24T14:04:23+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-24T14:16:39+00:00"
+"id": "20465184da5d",
+"t": "",
+"title": "Icahn’s Fortune Sinks to $1.3b as Debt Pressures Rise",
+"url": "https://www.bloomberg.com/news/videos/2026-11-24/icahn-s-fortune-sinks-to-1-3b-as-debt-pressures-rise-video",
+"pub": "2026-11-24T22:29:33+00:00",
+"src": "Bloomberg",
+"kind": "market",
+"seen": "2026-11-24T22:33:52+00:00"
 },
 {
-"id": "89f771a4d0cb",
-"t": "UNH",
-"title": "ACCA and Enterprise Uzbekistan partner to advance AI and finance skills",
-"url": "https://www.theaccountant-online.com/news/acca-and-enterprise-uzbekistan-partner-to-advance-ai-and-finance-skills/",
-"pub": "2026-11-24T14:04:19+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-24T14:44:20+00:00"
+"id": "98cd887e2252",
+"t": "",
+"title": "Houthi-run Saba news agency reports attacks on Yemen's Hodeidah port",
+"url": "https://www.financialjuice.com/News/9866784/Houthi-run-Saba-news-agency-reports-attacks-on-Yemens-Hodeidah-port.aspx?xy=rss",
+"pub": "2026-11-24T22:17:31+00:00",
+"src": "FinancialJuice",
+"kind": "market",
+"seen": "2026-11-24T22:33:52+00:00"
 },
 {
-"id": "0ecbed2313ff",
-"t": "LITE",
-"title": "Wall Street May Not Be Ready for What’s Coming Next for This Little-Known AI Stock",
-"url": "https://247wallst.com/investing/2026/11/24/wall-street-may-not-be-ready-for-whats-coming-next-for-this-little-known-ai-stock/",
-"pub": "2026-11-24T14:04:04+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-24T14:16:39+00:00"
+"id": "71878672a838",
+"t": "",
+"title": "Yemen's Houthis threaten to strike Jeddah port and other Saudi Red Sea ports if Hodeidah is attacked: post on X",
+"url": "https://www.financialjuice.com/News/9866769/Yemens-Houthis-threaten-to-strike-Jeddah-port-and-other-Saudi-Red-Sea-ports-if-Hodeidah-is-attacked-post-on-X.aspx?xy=rss",
+"pub": "2026-11-24T22:15:00+00:00",
+"src": "FinancialJuice",
+"kind": "market",
+"seen": "2026-11-24T22:33:52+00:00"
 },
 {
-"id": "b4907eb5c448",
-"t": "INTC",
-"title": "Archive Intel Launches Model Context Protocol (MCP) and Claude Compliance API Integration",
-"url": "https://finance.yahoo.com/technology/ai/articles/archive-intel-launches-model-context-140400674.html",
-"pub": "2026-11-24T14:04:00+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-24T14:16:39+00:00"
-},
-{
-"id": "035416be8862",
-"t": "FCX",
-"title": "PT Freeport Indonesia Completes Sale of U.S.$750.0 Million of Senior Notes",
-"url": "https://finance.yahoo.com/markets/stocks/articles/pt-freeport-indonesia-completes-sale-140400556.html",
-"pub": "2026-11-24T14:04:00+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-24T15:15:37+00:00"
-},
-{
-"id": "fc4a27542955",
-"t": "DELL",
-"title": "Own Dell Stock? Its Cash Gap Rarely Hurt It",
-"url": "https://www.trefis.com/stock/dell/articles/628265/own-dell-stock-its-cash-gap-rarely-hurt-it/2026-11-24",
-"pub": "2026-11-24T14:03:51+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-24T14:44:20+00:00"
-},
-{
-"id": "dc0a9b08dd00",
-"t": "CRWD",
-"title": "What Does Zscaler Really Cost CrowdStrike Owners?",
-"url": "https://www.trefis.com/stock/crwd/articles/628273/what-does-zscaler-really-cost-crowdstrike-owners/2026-11-24",
-"pub": "2026-11-24T14:03:51+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-24T15:44:24+00:00"
-},
-{
-"id": "5c74c5156d00",
-"t": "REGN",
-"title": "Insmed Snags A Whopping Price Tag As Sanofi Confirms Rumored Buyout",
-"url": "https://finance.yahoo.com/m/512db97e-0e42-388a-871d-acdb3ea67146/insmed-snags-a-whopping-price.html",
-"pub": "2026-11-24T14:03:10+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-24T14:16:39+00:00"
-},
-{
-"id": "a13f496903cc",
-"t": "BRKB",
-"title": "Intuit delivers solid earnings but faces troubling growth question",
-"url": "https://www.thestreet.com/investing/stocks/intu-intuit-credit-karma-concern-question-amid-mailchimp-sale-to-bending-spoons",
-"pub": "2026-11-24T14:03:00+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-24T14:06:43+00:00"
-},
-{
-"id": "ca41549974ff",
-"t": "PL",
-"title": "Planet Awarded Contract Expansion with European Defense and Intelligence Customer",
-"url": "https://finance.yahoo.com/technology/articles/planet-awarded-contract-expansion-european-140300176.html",
-"pub": "2026-11-24T14:03:00+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-24T14:16:39+00:00"
-},
-{
-"id": "9a10d46fd01e",
-"t": "CRCL",
-"title": "Securitize’s High-Yield Fund HINC Goes Live as Collateral on Aave Horizon",
-"url": "https://unchainedcrypto.com/securitizes-high-yield-fund-hinc-goes-live-as-collateral-on-aave-horizon/",
-"pub": "2026-11-24T14:01:54+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-24T14:06:43+00:00"
-},
-{
-"id": "da027cba2f87",
-"t": "INTC",
-"title": "Trump Gave A Massive Clue Before Nvidia Rehired Huang. What Is The Next One?",
-"url": "https://www.trefis.com/stock/nvda/articles/628213/trump-gave-a-massive-clue-before-nvidia-rehired-huang-what-is-the-next-one/2026-11-24",
-"pub": "2026-11-24T14:01:46+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-24T14:44:20+00:00"
+"id": "43096d772feb",
+"t": "",
+"title": "US Steel Buyers Turn Abroad as Data Center Boom Strains Supply",
+"url": "https://www.bloomberg.com/news/articles/2026-11-24/us-steel-buyers-turn-abroad-as-data-center-boom-strains-supply",
+"pub": "2026-11-24T22:12:57+00:00",
+"src": "Bloomberg",
+"kind": "market",
+"seen": "2026-11-24T22:33:52+00:00"
 },
 {
 "id": "5f36a8efdf69",
@@ -8252,6 +8301,16 @@
 "seen": "2026-11-24T20:44:03+00:00"
 },
 {
+"id": "d0a3fdf3275d",
+"t": "",
+"title": "ChinaAMC SSE Market-Making Corporate Bd Idx ETF (511200.SS) | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9tcWo2X05Fc0ZxQnhld2d4Wl90Nmc2Nk1odGhvVThzQWNobkFFcFdUSS1NN1c5bktJQzctdXYybVNRdDJ2T1YwNTV6dlk4UUZFM2pDTXo3elhnZkx4?oc=5",
+"pub": "2026-11-24T20:24:34+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-24T22:33:52+00:00"
+},
+{
 "id": "9434d5bc2215",
 "t": "",
 "title": "Wednesday FX Options Expiries",
@@ -8340,6 +8399,16 @@
 "src": "FinancialJuice",
 "kind": "market",
 "seen": "2026-11-24T20:14:02+00:00"
+},
+{
+"id": "f1b282db0b10",
+"t": "",
+"title": "7983.JNF - | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPUnloX3N4N09VbkRKT2ZvUF9IN1VsQmE1QzlXZDMxX25zZjFmeGh0MUlaNXBic1dfRGxnblU3MGNMdWVKMTB0bVJyQjFpV051TG53Q2xOSlMwY0k1WndVX1FFUjU1XzNfNmx3SDc5XzIwcDF0b1VPMUpuUEdKNThTTzRiWlNpRHM?oc=5",
+"pub": "2026-11-24T19:38:20+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-24T22:33:52+00:00"
 },
 {
 "id": "a2bd075495f3",
@@ -9092,6 +9161,16 @@
 "seen": "2026-11-24T22:14:12+00:00"
 },
 {
+"id": "ec5428610d9d",
+"t": "",
+"title": "GOKUta.NS - | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1va1FmSWFQcGRpMTRIQXBPXzhPbVVRUnlPRTNEX1NwRkxqN05jMldiQ2F3UExvNU9Na0NvVWE3b3FHTjEtUHJtbmZjX3dnQnVfZERkWlF0SVR1U2toUWt4eDZyTWVrNUZoVi1SMFlzb1hQVkNlUGlyTVoyOA?oc=5",
+"pub": "2026-11-24T17:06:14+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-24T22:33:52+00:00"
+},
+{
 "id": "3d5d2a93eafc",
 "t": "",
 "title": "048470stat.KQ - | Stock Price & Latest News - Reuters",
@@ -9500,6 +9579,16 @@
 "src": "Reuters",
 "kind": "market",
 "seen": "2026-11-24T16:15:36+00:00"
+},
+{
+"id": "7a4dcfc02462",
+"t": "",
+"title": "0893.HS - | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE91cFp2SFBmMUdUVXl3dTVQMldWQzQ0WjNsZEE5QjZIZVpqMzFuUkxlVWRZbjhMSjRNUk5fV2ZHTE5LcTV6ZERxNDNySUxaWGd0dlJJNVkxeGtSc09vMEpwWi1YbkZ3NnFpQ2NUVlBzaWlseEhFc0ozclFB?oc=5",
+"pub": "2026-11-24T15:41:21+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-24T22:33:52+00:00"
 },
 {
 "id": "8bbebd8c87da",
@@ -9952,6 +10041,16 @@
 "seen": "2026-11-24T18:44:31+00:00"
 },
 {
+"id": "45db6ac94219",
+"t": "",
+"title": "IMPA.NSf - | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1rZWhPaUg1d2t5UWlmTHczOF9xYVRsZmZtemk4OHYwQVF2RGJvR0Z0ak9mS2xMdWpXWHZIbjVWd29waFYzZnJkZlQyUkU5MnRmUUdhRUtkdnVwZkNCN0RuVGZZWnY1T0NUMWZGUE9yODJLdEROSUJ4cXpQdkRxQQ?oc=5",
+"pub": "2026-11-24T14:08:12+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-24T22:33:52+00:00"
+},
+{
 "id": "de16351517fc",
 "t": "",
 "title": "Citi's Sentiment View - FJElite",
@@ -10102,6 +10201,16 @@
 "seen": "2026-11-24T14:06:43+00:00"
 },
 {
+"id": "6664b919da20",
+"t": "",
+"title": "Zorlu Enerji Elektrik Uretim AS (ZOREN.IS) | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1qd2pxMElXTjBzVG94Rk5Send1YXkyRUVKY3FXYnVTQUM5cWhKU3lNSVJkcnhPVldGZUkyQ2RqMzF6M1VPTFFvRzlYZEpLRThxY2lCRy1oYUY2OUc5ZkZLMTF2eUsxd29SenN4LVFzWQ?oc=5",
+"pub": "2026-11-24T13:41:50+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-24T22:33:52+00:00"
+},
+{
 "id": "d94d99edefbb",
 "t": "",
 "title": "Turkey Frees Ex-Minister Arrested in Fund Scandal After 18 Days",
@@ -10120,6 +10229,16 @@
 "src": "Bloomberg",
 "kind": "market",
 "seen": "2026-11-24T13:44:55+00:00"
+},
+{
+"id": "2f8e31425f8c",
+"t": "",
+"title": "VODA.INx - Reuters",
+"url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1CTGV5MlJ6NHBPQkZBVFhwNW1XMEp2NjktYXhJNGlrNnVNWS11Y0hxOFBsME5tMDMzQzRSaU5qNnFGazZmakdDN1ZXZTRudmdEWGo4YnBwZlFjSllDUDZuZXZETFRFaExjVWJiSmQxVEJGMTVkZlUwa1QzdV9Wdw?oc=5",
+"pub": "2026-11-24T13:37:50+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-24T22:33:52+00:00"
 },
 {
 "id": "4aa3b20e15eb",
@@ -10742,6 +10861,16 @@
 "seen": "2026-11-24T19:44:00+00:00"
 },
 {
+"id": "a3a02c4cfdfb",
+"t": "",
+"title": "HSYDF.PQ - | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1RWVhhTHBqLTdaZkxDenhXRkxUQjc2bEg1YjUxU2tjMDhZRTV3NlRiaEJTc1dlMTZCb0lCUVRvZWNCN3l4LWwzcktaT3dmSkNiRExfcmlhMml6ZzBqWWxpX0JNYzRBaHlMN1UtTldFYVB3TzBMNFZPUA?oc=5",
+"pub": "2026-11-24T11:36:39+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-24T22:33:52+00:00"
+},
+{
 "id": "96f6c0359808",
 "t": "",
 "title": "China Probes Politburo Member and Shanghai Chief Chen Jining",
@@ -10890,136 +11019,6 @@
 "src": "WSJ",
 "kind": "market",
 "seen": "2026-11-24T15:15:37+00:00"
-},
-{
-"id": "507256109250",
-"t": "",
-"title": "Forced Buying Aided Biggest Rally Since April 2025, Nomura Says",
-"url": "https://www.bloomberg.com/news/articles/2026-11-24/forced-buying-aided-biggest-rally-since-april-2025-nomura-says",
-"pub": "2026-11-24T11:02:40+00:00",
-"src": "Bloomberg",
-"kind": "market",
-"seen": "2026-11-24T11:15:08+00:00"
-},
-{
-"id": "c7ae72ebf98c",
-"t": "",
-"title": "Grocery Prices Are on the Rise, Just in Time for Thanksgiving",
-"url": "https://www.bloomberg.com/news/videos/2026-11-24/grocery-prices-are-on-the-rise-just-in-time-for-thanksgiving",
-"pub": "2026-11-24T11:00:55+00:00",
-"src": "Bloomberg",
-"kind": "market",
-"seen": "2026-11-24T11:15:08+00:00"
-},
-{
-"id": "b1416a42c822",
-"t": "",
-"title": "ECB's Kaasik: Latest data show rates must be raised to curb inflation",
-"url": "https://www.financialjuice.com/News/9865926/ECBs-Kaasik-Latest-data-show-rates-must-be-raised-to-curb-inflation.aspx?xy=rss",
-"pub": "2026-11-24T11:00:39+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-24T11:41:09+00:00"
-},
-{
-"id": "0d54f3e97150",
-"t": "",
-"title": "ECB's Kaasik: Reasonable that markets expect rates to rise",
-"url": "https://www.financialjuice.com/News/9865925/ECBs-Kaasik-Reasonable-that-markets-expect-rates-to-rise.aspx?xy=rss",
-"pub": "2026-11-24T11:00:18+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-24T11:41:09+00:00"
-},
-{
-"id": "c39f4a38571a",
-"t": "",
-"title": "Thanksgiving Dinner Costs More This Year With Grocery Prices Rising",
-"url": "https://www.bloomberg.com/news/articles/2026-11-24/thanksgiving-dinner-costs-more-this-year-with-grocery-prices-rising",
-"pub": "2026-11-24T11:00:12+00:00",
-"src": "Bloomberg",
-"kind": "market",
-"seen": "2026-11-24T11:15:08+00:00"
-},
-{
-"id": "607f89af5098",
-"t": "",
-"title": "ECB's Kaasik: Inflation may spread beyond energy; wages are key",
-"url": "https://www.financialjuice.com/News/9865927/ECBs-Kaasik-Inflation-may-spread-beyond-energy-wages-are-key.aspx?xy=rss",
-"pub": "2026-11-24T11:00:03+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-24T11:41:09+00:00"
-},
-{
-"id": "af8a7a65d59b",
-"t": "",
-"title": "Lemssouguer’s Big Unwind Offers Glimpse Into Complex Credit Bets",
-"url": "https://www.bloomberg.com/news/articles/2026-11-24/lemssouguer-s-big-unwind-offers-glimpse-into-complex-credit-bets",
-"pub": "2026-11-24T11:00:00+00:00",
-"src": "Bloomberg",
-"kind": "market",
-"seen": "2026-11-24T11:15:08+00:00"
-},
-{
-"id": "4b705196a3de",
-"t": "",
-"title": "UK CBI Distributive Trades Actual 9 (Forecast -28, Previous -10)",
-"url": "https://www.financialjuice.com/News/9865894/UK-CBI-Distributive-Trades-Actual-9-Forecast--28-Previous--10.aspx",
-"pub": "2026-11-24T11:00:00+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-24T11:15:08+00:00"
-},
-{
-"id": "b0273d33b56b",
-"t": "",
-"title": "Iran's IRGC: Another tanker hit mine in Hormuz Tuesday - Fars",
-"url": "https://www.financialjuice.com/News/9865893/Irans-IRGC-Another-tanker-hit-mine-in-Hormuz-Tuesday---Fars.aspx",
-"pub": "2026-11-24T10:59:24+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-24T11:15:08+00:00"
-},
-{
-"id": "d94cc3523c32",
-"t": "",
-"title": "LME Speeds Up Procedure for Listing Metal From New Plants",
-"url": "https://www.bloomberg.com/news/articles/2026-11-24/lme-speeds-up-procedure-for-listing-metal-from-new-plants",
-"pub": "2026-11-24T10:57:13+00:00",
-"src": "Bloomberg",
-"kind": "market",
-"seen": "2026-11-24T11:15:08+00:00"
-},
-{
-"id": "bf869a33bd00",
-"t": "",
-"title": "Commerzbank Considers Partial Treasury Market Pullback",
-"url": "https://www.bloomberg.com/news/videos/2026-11-24/commerzbank-considers-partial-treasury-market-pullback-video",
-"pub": "2026-11-24T10:52:23+00:00",
-"src": "Bloomberg",
-"kind": "market",
-"seen": "2026-11-24T11:15:08+00:00"
-},
-{
-"id": "a134532b3749",
-"t": "",
-"title": "Anthropic and OpenAI staff fear models are too unsafe to release - Axios",
-"url": "https://www.financialjuice.com/News/9865892/Anthropic-and-OpenAI-staff-fear-models-are-too-unsafe-to-release---Axios.aspx",
-"pub": "2026-11-24T10:50:28+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-24T11:15:08+00:00"
-},
-{
-"id": "038a54feaf51",
-"t": "",
-"title": "TSX futures slip as weaker commodity prices weigh on sentiment - Reuters",
-"url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOQkJocjFKV0xMczYwaEZoSml1a2EtcWNRZDZsREhmX1ZkdjlrdHUzOUJfdTVTRWtVMGpyUVlGbHVsRmhGaDUwTzFDVm1kLXBNUTN1eEVPRHk5VzdLMk1Jd0JHaDNFWUdGdV9FcVo5Z2ZydFI1Qm9ZOWlpTHRoMzZ0OGkzUTU0TUNMZmw0amVfZWpGdTNyb0xGNmpXSUhPaHJYVWxxZWVBOWxyZnM?oc=5",
-"pub": "2026-11-24T10:50:24+00:00",
-"src": "Reuters",
-"kind": "market",
-"seen": "2026-11-24T12:44:57+00:00"
 }
 ]
 }
