@@ -4666,66 +4666,61 @@
   }
  },
  "ADI": {
-  "p": "FY26 3분기 · 2026년 5~7월",
-  "tag": "+40%",
+  "p": "FY26 4분기 · 2026년 8~10월",
+  "tag": "+42%",
   "rows": [
    [
     "매출",
-    "40.2억 달러 (+40% · 처음 40억 넘음)"
+    "43.7억 달러 (+42% · 사상 최대)"
    ],
    [
     "산업",
-    "19.7억 달러 (+53%)"
+    "21.9억 달러 (+55%)"
    ],
    [
     "통신",
-    "6.55억 달러 (+84% · 대부분 데이터센터)"
+    "7.07억 달러 (+81%)"
    ],
    [
     "주당순이익(조정)",
-    "3.45달러 (예상 3.34달러)"
-   ],
-   [
-    "다음 분기 주당순이익 전망",
-    "3.71~4.01달러"
+    "4.06달러 (예상 3.88달러)"
    ]
   ],
-  "note": "11월 24일(미국 장 시작 전)에 다음 실적을 발표해요.",
+  "note": "산업(+55%)과 통신(+81%)이 이끌었고, 회사는 AI 인프라가 데이터센터·반도체 시험 장비 쪽 성장을 이끌었다고 했어요. 다음 분기 조정 주당순이익 전망 3.82달러(±0.20)는 애널리스트 예상 3.86달러(rallies.ai)보다 조금 낮아요. 발표 전 매출 예상 43.2억 달러는 MarketBeat·Hudson Labs 집계가 같았고, 다음 분기 매출 애널리스트 예상은 숫자를 확인하지 못해 뺐어요.",
   "src": [
    [
-    "ADI 3분기(Earnings Whispers)",
-    "https://www.earningswhispers.com/epsdetails/adi"
+    "ADI 4분기 실적 발표 (회사 IR)",
+    "https://investor.analog.com/news-releases/news-release-details/analog-devices-reports-record-fourth-quarter-and-fiscal-2026"
    ],
    [
-    "전망 대 예상(finviz)",
-    "https://finviz.com/news/383756/analog-devices-rises-as-third-quarter-results-and-q4-forecast-top-estimates"
+    "예상치·다음 분기 이익 예상 (rallies.ai)",
+    "https://rallies.ai/news/analog-devices-q4-adjusted-eps-406-vs-estimate-of-388-53b8c52f8131abaf"
    ],
    [
-    "발표 일정 공지(ADI 공식)",
-    "https://www.analog.com/en/newsroom/press-releases/2026/10-22-2026-adi-report-4q-fy2026-financial-results.html"
+    "발표 전 예상 (MarketBeat)",
+    "https://www.marketbeat.com/instant-alerts/upcoming-analog-devices-adi-set-to-release-quarterly-earnings-on-tuesday-2026-11-17/"
    ]
   ],
   "chart": {
    "cur": "usd",
+   "now": [
+    "8~10월",
+    4373
+   ],
+   "est": 4320,
+   "next": {
+    "label": "11~1월",
+    "guide": [
+     4250,
+     4550
+    ],
+    "cons": null,
+    "when": "2027년 2월 중순 (예상 · 회사 발표일 공지 전)"
+   },
    "prev": [
     "1년 전",
-    2880
-   ],
-   "now": [
-    "5~7월",
-    4020
-   ],
-   "est": 3920,
-   "next": {
-    "label": "8~10월",
-    "guide": [
-     4200,
-     4400
-    ],
-    "cons": 4080,
-    "asof": "8/19",
-    "when": "2026년 11월 24일 (미국 장 시작 전)"
-   }
+    3076
+   ]
   }
  },
  "NXPI": {

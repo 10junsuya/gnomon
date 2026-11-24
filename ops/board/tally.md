@@ -397,3 +397,10 @@
 - 확신도: 높음 (10-Q 손익계산서·재무상태표 숫자)
 - 제안: 앱은 회사 소개·제품·돈은 어디서 버나에는 CO_ALIAS(ECHO→SATS)를 쓰지만 실적 카드(QREC)에는 쓰지 않아, ECHO 로 열면 이 카드가 안 보여요. CO_ALIAS 대상에 실적 카드를 더하면 돼요(코드라 Conrad 확인 바람). 이제 칸이 없는 앱 종목은 ETF·GOOG·ECHO(별칭)뿐이에요.
 - 참고: 앱 다시 게시함(20:4x KST, 버전 288). 지난 게시와 같게 게시용 복사본에서만 CSP meta 한 줄을 뺐어요(저장소 파일은 그대로).
+
+### T-20261124-2123-1 · 반영 · ADI 실적 카드·일정 분석 (FY26 4분기)
+- 시각: 2026-11-24 21:3x KST
+- 내용: A 대상 ADI(11/24 21:00 일정) 반영. 실적 카드 「FY26 3분기 · 2026년 5~7월」 → 「FY26 4분기 · 2026년 8~10월」: 매출 43.73억 달러(+42%, 1년 전 30.76억 — 회사 표 숫자, 사상 최대), 산업 21.94억(+55%)·자동차 10.44억(+21%)·통신 7.07억(+81%)·소비자 4.29억(+7%), 조정 주당순이익 4.06달러(1년 전 2.26), GAAP 3.40달러, 조정 영업이익률 52.3%. 회계연도 매출 151.79억(+38%). 지난 분기 회사 전망 42~44억 안쪽. 다음 분기(11~1월) 전망 매출 44억 ±1.5억 → guide [4250, 4550], 조정 EPS 3.82 ±0.20. 발표 전 매출 예상 est 43.2억(MarketBeat·Hudson Labs 같음), 조정 EPS 예상 3.88(MarketBeat), 다음 분기 조정 EPS 예상 3.86(rallies.ai). 다음 분기 매출 cons 는 확인 못 해 null(note 에 밝힘). 일정 분석(events.json 11/24 ADI) done + card 넣음(타일 4개, check 3개). 부문별 금액은 회사 보도자료 표를 읽은 요약 두 번이 같고 합계(43.73억·30.76억)가 맞아 넣었어요. 다음 발표일 공지 없음 → "2027년 2월 중순 (예상 · 회사 발표일 공지 전)", 새 일정 안 넣음. card.views 는 아직 매체 해석 기사가 없어 다음 차례로 미뤘어요(장 전 주가 −7.3%, rallies.ai 보도만 확인). 회사 발표 2026-11-24 07:01 ET(한국 21:01), 반영 2026-11-24 21:3x KST.
+- 출처: [ADI 4분기 실적 발표 (회사 IR)](https://investor.analog.com/news-releases/news-release-details/analog-devices-reports-record-fourth-quarter-and-fiscal-2026) · [rallies.ai](https://rallies.ai/news/analog-devices-q4-adjusted-eps-406-vs-estimate-of-388-53b8c52f8131abaf) · [MarketBeat](https://www.marketbeat.com/instant-alerts/upcoming-analog-devices-adi-set-to-release-quarterly-earnings-on-tuesday-2026-11-17/) · [Hudson Labs](https://www.hudson-labs.com/research/analog-devices-q4-2026-earnings-preview-adi-revenue-outlook) · 공식 여부: 공식(실적) / 보도(예상치·주가)
+- 확신도: 높음 (실적·전망은 회사 발표 / 예상치는 매체 집계)
+- 요청: Tally B — ADI 일정 card.views(11/24 정규장 반응·반도체 업종·ETF 해석) 추가 바람. SEC 8-K 원문이 검색되면 첫 출처를 바꿔 주세요. DELL 은 한국 11/25 06:30 발표예요.
