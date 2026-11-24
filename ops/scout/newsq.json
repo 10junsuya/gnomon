@@ -1,16 +1,16 @@
 {
-"updated_kst": "2026-11-24 20:41",
-"rot": 111,
+"updated_kst": "2026-11-24 20:44",
+"rot": 171,
 "how": "Scout(프로그램)이 10분마다 모은 기사 제목·링크와 공시예요. Wren이 공식 출처로 확인한 뒤 회사 화면에 한국어로 반영해요. 본문은 받지 않아요.",
 "sources": {
 "Yahoo Finance": "120종목 확인 · 실패 0",
-"GlobeNewswire": "0건",
+"GlobeNewswire": "실패 HTTPError",
 "PR Newswire": "0건",
 "Business Wire": "0건",
 "CNBC": "63건",
 "Bloomberg": "39건",
 "WSJ": "61건",
-"Reuters": "46건",
+"Reuters": "47건",
 "FinancialJuice": "100건",
 "SEC EDGAR": "실패 HTTPError",
 "Fox Business": "50건"
@@ -25,6 +25,16 @@
 "src": "Yahoo Finance",
 "kind": "news",
 "seen": "2026-11-24T11:41:09+00:00"
+},
+{
+"id": "d5d781821871",
+"t": "NVDA",
+"title": "Nvidia Shares Fall 5% in Premarket Trading as Goldman Sachs Highlights Lingering Uncertainty Following Huang’s Return",
+"url": "https://investorshub.advfn.com/market-news/article/40601/nvidia-shares-fall-5-in-premarket-trading-as-goldman-sachs-highlights-lingering-uncertainty-following-huangs-return",
+"pub": "2026-11-24T11:23:03+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-24T11:44:08+00:00"
 },
 {
 "id": "8b3b2b8a98bd",
@@ -55,6 +65,16 @@
 "src": "Yahoo Finance",
 "kind": "news",
 "seen": "2026-11-24T11:41:09+00:00"
+},
+{
+"id": "d447be76657e",
+"t": "SPCX",
+"title": "SpaceX and Tesla Directors Hold Talks Over Potential US$3.5 Trillion Merger",
+"url": "https://investorshub.advfn.com/market-news/article/40597/spacex-and-tesla-directors-hold-talks-over-potential-us3-5-trillion-merger",
+"pub": "2026-11-24T11:19:30+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-24T11:44:08+00:00"
 },
 {
 "id": "bc27111a109f",
@@ -167,6 +187,16 @@
 "seen": "2026-11-24T11:41:09+00:00"
 },
 {
+"id": "6d2219065ce1",
+"t": "UUUU",
+"title": "Energy Fuels (TSX:EFR) Targets 1 Million Pounds Of U3O8 At White Mesa Mill",
+"url": "https://finance.yahoo.com/energy/articles/energy-fuels-tsx-efr-targets-111032564.html",
+"pub": "2026-11-24T11:10:32+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-24T11:44:08+00:00"
+},
+{
 "id": "d8ec5ceeec0e",
 "t": "NVDA",
 "title": "Huang-Over Damps Wall Street Pre-Bell; Asia Up, Europe Off",
@@ -195,6 +225,16 @@
 "src": "Yahoo Finance",
 "kind": "news",
 "seen": "2026-11-24T11:41:09+00:00"
+},
+{
+"id": "07b604162046",
+"t": "INSM",
+"title": "Why Is Insmed Stock Rising 14.3% Today?",
+"url": "https://investorshub.advfn.com/market-news/article/40589/why-is-insmed-stock-rising-14-3-today",
+"pub": "2026-11-24T11:07:28+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-24T11:44:08+00:00"
 },
 {
 "id": "9b525e66e1e2",
@@ -457,6 +497,26 @@
 "seen": "2026-11-24T11:41:09+00:00"
 },
 {
+"id": "3c99344401c9",
+"t": "CRM",
+"title": "ETFs Are Net Sellers of Salesforce (CRM) on Friday",
+"url": "https://finance.yahoo.com/markets/stocks/articles/etfs-net-sellers-salesforce-crm-110216382.html",
+"pub": "2026-11-24T11:02:16+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-24T11:44:08+00:00"
+},
+{
+"id": "7b3a84d2ee04",
+"t": "SPY",
+"title": "ETFs Bought $120 Million of Mastercard (MA) on Friday",
+"url": "https://finance.yahoo.com/markets/stocks/articles/etfs-bought-120-million-mastercard-110212516.html",
+"pub": "2026-11-24T11:02:12+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-24T11:44:08+00:00"
+},
+{
 "id": "aa69e38b9a26",
 "t": "QQQ",
 "title": "Costco (COST) Sees $123.3 Million in Net ETF Buying on Friday",
@@ -525,6 +585,16 @@
 "src": "Yahoo Finance",
 "kind": "news",
 "seen": "2026-11-24T11:41:09+00:00"
+},
+{
+"id": "538fd0ca2e72",
+"t": "BRKB",
+"title": "ETFs Are Buying Berkshire Hathaway (BRK.B) on Friday",
+"url": "https://finance.yahoo.com/markets/stocks/articles/etfs-buying-berkshire-hathaway-brk-110132555.html",
+"pub": "2026-11-24T11:01:32+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-24T11:44:08+00:00"
 },
 {
 "id": "1edec103e2c1",
@@ -755,6 +825,16 @@
 "src": "Yahoo Finance",
 "kind": "news",
 "seen": "2026-11-24T11:15:08+00:00"
+},
+{
+"id": "41012257930f",
+"t": "INSM",
+"title": "Sanofi to buy US biopharma group Insmed for $41 bn in cash",
+"url": "https://finance.yahoo.com/healthcare/articles/sanofi-buy-us-biopharma-group-104404701.html",
+"pub": "2026-11-24T10:44:04+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-24T11:44:08+00:00"
 },
 {
 "id": "fa2bf28c763f",
@@ -4439,6 +4519,16 @@
 "seen": "2026-11-23T21:44:13+00:00"
 },
 {
+"id": "e1be3eae533f",
+"t": "NBIS",
+"title": "Nvidia, Dell, Micron, Anthropic, CrowdStrike, UnitedHealth, and More Stocks That Explain Today’s Market",
+"url": "https://finance.yahoo.com/m/76a3103b-f3de-364f-8cd8-90e453a902d8/nvidia%2C-dell%2C-micron%2C.html",
+"pub": "2026-11-23T21:27:00+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-24T11:44:08+00:00"
+},
+{
 "id": "523b79a508fa",
 "t": "NVDA",
 "title": "Trump has a personal stake in Nvidia's future",
@@ -7930,97 +8020,6 @@
 "seen": "2026-11-23T17:30:51+00:00"
 },
 {
-"id": "58e24a58b2cb",
-"t": "NEE",
-"title": "FPL earns national recognition for reliability and customer value",
-"url": "https://www.prnewswire.com/news-releases/fpl-earns-national-recognition-for-reliability-and-customer-value-302948476.html",
-"pub": "2026-11-23T17:14:00+00:00",
-"src": "PR Newswire",
-"kind": "news",
-"orig": true,
-"seen": "2026-11-23T17:30:51+00:00"
-},
-{
-"id": "11c810ca651e",
-"t": "NVDA",
-"title": "Jensen Huang Is Back As Nvidia CEO. Stock Jumps.",
-"url": "https://finance.yahoo.com/m/9d4f41fa-65db-3d79-8406-bd396f20b522/jensen-huang-is-back-as.html",
-"pub": "2026-11-23T17:13:45+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-23T17:30:51+00:00"
-},
-{
-"id": "c5a07ddb6871",
-"t": "META",
-"title": "Meta throws out its net-zero goal. Its competitors should be furious",
-"url": "https://finance.yahoo.com/technology/articles/meta-throws-net-zero-goal-171345739.html",
-"pub": "2026-11-23T17:13:45+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-23T17:30:51+00:00"
-},
-{
-"id": "5a0462727a32",
-"t": "APH",
-"title": "A $2.9 Billion Fund Just Bought These 3 Stocks",
-"url": "https://www.tikr.com/blog/a-2-9-billion-fund-just-bought-these-3-stocks-2",
-"pub": "2026-11-23T17:13:43+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-23T17:30:51+00:00"
-},
-{
-"id": "c1163f9b6827",
-"t": "CRWD",
-"title": "CrowdStrike to Buy Zscaler for $43.9 Billion in AI Security Push",
-"url": "https://www.marketbeat.com/instant-alerts/event-crowdstrike-to-buy-zscaler-for-439-billion-in-ai-security-push-2026-11-23/",
-"pub": "2026-11-23T17:12:30+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-23T17:44:16+00:00"
-},
-{
-"id": "91d3355ac258",
-"t": "RRX",
-"title": "Core Margin Compression Hurt Regal Rexnord Corporation (RRX) in Q3",
-"url": "https://finance.yahoo.com/markets/stocks/articles/core-margin-compression-hurt-regal-171212309.html",
-"pub": "2026-11-23T17:12:12+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-23T17:30:51+00:00"
-},
-{
-"id": "6b7b32c9653c",
-"t": "SPCX",
-"title": "Wall Street's SpaceX sequel: Anthropic gets leveraged ETFs and options, and the original didn't end well",
-"url": "https://finance.yahoo.com/markets/article/wall-streets-spacex-sequel-anthropic-gets-leveraged-etfs-and-options-and-the-original-didnt-end-well-171144316.html",
-"pub": "2026-11-23T17:11:44+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-23T17:14:22+00:00"
-},
-{
-"id": "70c312387963",
-"t": "VRT",
-"title": "3 Cash Generative Large Cap Stocks for Higher Rates and AI Infrastructure",
-"url": "https://finance.yahoo.com/markets/stocks/articles/3-cash-generative-large-cap-171114844.html",
-"pub": "2026-11-23T17:11:14+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-23T17:44:16+00:00"
-},
-{
-"id": "415796461669",
-"t": "NVDA",
-"title": "Jensen Huang Is Back as Nvidia’s CEO. Is Nvidia Stock in the Clear or Do Risks Remain?",
-"url": "https://www.fool.com/investing/2026/11/23/jensen-huang-is-back-as-nvidia-s-ceo-is-nvidia-stock-in-the-clear-or-do-risks-remain/",
-"pub": "2026-11-23T17:11:00+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-23T17:30:51+00:00"
-},
-{
 "id": "0b4fc05c715b",
 "t": "",
 "title": "JP Morgan: We forecast US 10-year yields will peak around 5.10% in Q1 2027 before retracing to 4.95% by year-end 2027",
@@ -8909,6 +8908,16 @@
 "src": "Reuters",
 "kind": "market",
 "seen": "2026-11-24T10:44:44+00:00"
+},
+{
+"id": "eda70bfe382d",
+"t": "",
+"title": "Koninklijke Vopak N.V. (VOPKF.PK) | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBRUk5oWUpDTGhFZlRvZG03UU5ZMmotMFdhbDAtQWZkeFIwNmR0T3lsNDFGZWMzSmpmUHA5MlRsNHAtZGN5V3dKeVdHSEVnM1psd1d0N01QRXZNN0RJSmpseEFPQ2kxX1dzNThHQlFR?oc=5",
+"pub": "2026-11-24T07:05:03+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-24T11:44:08+00:00"
 },
 {
 "id": "bde1e65967af",
@@ -11009,16 +11018,6 @@
 "src": "Bloomberg",
 "kind": "market",
 "seen": "2026-11-23T20:14:14+00:00"
-},
-{
-"id": "7ec98d58b5cb",
-"t": "",
-"title": "Spanish airline Plus Ultra suspends last active route amid restructuring - Reuters",
-"url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPMHNMZHlQeW9BbGNTYUlRdHRobXZMMVRHY0w3UGpkSlk3dGZMM2FhRTJkWnVuOEZUWVZoSHFvYWRUSGF6VkZzOVlPOEszZV9FREthMHd1MEt3Q0R3QmlCQ2t4ZkhaWU5VUUk2QWthWUVZcHB5U1ZkdWNtc2xocmtlOHpxMEhWVU05REZnTUlLTkVBRmYtLWlGbUZNOUlFdmdXN0JiaW5ORzFIMnZKWUp5Zkc0c0tROFc1djVGZUJiZnQ?oc=5",
-"pub": "2026-11-23T20:11:49+00:00",
-"src": "Reuters",
-"kind": "market",
-"seen": "2026-11-23T20:30:15+00:00"
 }
 ]
 }
