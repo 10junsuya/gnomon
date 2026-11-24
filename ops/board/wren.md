@@ -3732,3 +3732,28 @@ Scout(소식 감지 프로그램)가 모은 기사·공시를 공식 출처로 �
 - 나에게 온 새 요청(RULES 0-3): 24시간 안 새 요청 없음(V-20261124-1841-3 은 18:43 에 처리). 미국 지표: 미국 동부 11-24 06:4x(화) — 오늘 6개 지표 발표 없음(다음 pce·claims 11-25), 매크로 수집 안 돌림, 분석 모두 최신. A 지도: 고칠 것 없음. 앱 다시 게시: 반영이 없어 안 함. done 은 대기 목록에 없는 오래된 id 부터 잘라 3000개 유지(저장 뒤 JSON 다시 읽어 확인).
 - 출처: ops/scout/newsq.json · 공식 여부: 저장소
 - 확신도: 높음
+
+### W-20261124-2113-1 · 반영 · AAOI 대형 데이터센터 고객과 4년 장기 공급 계약 — 확정 구매 약 22억 달러 (공식)
+- 시각: 2026-11-24 21:2x KST
+- 내용: companies.json news.AAOI 맨 앞(첫 줄)에 "기존 대형 데이터센터 고객과 4년 장기 공급 계약을 맺었어요(확정 구매 약 22억 달러)"(11-24 21:00 KST, 공식)를 넣었어요. 2027년 800G 트랜시버 약 15억 달러 + 2028~29년 레이저 다이오드 약 7억 달러. 회사는 고객 수요가 4년간 100억 달러를 넘는다고 했지만 '보장 아님'이라 줄에는 확정 금액만 넣었어요. 고객 이름은 밝히지 않아 A 지도 관계는 넣지 않았어요.
+- 출처: [AOI 보도자료(PR Newswire)](https://www.prnewswire.com/news-releases/aoi-announces-multi-year-long-term-agreement-with-tier-1-hyperscale-datacenter-customer-302949068.html) · [Stock Titan](https://www.stocktitan.net/news/AAOI/aoi-announces-multi-year-long-term-agreement-with-tier-1-hyperscale-igsxh6zd4638.html) · 공식 여부: 공식
+- 확신도: 높음(금액은 보도자료 요약 읽기 — 본문 뒷부분)
+
+### W-20261124-2113-2 · 반영 · ADI 4분기 매출 43.73억 달러(+42%, 최대) · 1분기 전망 44억 달러±1.5억 (공식)
+- 시각: 2026-11-24 21:2x KST
+- 내용: news.ADI 맨 앞(첫 줄)에 "4분기 매출이 42% 늘어 43.73억 달러로 최대였고, 1분기 매출 전망은 44억 달러(±1.5억)예요"(11-24 21:01 KST, 공식)를 넣었어요. 실적 카드·money.json 숫자는 Tally·Archer 몫이라 건드리지 않았어요. 참고: 조정 EPS 4.06달러, 2026 회계연도 매출 151.79억 달러(+38%), 분기 배당 주당 1.10달러(기준일 12/7).
+- 출처: [ADI 보도자료](https://investor.analog.com/news-releases/news-release-details/analog-devices-reports-record-fourth-quarter-and-fiscal-2026) · [SEC 8-K](https://www.sec.gov/Archives/edgar/data/0000006281/000000628126000087/adiq426exhibit991.htm) · 공식 여부: 공식
+- 확신도: 높음
+
+### W-20261124-2113-3 · 반영 · TSM 텍사스 226억 달러 공장안·재산세 감면 신청 (보도)
+- 시각: 2026-11-24 21:2x KST
+- 내용: news.TSM 맨 앞에 "텍사스에 226억 달러 반도체 공장안을 내고 재산세 감면을 신청했다고 로이터가 보도했어요"(11-24, 보도)를 넣었어요. TSMC 애리조나 자회사가 텍사스 감사관실에 JETI 제도로 신청(브라조스 카운티, 2나노 이하, 직접 고용 2,099명 이상). 신청서에 '감면 여부가 텍사스 투자 결정을 좌우하고 애리조나도 후보'라고 적혀 있어 확정 투자로 쓰지 않았어요. 회사 공식 발표는 못 찾았어요.
+- 출처: [로이터(WBOW 전재)](https://1027wbow.com/2026/11/24/tsmc-unit-seeks-texas-property-tax-limit-for-proposed-22-6-billion-chip-making-facility/) · [Finwire](https://finwire.io/news/stock-markets-news/tsmc-unit-seeks-texas-property-tax-limit-for-proposed-226-billion-chip-making-facility) · 공식 여부: 보도
+- 확신도: 높음(로이터 한 곳, 신청서 기반)
+
+### W-20261124-2113-4 · 알림 · 이번 차례
+- 시각: 2026-11-24 21:2x KST
+- 내용: Scout를 직접 돌린 뒤(성공, 21:15 KST 갱신) 새 항목 51건(news 44·market 7) 모두 처리. 반영 3건(위 AAOI·ADI·TSM). 건너뜀: '엔비디아 황 복귀'(11-23 22:55 NVDA 공식 줄과 같은 사건), '메타 600억 달러 AI 자금 계획, 주주 소송으로 지연'(11-19 META C주 발행 중단 줄과 같은 사건), '테슬라·스페이스X 합병 이사 5명'(11-24 TSLA·SPCX 줄과 같은 사건), '리제네론 첫 siRNA 중증근무력증 치료제'(11-19 REGN 공식 줄과 같은 사건), '중국, 엔비디아에 경고'(검색에서 새 조치를 찾지 못함 — 11/12~13 중국 외교부 발언 흐름), '텔레샛 캐나다 방산 컨소시엄 의미'(Simply Wall St 해설 — 새 사건 날짜를 확인 못 함), 'AMD 3.37억 이유'(내용 확인 못 함, 주가 글), 센트러스 12/7 투자자의 날(일정 공지), 인텔 CEO '공급 부족' 발언·코히런트 CEO '2027 거의 다 찼다'(인터뷰 정리), 팔란티어 CTO 주식 매도(내부자 매매), 캐시 우드·버리·펀드 매매, JP모건 메타 의견, 엔비디아 시총·칩 랠리·S&P 상승폭·AI 거품 공매도·종목 비교·배당·'살 만한 종목' 글. market 7건(CNBC 베스트바이 동일매장 매출(앱 종목 아님), 블룸버그 ECB 카식·과잉생산 관세·황 복귀와 성장·아라비카, WSJ 운송 정리, FinancialJuice 호르무즈 사고 늦은 보고) — 21시대라 done 만.
+- 나에게 온 새 요청(RULES 0-3): 24시간 안 새 요청 없음(V-20261124-1841-3 은 18:43 에 처리). 미국 지표: 미국 동부 11-24 07:1x(화) — 오늘 6개 지표 발표 없음(다음 pce·claims 11-25), 매크로 수집 안 돌림, 분석 모두 최신. A 지도: 고칠 것 없음(AAOI 고객 이름 없음, TSMC 텍사스는 회사 사이 관계 아님 — 반도체 지도 projects 에 넣을지는 투자 확정 뒤 검토 '제안'). done 은 대기 목록에 없는 오래된 id 부터 잘라 3000개 유지(저장 뒤 JSON 다시 읽어 확인).
+- 출처: ops/scout/newsq.json · 공식 여부: 저장소
+- 확신도: 높음
