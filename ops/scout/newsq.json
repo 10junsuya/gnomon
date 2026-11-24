@@ -1,21 +1,121 @@
 {
-"updated_kst": "2026-11-24 12:14",
-"rot": 44,
+"updated_kst": "2026-11-24 12:44",
+"rot": 104,
 "how": "Scout(프로그램)이 10분마다 모은 기사 제목·링크와 공시예요. Wren이 공식 출처로 확인한 뒤 회사 화면에 한국어로 반영해요. 본문은 받지 않아요.",
 "sources": {
 "Yahoo Finance": "120종목 확인 · 실패 0",
-"GlobeNewswire": "1건",
+"GlobeNewswire": "실패 HTTPError",
 "PR Newswire": "0건",
 "Business Wire": "0건",
 "CNBC": "63건",
 "Bloomberg": "40건",
 "WSJ": "61건",
-"Reuters": "52건",
+"Reuters": "100건",
 "FinancialJuice": "100건",
 "SEC EDGAR": "실패 HTTPError",
 "Fox Business": "50건"
 },
 "items": [
+{
+"id": "c403330f449b",
+"t": "NVDA",
+"title": "Asian stocks rally after Wall Street rebound as Jensen Huang returns as Nvidia’s CEO",
+"url": "https://finance.yahoo.com/markets/world-indices/articles/asian-stocks-rally-wall-street-033125464.html",
+"pub": "2026-11-24T03:31:25+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-24T03:44:17+00:00"
+},
+{
+"id": "1ef75d473230",
+"t": "NVDA",
+"title": "IREN Ltd. (IREN) Just Exploded 24%. Here’s What Sent Shares Flying",
+"url": "https://finance.yahoo.com/markets/stocks/articles/iren-ltd-iren-just-exploded-032509936.html",
+"pub": "2026-11-24T03:25:09+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-24T03:44:17+00:00"
+},
+{
+"id": "d4872248364e",
+"t": "NVDA",
+"title": "Michael Burry Bought Nvidia Calls, Cut His Semiconductor Shorts Before The Rally – But He’s Not Done Questioning Jensen Huang",
+"url": "https://stocktwits.com/news-articles/markets/equity/michael-burry-bought-nvidia-calls-cut-semiconductor-shorts-before-rally-not-done-questioning-jensen-huang/cNbrugeR9jD",
+"pub": "2026-11-24T03:23:55+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-24T03:44:17+00:00"
+},
+{
+"id": "494faa12c31f",
+"t": "NVDA",
+"title": "Astera Labs (ALAB) Shares Are on Fire. What’s Behind the Surge?",
+"url": "https://finance.yahoo.com/markets/stocks/articles/astera-labs-alab-shares-fire-032307598.html",
+"pub": "2026-11-24T03:20:57+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-24T03:44:17+00:00"
+},
+{
+"id": "aa0daef1f282",
+"t": "SPCX",
+"title": "SpaceX Stock Is Down 39% From Its High. Here's What Has to Happen Before I'd Buy.",
+"url": "https://www.fool.com/investing/2026/11/23/spacex-stock-is-down-39-from-its-high-here-s-what-has-to-happen-before-i-d-buy/",
+"pub": "2026-11-24T03:20:02+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-24T03:44:17+00:00"
+},
+{
+"id": "ab2523d75dce",
+"t": "NVDA",
+"title": "Credo Technology (CRDO) Just Made a Stunning Comeback",
+"url": "https://finance.yahoo.com/markets/stocks/articles/credo-technology-crdo-just-made-031759842.html",
+"pub": "2026-11-24T03:17:59+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-24T03:44:17+00:00"
+},
+{
+"id": "eaff7788d7cc",
+"t": "NVDA",
+"title": "POET Technologies Is Just One Of 3 Top Growth Stocks",
+"url": "https://finance.yahoo.com/markets/stocks/articles/poet-technologies-just-one-3-031509221.html",
+"pub": "2026-11-24T03:15:09+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-24T03:44:17+00:00"
+},
+{
+"id": "37d0f6eb5e46",
+"t": "CRWV",
+"title": "CoreWeave Inc. (CRWV) Just Turned the Tables. What Changed?",
+"url": "https://finance.yahoo.com/markets/stocks/articles/coreweave-inc-crwv-just-turned-031501579.html",
+"pub": "2026-11-24T03:15:01+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-24T03:44:17+00:00"
+},
+{
+"id": "def89b1a71fc",
+"t": "NVDA",
+"title": "AI Stock Rebound Has Asia Pacific Brokers Back on Retail Investors Radar",
+"url": "https://finance.yahoo.com/markets/stocks/articles/ai-stock-rebound-asia-pacific-031337654.html",
+"pub": "2026-11-24T03:13:37+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-24T03:44:17+00:00"
+},
+{
+"id": "044a91eba9e2",
+"t": "NVDA",
+"title": "ASE Technology (ASX) Became an AI Rally Winner. Investors Took Notice",
+"url": "https://finance.yahoo.com/technology/ai/articles/ase-technology-asx-became-ai-031206429.html",
+"pub": "2026-11-24T03:12:06+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-24T03:44:17+00:00"
+},
 {
 "id": "71a464836dce",
 "t": "NVDA",
@@ -47,6 +147,16 @@
 "seen": "2026-11-24T03:14:08+00:00"
 },
 {
+"id": "9cc20eea94ca",
+"t": "NVDA",
+"title": "Dead Cat Bounce? AI Stocks Climb 20%+, but IREN, Applied Digital Stay Down 50%+",
+"url": "https://beincrypto.com/ai-stocks-dead-cat-bounce-iren/",
+"pub": "2026-11-24T03:05:00+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-24T03:44:17+00:00"
+},
+{
 "id": "6df87550b98d",
 "t": "KO",
 "title": "BofA spots opportunities in these nine consumer staples stocks for 2027",
@@ -75,6 +185,16 @@
 "src": "Yahoo Finance",
 "kind": "news",
 "seen": "2026-11-24T03:14:08+00:00"
+},
+{
+"id": "417cacbfb654",
+"t": "TSM",
+"title": "Taiwan Stocks Jump 9%, Beating Korea and Japan on Huang's Nvidia Return",
+"url": "https://beincrypto.com/taiwan-stocks-jump-huang-nvidia-return/",
+"pub": "2026-11-24T02:54:12+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-24T03:44:17+00:00"
 },
 {
 "id": "ec71603ed029",
@@ -137,6 +257,16 @@
 "seen": "2026-11-24T03:14:08+00:00"
 },
 {
+"id": "f36f2ff984dc",
+"t": "MSFT",
+"title": "Microsoft CEO Satya Nadella Offered 60,000 Employees Buyouts So Everyone 'Felt Like They Had Agency' — Yet Insists Software Engineering Is 'Very Much Alive'",
+"url": "https://finance.yahoo.com/technology/ai/articles/microsoft-ceo-satya-nadella-offered-023006172.html",
+"pub": "2026-11-24T02:30:06+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-24T03:44:17+00:00"
+},
+{
 "id": "e3c1c58ff396",
 "t": "KLAC",
 "title": "KLA Stock Jumps On Earnings Beat And Singapore Expansion",
@@ -147,6 +277,26 @@
 "seen": "2026-11-24T03:14:08+00:00"
 },
 {
+"id": "3cccbf4268a9",
+"t": "COP",
+"title": "Vår Energi (OB:VAR) Agreed A $4.4 Billion North Sea Asset Deal",
+"url": "https://finance.yahoo.com/energy/articles/v-r-energi-ob-var-021712414.html",
+"pub": "2026-11-24T02:17:12+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-24T03:44:17+00:00"
+},
+{
+"id": "b1b390c10dfc",
+"t": "ACN",
+"title": "Accenture (ACN) Pushes Deeper Into Regulatory Data With AI And Real Time Risk Monitoring",
+"url": "https://finance.yahoo.com/technology/ai/articles/accenture-acn-pushes-deeper-regulatory-021708658.html",
+"pub": "2026-11-24T02:17:08+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-24T03:44:17+00:00"
+},
+{
 "id": "c814dff9c08d",
 "t": "NVDA",
 "title": "Nvidia's $130 billion outlook faces new White House test",
@@ -155,6 +305,16 @@
 "src": "Yahoo Finance",
 "kind": "news",
 "seen": "2026-11-24T02:44:41+00:00"
+},
+{
+"id": "68b7a2ce7a7a",
+"t": "COP",
+"title": "Why Is ConocoPhillips (COP) Leaving Norway After More Than 50 Years?",
+"url": "https://finance.yahoo.com/energy/articles/why-conocophillips-cop-leaving-norway-021548496.html",
+"pub": "2026-11-24T02:15:48+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-24T03:44:17+00:00"
 },
 {
 "id": "11ba113ba4f5",
@@ -345,6 +505,16 @@
 "src": "Yahoo Finance",
 "kind": "news",
 "seen": "2026-11-24T01:43:39+00:00"
+},
+{
+"id": "eeea8b196df1",
+"t": "SKHY",
+"title": "Nvidia’s Asian Suppliers Rally as Jensen Huang Returns as CEO: SK Hynix Jumps 8%, SoftBank Shares Rise in Tokyo",
+"url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-asian-suppliers-rally-jensen-012213841.html",
+"pub": "2026-11-24T01:22:13+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-24T03:44:17+00:00"
 },
 {
 "id": "326bed1d92d5",
@@ -2450,6 +2620,16 @@
 "seen": "2026-11-23T22:14:27+00:00"
 },
 {
+"id": "b49dc334e5da",
+"t": "DELL",
+"title": "Dear Dell Stock Fans, Mark Your Calendars for November 24",
+"url": "https://www.barchart.com/story/news/8971295/dear-dell-stock-fans-mark-your-calendars-for-november-24",
+"pub": "2026-11-23T20:43:38+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-24T03:44:17+00:00"
+},
+{
 "id": "e72c68371c55",
 "t": "LLY",
 "title": "Lilly executive calls oncology the key growth area after obesity",
@@ -3708,6 +3888,16 @@
 "src": "Yahoo Finance",
 "kind": "news",
 "seen": "2026-11-23T19:14:46+00:00"
+},
+{
+"id": "2cf674877c53",
+"t": "UNH",
+"title": "UnitedHealth and Humana Stocks Keep Sliding. Why They’re Not Taking Part in Today’s Rally.",
+"url": "https://finance.yahoo.com/m/d0fd6d8b-d1a6-362a-bb50-f60968842e04/unitedhealth-and-humana.html",
+"pub": "2026-11-23T18:42:00+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-24T03:44:17+00:00"
 },
 {
 "id": "fd2184bf6496",
@@ -7831,194 +8021,14 @@
 "seen": "2026-11-23T16:30:06+00:00"
 },
 {
-"id": "fd01fedaa92a",
-"t": "HD",
-"title": "Can Home Depot Reignite Growth Amid Weak Big-Ticket Demand?",
-"url": "https://finance.yahoo.com/markets/stocks/articles/home-depot-reignite-growth-amid-151500743.html",
-"pub": "2026-11-23T15:15:00+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-23T17:14:22+00:00"
-},
-{
-"id": "dfb9b504c234",
-"t": "CRM",
-"title": "Citi Issues Stark Warning on Salesforce Ahead of Earnings",
-"url": "https://finance.yahoo.com/markets/stocks/articles/citi-issues-stark-warning-salesforce-151444009.html",
-"pub": "2026-11-23T15:14:44+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-23T15:29:37+00:00"
-},
-{
-"id": "d4c00cc81be0",
-"t": "COHR",
-"title": "CoreWeave, Nebius lead neocloud stocks higher as Jensen Huang's Nvidia return lifts AI trade",
-"url": "https://finance.yahoo.com/markets/article/coreweave-nebius-lead-neocloud-stocks-higher-as-jensen-huang-is-reinstated-as-ceo-of-nvidia-151417634.html",
-"pub": "2026-11-23T15:14:17+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-23T15:16:45+00:00"
-},
-{
-"id": "bd86081cf61d",
-"t": "KLAC",
-"title": "FORM Drops 28% in a Month: Should You Buy the Stock on the Dip?",
-"url": "https://finance.yahoo.com/markets/stocks/articles/form-drops-28-month-buy-151400757.html",
-"pub": "2026-11-23T15:14:00+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-23T17:14:22+00:00"
-},
-{
-"id": "8d3706c0d8e2",
-"t": "NVDA",
-"title": "'Eyes in the back of his head': Why Jensen could be sharper after ouster",
-"url": "https://finance.yahoo.com/video/eyes-in-the-back-of-his-head-why-jensen-could-be-sharper-after-ouster-151351120.html",
-"pub": "2026-11-23T15:13:51+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-23T15:16:45+00:00"
-},
-{
-"id": "861443a487e8",
-"t": "MSFT",
-"title": "Texas Pacific Land to Buy EagleRock, Expanding Permian Land and Water Footprint",
-"url": "https://www.marketbeat.com/instant-alerts/event-texas-pacific-land-to-buy-eaglerock-expanding-permian-land-and-water-footprint-2026-11-23/",
-"pub": "2026-11-23T15:13:36+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-23T15:29:37+00:00"
-},
-{
-"id": "f5e220f1a21e",
-"t": "CRWD",
-"title": "CrowdStrike stock outlook after the $44B Zscaler acquisition deal",
-"url": "https://finance.yahoo.com/markets/stocks/articles/crowdstrike-stock-outlook-44b-zscaler-151321613.html",
-"pub": "2026-11-23T15:13:21+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-23T15:44:40+00:00"
-},
-{
-"id": "49e80cca1394",
-"t": "GOOGL",
-"title": "Jensen Huang Just Got His Nvidia Job Back. When Steve Jobs, Howard Schultz and Bob Iger Came Back, the Stock Rose, and a Year Later 4 of 6 Comebacks Trailed the Market",
-"url": "https://247wallst.com/investing/2026/11/23/jensen-huang-just-got-his-nvidia-job-back-when-steve-jobs-howard-schultz-and-bob-iger-came-back-the-stock-rose-and-a-year-later-4-of-6-comebacks-trailed-the-market/",
-"pub": "2026-11-23T15:13:00+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-23T15:29:37+00:00"
-},
-{
-"id": "492bf0ba9105",
-"t": "ISRG",
-"title": "GE HealthCare Adds AI Features to Enhance Imaging 360 Workflows",
-"url": "https://finance.yahoo.com/healthcare/articles/ge-healthcare-adds-ai-features-151300382.html",
-"pub": "2026-11-23T15:13:00+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-23T16:30:06+00:00"
-},
-{
-"id": "a15455c7466a",
-"t": "TSLA",
-"title": "Tesla Soars 13% as FSD V15 Rolls Out: Musk Calls It a “Banger Release”",
-"url": "https://www.tikr.com/blog/tesla-soars-13-as-fsd-v15-rolls-out-musk-calls-it-a-banger-release",
-"pub": "2026-11-23T15:12:50+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-23T15:29:37+00:00"
-},
-{
-"id": "d74e8b3a5ee5",
-"t": "APLD",
-"title": "Applied Digital signs 150 MW, 18-year lease with investment-grade hyperscaler, lifting contracted revenue above $41 billion",
-"url": "https://blockspace.media/insight/applied-digital-signs-hyperscaler-lease/",
-"pub": "2026-11-23T15:12:31+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-24T03:14:08+00:00"
-},
-{
-"id": "21bb568f04f9",
-"t": "AMZN",
-"title": "Can MercadoLibre Sustain 40% GMV Growth in Argentina?",
-"url": "https://finance.yahoo.com/markets/stocks/articles/mercadolibre-sustain-40-gmv-growth-151200977.html",
-"pub": "2026-11-23T15:12:00+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-23T16:30:06+00:00"
-},
-{
-"id": "ac0b2bdf64aa",
-"t": "NVDA",
-"title": "Generative AI in Drug Discovery Global Market Report 2026 | Capitalize on 27.2% CAGR as NVIDIA, Bayer, Merck KGaA and Recursion Pharmaceuticals Accelerate Drug Design",
-"url": "https://finance.yahoo.com/healthcare/articles/generative-ai-drug-discovery-global-151100822.html",
-"pub": "2026-11-23T15:11:00+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-23T15:29:37+00:00"
-},
-{
-"id": "b1e1dcf4e0bb",
-"t": "INTC",
-"title": "Nvidia, Arm, Anthropic, CrowdStrike, Zscaler, UnitedHealth, and More Stocks That Explain Today’s Market",
-"url": "https://finance.yahoo.com/m/76a3103b-f3de-364f-8cd8-90e453a902d8/nvidia%2C-arm%2C-anthropic%2C.html",
-"pub": "2026-11-23T15:11:00+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-23T16:15:46+00:00"
-},
-{
-"id": "d290fd98e187",
-"t": "MO",
-"title": "Can MO's Basic Brand Benefit From Growing Discount Cigarette Demand?",
-"url": "https://finance.yahoo.com/markets/stocks/articles/mos-basic-brand-benefit-growing-151100050.html",
-"pub": "2026-11-23T15:11:00+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-23T17:14:22+00:00"
-},
-{
-"id": "223df96dc08b",
-"t": "GOOGL",
-"title": "Morgan Stanley Sees 14% Earnings Growth as Stocks Price In a 6% Decline",
-"url": "https://finance.yahoo.com/markets/stocks/articles/morgan-stanley-sees-14-earnings-151024182.html",
-"pub": "2026-11-23T15:10:24+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-23T15:29:37+00:00"
-},
-{
-"id": "a63f2d8b489e",
-"t": "WMT",
-"title": "MERSCO Joins Walmart’s Hardlines Category Exchange, Exploring Opportunities in Backyard Play Expansion and Peak-Season Strategy",
-"url": "https://finance.yahoo.com/small-business/articles/mersco-joins-walmart-hardlines-category-151000715.html",
-"pub": "2026-11-23T15:10:00+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-23T15:29:37+00:00"
-},
-{
-"id": "f5c2355b79e3",
-"t": "MA",
-"title": "Mastercard (MA) Deepens Payment Partnership With A Global Marketplace",
-"url": "https://finance.yahoo.com/markets/stocks/articles/mastercard-ma-deepens-payment-partnership-150945283.html",
-"pub": "2026-11-23T15:09:45+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-23T16:15:46+00:00"
-},
-{
-"id": "d7464f32c58c",
-"t": "AMD",
-"title": "AMD Revenue Jumps 45% to Record $13.4 Billion Despite Chip Stock Selloff",
-"url": "https://finance.yahoo.com/markets/stocks/articles/amd-revenue-jumps-45-record-150926973.html",
-"pub": "2026-11-23T15:09:26+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-23T15:29:37+00:00"
+"id": "3411016ce166",
+"t": "",
+"title": "Shares in Chinese Cobalt Producers Jump After Congo Bans Exports",
+"url": "https://www.bloomberg.com/news/articles/2026-11-24/shares-in-chinese-cobalt-producers-jump-after-congo-bans-exports",
+"pub": "2026-11-24T03:17:56+00:00",
+"src": "Bloomberg",
+"kind": "market",
+"seen": "2026-11-24T03:44:17+00:00"
 },
 {
 "id": "9402acf98323",
@@ -8101,6 +8111,26 @@
 "seen": "2026-11-24T01:43:39+00:00"
 },
 {
+"id": "3e94e0707013",
+"t": "",
+"title": "MIPH.CA - Reuters",
+"url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9FLWlNYzlwTGRER2JvM003OVlVelRpajRpMWhxUE0zOHRrWHIwT1ZhWlJCc1N3UXp4dThTM1pPWC1Vd2k4R01VYTQ0V0hDNnRUejd3UkhBTWZkUkJHS3RoNmVmMGw0QXFsR1lDT3lVRTlxVXcydUVLQw?oc=5",
+"pub": "2026-11-24T01:07:13+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-24T03:44:17+00:00"
+},
+{
+"id": "706bb81379c1",
+"t": "",
+"title": "Geberit AG (GBRFy.D) | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5OckVuMXdITFZHR1RQUXRMMHpiWWJuNlk5cGk0US1ESE1IVkd1MkhQTDd0cVhMUjNZMFd2d1hpTUQwLWE5VEhqLUR6LTg2ckRSNmJfNVdReHBTQWdHaDBwcEdyYlEyUnRDa2pPQlVR?oc=5",
+"pub": "2026-11-24T01:05:41+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-24T03:44:17+00:00"
+},
+{
 "id": "e577b604e5fe",
 "t": "",
 "title": "Gold Rises Amid Risk-on Sentiment Across Markets",
@@ -8119,6 +8149,16 @@
 "src": "WSJ",
 "kind": "market",
 "seen": "2026-11-24T01:14:35+00:00"
+},
+{
+"id": "e76253365a27",
+"t": "",
+"title": "QEKM.BE%5EF08 - | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNV1hZRUJJV3pZZGtqc3N4cEpVRUJhWE8zeXhtOE05R18wdVJiWDJMdV9HcUgzV3VZQjB3Q21jbHZSaEt6ZkM5SmNNOXhvV3VMczVXc2FqbWpVejRrMmQzQlQ2UkZkdlRGLUJZNFVjQW1yNmdveUlqNkU0QjRLZ2VyUHl5Z0Y5OTRoYzh0ek05UQ?oc=5",
+"pub": "2026-11-24T00:44:14+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-24T03:44:17+00:00"
 },
 {
 "id": "63f75b86da78",
@@ -8211,6 +8251,16 @@
 "seen": "2026-11-23T23:43:56+00:00"
 },
 {
+"id": "e59b9cf8a648",
+"t": "",
+"title": "Katex AD (0IVH.L) | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1idjZrbmFVVmZyamdtN1pSRWlDczFSdy1IX0xwc0REWHkzRGFuYjRQNjk3czAwREhNRlJ2TUw4SF91SGk1WFJ5RVE2c3Z0eVE1X3JGOUxvT1ZnRndldnc?oc=5",
+"pub": "2026-11-23T23:35:06+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-24T03:44:17+00:00"
+},
+{
 "id": "284547193568",
 "t": "",
 "title": "Why Did Nvidia Reinstate Jensen Huang as CEO?",
@@ -8269,6 +8319,16 @@
 "src": "Reuters",
 "kind": "market",
 "seen": "2026-11-24T00:44:21+00:00"
+},
+{
+"id": "44d1aa4d35e4",
+"t": "",
+"title": "000731ta.SZ - | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQTTJwRmpJU09WandpdmVEeTdoNUFiUVVHaEtVWkFXY3cwTEI1bEpESUF3V2RXM05QSHA3YUlVdHlhN0tyRFdlbzQtUmxDTUx6Y3JaYm1TSUJfUEVzUFppd0VRb056QXl6YVZyeTN0aGRaYm04MDhZb181MkFVYS1LYWtR?oc=5",
+"pub": "2026-11-23T22:42:58+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-24T03:44:17+00:00"
 },
 {
 "id": "18db56895a53",
@@ -9329,6 +9389,16 @@
 "src": "FinancialJuice",
 "kind": "market",
 "seen": "2026-11-23T18:44:28+00:00"
+},
+{
+"id": "bdefb550d770",
+"t": "",
+"title": "DLTR.A - Reuters",
+"url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9JSzVORGp5ZlZHUWhWSXFaS1BSZWdHeWFZNEg4YTNoSTVOR1huTVlyWWNLTUF2TDEzNG1kX1N6RkpMdDBaT3B3M29yYUh5WFBQVk1ZQ0Vwc2N0NEo3Zkk0dUt5YnlJVlVhbU1RcmNB?oc=5",
+"pub": "2026-11-23T18:37:21+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-24T03:44:17+00:00"
 },
 {
 "id": "3c853fdb6421",
@@ -10946,76 +11016,6 @@
 "title": "NVIDIA: Harvey C. Jones to stay as board chair. $NVDA",
 "url": "https://www.financialjuice.com/News/9864475/NVIDIA-Harvey-C-Jones-to-stay-as-board-chair-NVDA.aspx?xy=rss",
 "pub": "2026-11-23T14:03:03+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-23T14:15:52+00:00"
-},
-{
-"id": "1682963e715e",
-"t": "",
-"title": "Effective Fed funds rate 3.88% November 20th vs 3.88% November 19th.",
-"url": "https://www.financialjuice.com/News/9864454/Effective-Fed-funds-rate-388-November-20th-vs-388-November-19th.aspx?xy=rss",
-"pub": "2026-11-23T13:59:57+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-23T14:15:52+00:00"
-},
-{
-"id": "64fd97841f55",
-"t": "",
-"title": "NVIDIA's CEO Huang: I can’t wait to get back to work.",
-"url": "https://www.financialjuice.com/News/9864453/NVIDIAs-CEO-Huang-I-cant-wait-to-get-back-to-work.aspx?xy=rss",
-"pub": "2026-11-23T13:58:41+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-23T14:15:52+00:00"
-},
-{
-"id": "e6ec5be97a1d",
-"t": "",
-"title": "Nvidia Corporation - Board confirms no national security risk in Jensen Huang's reinstatement $NVDA",
-"url": "https://www.financialjuice.com/News/9864452/Nvidia-Corporation---Board-confirms-no-national-security-risk-in-Jensen-Huangs-reinstatement-NVDA.aspx?xy=rss",
-"pub": "2026-11-23T13:57:56+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-23T14:15:52+00:00"
-},
-{
-"id": "46e784fd25ed",
-"t": "",
-"title": "NVIDIA: Huang probe to continue after reinstatement.",
-"url": "https://www.financialjuice.com/News/9864451/NVIDIA-Huang-probe-to-continue-after-reinstatement.aspx?xy=rss",
-"pub": "2026-11-23T13:57:17+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-23T14:15:52+00:00"
-},
-{
-"id": "897fee739434",
-"t": "",
-"title": "JPMorgan's Fed Rate Expectations - FJElite",
-"url": "https://www.financialjuice.com/News/9864450/JPMorgans-Fed-Rate-Expectations---FJElite.aspx?xy=rss",
-"pub": "2026-11-23T13:57:05+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-23T14:15:52+00:00"
-},
-{
-"id": "87bbc62df765",
-"t": "",
-"title": "NVIDIA has formed national security & export control committee.",
-"url": "https://www.financialjuice.com/News/9864449/NVIDIA-has-formed-national-security--export-control-committee.aspx?xy=rss",
-"pub": "2026-11-23T13:57:02+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-23T14:15:52+00:00"
-},
-{
-"id": "20932cb1781d",
-"t": "",
-"title": "Nvidia: Board received input from senior levels of the US government $NVDA",
-"url": "https://www.financialjuice.com/News/9864448/Nvidia-Board-received-input-from-senior-levels-of-the-US-government-NVDA.aspx?xy=rss",
-"pub": "2026-11-23T13:56:48+00:00",
 "src": "FinancialJuice",
 "kind": "market",
 "seen": "2026-11-23T14:15:52+00:00"
