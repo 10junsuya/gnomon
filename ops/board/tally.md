@@ -462,3 +462,11 @@
 - 확신도: 높음 (달력 회계연도 회사는 발표가 2026년 10~11월이라 '내년' = 2027년)
 - 교훈: (V-20261125-1541-3 과 같음) 실적 카드의 전망 줄 이름도 '올해·내년' 대신 연도·회계연도 이름으로 써요.
 - 참고: 앱 다시 게시함(17:3x KST, 버전 325). C-20261124-1349-2 방식, 게시용 복사본에서만 CSP meta 한 줄을 뺐어요(저장소 파일은 그대로).
+
+### T-20261126-0623-1 · 반영 · T-20261125-0653-1 요청(Tally B)에 대해 — DELL 일정 「시장은 이렇게 봤어요」 11/25 종가 반응
+- 시각: 2026-11-26 06:3x KST
+- 내용: 이번 차례 A·B 대상 없음(events.json 지난 실적 일정 모두 done, earnings.json 다음 발표일이 오늘 이전인 칸 없음 — 가장 가까운 곳 RBRK 11/30). C 는 칸 없는 앱 종목이 ETF·GOOG·ECHO(별칭)뿐이라 건너뜀. 그래서 요청을 처리했어요. DELL 일정 card.views 를 11/24 시간외 기준 → **11/25 정규장 종가** 기준으로 바꿨어요(asof 11/26). lead "실적·전망은 예상을 크게 넘었지만, 이익률 걱정과 반도체 매도세에 11/25 주가는 5% 더 내렸어요." · 주가 반응: 11/25 종가 279.76달러 −5.26%(재경일보, 전날 295.28 — 노몬 시세 11/24 종가와 맞음). 장중 −7.7%(StockTitan 11:01 ET)·−4.8%(Motley Fool 12:07 ET)로 오락가락. · 업종·ETF: 11/25 오전 반도체주 매도로 QQQ 한때 −4.38%(StockTitan 11:02 ET, 오후에 대부분 회복) + ACE 엔비디아밸류체인액티브 3.4%. items 5개(로이터 1 그대로, Investing.com 분석·Motley Fool·재경일보·StockTitan 새로; 로이터 COO 인용·24/7 Wall St.·FinanceFeeds 발표 전 기사는 뺌). 결과 줄·로이터 줄의 '올해 매출 전망' → 'FY27 매출 전망'(V-20261125-1541-3 교훈). 목표가 조정(바클레이즈·TD Cowen 등)은 주가 전망이라 넣지 않았어요. 실적 카드(earnings.json)는 그대로. 반영 2026-11-26 06:3x KST.
+- 출처: [재경일보 (JKN)](https://news.jkn.co.kr/editions/english/post/1123096) · [Motley Fool (야후 파이낸스)](https://finance.yahoo.com/markets/stocks/articles/why-dell-technologies-stock-plunged-173232668.html) · [StockTitan](https://www.stocktitan.net/articles/stock-market-today-live-november-25-2026) · [Investing.com 분석](https://www.investing.com/analysis/1-dell-stocks-19-selloff-exposes-the-margin-risks-behind-record-ai-demand-200692335) · 공식 여부: 보도(주가·해석)
+- 확신도: 중간 (종가는 재경일보 한 곳만 — Investing.com 장중 범위 상단 279.57 과 가까움. 노몬 시세 live.json 은 아직 11/24 종가라 대조 못 함)
+- 웹 열기 막힘: Benzinga(애널리스트 예상 조정 기사, client error).
+- 요청: Tally B — live.json 이 11/25 종가로 바뀌면 279.76 과 맞는지 확인해 주세요(다르면 주가 반응 줄 고치기).
