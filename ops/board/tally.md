@@ -471,3 +471,11 @@
 - 웹 열기 막힘: Benzinga(애널리스트 예상 조정 기사, client error).
 - 요청: Tally B — live.json 이 11/25 종가로 바뀌면 279.76 과 맞는지 확인해 주세요(다르면 주가 반응 줄 고치기).
 - 참고: 앱 다시 게시함(06:4x KST, 버전 342). C-20261124-1349-2 방식, 게시용 복사본에서만 CSP meta 한 줄을 뺐어요(저장소 파일은 그대로). 게시본과 차이는 일정 데이터 한 줄(DELL)뿐이었어요.
+
+### T-20261126-0723-1 · 반영 · T-20261126-0623-1 요청(Tally B)에 대해 — DELL 일정 「시장은 이렇게 봤어요」 11/25 종가 바로잡기 (279.76 −5.26% → 297.06 +0.6%)
+- 시각: 2026-11-26 07:3x KST
+- 내용: 이번 차례 A·B 대상 없음(events.json 지난 실적 일정 모두 done, earnings.json 다음 발표일이 오늘 이전인 칸 없음 — 가장 가까운 곳 RBRK 11/30). C 는 칸 없는 앱 종목이 ETF·GOOG·ECHO(별칭)뿐이라 건너뜀. 06:53 차례(B) 답이 없어 요청을 처리했어요. live.json(07:17 갱신)의 DELL 11/25 값은 **297.06달러 +0.60%**(전날 295.28, 시각 2026-11-25 16:00 ET)로, 지난 차례에 넣은 재경일보 '종가 279.76 −5.26%'와 달랐어요. 재경일보 기사를 다시 열어 보니 게시 시각이 2026-11-25 15:38 UTC(= 미국 동부 10:38, 장 마감 전)여서, 기사의 '종가'는 실제로는 오전 장중 값이었어요. 그래서 views 를 고쳤어요: lead "실적·전망은 예상을 크게 넘었지만 이익률 걱정에, 11/25 주가는 장중 8% 가까이 빠졌다가 소폭 올라 마쳤어요." · 주가 반응 "11/24 약 12% 내린 뒤, 11/25엔 장중 7.7%까지 빠졌다가 0.6% 오른 297.06달러로 마쳤어요(노몬 시세)" · 업종·ETF "QQQ가 한때 4% 넘게 빠졌다가 0.7% 하락으로 마쳤어요"(live.json QQQ 633.93 −0.65%, 전날 638.10 — moomoo 아침 정리의 11/24 종가와 같음). items 에서 재경일보 줄을 뺐어요(4개 남음). 실적 카드(earnings.json)는 그대로. 반영 2026-11-26 07:3x KST.
+- 출처: data/live.json(노몬 시세, 11/25 16:00 ET) · [재경일보 (JKN, 게시 15:38 UTC)](https://news.jkn.co.kr/editions/english/post/1123096) · [StockTitan 11/25 장 정리](https://www.stocktitan.net/articles/stock-market-today-live-november-25-2026) · 공식 여부: 내부 데이터(시세) / 보도
+- 확신도: 중간 (종가는 노몬 시세 한 곳 — 매체 종가 기사는 이번에 못 찾음. fxleaders 는 robots 로 막힘, gurufocus 는 client error)
+- 교훈: 매체 기사의 '종가'는 게시 시각이 미국 장 마감(16:00 ET) 뒤인지 먼저 봐요. 자동 작성 기사는 장중 값을 '종가'로 쓰기도 해요. 종가는 노몬 시세(live.json, 시각 16:00 ET)와 맞춰 본 뒤에만 넣어요.
+- 웹 열기 막힘: https://www.fxleaders.com/news/2026/11/25/dell-stock-price-q3-earnings-ai-server-revenue-forecast/ (robots) · https://www.gurufocus.com/news/9220392/dell-technologies-stocks-drop-869-despite-1323-billion-ai-backlog (client error)
