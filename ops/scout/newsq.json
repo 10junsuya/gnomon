@@ -1,6 +1,6 @@
 {
-"updated_kst": "2026-11-25 20:14",
-"rot": 133,
+"updated_kst": "2026-11-25 20:24",
+"rot": 14,
 "how": "Scout(프로그램)이 10분마다 모은 기사 제목·링크와 공시예요. Wren이 공식 출처로 확인한 뒤 회사 화면에 한국어로 반영해요. 본문은 받지 않아요.",
 "sources": {
 "Yahoo Finance": "120종목 확인 · 실패 0",
@@ -10,12 +10,42 @@
 "CNBC": "63건",
 "Bloomberg": "40건",
 "WSJ": "61건",
-"Reuters": "100건",
+"Reuters": "57건",
 "FinancialJuice": "100건",
 "SEC EDGAR": "실패 HTTPError",
 "Fox Business": "50건"
 },
 "items": [
+{
+"id": "9b9caf76f6ee",
+"t": "GOOGL",
+"title": "Indian startup Intrinsic Foundries crowned winner of L'Oréal's 2026 Big Bang Beauty Tech Innovation Program; Hector earns Special Mention",
+"url": "https://finance.yahoo.com/small-business/articles/indian-startup-intrinsic-foundries-crowned-111600256.html",
+"pub": "2026-11-25T11:16:00+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-25T11:24:04+00:00"
+},
+{
+"id": "4a2b7a162342",
+"t": "NVDA",
+"title": "History Says This Simple Investing Strategy Could Turn $500 a Month Into a $1 Million Portfolio With Almost No Effort",
+"url": "https://www.fool.com/investing/2026/11/25/history-says-this-simple-investing-strategy-could-turn-usd500-a-month-into-a-usd1-million-portfolio-with-almost-no-effort/",
+"pub": "2026-11-25T11:13:02+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-25T11:24:04+00:00"
+},
+{
+"id": "3ca724a33c70",
+"t": "SPCX",
+"title": "Musk: Starlink Has a “Good Chance” of Carrying “About Half of Global Traffic”",
+"url": "https://www.tikr.com/blog/musk-starlink-has-a-good-chance-of-carrying-about-half-of-global-traffic",
+"pub": "2026-11-25T11:09:59+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-25T11:24:04+00:00"
+},
 {
 "id": "33f6b288af5a",
 "t": "NVDA",
@@ -737,6 +767,16 @@
 "seen": "2026-11-25T10:20:47+00:00"
 },
 {
+"id": "acef082980bc",
+"t": "PANW",
+"title": "Is Palo Alto Networks (PANW) Above Fair Value On Strong Earnings And Raised Guidance?",
+"url": "https://finance.yahoo.com/markets/stocks/articles/palo-alto-networks-panw-above-100954637.html",
+"pub": "2026-11-25T10:09:54+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-25T11:24:04+00:00"
+},
+{
 "id": "1010a210025a",
 "t": "NVDA",
 "title": "Michael Burry Sells Remaining Nasdaq-100 Puts, Eyes Fresh Nvidia Short Near $200: ‘I Am Long Undervalued Common Stocks’",
@@ -825,6 +865,16 @@
 "src": "Yahoo Finance",
 "kind": "news",
 "seen": "2026-11-25T10:14:06+00:00"
+},
+{
+"id": "36b9387a7b6e",
+"t": "TXN",
+"title": "Best Income Stocks to Buy for November 25th",
+"url": "https://finance.yahoo.com/markets/stocks/articles/best-income-stocks-buy-november-094900239.html",
+"pub": "2026-11-25T09:49:00+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-25T11:24:04+00:00"
 },
 {
 "id": "4b0690a79055",
@@ -7970,56 +8020,6 @@
 "seen": "2026-11-24T17:14:02+00:00"
 },
 {
-"id": "bfc3f641d155",
-"t": "AVGO",
-"title": "D.A. Davidson’s Gil Luria Delivers Nvidia Evaluation after Jensen Huang's Return",
-"url": "https://finance.yahoo.com/video/d-davidson-gil-luria-delivers-164933828.html",
-"pub": "2026-11-24T16:49:33+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-24T17:14:02+00:00"
-},
-{
-"id": "c5afca4eee53",
-"t": "NVDA",
-"title": "Stock Market Guru Jess Inskip Delivers Tech Sector Outlook after Monday’s Rally",
-"url": "https://finance.yahoo.com/video/stock-market-guru-jess-inskip-164933609.html",
-"pub": "2026-11-24T16:49:33+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-24T17:14:02+00:00"
-},
-{
-"id": "7c5cc79ea748",
-"t": "MSFT",
-"title": "Nvidia Shatters Microsoft's Historic Stock Market Record",
-"url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-shatters-microsofts-historic-stock-164825111.html",
-"pub": "2026-11-24T16:48:25+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-24T17:14:02+00:00"
-},
-{
-"id": "4a0521b37b50",
-"t": "ARQQ",
-"title": "SEC investigation of Arqit discontinued without enforcement action",
-"url": "https://finance.yahoo.com/technology/ai/articles/sec-investigation-arqit-discontinued-without-164800815.html",
-"pub": "2026-11-24T16:48:00+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-24T17:44:03+00:00"
-},
-{
-"id": "b1dc3bf3a048",
-"t": "MU",
-"title": "Why Micron Stock Dove Today",
-"url": "https://www.fool.com/investing/2026/11/24/why-micron-stock-dove-today/",
-"pub": "2026-11-24T16:47:52+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-24T17:14:02+00:00"
-},
-{
 "id": "1c12465300be",
 "t": "",
 "title": "ECB's Kocher: Demand not driving prices at the moment",
@@ -8458,6 +8458,16 @@
 "src": "Bloomberg",
 "kind": "market",
 "seen": "2026-11-25T08:44:35+00:00"
+},
+{
+"id": "578b573bee85",
+"t": "",
+"title": "Adobe Inc (ADBE.O) | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBEYTFuelRJaFZlRThhY2IzUnNMSTVFUFVsa1FKNUF6MVBzYm5PSWpUMVowenZZSFhkbnpkb0s5dDNwSVhrQWFIbEs5MjZub2d5X3dGWklqc2xIdU51c2c?oc=5",
+"pub": "2026-11-25T08:04:59+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-25T11:24:04+00:00"
 },
 {
 "id": "e3cf70c24583",
@@ -9150,6 +9160,16 @@
 "seen": "2026-11-25T06:14:14+00:00"
 },
 {
+"id": "7ba350eda89f",
+"t": "",
+"title": "Kyoto Financial Group, Inc. (KYTFY.PK) | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1rUXp1Zlh0Q05WZXc5R09LUmRzOFhBT2huUC1ITjVkN2lPUExnOGl5emJBQWNPRng5RWJVai12U3FGNFF2YUJTbW1DT2E5TUlxQXRZUlRCUmV3dW53VHZXSUhxbkRzeWU3WXlITl9B?oc=5",
+"pub": "2026-11-25T05:54:13+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-25T11:24:04+00:00"
+},
+{
 "id": "b767fc37c2b4",
 "t": "",
 "title": "AI Rally Fizzles as US Readies New Tariffs on China",
@@ -9668,6 +9688,16 @@
 "src": "Reuters",
 "kind": "market",
 "seen": "2026-11-25T03:44:28+00:00"
+},
+{
+"id": "b38d2c50b43f",
+"t": "",
+"title": "Traton SE (8TRA.DE) | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5XWjRjU1R0YXFHc1lWdGw4Q2oxNGh4dldiQ1BUVkRSZkdtcUs1SW9qLTExQTctbGxEMnFQbUF0UGhqUnpMRmRlSWNIZUItVDZqRDBQSkNwQ05PTVVKUWRr?oc=5",
+"pub": "2026-11-25T02:59:33+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-25T11:24:04+00:00"
 },
 {
 "id": "b9dfdb25b20b",
@@ -10390,6 +10420,16 @@
 "seen": "2026-11-25T01:44:29+00:00"
 },
 {
+"id": "cc268f0bd61b",
+"t": "",
+"title": "Saipem SpA (SPMI.MI) | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE05cHhtTmdZVVpSMWMtekVGWHMzLVJ4UUpvQ0Q4NkhHWVVScFdiRHdQWlVOS2REcUd4b3ZtRERMNlhGZXAwb1kxWFFWbjNBV1FRVEh5OHRJQlViVXBncUln?oc=5",
+"pub": "2026-11-24T22:23:56+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-25T11:24:04+00:00"
+},
+{
 "id": "98cd887e2252",
 "t": "",
 "title": "Houthi-run Saba news agency reports attacks on Yemen's Hodeidah port",
@@ -10978,46 +11018,6 @@
 "src": "Reuters",
 "kind": "market",
 "seen": "2026-11-24T22:14:12+00:00"
-},
-{
-"id": "6fe5aa6c3987",
-"t": "",
-"title": "China's Huawei convicted at a US criminal trial in a case stemming from Iran business.",
-"url": "https://www.financialjuice.com/News/9866659/Chinas-Huawei-convicted-at-a-US-criminal-trial-in-a-case-stemming-from-Iran-business.aspx?xy=rss",
-"pub": "2026-11-24T20:11:24+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-24T20:14:02+00:00"
-},
-{
-"id": "758b189d7c4e",
-"t": "",
-"title": "US Global Jets ETF (JETS.K) | Stock Price & Latest News - Reuters",
-"url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE02TFlVZXVYYzYzd2pGSmFHSHhlSlNyVHVtWWlLVTc4azItakZlaUNtaXJaV1ZMYzN2R29MbVpRYmJ4ZFdodldIcVM4OHo1bk52ejhLTzlpVmVhR1ZLUkxuTjYxTllWX0ViUGdHZUl3?oc=5",
-"pub": "2026-11-24T20:04:50+00:00",
-"src": "Reuters",
-"kind": "market",
-"seen": "2026-11-25T01:13:53+00:00"
-},
-{
-"id": "30333922e465",
-"t": "",
-"title": "Advent Weighs Takeover Of Testing Firm Bureau Veritas",
-"url": "https://www.bloomberg.com/news/articles/2026-11-24/advent-weighs-takeover-of-testing-firm-bureau-veritas",
-"pub": "2026-11-24T19:58:23+00:00",
-"src": "Bloomberg",
-"kind": "market",
-"seen": "2026-11-24T20:14:02+00:00"
-},
-{
-"id": "1565420a23d2",
-"t": "",
-"title": "Brent Crude futures settle at $91.40/bbl, up $2.03, 2.27%.",
-"url": "https://www.financialjuice.com/News/9866632/Brent-Crude-futures-settle-at-9140bbl-up-203-227.aspx?xy=rss",
-"pub": "2026-11-24T19:46:13+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-24T20:14:02+00:00"
 }
 ]
 }
