@@ -1,6 +1,6 @@
 {
-"updated_kst": "2026-11-25 16:53",
-"rot": 130,
+"updated_kst": "2026-11-25 17:14",
+"rot": 11,
 "how": "Scout(프로그램)이 10분마다 모은 기사 제목·링크와 공시예요. Wren이 공식 출처로 확인한 뒤 회사 화면에 한국어로 반영해요. 본문은 받지 않아요.",
 "sources": {
 "Yahoo Finance": "120종목 확인 · 실패 0",
@@ -10,12 +10,42 @@
 "CNBC": "63건",
 "Bloomberg": "40건",
 "WSJ": "61건",
-"Reuters": "100건",
+"Reuters": "48건",
 "FinancialJuice": "100건",
 "SEC EDGAR": "실패 HTTPError",
 "Fox Business": "50건"
 },
 "items": [
+{
+"id": "af20237c37da",
+"t": "SPCX",
+"title": "SpaceX Could Fall Below $100 On A Tesla Bid, Gary Black Says — JPMorgan Sees The Same Deal As A Shortcut To The S&P 500",
+"url": "https://stocktwits.com/news-articles/markets/equity/spacex-fall-tesla-bid-gary-black-jp-morgan-shortcut-sp500/cNbH7PdR9lF",
+"pub": "2026-11-25T08:07:08+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-25T08:14:42+00:00"
+},
+{
+"id": "2c181d0abe24",
+"t": "MSFT",
+"title": "Clarivate Develops IPOne in Collaboration with Leading Global Organizations",
+"url": "https://finance.yahoo.com/technology/ai/articles/clarivate-develops-ipone-collaboration-leading-080000275.html",
+"pub": "2026-11-25T08:00:00+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-25T08:14:42+00:00"
+},
+{
+"id": "001cd555b79c",
+"t": "NVDA",
+"title": "Will Nvidia Exec Kimberly Powell Leave? Crypto Bettors Weigh Exit Odds Amid Alleged Jensen Huang Affair",
+"url": "https://www.benzinga.com/markets/prediction-markets/26/11/63614804/nvidia-vp-kimberly-powell-jensen-huang-affair-polymarket-prediction-market",
+"pub": "2026-11-25T07:59:05+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-25T08:14:42+00:00"
+},
 {
 "id": "37cc3ad2778c",
 "t": "TSLA",
@@ -7990,34 +8020,24 @@
 "seen": "2026-11-24T17:44:03+00:00"
 },
 {
-"id": "f5e5f513e701",
-"t": "NVDA",
-"title": "'Big Short' Investor Steve Eisman Says AI Industry 'Dodged A Big Bullet' With Jensen Huang's Return, But Only 'For Now'",
-"url": "https://stocktwits.com/news-articles/markets/equity/steve-eisman-says-ai-industry-dodged-a-big-bullet-with-jensen-huang-s-return-but-only-for-now/cNbsQGGR9ks",
-"pub": "2026-11-24T15:39:24+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-24T15:44:24+00:00"
+"id": "e3cf70c24583",
+"t": "",
+"title": "Currency Strength Chart: Strongest: CHF, JPY, USD, CAD, EUR, GBP, NZD, AUD - Weakest",
+"url": "https://www.financialjuice.com/News/9867388/Currency-Strength-Chart-Strongest-CHF-JPY-USD-CAD-EUR-GBP-NZD-AUD---Weakest.aspx?xy=rss",
+"pub": "2026-11-25T08:02:26+00:00",
+"src": "FinancialJuice",
+"kind": "market",
+"seen": "2026-11-25T08:14:42+00:00"
 },
 {
-"id": "1b532e8f9c90",
-"t": "AMD",
-"title": "Stock Market Today: Dow Up But Nasdaq Skids As Nvidia Dives; Bears Bite Chips (Live Coverage)",
-"url": "https://finance.yahoo.com/m/4aa4ff31-269f-346e-80c4-e681510af7ae/stock-market-today%3A-dow-up.html",
-"pub": "2026-11-24T15:39:08+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-24T16:15:36+00:00"
-},
-{
-"id": "0b167acd19f0",
-"t": "GOOGL",
-"title": "What Sent CoreWeave Stock Higher On Monday?",
-"url": "https://www.trefis.com/stock/crwv/articles/628618/what-sent-coreweave-stock-higher-on-monday/2026-11-24",
-"pub": "2026-11-24T15:38:09+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-24T16:15:36+00:00"
+"id": "279b665e93c0",
+"t": "",
+"title": "China Dismisses US Tariff Prospect as ‘Political Maneuvering’",
+"url": "https://www.bloomberg.com/news/articles/2026-11-25/china-dismisses-us-tariff-prospect-as-political-maneuvering",
+"pub": "2026-11-25T07:57:21+00:00",
+"src": "Bloomberg",
+"kind": "market",
+"seen": "2026-11-25T08:14:42+00:00"
 },
 {
 "id": "1ef73dc219b8",
@@ -8028,6 +8048,16 @@
 "src": "Bloomberg",
 "kind": "market",
 "seen": "2026-11-25T07:53:49+00:00"
+},
+{
+"id": "9f0fcd7e0643",
+"t": "",
+"title": "US Stock Index Futures Slide as AI Worries Fuel Tech Losses",
+"url": "https://www.bloomberg.com/news/articles/2026-11-25/us-stock-index-futures-slide-as-ai-worries-fuel-tech-losses",
+"pub": "2026-11-25T07:51:43+00:00",
+"src": "Bloomberg",
+"kind": "market",
+"seen": "2026-11-25T08:14:42+00:00"
 },
 {
 "id": "9bfa1aaea90b",
@@ -8058,6 +8088,16 @@
 "src": "WSJ",
 "kind": "market",
 "seen": "2026-11-25T07:53:49+00:00"
+},
+{
+"id": "61bf33f94ff9",
+"t": "",
+"title": "Botswana to Take 5% Free Stake in Mines Dug on State Concessions",
+"url": "https://www.bloomberg.com/news/articles/2026-11-25/botswana-to-take-5-free-stake-in-mines-dug-on-state-concessions",
+"pub": "2026-11-25T07:42:11+00:00",
+"src": "Bloomberg",
+"kind": "market",
+"seen": "2026-11-25T08:14:42+00:00"
 },
 {
 "id": "bea2f9a63f24",
@@ -8998,6 +9038,16 @@
 "src": "Reuters",
 "kind": "market",
 "seen": "2026-11-25T07:53:49+00:00"
+},
+{
+"id": "ae0400a3fc50",
+"t": "",
+"title": "61N1.LAS - | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOVEVfUnVoaEs1UWNXb0JrRmtzUnFndUU1LXB4SVkwZDhrNm1PbFM4WGlVWWRhelNIOTVuNkhyQ2l4bEFFM0pkc0g2emZDRDA4UWFiT25FV0xuMmpOdHo4VE1sOF90dWZFaVQwcmVvR2tvSGY3bExwZ0xhMTNqRVZPYV9SUHNjQQ?oc=5",
+"pub": "2026-11-25T02:56:29+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-25T08:14:42+00:00"
 },
 {
 "id": "a419d5a0d10d",
@@ -10965,56 +11015,6 @@
 "title": "BoC's Gov. Macklem: A temporary disruption to supply can have bigger, broader and longer-lasting effects on inflation if economy is already running hot.",
 "url": "https://www.financialjuice.com/News/9866458/BoCs-Gov-Macklem-A-temporary-disruption-to-supply-can-have-bigger-broader-and-longer-lasting-effects-on-inflation-if-economy-is-already-running-hot.aspx?xy=rss",
 "pub": "2026-11-24T17:27:29+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-24T17:29:04+00:00"
-},
-{
-"id": "1747b051357b",
-"t": "",
-"title": "BoC's Gov. Macklem: Economic shocks are now likely to be larger, more frequent and more difficult to assess in real time. It's hard to know how monetary policy should respond.",
-"url": "https://www.financialjuice.com/News/9866457/BoCs-Gov-Macklem-Economic-shocks-are-now-likely-to-be-larger-more-frequent-and-more-difficult-to-assess-in-real-time-Its-hard-to-know-how-monetary-policy-should-respond.aspx?xy=rss",
-"pub": "2026-11-24T17:27:13+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-24T17:29:04+00:00"
-},
-{
-"id": "401942952b92",
-"t": "",
-"title": "BoC's Gov. Macklem: Increased supply shocks mean inflation is likely to be pushed off course more frequently and for longer.",
-"url": "https://www.financialjuice.com/News/9866456/BoCs-Gov-Macklem-Increased-supply-shocks-mean-inflation-is-likely-to-be-pushed-off-course-more-frequently-and-for-longer.aspx?xy=rss",
-"pub": "2026-11-24T17:26:56+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-24T17:29:04+00:00"
-},
-{
-"id": "9d0befe0c2ac",
-"t": "",
-"title": "BoC's Gov. Macklem: Economy has shown more resilience than we expected.",
-"url": "https://www.financialjuice.com/News/9866455/BoCs-Gov-Macklem-Economy-has-shown-more-resilience-than-we-expected.aspx?xy=rss",
-"pub": "2026-11-24T17:26:42+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-24T17:29:04+00:00"
-},
-{
-"id": "565f33a74a82",
-"t": "",
-"title": "BoC's Gov. Macklem: Businesses are set to pass through more costs to consumers and this second-round effect of the oil shock will add to inflation persistence.",
-"url": "https://www.financialjuice.com/News/9866454/BoCs-Gov-Macklem-Businesses-are-set-to-pass-through-more-costs-to-consumers-and-this-second-round-effect-of-the-oil-shock-will-add-to-inflation-persistence.aspx?xy=rss",
-"pub": "2026-11-24T17:26:31+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-24T17:29:04+00:00"
-},
-{
-"id": "265f4b9575f7",
-"t": "",
-"title": "BoC's Gov. Macklem: End-year inflation may not be quite as high as the roughly 3.5% the bank of Canada predicted in October.",
-"url": "https://www.financialjuice.com/News/9866453/BoCs-Gov-Macklem-End-year-inflation-may-not-be-quite-as-high-as-the-roughly-35-the-bank-of-Canada-predicted-in-October.aspx?xy=rss",
-"pub": "2026-11-24T17:26:20+00:00",
 "src": "FinancialJuice",
 "kind": "market",
 "seen": "2026-11-24T17:29:04+00:00"
