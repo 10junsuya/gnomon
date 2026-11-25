@@ -1,21 +1,31 @@
 {
-"updated_kst": "2026-11-26 08:04",
-"rot": 25,
+"updated_kst": "2026-11-26 08:14",
+"rot": 85,
 "how": "Scout(프로그램)이 10분마다 모은 기사 제목·링크와 공시예요. Wren이 공식 출처로 확인한 뒤 회사 화면에 한국어로 반영해요. 본문은 받지 않아요.",
 "sources": {
 "Yahoo Finance": "120종목 확인 · 실패 0",
-"GlobeNewswire": "실패 HTTPError",
+"GlobeNewswire": "1건",
 "PR Newswire": "0건",
 "Business Wire": "0건",
 "CNBC": "63건",
 "Bloomberg": "40건",
 "WSJ": "61건",
-"Reuters": "43건",
+"Reuters": "100건",
 "FinancialJuice": "100건",
 "SEC EDGAR": "실패 HTTPError",
 "Fox Business": "50건"
 },
 "items": [
+{
+"id": "e0b9d81859cb",
+"t": "SKHY",
+"title": "EWY Is a Bet on South Korea. $129,525 of Every $300,000 Sits in Two Chipmakers",
+"url": "https://247wallst.com/investing/etf/2026/11/25/ewy-is-a-bet-on-south-korea-129525-of-every-300000-sits-in-two-chipmakers/",
+"pub": "2026-11-25T23:03:22+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-25T23:14:50+00:00"
+},
 {
 "id": "43ed1867b832",
 "t": "NVDA",
@@ -25,6 +35,26 @@
 "src": "Yahoo Finance",
 "kind": "news",
 "seen": "2026-11-25T23:04:13+00:00"
+},
+{
+"id": "8817413ea1ea",
+"t": "PEP",
+"title": "2 Bargain Stocks to Buy With $1,000 in November",
+"url": "https://www.fool.com/investing/2026/11/25/2-bargain-stocks-to-buy-with-usd1-000-in-november/",
+"pub": "2026-11-25T22:47:01+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-25T23:14:50+00:00"
+},
+{
+"id": "94cb168911ba",
+"t": "LLY",
+"title": "5 Best Healthcare Stocks To Buy for 2027",
+"url": "https://finance.yahoo.com/healthcare/articles/5-best-healthcare-stocks-buy-224526274.html",
+"pub": "2026-11-25T22:45:26+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-25T23:14:50+00:00"
 },
 {
 "id": "bb11dc9a2a9d",
@@ -196,6 +226,26 @@
 "src": "Yahoo Finance",
 "kind": "news",
 "seen": "2026-11-25T22:44:42+00:00"
+},
+{
+"id": "f58c259c6f8d",
+"t": "UNH",
+"title": "Why Is UnitedHealth Group (UNH) In Focus After Trump’s Medicare Remarks?",
+"url": "https://finance.yahoo.com/healthcare/articles/why-unitedhealth-group-unh-focus-221215901.html",
+"pub": "2026-11-25T22:12:15+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-25T23:14:50+00:00"
+},
+{
+"id": "9d4430305f7a",
+"t": "MPWR",
+"title": "Monolithic Power Systems (MPWR) Stock Looks Overvalued After Its 122% Five Year Run",
+"url": "https://finance.yahoo.com/markets/stocks/articles/monolithic-power-systems-mpwr-stock-221112065.html",
+"pub": "2026-11-25T22:11:12+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-25T23:14:50+00:00"
 },
 {
 "id": "b223db268e08",
@@ -718,6 +768,16 @@
 "kind": "news",
 "orig": true,
 "seen": "2026-11-25T21:14:25+00:00"
+},
+{
+"id": "c0b2b11d1a91",
+"t": "MU",
+"title": "Stocks Rally Off Lows Despite Inflation and AI Gloom: Stock Market Today",
+"url": "https://www.kiplinger.com/investing/stocks/stocks-rally-off-lows-despite-inflation-and-ai-gloom-stock-market-today",
+"pub": "2026-11-25T21:08:14+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-25T23:14:50+00:00"
 },
 {
 "id": "821e8d4acc13",
@@ -7963,64 +8023,14 @@
 "seen": "2026-11-25T14:15:15+00:00"
 },
 {
-"id": "115e8f453d61",
-"t": "MU",
-"title": "Micron Spends $765,000 Protecting CEO as Pay Hits $39.7 Million",
-"url": "https://finance.yahoo.com/markets/stocks/articles/micron-spends-765-000-protecting-124751624.html",
-"pub": "2026-11-25T12:47:51+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-25T13:18:15+00:00"
-},
-{
-"id": "eaf792626f1d",
-"t": "VRT",
-"title": "Vertiv Just Raised Its Dividend 60%, but the AI Stock Still Yields Only 0.23%",
-"url": "https://247wallst.com/investing/2026/11/25/vertiv-just-raised-its-dividend-60-but-the-ai-stock-still-yields-only-0-23/",
-"pub": "2026-11-25T12:47:01+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-25T13:18:15+00:00"
-},
-{
-"id": "480a90f3510b",
-"t": "INSM",
-"title": "A $41 Billion Deal and Three New Approvals Fill Biotech's Holiday Week",
-"url": "https://finance.yahoo.com/healthcare/articles/41-billion-deal-three-approvals-124500838.html",
-"pub": "2026-11-25T12:45:00+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-25T13:44:08+00:00"
-},
-{
-"id": "e04f05008977",
-"t": "COST",
-"title": "Costco Now Yields 11%, Its Highest in 5 Years. Is the Dividend Safe?",
-"url": "https://www.tikr.com/blog/costco-now-yields-11-its-highest-in-5-years-is-the-dividend-safe",
-"pub": "2026-11-25T12:44:23+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-25T13:18:15+00:00"
-},
-{
-"id": "697c2b79c47b",
-"t": "NVDA",
-"title": "Did Nvidia Stock Fall On Its Own?",
-"url": "https://www.trefis.com/stock/nvda/articles/629001/did-nvidia-stock-fall-on-its-own/2026-11-25",
-"pub": "2026-11-25T12:43:58+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-25T13:18:15+00:00"
-},
-{
-"id": "84fafb34e128",
-"t": "VRT",
-"title": "Did Eaton Stock Fall Alone Or With Its Group?",
-"url": "https://www.trefis.com/stock/etn/articles/629006/did-eaton-stock-fall-alone-or-with-its-group/2026-11-25",
-"pub": "2026-11-25T12:43:58+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-25T13:18:15+00:00"
+"id": "832e7e2a396a",
+"t": "",
+"title": "Asia Fund Beating 89% of Peers Trims Tech, Adds Defensive Names",
+"url": "https://www.bloomberg.com/news/articles/2026-11-25/asia-fund-beating-89-of-peers-trims-tech-adds-defensive-names",
+"pub": "2026-11-25T23:00:00+00:00",
+"src": "Bloomberg",
+"kind": "market",
+"seen": "2026-11-25T23:14:50+00:00"
 },
 {
 "id": "5b50928cf18a",
@@ -11009,16 +11019,6 @@
 "url": "https://www.financialjuice.com/News/9867816/USTR-Greer-Tariff-rates-will-hew-toward-deal-rates.aspx?xy=rss",
 "pub": "2026-11-25T13:36:17+00:00",
 "src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-25T13:44:08+00:00"
-},
-{
-"id": "8ffa363a2a57",
-"t": "",
-"title": "US Consumer Spending Flat, Core PCE Up 0.3% for Third Month",
-"url": "https://www.bloomberg.com/news/articles/2026-11-25/us-consumer-spending-stalls-core-pce-rises-0-3-for-third-month",
-"pub": "2026-11-25T13:33:38+00:00",
-"src": "Bloomberg",
 "kind": "market",
 "seen": "2026-11-25T13:44:08+00:00"
 }
