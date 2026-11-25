@@ -1,6 +1,6 @@
 {
-"updated_kst": "2026-11-25 13:44",
-"rot": 8,
+"updated_kst": "2026-11-25 14:14",
+"rot": 68,
 "how": "Scout(프로그램)이 10분마다 모은 기사 제목·링크와 공시예요. Wren이 공식 출처로 확인한 뒤 회사 화면에 한국어로 반영해요. 본문은 받지 않아요.",
 "sources": {
 "Yahoo Finance": "120종목 확인 · 실패 0",
@@ -10,12 +10,62 @@
 "CNBC": "63건",
 "Bloomberg": "40건",
 "WSJ": "61건",
-"Reuters": "50건",
+"Reuters": "55건",
 "FinancialJuice": "100건",
 "SEC EDGAR": "실패 HTTPError",
 "Fox Business": "50건"
 },
 "items": [
+{
+"id": "3f4793c45140",
+"t": "AAPL",
+"title": "Xiaomi shares jump over 8% as premium phone sales cushion rising chip costs",
+"url": "https://finance.yahoo.com/markets/stocks/articles/xiaomi-shares-jump-over-8-045749074.html",
+"pub": "2026-11-25T04:57:49+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-25T05:14:03+00:00"
+},
+{
+"id": "e6722ca6e3c3",
+"t": "NVDA",
+"title": "The Semiconductor ETF Kept Falling After Nvidia Raised Its Forecast. Time to Buy?",
+"url": "https://www.fool.com/investing/2026/11/24/the-semiconductor-etf-kept-falling-after-nvidia-raised-its-forecast-time-to-buy/",
+"pub": "2026-11-25T04:57:02+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-25T05:14:03+00:00"
+},
+{
+"id": "1b0a59d85ac6",
+"t": "SPCX",
+"title": "Cathie Wood’s ARK Sees ‘Excellent Entry Points’ In AI — ‘Big Short’ Steve Eisman Warns Of Recession If Anthropic Or OpenAI Fails",
+"url": "https://stocktwits.com/news-articles/markets/equity/cathie-wood-ark-excellent-entry-points-ai-steve-eisman-recession-anthropic-openai-fails/cNbHcZ4R9lW",
+"pub": "2026-11-25T04:41:31+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-25T05:14:03+00:00"
+},
+{
+"id": "741f5e2de72c",
+"t": "COHR",
+"title": "COHR Stock Swings After Nvidia-Led AI Rally: $15M Insider Buy Draws Attention",
+"url": "https://stocktwits.com/news-articles/markets/equity/cohr-stock-swings-after-nvidia-led-ai-rally-15-m-insider-buy-draws-attention/cNbHcl8R9lg",
+"pub": "2026-11-25T04:40:37+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-25T05:14:03+00:00"
+},
+{
+"id": "62f3d092f519",
+"t": "SPCX",
+"title": "Anthropic vs. SpaceX: Here's the Better IPO Stock to Buy With $1,000 Right Now",
+"url": "https://www.fool.com/investing/2026/11/24/anthropic-vs-spacex-here-s-the-better-ipo-stock-to-buy-with-usd1-000-right-now/",
+"pub": "2026-11-25T04:35:01+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-25T05:14:03+00:00"
+},
 {
 "id": "82dbabe9f383",
 "t": "CRCL",
@@ -35,6 +85,16 @@
 "src": "Yahoo Finance",
 "kind": "news",
 "seen": "2026-11-25T04:44:49+00:00"
+},
+{
+"id": "6c4ded2afc80",
+"t": "CRWD",
+"title": "CrowdStrike: 3 Key Takeaways for Long-Term Investors",
+"url": "https://www.fool.com/earnings/takeaways/2026/11/24/crowdstrike-3-key-takeaways-for-long-term-investors/",
+"pub": "2026-11-25T04:32:39+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-25T05:14:03+00:00"
 },
 {
 "id": "0e316ec4a5b1",
@@ -7960,64 +8020,24 @@
 "seen": "2026-11-24T15:44:24+00:00"
 },
 {
-"id": "f46ac2684d81",
-"t": "NVDA",
-"title": "Stratum Holdings and Ocean Power Technologies Sign Agreement to Assess Offshore Renewable-Powered AI Data Centres",
-"url": "https://investorshub.advfn.com/market-news/article/40651/stratum-holdings-and-ocean-power-technologies-sign-agreement-to-assess-offshore-renewable-powered-ai-data-centres",
-"pub": "2026-11-24T15:18:13+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-24T15:44:24+00:00"
+"id": "cbb4215275d0",
+"t": "",
+"title": "Malaysia’s Government Will Likely Serve Full Term: Anwar Adviser",
+"url": "https://www.bloomberg.com/news/articles/2026-11-25/malaysia-s-government-will-likely-serve-full-term-anwar-adviser",
+"pub": "2026-11-25T05:03:48+00:00",
+"src": "Bloomberg",
+"kind": "market",
+"seen": "2026-11-25T05:14:03+00:00"
 },
 {
-"id": "7eff90dae010",
-"t": "NOC",
-"title": "Global Airborne ISR Market Forecast 2026-2035 Featuring Profiles of Boeing, BAE Systems, Elbit Systems, FLIR Systems, Northrop Grumman, General Dynamics, and Thales",
-"url": "https://finance.yahoo.com/technology/articles/global-airborne-isr-market-forecast-151800835.html",
-"pub": "2026-11-24T15:18:00+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-24T15:44:24+00:00"
-},
-{
-"id": "c001ef6f6e25",
-"t": "LMT",
-"title": "Global Airborne Electronic Warfare Market Report 2026-2035: Trends, Forecast, and Competitive Analysis Featuring BAE Systems, Thales Group, Northrop Grumman, Raytheon, Lockheed Martin and More",
-"url": "https://finance.yahoo.com/technology/articles/global-airborne-electronic-warfare-market-151700904.html",
-"pub": "2026-11-24T15:17:00+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-24T15:44:24+00:00"
-},
-{
-"id": "61ab887b7e68",
-"t": "SPCX",
-"title": "How SpaceX GPU Financing At Goldman Sachs Has Changed Its Investment Story",
-"url": "https://finance.yahoo.com/markets/stocks/articles/spacex-gpu-financing-goldman-sachs-151654490.html",
-"pub": "2026-11-24T15:16:54+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-24T15:44:24+00:00"
-},
-{
-"id": "84e9acb5c926",
-"t": "SPCX",
-"title": "Anthropic Stock Sinks Below IPO Price. What History Says Happens Next.",
-"url": "https://finance.yahoo.com/m/a286105e-a938-3486-a9d4-92ce3954de08/anthropic-stock-sinks-below.html",
-"pub": "2026-11-24T15:16:00+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-24T16:15:36+00:00"
-},
-{
-"id": "5d2b1bec3800",
-"t": "JPM",
-"title": "Is Bank of America's Attractive Valuation Enough to Buy the Stock?",
-"url": "https://finance.yahoo.com/markets/stocks/articles/bank-americas-attractive-valuation-enough-151600285.html",
-"pub": "2026-11-24T15:16:00+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-24T17:14:02+00:00"
+"id": "bcee03b192b4",
+"t": "",
+"title": "Indonesia central bank expects to keep benchmark rate at 6% in 2027, governor says - Reuters",
+"url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOUHRxYjVoWVh4V3MtUE9WR1QySmFsYkI5WDhCM3czSHkwcU9ZT1BvSktDc1JnRzUtMExnaWhxeEpuU0FoM1JrcjNHTWo5a1hEU3BQVHM2a082WXRiSG9hLWY5SXJOM1hSVVFmUUlMSUROM21jc2g5NEdiQ3Z2V3hPRXREQXlPQ2RZdlRxVjh6STZPb1FyVXFfMV9FM3JVRXdnbGlSdURuNEVtR1ltbkpvN083ZC03S29ZdldnSw?oc=5",
+"pub": "2026-11-25T05:00:00+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-25T05:14:03+00:00"
 },
 {
 "id": "739594c8c99e",
@@ -8220,6 +8240,16 @@
 "seen": "2026-11-25T01:44:29+00:00"
 },
 {
+"id": "73c409e5f1f9",
+"t": "",
+"title": "O7247O.T - | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQSzh1ZVl3cmh1WnJRcHFDSmNzdjMzd1NyMDJHb2xyQUtLek03eHllZTUxdWRDZFJKZWF1cnVBREl2ZWNFd01KXzRrTkNIeno3RjBLS2xjNlYwYlB3ajhvNnBFZWZoQVF2QjNlMWlIYk56VXpuZ1NZRi05X0lSWWMzMXFnaDRYU0RJUUE?oc=5",
+"pub": "2026-11-25T01:34:16+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-25T05:14:03+00:00"
+},
+{
 "id": "beb48015fbf6",
 "t": "",
 "title": "India Pension Funds Pivot to Bonds as Equity Exposure Nears Cap",
@@ -8238,6 +8268,16 @@
 "src": "FinancialJuice",
 "kind": "market",
 "seen": "2026-11-25T01:44:29+00:00"
+},
+{
+"id": "5e95a83ae7d9",
+"t": "",
+"title": "603808.SSh - | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBmZWRKYmJFTEE0eHhMaVh6eVk0dU91T2I2UDVCQ3A1aEZLVWR1T2hvSWlJdDBuVEwxZzFGN1NyVDczLUsweEgzS0lpRTJTclVJU3k1NjBlb2tPMlZRYkRBQzJxVk5pOXdzd0NtbzdDSUgxbVJEeFNOYk9DUVdzUQ?oc=5",
+"pub": "2026-11-25T01:22:58+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-25T05:14:03+00:00"
 },
 {
 "id": "db12f9631cb1",
@@ -8518,6 +8558,16 @@
 "src": "WSJ",
 "kind": "market",
 "seen": "2026-11-24T22:14:12+00:00"
+},
+{
+"id": "be939bc17f8b",
+"t": "",
+"title": "Wisdomtree Commodity Securities Ltd (1685.T) | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE54dVUtVE51dlBMY0dGaGpwRGdxVDE4aGQtSlRGMlBER2hHWlB0anYwbEtUaU43aHExaE91WU9ES2hIVmFlWTFxQm9aOFJUc3l0akFOSDkwTkxIRzFTQWFOaFBYMkpjZ21JQldPRw?oc=5",
+"pub": "2026-11-24T22:03:46+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-25T05:14:03+00:00"
 },
 {
 "id": "44733fe0e642",
@@ -10968,56 +11018,6 @@
 "src": "FinancialJuice",
 "kind": "market",
 "seen": "2026-11-24T14:06:43+00:00"
-},
-{
-"id": "a199a6c2da20",
-"t": "",
-"title": "US to announce tariff hike on China and the EU as soon as today.",
-"url": "https://www.financialjuice.com/News/9866149/US-to-announce-tariff-hike-on-China-and-the-EU-as-soon-as-today.aspx?xy=rss",
-"pub": "2026-11-24T13:58:48+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-24T14:06:43+00:00"
-},
-{
-"id": "545d8e1ae33f",
-"t": "",
-"title": "US Redbook YoY Actual 11.3% (Forecast -, Previous 9.5%)",
-"url": "https://www.financialjuice.com/News/9866148/US-Redbook-YoY-Actual-113-Forecast---Previous-95.aspx?xy=rss",
-"pub": "2026-11-24T13:55:13+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-24T14:06:43+00:00"
-},
-{
-"id": "0c870456ff37",
-"t": "",
-"title": "3192.J1 - | Stock Price & Latest News - Reuters",
-"url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9lYnA0MXEwVVcyY2drOGVUcnkxZy0yN1A3blB4ZXBicUxMVmNINkp6YmpIdFdtMkNrZWF0OWRWcV80TFdNQmMzc1N2a3RCdDhMWlRMRVg3cFpSamk0SzBuQXdJNVFiTjl4SHhyWlJZVQ?oc=5",
-"pub": "2026-11-24T13:46:52+00:00",
-"src": "Reuters",
-"kind": "market",
-"seen": "2026-11-25T03:44:28+00:00"
-},
-{
-"id": "f09019127d3b",
-"t": "",
-"title": "BIRGi.TQ - Reuters",
-"url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQSFRNc05mZy05ZkJRVkEzU1FBcjloY1pFQzZZd1laMnVJSzBQUDBjT1NIaHFtZ3VkSWtOLWJmaTAyM3Q4ZHNGVVRtUUd1Rk1yM0VvcThFc2ZxWDZJWUJKWXVPTnVOVFhJTDR0ZzJMWDBPeTRFM1lOdVREQUxoWVNtbnMwLXppN0RwSDBielE1WW1Fdw?oc=5",
-"pub": "2026-11-24T13:44:36+00:00",
-"src": "Reuters",
-"kind": "market",
-"seen": "2026-11-24T18:44:31+00:00"
-},
-{
-"id": "cddce4c947da",
-"t": "",
-"title": "Natixis Loomis Sayles Total Return Bond ETF (LSTB.N) | Stock Price & Latest News - Reuters",
-"url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFB1dG9veWxaWTZZckFmUjdHazFzdEcxZ2FUTjY1VmZMT2ZWSDF6ZHB1YlB2ZjR2QzM3b1NOM0t2ZWtyQ0hUS0ViN1VQSkVRMjJVdEZ1cnBmUlo?oc=5",
-"pub": "2026-11-24T13:44:22+00:00",
-"src": "Reuters",
-"kind": "market",
-"seen": "2026-11-24T14:16:39+00:00"
 }
 ]
 }
