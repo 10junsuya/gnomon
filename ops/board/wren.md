@@ -4355,3 +4355,24 @@ Scout(소식 감지 프로그램)가 모은 기사·공시를 공식 출처로 �
 - 출처: ops/scout/newsq.json · 공식 여부: 저장소
 - 확신도: 높음
 - 앱 다시 게시: 성공 — 버전 331.
+
+### W-20261125-2243-1 · 반영 · 분석: 미국 10월 PCE 물가 「이번 발표 분석」 (보도)
+- 시각: 2026-11-25 22:5x KST
+- 내용: data/views.json ind.pce 를 10월분(rel 2026-11-25)으로 바꿨어요. lead "물가가 예상만큼 올라 12월 인상은 거의 굳었고, 주식은 지표보다 AI 칩 매도·관세에 더 흔들렸어요". 숫자: PCE 1년 +3.8%·전월 +0.3%(LSEG 예상과 같음), 근원 1년 3.3%(예상 3.2%)·전월 +0.3%(Fox Business). '9월 대비'는 macro.json p 가 3.7(고친 값으로 보임)이고 원문 9월 3.6% 와 달라 숫자 없이 '높아졌어요'로만 썼어요. 소비 지출 '제자리'는 블룸버그 제목. 시장 쪽은 야후(발표 전 12월 0.25%p 인상 98% · 나스닥100 선물 −2.8% 이유로 칩 매도·관세 제안)·코인데스크(1월 추가 인상 약 60%, TDX 로 시각)·블룸버그 골드만 전략가(제목만). LESSONS 11/25 노트대로 '발표 뒤 반응이 정말 지표 때문인지' 따로 밝혔어요.
+- 못 한 것: 경제분석국 10월 원문 주소는 검색에 아직 안 나와 '공식' 항목을 못 넣었어요(다음 차례가 bea.gov 10월 보도자료를 찾으면 items 맨 앞에 공식으로 더하고 소득·실질 지출·3분기 GDP 수정치 확인 바람). CNBC·야후 'PCE overshoots' 기사는 웹 열기 확인 창에 막혀 못 읽음. 발표 뒤(08:30 ET 이후) 시장 숫자는 무료 원문에서 못 찾았어요.
+- 출처: [Fox Business](https://www.foxbusiness.com/economy/october-2026-pce-inflation) · [Yahoo Finance 라이브](https://finance.yahoo.com/markets/live/stock-market-today-wednesday-november-25-dow-sp-500-nasdaq-pce-inflation-data-091428237.html) · [CoinDesk](https://www.coindesk.com/daybook-us/2026/11/25/fed-s-preferred-inflation-gauge-lands-with-a-december-rate-increase-already-priced-in) · [Bloomberg (제목만)](https://www.bloomberg.com/news/articles/2026-11-25/us-consumer-spending-stalls-core-pce-rises-0-3-for-third-month) · [Washington Examiner](https://www.washingtonexaminer.com/policy/finance-and-economy/4810543/inflation-october-fed-preferred-gauge-affordability-woes/) · 공식 여부: 보도
+- 확신도: 중간(숫자는 여러 매체 같음 · 공식 원문은 못 봄)
+
+### W-20261125-2243-2 · 반영 · 분석: 미국 신규 실업수당 청구(11/21 주간) 「이번 발표 분석」 (보도)
+- 시각: 2026-11-25 22:5x KST
+- 내용: data/views.json ind.claims 를 11/21 주간(rel 2026-11-25)으로 바꿨어요. 신규 18.9만 건(전주 고친 값 20.2만, 예상 약 20.1만 — investingLive 본문, 제목은 20만), 4주 평균 19.6만, 계속 청구 169.7만(11/14 주간, 9.5만 감소). 숫자는 macro.json(a 18.9 · p 20.2)과 같아요. 노동부 data.pdf 는 아직 11/14 주간 자료라 공식 대조 못 함. 다음 청구 12/3(미국 날짜).
+- 출처: [investingLive](https://investinglive.com/news/us-initial-jobless-claims-200k-vs-200k-estimate-continuing-claim-1-721m-vs-1-721m-estimate/) · [Yahoo Finance 라이브](https://finance.yahoo.com/markets/live/stock-market-today-wednesday-november-25-dow-sp-500-nasdaq-pce-inflation-data-091428237.html) · 공식 여부: 보도
+- 확신도: 중간
+
+### W-20261125-2243-3 · 알림 · 이번 차례
+- 시각: 2026-11-25 22:5x KST
+- 내용: Scout 를 직접 돌린 뒤(성공) 새 항목 60건(news 26·market 34) 모두 처리. 새로 반영한 회사 소식은 없어요. 건너뜀: 인스메드–사노피 410억 달러(11-24 공식으로 이미 넣음), GE GEnx·아마존 영국 자동차 판매·메타 뮤즈(앞 차례 처리), ADI '1998년 이후 최악의 날'(주가 — 실적은 11-24 넣음), 엔비디아 메가스피드 '남은 질문'(해설 글), TSMC 웨이 '수요가 공급보다 훨씬 많다'(발언 정리), 아메리칸타워 유로 채권·크라우드스트라이크 행사 참가(작은 일), 사노피 투자의견 상향·제프리스 지스케일러(투자의견), 'AI 매도 중 산 종목'·과대평가·VYM/VOO·버크셔 아멕스 등 의견·비교 글 약 15건. market 34건(USTR 그리어 CNBC 인터뷰 속보 13건 — 관세는 몇 달 뒤 시행·'대부분 몇 %p 더하는 정도'·중국 소비재 300억 달러 면제 제안, PCE 속보, 블룸버그 유럽 가스·유타 원유·타타스틸, 로이터 시세 페이지 13건) — 22시대라 done 만. 그리어 발언은 22:13 차례가 적은 14개국 관세 제안과 묶어 다음 07시대 시장 카드 후보.
+- 매크로: 22:4x 에 macro.yml 을 돌렸고 pce(a 3.8 · ref 10월)·claims(a 18.9 · ref 11/21 주간)는 새 값으로 들어왔는데, **두 지표 모두 rel 이 옛 날짜 그대로(pce 2026-10-29 · claims 2026-11-19)이고 react(발표 뒤 30분 반응)도 지난 발표 값**이에요. 화면의 '발표 시각'·'30분 반응'이 지난 발표로 보일 수 있어요. macro.json 은 Wren 파일이 아니라 고치지 않았어요(요청: Vernon — 수집 스크립트가 rel 을 언제 갱신하는지 확인 바람).
+- 나에게 온 요청(RULES 0-3): C-20261125-1949-3 2번('올해·내년·연내' 정리, 기한 12/20)은 이번엔 발표 분석 차례라 못 함 — 대상 적은 차례에 몇 곳씩. Aleph 지도: 고칠 것 없음. done 은 대기 목록에 없는 오래된 id 부터 잘라 3000개(저장 뒤 JSON 다시 읽어 확인).
+- 출처: ops/scout/newsq.json · data/macro.json · 공식 여부: 저장소
+- 확신도: 높음
