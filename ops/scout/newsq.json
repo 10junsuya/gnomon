@@ -1,10 +1,10 @@
 {
-"updated_kst": "2026-11-26 06:45",
-"rot": 143,
+"updated_kst": "2026-11-26 07:06",
+"rot": 24,
 "how": "Scout(프로그램)이 10분마다 모은 기사 제목·링크와 공시예요. Wren이 공식 출처로 확인한 뒤 회사 화면에 한국어로 반영해요. 본문은 받지 않아요.",
 "sources": {
 "Yahoo Finance": "120종목 확인 · 실패 0",
-"GlobeNewswire": "0건",
+"GlobeNewswire": "실패 HTTPError",
 "PR Newswire": "1건",
 "Business Wire": "0건",
 "CNBC": "63건",
@@ -17,6 +17,76 @@
 },
 "items": [
 {
+"id": "a31d7e0945e1",
+"t": "MU",
+"title": "Dow Jones Futures: Market Goes On Wild Ride. Nasdaq, Nvidia Slash Losses While Anthropic Reverses Higher.",
+"url": "https://finance.yahoo.com/m/158e82fc-b889-34b6-8704-99a49e9a83ae/dow-jones-futures%3A-market.html",
+"pub": "2026-11-25T21:55:28+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-25T22:06:56+00:00"
+},
+{
+"id": "a0edb98e1ccb",
+"t": "PANW",
+"title": "Market Chatter: Palo Alto Networks Sued by Ex-Executive Over Alleged Accounting Fraud",
+"url": "https://finance.yahoo.com/markets/stocks/articles/market-chatter-palo-alto-networks-215300884.html",
+"pub": "2026-11-25T21:53:00+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-25T22:06:56+00:00"
+},
+{
+"id": "036c1ba39780",
+"t": "PANW",
+"title": "Palo Alto Networks sued over alleged accounting fraud claims",
+"url": "https://finance.yahoo.com/markets/stocks/articles/palo-alto-networks-sued-over-215144369.html",
+"pub": "2026-11-25T21:51:44+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-25T22:06:56+00:00"
+},
+{
+"id": "ab4d8a59ac03",
+"t": "AVGO",
+"title": "Not Micron. Not Broadcom. This Is My Top Oversold Artificial Intelligence (AI) Stock to Buy in December",
+"url": "https://www.fool.com/investing/2026/11/25/not-micron-not-broadcom-this-is-my-top-oversold-artificial-intelligence-ai-stock-to-buy-in-december/",
+"pub": "2026-11-25T21:51:01+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-25T22:06:56+00:00"
+},
+{
+"id": "01985a83fcdd",
+"t": "NVDA",
+"title": "Is Berkshire Hathaway Stock a Buy if the Fed Keeps Raising Rates?",
+"url": "https://www.fool.com/investing/2026/11/25/is-berkshire-hathaway-stock-a-buy-if-the-fed-keeps-raising-rates/",
+"pub": "2026-11-25T21:50:02+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-25T22:06:56+00:00"
+},
+{
+"id": "5dddb43c6de3",
+"t": "JOBY",
+"title": "Was Archer Aviation Stock's Fall One Bad Day?",
+"url": "https://www.trefis.com/stock/achr/articles/628861/was-archer-aviation-stock-s-fall-one-bad-day/2026-11-25",
+"pub": "2026-11-25T21:46:20+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-25T22:06:56+00:00"
+},
+{
+"id": "e946e4f4e391",
+"t": "NVDA",
+"title": "Deere & Company Q4 2026 Earnings Call Summary",
+"url": "https://app.moby.co/home/research/tools/earningsCalendar/earnings-deere-company-q4-2026-earnings-call-summary",
+"pub": "2026-11-25T21:44:49+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-25T22:06:56+00:00"
+},
+{
 "id": "b7c4ac1b070d",
 "t": "CEG",
 "title": "LS Power Completes Acquisition of 4.4 GW Natural Gas Generation Assets from Constellation",
@@ -25,6 +95,16 @@
 "src": "Yahoo Finance",
 "kind": "news",
 "seen": "2026-11-25T21:45:02+00:00"
+},
+{
+"id": "fcd7fef55f7a",
+"t": "NVDA",
+"title": "The Dividend ETF I'd Choose to to Generate $500 a Month in Passive Income",
+"url": "https://www.fool.com/investing/2026/11/25/the-dividend-etf-id-choose-to-to-generate-500-a-month-in-passive-income/",
+"pub": "2026-11-25T21:35:02+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-25T22:06:56+00:00"
 },
 {
 "id": "c05aba49f946",
@@ -165,6 +245,16 @@
 "src": "Yahoo Finance",
 "kind": "news",
 "seen": "2026-11-25T21:45:02+00:00"
+},
+{
+"id": "2d43033deddd",
+"t": "PANW",
+"title": "Palo Alto Networks Accused by Ex-Manager of Accounting Fraud",
+"url": "https://finance.yahoo.com/markets/stocks/articles/palo-alto-networks-accused-ex-211701467.html",
+"pub": "2026-11-25T21:17:01+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-25T22:06:56+00:00"
 },
 {
 "id": "4fdd658f7d46",
@@ -538,6 +628,16 @@
 "seen": "2026-11-25T21:06:44+00:00"
 },
 {
+"id": "e56fff7cc4af",
+"t": "CDNS",
+"title": "Top Research Reports for CrowdStrike, Lockheed Martin & S&P",
+"url": "https://finance.yahoo.com/markets/stocks/articles/top-research-reports-crowdstrike-lockheed-202700539.html",
+"pub": "2026-11-25T20:27:00+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-25T22:06:56+00:00"
+},
+{
 "id": "45564dea22c2",
 "t": "COST",
 "title": "Wall Street Gravitates To Reliable Retailer Costco In Rocky Market. But This Test Looms.",
@@ -816,6 +916,16 @@
 "src": "Yahoo Finance",
 "kind": "news",
 "seen": "2026-11-25T21:45:02+00:00"
+},
+{
+"id": "2578ee486abc",
+"t": "COPX",
+"title": "Copper Miners ETF Is on a 13-Week Losing Streak. When to Buy.",
+"url": "https://finance.yahoo.com/m/604ae210-761b-3cce-9765-7e6c7a677583/copper-miners-etf-is-on-a.html",
+"pub": "2026-11-25T19:55:00+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-25T22:06:56+00:00"
 },
 {
 "id": "7f74620b76a3",
@@ -1517,6 +1627,16 @@
 "src": "Yahoo Finance",
 "kind": "news",
 "seen": "2026-11-25T18:45:05+00:00"
+},
+{
+"id": "ee7b0b30956a",
+"t": "AVGO",
+"title": "TeraWulf’s CEO Says Anthropic Won’t “Walk Away From Deals.” Junk-Rating Talk Tests That",
+"url": "https://www.tikr.com/blog/terawulfs-ceo-says-anthropic-wont-walk-away-from-deals-junk-rating-talk-tests-that",
+"pub": "2026-11-25T18:27:42+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-25T22:06:56+00:00"
 },
 {
 "id": "d41bdb2d3649",
@@ -7901,124 +8021,34 @@
 "seen": "2026-11-25T13:18:15+00:00"
 },
 {
-"id": "061a7e177ac0",
-"t": "CVX",
-"title": "Why Chevron Investors Could Make Sense Of ETFs Now",
-"url": "https://finance.yahoo.com/energy/articles/why-chevron-investors-could-sense-121452095.html",
-"pub": "2026-11-25T12:14:52+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-25T12:44:46+00:00"
+"id": "e80bb651dbaf",
+"t": "",
+"title": "Moody's: Nvidia's CEO reinstatement restores strategic continuity but leaves some governance questions unresolved; rating and outlook unchanged. $NVDA",
+"url": "https://www.financialjuice.com/News/9868455/Moodys-Nvidias-CEO-reinstatement-restores-strategic-continuity-but-leaves-some-governance-questions-unresolved-rating-and-outlook-unchanged-NVDA.aspx?xy=rss",
+"pub": "2026-11-25T22:06:26+00:00",
+"src": "FinancialJuice",
+"kind": "market",
+"seen": "2026-11-25T22:06:56+00:00"
 },
 {
-"id": "9a7668f44fbd",
-"t": "TSLA",
-"title": "Tesla’s FSD Push In Europe Hits Another Snag As EU Reportedly Delays Approval Talks Yet Again – TSLA Stock Falls Premarket",
-"url": "https://stocktwits.com/news-articles/markets/equity/tesla-fsd-push-in-europe-hits-snag-eu-delays-approval-talks-tsla-stock-falls/cNbHWoCR9m3",
-"pub": "2026-11-25T12:14:32+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-25T12:37:37+00:00"
+"id": "21e7a3df562e",
+"t": "",
+"title": "Tech, Media & Telecom Roundup: Market Talk",
+"url": "https://www.wsj.com/business/tech-media-telecom-roundup-market-talk-39807782",
+"pub": "2026-11-25T22:01:00+00:00",
+"src": "WSJ",
+"kind": "market",
+"seen": "2026-11-25T22:06:56+00:00"
 },
 {
-"id": "3df0a3cb503f",
-"t": "NVDA",
-"title": "Microsoft Stock And 2 AI Software Leaders For Productivity Focused Investors",
-"url": "https://finance.yahoo.com/technology/ai/articles/microsoft-stock-2-ai-software-121419292.html",
-"pub": "2026-11-25T12:14:19+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-25T12:37:37+00:00"
-},
-{
-"id": "b3f1bcd61e82",
-"t": "PWR",
-"title": "Should Raised 2026 Outlook Require Action From Quanta Services (PWR) Investors?",
-"url": "https://finance.yahoo.com/markets/stocks/articles/raised-2026-outlook-require-action-121410422.html",
-"pub": "2026-11-25T12:14:10+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-25T12:37:37+00:00"
-},
-{
-"id": "21071ee71cbe",
-"t": "SO",
-"title": "Southern (SO) Stock Looks About Right On Current Earnings",
-"url": "https://finance.yahoo.com/markets/stocks/articles/southern-stock-looks-current-earnings-121406821.html",
-"pub": "2026-11-25T12:14:06+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-25T12:44:46+00:00"
-},
-{
-"id": "10c0f779c7ff",
-"t": "AMAT",
-"title": "Applied Materials (AMAT) Stock Sees Fair Value Cut As Analysts Trim Targets",
-"url": "https://finance.yahoo.com/markets/stocks/articles/applied-materials-amat-stock-sees-121330610.html",
-"pub": "2026-11-25T12:13:30+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-25T12:37:37+00:00"
-},
-{
-"id": "30f090b5ae15",
-"t": "DUK",
-"title": "Should 9% Rate Increase Require Action From Duke Energy (DUK) Investors?",
-"url": "https://finance.yahoo.com/energy/articles/9-rate-increase-require-action-121327315.html",
-"pub": "2026-11-25T12:13:27+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-25T12:44:46+00:00"
-},
-{
-"id": "8373c1a1abb4",
-"t": "SNDK",
-"title": "Sandisk (SNDK) Shares Dropped, So What Is Driving Attention Now?",
-"url": "https://finance.yahoo.com/markets/stocks/articles/sandisk-sndk-shares-dropped-driving-121239819.html",
-"pub": "2026-11-25T12:12:39+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-25T12:44:46+00:00"
-},
-{
-"id": "b3f0e546e418",
-"t": "INSM",
-"title": "Why Is Insmed Stock Going Up?",
-"url": "https://www.trefis.com/stock/insm/articles/628964/why-is-insmed-stock-going-up/2026-11-25",
-"pub": "2026-11-25T12:12:17+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-25T12:37:37+00:00"
-},
-{
-"id": "ccb41a91165f",
-"t": "MSFT",
-"title": "Microsoft Declares Code Red After 24-Hour Global Outage",
-"url": "https://finance.yahoo.com/technology/articles/microsoft-declares-code-red-24-121215829.html",
-"pub": "2026-11-25T12:12:15+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-25T12:37:37+00:00"
-},
-{
-"id": "c2f9e975b952",
-"t": "NVDA",
-"title": "Is This the Bottom? It May Not Matter. Here's Why!",
-"url": "https://www.fool.com/investing/2026/11/25/is-this-the-bottom-it-may-not-matter-here-s-why/",
-"pub": "2026-11-25T12:11:53+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-25T12:37:37+00:00"
-},
-{
-"id": "aceff5e691be",
-"t": "MSFT",
-"title": "Market Chatter: Walmart-Backed PhonePe Resumes IPO Process; Seeks Up to $15 Billion in Valuation",
-"url": "https://finance.yahoo.com/markets/stocks/articles/market-chatter-walmart-backed-phonepe-121130205.html",
-"pub": "2026-11-25T12:11:30+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-25T12:37:37+00:00"
+"id": "6e93f929e547",
+"t": "",
+"title": "Wall Street Can’t Seem to Find Its Footing in the Chaos of the New AI Trade",
+"url": "https://www.wsj.com/finance/stocks/wall-street-cant-seem-to-find-its-footing-in-the-chaos-of-the-new-ai-trade-b64564e0",
+"pub": "2026-11-25T21:48:00+00:00",
+"src": "WSJ",
+"kind": "market",
+"seen": "2026-11-25T22:06:56+00:00"
 },
 {
 "id": "fa26aeaff4e9",
@@ -8821,6 +8851,16 @@
 "seen": "2026-11-25T17:44:05+00:00"
 },
 {
+"id": "964ba0ac1805",
+"t": "",
+"title": "5PL.MU - Reuters",
+"url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE15OVRCbi0tVzRmN0VhX2RSM0FSaFA2cmYyUmhEdGh3eWszU2hJeXRLWXZnc0U2NFVEM0oxdkluSkJ0UW1kQkRVSGJXNnBaOXZwZUF3SXlsWGQ1VmFJN0UzZXBNVFFBZklVVXBSRFRDaVlUcFQwVmRsUQ?oc=5",
+"pub": "2026-11-25T17:27:05+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-25T22:06:56+00:00"
+},
+{
 "id": "c6365f353b87",
 "t": "",
 "title": "France's Vinci raises stake in Lisea, values high-speed rail operator at €2.1 billion - Reuters",
@@ -8949,6 +8989,16 @@
 "src": "Reuters",
 "kind": "market",
 "seen": "2026-11-25T21:14:25+00:00"
+},
+{
+"id": "1bd09e1b9740",
+"t": "",
+"title": "2903.HK%5EB24 - | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPeTk1eG1sT2R6d0RhRW16REhpVEhNOGtkNXliMWd6NFlkTUpsa2d1T1NpeXJoMVpqWWhPS3BGSVRIdEZjWmhUSzRVQlM5WmVBT0JMU3ZnSEZla25BRDhjUExQQ28xMzNFWU5NZ0xiQ2hwQTdxMGxLTElCQVB0X25UUzhRZWFYSUpPeHoyMGNYd1BTVG4xa2pn?oc=5",
+"pub": "2026-11-25T16:52:01+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-25T22:06:56+00:00"
 },
 {
 "id": "c721680e3a99",
@@ -10969,56 +11019,6 @@
 "src": "FinancialJuice",
 "kind": "market",
 "seen": "2026-11-25T13:18:15+00:00"
-},
-{
-"id": "575885e8b82e",
-"t": "",
-"title": "Senior US Official: Has concluded investigations into structural excess capacity and production and determined that action is warranted against 14 of our largest trading partners",
-"url": "https://www.financialjuice.com/News/9867746/Senior-US-Official-Has-concluded-investigations-into-structural-excess-capacity-and-production-and-determined-that-action-is-warranted-against-14-of-our-largest-trading-partners.aspx?xy=rss",
-"pub": "2026-11-25T13:10:21+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-25T13:18:15+00:00"
-},
-{
-"id": "3d0137f2d06a",
-"t": "",
-"title": "US proposes up to a 20% tariff on the EU after a trade probe.",
-"url": "https://www.financialjuice.com/News/9867745/US-proposes-up-to-a-20-tariff-on-the-EU-after-a-trade-probe.aspx?xy=rss",
-"pub": "2026-11-25T13:09:17+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-25T13:18:15+00:00"
-},
-{
-"id": "83e0b95a159a",
-"t": "",
-"title": "Energy & Utilities Roundup: Market Talk",
-"url": "https://www.wsj.com/business/energy-utilities-roundup-market-talk-7cb12596",
-"pub": "2026-11-25T13:09:00+00:00",
-"src": "WSJ",
-"kind": "market",
-"seen": "2026-11-25T13:58:47+00:00"
-},
-{
-"id": "f21da1d5cbb3",
-"t": "",
-"title": "Tata Steel Weighs Changes to APL Apollo Deal After Backlash",
-"url": "https://www.bloomberg.com/news/articles/2026-11-25/tata-steel-weighs-changes-to-apl-apollo-deal-after-backlash",
-"pub": "2026-11-25T13:08:57+00:00",
-"src": "Bloomberg",
-"kind": "market",
-"seen": "2026-11-25T13:44:08+00:00"
-},
-{
-"id": "75d7b87f59e5",
-"t": "",
-"title": "Auto & Transport Roundup: Market Talk",
-"url": "https://www.wsj.com/business/auto-transport-roundup-market-talk-eb63fc1e",
-"pub": "2026-11-25T13:04:00+00:00",
-"src": "WSJ",
-"kind": "market",
-"seen": "2026-11-25T13:58:47+00:00"
 }
 ]
 }
