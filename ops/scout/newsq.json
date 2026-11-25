@@ -1,6 +1,6 @@
 {
-"updated_kst": "2026-11-25 10:55",
-"rot": 65,
+"updated_kst": "2026-11-25 11:14",
+"rot": 125,
 "how": "Scout(프로그램)이 10분마다 모은 기사 제목·링크와 공시예요. Wren이 공식 출처로 확인한 뒤 회사 화면에 한국어로 반영해요. 본문은 받지 않아요.",
 "sources": {
 "Yahoo Finance": "120종목 확인 · 실패 0",
@@ -10,12 +10,22 @@
 "CNBC": "63건",
 "Bloomberg": "40건",
 "WSJ": "61건",
-"Reuters": "50건",
+"Reuters": "53건",
 "FinancialJuice": "100건",
 "SEC EDGAR": "실패 HTTPError",
 "Fox Business": "50건"
 },
 "items": [
+{
+"id": "490f6efc84b3",
+"t": "NVDA",
+"title": "Nvidia’s Rebound, Falling Oil And A Strong Dollar: Three Signals Complicating The Fed’s December Decision",
+"url": "https://stocktwits.com/news-articles/markets/equity/fed-december-rate-hike-oil-prices-nvidia-rally-inflation/cNbuClGR9l5",
+"pub": "2026-11-25T02:09:32+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-25T02:14:10+00:00"
+},
 {
 "id": "701f59b0c9dc",
 "t": "NVDA",
@@ -85,6 +95,26 @@
 "src": "Yahoo Finance",
 "kind": "news",
 "seen": "2026-11-25T01:44:29+00:00"
+},
+{
+"id": "f977eeece006",
+"t": "JPM",
+"title": "MINISO (MNSO) Stock Fair Value Edges Higher On Overseas Large Format Rollout",
+"url": "https://finance.yahoo.com/markets/stocks/articles/miniso-mnso-stock-fair-value-011104891.html",
+"pub": "2026-11-25T01:11:04+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-25T02:14:10+00:00"
+},
+{
+"id": "4dabd6cc046c",
+"t": "ABT",
+"title": "How Investors May Respond To Abbott (ABT) TAVI Trial Launch",
+"url": "https://finance.yahoo.com/healthcare/articles/investors-may-respond-abbott-abt-011040293.html",
+"pub": "2026-11-25T01:10:40+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-25T02:14:10+00:00"
 },
 {
 "id": "745f827f8b6d",
@@ -7990,34 +8020,34 @@
 "seen": "2026-11-24T15:44:24+00:00"
 },
 {
-"id": "c354daf777be",
-"t": "TSLA",
-"title": "Tesla’s Europe Sales Soar 84%",
-"url": "https://247wallst.com/investing/2026/11/24/teslas-europe-sales-soar-84/",
-"pub": "2026-11-24T14:56:52+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-24T15:15:37+00:00"
+"id": "2aa0c197b668",
+"t": "",
+"title": "Saudi-led coalition: targeted operational capabilities at Hodeidah port",
+"url": "https://www.financialjuice.com/News/9867065/Saudi-led-coalition-targeted-operational-capabilities-at-Hodeidah-port.aspx?xy=rss",
+"pub": "2026-11-25T02:09:07+00:00",
+"src": "FinancialJuice",
+"kind": "market",
+"seen": "2026-11-25T02:14:10+00:00"
 },
 {
-"id": "49e46c3430bc",
-"t": "NVDA",
-"title": "More shoes to drop: Nvidia's turmoil isn't over with Huang back",
-"url": "https://finance.yahoo.com/video/more-shoes-to-drop-nvidias-turmoil-isnt-over-with-huang-back-145606522.html",
-"pub": "2026-11-24T14:56:06+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-24T15:15:37+00:00"
+"id": "81b9dd198bf5",
+"t": "",
+"title": "Worse Than the Dot-Com Crash: What an AI Bust Could Mean for the Economy",
+"url": "https://www.wsj.com/economy/worse-than-the-dot-com-crash-what-an-ai-bust-could-mean-for-the-economy-2a0e5ab3",
+"pub": "2026-11-25T02:00:00+00:00",
+"src": "WSJ",
+"kind": "market",
+"seen": "2026-11-25T02:14:10+00:00"
 },
 {
-"id": "e8ad6b77dd14",
-"t": "NVDA",
-"title": "The Real Test for Nvidia Could Come After Dec. 1",
-"url": "https://www.fool.com/investing/2026/11/24/the-real-test-for-nvidia-could-come-after-dec-1/",
-"pub": "2026-11-24T14:56:02+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-24T15:15:37+00:00"
+"id": "7a4a2ef5b307",
+"t": "",
+"title": "Oil Futures Decline as Traders Weigh Competing Supply Risks",
+"url": "https://www.wsj.com/finance/commodities-futures/oil-futures-decline-as-traders-weigh-competing-supply-risks-9dd3835d",
+"pub": "2026-11-25T02:00:00+00:00",
+"src": "WSJ",
+"kind": "market",
+"seen": "2026-11-25T02:14:10+00:00"
 },
 {
 "id": "8fc68de70bea",
@@ -10985,36 +11015,6 @@
 "title": "BoE’s Greene: Indicators point to wage growth stuck at 3.5%",
 "url": "https://www.financialjuice.com/News/9866027/BoEs-Greene-Indicators-point-to-wage-growth-stuck-at-35.aspx?xy=rss",
 "pub": "2026-11-24T12:42:43+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-24T12:44:57+00:00"
-},
-{
-"id": "568c8b20ddd4",
-"t": "",
-"title": "Congressional US-China Watchdog on Huang's Return to Nvidia",
-"url": "https://www.bloomberg.com/news/videos/2026-11-24/congressional-us-china-watchdog-on-jensen-huang-s-return-video",
-"pub": "2026-11-24T12:41:12+00:00",
-"src": "Bloomberg",
-"kind": "market",
-"seen": "2026-11-24T12:44:57+00:00"
-},
-{
-"id": "50025ffc2937",
-"t": "",
-"title": "BoE’s Greene: Slack has probably peaked in the labor market",
-"url": "https://www.financialjuice.com/News/9866026/BoEs-Greene-Slack-has-probably-peaked-in-the-labor-market.aspx?xy=rss",
-"pub": "2026-11-24T12:41:10+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-24T12:44:57+00:00"
-},
-{
-"id": "cf9930e51ba2",
-"t": "",
-"title": "BoE’s Greene: We have to make a judgment on 2nd-round effects now",
-"url": "https://www.financialjuice.com/News/9866025/BoEs-Greene-We-have-to-make-a-judgment-on-2nd-round-effects-now.aspx?xy=rss",
-"pub": "2026-11-24T12:40:22+00:00",
 "src": "FinancialJuice",
 "kind": "market",
 "seen": "2026-11-24T12:44:57+00:00"
