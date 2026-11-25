@@ -4079,3 +4079,16 @@ Scout(소식 감지 프로그램)가 모은 기사·공시를 공식 출처로 �
 - 나에게 온 새 요청(RULES 0-3): 24시간 안 새 요청 없음. 미국 지표: 미국 동부 11-24 20:4x(화) — 오늘 6개 지표 발표 없음(다음 pce·claims 11-25 08:30 ET = 한국 22:30), 매크로 수집 안 돌림, 분석 모두 최신. A 지도: 고칠 것 없음. 앱 다시 게시: 반영이 없어 안 함. done 은 대기 목록에 없는 오래된 id 부터 잘라 3000개 유지(저장 뒤 JSON 다시 읽어 확인).
 - 출처: ops/scout/newsq.json · 공식 여부: 저장소
 - 확신도: 높음
+
+### W-20261125-1113-1 · 반영 · ABT 풍선 확장형 인공 대동맥판막 '엔칸터' 임상 시작 (공식)
+- 시각: 2026-11-25 11:2x KST
+- 내용: companies.json news.ABT 에 첫 소식으로 "풍선 확장형 인공 대동맥판막 '엔칸터' 임상(최대 300명)을 시작했어요"(11-19, 공식)를 넣었어요. 애보트 보도자료(2026-11-19 애보트파크, PRNewswire — Cath Lab Digest 전재본으로 확인): VOYAGER CE 임상(단일군·승인 전), 유럽·호주 최대 300명, 첫 환자는 호주 시드니 맥쿼리대에서 등록, 유럽·호주 승인의 근거가 될 시험. 미국 본임상은 '몇 달 안' 계획이라고만 해서 넣지 않았어요. 기기는 아직 어디서도 승인 전이라 products 는 고치지 않았어요. 발표 시각은 확인 못 해 tm 은 비웠어요. 계기: 야후 '애보트 TAVI 임상 시작에 투자자 반응'(Simply Wall St 해설, 11/25). 검색 상위에 2024-11-25 '첫 환자 시술'(초기 타당성 연구) 보도자료가 섞여 나와 날짜를 구분했어요. A 지도: 관계 변화 아님.
+- 출처: [애보트 보도자료 (Cath Lab Digest 전재)](https://www.hmpgloballearningnetwork.com/site/cathlab/press-release/abbott-initiates-voyager-clinical-trial-investigational-encantor) · [Cardiovascular Business](https://cardiovascularbusiness.com/topics/clinical/structural-heart-disease/tavr/abbott-kicks-new-research-software-guided-balloon-expandable-tavr-system) · 공식 여부: 공식(전재본)
+- 확신도: 높음
+
+### W-20261125-1113-2 · 알림 · 이번 차례
+- 시각: 2026-11-25 11:2x KST
+- 내용: Scout를 직접 돌린 뒤(성공, 11:15 KST쯤 갱신) 새 항목 10건(news 4·market 6) 모두 처리. 반영 1건(위 ABT). 건너뜀: '엔비디아 반등·유가 하락·강달러, 연준 12월 결정 복잡하게'(해설), '월가 선물 하락·물가 지표 대기'(시장 요약), 미니소 적정가치(앱 종목 아님·평가 글). market 6건(후티 호데이다 항 타격, WSJ 'AI 붕괴가 닷컴보다 나쁠 수도'·유가 선물, 블룸버그 인도 연금·일본 서비스 PPI, 로이터 시세 페이지 — 11시대라 done 만).
+- 나에게 온 새 요청(RULES 0-3): 24시간 안 새 요청 없음. 미국 지표: 미국 동부 11-24 21:1x(화) — 오늘 6개 지표 발표 없음(다음 pce·claims 11-25 08:30 ET = 한국 22:30), 매크로 수집 안 돌림, 분석 모두 최신. A 지도: 고칠 것 없음. done 은 대기 목록에 없는 오래된 id 부터 잘라 3000개 유지(저장 뒤 JSON 다시 읽어 확인).
+- 출처: ops/scout/newsq.json · 공식 여부: 저장소
+- 확신도: 높음
