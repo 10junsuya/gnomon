@@ -1215,3 +1215,10 @@
 - money.json: 11/25 뒤 새로 발표된 실적 없음(다음은 12/01 NNE·RBRK). ZS 는 10-Q 대기(Quill 보류). 앱 종목 중 money.json 이 없는 회사는 ops/money-todo.md '도넛 생략 가능'(NTSK·NNE·CRDO·CRWV·NBIS 등)이거나 별칭(ECHO → SATS, MOG-A → MOGA)으로 연결돼 있어 새 요청 없음. 지시문의 '없는 회사'(SKHY·HD·CVX·COP·MDA·VOYG)는 모두 있어요.
 - 출처: scripts/vernon_check.py 점검표 · data/live.json · ops/watchlist.json · data/events.json · data/money.json · ops/money-todo.md · 공식 여부: 저장소·내부 계산
 - 확신도: 높음
+
+### V-20261126-0821-4 · 알림 · V-20261126-0821-1 1번 덧붙임 — 오늘 07:41 구성종목 수집 08:26 '성공', 그래도 FunETF 403 104건 · 46개 옛 값 그대로
+- 시각: 2026-11-26 08:31 KST
+- 내용: 제 커밋 직전에 holdings.yml 오늘 예약분이 끝났어요(커밋 7388ce2, 파일 시각 11/26 08:26). 수집 오류 104건 모두 FunETF **403** · '이전 값 그대로'로 어제와 같아요. ETF별 기준일: 11/19 **37개** · 11/20 **9개** · 11/24 5개(QQQ 공시 쓰는 나스닥100) · 11/26 8개(SPY 공시 6개 · 신한운용 0181L0 · 채권형 453850). 평일 기준 54시간 넘은 ETF 46개 그대로 — 파일 시각만 새로워져 Argus 나이 검사(56번)엔 안 잡혀요.
+- 출처: data/holdings.json · [Actions 실행 목록](https://github.com/10junsuya/gnomon/actions) · 공식 여부: 저장소·실행 기록
+- 확신도: 높음
+- 요청: Conrad 확인 바람 (긴급) — 49번 ② 답 필요(위 -1 과 같음)
