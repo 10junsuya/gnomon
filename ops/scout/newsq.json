@@ -1,6 +1,6 @@
 {
-"updated_kst": "2026-11-25 12:44",
-"rot": 7,
+"updated_kst": "2026-11-25 13:02",
+"rot": 67,
 "how": "Scout(프로그램)이 10분마다 모은 기사 제목·링크와 공시예요. Wren이 공식 출처로 확인한 뒤 회사 화면에 한국어로 반영해요. 본문은 받지 않아요.",
 "sources": {
 "Yahoo Finance": "120종목 확인 · 실패 0",
@@ -10,12 +10,32 @@
 "CNBC": "63건",
 "Bloomberg": "40건",
 "WSJ": "61건",
-"Reuters": "100건",
+"Reuters": "51건",
 "FinancialJuice": "100건",
 "SEC EDGAR": "실패 HTTPError",
 "Fox Business": "50건"
 },
 "items": [
+{
+"id": "adc24009c4c8",
+"t": "NVDA",
+"title": "Another Wall Street analyst revamps stock market outlook as volatility surges",
+"url": "https://www.thestreet.com/investing/another-wall-street-analyst-revamps-stock-market-outlook-as-volatility-surges",
+"pub": "2026-11-25T03:53:00+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-25T04:02:08+00:00"
+},
+{
+"id": "ea9587137e8d",
+"t": "SPCX",
+"title": "ASTS Stock Eyes Worst Month Since 2024: Bulls Cheer Director’s Dip Buy And Bet On A Launch-Fueled Comeback",
+"url": "https://stocktwits.com/news-articles/markets/equity/asts-stock-bulls-director-dip-buy-bet-on-launch-fueled-comeback/cNbHb6dR9lO",
+"pub": "2026-11-25T03:41:46+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-25T04:02:08+00:00"
+},
 {
 "id": "a77f93f8ddb9",
 "t": "SPCX",
@@ -445,6 +465,16 @@
 "src": "Yahoo Finance",
 "kind": "news",
 "seen": "2026-11-25T02:44:36+00:00"
+},
+{
+"id": "f86d9b8a24bf",
+"t": "AMD",
+"title": "Jim Cramer and Tom Lee are Buying More AI Stocks. Are They Right?",
+"url": "https://beincrypto.com/jim-cramer-tom-lee-ai-stock-call/",
+"pub": "2026-11-25T00:53:43+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-25T04:02:08+00:00"
 },
 {
 "id": "fb68512c1cd9",
@@ -7990,34 +8020,24 @@
 "seen": "2026-11-24T15:44:24+00:00"
 },
 {
-"id": "4c006093ab88",
-"t": "CRWV",
-"title": "JonesTrading reiterates Applied Digital Buy, $70 target after 18-year, $5.4 billion hyperscaler lease",
-"url": "https://blockspace.media/insight/applied-digital-signs-hyperscaler-lease-2/",
-"pub": "2026-11-24T15:12:38+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-24T16:15:36+00:00"
+"id": "f6147ee850b7",
+"t": "",
+"title": "Metals Mixed After Major Selloff as Traders Await US Inflation",
+"url": "https://www.bloomberg.com/news/articles/2026-11-25/metals-mixed-after-major-selloff-as-traders-await-us-inflation",
+"pub": "2026-11-25T03:57:12+00:00",
+"src": "Bloomberg",
+"kind": "market",
+"seen": "2026-11-25T04:02:08+00:00"
 },
 {
-"id": "3dc7c215656a",
-"t": "INTC",
-"title": "What Intel Holders Bought Into",
-"url": "https://finance.yahoo.com/markets/stocks/articles/intel-holders-bought-151149057.html",
-"pub": "2026-11-24T15:11:49+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-24T15:44:24+00:00"
-},
-{
-"id": "df9b27151b93",
-"t": "META",
-"title": "Meta launches its Muse personal agent in the UK – but it comes with a big warning",
-"url": "https://www.independent.co.uk/tech/meta-muse-uk-launch-release-warning-b3090758.html",
-"pub": "2026-11-24T15:11:48+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-24T15:15:37+00:00"
+"id": "3008ac6b3647",
+"t": "",
+"title": "Japan’s 40-Year Bond Sale Draws Weaker Demand on Risk Off Mood",
+"url": "https://www.bloomberg.com/news/articles/2026-11-25/japan-40-year-bond-sale-sees-weaker-demand-than-12-month-average-mwvkr2jb",
+"pub": "2026-11-25T03:39:10+00:00",
+"src": "Bloomberg",
+"kind": "market",
+"seen": "2026-11-25T04:02:08+00:00"
 },
 {
 "id": "c287ddd50807",
@@ -8168,6 +8188,16 @@
 "src": "Reuters",
 "kind": "market",
 "seen": "2026-11-25T01:55:14+00:00"
+},
+{
+"id": "fad56bb432ba",
+"t": "",
+"title": "JINGDONG Industrials Inc (7618.HK) | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1DdnVWMDF5Y040cW1MaVNUOEhpLXpHdjM2MHNadlFuX3JBY1JoVjZYUzBGR2VYNEhSaXg5cU9sNmV4OWRLZ2h2WjR3Zk80OE9Qc29JeWtydW1JZVhkTjRkNVpjX3pmaVk?oc=5",
+"pub": "2026-11-25T00:41:44+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-25T04:02:08+00:00"
 },
 {
 "id": "d1d9044389d2",
@@ -10985,36 +11015,6 @@
 "title": "Higher tariff levies from US to target excess industrial capacity overseas are expected this week - WSJ.",
 "url": "https://www.financialjuice.com/News/9866089/Higher-tariff-levies-from-US-to-target-excess-industrial-capacity-overseas-are-expected-this-week---WSJ.aspx?xy=rss",
 "pub": "2026-11-24T13:10:47+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-24T13:20:10+00:00"
-},
-{
-"id": "6c8203e4e112",
-"t": "",
-"title": "EU, Japan, South Korea likely to face 15% or lower tariffs - WSJ",
-"url": "https://www.financialjuice.com/News/9866088/EU-Japan-South-Korea-likely-to-face-15-or-lower-tariffs---WSJ.aspx?xy=rss",
-"pub": "2026-11-24T13:10:14+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-24T13:20:10+00:00"
-},
-{
-"id": "a9febe401ad2",
-"t": "",
-"title": "US new tariffs likely exclude some industrial goods - WSJ",
-"url": "https://www.financialjuice.com/News/9866087/US-new-tariffs-likely-exclude-some-industrial-goods---WSJ.aspx?xy=rss",
-"pub": "2026-11-24T13:10:06+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-24T13:20:10+00:00"
-},
-{
-"id": "c94b62238f36",
-"t": "",
-"title": "US prepares to raise tariffs on China, EU, 14 countries - WSJ.",
-"url": "https://www.financialjuice.com/News/9866086/US-prepares-to-raise-tariffs-on-China-EU-14-countries---WSJ.aspx?xy=rss",
-"pub": "2026-11-24T13:09:46+00:00",
 "src": "FinancialJuice",
 "kind": "market",
 "seen": "2026-11-24T13:20:10+00:00"
