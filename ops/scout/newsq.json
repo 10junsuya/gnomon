@@ -1,6 +1,6 @@
 {
-"updated_kst": "2026-11-25 11:44",
-"rot": 6,
+"updated_kst": "2026-11-25 11:56",
+"rot": 66,
 "how": "Scout(프로그램)이 10분마다 모은 기사 제목·링크와 공시예요. Wren이 공식 출처로 확인한 뒤 회사 화면에 한국어로 반영해요. 본문은 받지 않아요.",
 "sources": {
 "Yahoo Finance": "120종목 확인 · 실패 0",
@@ -10,12 +10,32 @@
 "CNBC": "63건",
 "Bloomberg": "40건",
 "WSJ": "61건",
-"Reuters": "47건",
+"Reuters": "49건",
 "FinancialJuice": "100건",
 "SEC EDGAR": "실패 HTTPError",
 "Fox Business": "50건"
 },
 "items": [
+{
+"id": "2fd6049fc0e1",
+"t": "AVGO",
+"title": "Arista Networks vs. SentinelOne: Which Technology Stock Is a Better Buy for 2027?",
+"url": "https://www.fool.com/coverage/better-buy/2026/11/24/arista-networks-vs-sentinelone-which-technology-stock-is-a-better-buy-for-2027/",
+"pub": "2026-11-25T02:43:50+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-25T02:56:36+00:00"
+},
+{
+"id": "137304605245",
+"t": "NVDA",
+"title": "Tech firms back in crosshairs as Huang rally reverses",
+"url": "https://finance.yahoo.com/markets/world-indices/articles/tech-firms-back-crosshairs-huang-024219799.html",
+"pub": "2026-11-25T02:42:19+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-25T02:56:36+00:00"
+},
 {
 "id": "5cf2b2d488e6",
 "t": "NVDA",
@@ -55,6 +75,16 @@
 "src": "Yahoo Finance",
 "kind": "news",
 "seen": "2026-11-25T02:44:36+00:00"
+},
+{
+"id": "76352c24d086",
+"t": "POWL",
+"title": "3 U.S. Onshoring Stocks Investors May Want To Watch After New Tariffs",
+"url": "https://finance.yahoo.com/economy/policy/articles/3-u-onshoring-stocks-investors-021134409.html",
+"pub": "2026-11-25T02:11:34+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-25T02:56:36+00:00"
 },
 {
 "id": "490f6efc84b3",
@@ -7990,34 +8020,24 @@
 "seen": "2026-11-24T15:15:37+00:00"
 },
 {
-"id": "8d1ebf51e7ff",
-"t": "CRWD",
-"title": "Bernstein Sees Hidden Risk in CrowdStrike's Zscaler Deal",
-"url": "https://finance.yahoo.com/markets/stocks/articles/bernstein-sees-hidden-risk-crowdstrikes-150055767.html",
-"pub": "2026-11-24T15:00:55+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-24T15:44:24+00:00"
+"id": "9d6f0b686d18",
+"t": "",
+"title": "Asian Stocks Mostly Lower on AI Doubts, Tariff Jitters",
+"url": "https://www.wsj.com/finance/stocks/asian-stocks-mostly-lower-on-ai-doubts-tariff-jitters-a0da3389",
+"pub": "2026-11-25T02:53:00+00:00",
+"src": "WSJ",
+"kind": "market",
+"seen": "2026-11-25T02:56:36+00:00"
 },
 {
-"id": "03b76eb970ce",
-"t": "ADI",
-"title": "Why Analog Devices (ADI) Stock Is Down Today: Shares Fall Despite Q4 Beat",
-"url": "https://finance.yahoo.com/markets/stocks/articles/why-analog-devices-adi-stock-150039276.html",
-"pub": "2026-11-24T15:00:39+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-24T15:44:24+00:00"
-},
-{
-"id": "92b318ddc7ca",
-"t": "TSLA",
-"title": "Have robotaxis hit a tipping point? Wall Street and experts are split.",
-"url": "https://finance.yahoo.com/markets/stocks/article/have-robotaxis-hit-a-tipping-point-wall-street-and-experts-are-split-150000412.html",
-"pub": "2026-11-24T15:00:00+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-24T15:15:37+00:00"
+"id": "2ee289f7e9a4",
+"t": "",
+"title": "Jensen Huang Boost Fades Fast as Taiwan Stocks Tumble 8%",
+"url": "https://www.bloomberg.com/news/articles/2026-11-25/jensen-huang-boost-fades-fast-as-taiwan-stocks-tumble-8",
+"pub": "2026-11-25T02:45:27+00:00",
+"src": "Bloomberg",
+"kind": "market",
+"seen": "2026-11-25T02:56:36+00:00"
 },
 {
 "id": "b66733443f90",
@@ -10995,26 +11015,6 @@
 "title": "BoE’s Greene: Hard evidence of significant effects needed for 50 bps",
 "url": "https://www.financialjuice.com/News/9866047/BoEs-Greene-Hard-evidence-of-significant-effects-needed-for-50-bps.aspx?xy=rss",
 "pub": "2026-11-24T12:58:05+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-24T13:20:10+00:00"
-},
-{
-"id": "ccf1c1ae0bc7",
-"t": "",
-"title": "BoE’s Greene: Target-consistent wage growth is around 3%",
-"url": "https://www.financialjuice.com/News/9866046/BoEs-Greene-Target-consistent-wage-growth-is-around-3.aspx?xy=rss",
-"pub": "2026-11-24T12:57:57+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-24T13:20:10+00:00"
-},
-{
-"id": "04ceaf4e389f",
-"t": "",
-"title": "BoE’s Greene: Tighter conditions doesn't mean you don't have to act",
-"url": "https://www.financialjuice.com/News/9866045/BoEs-Greene-Tighter-conditions-doesnt-mean-you-dont-have-to-act.aspx?xy=rss",
-"pub": "2026-11-24T12:50:17+00:00",
 "src": "FinancialJuice",
 "kind": "market",
 "seen": "2026-11-24T13:20:10+00:00"
