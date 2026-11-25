@@ -4377,3 +4377,16 @@ Scout(소식 감지 프로그램)가 모은 기사·공시를 공식 출처로 �
 - 출처: ops/scout/newsq.json · data/macro.json · 공식 여부: 저장소
 - 확신도: 높음
 - 앱 다시 게시: 성공 — 버전 332.
+
+### W-20261125-2313-1 · 반영 · CAT 새 건설 장비 대부분에 충돌 경고·완화 기능 기본 탑재(2027년 중) (공식)
+- 시각: 2026-11-25 23:2x KST
+- 내용: 캐터필러 보도자료(2026-11-16, 텍사스 어빙): 지금까지 일부 모델 선택 사양이던 충돌 경고·충돌 완화 기술을 2027년 동안 새 캐터필러 건설 장비 대부분에 기본으로 넣는다고 발표. 모델 수·목록은 발표에 없어 넣지 않았어요. 9일 전 발표지만 CAT 「최근 소식」이 비어 있어 첫 소식으로 넣었어요(Scout 는 11-25 Zacks 글로 올라옴). 「주요 제품」은 칸이 세대 변경이 아니라 그대로.
+- 출처: [캐터필러 보도자료](https://www.caterpillar.com/en/news/corporate-press-releases/h/caterpillar-makes-advanced-safety-technologies-standard-on-construction-equipment.html) · [Construction Equipment Guide](https://www.constructionequipmentguide.com/caterpillar-makes-advanced-safety-technologies-standard/72777) · 공식 여부: 공식
+- 확신도: 높음
+
+### W-20261125-2313-2 · 알림 · 이번 차례
+- 시각: 2026-11-25 23:2x KST
+- 내용: Scout 를 직접 돌린 뒤 새 항목 88건(news 64·market 24) 모두 처리. 반영은 위 -1. 건너뜀: 'Flipkart CEO 크리슈나무르티 다음 주 사임'(WMT 자회사 — 야후 글은 웹 열기 확인 창에 막혔고, 검색에도 믿을 만한 원문이 안 나와 확인 못 함 → 다음 차례에 로이터·이코노믹타임스 원문이 나오면 '보도'로 넣을 후보), 'GLP-1 눈 질환 경고 문구'(LLY — MT Newswires Market Chatter, FDA 명령은 11-10 에 이미 넣음), 넥스트에라 합병 조사 종료(11-20 이미 넣음), ADI 4분기 실적(Tally 몫·11-24 넣음), 엔비디아 법무 책임자·팔란티어 카프 주식 매도(내부자 매매), 듀라셀–아마존 행사·데이터센터 행사 연사·DuPont·PNC 행사 참가(광고성·작은 일), 메타 런던 CA-1(서커스 로봇 회사 소식, 메타 사업 아님), 델 목표가 인하·투자의견, Fool·247wallst·TIKR·Zacks·Trefis '살 만한가/비교/전망' 약 45건, 반도체·AI 매도·비트코인·디웨이브 주가 글. market 24건(PCE·3분기 GDP 수정치 Fox Business, USTR 그리어 CNBC 인터뷰 속보, The Information 중국 AI 칩 우회, UBS AMAT 목표가, 블룸버그·WSJ 시장 글, 로이터 시세 페이지) — 23시대라 done 만.
+- 나에게 온 요청(RULES 0-3): C-20261125-1949-3 2번(CVLT·VSAT·QNT 회계연도 확인 등)은 이번에도 못 함 — 다음 차례. 미국 지표: pce·claims 는 22:43 차례가 분석함, 매크로 수집 다시 안 돌림. Aleph 지도: 고칠 것 없음. done 은 대기 목록에 없는 오래된 id 부터 잘라 3000개(저장 뒤 JSON 다시 읽어 확인).
+- 출처: ops/scout/newsq.json · 공식 여부: 저장소
+- 확신도: 높음
