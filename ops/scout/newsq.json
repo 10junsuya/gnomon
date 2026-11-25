@@ -1,6 +1,6 @@
 {
-"updated_kst": "2026-11-25 09:14",
-"rot": 123,
+"updated_kst": "2026-11-25 09:26",
+"rot": 4,
 "how": "Scout(프로그램)이 10분마다 모은 기사 제목·링크와 공시예요. Wren이 공식 출처로 확인한 뒤 회사 화면에 한국어로 반영해요. 본문은 받지 않아요.",
 "sources": {
 "Yahoo Finance": "120종목 확인 · 실패 0",
@@ -10,12 +10,72 @@
 "CNBC": "63건",
 "Bloomberg": "40건",
 "WSJ": "61건",
-"Reuters": "47건",
+"Reuters": "50건",
 "FinancialJuice": "100건",
 "SEC EDGAR": "실패 HTTPError",
 "Fox Business": "50건"
 },
 "items": [
+{
+"id": "ca1c44441abe",
+"t": "NVDA",
+"title": "Nvidia-Backed Nscale Reportedly Eyes Private Route As AI Market Sell-Off Clouds $35B IPO Plans",
+"url": "https://stocktwits.com/news-articles/markets/equity/nvidia-backed-nscale-reportedly-eyes-private-route-as-ai-market-sell-off-clouds-35-b-ipo-plans/cNbuDjYR9lc",
+"pub": "2026-11-25T00:16:31+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-25T00:26:28+00:00"
+},
+{
+"id": "48e169af9bbd",
+"t": "INTC",
+"title": "Dell Technologies Q3 Earnings Call Highlights",
+"url": "https://www.marketbeat.com/instant-alerts/transcript-dell-technologies-q3-earnings-call-highlights-2026-11-24/",
+"pub": "2026-11-25T00:13:36+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-25T00:26:28+00:00"
+},
+{
+"id": "717c9b310c70",
+"t": "TSLA",
+"title": "S&P 500, Nasdaq End Lower As AI Jitters Resurface With Nvidia’s Governance Issues And Talks Of Fresh Import Tariffs  — NVDA, DELL, TSLA, TGTX In Focus",
+"url": "https://stocktwits.com/news-articles/markets/equity/s-and-p-500-nasdaq-end-lower-as-ai-jitters-resurface-with-nvidia-s-governance-issues-and-talks-of-fresh-import-tariffs-nvda-dell-tsla-tgtx-in-focus/cNbuDhyR9lT",
+"pub": "2026-11-25T00:12:12+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-25T00:26:28+00:00"
+},
+{
+"id": "0ba1719244b4",
+"t": "NVDA",
+"title": "Feels like a bear market— tech names Mark Newton is buying now",
+"url": "https://www.thestreet.com/video/feels-like-its-a-bear-market-tech-names-mark-newton-is-buying-now",
+"pub": "2026-11-25T00:12:04+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-25T00:26:28+00:00"
+},
+{
+"id": "6136dcfe4a34",
+"t": "NVDA",
+"title": "Dan Ives Says Jensen’s Return Is A 'Watershed Moment' For Nvidia — Just Not The All-Clear",
+"url": "https://stocktwits.com/news-articles/markets/equity/dan-ives-says-jensen-s-return-is-a-watershed-moment-for-nvidia-just-not-the-all-clear/cNbuDfxR9lR",
+"pub": "2026-11-25T00:09:00+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-25T00:26:28+00:00"
+},
+{
+"id": "8aa7cd8405fb",
+"t": "EBAY",
+"title": "Jim Cramer Says GameStop’s Turnaround Plan “Actually Works.” Should You Buy?",
+"url": "https://247wallst.com/investing/2026/11/24/jim-cramer-says-gamestops-turnaround-plan-actually-works-should-you-buy/",
+"pub": "2026-11-25T00:07:50+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-25T00:26:28+00:00"
+},
 {
 "id": "fc4df6029fc5",
 "t": "NVDA",
@@ -7960,64 +8020,44 @@
 "seen": "2026-11-24T15:15:37+00:00"
 },
 {
-"id": "c6c09393493d",
-"t": "AMD",
-"title": "Stock Market Today: Nasdaq Sells Off After Big Market Surge; AMD, Anthropic, Nvidia All Dive (Live Coverage)",
-"url": "https://finance.yahoo.com/m/4aa4ff31-269f-346e-80c4-e681510af7ae/stock-market-today%3A-nasdaq.html",
-"pub": "2026-11-24T14:42:48+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-24T15:15:37+00:00"
+"id": "0bdf393a0753",
+"t": "",
+"title": "Gold Edges Lower With U.S. Inflation Data in Focus",
+"url": "https://www.wsj.com/finance/commodities-futures/gold-edges-lower-with-u-s-inflation-data-in-focus-17f37be3",
+"pub": "2026-11-25T00:24:00+00:00",
+"src": "WSJ",
+"kind": "market",
+"seen": "2026-11-25T00:26:28+00:00"
 },
 {
-"id": "e7b22fcfaf11",
-"t": "GOOGL",
-"title": "Ethereum Foundation Doubles Security Team And Calls A.I. ‘Urgent Risk’",
-"url": "https://www.cryptoprowl.com/releases/ethereum-foundation-doubles-security-team-and-calls-ai-urgent-risk-8042",
-"pub": "2026-11-24T14:42:00+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-24T15:15:37+00:00"
+"id": "d795dbcc3cd3",
+"t": "",
+"title": "Nikkei Falls 2.8%, Dragged by Chip-Related Stocks",
+"url": "https://www.wsj.com/finance/stocks/nikkei-falls-2-8-dragged-by-chip-related-stocks-79ef7a34",
+"pub": "2026-11-25T00:21:00+00:00",
+"src": "WSJ",
+"kind": "market",
+"seen": "2026-11-25T00:26:28+00:00"
 },
 {
-"id": "1e3b6baace63",
-"t": "PLTR",
-"title": "AI-Enabled Battlefield Management and Decision Support Systems Global Market Report 2026 | Lockheed Martin, RTX, Palantir Capitalize on Edge AI as Market Hits $17.88B by 2030",
-"url": "https://finance.yahoo.com/technology/ai/articles/ai-enabled-battlefield-management-decision-144200975.html",
-"pub": "2026-11-24T14:42:00+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-24T15:15:37+00:00"
+"id": "42573c8881ce",
+"t": "",
+"title": "Thailand’s Shrinking Budget Room Raises Pressure for Tax Hikes",
+"url": "https://www.bloomberg.com/news/articles/2026-11-25/thailand-s-shrinking-budget-room-raises-pressure-for-tax-hikes",
+"pub": "2026-11-25T00:00:00+00:00",
+"src": "Bloomberg",
+"kind": "market",
+"seen": "2026-11-25T00:26:28+00:00"
 },
 {
-"id": "5d2076de4d10",
-"t": "GE",
-"title": "Can Howmet Continue Its Strong Capital Returns to Shareholders?",
-"url": "https://finance.yahoo.com/markets/stocks/articles/howmet-continue-strong-capital-returns-144200979.html",
-"pub": "2026-11-24T14:42:00+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-24T16:15:36+00:00"
-},
-{
-"id": "2e9cedb7dba7",
-"t": "GOOGL",
-"title": "Global Neural Processor Market Report 2026: Size, Share, Trends, and Forecast to 2030 | Capitalize on 22.2% CAGR as NVIDIA, Apple, Alphabet, and Intel Accelerate Edge AI",
-"url": "https://finance.yahoo.com/technology/ai/articles/global-neural-processor-market-report-144100416.html",
-"pub": "2026-11-24T14:41:00+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-24T15:15:37+00:00"
-},
-{
-"id": "4cbae5f1e7e1",
-"t": "COST",
-"title": "How Much Is a Costco Membership? (Gold Star vs. Executive)",
-"url": "https://finance.yahoo.com/small-business/articles/costco-membership-worth-honest-math-151931170.html",
-"pub": "2026-11-24T14:41:00+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-24T16:15:36+00:00"
+"id": "3a85cd5a8955",
+"t": "",
+"title": "HDBank Turns to Global Investors With Bonds, Loan to Fund Growth in Vietnam",
+"url": "https://www.bloomberg.com/news/articles/2026-11-25/hdbank-turns-to-global-investors-with-bonds-loan-to-fund-growth-in-vietnam",
+"pub": "2026-11-25T00:00:00+00:00",
+"src": "Bloomberg",
+"kind": "market",
+"seen": "2026-11-25T00:26:28+00:00"
 },
 {
 "id": "e56b9f64e334",
@@ -8178,6 +8218,16 @@
 "src": "Reuters",
 "kind": "market",
 "seen": "2026-11-25T00:14:06+00:00"
+},
+{
+"id": "3a01b815c700",
+"t": "",
+"title": "Tech, Media & Telecom Roundup: Market Talk",
+"url": "https://www.wsj.com/business/tech-media-telecom-roundup-market-talk-925cd40f",
+"pub": "2026-11-24T21:53:00+00:00",
+"src": "WSJ",
+"kind": "market",
+"seen": "2026-11-25T00:26:28+00:00"
 },
 {
 "id": "c6a884924e28",
@@ -8840,6 +8890,16 @@
 "seen": "2026-11-24T18:44:31+00:00"
 },
 {
+"id": "b8a898de169d",
+"t": "",
+"title": "2984.HK%5EI17 - | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNb0lIcVhPblRBS3ZCUFJaOVlvcHZoREVwZ2JmOU1aalE0MVppWDloSEw4NEFFT2VOQWFKUTMwMzVHSkhnUTV1czYwSHhKbHZlT3FUZ3ZqSFpjemtqUEFqQ3pQeGJPVVQ3dEhpTXRjMEZKbGNFYjBUQmczX2pCNndNRTl5alFkV1hOcDd5MlhvS1lIRXZXWUQ5aQ?oc=5",
+"pub": "2026-11-24T18:36:27+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-25T00:26:28+00:00"
+},
+{
 "id": "2a585bd3aae6",
 "t": "",
 "title": "Lula Urged to Fast Track Brazil Central Bank Picks",
@@ -9098,6 +9158,16 @@
 "src": "FinancialJuice",
 "kind": "market",
 "seen": "2026-11-24T18:14:24+00:00"
+},
+{
+"id": "232641326867",
+"t": "",
+"title": "Amana Developing World ETF (AMEM.OQ) | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBodHhDMUNGQ0hVc3l0SkJyQ0t4RE00VDdxQktydTVZakozTlBQQ2NXcWd0ZHk2VXFsUVhVMXF4Z0RzRUs1Q09IRFpJTGZZWXo1RVh1X3lweFdXWG9faEF0RDFoMjlhQlV2b2JEMWRR?oc=5",
+"pub": "2026-11-24T17:35:16+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-25T00:26:28+00:00"
 },
 {
 "id": "22638d1d7bfd",
@@ -10948,76 +11018,6 @@
 "src": "Reuters",
 "kind": "market",
 "seen": "2026-11-24T13:20:10+00:00"
-},
-{
-"id": "3dd0702b6a34",
-"t": "",
-"title": "How Jensen Huang’s Return May Reduce Risks to US Growth",
-"url": "https://www.bloomberg.com/news/newsletters/2026-11-24/how-jensen-huang-s-return-may-reduce-risks-to-us-growth",
-"pub": "2026-11-24T12:00:01+00:00",
-"src": "Bloomberg",
-"kind": "market",
-"seen": "2026-11-24T12:15:38+00:00"
-},
-{
-"id": "696b74df162a",
-"t": "",
-"title": "Health Care Roundup: Market Talk",
-"url": "https://www.wsj.com/business/health-care-roundup-market-talk-0f197179",
-"pub": "2026-11-24T11:57:00+00:00",
-"src": "WSJ",
-"kind": "market",
-"seen": "2026-11-24T14:06:43+00:00"
-},
-{
-"id": "c2f6c43a151d",
-"t": "",
-"title": "UKMTO: Received a late report of an incident in the Strait of Hormuz",
-"url": "https://www.financialjuice.com/News/9865961/UKMTO-Received-a-late-report-of-an-incident-in-the-Strait-of-Hormuz.aspx?xy=rss",
-"pub": "2026-11-24T11:54:40+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-24T12:15:38+00:00"
-},
-{
-"id": "b5428ff0ee5b",
-"t": "",
-"title": "Arabica Drops as Exchange Stockpiles Surge Most in 28 Years",
-"url": "https://www.bloomberg.com/news/articles/2026-11-24/arabica-drops-as-exchange-stockpiles-surge-most-in-28-years",
-"pub": "2026-11-24T11:54:19+00:00",
-"src": "Bloomberg",
-"kind": "market",
-"seen": "2026-11-24T12:15:38+00:00"
-},
-{
-"id": "e7bc04e27e2e",
-"t": "",
-"title": "Energy & Utilities Roundup: Market Talk",
-"url": "https://www.wsj.com/business/energy-utilities-roundup-market-talk-762271f0",
-"pub": "2026-11-24T11:52:00+00:00",
-"src": "WSJ",
-"kind": "market",
-"seen": "2026-11-24T14:06:43+00:00"
-},
-{
-"id": "f725218ab788",
-"t": "",
-"title": "Financial Services Roundup: Market Talk",
-"url": "https://www.wsj.com/business/financial-services-roundup-market-talk-2d65d6bc",
-"pub": "2026-11-24T11:46:00+00:00",
-"src": "WSJ",
-"kind": "market",
-"seen": "2026-11-24T14:06:43+00:00"
-},
-{
-"id": "0b4fc05c715b",
-"t": "",
-"title": "JP Morgan: We forecast US 10-year yields will peak around 5.10% in Q1 2027 before retracing to 4.95% by year-end 2027",
-"url": "https://www.financialjuice.com/News/9865933/JP-Morgan-We-forecast-US-10-year-yields-will-peak-around-510-in-Q1-2027-before-retracing-to-495-by-year-end-2027.aspx?xy=rss",
-"pub": "2026-11-24T11:40:54+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-24T11:41:09+00:00"
 }
 ]
 }
