@@ -1,21 +1,71 @@
 {
-"updated_kst": "2026-11-26 05:06",
-"rot": 22,
+"updated_kst": "2026-11-26 05:14",
+"rot": 82,
 "how": "Scout(프로그램)이 10분마다 모은 기사 제목·링크와 공시예요. Wren이 공식 출처로 확인한 뒤 회사 화면에 한국어로 반영해요. 본문은 받지 않아요.",
 "sources": {
 "Yahoo Finance": "120종목 확인 · 실패 0",
-"GlobeNewswire": "0건",
+"GlobeNewswire": "실패 HTTPError",
 "PR Newswire": "0건",
 "Business Wire": "0건",
 "CNBC": "63건",
 "Bloomberg": "40건",
 "WSJ": "61건",
-"Reuters": "46건",
+"Reuters": "43건",
 "FinancialJuice": "100건",
 "SEC EDGAR": "실패 HTTPError",
 "Fox Business": "50건"
 },
 "items": [
+{
+"id": "1196b153dfe4",
+"t": "NVDA",
+"title": "3 Glorious AI Stocks to Buy Hand Over Fist If the Stock Market Crashes",
+"url": "https://www.fool.com/investing/2026/11/25/3-glorious-ai-stocks-to-buy-hand-over-fist-if-the-stock-market-crashes/",
+"pub": "2026-11-25T20:02:01+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-25T20:14:15+00:00"
+},
+{
+"id": "6d51506f8f99",
+"t": "GOOGL",
+"title": "Is the AI Correction Over? Why Ram Ahluwalia Thinks the AI Trade Has Hit Bottom",
+"url": "https://unchainedcrypto.com/is-the-ai-correction-over-why-ram-ahluwalia-thinks-the-ai-trade-has-hit-bottom/",
+"pub": "2026-11-25T20:00:07+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-25T20:14:15+00:00"
+},
+{
+"id": "16cd782a72f3",
+"t": "NVDA",
+"title": "Mysterious traders made $340,000 betting on Huang’s Nvidia return",
+"url": "https://www.thestreet.com/crypto/markets/mysterious-traders-made-340000-betting-on-huangs-nvidia-return",
+"pub": "2026-11-25T20:00:00+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-25T20:14:15+00:00"
+},
+{
+"id": "7b98aaf2094b",
+"t": "SPCX",
+"title": "SpaceX Slashes GPU Pricing? Plus, IREN’s Selloff and CoreWeave’s Distressed Bonds",
+"url": "https://blockspace.media/podcast/spacex-slashes-gpu-pricing-plus-irens-selloff-and-coreweaves-distressed-bonds/",
+"pub": "2026-11-25T19:57:56+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-25T20:14:15+00:00"
+},
+{
+"id": "e472b9dad2f3",
+"t": "QLYS",
+"title": "Qualys: 3 Key Takeaways for Long-Term Investors",
+"url": "https://www.fool.com/earnings/takeaways/2026/11/25/qualys-3-key-takeaways-for-long-term-investors/",
+"pub": "2026-11-25T19:54:47+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-25T20:14:15+00:00"
+},
 {
 "id": "12e199285c9a",
 "t": "NVDA",
@@ -25,6 +75,16 @@
 "src": "Yahoo Finance",
 "kind": "news",
 "seen": "2026-11-25T20:06:21+00:00"
+},
+{
+"id": "3a8fbbe8a764",
+"t": "PG",
+"title": "Leaving a Roth IRA to Your Kids? Why Dividend Stocks Make the 10-Year Rule Work for Them",
+"url": "https://247wallst.com/investing/2026/11/25/leaving-a-roth-ira-to-your-kids-why-dividend-stocks-make-the-10-year-rule-work-for-them/",
+"pub": "2026-11-25T19:47:05+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-25T20:14:15+00:00"
 },
 {
 "id": "2d0676af6d60",
@@ -187,6 +247,16 @@
 "seen": "2026-11-25T19:44:14+00:00"
 },
 {
+"id": "21fbc5ca1818",
+"t": "PG",
+"title": "Corporate Bonds vs. Dividend Stocks: Which Pays a Retiree More Reliably?",
+"url": "https://247wallst.com/investing/2026/11/25/corporate-bonds-vs-dividend-stocks-which-pays-a-retiree-more-reliably/",
+"pub": "2026-11-25T19:17:04+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-25T20:14:15+00:00"
+},
+{
 "id": "f4fac9fbf8d0",
 "t": "RVMD",
 "title": "BioMarin (BMRN) Stock Is Up 4.8% Today Without Company News",
@@ -295,6 +365,16 @@
 "src": "Yahoo Finance",
 "kind": "news",
 "seen": "2026-11-25T19:14:43+00:00"
+},
+{
+"id": "8df3c861eaad",
+"t": "AMZN",
+"title": "Anthony Scaramucci Told Uber’s Founders to ‘Get The Hell Out of My Office’ Before Passing On $500,000 Investment: ‘I Totally Missed It’",
+"url": "https://finance.yahoo.com/markets/stocks/articles/anthony-scaramucci-told-uber-founders-190006039.html",
+"pub": "2026-11-25T19:00:06+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-25T20:14:15+00:00"
 },
 {
 "id": "35ea56207316",
@@ -709,6 +789,16 @@
 "seen": "2026-11-25T18:45:05+00:00"
 },
 {
+"id": "1ff21a1fe123",
+"t": "UNH",
+"title": "The 3 Highest-Yielding Dividend Stocks Among Ken Fisher’s Top Holdings",
+"url": "https://www.tikr.com/blog/the-3-highest-yielding-dividend-stocks-among-ken-fishers-top-holdings",
+"pub": "2026-11-25T18:20:11+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-25T20:14:15+00:00"
+},
+{
 "id": "769bf2e2f372",
 "t": "SPCX",
 "title": "Prediction: SpaceX Stock Will Be Worth This Much in 3 Years",
@@ -957,6 +1047,16 @@
 "src": "Yahoo Finance",
 "kind": "news",
 "seen": "2026-11-25T18:45:05+00:00"
+},
+{
+"id": "da5b204e5f70",
+"t": "INTC",
+"title": "Trump Says It’s “Probably Not Too Late” for a US Stake in Nvidia. That’s a Big Risk for Its Multiple",
+"url": "https://www.tikr.com/blog/trump-says-its-probably-not-too-late-for-a-us-stake-in-nvidia-thats-a-big-risk-for-its-multiple",
+"pub": "2026-11-25T18:08:23+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-25T20:14:15+00:00"
 },
 {
 "id": "30745032b9a4",
@@ -7920,104 +8020,24 @@
 "seen": "2026-11-25T11:44:20+00:00"
 },
 {
-"id": "8ea4a6e57342",
-"t": "RDW",
-"title": "Does Redwire (RDW) Change Its Growth Outlook With New Contract And CTO?",
-"url": "https://finance.yahoo.com/markets/stocks/articles/does-redwire-rdw-change-growth-111344439.html",
-"pub": "2026-11-25T11:13:44+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-25T11:44:20+00:00"
+"id": "73fbf89f9fd4",
+"t": "",
+"title": "GTCR Is Said to Weigh $50B Global Payments Buyout",
+"url": "https://www.bloomberg.com/news/videos/2026-11-25/gtcr-is-said-to-weigh-50b-global-payments-buyout-video",
+"pub": "2026-11-25T20:06:17+00:00",
+"src": "Bloomberg",
+"kind": "market",
+"seen": "2026-11-25T20:14:15+00:00"
 },
 {
-"id": "aacbb8013e17",
-"t": "ISRG",
-"title": "Is Intuitive Surgical (ISRG) Fairly Valued After Fresh Optimism Around Procedure Growth?",
-"url": "https://finance.yahoo.com/markets/stocks/articles/intuitive-surgical-isrg-fairly-valued-111304157.html",
-"pub": "2026-11-25T11:13:04+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-25T11:44:20+00:00"
-},
-{
-"id": "4a2b7a162342",
-"t": "NVDA",
-"title": "History Says This Simple Investing Strategy Could Turn $500 a Month Into a $1 Million Portfolio With Almost No Effort",
-"url": "https://www.fool.com/investing/2026/11/25/history-says-this-simple-investing-strategy-could-turn-usd500-a-month-into-a-usd1-million-portfolio-with-almost-no-effort/",
-"pub": "2026-11-25T11:13:02+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-25T11:24:04+00:00"
-},
-{
-"id": "e45f91d231ec",
-"t": "CDNS",
-"title": "Can Cadence's Record $8.2B Backlog Sustain Its Growth Momentum?",
-"url": "https://finance.yahoo.com/markets/stocks/articles/cadences-record-8-2b-backlog-111300642.html",
-"pub": "2026-11-25T11:13:00+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-25T12:37:37+00:00"
-},
-{
-"id": "af25eedb9d46",
-"t": "CIEN",
-"title": "What Are Ciena Investors Betting On?",
-"url": "https://www.trefis.com/stock/cien/articles/628738/what-are-ciena-investors-betting-on/2026-11-25",
-"pub": "2026-11-25T11:12:48+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-25T11:44:20+00:00"
-},
-{
-"id": "d125016e1346",
-"t": "SPCX",
-"title": "Tesla and SpaceX $3.5 Trillion Merger Talks Take a Major Step Forward",
-"url": "https://finance.yahoo.com/markets/stocks/articles/tesla-spacex-3-5-trillion-111122235.html",
-"pub": "2026-11-25T11:11:22+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-25T11:44:20+00:00"
-},
-{
-"id": "6e13f59133d4",
-"t": "ISRG",
-"title": "Is Intuitive Surgical Stock Worth 33 Times 2027 Profit?",
-"url": "https://www.trefis.com/stock/isrg/articles/628737/is-intuitive-surgical-stock-worth-33-times-2027-profit/2026-11-25",
-"pub": "2026-11-25T11:10:43+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-25T11:44:20+00:00"
-},
-{
-"id": "3ca724a33c70",
-"t": "SPCX",
-"title": "Musk: Starlink Has a “Good Chance” of Carrying “About Half of Global Traffic”",
-"url": "https://www.tikr.com/blog/musk-starlink-has-a-good-chance-of-carrying-about-half-of-global-traffic",
-"pub": "2026-11-25T11:09:59+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-25T11:24:04+00:00"
-},
-{
-"id": "a553a8a4c35d",
-"t": "QNT",
-"title": "BP (LSE:BP.) Turns To Quantum Computing For Oil And Gas Discovery",
-"url": "https://finance.yahoo.com/energy/articles/bp-lse-bp-turns-quantum-110938155.html",
-"pub": "2026-11-25T11:09:38+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-25T11:44:20+00:00"
-},
-{
-"id": "56449550e8c5",
-"t": "NVDA",
-"title": "5-Star Analyst Revamps Nvidia Stock Price Target for 2027",
-"url": "https://finance.yahoo.com/markets/stocks/articles/5-star-analyst-revamps-nvidia-110832740.html",
-"pub": "2026-11-25T11:08:32+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-25T11:44:20+00:00"
+"id": "401c20c4d5ef",
+"t": "",
+"title": "BNP Paribas Hit by Higher Capital Surcharge Under New GSIB List",
+"url": "https://www.bloomberg.com/news/articles/2026-11-25/bnp-paribas-hit-by-higher-capital-surcharge-under-new-gsib-list",
+"pub": "2026-11-25T20:03:35+00:00",
+"src": "Bloomberg",
+"kind": "market",
+"seen": "2026-11-25T20:14:15+00:00"
 },
 {
 "id": "b3f80b4f7e7b",
@@ -8748,6 +8768,16 @@
 "src": "FinancialJuice",
 "kind": "market",
 "seen": "2026-11-25T16:44:23+00:00"
+},
+{
+"id": "d2a1a99bca65",
+"t": "",
+"title": "Copper Slumps Amid AI Roller Coaster But Physical Supply Remains Tight",
+"url": "https://www.wsj.com/finance/commodities-futures/copper-slumps-amid-ai-roller-coaster-but-physical-supply-remains-tight-14fd2a91",
+"pub": "2026-11-25T16:30:00+00:00",
+"src": "WSJ",
+"kind": "market",
+"seen": "2026-11-25T20:14:15+00:00"
 },
 {
 "id": "130b14ce65f0",
@@ -10988,36 +11018,6 @@
 "src": "WSJ",
 "kind": "market",
 "seen": "2026-11-25T11:44:20+00:00"
-},
-{
-"id": "b7a10fb5c118",
-"t": "",
-"title": "Nvidia’s Role as an Underwriter of the AI Boom",
-"url": "https://www.wsj.com/finance/investing/nvidias-role-as-an-underwriter-of-the-ai-boom-95375800",
-"pub": "2026-11-25T11:25:00+00:00",
-"src": "WSJ",
-"kind": "market",
-"seen": "2026-11-25T11:44:20+00:00"
-},
-{
-"id": "03201a089cdb",
-"t": "",
-"title": "Tech Selloff Rolls On as AI Worries Persist",
-"url": "https://www.bloomberg.com/news/videos/2026-11-25/the-opening-trade-11-25-2026-video",
-"pub": "2026-11-25T11:20:46+00:00",
-"src": "Bloomberg",
-"kind": "market",
-"seen": "2026-11-25T12:14:33+00:00"
-},
-{
-"id": "3d63a8f5e4d9",
-"t": "",
-"title": "J4V.F - | Stock Price & Latest News - Reuters",
-"url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOOTI5YjFoeGpjMFE4R21ha0Zoc3pPOHlVVjRDakdXWVVmdkxvZ3p3T2R3cWNTZ0JzbGJOUEdKTFRMcG5wcllxaTlfbF9nYmJFYkYtUVZoRTNiTHhkLV9jSVA2Zy1UbXQ1MWpJbmc3emE4ajh4Z0c3VVRQLWY4RXEyN3ZpWEl3NF9IV0hlcg?oc=5",
-"pub": "2026-11-25T11:06:49+00:00",
-"src": "Reuters",
-"kind": "market",
-"seen": "2026-11-25T16:44:23+00:00"
 }
 ]
 }
