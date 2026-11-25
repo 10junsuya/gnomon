@@ -1,21 +1,81 @@
 {
-"updated_kst": "2026-11-25 08:44",
-"rot": 63,
+"updated_kst": "2026-11-25 09:14",
+"rot": 123,
 "how": "Scout(프로그램)이 10분마다 모은 기사 제목·링크와 공시예요. Wren이 공식 출처로 확인한 뒤 회사 화면에 한국어로 반영해요. 본문은 받지 않아요.",
 "sources": {
 "Yahoo Finance": "120종목 확인 · 실패 0",
-"GlobeNewswire": "0건",
+"GlobeNewswire": "실패 HTTPError",
 "PR Newswire": "0건",
 "Business Wire": "0건",
 "CNBC": "63건",
 "Bloomberg": "40건",
 "WSJ": "61건",
-"Reuters": "실패 HTTPError",
+"Reuters": "47건",
 "FinancialJuice": "100건",
 "SEC EDGAR": "실패 HTTPError",
 "Fox Business": "50건"
 },
 "items": [
+{
+"id": "fc4df6029fc5",
+"t": "NVDA",
+"title": "Berkshire Hit a Record High While AI Power Stocks Sold Off. Here’s What That Says About Where Energy Money Is Going.",
+"url": "https://www.fool.com/investing/2026/11/24/berkshire-hit-a-record-high-while-ai-power-stocks-sold-off-heres-what-that-says-about-where-energy-money-is-going/",
+"pub": "2026-11-25T00:02:02+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-25T00:14:06+00:00"
+},
+{
+"id": "0922a7a3cc80",
+"t": "V",
+"title": "iwoca and Visa launch credit card to widen SME funding choice",
+"url": "https://finance.yahoo.com/small-business/articles/iwoca-visa-launch-credit-card-000100356.html",
+"pub": "2026-11-25T00:01:00+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-25T00:14:06+00:00"
+},
+{
+"id": "71de2a85f7de",
+"t": "SPCX",
+"title": "Nasdaq Drops As NVDA, ANT, SPCX Slide: Mohamed El-Erian Says Market Warning Signals Go Well Beyond Nvidia",
+"url": "https://stocktwits.com/news-articles/markets/equity/nasdaq-drops-as-nvda-ant-spcx-slide-mohamed-el-erian-says-market-warning-signals-go-well-beyond-nvidia/cNbsoOQR9lb",
+"pub": "2026-11-24T23:58:47+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-25T00:14:06+00:00"
+},
+{
+"id": "6edb06bee9fb",
+"t": "NVDA",
+"title": "This AI Chip Stock Just Crashed 38% on a Memory Shortage Warning. Its Filings Flagged the Risk Months Ago",
+"url": "https://www.fool.com/investing/2026/11/24/this-ai-chip-stock-just-crashed-38-on-a-memory-shortage-warning-its-filings-flagged-the-risk-months-ago/",
+"pub": "2026-11-24T23:47:08+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-25T00:14:06+00:00"
+},
+{
+"id": "2c89d5f46440",
+"t": "NVDA",
+"title": "Jensen Huang Reveals 90 Minutes Of Daily Therapy. Nvidia CEO Apologizes To Staff After Scandal.",
+"url": "https://www.ibtimes.com/jensen-huang-daily-therapy-after-misconduct-scandal-3810157",
+"pub": "2026-11-24T23:42:48+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-25T00:14:06+00:00"
+},
+{
+"id": "0aacb7c02946",
+"t": "DELL",
+"title": "Dell Technologies Q3 2027 Earnings: Recap of $DELL Earnings Call, Stock Forecast",
+"url": "https://www.thestreet.com/latest-news/dell-technologies-q3-2027-earnings-call-stock-updates",
+"pub": "2026-11-24T23:30:53+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-25T00:14:06+00:00"
+},
 {
 "id": "c46ed0ea0e67",
 "t": "NVDA",
@@ -37,6 +97,56 @@
 "seen": "2026-11-24T23:32:07+00:00"
 },
 {
+"id": "585a687f1475",
+"t": "CME",
+"title": "How Investors May Respond To CME Group (CME) Wind Power Options Launch",
+"url": "https://finance.yahoo.com/markets/options/articles/investors-may-respond-cme-group-232437035.html",
+"pub": "2026-11-24T23:24:37+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-25T00:14:06+00:00"
+},
+{
+"id": "eced60f16675",
+"t": "NVDA",
+"title": "Source: Huang apologizes to Nvidia staff at company meeting",
+"url": "https://www.cnn.com/2026/11/24/business/video/nvidia-huang-staff-meeting-gold-live-112404pseg3-cnni-business-fast?cid=external-feeds_iluminar_yahoo",
+"pub": "2026-11-24T23:24:18+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-25T00:14:06+00:00"
+},
+{
+"id": "c4d698f4dd6e",
+"t": "NVDA",
+"title": "3 British Growth Stocks With Earnings Growth Up To 83%",
+"url": "https://finance.yahoo.com/markets/stocks/articles/3-british-growth-stocks-earnings-232414800.html",
+"pub": "2026-11-24T23:24:14+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-25T00:14:06+00:00"
+},
+{
+"id": "d543cf2a3d82",
+"t": "NVDA",
+"title": "3 Canadian Value Stocks For November 2026",
+"url": "https://finance.yahoo.com/markets/stocks/articles/3-canadian-value-stocks-november-232403769.html",
+"pub": "2026-11-24T23:24:03+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-25T00:14:06+00:00"
+},
+{
+"id": "9243e2a80abb",
+"t": "DELL",
+"title": "Dell in Strong Position With No Signs of a Slowdown, CFO Says",
+"url": "https://finance.yahoo.com/video/dell-strong-position-no-signs-232228501.html",
+"pub": "2026-11-24T23:22:28+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-25T00:14:06+00:00"
+},
+{
 "id": "5dcf2dc2e811",
 "t": "NVDA",
 "title": "Dow Jones Futures Fall: Nvidia, Anthropic Lead AI Retreat But Many Sectors Strong; Fed Inflation Data Due",
@@ -45,6 +155,16 @@
 "src": "Yahoo Finance",
 "kind": "news",
 "seen": "2026-11-24T23:32:07+00:00"
+},
+{
+"id": "92d70aaaaf79",
+"t": "DELL",
+"title": "Nutanix Inc (NTNX) Q1 2027 Earnings Call Highlights: Record Margins, Raised Cash Flow Guidance ...",
+"url": "https://finance.yahoo.com/markets/stocks/articles/nutanix-inc-ntnx-q1-2027-232051371.html",
+"pub": "2026-11-24T23:20:51+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-25T00:14:06+00:00"
 },
 {
 "id": "523b216f7392",
@@ -7900,124 +8020,34 @@
 "seen": "2026-11-24T16:15:36+00:00"
 },
 {
-"id": "8d364cc24db2",
-"t": "NVDA",
-"title": "This week shows Jensen Huang is now the market's biggest force",
-"url": "https://finance.yahoo.com/video/this-week-shows-jensen-huang-is-now-the-markets-biggest-force-144049732.html",
-"pub": "2026-11-24T14:40:49+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-24T14:44:20+00:00"
+"id": "e56b9f64e334",
+"t": "",
+"title": "Gold Holds Decline as US Tariff Plans Reinforce Rate-Hike Bets",
+"url": "https://www.bloomberg.com/news/articles/2026-11-24/gold-holds-decline-as-us-tariff-plans-reinforce-rate-hike-bets",
+"pub": "2026-11-24T23:51:22+00:00",
+"src": "Bloomberg",
+"kind": "market",
+"seen": "2026-11-25T00:14:06+00:00"
 },
 {
-"id": "eba147b4c16d",
-"t": "TSM",
-"title": "Global Microprocessor Chip Manufacturing Market Report 2026: Size, Trends, and Forecast to 2030 | Capture $210.23B AI Chip Demand with TSMC, NVIDIA, Samsung, Intel, and AMD",
-"url": "https://finance.yahoo.com/technology/ai/articles/global-microprocessor-chip-manufacturing-market-144000160.html",
-"pub": "2026-11-24T14:40:00+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-24T15:15:37+00:00"
+"id": "e13beeeb0f88",
+"t": "",
+"title": "Japanese Service PPI Actual 4.2% (Forecast 3.6%, Previous 3.7%)",
+"url": "https://www.financialjuice.com/News/9866879/Japanese-Service-PPI-Actual-42-Forecast-36-Previous-37.aspx?xy=rss",
+"pub": "2026-11-24T23:50:01+00:00",
+"src": "FinancialJuice",
+"kind": "market",
+"seen": "2026-11-25T00:14:06+00:00"
 },
 {
-"id": "c9519c4284f0",
-"t": "VTRS",
-"title": "Zacks Industry Outlook Highlights Viatris, Teva Pharmaceuticals and Sandoz",
-"url": "https://finance.yahoo.com/healthcare/articles/zacks-industry-outlook-highlights-viatris-144000169.html",
-"pub": "2026-11-24T14:40:00+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-24T16:32:44+00:00"
-},
-{
-"id": "9515b190f87f",
-"t": "NVDA",
-"title": "The Washington headwinds Nvidia may still face after Huang's return",
-"url": "https://finance.yahoo.com/video/the-washington-headwinds-nvidia-may-still-face-after-huangs-return-143927684.html",
-"pub": "2026-11-24T14:39:27+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-24T14:44:20+00:00"
-},
-{
-"id": "04e6731774b5",
-"t": "INTC",
-"title": "Global Hybrid Graphics Processing Unit (GPU)-Central Processing Unit (CPU) Market Report 2026 | NVIDIA, Intel, AMD, Samsung, and Arm Drive AI Data Centers to $38.13B by 2030",
-"url": "https://finance.yahoo.com/technology/ai/articles/global-hybrid-graphics-processing-unit-143900936.html",
-"pub": "2026-11-24T14:39:00+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-24T15:15:37+00:00"
-},
-{
-"id": "19ea64ee9946",
-"t": "AMGN",
-"title": "3 defensive stocks to watch as tech, chip volatility persists",
-"url": "https://finance.yahoo.com/markets/stocks/articles/3-defensive-stocks-watch-tech-143806164.html",
-"pub": "2026-11-24T14:38:06+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-24T15:15:37+00:00"
-},
-{
-"id": "5729828c5efb",
-"t": "INTC",
-"title": "Global Fixed Point Digital Signal Processor Market Report 2026 to 2030 | Capitalize on 8.7% CAGR as Qualcomm, MediaTek, Texas Instruments, Samsung, and Intel Accelerate Edge IoT",
-"url": "https://finance.yahoo.com/technology/articles/global-fixed-point-digital-signal-143800586.html",
-"pub": "2026-11-24T14:38:00+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-24T15:15:37+00:00"
-},
-{
-"id": "060d2179be6d",
-"t": "AMZN",
-"title": "Could Amazon Stock Double Over the Next Five Years? Here’s What Needs to Happen",
-"url": "https://247wallst.com/investing/2026/11/24/could-amazon-stock-double-over-the-next-five-years-heres-what-needs-to-happen/",
-"pub": "2026-11-24T14:37:07+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-24T15:15:37+00:00"
-},
-{
-"id": "e59b7a7e372a",
-"t": "AAPL",
-"title": "Embedded Microprocessor Unit (MPU) Global Market Report 2026 | Capitalize on Edge AI and IoT Growth to $59.18 Billion by 2030 with NVIDIA, Intel, Qualcomm, NXP, and Renesas",
-"url": "https://finance.yahoo.com/technology/articles/embedded-microprocessor-unit-mpu-global-143600298.html",
-"pub": "2026-11-24T14:36:00+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-24T15:15:37+00:00"
-},
-{
-"id": "60e365987bed",
-"t": "ORCL",
-"title": "Prediction: Oracle Stock Will Soar in 2027",
-"url": "https://www.fool.com/investing/2026/11/24/prediction-oracle-stock-will-soar-in-2027/",
-"pub": "2026-11-24T14:35:02+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-24T15:15:37+00:00"
-},
-{
-"id": "372bb50c4166",
-"t": "ORCL",
-"title": "Global Succession Planning and Management Software Market Report 2026 | Capitalize on AI and Cloud Growth to $8.64B by 2030 with Oracle, SAP, Workday, Paycom, and Eightfold AI",
-"url": "https://finance.yahoo.com/technology/articles/global-succession-planning-management-software-143500275.html",
-"pub": "2026-11-24T14:35:00+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-24T15:15:37+00:00"
-},
-{
-"id": "d45c0b907a06",
-"t": "ORCL",
-"title": "Global Workflow Market Size, Trends, and Forecast Report 2026 | Capitalize on 22.5% CAGR as IBM, Oracle, SAP, ServiceNow, and Appian Accelerate AI and Cloud Automation Through 2030",
-"url": "https://finance.yahoo.com/technology/articles/global-workflow-market-size-trends-143400424.html",
-"pub": "2026-11-24T14:34:00+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-24T14:44:20+00:00"
+"id": "d71b541eadef",
+"t": "",
+"title": "RBA’s Jacobs Says Financial Conditions ‘Restrictive’ After Hikes",
+"url": "https://www.bloomberg.com/news/articles/2026-11-24/rba-s-jacobs-says-financial-conditions-restrictive-after-hikes",
+"pub": "2026-11-24T23:50:00+00:00",
+"src": "Bloomberg",
+"kind": "market",
+"seen": "2026-11-25T00:14:06+00:00"
 },
 {
 "id": "b0e593f233e5",
@@ -8140,6 +8170,16 @@
 "seen": "2026-11-24T22:14:12+00:00"
 },
 {
+"id": "5407ff221905",
+"t": "",
+"title": "UBS Group AG (UBSG.S) | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFAwTW5KVElGNG0xcE9UMVNGYUFGdTllMnhKS2R2MnR1M2RWSGlIclJRNDRoQ1piWWxyY3k4cjVFNnp2NzBzeVY0OUdISzl5LXNTWk81dUYyc1hheTJ6SGc?oc=5",
+"pub": "2026-11-24T21:54:20+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-25T00:14:06+00:00"
+},
+{
 "id": "c6a884924e28",
 "t": "",
 "title": "US API Distillate Stock Change Actual 1.647M (Forecast -, Previous 0.351M)",
@@ -8158,6 +8198,16 @@
 "src": "Reuters",
 "kind": "market",
 "seen": "2026-11-24T22:44:05+00:00"
+},
+{
+"id": "74260d0b0933",
+"t": "",
+"title": "Canada's inflation has staying power but should improve slightly by year-end, BoC governor says - Reuters",
+"url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNQXM1Sy1ici1zVFZWUzA5algwcDVjcTFlUDBPdGVwSm9vWFpmZnVtVG9zMTFWQzFIcW40VnpiSU5qcm9pRTJYNmxxWXlZaF9EOXVObVQzam8tcHdLNEVoVXc5Zlp4d0k2MzVYLWxlb3dZeEIwZ2h1WVpRakFJeTh3RUE3M2docC10V1EtMWdWLXVXeHhNeXY0ZmM3UV9FRHpOa0tDSElTTXJPSmNmN241RWRzYVRwSE5TWHlURDR5MA?oc=5",
+"pub": "2026-11-24T21:39:06+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-25T00:14:06+00:00"
 },
 {
 "id": "0b51622564be",
@@ -8328,6 +8378,16 @@
 "src": "Bloomberg",
 "kind": "market",
 "seen": "2026-11-24T21:14:32+00:00"
+},
+{
+"id": "0e53ea4a3150",
+"t": "",
+"title": "BNP Paribas SA (BNPP.PA) | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE05Rk9DM2FKTURON3JhZm9UbDE2ekJ6UkFOUUw1alFpbUNmVTBkdVhEcUFZblF3VEU1dnpfVGpGNkNEMmhrWE1WdTdRTTY0WDFpcnhSZG9ZWG05YnRWSi1Z?oc=5",
+"pub": "2026-11-24T20:54:57+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-25T00:14:06+00:00"
 },
 {
 "id": "4639fe957183",
@@ -8728,6 +8788,16 @@
 "src": "FinancialJuice",
 "kind": "market",
 "seen": "2026-11-24T19:14:35+00:00"
+},
+{
+"id": "b38d2c50b43f",
+"t": "",
+"title": "Traton SE (8TRA.DE) | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5XWjRjU1R0YXFHc1lWdGw4Q2oxNGh4dldiQ1BUVkRSZkdtcUs1SW9qLTExQTctbGxEMnFQbUF0UGhqUnpMRmRlSWNIZUItVDZqRDBQSkNwQ05PTVVKUWRr?oc=5",
+"pub": "2026-11-24T19:00:31+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-25T00:14:06+00:00"
 },
 {
 "id": "e577b604e5fe",
@@ -10946,76 +11016,6 @@
 "url": "https://www.financialjuice.com/News/9865933/JP-Morgan-We-forecast-US-10-year-yields-will-peak-around-510-in-Q1-2027-before-retracing-to-495-by-year-end-2027.aspx?xy=rss",
 "pub": "2026-11-24T11:40:54+00:00",
 "src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-24T11:41:09+00:00"
-},
-{
-"id": "3a01b815c700",
-"t": "",
-"title": "Tech, Media & Telecom Roundup: Market Talk",
-"url": "https://www.wsj.com/business/tech-media-telecom-roundup-market-talk-925cd40f",
-"pub": "2026-11-24T11:40:00+00:00",
-"src": "WSJ",
-"kind": "market",
-"seen": "2026-11-24T14:06:43+00:00"
-},
-{
-"id": "84a0d083fd07",
-"t": "",
-"title": "BHP Group Ltd (BHP.AX) | Stock Price & Latest News - Reuters",
-"url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9hMTZsenpDU0YzNlg0RzI3ZnliRUZleEI1RXZ0dmk3U3JJZmhvb2psMUdRZmhYdmhKVFZqaDd5b3JSd1RoTFY5VkwwZUpjYlJMU1Q2ZlZiUUtXTjZYTHNQSjYxXzdfeG9wVkRZ?oc=5",
-"pub": "2026-11-24T11:37:29+00:00",
-"src": "Reuters",
-"kind": "market",
-"seen": "2026-11-24T15:15:37+00:00"
-},
-{
-"id": "da6c207153d0",
-"t": "",
-"title": "6094.JSF - | Stock Price & Latest News - Reuters",
-"url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1OR0VkTExhZ0tmVFFvTjAtTlI4bkRFV1pNYkF0SG1GZEJMQlE5N3h5cGs2VWVsX3ppNVRubW9Ydng1akVoR2dCWHZ3eXlBRHRSWC1NY3NKMTJTNFpkSW1QZEpZYlJRVE03N3JoX3NYZGF6bGZoYV9ycE1R?oc=5",
-"pub": "2026-11-24T11:37:18+00:00",
-"src": "Reuters",
-"kind": "market",
-"seen": "2026-11-24T19:44:00+00:00"
-},
-{
-"id": "a3a02c4cfdfb",
-"t": "",
-"title": "HSYDF.PQ - | Stock Price & Latest News - Reuters",
-"url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1RWVhhTHBqLTdaZkxDenhXRkxUQjc2bEg1YjUxU2tjMDhZRTV3NlRiaEJTc1dlMTZCb0lCUVRvZWNCN3l4LWwzcktaT3dmSkNiRExfcmlhMml6ZzBqWWxpX0JNYzRBaHlMN1UtTldFYVB3TzBMNFZPUA?oc=5",
-"pub": "2026-11-24T11:36:39+00:00",
-"src": "Reuters",
-"kind": "market",
-"seen": "2026-11-24T22:33:52+00:00"
-},
-{
-"id": "96f6c0359808",
-"t": "",
-"title": "China Probes Politburo Member and Shanghai Chief Chen Jining",
-"url": "https://www.bloomberg.com/news/articles/2026-11-24/china-probes-politburo-member-and-shanghai-chief-chen-jining",
-"pub": "2026-11-24T11:36:08+00:00",
-"src": "Bloomberg",
-"kind": "market",
-"seen": "2026-11-24T11:41:09+00:00"
-},
-{
-"id": "3ba185d9963f",
-"t": "",
-"title": "Huang’s Return Hits the Reset Button for AI Bets",
-"url": "https://www.bloomberg.com/news/newsletters/2026-11-24/huang-s-return-hits-the-reset-button-for-ai-bets",
-"pub": "2026-11-24T11:33:33+00:00",
-"src": "Bloomberg",
-"kind": "market",
-"seen": "2026-11-24T11:41:09+00:00"
-},
-{
-"id": "23f6e6e557bb",
-"t": "",
-"title": "AI Build-Out Is Far-Reaching for U.S. Economy",
-"url": "https://www.wsj.com/finance/investing/ai-build-out-is-far-reaching-for-u-s-economy-88d35b9d",
-"pub": "2026-11-24T11:25:00+00:00",
-"src": "WSJ",
 "kind": "market",
 "seen": "2026-11-24T11:41:09+00:00"
 }
