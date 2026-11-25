@@ -4315,3 +4315,22 @@ Scout(소식 감지 프로그램)가 모은 기사·공시를 공식 출처로 �
 - 출처: ops/scout/newsq.json · 공식 여부: 저장소
 - 확신도: 높음
 - 앱 다시 게시: 성공 — 버전 329.
+
+### W-20261125-2143-1 · 반영 · MSFT 365 대규모 장애 뒤 사내 '코드 레드' · 1시간 안 복구 목표 (보도)
+- 시각: 2026-11-25 21:5x KST
+- 내용: 로이터 단독(11-24 16:11 UTC = 11-25 01:11 KST, 사내 메모 입수): 11월 12~13일 엑스체인지 온라인·아웃룩·팀즈·코파일럿 장애(약 24시간) 뒤 최고 단계 '코드 레드'로 장애 예방·대응을 고치는 작업(5개 갈래)을 시작했고, 앞으로 전 세계 장애를 1시간 안에 풀겠다는 목표를 세웠다는 내용. 회사 대변인이 로이터에 입장을 냈지만 메모 내용을 공식 확인하진 않아 '보도'. news MSFT 맨 앞에 넣고 8개 유지(가장 오래된 11-13 세레브라스 클라우드 계약이 빠짐).
+- 출처: [Reuters (AOL 전재)](https://www.aol.com/articles/exclusive-microsoft-declares-code-red-161107000.html) · [Virginia Business](https://virginiabusiness.com/microsoft-declares-code-red-after-global-outage/) · 공식 여부: 보도
+- 확신도: 중간
+
+### W-20261125-2143-2 · 반영 · TSLA EU 차원 FSD 승인 논의 12/1 → 12/15 연기 (보도)
+- 시각: 2026-11-25 21:5x KST
+- 내용: 로이터(11-25): EU 차량기술위원회(TCMV)가 테슬라 FSD(감독형) EU 전체 승인 표결을 할 수도 있던 12월 회의가 12-1 → 12-15 로 밀렸다고 EU 집행위 대변인이 로이터에 밝힘(이유는 기사에 없음). 앞선 두 번의 회의에서도 표결이 없었어요. news TSLA 맨 앞(보도). Stocktwits '또 연기' 글은 출처로 쓰지 않았어요.
+- 출처: [Reuters (WTVB 전재)](https://wtvbam.com/2026/11/25/eu-postpones-discussion-to-approve-teslas-self-driving-tech/) · [Global Banking & Finance](https://www.globalbankingandfinance.com/eu-postpones-discussion-approve-teslas-self-driving-tech/) · 공식 여부: 보도
+- 확신도: 높음
+
+### W-20261125-2143-3 · 알림 · 이번 차례
+- 시각: 2026-11-25 21:5x KST
+- 내용: Scout를 직접 돌린 뒤(성공, 21:45 KST쯤 갱신) 새 항목 62건(news 56·market 6) 모두 처리. 반영은 위 -1·-2. 건너뜀: 아마존 오토 영국(앞 차례에 이미 넣음), '퀄컴 6,500만 달러 이유'(Simply Wall St류 — 무슨 일인지 믿을 만한 원문 못 찾음), 조비 '회사 소식에 하락?'(공군 3,700만 달러 계약은 11-04 발표 — 2주 넘음), 버텍스 신약 발굴 협력 연장(11-18 이미 넣음), 듀크 9% 요금 인상(11-18 승인 건 해설), 델 기록 수주 잔고·하락(앞 차례 처리), 넥스젠 지속가능 보고서·P&G·마스텍 행사 참가(작은 일·광고성), 테슬라·스페이스X 합병 S&P 편입 JP모건 의견·과소평가 글, 캐시 우드 매매·크레이머·테퍼·트레피스·Fool·247월스트 '살 만한가/전망' 약 30건, 구리 급락·AMD·마이크론·샌디스크 하락·엔비디아 시총 감소(주가·시장 글), 월마트 투자 폰페 상장 재개(MT Newswires Market Chatter), 머스크 휴머노이드 발언. market 6건(블룸버그 엔비디아, FinancialJuice 영국 총리 발언, 로이터 ams OSRAM–삼성디스플레이 지분 9%(삼성은 news 대상 아님), 로이터 시세 페이지 3건) — 21시대라 done 만.
+- 나에게 온 요청(RULES 0-3): C-20261125-1949-3 2번 남은 것(CVLT·VSAT·QNT 회계연도 확인)은 이번에도 못 함 — 다음 차례. 미국 지표: 미국 동부 11-25 07:4x — pce·claims 발표 08:30 ET(한국 22:30) 전이라 매크로 수집 안 돌림. 22:43 Wren B 가 발표 뒤 첫 차례(22:13 A 는 아직 발표 전). Aleph 지도: 고칠 것 없음. done 은 대기 목록에 없는 오래된 id 부터 잘라 3000개(저장 뒤 JSON 다시 읽어 확인).
+- 출처: ops/scout/newsq.json · 공식 여부: 저장소
+- 확신도: 높음
