@@ -1,6 +1,6 @@
 {
-"updated_kst": "2026-11-26 08:44",
-"rot": 145,
+"updated_kst": "2026-11-26 08:57",
+"rot": 26,
 "how": "Scout(프로그램)이 10분마다 모은 기사 제목·링크와 공시예요. Wren이 공식 출처로 확인한 뒤 회사 화면에 한국어로 반영해요. 본문은 받지 않아요.",
 "sources": {
 "Yahoo Finance": "120종목 확인 · 실패 0",
@@ -10,12 +10,92 @@
 "CNBC": "63건",
 "Bloomberg": "40건",
 "WSJ": "61건",
-"Reuters": "42건",
+"Reuters": "47건",
 "FinancialJuice": "100건",
 "SEC EDGAR": "실패 HTTPError",
 "Fox Business": "50건"
 },
 "items": [
+{
+"id": "fccc2b22bdd5",
+"t": "MSFT",
+"title": "Microsoft's Green Card Filings Reveal A Striking Pattern After Mass Layoffs. Trump's New Rule Could Freeze Sponsorships For Two Years.",
+"url": "https://www.ibtimes.com/microsoft-green-card-filings-after-2025-layoffs-3810211",
+"pub": "2026-11-25T23:48:07+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-25T23:57:52+00:00"
+},
+{
+"id": "7a273519aa33",
+"t": "VOO",
+"title": "Is XRP a Good Investment for Building Wealth by 2035?",
+"url": "https://247wallst.com/investing/cryptocurrency/2026/11/25/is-xrp-a-good-investment-for-building-wealth-by-2035/",
+"pub": "2026-11-25T23:42:50+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-25T23:57:52+00:00"
+},
+{
+"id": "ef615620af6c",
+"t": "AMAT",
+"title": "Why My Analysis Points to Nearly 40% Semiconductor Equipment Growth in 2026",
+"url": "https://247wallst.com/investing/2026/11/25/why-my-analysis-points-to-nearly-40-semiconductor-equipment-growth-in-2026/",
+"pub": "2026-11-25T23:42:34+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-25T23:57:52+00:00"
+},
+{
+"id": "bb3155909a6e",
+"t": "NVDA",
+"title": "Altimeter’s Brad Gerstner Says Nvidia Was Priced for “Negative Growth for 2028 and 2029.” Wall Street Expects 29%",
+"url": "https://www.tikr.com/blog/altimeters-brad-gerstner-says-nvidia-was-priced-for-negative-growth-for-2028-and-2029-wall-street-expects-29",
+"pub": "2026-11-25T23:39:02+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-25T23:57:52+00:00"
+},
+{
+"id": "f7a96fa30826",
+"t": "NVDA",
+"title": "Applied Digital Dropped 14% in a Week Despite a $5.4 Billion Lease. Lucid Still Sees 227% Upside",
+"url": "https://www.tikr.com/blog/applied-digital-dropped-14-in-a-week-despite-a-5-4-billion-lease-lucid-still-sees-227-upside",
+"pub": "2026-11-25T23:37:44+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-25T23:57:52+00:00"
+},
+{
+"id": "573845b6a69d",
+"t": "JOBY",
+"title": "Joby Aviation Just Dropped 20% in a Week. Is It Time to Sell, or Load Up?",
+"url": "https://www.tikr.com/blog/joby-aviation-just-dropped-20-in-a-week-is-it-time-to-sell-or-load-up",
+"pub": "2026-11-25T23:36:43+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-25T23:57:52+00:00"
+},
+{
+"id": "de4bc619e54e",
+"t": "MRNA",
+"title": "What Sent Moderna Stock Higher?",
+"url": "https://www.trefis.com/stock/mrna/articles/628629/what-sent-moderna-stock-higher/2026-11-25",
+"pub": "2026-11-25T23:36:21+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-25T23:57:52+00:00"
+},
+{
+"id": "539fb8ece1f2",
+"t": "CRCL",
+"title": "Circle Is Down 13% in a Week and Just Hit a New 52-Week Low. Is the Selling Overdone?",
+"url": "https://www.tikr.com/blog/circle-is-down-13-in-a-week-and-just-hit-a-new-52-week-low-is-the-selling-overdone",
+"pub": "2026-11-25T23:34:49+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-25T23:57:52+00:00"
+},
 {
 "id": "1444058cd6e6",
 "t": "PLTR",
@@ -25,6 +105,16 @@
 "src": "Yahoo Finance",
 "kind": "news",
 "seen": "2026-11-25T23:44:37+00:00"
+},
+{
+"id": "9fd86c751838",
+"t": "PANW",
+"title": "PANW Stock Slips After-Hours On Former Executive’s Accounting Fraud Allegations: Firm Denies Claims",
+"url": "https://stocktwits.com/news-articles/markets/equity/panw-stock-slips-after-hours-on-former-executive-s-accounting-fraud-allegations-firm-denies-claims/cNbHvN7R9mz",
+"pub": "2026-11-25T23:25:52+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-25T23:57:52+00:00"
 },
 {
 "id": "04461c2925de",
@@ -75,6 +165,16 @@
 "src": "Yahoo Finance",
 "kind": "news",
 "seen": "2026-11-25T23:44:37+00:00"
+},
+{
+"id": "c4491be06b20",
+"t": "CRWD",
+"title": "Roaring Kitty Redux",
+"url": "https://finance.yahoo.com/m/fe028813-b94f-3e63-915d-77db54e5b655/roaring-kitty-redux.html",
+"pub": "2026-11-25T23:11:00+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-25T23:57:52+00:00"
 },
 {
 "id": "e0b9d81859cb",
@@ -2730,6 +2830,16 @@
 "src": "Yahoo Finance",
 "kind": "news",
 "seen": "2026-11-25T19:07:59+00:00"
+},
+{
+"id": "37cc8dc8ff27",
+"t": "PANW",
+"title": "Palo Alto Networks Rises After Earnings Beat and Raised Guidance",
+"url": "https://finance.yahoo.com/markets/stocks/articles/palo-alto-networks-rises-earnings-175820549.html",
+"pub": "2026-11-25T17:58:20+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-25T23:57:52+00:00"
 },
 {
 "id": "0a640a0d7b66",
@@ -7913,114 +8023,14 @@
 "seen": "2026-11-25T13:18:15+00:00"
 },
 {
-"id": "ffb174f9e5da",
-"t": "NVDA",
-"title": "Jensen Huang is a 'national treasure,' this strategist explains",
-"url": "https://finance.yahoo.com/video/jensen-huang-national-treasure-strategist-130000326.html",
-"pub": "2026-11-25T13:00:00+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-25T13:18:15+00:00"
-},
-{
-"id": "f3b2c2a63e0e",
-"t": "GS",
-"title": "LyondellBasell to address 2026 Goldman Sachs Industrials and Materials Conference",
-"url": "https://finance.yahoo.com/markets/stocks/articles/lyondellbasell-address-2026-goldman-sachs-130000191.html",
-"pub": "2026-11-25T13:00:00+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-25T13:18:15+00:00"
-},
-{
-"id": "bd102f3347b2",
-"t": "RPRX",
-"title": "Royalty Pharma to present at upcoming investor conferences",
-"url": "https://finance.yahoo.com/healthcare/articles/royalty-pharma-present-upcoming-investor-130000837.html",
-"pub": "2026-11-25T13:00:00+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-25T13:18:15+00:00"
-},
-{
-"id": "3b99013941db",
-"t": "CSCO",
-"title": "CDW Canada Named 2026 Cisco Partner of the Year for Cloud & AI and SMB",
-"url": "https://finance.yahoo.com/technology/ai/articles/cdw-canada-named-2026-cisco-130000806.html",
-"pub": "2026-11-25T13:00:00+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-25T13:18:15+00:00"
-},
-{
-"id": "6754118407de",
-"t": "NVDA",
-"title": "The questions Jensen Huang and Nvidia will still have to answer about Megaspeed",
-"url": "https://finance.yahoo.com/technology/ai/articles/questions-jensen-huang-nvidia-still-130000889.html",
-"pub": "2026-11-25T13:00:00+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-25T13:44:08+00:00"
-},
-{
-"id": "a7b84449c88b",
-"t": "CRWD",
-"title": "CrowdStrike to Participate in Upcoming Investor Conferences",
-"url": "https://finance.yahoo.com/technology/articles/crowdstrike-participate-upcoming-investor-conferences-130000206.html",
-"pub": "2026-11-25T13:00:00+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-25T13:44:08+00:00"
-},
-{
-"id": "717b3757a128",
-"t": "PG",
-"title": "Pre-holiday layoffs hit over 7,600 workers in trucking, logistics, manufacturing",
-"url": "https://finance.yahoo.com/economy/articles/pre-holiday-layoffs-hit-over-130000326.html",
-"pub": "2026-11-25T13:00:00+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-25T13:58:47+00:00"
-},
-{
-"id": "2a5cca3e7266",
-"t": "LLY",
-"title": "Buy This Pharma Stock for Shelter From the AI Storm",
-"url": "https://finance.yahoo.com/m/d89537c9-bf7b-3753-9c05-b211c5d9aacb/buy-this-pharma-stock-for.html",
-"pub": "2026-11-25T13:00:00+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-25T15:05:32+00:00"
-},
-{
-"id": "dc0d5298c986",
-"t": "UNH",
-"title": "Dr. Oz Warns Medicare for All Will Create a Two-Tier Healthcare System With a $47 Trillion Price Tag",
-"url": "https://247wallst.com/investing/2026/11/25/dr-oz-warns-medicare-for-all-will-create-a-two-tier-healthcare-system-with-a-47-trillion-price-tag/",
-"pub": "2026-11-25T12:59:45+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-25T13:58:47+00:00"
-},
-{
-"id": "fd3488a017ca",
-"t": "DELL",
-"title": "The AI Selloff Gets Ugly Again",
-"url": "https://finance.yahoo.com/m/9db3aa94-57f2-3ccb-9630-4da392474925/the-ai-selloff-gets-ugly-again.html",
-"pub": "2026-11-25T12:59:12+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-25T15:14:55+00:00"
-},
-{
-"id": "a31b285a0fab",
-"t": "APH",
-"title": "Amphenol's 65% Sales Surge: Can the Momentum Continue in 2027 & Beyond?",
-"url": "https://finance.yahoo.com/markets/stocks/articles/amphenols-65-sales-surge-momentum-125900793.html",
-"pub": "2026-11-25T12:59:00+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-25T14:15:15+00:00"
+"id": "4c5da3cb0e74",
+"t": "",
+"title": "China 2027 Growth to Top 4.5%, Ex-Official Says",
+"url": "https://www.bloomberg.com/news/videos/2026-11-25/china-2027-growth-to-top-4-5-ex-official-says-video",
+"pub": "2026-11-25T23:54:41+00:00",
+"src": "Bloomberg",
+"kind": "market",
+"seen": "2026-11-25T23:57:52+00:00"
 },
 {
 "id": "1f019bd203a4",
@@ -11008,16 +11018,6 @@
 "title": "USTR Greer: Tariffs in most cases will top up just a few percentage points",
 "url": "https://www.financialjuice.com/News/9867821/USTR-Greer-Tariffs-in-most-cases-will-top-up-just-a-few-percentage-points.aspx?xy=rss",
 "pub": "2026-11-25T13:39:17+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-25T13:44:08+00:00"
-},
-{
-"id": "7721aa003992",
-"t": "",
-"title": "USTR Greer: Many countries are creating capacities that are not justified by economics",
-"url": "https://www.financialjuice.com/News/9867820/USTR-Greer-Many-countries-are-creating-capacities-that-are-not-justified-by-economics.aspx?xy=rss",
-"pub": "2026-11-25T13:38:20+00:00",
 "src": "FinancialJuice",
 "kind": "market",
 "seen": "2026-11-25T13:44:08+00:00"
