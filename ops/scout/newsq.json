@@ -1,6 +1,6 @@
 {
-"updated_kst": "2026-11-25 11:56",
-"rot": 66,
+"updated_kst": "2026-11-25 12:14",
+"rot": 126,
 "how": "Scout(프로그램)이 10분마다 모은 기사 제목·링크와 공시예요. Wren이 공식 출처로 확인한 뒤 회사 화면에 한국어로 반영해요. 본문은 받지 않아요.",
 "sources": {
 "Yahoo Finance": "120종목 확인 · 실패 0",
@@ -10,12 +10,52 @@
 "CNBC": "63건",
 "Bloomberg": "40건",
 "WSJ": "61건",
-"Reuters": "49건",
+"Reuters": "44건",
 "FinancialJuice": "100건",
 "SEC EDGAR": "실패 HTTPError",
 "Fox Business": "50건"
 },
 "items": [
+{
+"id": "030139ea43c1",
+"t": "NVDA",
+"title": "Jensen Huang Reportedly Says Succession Plan Risks ‘Unnecessary Hierarchy’ At Nvidia — Crypto Bettors Wager on Another Exit",
+"url": "https://www.benzinga.com/markets/prediction-markets/26/11/63613509/nvidia-ceo-jensen-huang-succession-plan-polymarket-prediction-market",
+"pub": "2026-11-25T03:01:26+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-25T03:14:39+00:00"
+},
+{
+"id": "272453876ec6",
+"t": "INTC",
+"title": "Dell Says AI Demand Remains ‘Firm,’ Every Order ‘Fully Vetted’ – But DELL Stock Barely Moves After Beat-And-Raise Quarter",
+"url": "https://stocktwits.com/news-articles/markets/equity/dell-says-ai-demand-remains-firm-every-order-fully-vetted-but-dell-stock-barely-moves-after-beat-and-raise-quarter/cNbu6VGR9lI",
+"pub": "2026-11-25T02:50:24+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-25T03:14:39+00:00"
+},
+{
+"id": "4f903ad6f386",
+"t": "SPCX",
+"title": "Jensen Huang's Return Could Make a Tesla/SpaceX Merger More Likely",
+"url": "https://www.fool.com/investing/2026/11/24/jensen-huang-s-return-could-make-a-tesla-spacex-merger-more-likely/",
+"pub": "2026-11-25T02:50:02+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-25T03:14:39+00:00"
+},
+{
+"id": "d8718e9b1ec4",
+"t": "NFLX",
+"title": "NFLX Stock Edges Lower Overnight: Streaming Giant Buys Historic ‘Seinfeld’ Studio Lot In Reported $380M Deal",
+"url": "https://stocktwits.com/news-articles/markets/equity/nflx-stock-edges-lower-overnight-streaming-giant-buys-historic-seinfeld-studio-lot-in-reported-380-m-deal/cNbu6SoR9l4",
+"pub": "2026-11-25T02:46:32+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-25T03:14:39+00:00"
+},
 {
 "id": "2fd6049fc0e1",
 "t": "AVGO",
@@ -97,6 +137,16 @@
 "seen": "2026-11-25T02:14:10+00:00"
 },
 {
+"id": "f04d3b1679d7",
+"t": "JPM",
+"title": "This Nasdaq ETF Pays a 19% Yield Without Writing a Single Covered Call. Here’s How",
+"url": "https://247wallst.com/investing/etf/2026/11/24/this-nasdaq-etf-pays-a-19-yield-without-writing-a-single-covered-call-heres-how/",
+"pub": "2026-11-25T02:02:33+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-25T03:14:39+00:00"
+},
+{
 "id": "3a5b88e79ef6",
 "t": "INSM",
 "title": "Insmed Inc. (INSM) Stages a Monster 14% Rally — Here’s What Sparked Buying",
@@ -115,6 +165,16 @@
 "src": "Yahoo Finance",
 "kind": "news",
 "seen": "2026-11-25T01:55:14+00:00"
+},
+{
+"id": "24b4d9a01afd",
+"t": "SKHY",
+"title": "AI Chip Boom to See Won Build on Best Year in Almost a Decade",
+"url": "https://finance.yahoo.com/news/ai-chip-boom-see-won-014144127.html",
+"pub": "2026-11-25T01:41:44+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-25T03:14:39+00:00"
 },
 {
 "id": "4627c289d820",
@@ -275,6 +335,16 @@
 "src": "Yahoo Finance",
 "kind": "news",
 "seen": "2026-11-25T02:44:36+00:00"
+},
+{
+"id": "fb68512c1cd9",
+"t": "SPCX",
+"title": "5 Sleeper Blue-Chip Stock Picks for Steady Long-Term Gains",
+"url": "https://www.kiplinger.com/investing/blue-chip-stocks/sleeper-blue-chip-stock-picks-for-steady-long-term-gains",
+"pub": "2026-11-25T00:52:33+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-25T03:14:39+00:00"
 },
 {
 "id": "502550946431",
@@ -7950,76 +8020,6 @@
 "seen": "2026-11-24T15:15:37+00:00"
 },
 {
-"id": "f346a9c461c2",
-"t": "NVDA",
-"title": "Nike Just Promised $12 Billion in Dividends. Should That Reassure Income Investors?",
-"url": "https://www.fool.com/investing/2026/11/24/nike-just-promised-usd12-billion-in-dividends-should-that-reassure-income-investors/",
-"pub": "2026-11-24T15:05:02+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-24T15:15:37+00:00"
-},
-{
-"id": "373e9819b770",
-"t": "CEG",
-"title": "Can CEG's Improving Cash Flow Support Its Expanding Investment Plans?",
-"url": "https://finance.yahoo.com/energy/articles/cegs-improving-cash-flow-support-150500837.html",
-"pub": "2026-11-24T15:05:00+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-24T16:15:36+00:00"
-},
-{
-"id": "1d6e098900a6",
-"t": "ADI",
-"title": "Nvidia, Anthropic, Micron, HPE, Analog Devices, Insmed, and More Stocks That Explain Today’s Market",
-"url": "https://finance.yahoo.com/m/f7fa0ed2-2c68-3b80-9261-c35639090d03/nvidia%2C-anthropic%2C-micron%2C.html",
-"pub": "2026-11-24T15:04:00+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-24T15:44:24+00:00"
-},
-{
-"id": "2b752492f005",
-"t": "AVGO",
-"title": "30 Analysts Have Weighed In on Nvidia. Here’s What Their Price Targets Reveal",
-"url": "https://247wallst.com/investing/2026/11/24/30-analysts-have-weighed-in-on-nvidia-heres-what-their-price-targets-reveal/",
-"pub": "2026-11-24T15:03:15+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-24T15:15:37+00:00"
-},
-{
-"id": "537f98c361dd",
-"t": "SPCX",
-"title": "“Tell Me Why I am Wrong”: Bill Ackman Lambasts Looming Fed Interest Rate Hike",
-"url": "https://www.tikr.com/blog/tell-me-why-i-am-wrong-bill-ackman-lambasts-looming-fed-interest-rate-hike",
-"pub": "2026-11-24T15:03:10+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-24T15:15:37+00:00"
-},
-{
-"id": "8103718c439b",
-"t": "WMT",
-"title": "Earnings: Late economic cycle anxiety isn't holding retail spending back",
-"url": "https://finance.yahoo.com/video/earnings-late-economic-cycle-anxiety-isnt-holding-retail-spending-back-150150635.html",
-"pub": "2026-11-24T15:01:50+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-24T16:15:36+00:00"
-},
-{
-"id": "975752d86d63",
-"t": "INSM",
-"title": "Insmed (INSM) Stock Is Up 14.3% Today: Sanofi $41 Billion Acquisition",
-"url": "https://finance.yahoo.com/markets/stocks/articles/insmed-insm-stock-14-3-150055705.html",
-"pub": "2026-11-24T15:00:55+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-24T15:15:37+00:00"
-},
-{
 "id": "9d6f0b686d18",
 "t": "",
 "title": "Asian Stocks Mostly Lower on AI Doubts, Tariff Jitters",
@@ -8688,6 +8688,16 @@
 "src": "FinancialJuice",
 "kind": "market",
 "seen": "2026-11-24T21:14:32+00:00"
+},
+{
+"id": "27466c872172",
+"t": "",
+"title": "PVA TePla AG (TPEG.HA) | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5May13YnF0SlBYRjZqZmhvYnp3MFJtWHdPMU94MkJNMDYtM1NKUDFzN3M0d3R0Y25ScmF5anJ1NDIwYVM3bXFzS2FmTVF4TzlraDFmWHJhZE5oWnkxVUNzNTFsa0pTQmdYdFJvMw?oc=5",
+"pub": "2026-11-24T21:07:16+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-25T03:14:39+00:00"
 },
 {
 "id": "007f0cedbd55",
@@ -11005,16 +11015,6 @@
 "title": "BoE’s Greene: Need to hike to get on top of risk",
 "url": "https://www.financialjuice.com/News/9866048/BoEs-Greene-Need-to-hike-to-get-on-top-of-risk.aspx?xy=rss",
 "pub": "2026-11-24T12:58:17+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-24T13:20:10+00:00"
-},
-{
-"id": "02de3356d5d1",
-"t": "",
-"title": "BoE’s Greene: Hard evidence of significant effects needed for 50 bps",
-"url": "https://www.financialjuice.com/News/9866047/BoEs-Greene-Hard-evidence-of-significant-effects-needed-for-50-bps.aspx?xy=rss",
-"pub": "2026-11-24T12:58:05+00:00",
 "src": "FinancialJuice",
 "kind": "market",
 "seen": "2026-11-24T13:20:10+00:00"
