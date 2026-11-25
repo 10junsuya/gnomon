@@ -4552,3 +4552,22 @@ Scout(소식 감지 프로그램)가 모은 기사·공시를 공식 출처로 �
 - 출처: ops/scout/newsq.json · 공식 여부: 저장소
 - 확신도: 높음
 - 앱 다시 게시: 성공 — 버전 341.
+
+### W-20261126-0643-1 · 반영 · CEG 칼파인 인수 조건이던 PJM 가스발전소 약 4.4GW LS파워 매각 완료 (공식)
+- 시각: 2026-11-26 06:5x KST
+- 내용: 컨스텔레이션 보도자료(11-25 16:30 ET, 한국 11-26 06:30): 칼파인 인수(2026-01 완료) 때 미 법무부 합의·FERC 요건으로 내놓기로 한 PJM 지역 가스 위주 발전소 약 4.4GW(델라웨어·펜실베이니아 5곳)를 LS파워에 넘기는 매각을 마쳤다고 밝힘(3월 계약). 매각 금액은 보도자료에 없어 안 적음. news CEG 첫 항목(새 키).
+- 출처: [Constellation 보도자료 (Business Wire · FinancialContent)](https://www.financialcontent.com/article/bizwire-2026-11-25-constellation-completes-divestiture-of-legacy-calpine-pjm-generation-assets-to-ls-power) · [Stock Titan](https://www.stocktitan.net/news/CEG/constellation-completes-divestiture-of-legacy-calpine-pjm-generation-bqvao7yw2x2t.html) · 공식 여부: 공식
+- 확신도: 높음
+
+### W-20261126-0643-2 · 반영 · AMZN CPSC 리콜 책임 명령 다툰 소송, 메릴랜드 연방지법이 아마존 청구 기각 (공식)
+- 시각: 2026-11-26 06:5x KST
+- 내용: 미 소비자제품안전위원회(CPSC) 보도자료(11-25 미국): 메릴랜드 연방지방법원이 11-24 명령으로 아마존의 약식판결 신청을 기각하고 CPSC 쪽 손을 들어 아마존 소송을 기각. 아마존이 FBA(아마존 물류 대행) 상품의 '유통업자'로서 40만 개 넘는 위험 제품 리콜 책임을 진다는 CPSC 결정(2025-01)이 그대로 유지됨. 아마존 항소 여부는 원문에 없음. news AMZN 맨 앞, 8개 유지.
+- 출처: [CPSC 보도자료 (PR Newswire)](https://www.prnewswire.com/news-releases/federal-court-rules-in-favor-of-cpsc-in-landmark-e-commerce-product-safety-case-302950855.html) · 공식 여부: 공식
+- 확신도: 높음
+
+### W-20261126-0643-3 · 알림 · 이번 차례
+- 시각: 2026-11-26 06:5x KST
+- 내용: Scout 실행(gh, 06:44, 성공) 뒤 새 항목 35건(news 29·market 6) 모두 처리. 반영은 위 -1·-2. 건너뜀: LS파워 인수 완료(같은 사건, LS파워 쪽 발표), '월마트 애플페이 번복'(8월 발표된 결정 해설 — 새 사건 아님), GE버노바 가이던스 상향(10월 3분기 실적 때 일 — 해설 글), '애플 토큰화 주식 24시간 거래'(제3자 토큰 상품 해설, 애플 공식 발표 확인 못 함), 스페이스X 그록 소송·FCC 허가(앞 차례가 넣음), 레볼루션 메디슨 췌장암 자료(11-20 이미 있음), 크레도·램리서치 주가 해설, 델 실적 해설(Tally 몫), 황 복귀·'데드캣' 등 시장 해설, 배당·비교·'살 만한가'·은퇴 칼럼, 캐시 우드 팔란티어 매도·유명 투자자 지분, 도쿄일렉트론 MATCH 법안 해설(법안 단계 변화 없음). market 6건(블룸버그 앤트로픽 반등·인도 관세, WSJ 장 마감 2건, 로이터 시세 페이지) — 06시대라 done 만.
+- 미국 지표: 미국 동부 11-25(수) 16:4x — 오늘 남은 발표 없고 pce·claims 분석 최신 → 매크로 수집 안 돌림. 나에게 온 요청(RULES 0-3): 새 요청 없음. Aleph 지도: 고칠 것 없음(LS파워는 지도 회사 아님 · 소송은 회사 사이 관계 아님). done 은 대기 목록에 없는 오래된 id 부터 잘라 3000개(저장 뒤 JSON 다시 읽어 확인).
+- 출처: ops/scout/newsq.json · 공식 여부: 저장소
+- 확신도: 높음
