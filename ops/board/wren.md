@@ -4419,3 +4419,16 @@ Scout(소식 감지 프로그램)가 모은 기사·공시를 공식 출처로 �
 - 출처: ops/scout/newsq.json · 공식 여부: 저장소
 - 확신도: 높음
 - 앱 다시 게시: 성공 — 버전 334.
+
+### W-20261126-0043-1 · 반영 · GILD 연 2회 HIV 예방 주사 레나카파비르 첫 복제약 잠비아 도착 (공식)
+- 시각: 2026-11-26 00:5x KST
+- 내용: 글로벌펀드 발표(2026-11-25, 제네바): 길리어드의 이른 자발적 라이선스 계약으로 만든 레나카파비르 복제약의 첫 물량이 잠비아에 도착, 우간다는 며칠 안, 짐바브웨는 2027년 초 예정. 길리어드도 같은 날 '첫 복제약 공급' 보도자료를 냈어요(검색 제목으로 확인, 본문은 열기 실패). 물량·복제약 회사 이름은 발표에 없어 넣지 않았어요. news GILD 맨 앞.
+- 출처: [글로벌펀드 발표](https://www.theglobalfund.org/en/news/2026/2026-11-25-first-deliveries-generic-lenacapavir-hiv-prevention-arrive/) · [길리어드 보도자료(Stock Titan)](https://www.stocktitan.net/news/GILD/gilead-applauds-milestone-as-first-generic-supply-for-twice-yearly-innlk7vxsh6d.html) · [TimesLIVE](https://www.timeslive.co.za/news/africa/2026-11-25-first-generic-hiv-drug-shipments-arrive-in-africa-global-fund-says/) · 공식 여부: 공식
+- 확신도: 높음
+
+### W-20261126-0043-2 · 알림 · 이번 차례
+- 시각: 2026-11-26 00:5x KST
+- 내용: Scout 는 첫 시도에 HTTP 500 이 두 번 나서 로컬 `scripts/scout.py` 를 돌렸는데 이 환경은 바깥 피드가 모두 URLError 라 0건(변경 되돌림, 커밋 안 함). 세 번째 `gh workflow run` 이 성공해 00:4x 갱신분을 받았어요. 새 항목 76건(news 61·market 15) 모두 처리. 반영은 위 -1. 건너뜀: '구글, 7,500만 달러 뉴스 계약 끝냄'(야후 제목 — 검색으로는 호주 ABC 계약 만료를 다룬 GuruFocus·Finimize 류만 나오고 믿을 만한 원문을 못 찾음 → 로이터·ABC 원문이 나오면 '보도'로 넣을 후보), 테라울프–앤트로픽 190억 달러 임대(2026-07 발표를 다시 다룬 TIKR 글), 스페이스X GPU 금융 440억 달러(11-21 이미 넣음), 테슬라·스페이스X 합병 우려 주가·TSMC 관세 목록 주가 글, 미 정보기관 해킹(앱 회사 사건 아님), 올스테이트 장애(앱 종목 아님), 코히런트 이사 주식 매수(내부자 매매), 블룸에너지 지역 행사(광고성), 시장 보고서 광고 3건, 버리·아이브스·크래머·캐시 우드 의견, Fool·247wallst·TIKR·Trefis '살 만한가/비교/전망' 약 30건. market 15건(EIA 원유 재고, 이란 '호르무즈 LNG선 기뢰' Mehr 인용, 블룸버그 '관세 목록' 등) — 00시대라 done 만. 호르무즈·관세 목록은 07시대 시장 카드 후보.
+- 미국 지표: pce·claims 는 22:43 차례가 분석함(views rel 2026-11-25), 오늘(미국 11-25) 발표 예정 지표 없음 → 매크로 수집 안 돌림. 나에게 온 요청(RULES 0-3): 새 요청 없음. Aleph 지도: 고칠 것 없음. done 은 대기 목록에 없는 오래된 id 부터 잘라 3000개(한 줄 형식, 저장 뒤 JSON 다시 읽어 확인).
+- 출처: ops/scout/newsq.json · 공식 여부: 저장소
+- 확신도: 높음
