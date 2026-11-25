@@ -1,6 +1,6 @@
 {
-"updated_kst": "2026-11-25 09:26",
-"rot": 4,
+"updated_kst": "2026-11-25 09:44",
+"rot": 64,
 "how": "Scout(프로그램)이 10분마다 모은 기사 제목·링크와 공시예요. Wren이 공식 출처로 확인한 뒤 회사 화면에 한국어로 반영해요. 본문은 받지 않아요.",
 "sources": {
 "Yahoo Finance": "120종목 확인 · 실패 0",
@@ -10,12 +10,42 @@
 "CNBC": "63건",
 "Bloomberg": "40건",
 "WSJ": "61건",
-"Reuters": "50건",
+"Reuters": "48건",
 "FinancialJuice": "100건",
 "SEC EDGAR": "실패 HTTPError",
 "Fox Business": "50건"
 },
 "items": [
+{
+"id": "ac6761105d9f",
+"t": "TSLA",
+"title": "He Lets His Tesla Drive at 93, Trusting the Brand. A $400,000 Crash Judgment Could Reach His Savings, While His $2,800 Social Security Check Stays Off-Limits to the Victim",
+"url": "https://247wallst.com/personal-finance/social-security/2026/11/24/he-lets-his-tesla-drive-at-93-trusting-the-brand-a-400000-crash-judgment-could-reach-his-savings-while-his-2800-social-security-check-stays-off-limits-to-the-victim/",
+"pub": "2026-11-25T00:32:26+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-25T00:44:53+00:00"
+},
+{
+"id": "381c24cef218",
+"t": "NVDA",
+"title": "Netflix Stock Is Down 37% in 2026, But the Business Is Still Growing. Here's Why I'd Buy It Before the End of November.",
+"url": "https://www.fool.com/investing/2026/11/24/netflix-stock-is-down-37-in-2026-but-the-business-is-still-growing-heres-why-id-buy-it-before-the-end-of-november/",
+"pub": "2026-11-25T00:27:02+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-25T00:44:53+00:00"
+},
+{
+"id": "2e8f1d4efd3f",
+"t": "HD",
+"title": "Home Depot and Lowe's copy Kroger's risky cost-cutting move",
+"url": "https://www.thestreet.com/retail/home-depot-and-lowes-quietly-send-american-jobs-to-india",
+"pub": "2026-11-25T00:17:00+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-25T00:44:53+00:00"
+},
 {
 "id": "ca1c44441abe",
 "t": "NVDA",
@@ -806,6 +836,16 @@
 "src": "Yahoo Finance",
 "kind": "news",
 "seen": "2026-11-24T22:14:12+00:00"
+},
+{
+"id": "c6c09393493d",
+"t": "CRWV",
+"title": "Stock Market Today: Nasdaq Dives As Jensen Huang Tells Nvidia Staff This; Walmart Tests Entry",
+"url": "https://finance.yahoo.com/m/4aa4ff31-269f-346e-80c4-e681510af7ae/stock-market-today%3A-nasdaq.html",
+"pub": "2026-11-24T21:51:27+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-25T00:44:53+00:00"
 },
 {
 "id": "f3f37a7744c7",
@@ -3487,6 +3527,16 @@
 "src": "Yahoo Finance",
 "kind": "news",
 "seen": "2026-11-24T19:44:00+00:00"
+},
+{
+"id": "fc2056256148",
+"t": "SO",
+"title": "Investors Buy Unusually Large LEAP Options in Southeastern Utility, Southern Company",
+"url": "https://www.barchart.com/story/news/8990063/investors-buy-unusually-large-leap-options-in-southeastern-utility-southern-company",
+"pub": "2026-11-24T18:30:03+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-25T00:44:53+00:00"
 },
 {
 "id": "d36fc93ea3a2",
@@ -7970,54 +8020,34 @@
 "seen": "2026-11-24T16:15:36+00:00"
 },
 {
-"id": "454436a82b7f",
-"t": "AAOI",
-"title": "Applied Optoelectronics stock rises on datacenter deal",
-"url": "https://finance.yahoo.com/markets/stocks/articles/applied-optoelectronics-stock-rises-datacenter-144409714.html",
-"pub": "2026-11-24T14:44:09+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-24T16:15:36+00:00"
+"id": "98543b8311db",
+"t": "",
+"title": "Australian CPI YoY NSA Actual 4.9% (Forecast 4.7%, Previous 4.3%)",
+"url": "https://www.financialjuice.com/News/9866906/Australian-CPI-YoY-NSA-Actual-49-Forecast-47-Previous-43.aspx?xy=rss",
+"pub": "2026-11-25T00:30:01+00:00",
+"src": "FinancialJuice",
+"kind": "market",
+"seen": "2026-11-25T00:44:53+00:00"
 },
 {
-"id": "c268873cb05d",
-"t": "VSAT",
-"title": "Mobile User Objective System (MUOS) SATCOM Terminals Global Market Report 2026 | Lockheed Martin, L3Harris and Viasat Capitalize on Secure, Anti-Jam LEO Connectivity Through 2030",
-"url": "https://finance.yahoo.com/technology/articles/mobile-user-objective-system-muos-144400952.html",
-"pub": "2026-11-24T14:44:00+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-24T15:15:37+00:00"
+"id": "e122056578b7",
+"t": "",
+"title": "Australian Construction Work Done QoQ Actual 0.9% (Forecast 0.7%, Previous -2.1%)",
+"url": "https://www.financialjuice.com/News/9866905/Australian-Construction-Work-Done-QoQ-Actual-09-Forecast-07-Previous--21.aspx?xy=rss",
+"pub": "2026-11-25T00:30:01+00:00",
+"src": "FinancialJuice",
+"kind": "market",
+"seen": "2026-11-25T00:44:53+00:00"
 },
 {
-"id": "747c0c9e7615",
-"t": "SPCX",
-"title": "Global Military Satellite Communications Market Report 2026-2030 | Lockheed Martin, RTX, SpaceX and Viasat Accelerate AI, LEO and Jam-Resistant Networks Toward $29.58 Billion",
-"url": "https://finance.yahoo.com/technology/articles/global-military-satellite-communications-market-144300653.html",
-"pub": "2026-11-24T14:43:00+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-24T15:15:37+00:00"
-},
-{
-"id": "3c6e4a5fa7ca",
-"t": "LMT",
-"title": "Can Counter-Drone Demand Strengthen Northrop Grumman's Growth?",
-"url": "https://finance.yahoo.com/markets/stocks/articles/counter-drone-demand-strengthen-northrop-144300822.html",
-"pub": "2026-11-24T14:43:00+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-24T16:44:26+00:00"
-},
-{
-"id": "18bd3fd67e08",
-"t": "MU",
-"title": "Is Now The Right Time To Buy Micron Stock?",
-"url": "https://www.trefis.com/stock/mu/articles/628442/is-now-the-right-time-to-buy-micron-stock/2026-11-24",
-"pub": "2026-11-24T14:42:54+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-24T15:15:37+00:00"
+"id": "a6d9b2c28279",
+"t": "",
+"title": "Australian CPI Trimmed Mean YoY Actual 3.8% (Forecast 3.6%, Previous 3.6%)",
+"url": "https://www.financialjuice.com/News/9866904/Australian-CPI-Trimmed-Mean-YoY-Actual-38-Forecast-36-Previous-36.aspx?xy=rss",
+"pub": "2026-11-25T00:30:00+00:00",
+"src": "FinancialJuice",
+"kind": "market",
+"seen": "2026-11-25T00:44:53+00:00"
 },
 {
 "id": "0bdf393a0753",
@@ -8188,6 +8218,16 @@
 "src": "Bloomberg",
 "kind": "market",
 "seen": "2026-11-24T23:13:49+00:00"
+},
+{
+"id": "e7bc04e27e2e",
+"t": "",
+"title": "Energy & Utilities Roundup: Market Talk",
+"url": "https://www.wsj.com/business/energy-utilities-roundup-market-talk-762271f0",
+"pub": "2026-11-24T21:59:00+00:00",
+"src": "WSJ",
+"kind": "market",
+"seen": "2026-11-25T00:44:53+00:00"
 },
 {
 "id": "832161bfe656",
@@ -9218,6 +9258,16 @@
 "src": "FinancialJuice",
 "kind": "market",
 "seen": "2026-11-24T17:29:04+00:00"
+},
+{
+"id": "696b74df162a",
+"t": "",
+"title": "Health Care Roundup: Market Talk",
+"url": "https://www.wsj.com/business/health-care-roundup-market-talk-0f197179",
+"pub": "2026-11-24T17:28:00+00:00",
+"src": "WSJ",
+"kind": "market",
+"seen": "2026-11-25T00:44:53+00:00"
 },
 {
 "id": "ee51b78ff86b",
@@ -10968,56 +11018,6 @@
 "src": "WSJ",
 "kind": "market",
 "seen": "2026-11-24T12:15:38+00:00"
-},
-{
-"id": "d36e529bf39c",
-"t": "",
-"title": "Best Buy reports comparable sales growth of 6.1%, highest in five years",
-"url": "https://www.cnbc.com/2026/11/24/best-buy-bby-q3-2027-earnings.html",
-"pub": "2026-11-24T12:06:04+00:00",
-"src": "CNBC",
-"kind": "market",
-"seen": "2026-11-24T12:15:38+00:00"
-},
-{
-"id": "be15e6e18ff5",
-"t": "",
-"title": "Basic Materials Roundup: Market Talk",
-"url": "https://www.wsj.com/business/basic-materials-roundup-market-talk-90784e85",
-"pub": "2026-11-24T12:02:00+00:00",
-"src": "WSJ",
-"kind": "market",
-"seen": "2026-11-24T14:06:43+00:00"
-},
-{
-"id": "825f99d8a63a",
-"t": "",
-"title": "ECB’s Kaasik Says Latest Data Show Rates Must Be Raised Further",
-"url": "https://www.bloomberg.com/news/articles/2026-11-24/ecb-s-kaasik-says-latest-data-show-rates-must-be-raised-further",
-"pub": "2026-11-24T12:01:10+00:00",
-"src": "Bloomberg",
-"kind": "market",
-"seen": "2026-11-24T12:15:38+00:00"
-},
-{
-"id": "7197636ae240",
-"t": "",
-"title": "Trump tariffs on industrial overcapacity",
-"url": "https://www.bloomberg.com/news/newsletters/2026-11-24/trump-tariffs-on-industrial-overcapacity",
-"pub": "2026-11-24T12:01:00+00:00",
-"src": "Bloomberg",
-"kind": "market",
-"seen": "2026-11-24T12:15:38+00:00"
-},
-{
-"id": "26785ab35439",
-"t": "",
-"title": "Atkinsrealis Group Inc (ATRL.TO) | Stock Price & Latest News - Reuters",
-"url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE85M2N1T0ZBUWJzVzdVbHYxMnFSZGtsZl83RWZrdnhCTkV1dEN6bENKc2x0eF9ZU3lZZ2tQNEF6VUxKMVNWdmZMNVNXZFdHQWt4UFdSaVFJY2pfYUt0TFNN?oc=5",
-"pub": "2026-11-24T12:00:37+00:00",
-"src": "Reuters",
-"kind": "market",
-"seen": "2026-11-24T13:20:10+00:00"
 }
 ]
 }
