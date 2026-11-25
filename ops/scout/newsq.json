@@ -1,6 +1,6 @@
 {
-"updated_kst": "2026-11-25 19:44",
-"rot": 73,
+"updated_kst": "2026-11-25 20:14",
+"rot": 133,
 "how": "Scout(프로그램)이 10분마다 모은 기사 제목·링크와 공시예요. Wren이 공식 출처로 확인한 뒤 회사 화면에 한국어로 반영해요. 본문은 받지 않아요.",
 "sources": {
 "Yahoo Finance": "120종목 확인 · 실패 0",
@@ -16,6 +16,626 @@
 "Fox Business": "50건"
 },
 "items": [
+{
+"id": "33f6b288af5a",
+"t": "NVDA",
+"title": "Dell Delivered Strong Earnings but at the Wrong Time for the Stock",
+"url": "https://finance.yahoo.com/m/7bfc9015-4ca1-3f6d-81d5-7ffb1b1990e6/dell-delivered-strong.html",
+"pub": "2026-11-25T11:06:00+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-25T11:14:11+00:00"
+},
+{
+"id": "1f66933668ed",
+"t": "ORCL",
+"title": "iShares Expanded Tech-Software (IGV) Buys $15 Million More Palo Alto on Nov. 23",
+"url": "https://finance.yahoo.com/markets/stocks/articles/ishares-expanded-tech-software-igv-110551099.html",
+"pub": "2026-11-25T11:05:51+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-25T11:14:11+00:00"
+},
+{
+"id": "b5d67a9988d7",
+"t": "MU",
+"title": "Proshares Trust (TQQQ) Sells Apple and Nvidia on Nov. 23",
+"url": "https://finance.yahoo.com/markets/stocks/articles/proshares-trust-tqqq-sells-apple-110547396.html",
+"pub": "2026-11-25T11:05:47+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-25T11:14:11+00:00"
+},
+{
+"id": "4a9ebd8c735d",
+"t": "GOOGL",
+"title": "State Street SPDR Portfolio S&P 500 (SPYM) Buys $14.2 Million More Apple on Monday",
+"url": "https://finance.yahoo.com/markets/stocks/articles/state-street-spdr-portfolio-p-110543019.html",
+"pub": "2026-11-25T11:05:43+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-25T11:14:11+00:00"
+},
+{
+"id": "f08cdaa1d16e",
+"t": "TSLA",
+"title": "Invesco S&P 500 High Beta (SPHB) Buys $13.4 Million More Bloom Energy on Monday",
+"url": "https://finance.yahoo.com/markets/stocks/articles/invesco-p-500-high-beta-110539855.html",
+"pub": "2026-11-25T11:05:39+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-25T11:14:11+00:00"
+},
+{
+"id": "9eb128c5a3c2",
+"t": "AVGO",
+"title": "State Street Technology SPDR (XLK) Adds Apple and Nvidia on Monday",
+"url": "https://finance.yahoo.com/markets/stocks/articles/state-street-technology-spdr-xlk-110536754.html",
+"pub": "2026-11-25T11:05:36+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-25T11:14:11+00:00"
+},
+{
+"id": "a05a35ba6878",
+"t": "GOOGL",
+"title": "What iShares Russell 1000 ETF (IWB) Bought: Apple Leads on Nov. 23",
+"url": "https://finance.yahoo.com/markets/stocks/articles/ishares-russell-1000-etf-iwb-110526380.html",
+"pub": "2026-11-25T11:05:26+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-25T11:14:11+00:00"
+},
+{
+"id": "710d80ae66ee",
+"t": "GEV",
+"title": "What State Street Industrial Select SPDR (XLI) Bought: GE Leads on Nov. 23",
+"url": "https://finance.yahoo.com/markets/stocks/articles/state-street-industrial-select-spdr-110522615.html",
+"pub": "2026-11-25T11:05:22+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-25T11:14:11+00:00"
+},
+{
+"id": "36a9f87668aa",
+"t": "CEG",
+"title": "State Street Utilities SPDR (XLU) Sells $32.8 Million of NextEra on Nov. 23",
+"url": "https://finance.yahoo.com/markets/stocks/articles/state-street-utilities-spdr-xlu-110516162.html",
+"pub": "2026-11-25T11:05:16+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-25T11:14:11+00:00"
+},
+{
+"id": "fcb64fa6a81a",
+"t": "WMT",
+"title": "State Street Consumer Staples SPDR (XLP) Adds Walmart and Costco on Nov. 23",
+"url": "https://finance.yahoo.com/markets/stocks/articles/state-street-consumer-staples-spdr-110513471.html",
+"pub": "2026-11-25T11:05:13+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-25T11:14:11+00:00"
+},
+{
+"id": "5f69cbbba590",
+"t": "NVDA",
+"title": "Anthropic Stock Is 31% Below Its Day 1 High. What Should Long-Term Investors Do?",
+"url": "https://www.fool.com/investing/2026/11/25/anthropic-stock-is-still-31-below-its-day-1-high-what-should-long-term-investors-do/",
+"pub": "2026-11-25T11:05:02+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-25T11:14:11+00:00"
+},
+{
+"id": "20ab415f1314",
+"t": "ROP",
+"title": "What FT Vest Dividend Aristocrats Target Income (KNG) Sold: BDX Leads on Nov. 23",
+"url": "https://finance.yahoo.com/markets/stocks/articles/ft-vest-dividend-aristocrats-target-110459202.html",
+"pub": "2026-11-25T11:04:59+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-25T11:14:11+00:00"
+},
+{
+"id": "a68052a3dcc3",
+"t": "TSLA",
+"title": "Franklin Systematic Style Premia (FLSP) Sells $8.1 Million of Costco on Monday",
+"url": "https://finance.yahoo.com/markets/stocks/articles/franklin-systematic-style-premia-flsp-110453628.html",
+"pub": "2026-11-25T11:04:53+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-25T11:14:11+00:00"
+},
+{
+"id": "112f83737ec2",
+"t": "AVGO",
+"title": "iShares PHLX SOX Semiconductor (SOXX) Buys $46.9 Million More AMD on Nov. 23",
+"url": "https://finance.yahoo.com/markets/stocks/articles/ishares-phlx-sox-semiconductor-soxx-110447635.html",
+"pub": "2026-11-25T11:04:47+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-25T11:14:11+00:00"
+},
+{
+"id": "931bf5e6b846",
+"t": "COST",
+"title": "What Invesco S&P 500 Equal Weight ETF (RSP) Sold: Moderna Leads on Nov. 23",
+"url": "https://finance.yahoo.com/markets/stocks/articles/invesco-p-500-equal-weight-110443601.html",
+"pub": "2026-11-25T11:04:43+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-25T11:14:11+00:00"
+},
+{
+"id": "443f0810e445",
+"t": "NVDA",
+"title": "What Direxion Daily Technology Bull 3X ETF (TECL) Sold: Apple Leads on Monday",
+"url": "https://finance.yahoo.com/markets/stocks/articles/direxion-daily-technology-bull-3x-110437163.html",
+"pub": "2026-11-25T11:04:37+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-25T11:14:11+00:00"
+},
+{
+"id": "9823a5f4d153",
+"t": "V",
+"title": "State Street Financial SPDR (XLF) Buys $83.4 Million More Berkshire on Monday",
+"url": "https://finance.yahoo.com/markets/stocks/articles/state-street-financial-spdr-xlf-110431476.html",
+"pub": "2026-11-25T11:04:31+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-25T11:14:11+00:00"
+},
+{
+"id": "b00098c41ffd",
+"t": "GOOGL",
+"title": "iShares Core S&P 500 (IVV) Sells Apple and Nvidia on Nov. 23",
+"url": "https://finance.yahoo.com/markets/stocks/articles/ishares-core-p-500-ivv-110419284.html",
+"pub": "2026-11-25T11:04:19+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-25T11:14:11+00:00"
+},
+{
+"id": "44d6261ef795",
+"t": "MU",
+"title": "Invesco NASDAQ 100 ETF (QQQM) Adds Apple and NVIDIA on Monday",
+"url": "https://finance.yahoo.com/markets/stocks/articles/invesco-nasdaq-100-etf-qqqm-110416507.html",
+"pub": "2026-11-25T11:04:16+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-25T11:14:11+00:00"
+},
+{
+"id": "8d6e5f5bb29f",
+"t": "MU",
+"title": "INVESCO QQQ Trust (QQQ) Sells Apple and NVIDIA on Nov. 23",
+"url": "https://finance.yahoo.com/markets/stocks/articles/invesco-qqq-trust-qqq-sells-110412143.html",
+"pub": "2026-11-25T11:04:12+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-25T11:14:11+00:00"
+},
+{
+"id": "570f460ece67",
+"t": "GOOGL",
+"title": "SPDR S&P 500 ETF (SPY) Adds Apple and Nvidia on Monday",
+"url": "https://finance.yahoo.com/markets/stocks/articles/spdr-p-500-etf-spy-110402304.html",
+"pub": "2026-11-25T11:04:02+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-25T11:14:11+00:00"
+},
+{
+"id": "9e0654ebe3a4",
+"t": "SPCX",
+"title": "ARK Autonomous Technology & Robotics ETF (ARKQ) Sells Tesla and SpaceX on Monday",
+"url": "https://finance.yahoo.com/markets/stocks/articles/ark-autonomous-technology-robotics-etf-110358357.html",
+"pub": "2026-11-25T11:03:58+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-25T11:14:11+00:00"
+},
+{
+"id": "ae080ed59139",
+"t": "NVDA",
+"title": "Forget the P/E Ratio. DSTL Picks 100 Large Stocks by the Cash They Generate and the Debt They Don’t Carry",
+"url": "https://247wallst.com/investing/etf/2026/11/25/forget-the-p-e-ratio-dstl-picks-100-large-stocks-by-the-cash-they-generate-and-the-debt-they-dont-carry/",
+"pub": "2026-11-25T11:03:37+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-25T11:14:11+00:00"
+},
+{
+"id": "46716dc55ce2",
+"t": "CME",
+"title": "ETFs Are Net Sellers of CME Group (CME) on Monday",
+"url": "https://finance.yahoo.com/markets/stocks/articles/etfs-net-sellers-cme-group-110321328.html",
+"pub": "2026-11-25T11:03:21+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-25T11:14:11+00:00"
+},
+{
+"id": "fa615ea4ca55",
+"t": "GOOGL",
+"title": "ETFs Are Net Sellers of Alphabet (GOOG) on Nov. 23",
+"url": "https://finance.yahoo.com/markets/stocks/articles/etfs-net-sellers-alphabet-goog-110257127.html",
+"pub": "2026-11-25T11:02:57+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-25T11:14:11+00:00"
+},
+{
+"id": "599d9ec3ce22",
+"t": "NVDA",
+"title": "Ed Yardeni Says Jensen Huang’s Return To Nvidia Could Ease AI Financing Concerns But Intensify Regulatory Scrutiny",
+"url": "https://stocktwits.com/news-articles/markets/equity/ed-yardeni-says-jensen-huang-s-return-to-nvidia-could-ease-ai-financing-concerns-but-intensify-regulatory-scrutiny/cNbHQs8R9lU",
+"pub": "2026-11-25T11:02:53+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-25T11:14:11+00:00"
+},
+{
+"id": "b908db74a14e",
+"t": "QQQ",
+"title": "ETFs Are Net Sellers of Palantir (PLTR) on Monday",
+"url": "https://finance.yahoo.com/markets/stocks/articles/etfs-net-sellers-palantir-pltr-110251086.html",
+"pub": "2026-11-25T11:02:51+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-25T11:14:11+00:00"
+},
+{
+"id": "cf4d69764fbc",
+"t": "RKLB",
+"title": "ETFs Sold $96.9 Million of Rocket Lab (RKLB) on Monday",
+"url": "https://finance.yahoo.com/markets/stocks/articles/etfs-sold-96-9-million-110245076.html",
+"pub": "2026-11-25T11:02:45+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-25T11:14:11+00:00"
+},
+{
+"id": "cc8098cc0ea0",
+"t": "AMZN",
+"title": "ETFs Are Net Sellers of Amazon (AMZN) on Monday",
+"url": "https://finance.yahoo.com/markets/stocks/articles/etfs-net-sellers-amazon-amzn-110242019.html",
+"pub": "2026-11-25T11:02:42+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-25T11:14:11+00:00"
+},
+{
+"id": "0cab7cb2342b",
+"t": "SPCX",
+"title": "ETFs Are Selling SpaceX (SPCX) on Monday",
+"url": "https://finance.yahoo.com/markets/stocks/articles/etfs-selling-spacex-spcx-monday-110221766.html",
+"pub": "2026-11-25T11:02:21+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-25T11:14:11+00:00"
+},
+{
+"id": "66bfaa89f407",
+"t": "TSLA",
+"title": "ETFs Are Net Sellers of Tesla (TSLA) on Nov. 23",
+"url": "https://finance.yahoo.com/markets/stocks/articles/etfs-net-sellers-tesla-tsla-110217480.html",
+"pub": "2026-11-25T11:02:17+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-25T11:14:11+00:00"
+},
+{
+"id": "cb67563b3e55",
+"t": "SPY",
+"title": "ETFs Are Buying American International Group (AIG) on Monday",
+"url": "https://finance.yahoo.com/markets/stocks/articles/etfs-buying-american-international-group-110210871.html",
+"pub": "2026-11-25T11:02:10+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-25T11:14:11+00:00"
+},
+{
+"id": "3faa15f7db35",
+"t": "SPY",
+"title": "ETFs Are Buying Extra Space Storage (EXR) on Nov. 23",
+"url": "https://finance.yahoo.com/markets/stocks/articles/etfs-buying-extra-space-storage-110204240.html",
+"pub": "2026-11-25T11:02:04+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-25T11:14:11+00:00"
+},
+{
+"id": "956f4a80ec26",
+"t": "QQQM",
+"title": "ETFs Bought $70.3 Million of Lam Research (LRCX) on Monday",
+"url": "https://finance.yahoo.com/markets/stocks/articles/etfs-bought-70-3-million-110158348.html",
+"pub": "2026-11-25T11:01:58+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-25T11:14:11+00:00"
+},
+{
+"id": "aa7fd2cd46f1",
+"t": "SPY",
+"title": "Everest Re Group (EG) Sees $72.1 Million in Net ETF Buying on Nov. 23",
+"url": "https://finance.yahoo.com/markets/stocks/articles/everest-group-eg-sees-72-110152321.html",
+"pub": "2026-11-25T11:01:52+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-25T11:14:11+00:00"
+},
+{
+"id": "cab50d4feb3a",
+"t": "QQQM",
+"title": "ETFs Bought $73.8 Million of Intel (INTC) on Nov. 23",
+"url": "https://finance.yahoo.com/markets/stocks/articles/etfs-bought-73-8-million-110149555.html",
+"pub": "2026-11-25T11:01:49+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-25T11:14:11+00:00"
+},
+{
+"id": "7b72ee290da7",
+"t": "QQQM",
+"title": "ETFs Bought $75.2 Million of Qualcomm (QCOM) on Monday",
+"url": "https://finance.yahoo.com/markets/stocks/articles/etfs-bought-75-2-million-110142939.html",
+"pub": "2026-11-25T11:01:42+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-25T11:14:11+00:00"
+},
+{
+"id": "d954d14865b7",
+"t": "QQQM",
+"title": "ETFs Bought $76.8 Million of Applied Materials (AMAT) on Nov. 23",
+"url": "https://finance.yahoo.com/markets/stocks/articles/etfs-bought-76-8-million-110136957.html",
+"pub": "2026-11-25T11:01:36+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-25T11:14:11+00:00"
+},
+{
+"id": "6baead8754be",
+"t": "ASML",
+"title": "ETFs Are Buying ASML (ASML) on Nov. 23",
+"url": "https://finance.yahoo.com/markets/stocks/articles/etfs-buying-asml-asml-nov-110130021.html",
+"pub": "2026-11-25T11:01:30+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-25T11:14:11+00:00"
+},
+{
+"id": "2f17e7b784b0",
+"t": "SPY",
+"title": "32 ETFs Add to Pfizer (PFE) Holdings on Monday",
+"url": "https://finance.yahoo.com/markets/stocks/articles/32-etfs-add-pfizer-pfe-110127098.html",
+"pub": "2026-11-25T11:01:27+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-25T11:14:11+00:00"
+},
+{
+"id": "4433fe7f22b0",
+"t": "MU",
+"title": "Micron (MU) Sees $80.7 Million in Net ETF Buying on Monday",
+"url": "https://finance.yahoo.com/markets/stocks/articles/micron-mu-sees-80-7-110123403.html",
+"pub": "2026-11-25T11:01:23+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-25T11:14:11+00:00"
+},
+{
+"id": "62d1c76104a1",
+"t": "QQQM",
+"title": "46 ETFs Add to Kla-Tencor (KLAC) on Monday",
+"url": "https://finance.yahoo.com/markets/stocks/articles/46-etfs-add-kla-tencor-110120878.html",
+"pub": "2026-11-25T11:01:20+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-25T11:14:11+00:00"
+},
+{
+"id": "c0cc275d0166",
+"t": "SPY",
+"title": "Berkshire Hathaway (BRK.B) Sees $89.5 Million in Net ETF Buying on Monday",
+"url": "https://finance.yahoo.com/markets/stocks/articles/berkshire-hathaway-brk-b-sees-110112701.html",
+"pub": "2026-11-25T11:01:12+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-25T11:14:11+00:00"
+},
+{
+"id": "04a8103815ed",
+"t": "QQQM",
+"title": "ETFs Are Buying Analog Devices (ADI) on Nov. 23",
+"url": "https://finance.yahoo.com/markets/stocks/articles/etfs-buying-analog-devices-adi-110107043.html",
+"pub": "2026-11-25T11:01:07+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-25T11:14:11+00:00"
+},
+{
+"id": "58da53ca227e",
+"t": "JPM",
+"title": "JPMorgan Chase (JPM) Sees $92.2 Million in Net ETF Buying on Nov. 23",
+"url": "https://finance.yahoo.com/markets/stocks/articles/jpmorgan-chase-jpm-sees-92-110101868.html",
+"pub": "2026-11-25T11:01:01+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-25T11:14:11+00:00"
+},
+{
+"id": "a8c0971a658c",
+"t": "AVGO",
+"title": "55 ETFs Add to Broadcom (AVGO) on Monday",
+"url": "https://finance.yahoo.com/markets/stocks/articles/55-etfs-add-broadcom-avgo-110057015.html",
+"pub": "2026-11-25T11:00:57+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-25T11:14:11+00:00"
+},
+{
+"id": "d4a50a369cc0",
+"t": "QQQM",
+"title": "41 ETFs Add to Texas Instruments (TXN) on Nov. 23",
+"url": "https://finance.yahoo.com/markets/stocks/articles/41-etfs-add-texas-instruments-110050012.html",
+"pub": "2026-11-25T11:00:50+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-25T11:14:11+00:00"
+},
+{
+"id": "2ab9ae29bcd5",
+"t": "NVDA",
+"title": "60 ETFs Add to NVIDIA (NVDA) Holdings on Nov. 23",
+"url": "https://finance.yahoo.com/markets/stocks/articles/60-etfs-add-nvidia-nvda-110045138.html",
+"pub": "2026-11-25T11:00:45+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-25T11:14:11+00:00"
+},
+{
+"id": "a1e86ec84ca8",
+"t": "QQQM",
+"title": "ETF Activity: ARKQ Leads Outflows on Nov. 23",
+"url": "https://finance.yahoo.com/markets/options/articles/etf-activity-arkq-leads-outflows-110011535.html",
+"pub": "2026-11-25T11:00:11+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-25T11:14:11+00:00"
+},
+{
+"id": "5b2cd53cfd7d",
+"t": "NVDA",
+"title": "10 big money topics you might have to tackle over turkey: A Yahoo Finance guide to Nvidia, markets, and more",
+"url": "https://finance.yahoo.com/markets/article/10-big-money-topics-you-might-have-to-tackle-over-turkey-a-yahoo-finance-guide-to-nvidia-markets-and-more-110000381.html",
+"pub": "2026-11-25T11:00:00+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-25T11:14:11+00:00"
+},
+{
+"id": "d5b8f98c513c",
+"t": "NVDA",
+"title": "Inside the Pokémon Card Craze: $288,000 Fakes and Lots of Gambling",
+"url": "https://finance.yahoo.com/m/6e07816c-b42f-3c3c-a0af-1340d5115da7/inside-the-pok%C3%A9mon-card.html",
+"pub": "2026-11-25T11:00:00+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-25T11:14:11+00:00"
+},
+{
+"id": "d24aa0a42563",
+"t": "CRM",
+"title": "AI is crushing software stocks — and a debt wall looms: Chart of the Day",
+"url": "https://finance.yahoo.com/markets/article/ai-is-crushing-software-stocks--and-a-debt-wall-looms-chart-of-the-day-110000479.html",
+"pub": "2026-11-25T11:00:00+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-25T11:14:11+00:00"
+},
+{
+"id": "a4d5aab321dc",
+"t": "AAPL",
+"title": "Tell Schwab to Move $19,000 of Apple Stock to Your Son on December 30 and If the Shares Land January 4 the IRS Counts It as a 2027 Gift. This Year’s Exclusion Is Gone for Good",
+"url": "https://247wallst.com/personal-finance/2026/11/25/tell-schwab-to-move-19000-of-apple-stock-to-your-son-on-december-30-and-if-the-shares-land-january-4-the-irs-counts-it-as-a-2027-gift-this-years-exclusion-is-gone-for-good/",
+"pub": "2026-11-25T10:52:08+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-25T11:14:11+00:00"
+},
+{
+"id": "aac3754df41a",
+"t": "AXP",
+"title": "American Express Stock Lost Nearly Half Its Value in the 2020 Crash. It Recovered in Just 11 Months.",
+"url": "https://www.fool.com/investing/2026/11/25/american-express-stock-lost-nearly-half-its-value-in-the-2020-crash-it-was-back-to-its-pre-crash-high-11-months-later/",
+"pub": "2026-11-25T10:50:02+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-25T11:14:11+00:00"
+},
+{
+"id": "49bec6a015e3",
+"t": "LITE",
+"title": "Oppenheimer Cut Its Marvell Target by $100. It Still Sees 147% Upside",
+"url": "https://www.tikr.com/blog/oppenheimer-cut-its-marvell-target-by-100-it-still-sees-147-upside",
+"pub": "2026-11-25T10:49:31+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-25T11:14:11+00:00"
+},
+{
+"id": "417fbf9f6471",
+"t": "AMZN",
+"title": "Market Chatter: Amazon.com, Meta Platforms in Talks Over Allowing Muse AI Access Shopping Site",
+"url": "https://finance.yahoo.com/technology/ai/articles/market-chatter-amazon-com-meta-104905932.html",
+"pub": "2026-11-25T10:49:05+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-25T11:14:11+00:00"
+},
+{
+"id": "68868dad0556",
+"t": "AVGO",
+"title": "U.S. chip stocks extend losses premarket as AI spending concerns resurface",
+"url": "https://finance.yahoo.com/technology/ai/articles/u-chip-stocks-extend-losses-104903644.html",
+"pub": "2026-11-25T10:49:03+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-25T11:14:11+00:00"
+},
+{
+"id": "21a6f6df50d9",
+"t": "VRTX",
+"title": "Vertex Could Land Its Fifth Franchise on Nov. 30. Should You Buy Before the FDA Decides?",
+"url": "https://www.fool.com/investing/2026/11/25/vertex-could-land-its-fifth-franchise-on-nov-30-should-you-buy-before-the-fda-decides/",
+"pub": "2026-11-25T10:45:02+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-25T11:14:11+00:00"
+},
+{
+"id": "3fa0a18a646f",
+"t": "QQQ",
+"title": "What the Fear Index Is Telling Us About the Market",
+"url": "https://finance.yahoo.com/m/e7949f79-333e-3277-8940-fd360c861c2b/what-the-fear-index-is.html",
+"pub": "2026-11-25T10:45:00+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-25T11:14:11+00:00"
+},
+{
+"id": "2d4b6c8d7f28",
+"t": "TSLA",
+"title": "Tesla’s FSD Version 15 Is an Improvement. How That Helps the Stock.",
+"url": "https://finance.yahoo.com/m/2c17d7f3-1b8f-3c65-962c-b31a60522eff/tesla%E2%80%99s-fsd-version-15-is-an.html",
+"pub": "2026-11-25T10:43:00+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-25T11:14:11+00:00"
+},
+{
+"id": "943b8d91d9dd",
+"t": "SPCX",
+"title": "SpaceX Stock Has an Anthropic Problem",
+"url": "https://finance.yahoo.com/m/b37dce27-5407-30bd-9314-29119ff5e24a/spacex-stock-has-an-anthropic.html",
+"pub": "2026-11-25T10:37:00+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-25T11:14:11+00:00"
+},
+{
+"id": "4dbbebc6ea7a",
+"t": "DELL",
+"title": "Dell stock tanks after blowout earnings. Wall Street Just Isn't Impressed.",
+"url": "https://finance.yahoo.com/markets/stocks/article/dell-stock-tanks-after-blowout-earnings-wall-street-just-isnt-impressed-103036530.html",
+"pub": "2026-11-25T10:30:36+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-25T11:14:11+00:00"
+},
 {
 "id": "40f3bd1a7e6b",
 "t": "SPCX",
@@ -35,6 +655,16 @@
 "src": "Yahoo Finance",
 "kind": "news",
 "seen": "2026-11-25T10:44:44+00:00"
+},
+{
+"id": "372b16c3f604",
+"t": "CRM",
+"title": "Salesforce Is 28% Off Its High: Why Guggenheim Still Sees 55% Upside Ahead of Earnings",
+"url": "https://www.tikr.com/blog/salesforce-is-28-off-its-high-why-guggenheim-still-sees-55-upside-ahead-of-earnings",
+"pub": "2026-11-25T10:25:36+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-25T11:14:11+00:00"
 },
 {
 "id": "6bb0ae2fd231",
@@ -145,6 +775,16 @@
 "src": "Yahoo Finance",
 "kind": "news",
 "seen": "2026-11-25T10:44:44+00:00"
+},
+{
+"id": "c6bd3d4b6772",
+"t": "ILMN",
+"title": "Tagomics secures $13m to advance LiquiPath platform",
+"url": "https://www.medicaldevice-network.com/news/tagomics-secures-advance-liquipath-platform/",
+"pub": "2026-11-25T10:06:56+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-25T11:14:11+00:00"
 },
 {
 "id": "baebb7de9dca",
@@ -565,6 +1205,26 @@
 "src": "Yahoo Finance",
 "kind": "news",
 "seen": "2026-11-25T08:44:35+00:00"
+},
+{
+"id": "680c7e337780",
+"t": "AMZN",
+"title": "Walmart’s shopper base is shifting: High earners lead its gains as low-income shoppers turn to Amazon",
+"url": "https://finance.yahoo.com/markets/stocks/articles/walmart-shopper-shifting-high-earners-083200748.html",
+"pub": "2026-11-25T08:32:00+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-25T11:14:11+00:00"
+},
+{
+"id": "bcd037e51dd9",
+"t": "GOOGL",
+"title": "Europe has spent $15.9 billion trying to win the quantum race. Is it enough?",
+"url": "https://finance.yahoo.com/technology/ai/articles/europe-spent-15-9-billion-082901792.html",
+"pub": "2026-11-25T08:29:01+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-25T11:14:11+00:00"
 },
 {
 "id": "93140fcdaf96",
@@ -1097,6 +1757,16 @@
 "seen": "2026-11-25T05:14:58+00:00"
 },
 {
+"id": "360d4c2b5a31",
+"t": "DELL",
+"title": "HPE Won’t Finance “Neocloud or High-Risk Customers.” Dell Carries $4.4 Billion of Lower-Grade Receivables",
+"url": "https://www.tikr.com/blog/hpe-wont-finance-neocloud-or-high-risk-customers-dell-carries-4-4-billion-of-lower-grade-receivables",
+"pub": "2026-11-25T04:37:46+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-25T11:14:11+00:00"
+},
+{
 "id": "62f3d092f519",
 "t": "SPCX",
 "title": "Anthropic vs. SpaceX: Here's the Better IPO Stock to Buy With $1,000 Right Now",
@@ -1205,6 +1875,16 @@
 "src": "Yahoo Finance",
 "kind": "news",
 "seen": "2026-11-25T10:20:47+00:00"
+},
+{
+"id": "c4925b1cec6b",
+"t": "TSM",
+"title": "Huang Boost Fades Quickly as AI Fears Sink TSMC, SK Hynix Shares",
+"url": "https://finance.yahoo.com/markets/stocks/articles/huang-boost-fades-quickly-ai-040320019.html",
+"pub": "2026-11-25T04:03:20+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-25T11:14:11+00:00"
 },
 {
 "id": "0e25abc8b522",
@@ -6990,6 +7670,16 @@
 "seen": "2026-11-24T17:29:04+00:00"
 },
 {
+"id": "8ad6808dffa1",
+"t": "SNDK",
+"title": "A $12 Billion Fund Bought These 3 Stocks Last Quarter",
+"url": "https://www.tikr.com/blog/a-12-billion-fund-bought-these-3-stocks-last-quarter",
+"pub": "2026-11-24T17:00:02+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-25T11:14:11+00:00"
+},
+{
 "id": "89956e455821",
 "t": "UNH",
 "title": "The 3 Highest-Yielding Dividend Stocks Among Ken Griffin’s Top Holdings",
@@ -7330,694 +8020,134 @@
 "seen": "2026-11-24T17:14:02+00:00"
 },
 {
-"id": "873da88be489",
-"t": "QQQ",
-"title": "Before the bell: Bitcoin can’t catch a break",
-"url": "https://www.thestreet.com/crypto/markets/before-the-bell-bitcoin-cant-catch-a-break-",
-"pub": "2026-11-24T16:47:24+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-24T17:14:02+00:00"
-},
-{
-"id": "4f02fb7b36eb",
-"t": "CME",
-"title": "CME Group Announces Strong European Dairy Volumes on First Day of Trading",
-"url": "https://finance.yahoo.com/markets/commodities/articles/cme-group-announces-strong-european-164700384.html",
-"pub": "2026-11-24T16:47:00+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-24T17:29:04+00:00"
-},
-{
-"id": "4aeccd519c90",
-"t": "ISRG",
-"title": "Veeva Systems' Gains 20% YTD: Can the Stock's Growth Momentum",
-"url": "https://finance.yahoo.com/markets/stocks/articles/veeva-systems-gains-20-ytd-164700334.html",
-"pub": "2026-11-24T16:47:00+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-24T18:14:24+00:00"
-},
-{
-"id": "39fab2b07a7e",
-"t": "MU",
-"title": "Down On TSMC Stock? Your Buy Price Decides It",
-"url": "https://www.trefis.com/stock/tsm/articles/628260/down-on-tsmc-stock-your-buy-price-decides-it/2026-11-24",
-"pub": "2026-11-24T16:46:36+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-24T17:14:02+00:00"
-},
-{
-"id": "fb96b8515aac",
-"t": "META",
-"title": "Mark Zuckerberg's Meta Faces New Battle Over Control",
-"url": "https://finance.yahoo.com/markets/stocks/articles/mark-zuckerbergs-meta-faces-battle-164556554.html",
-"pub": "2026-11-24T16:45:56+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-24T17:14:02+00:00"
-},
-{
-"id": "0601d6e4a9f0",
-"t": "CEG",
-"title": "3 Reasons Why Constellation Energy Corporation (CEG) Is a Great Growth Stock",
-"url": "https://finance.yahoo.com/markets/stocks/articles/3-reasons-why-constellation-energy-164502937.html",
-"pub": "2026-11-24T16:45:02+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-24T18:14:24+00:00"
-},
-{
-"id": "e667e50ce036",
-"t": "MU",
-"title": "Wall Street Sees Up to 130% Upside in 3 AI Stocks",
-"url": "https://finance.yahoo.com/technology/ai/articles/wall-street-sees-130-upside-164501454.html",
-"pub": "2026-11-24T16:45:01+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-24T17:14:02+00:00"
-},
-{
-"id": "e12efe6bde36",
-"t": "AAPL",
-"title": "Apple Set to Revive Popular Product Line After Years",
-"url": "https://finance.yahoo.com/markets/stocks/articles/apple-set-revive-popular-product-164314724.html",
-"pub": "2026-11-24T16:43:14+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-24T17:14:02+00:00"
-},
-{
-"id": "de159f876987",
-"t": "AMD",
-"title": "Stock Market Today: Dow Dips, Nasdaq Skids As Nvidia Dives; Anthropic Plunges Below IPO Price (Live Coverage)",
-"url": "https://finance.yahoo.com/m/4aa4ff31-269f-346e-80c4-e681510af7ae/stock-market-today%3A-dow-dips%2C.html",
-"pub": "2026-11-24T16:42:25+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-24T17:14:02+00:00"
-},
-{
-"id": "e5c8a5d8a87b",
-"t": "GOOGL",
-"title": "Amazon Makes $7.5 Billion AI Move to Challenge Nvidia",
-"url": "https://finance.yahoo.com/technology/ai/articles/amazon-makes-7-5-billion-164215378.html",
-"pub": "2026-11-24T16:42:15+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-24T17:14:02+00:00"
-},
-{
-"id": "13e520cc928e",
-"t": "CRCL",
-"title": "DOJ files action to recover $1B in crypto stolen in Binance hack",
-"url": "https://finance.yahoo.com/video/doj-files-action-to-recover-1b-in-crypto-stolen-in-binance-hack-164124021.html",
-"pub": "2026-11-24T16:41:24+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-24T17:29:04+00:00"
-},
-{
-"id": "e5accc54699a",
-"t": "ISRG",
-"title": "GEHC Launches ViewPoint Ultra to Streamline Ultrasound Workflows",
-"url": "https://finance.yahoo.com/healthcare/articles/gehc-launches-viewpoint-ultra-streamline-164100927.html",
-"pub": "2026-11-24T16:41:00+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-24T18:14:24+00:00"
-},
-{
-"id": "589131ea0c0d",
-"t": "ISRG",
-"title": "Here's Why You Should Add Glaukos Stock to Your Portfolio Now",
-"url": "https://finance.yahoo.com/markets/stocks/articles/heres-why-add-glaukos-stock-164100284.html",
-"pub": "2026-11-24T16:41:00+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-24T18:14:24+00:00"
-},
-{
-"id": "f0e717d76d09",
-"t": "REGN",
-"title": "Kymera Shares Soar 30% After Positive Atopic Dermatitis Drug Data",
-"url": "https://finance.yahoo.com/healthcare/articles/kymera-shares-soar-30-positive-164000708.html",
-"pub": "2026-11-24T16:40:00+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-24T18:44:31+00:00"
-},
-{
-"id": "d1d03bd8cefa",
-"t": "TLN",
-"title": "Can NuScale's Doosan Deal Shorten Reactor Delivery Times?",
-"url": "https://finance.yahoo.com/energy/articles/nuscales-doosan-deal-shorten-reactor-163900039.html",
-"pub": "2026-11-24T16:39:00+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-24T18:14:24+00:00"
-},
-{
-"id": "46e5d141a3fd",
-"t": "MP",
-"title": "Rare-Earth Stock Moves Hint at China’s Fading Dominance",
-"url": "https://finance.yahoo.com/m/d1964044-82d9-39db-b740-367bd040d31e/rare-earth-stock-moves-hint.html",
-"pub": "2026-11-24T16:39:00+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-24T18:14:24+00:00"
-},
-{
-"id": "564d9d1ce647",
-"t": "WMT",
-"title": "Retail stocks surge into Black Friday amid earnings beats",
-"url": "https://finance.yahoo.com/markets/stocks/articles/retail-stocks-surge-black-friday-163741483.html",
-"pub": "2026-11-24T16:37:41+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-24T17:14:02+00:00"
-},
-{
-"id": "424cab1258d2",
-"t": "GOOGL",
-"title": "Amazon’s $7.5 billion Decart tech deal makes Wedbush’s case for chip choice",
-"url": "https://www.proactiveinvestors.com/companies/news/1102367/amazon-s-7-5-billion-decart-tech-deal-makes-wedbush-s-case-for-chip-choice-1102367.html",
-"pub": "2026-11-24T16:37:00+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-24T18:14:24+00:00"
-},
-{
-"id": "f5d1e709ff7b",
-"t": "LITE",
-"title": "AAOI vs. Lumentum: Which Optical Networking Stock Has an Edge Now?",
-"url": "https://finance.yahoo.com/markets/stocks/articles/aaoi-vs-lumentum-optical-networking-163600829.html",
-"pub": "2026-11-24T16:36:00+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-24T17:44:03+00:00"
-},
-{
-"id": "0008b9b02b92",
-"t": "AMZN",
-"title": "Airbnb vs. Uber Technologies: Which Consumer Stock Is a Better Buy for 2027?",
-"url": "https://www.fool.com/coverage/better-buy/2026/11/24/airbnb-vs-uber-technologies-which-consumer-stock-is-a-better-buy-for-2027/",
-"pub": "2026-11-24T16:35:02+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-24T17:14:02+00:00"
-},
-{
-"id": "cdd9feae4f8d",
-"t": "KLAC",
-"title": "KLA: 3 Key Takeaways for Long-Term Investors",
-"url": "https://www.fool.com/earnings/takeaways/2026/11/24/kla-3-key-takeaways-for-long-term-investors/",
-"pub": "2026-11-24T16:35:02+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-24T17:44:03+00:00"
-},
-{
-"id": "7f9e510fdf24",
-"t": "META",
-"title": "META Rides on Strong Demand in Ad Business: Can It Beat RDDT and SNAP?",
-"url": "https://finance.yahoo.com/media-advertising/articles/meta-rides-strong-demand-ad-163500234.html",
-"pub": "2026-11-24T16:35:00+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-24T17:44:03+00:00"
-},
-{
-"id": "c326961bd03d",
-"t": "KO",
-"title": "Can Coca-Cola Navigate Rising Costs While Protecting Margins?",
-"url": "https://finance.yahoo.com/markets/stocks/articles/coca-cola-navigate-rising-costs-163500208.html",
-"pub": "2026-11-24T16:35:00+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-24T17:44:03+00:00"
-},
-{
-"id": "7f667f8c63e3",
-"t": "SPCX",
-"title": "At Today’s Prices, a Tesla Share Is Worth 3 SpaceX Shares. One Tesla Bull Wants 4.2",
-"url": "https://www.tikr.com/blog/at-todays-prices-a-tesla-share-is-worth-3-spacex-shares-one-tesla-bull-wants-4-2",
-"pub": "2026-11-24T16:34:12+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-24T16:44:26+00:00"
-},
-{
-"id": "d6408084df7d",
-"t": "MU",
-"title": "Micron Stocks Fall 6.63% as Chip Rally Cools Before December 17 Results",
-"url": "https://finance.yahoo.com/markets/stocks/articles/micron-stocks-fall-6-63-163349159.html",
-"pub": "2026-11-24T16:33:49+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-24T16:44:26+00:00"
-},
-{
-"id": "cb2d08de8942",
-"t": "AVGO",
-"title": "Wall Street May Not Be Ready for What’s Coming Next for These 3 AI Stocks",
-"url": "https://247wallst.com/investing/2026/11/24/wall-street-may-not-be-ready-for-whats-coming-next-for-these-3-ai-stocks/",
-"pub": "2026-11-24T16:33:13+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-24T16:44:26+00:00"
-},
-{
-"id": "8ced049d9799",
-"t": "KO",
-"title": "Is PepsiCo Sacrificing Pricing Power to Regain Snack Volumes?",
-"url": "https://finance.yahoo.com/markets/stocks/articles/pepsico-sacrificing-pricing-power-regain-163200430.html",
-"pub": "2026-11-24T16:32:00+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-24T17:44:03+00:00"
-},
-{
-"id": "7cedeb21d6cb",
-"t": "NVDA",
-"title": "All the Drama: Jensen, GTA VI, and the Thanksgiving Box Office Show",
-"url": "https://www.wallstreethorizon.com/blog/All-the-Drama-Jensen-GTA-VI-and-the-Thanksgiving-Box-Office-Show",
-"pub": "2026-11-24T16:31:14+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-24T16:44:26+00:00"
-},
-{
-"id": "564427386caf",
-"t": "CRM",
-"title": "Bending Spoons (BSP) Stock Is Down 12.2% Today Without Company News",
-"url": "https://finance.yahoo.com/markets/stocks/articles/bending-spoons-bsp-stock-down-163104340.html",
-"pub": "2026-11-24T16:31:04+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-24T17:29:04+00:00"
-},
-{
-"id": "b72b8159f171",
-"t": "GLW",
-"title": "Littelfuse (LFUS) Stock Is Down 7.9% Today Amid Tech Selloff",
-"url": "https://finance.yahoo.com/markets/stocks/articles/littelfuse-lfus-stock-down-7-163103816.html",
-"pub": "2026-11-24T16:31:03+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-24T16:44:26+00:00"
-},
-{
-"id": "cacbe5279292",
-"t": "GLW",
-"title": "Why Is Knowles (KN) Stock Down Today? Tech Selloff Hits Component Makers",
-"url": "https://finance.yahoo.com/markets/stocks/articles/why-knowles-kn-stock-down-163101980.html",
-"pub": "2026-11-24T16:31:01+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-24T16:44:26+00:00"
-},
-{
-"id": "f698f39568c1",
-"t": "VRT",
-"title": "Comfort Systems vs. Vertiv: Which AI Cooling Stock Is a Better Buy?",
-"url": "https://finance.yahoo.com/technology/ai/articles/comfort-systems-vs-vertiv-ai-163100993.html",
-"pub": "2026-11-24T16:31:00+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-24T17:44:03+00:00"
-},
-{
-"id": "141621b80c55",
-"t": "MU",
-"title": "Why Is Entegris (ENTG) Stock Down Today? Chip Selloff Drags Down Suppliers",
-"url": "https://finance.yahoo.com/markets/stocks/articles/why-entegris-entg-stock-down-163054477.html",
-"pub": "2026-11-24T16:30:54+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-24T16:44:26+00:00"
-},
-{
-"id": "51878fa31b53",
-"t": "NVDA",
-"title": "Benchmark Electronics (BHE) Stock Is Down 8.4% Today Along With Tech Selloff",
-"url": "https://finance.yahoo.com/markets/stocks/articles/benchmark-electronics-bhe-stock-down-163050697.html",
-"pub": "2026-11-24T16:30:50+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-24T16:44:26+00:00"
-},
-{
-"id": "d8b63daf1bfe",
-"t": "CME",
-"title": "What Just Happened To Coinbase Stock?",
-"url": "https://www.trefis.com/stock/coin/articles/628640/what-just-happened-to-coinbase-stock/2026-11-24",
-"pub": "2026-11-24T16:30:49+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-24T17:29:04+00:00"
-},
-{
-"id": "71f75d0eb692",
-"t": "REGN",
-"title": "Prelude Therapeutics (PRLD) Stock Is Up 18.3% Today Without Company News",
-"url": "https://finance.yahoo.com/markets/stocks/articles/prelude-therapeutics-prld-stock-18-163046267.html",
-"pub": "2026-11-24T16:30:46+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-24T16:44:26+00:00"
-},
-{
-"id": "8fc93f50ec1d",
-"t": "NTAP",
-"title": "Why Is NetApp (NTAP) Stock Down Today? Tech Selloff Drags Storage Shares",
-"url": "https://finance.yahoo.com/markets/stocks/articles/why-netapp-ntap-stock-down-163046725.html",
-"pub": "2026-11-24T16:30:46+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-24T17:29:04+00:00"
-},
-{
-"id": "897b00f2be92",
-"t": "REGN",
-"title": "Jasper Therapeutics (JSPR) Stock Is Up 19.8% Today Without Company News",
-"url": "https://finance.yahoo.com/markets/stocks/articles/jasper-therapeutics-jspr-stock-19-163033977.html",
-"pub": "2026-11-24T16:30:33+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-24T16:44:26+00:00"
-},
-{
-"id": "07d24712f6e9",
-"t": "MU",
-"title": "Why Lattice Semiconductor (LSCC) Stock Is Down Today: Chip Stocks Sell Off",
-"url": "https://finance.yahoo.com/markets/stocks/articles/why-lattice-semiconductor-lscc-stock-163030189.html",
-"pub": "2026-11-24T16:30:30+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-24T16:44:26+00:00"
-},
-{
-"id": "7a1a4463e5ef",
-"t": "MU",
-"title": "Why Is Diodes (DIOD) Stock Down Today? Chip Selloff Drags Semiconductor Stocks",
-"url": "https://finance.yahoo.com/markets/stocks/articles/why-diodes-diod-stock-down-163030450.html",
-"pub": "2026-11-24T16:30:30+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-24T16:44:26+00:00"
-},
-{
-"id": "fac3fe619b77",
-"t": "TSM",
-"title": "EMQQ Global on emerging markets and the AI opportunity",
-"url": "https://finance.yahoo.com/video/emqq-global-emerging-markets-ai-163006226.html",
-"pub": "2026-11-24T16:30:06+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-24T17:14:02+00:00"
-},
-{
-"id": "511737b5572d",
-"t": "NVDA",
-"title": "Not Good: Trump Administration Blacklists an Alibaba Unit Over AI Chips. Alibaba’s Cloud Plan Was Already Shrinking",
-"url": "https://www.tikr.com/blog/not-good-trump-administration-blacklists-an-alibaba-unit-over-ai-chips-alibabas-cloud-plan-was-already-shrinking",
-"pub": "2026-11-24T16:28:39+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-24T16:44:26+00:00"
-},
-{
-"id": "a6196399b783",
-"t": "GOOGL",
-"title": "Anthropic Broke Its $83 IPO Price Overnight. Jim Cramer Blames “the Achilles Heel of Overnight Trading”",
-"url": "https://www.tikr.com/blog/anthropic-broke-its-83-ipo-price-overnight-jim-cramer-blames-the-achilles-heel-of-overnight-trading",
-"pub": "2026-11-24T16:28:08+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-24T16:44:26+00:00"
-},
-{
-"id": "f8f00fa6a762",
-"t": "COP",
-"title": "Can Elevated Oil Prices Drive Equinor's Upstream Profitability Higher?",
-"url": "https://finance.yahoo.com/energy/articles/elevated-oil-prices-drive-equinors-162800056.html",
-"pub": "2026-11-24T16:28:00+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-24T18:14:24+00:00"
-},
-{
-"id": "5f7400def739",
-"t": "NVDA",
-"title": "Anduril’s Palmer Luckey Thinks “Most AI Is Going to Run Locally.” That’s a Bet on Apple",
-"url": "https://www.tikr.com/blog/andurils-palmer-luckey-thinks-most-ai-is-going-to-run-locally-thats-a-bet-on-apple",
-"pub": "2026-11-24T16:27:37+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-24T16:44:26+00:00"
-},
-{
-"id": "7e1b29ae34c5",
-"t": "ORCL",
-"title": "HPE Stock Falls 7% After Hours Despite 50% Revenue Growth and a Raised Outlook",
-"url": "https://247wallst.com/investing/2026/11/24/hpe-stock-falls-7-after-hours-despite-50-revenue-growth-and-a-raised-outlook/",
-"pub": "2026-11-24T16:27:34+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-24T16:44:26+00:00"
-},
-{
-"id": "dfcf221800ff",
-"t": "META",
-"title": "These Vertical Software Stocks Could Be AI’s Next Winners, Morgan Stanley Says",
-"url": "https://finance.yahoo.com/m/68006a07-be9e-35d7-90c6-4361cc11e9d0/these-vertical-software.html",
-"pub": "2026-11-24T16:27:00+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-24T17:44:03+00:00"
-},
-{
-"id": "2eea7a5d493c",
-"t": "ILMN",
-"title": "Illumina (ILMN) Rallied in Q3 as Clinical Momentum Outperforms Competitive Risks",
-"url": "https://finance.yahoo.com/healthcare/articles/illumina-ilmn-rallied-q3-clinical-162630869.html",
-"pub": "2026-11-24T16:26:30+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-24T17:29:04+00:00"
-},
-{
-"id": "3f9c596cdee8",
-"t": "COP",
-"title": "ConocoPhillips' $4.425B Asset Sale: Can It Boost Shareholder Returns?",
-"url": "https://finance.yahoo.com/energy/articles/conocophillips-4-425b-asset-sale-162500237.html",
-"pub": "2026-11-24T16:25:00+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-24T18:14:24+00:00"
-},
-{
-"id": "9de6409bfd2b",
-"t": "ISRG",
-"title": "Medtronic’s High Expectations Leave Little Room for a Revenue Miss",
-"url": "https://finance.yahoo.com/m/26e1bb91-481d-345a-8d3c-3e583c3c79ab/medtronic%E2%80%99s-high-expectations.html",
-"pub": "2026-11-24T16:24:00+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-24T17:44:03+00:00"
-},
-{
-"id": "df8e2c578468",
-"t": "STRL",
-"title": "Can AECOM's Adani Deal Expand Its India Infrastructure Footprint?",
-"url": "https://finance.yahoo.com/energy/articles/aecoms-adani-deal-expand-india-162400357.html",
-"pub": "2026-11-24T16:24:00+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-24T17:44:03+00:00"
-},
-{
-"id": "8948de08332a",
-"t": "GOOGL",
-"title": "The Fed Just Said AI May Be a Major Threat to the U.S. Economy",
-"url": "https://247wallst.com/investing/2026/11/24/the-fed-just-said-ai-may-be-a-major-threat-to-the-u-s-economy/",
-"pub": "2026-11-24T16:22:24+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-24T16:32:44+00:00"
-},
-{
-"id": "0d9a3b5e7f11",
-"t": "AVGO",
-"title": "Even With Jensen Huang Back as CEO, Nvidia Is Down 31% From Its High, While Broadcom Is Down 35%. Here’s the Better Buy Now.",
-"url": "https://www.fool.com/investing/2026/11/24/even-with-jensen-huang-back-as-ceo-nvidia-is-down-31-from-its-high-while-broadcom-is-down-35-here-s-the-better-buy-now/",
-"pub": "2026-11-24T16:22:02+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-24T16:32:44+00:00"
-},
-{
-"id": "f2c9aaedaf9e",
-"t": "JPM",
-"title": "JPMorgan Dallas Hub Targets Private Equity and Hedge Funds",
-"url": "https://www.credaily.com/briefs/jpmorgan-dallas-hub-targets-private-equity-and-hedge-funds/",
-"pub": "2026-11-24T16:21:25+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-24T17:14:02+00:00"
-},
-{
-"id": "9d684c0ad7a6",
-"t": "AMGN",
-"title": "Novo vs. Amgen: Which Healthcare Stock Is the Better Buy Now?",
-"url": "https://finance.yahoo.com/healthcare/articles/novo-vs-amgen-healthcare-stock-162100037.html",
-"pub": "2026-11-24T16:21:00+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-24T17:29:04+00:00"
-},
-{
-"id": "4fe6b03feaf3",
-"t": "NVDA",
-"title": "If I Could Buy Just 1 Dividend King With $1,000 This Month, It Would Be This One",
-"url": "https://www.fool.com/investing/2026/11/24/if-i-could-buy-just-1-dividend-king-with-1000-this-month-it-would-be-this-one/",
-"pub": "2026-11-24T16:20:59+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-24T16:32:44+00:00"
-},
-{
-"id": "dab9500775f9",
-"t": "SPCX",
-"title": "Elon Musk Secretly Knows Grok Is Trash",
-"url": "https://app.moby.co/home/news/news-elon-musk-secretly-knows-grok-is-trash",
-"pub": "2026-11-24T16:20:20+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-24T16:32:44+00:00"
-},
-{
-"id": "c95ff74ce473",
-"t": "GOOGL",
-"title": "What Moved Meta Stock?",
-"url": "https://www.trefis.com/stock/meta/articles/628634/what-moved-meta-stock/2026-11-24",
-"pub": "2026-11-24T16:20:06+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-24T16:44:26+00:00"
-},
-{
-"id": "69bfda164f46",
-"t": "NVDA",
-"title": "Lucid Cut Its Cash Burn 30%. Is It Finally Turning a Corner?",
-"url": "https://www.fool.com/investing/2026/11/24/lucid-cut-its-cash-burn-30-is-it-finally-turning-a-corner/",
-"pub": "2026-11-24T16:20:02+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-24T16:32:44+00:00"
-},
-{
-"id": "431244cce381",
-"t": "NVDA",
-"title": "Nvidia keeps saying it’s not Enron, but it just brought back a disgraced CEO — as Enron did months before its bankruptcy",
-"url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-keeps-saying-not-enron-162000769.html",
-"pub": "2026-11-24T16:20:00+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-24T16:32:44+00:00"
-},
-{
-"id": "28ee9f673949",
-"t": "CRM",
-"title": "NOW's Subscription Growth: Will Strong Retention Sustain Momentum?",
-"url": "https://finance.yahoo.com/markets/stocks/articles/nows-subscription-growth-strong-retention-162000952.html",
-"pub": "2026-11-24T16:20:00+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-24T17:29:04+00:00"
-},
-{
-"id": "405f637eccfc",
-"t": "NVDA",
-"title": "Kohl's Stock Rocks on Tuesday. Here's Why.",
-"url": "https://www.fool.com/investing/2026/11/24/kohl-s-stock-rocks-on-tuesday-here-s-why/",
-"pub": "2026-11-24T16:19:48+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-24T16:32:44+00:00"
-},
-{
-"id": "83a85a63c2e3",
-"t": "NVDA",
-"title": "NVIDIA Stocks Fall 5.11% as Washington Keeps Pressure After Huang's Return",
-"url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-stocks-fall-5-11-161858034.html",
-"pub": "2026-11-24T16:18:58+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-24T16:32:44+00:00"
-},
-{
-"id": "bfc9589804f0",
-"t": "SHOP",
-"title": "Shopify's Global Expansion Gains Pace: Can It Fuel More Growth?",
-"url": "https://finance.yahoo.com/markets/stocks/articles/shopifys-global-expansion-gains-pace-161800441.html",
-"pub": "2026-11-24T16:18:00+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-24T17:29:04+00:00"
-},
-{
-"id": "978148e615b6",
-"t": "BAH",
-"title": "BAH Stock Gains 12% in 3 Months: Here's What Investors Should Know",
-"url": "https://finance.yahoo.com/markets/stocks/articles/bah-stock-gains-12-3-161700166.html",
-"pub": "2026-11-24T16:17:00+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-24T17:44:03+00:00"
-},
-{
-"id": "e96dca45b0d1",
-"t": "ARGX",
-"title": "European Equities Traded in the US as American Depositary Receipts Slip in Tuesday Trading",
-"url": "https://finance.yahoo.com/markets/world-indices/articles/european-equities-traded-us-american-161635354.html",
-"pub": "2026-11-24T16:16:35+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-24T16:32:44+00:00"
-},
-{
-"id": "3b0decb6e00f",
-"t": "NVDA",
-"title": "Fluence Energy Q4 Earnings Call Highlights",
-"url": "https://www.marketbeat.com/instant-alerts/transcript-fluence-energy-q4-earnings-call-highlights-2026-11-24/",
-"pub": "2026-11-24T16:16:26+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-24T16:32:44+00:00"
-},
-{
-"id": "52348f435bdd",
-"t": "NVDA",
-"title": "Not Crypto. Not Gold. Not Silver. This Is the Safe-Haven Asset I'd Pile Money Into Right Now",
-"url": "https://www.fool.com/investing/2026/11/24/not-crypto-not-gold-not-silver-this-is-the-safe-haven-asset-i-d-pile-money-into-right-now/",
-"pub": "2026-11-24T16:16:02+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-24T16:32:44+00:00"
-},
-{
-"id": "b1d5ca10fff0",
-"t": "CBRS",
-"title": "CEO of $21 billion Cerebras says it’s minted 1,000 employees into millionaires—but warns that drastic changes in fortunes can be ‘really stressful’",
-"url": "https://finance.yahoo.com/markets/stocks/articles/ceo-21-billion-cerebras-says-161525759.html",
-"pub": "2026-11-24T16:15:25+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-24T19:44:00+00:00"
+"id": "1c12465300be",
+"t": "",
+"title": "ECB's Kocher: Demand not driving prices at the moment",
+"url": "https://www.financialjuice.com/News/9867592/ECBs-Kocher-Demand-not-driving-prices-at-the-moment.aspx?xy=rss",
+"pub": "2026-11-25T11:03:49+00:00",
+"src": "FinancialJuice",
+"kind": "market",
+"seen": "2026-11-25T11:14:11+00:00"
+},
+{
+"id": "09002a44a3a4",
+"t": "",
+"title": "ECB's Kocher: Economy is resilient, but it's still fragile",
+"url": "https://www.financialjuice.com/News/9867591/ECBs-Kocher-Economy-is-resilient-but-its-still-fragile.aspx?xy=rss",
+"pub": "2026-11-25T11:03:38+00:00",
+"src": "FinancialJuice",
+"kind": "market",
+"seen": "2026-11-25T11:14:11+00:00"
+},
+{
+"id": "6d280d651157",
+"t": "",
+"title": "ECB's Kocher: ECB should err on the prudent side and not act too late",
+"url": "https://www.financialjuice.com/News/9867590/ECBs-Kocher-ECB-should-err-on-the-prudent-side-and-not-act-too-late.aspx?xy=rss",
+"pub": "2026-11-25T11:03:27+00:00",
+"src": "FinancialJuice",
+"kind": "market",
+"seen": "2026-11-25T11:14:11+00:00"
+},
+{
+"id": "87917b72cbf8",
+"t": "",
+"title": "ECB's Kocher: Market pricing doesn't seem completely unreasonable",
+"url": "https://www.financialjuice.com/News/9867589/ECBs-Kocher-Market-pricing-doesnt-seem-completely-unreasonable.aspx?xy=rss",
+"pub": "2026-11-25T11:03:09+00:00",
+"src": "FinancialJuice",
+"kind": "market",
+"seen": "2026-11-25T11:14:11+00:00"
+},
+{
+"id": "d2a1a99bca65",
+"t": "",
+"title": "Copper Slumps Amid AI Roller Coaster But Physical Supply Remains Tight",
+"url": "https://www.wsj.com/finance/commodities-futures/copper-slumps-amid-ai-roller-coaster-but-physical-supply-remains-tight-14fd2a91",
+"pub": "2026-11-25T11:03:00+00:00",
+"src": "WSJ",
+"kind": "market",
+"seen": "2026-11-25T11:14:11+00:00"
+},
+{
+"id": "a8faec5ebd45",
+"t": "",
+"title": "ECB's Kocher: ECB likely to revise inflation outlook up in December",
+"url": "https://www.financialjuice.com/News/9867588/ECBs-Kocher-ECB-likely-to-revise-inflation-outlook-up-in-December.aspx?xy=rss",
+"pub": "2026-11-25T11:03:00+00:00",
+"src": "FinancialJuice",
+"kind": "market",
+"seen": "2026-11-25T11:14:11+00:00"
+},
+{
+"id": "461596d8488d",
+"t": "",
+"title": "ECB's Kocher: Clearer picture on 2nd-round effects in 1h 2027",
+"url": "https://www.financialjuice.com/News/9867586/ECBs-Kocher-Clearer-picture-on-2nd-round-effects-in-1h-2027.aspx?xy=rss",
+"pub": "2026-11-25T11:02:26+00:00",
+"src": "FinancialJuice",
+"kind": "market",
+"seen": "2026-11-25T11:14:11+00:00"
+},
+{
+"id": "71cae1b8a77f",
+"t": "",
+"title": "The Car Industry Has a Seat-Belt Problem It Can’t Fix",
+"url": "https://www.wsj.com/personal-finance/the-car-industry-has-a-seat-belt-problem-it-cant-fix-0aa4be6e",
+"pub": "2026-11-25T11:02:00+00:00",
+"src": "WSJ",
+"kind": "market",
+"seen": "2026-11-25T11:14:11+00:00"
+},
+{
+"id": "ceffcc70c6f7",
+"t": "",
+"title": "ECB's Kocher: We shouldn't fall behind the curve on rates",
+"url": "https://www.financialjuice.com/News/9867572/ECBs-Kocher-We-shouldnt-fall-behind-the-curve-on-rates.aspx?xy=rss",
+"pub": "2026-11-25T11:01:09+00:00",
+"src": "FinancialJuice",
+"kind": "market",
+"seen": "2026-11-25T11:14:11+00:00"
+},
+{
+"id": "3233fc7cc942",
+"t": "",
+"title": "Jamie Dimon Loved Britain—Until It Raised Taxes on JPMorgan",
+"url": "https://www.wsj.com/finance/banking/jamie-dimon-loved-britainuntil-it-raised-taxes-on-jpmorgan-3462d7b6",
+"pub": "2026-11-25T11:00:00+00:00",
+"src": "WSJ",
+"kind": "market",
+"seen": "2026-11-25T11:14:11+00:00"
+},
+{
+"id": "1118ddb6ca67",
+"t": "",
+"title": "Norway’s Budget Deal Leaves Ruling Party Short of Majority",
+"url": "https://www.bloomberg.com/news/articles/2026-11-25/norway-s-budget-deal-leaves-ruling-party-short-of-majority",
+"pub": "2026-11-25T10:59:28+00:00",
+"src": "Bloomberg",
+"kind": "market",
+"seen": "2026-11-25T11:14:11+00:00"
+},
+{
+"id": "e5e11e9237e6",
+"t": "",
+"title": "ECB Can’t Fall Behind Curve on Interest Rates, Kocher Says",
+"url": "https://www.bloomberg.com/news/articles/2026-11-25/ecb-can-t-fall-behind-curve-on-interest-rates-kocher-says",
+"pub": "2026-11-25T10:58:52+00:00",
+"src": "Bloomberg",
+"kind": "market",
+"seen": "2026-11-25T11:14:11+00:00"
+},
+{
+"id": "acc50270f78e",
+"t": "",
+"title": "Private capital investment in emerging markets jumps 19% on China tech, infrastructure - Reuters",
+"url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxObXBydEpObl9hXzhJNnhkZHFqNjI1Zy1xS2VUdEUzMV9fOWtKTHcteFpXS0tReVFjY3hjYXhDT1l1RExrNnVpUHQ4M3M0dUNtUGhlMHV3d3dhZTlhWEh4ZjZyNkstUzdpbmdIMmczRGFObUFoWlprNi10cGh6eFN5YW1KVWQwZ3QxLTBxT2xvMUdXWUQ3SEhySXRpV3Z3ODZVaDgzTVE0bkVGQUJmSDcxeklPbWNEZlR5Y3EtbHB4c19aWEoxaVYyMw?oc=5",
+"pub": "2026-11-25T10:50:09+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-25T11:14:11+00:00"
 },
 {
 "id": "fb77ff20c83a",
@@ -8140,6 +8270,16 @@
 "seen": "2026-11-25T10:14:06+00:00"
 },
 {
+"id": "ad9bc4e7137b",
+"t": "",
+"title": "Ukrainian drones attacked industrial facilities in Russia's Syzran, authorities say - Reuters",
+"url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQbTlITFFXWWRkdlF3THc1WXhJTWxOWEJBSWhLdFZIWnN5WkR3UmRiVC1WX19hUk9FRG9BaFp0WmdpNEEtVlM2TG5NUDFRSGlyWldZSmF2MWstbDZiUS1ROGMydkdoRUV6UVBGMGFHVm9TSndYajcyejVIdW54VktMcVZ4YWNINXM1aHU1cmR4VFVUM3NxSFh5NnNrSFZuNWpCMHZSYkRvckFnMXRVME9BZGpCcjJIaDl2bjA4Q1NfN1VtNnF4Uk00Tk5sMHVxX1E?oc=5",
+"pub": "2026-11-25T09:51:46+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-25T11:14:11+00:00"
+},
+{
 "id": "8719a3121b1b",
 "t": "",
 "title": "South Africa Needs Strong Fiscal Rule to Boost Reforms, IMF Says",
@@ -8248,6 +8388,16 @@
 "src": "Bloomberg",
 "kind": "market",
 "seen": "2026-11-25T09:44:37+00:00"
+},
+{
+"id": "b147d95b64c6",
+"t": "",
+"title": "6279.JNX - | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNbE9WLS1nWEl6M0gzbWtjd0Q0c3c2bEpiU2llSWV5b0dqTmljZVZMY0tVeEZyOFBKTGFPWVR1VjVrcnJDVmJFdTZRdEpDU1BiUTVXeGxlWjRtWFlQLXpQVk5SQTFpQ0Yydi0yb2lVWTJCS0RjbDVNbHU5X1RQM3ZXMXFyaDF1bmZoZ0E?oc=5",
+"pub": "2026-11-25T08:39:18+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-25T11:14:11+00:00"
 },
 {
 "id": "4d7fe3e8603f",
@@ -9278,6 +9428,16 @@
 "src": "Bloomberg",
 "kind": "market",
 "seen": "2026-11-25T04:02:08+00:00"
+},
+{
+"id": "4d9acdcdbcae",
+"t": "",
+"title": "Arlo Technologies, Inc. (ARLO.P) | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1pc01hT0lrQWxaVlRNRjZyY20xbFk3TTZIYXZ4Y2MySVV4VERBMWxBOXd3aEZreEdQS050RGoyT3REWXJnMVJUVnpNOFRSZkxMSXNqODl0T0g3Q0I3Zmx0MUFBblJCR2tCZWRpNzBn?oc=5",
+"pub": "2026-11-25T03:56:49+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-25T11:14:11+00:00"
 },
 {
 "id": "3ebd3d1368bf",
@@ -10858,166 +11018,6 @@
 "src": "FinancialJuice",
 "kind": "market",
 "seen": "2026-11-24T20:14:02+00:00"
-},
-{
-"id": "f1b282db0b10",
-"t": "",
-"title": "7983.JNF - | Stock Price & Latest News - Reuters",
-"url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPUnloX3N4N09VbkRKT2ZvUF9IN1VsQmE1QzlXZDMxX25zZjFmeGh0MUlaNXBic1dfRGxnblU3MGNMdWVKMTB0bVJyQjFpV051TG53Q2xOSlMwY0k1WndVX1FFUjU1XzNfNmx3SDc5XzIwcDF0b1VPMUpuUEdKNThTTzRiWlNpRHM?oc=5",
-"pub": "2026-11-24T19:38:20+00:00",
-"src": "Reuters",
-"kind": "market",
-"seen": "2026-11-24T22:33:52+00:00"
-},
-{
-"id": "a2bd075495f3",
-"t": "",
-"title": "Most Fed Regional Boards Wanted to Raise Rates in October",
-"url": "https://www.bloomberg.com/news/articles/2026-11-24/most-fed-regional-boards-wanted-to-raise-rates-in-october",
-"pub": "2026-11-24T19:36:40+00:00",
-"src": "Bloomberg",
-"kind": "market",
-"seen": "2026-11-24T19:44:00+00:00"
-},
-{
-"id": "4c175e13b051",
-"t": "",
-"title": "Rallis India Ltd (RALL.NS) | Stock Price & Latest News - Reuters",
-"url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1lTGZaZjlnNEJOR20wWE5TZGppSmo4NDlJNm1LZ0JmSUY1V3NrTVAzS2FMeGFBVVlEZ3M1R0t6UHVfRnlEMzZJWm44U28zZS1iTzJSOTFPYXQ3VDdSZWJZNGwydmtMTjBHV1hjTg?oc=5",
-"pub": "2026-11-24T19:35:03+00:00",
-"src": "Reuters",
-"kind": "market",
-"seen": "2026-11-24T22:44:05+00:00"
-},
-{
-"id": "6cfd54ee7337",
-"t": "",
-"title": "Michael Page PLC (PAGE.L) | Stock Price & Latest News - Reuters",
-"url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBzQy1reEZqWHFscmJaYzVNdV81OUFBcTdPWXhsendYZGN4VU5ER1d1R0REM2J3QWIwUDdOWll6djBoN1NjV1QwNG4tci1EellpVm1Cc3dxLWZwbjFmRHc?oc=5",
-"pub": "2026-11-24T19:34:31+00:00",
-"src": "Reuters",
-"kind": "market",
-"seen": "2026-11-24T20:32:16+00:00"
-},
-{
-"id": "2838efba22cd",
-"t": "",
-"title": "BoC's Gov. Macklem press conference ends.",
-"url": "https://www.financialjuice.com/News/9866625/BoCs-Gov-Macklem-press-conference-ends.aspx?xy=rss",
-"pub": "2026-11-24T19:33:57+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-24T19:35:01+00:00"
-},
-{
-"id": "445d49f8e362",
-"t": "",
-"title": "US Spy Agencies suffer breach of unclassified information - NYT.",
-"url": "https://www.financialjuice.com/News/9866624/US-Spy-Agencies-suffer-breach-of-unclassified-information---NYT.aspx?xy=rss",
-"pub": "2026-11-24T19:32:30+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-24T19:35:01+00:00"
-},
-{
-"id": "0ad272c6a05c",
-"t": "",
-"title": "BoC's Gov. Macklem: I don't expect the exchange rate pass-through will be a big factor.",
-"url": "https://www.financialjuice.com/News/9866623/BoCs-Gov-Macklem-I-dont-expect-the-exchange-rate-pass-through-will-be-a-big-factor.aspx?xy=rss",
-"pub": "2026-11-24T19:32:15+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-24T19:35:01+00:00"
-},
-{
-"id": "93dad5038e2c",
-"t": "",
-"title": "Canadian dollar hits 11-day high as investors raise BoC rate hike bets - Reuters",
-"url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQZnA4Z09LNE81VEdjeHA3QmgzbXQ2ZGRtOEMwQUpRYTA5UUN6WnNvN0dlS0p6LW9saDNRUzVodE9OdnREMThQOHhYTzNWdUhnb291VHZkRW1IZHE4akJpRDE5OGtMM2FiTUNUN0RwYmRJcVlDNTc5TW11NWF6VzB1RmF3bnNUVkpNbldqZ3VQSTc5TVlweFQzaXhDUWZsdkNXaDZ1T0tTODdyR0I4RFZBOVBZdzU?oc=5",
-"pub": "2026-11-24T19:32:02+00:00",
-"src": "Reuters",
-"kind": "market",
-"seen": "2026-11-24T20:14:02+00:00"
-},
-{
-"id": "0ab654bde879",
-"t": "",
-"title": "Nasdaq Resumes Selloff as Nvidia, Anthropic Shares Slump",
-"url": "https://www.wsj.com/finance/stocks/nasdaq-futures-fall-as-questions-linger-over-ai-trade-68ba6d71",
-"pub": "2026-11-24T19:32:00+00:00",
-"src": "WSJ",
-"kind": "market",
-"seen": "2026-11-24T22:14:12+00:00"
-},
-{
-"id": "5cb263ed36b3",
-"t": "",
-"title": "NYMEX Natural Gas December futures settle at $3.3230/MMBtu.",
-"url": "https://www.financialjuice.com/News/9866622/NYMEX-Natural-Gas-December-futures-settle-at-33230MMBtu.aspx?xy=rss",
-"pub": "2026-11-24T19:31:56+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-24T19:35:01+00:00"
-},
-{
-"id": "b7523cdf0d40",
-"t": "",
-"title": "Canadian Dollar Gains Most Since August on BOC Inflation Warning",
-"url": "https://www.bloomberg.com/news/articles/2026-11-24/canadian-dollar-gains-most-since-august-on-boc-inflation-warning",
-"pub": "2026-11-24T19:31:25+00:00",
-"src": "Bloomberg",
-"kind": "market",
-"seen": "2026-11-24T19:44:00+00:00"
-},
-{
-"id": "55fcee71558d",
-"t": "",
-"title": "NYMEX Diesel December futures settle at $3.7030 a gallon.",
-"url": "https://www.financialjuice.com/News/9866610/NYMEX-Diesel-December-futures-settle-at-37030-a-gallon.aspx?xy=rss",
-"pub": "2026-11-24T19:31:20+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-24T19:35:01+00:00"
-},
-{
-"id": "e75e422d15d1",
-"t": "",
-"title": "NYMEX Gasoline December futures settle at $2.4543 a gallon.",
-"url": "https://www.financialjuice.com/News/9866609/NYMEX-Gasoline-December-futures-settle-at-24543-a-gallon.aspx?xy=rss",
-"pub": "2026-11-24T19:31:09+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-24T19:35:01+00:00"
-},
-{
-"id": "76d2846730b8",
-"t": "",
-"title": "NYMEX WTI Crude January futures settle at $82.05 a barrel, up $1.88, 2.35%.",
-"url": "https://www.financialjuice.com/News/9866608/NYMEX-WTI-Crude-January-futures-settle-at-8205-a-barrel-up-188-235.aspx?xy=rss",
-"pub": "2026-11-24T19:31:00+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-24T19:35:01+00:00"
-},
-{
-"id": "1dcf082538c7",
-"t": "",
-"title": "The US and Saudi Arabia discussed the need for Hezbollah’s disarmament in Lebanon.",
-"url": "https://www.financialjuice.com/News/9866603/The-US-and-Saudi-Arabia-discussed-the-need-for-Hezbollahs-disarmament-in-Lebanon.aspx?xy=rss",
-"pub": "2026-11-24T19:27:33+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-24T19:35:01+00:00"
-},
-{
-"id": "dd5568a94194",
-"t": "",
-"title": "Argentina’s Mild September Rebound Boosts Recession Odds",
-"url": "https://www.bloomberg.com/news/articles/2026-11-24/argentina-s-mild-september-rebound-boosts-recession-odds",
-"pub": "2026-11-24T19:26:49+00:00",
-"src": "Bloomberg",
-"kind": "market",
-"seen": "2026-11-24T19:35:01+00:00"
 }
 ]
 }
