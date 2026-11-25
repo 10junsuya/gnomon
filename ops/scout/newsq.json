@@ -1,6 +1,6 @@
 {
-"updated_kst": "2026-11-25 17:44",
-"rot": 71,
+"updated_kst": "2026-11-25 18:06",
+"rot": 131,
 "how": "Scout(프로그램)이 10분마다 모은 기사 제목·링크와 공시예요. Wren이 공식 출처로 확인한 뒤 회사 화면에 한국어로 반영해요. 본문은 받지 않아요.",
 "sources": {
 "Yahoo Finance": "120종목 확인 · 실패 0",
@@ -10,12 +10,52 @@
 "CNBC": "63건",
 "Bloomberg": "40건",
 "WSJ": "61건",
-"Reuters": "54건",
+"Reuters": "100건",
 "FinancialJuice": "100건",
 "SEC EDGAR": "실패 HTTPError",
 "Fox Business": "50건"
 },
 "items": [
+{
+"id": "95322f45f23e",
+"t": "SPY",
+"title": "Most Covered Call ETFs Fall Just as Hard in a Selloff. This One Didn’t",
+"url": "https://247wallst.com/investing/etf/2026/11/25/most-covered-call-etfs-fall-just-as-hard-in-a-selloff-this-one-didnt/",
+"pub": "2026-11-25T09:03:09+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-25T09:06:30+00:00"
+},
+{
+"id": "3e01b8f26fb5",
+"t": "NVDA",
+"title": "Prediction: Here’s What Anthropic’s Valuation Will Be in 2027, According to History",
+"url": "https://www.fool.com/investing/2026/11/25/prediction-heres-what-anthropics-valuation-will-be-in-2027-according-to-history/",
+"pub": "2026-11-25T08:58:02+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-25T09:06:30+00:00"
+},
+{
+"id": "5087c19ce59b",
+"t": "GOOGL",
+"title": "Asia's AI race heads offshore with launch of Floating Data Centres in Singapore",
+"url": "https://finance.yahoo.com/technology/ai/articles/asias-ai-race-heads-offshore-085300682.html",
+"pub": "2026-11-25T08:53:00+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-25T09:06:30+00:00"
+},
+{
+"id": "3cce58d84807",
+"t": "NVDA",
+"title": "IREN Selloff Draws Attention: Grant Cardone Joins Retail Bulls Asking Where The Bottom Is",
+"url": "https://stocktwits.com/news-articles/markets/equity/iren-selloff-draws-attention-grant-cardone-retail-bulls-asking-where-the-bottom-is/cNbHJRhR9lq",
+"pub": "2026-11-25T08:43:21+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-25T09:06:30+00:00"
+},
 {
 "id": "bcd3ebc45ef8",
 "t": "NVDA",
@@ -97,6 +137,16 @@
 "seen": "2026-11-25T08:14:42+00:00"
 },
 {
+"id": "22fd8cfbee1e",
+"t": "BIIB",
+"title": "Michael Kreppel-Friedbichler Appointed New COO of AOP Health",
+"url": "https://finance.yahoo.com/healthcare/articles/michael-kreppel-friedbichler-appointed-coo-080000924.html",
+"pub": "2026-11-25T08:00:00+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-25T09:06:30+00:00"
+},
+{
 "id": "001cd555b79c",
 "t": "NVDA",
 "title": "Will Nvidia Exec Kimberly Powell Leave? Crypto Bettors Weigh Exit Odds Amid Alleged Jensen Huang Affair",
@@ -115,6 +165,16 @@
 "src": "Yahoo Finance",
 "kind": "news",
 "seen": "2026-11-25T07:53:49+00:00"
+},
+{
+"id": "be851c15de9b",
+"t": "DELL",
+"title": "Dell Has 100,000 AI Agents at Work Daily: COO Jeff Clarke Says It Will 'Double That Number in the Next 90 Days'",
+"url": "https://finance.yahoo.com/technology/ai/articles/dell-100-000-ai-agents-073020682.html",
+"pub": "2026-11-25T07:30:20+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-25T09:06:30+00:00"
 },
 {
 "id": "2f87f8b81c02",
@@ -7960,64 +8020,54 @@
 "seen": "2026-11-24T16:15:36+00:00"
 },
 {
-"id": "ff920fab9882",
-"t": "APLD",
-"title": "Why Is Applied Digital Stock Going Up?",
-"url": "https://www.trefis.com/stock/apld/articles/628619/why-is-applied-digital-stock-going-up/2026-11-24",
-"pub": "2026-11-24T15:45:48+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-24T16:44:26+00:00"
+"id": "54d3d7e6505e",
+"t": "",
+"title": "Swiss ZEW Expectations Actual 2.3 (Forecast -, Previous -15.3)",
+"url": "https://www.financialjuice.com/News/9867443/Swiss-ZEW-Expectations-Actual-23-Forecast---Previous--153.aspx",
+"pub": "2026-11-25T09:00:00+00:00",
+"src": "FinancialJuice",
+"kind": "market",
+"seen": "2026-11-25T09:06:30+00:00"
 },
 {
-"id": "aefb2f381aba",
-"t": "GOOGL",
-"title": "Meta Fell 8% Over the Last 30 Days: Mutiple Wall Street Desks Expect 67% Returns From Here",
-"url": "https://247wallst.com/investing/2026/11/24/meta-fell-8-over-the-last-30-days-mutiple-wall-street-desks-expect-67-returns-from-here/",
-"pub": "2026-11-24T15:45:35+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-24T16:15:36+00:00"
+"id": "c377b3e83596",
+"t": "",
+"title": "Why Jensen Huang’s Return to Nvidia Matters for China",
+"url": "https://www.bloomberg.com/news/videos/2026-11-25/why-jensen-huang-s-return-to-nvidia-matters-for-china-video",
+"pub": "2026-11-25T08:59:08+00:00",
+"src": "Bloomberg",
+"kind": "market",
+"seen": "2026-11-25T09:06:30+00:00"
 },
 {
-"id": "3ce2c8a52cbe",
-"t": "VOO",
-"title": "Should You Sell Nvidia Stock At $165?",
-"url": "https://www.trefis.com/stock/nvda/articles/628271/should-you-sell-nvidia-stock-at-165/2026-11-24",
-"pub": "2026-11-24T15:45:13+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-24T16:15:36+00:00"
+"id": "a0dbfdccf950",
+"t": "",
+"title": "Newly-Listed Airtel Mobile to Replace IG Group in FTSE 100 Index Review",
+"url": "https://www.wsj.com/finance/stocks/newly-listed-airtel-mobile-to-replace-ig-group-in-ftse-100-index-review-ad6b860c",
+"pub": "2026-11-25T08:54:00+00:00",
+"src": "WSJ",
+"kind": "market",
+"seen": "2026-11-25T09:06:30+00:00"
 },
 {
-"id": "72448ca15288",
-"t": "ORCL",
-"title": "Oracle Is a Higher-Leverage, Cash-Hungry Twin to Microsoft",
-"url": "https://247wallst.com/investing/2026/11/24/oracle-is-a-higher-leverage-cash-hungry-twin-to-microsoft/",
-"pub": "2026-11-24T15:45:01+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-24T16:15:36+00:00"
+"id": "638d4766eb2c",
+"t": "",
+"title": "China’s Surprise Soyoil Export Boom Cools as India Turns to Palm",
+"url": "https://www.bloomberg.com/news/articles/2026-11-25/china-s-surprise-soyoil-export-boom-cools-as-india-turns-to-palm",
+"pub": "2026-11-25T08:53:51+00:00",
+"src": "Bloomberg",
+"kind": "market",
+"seen": "2026-11-25T09:06:30+00:00"
 },
 {
-"id": "ad43f92aa4c8",
-"t": "MU",
-"title": "Stocks give back gains as Anthropic dips below IPO price",
-"url": "https://finance.yahoo.com/video/stocks-give-back-gains-as-anthropic-dips-below-ipo-price-154408548.html",
-"pub": "2026-11-24T15:44:08+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-24T15:44:24+00:00"
-},
-{
-"id": "9fc1059af408",
-"t": "LRCX",
-"title": "Lam Research Stock Outlook: Is Wall Street Bullish or Bearish?",
-"url": "https://www.barchart.com/story/news/8987042/lam-research-stock-outlook-is-wall-street-bullish-or-bearish",
-"pub": "2026-11-24T15:44:07+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-24T22:14:12+00:00"
+"id": "e3d8f8b76382",
+"t": "",
+"title": "Airline Norse Atlantic says it is in critical financial situation, shares plunge - Reuters",
+"url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQUnBxTTlMWW9sR2p0cHd4OXk3enppYzRYOTFkOENpamtod1VHTExCQjRqZ1cxRWRjZ04wZlp4NzR1SVdQaGpPeWNTLVpmN09fc3R0WGxUMUFUQ0tOekxYV3ZSY2w2WTQtUDR6N2pETVotWWRlV1VrRVhXYTFYY19SRXRfZ3Z5bmFnb2xVVjNjRkJPdG9qRE4yRGxMMVNyMjlEdXBvSEw1SjMxYVFvNjVEckszYw?oc=5",
+"pub": "2026-11-25T08:46:28+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-25T09:06:30+00:00"
 },
 {
 "id": "4d7fe3e8603f",
@@ -8028,6 +8078,16 @@
 "src": "FinancialJuice",
 "kind": "market",
 "seen": "2026-11-25T08:44:35+00:00"
+},
+{
+"id": "660e83168a12",
+"t": "",
+"title": "Asia Finds a Surprise Currency Haven in AI-Defying Rupee",
+"url": "https://www.bloomberg.com/news/articles/2026-11-25/asia-finds-a-surprise-currency-haven-in-ai-defying-rupee",
+"pub": "2026-11-25T08:30:41+00:00",
+"src": "Bloomberg",
+"kind": "market",
+"seen": "2026-11-25T09:06:30+00:00"
 },
 {
 "id": "d5771ad2a63b",
@@ -8470,6 +8530,16 @@
 "seen": "2026-11-25T06:21:17+00:00"
 },
 {
+"id": "01a097a65731",
+"t": "",
+"title": "0998.SZ%5EK01 - | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNT2huY3NlY19JTi0wdVJSeEhUc2ZOdGZKMkk3N1QwREVraDd3endRYUdBeFlYc3RSSFRNbEtiWE1XaWFMYmVnakxwd25SM0xuTnpCVEU4aUc5T25oRzVDV1NuaEF6cHpvN1AxWkFuYlhGU2lnX3VmZlJDQ3Y1bkc0bjFqM3o5QUJRSmJqNFQzWWtwRjFObm9ldg?oc=5",
+"pub": "2026-11-25T06:21:45+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-25T09:06:30+00:00"
+},
+{
 "id": "a4dce750099b",
 "t": "",
 "title": "BoC Interest Rate Probabilities",
@@ -8770,6 +8840,16 @@
 "seen": "2026-11-25T05:44:12+00:00"
 },
 {
+"id": "2ac3a446e190",
+"t": "",
+"title": "Japan Firms Say Rate Hikes Are Starting to Bite, New Study Shows",
+"url": "https://www.bloomberg.com/news/articles/2026-11-25/japan-firms-say-rate-hikes-are-starting-to-bite-new-study-shows",
+"pub": "2026-11-25T05:03:51+00:00",
+"src": "Bloomberg",
+"kind": "market",
+"seen": "2026-11-25T09:06:30+00:00"
+},
+{
 "id": "cbb4215275d0",
 "t": "",
 "title": "Malaysia’s Government Will Likely Serve Full Term: Anwar Adviser",
@@ -8798,6 +8878,16 @@
 "src": "Reuters",
 "kind": "market",
 "seen": "2026-11-25T05:14:58+00:00"
+},
+{
+"id": "17df49e45b63",
+"t": "",
+"title": "Hindustan Composites Ltd (HFRD.BO) | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1lX3ZzVUxBTXd2R0lXNVJKeC1rR3d1MG14Y1JQUHFGZF9jY1Y1OEJYZ1AwaFJfb3V1X2Z3bDhlX0ZyaXd3eXFxeXJuQjZtY0FWMzQ5cVFXRUNQTlktU3JENEJKSGw1MS1XemtsQ09Paw?oc=5",
+"pub": "2026-11-25T04:59:42+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-25T09:06:30+00:00"
 },
 {
 "id": "bee528e1d183",
@@ -8848,6 +8938,16 @@
 "src": "Bloomberg",
 "kind": "market",
 "seen": "2026-11-25T04:44:49+00:00"
+},
+{
+"id": "e0300f9e2172",
+"t": "",
+"title": "Aptus October Deep Buffer ETF (OCDB.N) | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE53R2l2dVRiaWNFT3o0SDdoazRNc2RCempCM2dSYXJMTmoyR2tSMzRPNEZZNjdTb3dqREZfUEdnbEhBanBnYTJxTF93M2RobmRtWUlUMFZ1Uk9paHFGR3FDbkJzWkpub3RfVmVtdw?oc=5",
+"pub": "2026-11-25T04:27:17+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-25T09:06:30+00:00"
 },
 {
 "id": "9756f3dce911",
@@ -8940,6 +9040,16 @@
 "seen": "2026-11-25T07:43:53+00:00"
 },
 {
+"id": "ef745f0a194a",
+"t": "",
+"title": "GMAB.PH - Reuters",
+"url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPbk44ZkU5NXhpZGYyc0w3dEUtTFJBVUt1VmpZOThpeWlSN0xTZlFDcGZxYWlYOGNMN1BXdnJtRTVJZzBiMmVYU3diZEZkZWhYdDE0T0JOQ3VjUWUzSm1TUkp5TURXN2piWnp3c0VkNzNkNHllZWtydGZzUzQ4c0xva1ljRVl4UQ?oc=5",
+"pub": "2026-11-25T03:53:50+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-25T09:06:30+00:00"
+},
+{
 "id": "e93c6bdd77ac",
 "t": "",
 "title": "iShares Core MSCI Europe ETF (IEUR.N) | Stock Price & Latest News - Reuters",
@@ -9010,6 +9120,16 @@
 "seen": "2026-11-25T07:43:53+00:00"
 },
 {
+"id": "182816000ffa",
+"t": "",
+"title": "JP3657500009.TRE - | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5XajlzZXRJQkRUTm9sTUttYWxvU3ZlUFVkTGlrSVRfX3dYdnJvRmw4TG5vWlc1WWxUMTZrX1RoWk9ieHIxMWpuLVhpV0ZpVV9vNUs3ZU1OLXItUW4wM0xaSFNGOHpPVnoyT19kTS16RkZkNFlaWE1rWDVsOA?oc=5",
+"pub": "2026-11-25T03:21:54+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-25T09:06:30+00:00"
+},
+{
 "id": "bf6ead494fe7",
 "t": "",
 "title": "7084.JNF - | Stock Price & Latest News - Reuters",
@@ -9038,6 +9158,16 @@
 "src": "Reuters",
 "kind": "market",
 "seen": "2026-11-25T05:44:12+00:00"
+},
+{
+"id": "c8ee464656cc",
+"t": "",
+"title": "Yorkville America Space Index ETF (YASX.N) | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFByRUFNdlB6Z0tFcEY0SnRfamRLOF9EWFBrMXU5bGVUeTlsdWFTRVplZ04xSDhhZTdWSmt6ZzJwUFd5MElrNWsxbWRsSERkUXNHQ1lWZmVNYVFpTlBYNXc?oc=5",
+"pub": "2026-11-25T03:21:10+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-25T09:06:30+00:00"
 },
 {
 "id": "c287ddd50807",
@@ -9070,6 +9200,26 @@
 "seen": "2026-11-25T07:53:49+00:00"
 },
 {
+"id": "10ce27e1448b",
+"t": "",
+"title": "NPXG.SG - Reuters",
+"url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxObExmZ3ZZemF2VFhQVXFMU2FGWEp0RkhnN2RGOXh3N0ZuVHdQeXZ6MnBRUVFHb21nSl9QeDZyNWFicFpaYVVTV1BBdnZfYW4xZER4cXc5NHFsYUtpeGlTcjI1Yk5oY1FkTVdfMDJQckhPRzU2bC1hYjdBX2NyWFEtdGpuZHQ?oc=5",
+"pub": "2026-11-25T02:57:13+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-25T09:06:30+00:00"
+},
+{
+"id": "a01c00ea16a4",
+"t": "",
+"title": "Ceepower Co Ltd (300062.SZ) | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBoRTJNMFgzcE94aE9BbW80enlvRW94Zm12LTF6V21rMFZscWtjNXJPOU01STFPOUVFSzh4TFlURDd5ajJ3a0ZqLU1yems0OVpYUHFlYTV0cVJueGNyRnkwLXJoakx1OFlOdDJSZUVVUQ?oc=5",
+"pub": "2026-11-25T02:56:50+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-25T09:06:30+00:00"
+},
+{
 "id": "ae0400a3fc50",
 "t": "",
 "title": "61N1.LAS - | Stock Price & Latest News - Reuters",
@@ -9078,6 +9228,16 @@
 "src": "Reuters",
 "kind": "market",
 "seen": "2026-11-25T08:14:42+00:00"
+},
+{
+"id": "0c9b8199c92a",
+"t": "",
+"title": "8082.HS - | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE05TkFpQzBkS3JOZ3JkcTZJOWpVY3NBMjNVSzk2encwakd6Y1BEQ05JVURia1VueG9BR1NWUWZTZU5UMFgzOVBQbld3Q0ZSM0laYnk4RjVCRTV0dkNHWm1YVmtEN19laUhQMDlaYVlVcWQyejdZLXBDUURwWWw?oc=5",
+"pub": "2026-11-25T02:56:28+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-25T09:06:30+00:00"
 },
 {
 "id": "a419d5a0d10d",
@@ -9430,6 +9590,16 @@
 "seen": "2026-11-25T05:44:12+00:00"
 },
 {
+"id": "e5082aeae30e",
+"t": "",
+"title": "HCLI.INx - Reuters",
+"url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE54MkNOMTI4NGRBOXRaNjJkODRfd1NDT1g3a3BoOWcteXh5a29pT1VjUUEzSVdUVUNnWW9kUmg1SUVnbkJzNnkxWjBlX0Rybjl0WGF1ZnF3US1HQUZxV2lKVTRsU2kxblJVdHlzZzJjYVpsR3ZBNXFsNGdUamY2dw?oc=5",
+"pub": "2026-11-25T01:18:51+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-25T09:06:30+00:00"
+},
+{
 "id": "8024553f1207",
 "t": "",
 "title": "Japan’s Service Prices for Businesses Jump by Most in 36 Years",
@@ -9628,6 +9798,16 @@
 "src": "Reuters",
 "kind": "market",
 "seen": "2026-11-25T07:53:49+00:00"
+},
+{
+"id": "b0a32e3d992b",
+"t": "",
+"title": "BSLN.BN - Reuters",
+"url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOTTN4YnZBdHVsN2dYc3NDSV8yb2lvRDVqZUV2NFpMenJXOGlqWHV3VnppbjJyNTBWS1YtTjNIZ1FJM2hfbUhCZG1mQnJ5NTdXWXlOTjUwaVJMbkx2MjVZd0FiUUxCcjVLR2ZSRk53VnNjS3pJSVRZcU1tWHZBdEh1RWZLLVJrUHot?oc=5",
+"pub": "2026-11-24T23:09:25+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-25T09:06:30+00:00"
 },
 {
 "id": "67d2ce40fa29",
@@ -10838,186 +11018,6 @@
 "src": "Reuters",
 "kind": "market",
 "seen": "2026-11-24T22:44:05+00:00"
-},
-{
-"id": "f591d3e2c4bd",
-"t": "",
-"title": "US 5 Yr Note Auction",
-"url": "https://www.financialjuice.com/News/9866510/US-5-Yr-Note-Auction.aspx?xy=rss",
-"pub": "2026-11-24T18:03:21+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-24T18:14:24+00:00"
-},
-{
-"id": "90629685de53",
-"t": "",
-"title": "US 5-Year Note Bid-to-Cover Actual 2.370 (Forecast -, Previous 2.330)",
-"url": "https://www.financialjuice.com/News/9866508/US-5-Year-Note-Bid-to-Cover-Actual-2370-Forecast---Previous-2330.aspx?xy=rss",
-"pub": "2026-11-24T18:02:20+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-24T18:14:24+00:00"
-},
-{
-"id": "4bb1492cace1",
-"t": "",
-"title": "US 5-Year Note High Yield Actual 4.719% (Forecast -, Previous 4.845%)",
-"url": "https://www.financialjuice.com/News/9866507/US-5-Year-Note-High-Yield-Actual-4719-Forecast---Previous-4845.aspx?xy=rss",
-"pub": "2026-11-24T18:02:06+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-24T18:14:24+00:00"
-},
-{
-"id": "6bfb902d8aa4",
-"t": "",
-"title": "Treasury WI 5 Yr yield 4.716% before $70 billion auction.",
-"url": "https://www.financialjuice.com/News/9866490/Treasury-WI-5-Yr-yield-4716-before-70-billion-auction.aspx?xy=rss",
-"pub": "2026-11-24T18:00:18+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-24T18:14:24+00:00"
-},
-{
-"id": "1aa75aaf0c14",
-"t": "",
-"title": "Israeli Defense Minister Katz: Iran believed to be working to develop a dirty bomb. They are moving from enrichment to nuclear weapons - Israel I24 News Reporter on X",
-"url": "https://www.financialjuice.com/News/9866489/Israeli-Defense-Minister-Katz-Iran-believed-to-be-working-to-develop-a-dirty-bomb-They-are-moving-from-enrichment-to-nuclear-weapons---Israel-I24-News-Reporter-on-X.aspx?xy=rss",
-"pub": "2026-11-24T17:58:45+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-24T18:14:24+00:00"
-},
-{
-"id": "27f9cd9c0d48",
-"t": "",
-"title": "Hormuz Strait Authority Blacklists Tugboats, Raising Pressure on Tanker Traffic",
-"url": "https://www.bloomberg.com/news/articles/2026-11-24/iran-adds-tugs-to-hormuz-blacklist-as-pressure-on-shipping-grows",
-"pub": "2026-11-24T17:54:34+00:00",
-"src": "Bloomberg",
-"kind": "market",
-"seen": "2026-11-24T18:14:24+00:00"
-},
-{
-"id": "47f3b68b37e2",
-"t": "",
-"title": "Bank of Canada says it may need to respond forcefully to tackle supply shocks - Reuters",
-"url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNZXJWTV95MWRKQWlGbFV2NnYzWXlrRFFIYmh3NWdYendoNXhmTDVYZFlwMzlsc0FEQ2lHMTkySERsNVptcUpjY1hwYU44VlNjUjRJaXhhdko5S2JmS1FqS1doMXB1aV9fNVNYN2Y4MmtJeDR2VjFkajhQMkx6elVKWnVQU2xQU1hPNG9Wa3FDUTdIVVptTjFfQ09wUG9XQnZJclRUMXhXUEFNeFlRUHdUbFE5Qk16UQ?oc=5",
-"pub": "2026-11-24T17:54:18+00:00",
-"src": "Reuters",
-"kind": "market",
-"seen": "2026-11-24T18:14:24+00:00"
-},
-{
-"id": "15712b742690",
-"t": "",
-"title": "Zelenskyy Says Congress Should Pressure Russia if Trump Talks Fail",
-"url": "https://www.bloomberg.com/news/videos/2026-11-24/zelenskyy-congress-should-press-russia-if-talks-fail-video",
-"pub": "2026-11-24T17:51:47+00:00",
-"src": "Bloomberg",
-"kind": "market",
-"seen": "2026-11-24T18:14:24+00:00"
-},
-{
-"id": "7071a63df8a3",
-"t": "",
-"title": "End-year inflation could be less than forecast, says Bank of Canada - Reuters",
-"url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPVjN2UHQweFRIVFNCMHFhUzk4SjFCSmVRaXU1ZFlRem9SX1BBZ0FpQkZIYjFnUV9TUFlyanJzZ3ZrbktOdE8yaGpKYjBrUDhab0tXYkdiYS0zdkotc0lMV0JaWXNPY2xlSnhHdENkTUQ1VHFmTDRzQkt5Zzh3VlVqWmZyektCRnVLM1hBaWlHZ2dJamNDR09MQnhOWWVib1ZWZWNMcFdPWW1xNXdfci1J?oc=5",
-"pub": "2026-11-24T17:49:37+00:00",
-"src": "Reuters",
-"kind": "market",
-"seen": "2026-11-24T18:14:24+00:00"
-},
-{
-"id": "ec1d572517c1",
-"t": "",
-"title": "Iran claims container ship struck north of Oman's Khasab - IRIB",
-"url": "https://www.financialjuice.com/News/9866488/Iran-claims-container-ship-struck-north-of-Omans-Khasab---IRIB.aspx?xy=rss",
-"pub": "2026-11-24T17:47:42+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-24T18:14:24+00:00"
-},
-{
-"id": "02834215cc94",
-"t": "",
-"title": "Fed bids for 5-year notes total $7.2 bln.",
-"url": "https://www.financialjuice.com/News/9866475/Fed-bids-for-5-year-notes-total-72-bln.aspx?xy=rss",
-"pub": "2026-11-24T17:45:58+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-24T18:14:24+00:00"
-},
-{
-"id": "1b3c8f0c9c76",
-"t": "",
-"title": "300242.ZK - | Stock Price & Latest News - Reuters",
-"url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNLTVzaFIxM2pENXlNRHNmQVRLR1FDNl8yREpueFAzdHJnV0pqbFZqQ0R1dm9TeFZoMmtWS1F1d2NuazNHaXh5X1FyM0VKbm0xeUVINXlWaEx0QV9OLXE3MjhqbUItRXdhb3E5aFV5bi1OZmFVSnVsa21QSkxBS2JjZU9ab2pzei0yR2haLTlROGRUcE0?oc=5",
-"pub": "2026-11-24T17:39:33+00:00",
-"src": "Reuters",
-"kind": "market",
-"seen": "2026-11-25T04:14:49+00:00"
-},
-{
-"id": "232641326867",
-"t": "",
-"title": "Amana Developing World ETF (AMEM.OQ) | Stock Price & Latest News - Reuters",
-"url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBodHhDMUNGQ0hVc3l0SkJyQ0t4RE00VDdxQktydTVZakozTlBQQ2NXcWd0ZHk2VXFsUVhVMXF4Z0RzRUs1Q09IRFpJTGZZWXo1RVh1X3lweFdXWG9faEF0RDFoMjlhQlV2b2JEMWRR?oc=5",
-"pub": "2026-11-24T17:35:16+00:00",
-"src": "Reuters",
-"kind": "market",
-"seen": "2026-11-25T00:26:28+00:00"
-},
-{
-"id": "22638d1d7bfd",
-"t": "",
-"title": "BoC December rate hike chances rise to 80% from 65% after Macklem remarks, swap market data shows.",
-"url": "https://www.financialjuice.com/News/9866470/BoC-December-rate-hike-chances-rise-to-80-from-65-after-Macklem-remarks-swap-market-data-shows.aspx?xy=rss",
-"pub": "2026-11-24T17:33:23+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-24T17:44:03+00:00"
-},
-{
-"id": "4ca40d890f91",
-"t": "",
-"title": "BoC's Gov. Macklem: We will not rely exclusively on the two main core measures.",
-"url": "https://www.financialjuice.com/News/9866464/BoCs-Gov-Macklem-We-will-not-rely-exclusively-on-the-two-main-core-measures.aspx?xy=rss",
-"pub": "2026-11-24T17:28:52+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-24T17:29:04+00:00"
-},
-{
-"id": "c3a48d5e0916",
-"t": "",
-"title": "BoC's Gov. Macklem: Our 2% target applies to total CPI inflation. Core measures are an input into our outlook for total CPI, not a target.",
-"url": "https://www.financialjuice.com/News/9866463/BoCs-Gov-Macklem-Our-2-target-applies-to-total-CPI-inflation-Core-measures-are-an-input-into-our-outlook-for-total-CPI-not-a-target.aspx?xy=rss",
-"pub": "2026-11-24T17:28:41+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-24T17:29:04+00:00"
-},
-{
-"id": "a47a3bec702b",
-"t": "",
-"title": "BoC's Gov. Macklem: We need to communicate more clearly how we use core inflation measures.",
-"url": "https://www.financialjuice.com/News/9866462/BoCs-Gov-Macklem-We-need-to-communicate-more-clearly-how-we-use-core-inflation-measures.aspx?xy=rss",
-"pub": "2026-11-24T17:28:23+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-24T17:29:04+00:00"
-},
-{
-"id": "736ea0e74a22",
-"t": "",
-"title": "BoC's Gov. Macklem: Monetary policy framework has performed well but that doesn't mean we can't do better.",
-"url": "https://www.financialjuice.com/News/9866461/BoCs-Gov-Macklem-Monetary-policy-framework-has-performed-well-but-that-doesnt-mean-we-cant-do-better.aspx?xy=rss",
-"pub": "2026-11-24T17:28:02+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-24T17:29:04+00:00"
 }
 ]
 }
