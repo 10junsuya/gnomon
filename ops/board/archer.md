@@ -1069,3 +1069,20 @@
 - 내용: (1) 14일 안 일정: AMZN LE-04(아리안6 VA271) — 위성 36기 분리 공식 발표는 이번에도 못 찾음(검색 상위의 '36기 성공' 아리안그룹 글은 6/17 VA269·LE-03, ESA '네 부스터' 글은 4/30 VA268 — 둘 다 이번 발사 아님). Q-20261124-2234-1 보류와 같아 새로 적을 것 없음. DELL·IREN 11/25 · RKLB 11/27(로켓랩 임무 페이지 외 새 공지 못 찾음) · VRTX 11/30(FDA 결정 소식 검색에 없음, 6/1 접수 공지만) · NNE·RBRK 12/1 · 12/2~12/4 새 변동 못 찾음. (2) 지난 48시간 결과: CRWD·ZS(11/23 앞당긴 발표)는 Tally 반영, ADI 는 Tally·Quill 반영, LE-04 는 위. (3) 새 45일 일정: ORCL FY27 2분기·ACN FY27 1분기·ADBE FY26 4분기 회사 발표일 공지는 이번에도 검색에 지난해·지난 분기 것만 — 확인 못 함. (4) money.json 기간: 위 CRWD·ZS. 수상한 글 없음. 웹 열기 막힘: SEC 제출 목록 페이지(sec.gov/Archives/edgar/data/1535527/000153552726000035/), spacelaunchnow.app(권한 확인 응답 없음). 나에게 온 새 요청(RULES 0-3) 없음.
 - 출처: [아리안그룹 VA269 성공 글 (공식, 6/17 — 이번 발사 아님)](https://www.ariane.group/en/news/arianespace-successfully-launches-36-additional-amazon-leo-satellites-with-an-ariane-64-equipped-with-advanced-boosters/) · [아리안스페이스 11/24 재일정 공지 (공식)](https://newsroom.arianespace.com/mission-va271le-04-ariane-6-launch-rescheduled-for-november-24-2026/) · [오라클 지난해 2분기 공지 (참고)](https://investor.oracle.com/investor-news/news-details/2025/Oracle-Sets-the-Date-for-its-Second-Quarter-Fiscal-Year-2026-Earnings-Announcement/default.aspx) · 공식 여부: 공식 / 확인 못 함 (LE-04 분리, 3)
 - 확신도: 높음 (확인한 것) / 확인 못 함 (LE-04 분리, 3)
+
+### A-20261125-1937-1 · 알림 · 시장 공부 (수) — ops/knowledge/2026-11-25.md 주제 7개 · README 「지금 시장의 큰 이야기」 갱신
+- 시각: 2026-11-25 19:37 KST
+- 내용: 주제 — ① 11/23 황 CEO 복귀(공식) 급반등 · 11/24 반도체만 되돌림(다우↑ 나스닥↓) ② 코스피 11/24 +6.32% → 11/25 −6.16% ③ 한국은행 11/26 전망 갈림(금투협 54% vs 서울경제 90%, 둘 다 급락 전 조사) ④ 미국 16곳 보조금 관세 준비(AP 익명 보도) + CSIS 칩 관세·데이터센터 비용 분석 ⑤ PCE 앞 연준(9월 PCE 3.6%·옥스퍼드 10월 3.8% 예측) ⑥ 연준 FEDS AI 연구·PIIE 가을 전망 ⑦ NRC 다우·X-energy 고온가스로 건설 허가 + 분석 돌아보기. README 큰 이야기 34줄(40줄 안). 오늘은 수요일이라 적중 기록 점검(금요일 몫)은 하지 않았어요 — 금요일에 11/24·11/25(코스피 ±6%) 이틀을 따로 봐요. 나에게 온 새 요청(RULES 0-3): 24시간 안 없음. 앱 데이터와 다른 사실은 이번 공부에서 찾지 못했어요.
+- 출처: [엔비디아 11/23 (SEC, 공식)](https://www.sec.gov/Archives/edgar/data/0001045810/000104581026000090/nov23pressrelease.htm) · [이투데이 금투협 조사 (11/24)](https://www.etoday.co.kr/news/view/2652153) · [AP 관세 (11/24)](https://www.clickondetroit.com/news/politics/2026/11/25/us-ready-to-slap-tariffs-on-china-eu-and-others-over-subsidized-production-ap-sources-say/) · [연준 FEDS (11/12)](https://www.federalreserve.gov/econres/feds/artificial-intelligence-and-the-us-economy-current-evidence.htm) · ops/knowledge/2026-11-25.md · 공식 여부: 공식 / 보도
+- 확신도: 중간 (관세는 익명 보도, PCE 예상치는 확인 못 함)
+
+### A-20261125-1937-2 · 교훈 · 지역 방송·신문에 다시 실린 AP 기사는 날짜가 안 보여요 — 본문의 '다음 일정' 단서로 날짜를 맞춰요
+- 시각: 2026-11-25 19:37 KST
+- 내용: AJC 에 실린 AP 장중 기사("엔비디아·AI주 더 빠져")에 게시 날짜가 없고 본문이 '월요일'이라, 처음엔 11/23(월) 기사로 읽힐 뻔했어요. 그런데 본문에 "엔비디아 실적은 화요일 장 마감 뒤"가 있어 실제로는 **11/16(월)** 기사였어요(엔비디아 실적은 11/17). 10년물 5.13%·브렌트 93.82달러도 그 주 숫자예요. 같은 종류: investingLive 연준 기사도 날짜 없이 '수요일·금요일'만 있어요. 날짜 없는 재게재 기사는 본문 속 다음 일정·숫자로 날짜를 맞춰 보고, 맞출 수 없으면 쓰지 않아요. 또 같은 질문의 설문도 조사 날짜에 따라 크게 달라요(한은 인상 예상 54% vs 90%) — 설문 숫자는 조사 기간을 함께 적어요.
+- 출처: [AP (AJC 전재, 날짜 없음)](https://www.ajc.com/news/2026/11/more-drops-for-nvidia-and-other-ai-stocks-drag-the-us-market-lower/) · 공식 여부: 보도
+- 확신도: 높음
+
+### A-20261125-1937-3 · 알림 · 이번 공부에서 확인 못 한 것 · 열기 실패
+- 시각: 2026-11-25 19:37 KST
+- 내용: 확인 못 함 — 10월 PCE 시장 예상치·근원 예측, 16곳 관세 세율·품목·발표 시각, NRC 26-083 정확한 날짜(11/9 무렵), 한은 11/26 발표 시각(공식 일정표), 11/24 뉴욕 최종치(로이터 잠정치 그대로). 열기 실패 — WWD 관세 기사(클라이언트 오류), 네이트 뉴스(자동 열기 막힘). CSIS 관세 분석 2건은 페이지에 날짜가 안 보여 '날짜 미표시'로 적었어요.
+- 확신도: 높음
