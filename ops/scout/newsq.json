@@ -1,6 +1,6 @@
 {
-"updated_kst": "2026-11-25 15:14",
-"rot": 9,
+"updated_kst": "2026-11-25 15:21",
+"rot": 69,
 "how": "Scout(프로그램)이 10분마다 모은 기사 제목·링크와 공시예요. Wren이 공식 출처로 확인한 뒤 회사 화면에 한국어로 반영해요. 본문은 받지 않아요.",
 "sources": {
 "Yahoo Finance": "120종목 확인 · 실패 0",
@@ -17,6 +17,16 @@
 },
 "items": [
 {
+"id": "b114435d728e",
+"t": "NVDA",
+"title": "Stock Market: Will S&P 500 Open Up or Down Today?",
+"url": "https://www.benzinga.com/markets/prediction-markets/26/11/63614091/stock-market-will-sp-500-open-up-or-down-today-85",
+"pub": "2026-11-25T06:06:17+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-25T06:21:17+00:00"
+},
+{
 "id": "9d70a799dd9e",
 "t": "SPCX",
 "title": "SpaceX, Anthropic IPOs Shut Out Retail Investors, Says Coinbase CEO — Brian Armstrong Resumes Buying Back COIN Shares",
@@ -25,6 +35,26 @@
 "src": "Yahoo Finance",
 "kind": "news",
 "seen": "2026-11-25T06:14:14+00:00"
+},
+{
+"id": "a898f83a5eb2",
+"t": "COP",
+"title": "Oil Market Midweek Wrap: Brent Holds Near $90 Despite Iran Tensions – OPEC Meeting, ConocoPhillips Sale In Focus",
+"url": "https://stocktwits.com/news-articles/markets/equity/oil-market-midweek-wrap-brent-holds-near-90-despite-iran-tensions-opec-meeting-conoco-phillips-sale-in-focus/cNbH5X8R9lK",
+"pub": "2026-11-25T05:48:25+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-25T06:21:17+00:00"
+},
+{
+"id": "a473d85db9f1",
+"t": "ADI",
+"title": "Analog Devices (ADI) Takes a Major Beating as Bulls Retreat",
+"url": "https://finance.yahoo.com/markets/stocks/articles/analog-devices-adi-takes-major-053913801.html",
+"pub": "2026-11-25T05:39:13+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-25T06:21:17+00:00"
 },
 {
 "id": "3b2daf2dd96c",
@@ -7990,34 +8020,174 @@
 "seen": "2026-11-24T15:44:24+00:00"
 },
 {
-"id": "a1f2ff0c5fd9",
-"t": "NVDA",
-"title": "YYForce Launches Humanoid Robot for Hotel Concierge Services Using NVIDIA Technology",
-"url": "https://investorshub.advfn.com/market-news/article/40662/yyforce-launches-humanoid-robot-for-hotel-concierge-services-using-nvidia-technology",
-"pub": "2026-11-24T15:28:08+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-24T15:44:24+00:00"
+"id": "53ed851c7aca",
+"t": "",
+"title": "BoJ Interest Rate Probabilities",
+"url": "https://www.financialjuice.com/News/9867283/BoJ-Interest-Rate-Probabilities.aspx?xy=rss",
+"pub": "2026-11-25T06:21:51+00:00",
+"src": "FinancialJuice",
+"kind": "market",
+"seen": "2026-11-25T06:21:17+00:00"
 },
 {
-"id": "1dd4c260f0ea",
-"t": "SPCX",
-"title": "Bill Ackman Says the Fed Is “About to Make Another Mistake” on Dec. 9",
-"url": "https://247wallst.com/investing/2026/11/24/bill-ackman-says-the-fed-is-about-to-make-another-mistake-on-dec-9/",
-"pub": "2026-11-24T15:28:05+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-24T15:44:24+00:00"
+"id": "a4dce750099b",
+"t": "",
+"title": "BoC Interest Rate Probabilities",
+"url": "https://www.financialjuice.com/News/9867282/BoC-Interest-Rate-Probabilities.aspx?xy=rss",
+"pub": "2026-11-25T06:21:33+00:00",
+"src": "FinancialJuice",
+"kind": "market",
+"seen": "2026-11-25T06:21:17+00:00"
 },
 {
-"id": "e9b1de3b4ee0",
-"t": "SPCX",
-"title": "Boeing vs. Space Exploration Technologies: Which Industrials Stock Is a Better Buy for 2027?",
-"url": "https://www.fool.com/coverage/better-buy/2026/11/24/boeing-vs-space-exploration-technologies-which-industrials-stock-is-a-better-buy-for-2027/",
-"pub": "2026-11-24T15:28:03+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-24T15:44:24+00:00"
+"id": "e369506df336",
+"t": "",
+"title": "BoE Interest Rate Probabilities",
+"url": "https://www.financialjuice.com/News/9867281/BoE-Interest-Rate-Probabilities.aspx?xy=rss",
+"pub": "2026-11-25T06:21:06+00:00",
+"src": "FinancialJuice",
+"kind": "market",
+"seen": "2026-11-25T06:21:17+00:00"
+},
+{
+"id": "8f18afe276c4",
+"t": "",
+"title": "ECB Interest Rate Probabilities",
+"url": "https://www.financialjuice.com/News/9867280/ECB-Interest-Rate-Probabilities.aspx?xy=rss",
+"pub": "2026-11-25T06:20:46+00:00",
+"src": "FinancialJuice",
+"kind": "market",
+"seen": "2026-11-25T06:21:17+00:00"
+},
+{
+"id": "37c2be62d6a9",
+"t": "",
+"title": "Fed Interest Rate Probabilities",
+"url": "https://www.financialjuice.com/News/9867279/Fed-Interest-Rate-Probabilities.aspx?xy=rss",
+"pub": "2026-11-25T06:20:26+00:00",
+"src": "FinancialJuice",
+"kind": "market",
+"seen": "2026-11-25T06:21:17+00:00"
+},
+{
+"id": "7766ca183a3b",
+"t": "",
+"title": "Commodities Implied Volatility",
+"url": "https://www.financialjuice.com/News/9867278/Commodities-Implied-Volatility.aspx?xy=rss",
+"pub": "2026-11-25T06:19:45+00:00",
+"src": "FinancialJuice",
+"kind": "market",
+"seen": "2026-11-25T06:21:17+00:00"
+},
+{
+"id": "cf69cbbf447b",
+"t": "",
+"title": "Saudi-Houthi Fighting Intensifies",
+"url": "https://www.bloomberg.com/news/videos/2026-11-25/saudi-houthi-fighting-intensifies-video",
+"pub": "2026-11-25T06:19:22+00:00",
+"src": "Bloomberg",
+"kind": "market",
+"seen": "2026-11-25T06:21:17+00:00"
+},
+{
+"id": "57e8127560ff",
+"t": "",
+"title": "FX Implied Volatility",
+"url": "https://www.financialjuice.com/News/9867277/FX-Implied-Volatility.aspx?xy=rss",
+"pub": "2026-11-25T06:19:21+00:00",
+"src": "FinancialJuice",
+"kind": "market",
+"seen": "2026-11-25T06:21:17+00:00"
+},
+{
+"id": "34806c3a3b3e",
+"t": "",
+"title": "US Index Futures Implied Volatility",
+"url": "https://www.financialjuice.com/News/9867276/US-Index-Futures-Implied-Volatility.aspx?xy=rss",
+"pub": "2026-11-25T06:19:00+00:00",
+"src": "FinancialJuice",
+"kind": "market",
+"seen": "2026-11-25T06:21:17+00:00"
+},
+{
+"id": "e7abbd817cf4",
+"t": "",
+"title": "Top S&P 500 Stock names Implied Volatility",
+"url": "https://www.financialjuice.com/News/9867275/Top-SP-500-Stock-names-Implied-Volatility.aspx?xy=rss",
+"pub": "2026-11-25T06:18:37+00:00",
+"src": "FinancialJuice",
+"kind": "market",
+"seen": "2026-11-25T06:21:17+00:00"
+},
+{
+"id": "3992fc5ea224",
+"t": "",
+"title": "120-Day Correlation Matrix",
+"url": "https://www.financialjuice.com/News/9867274/120-Day-Correlation-Matrix.aspx?xy=rss",
+"pub": "2026-11-25T06:17:52+00:00",
+"src": "FinancialJuice",
+"kind": "market",
+"seen": "2026-11-25T06:21:17+00:00"
+},
+{
+"id": "3b831a8444b7",
+"t": "",
+"title": "90-Day Correlation Matrix",
+"url": "https://www.financialjuice.com/News/9867273/90-Day-Correlation-Matrix.aspx?xy=rss",
+"pub": "2026-11-25T06:17:28+00:00",
+"src": "FinancialJuice",
+"kind": "market",
+"seen": "2026-11-25T06:21:17+00:00"
+},
+{
+"id": "1bf322bed9d5",
+"t": "",
+"title": "60-Day Correlation Matrix",
+"url": "https://www.financialjuice.com/News/9867272/60-Day-Correlation-Matrix.aspx?xy=rss",
+"pub": "2026-11-25T06:17:06+00:00",
+"src": "FinancialJuice",
+"kind": "market",
+"seen": "2026-11-25T06:21:17+00:00"
+},
+{
+"id": "135b32ca8469",
+"t": "",
+"title": "China's Zhu: China is able to run a looser fiscal policy next year",
+"url": "https://www.financialjuice.com/News/9867271/Chinas-Zhu-China-is-able-to-run-a-looser-fiscal-policy-next-year.aspx?xy=rss",
+"pub": "2026-11-25T06:16:53+00:00",
+"src": "FinancialJuice",
+"kind": "market",
+"seen": "2026-11-25T06:21:17+00:00"
+},
+{
+"id": "fe66fed79839",
+"t": "",
+"title": "SailGP Launches UAE Team, Aims to Grow to 20 Teams",
+"url": "https://www.bloomberg.com/news/videos/2026-11-25/sailgp-launches-uae-team-aims-to-grow-to-20-teams-video",
+"pub": "2026-11-25T06:16:46+00:00",
+"src": "Bloomberg",
+"kind": "market",
+"seen": "2026-11-25T06:21:17+00:00"
+},
+{
+"id": "96d8353b66d8",
+"t": "",
+"title": "30-Day Correlation Matrix",
+"url": "https://www.financialjuice.com/News/9867261/30-Day-Correlation-Matrix.aspx?xy=rss",
+"pub": "2026-11-25T06:16:25+00:00",
+"src": "FinancialJuice",
+"kind": "market",
+"seen": "2026-11-25T06:21:17+00:00"
+},
+{
+"id": "e5abf4532cc8",
+"t": "",
+"title": "Unsold Apartments Pile Up in Iceland as High Rates Hit Developers",
+"url": "https://www.bloomberg.com/news/articles/2026-11-25/unsold-apartments-pile-up-in-iceland-as-high-rates-hit-developers",
+"pub": "2026-11-25T06:15:00+00:00",
+"src": "Bloomberg",
+"kind": "market",
+"seen": "2026-11-25T06:21:17+00:00"
 },
 {
 "id": "89bd9df26ca2",
@@ -8290,6 +8460,16 @@
 "seen": "2026-11-25T06:14:14+00:00"
 },
 {
+"id": "887c70cc25b6",
+"t": "",
+"title": "Bank Hapoalim BM (BKHYY.PK) | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9jSjUtQjZvaUozTWQyN1BjQ3hkM3BXdnFkOURsUWh3c1lVM1hCVW83WWktVTZKWU0yeVRkZG1Xc1JSOG5FbFpaVlI3eUNQWFNFQngwYXdtZnByZnQ1Y2Fqd3ZZLVlTQTE0WWpPckNybTY?oc=5",
+"pub": "2026-11-25T03:21:46+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-25T06:21:17+00:00"
+},
+{
 "id": "f3008c057781",
 "t": "",
 "title": "GM.O - | Stock Price & Latest News - Reuters",
@@ -8358,6 +8538,16 @@
 "src": "Reuters",
 "kind": "market",
 "seen": "2026-11-25T04:44:49+00:00"
+},
+{
+"id": "eb68067bb20e",
+"t": "",
+"title": "9767.JNX - | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxObUdQVTlwazhyLUplc25jT1dKTjVZVDVWdENZYXNTbG1BSW5JYjVEajIydWhpamV3eGRPUzE0cWJZMTFHcGd4cmVacWJ1VjBrcWtvUVp2cGdiU0pnR2d3TGZLNmozMnhPdWJmVE1leXYyRExqOTZHak1ldS1IcmFGZ2JXOGJ0MkE?oc=5",
+"pub": "2026-11-25T02:49:06+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-25T06:21:17+00:00"
 },
 {
 "id": "2ee289f7e9a4",
@@ -8430,6 +8620,16 @@
 "seen": "2026-11-25T06:14:14+00:00"
 },
 {
+"id": "5906ad9c7746",
+"t": "",
+"title": "UBS BBG TIPS 10+ UCITS ETF USD dis (UIMB.DE) | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1LUWRTUkVtbGpGWWRPeUJpX2hKNkFCQlVVOENzRXhCaFNmYmU0N2xRQi1yS3BiXy1kbUlDdzFqUWhsUkFBVENRVXEtOHltU2QxMXZ3Q1JFd0ttZ0VRSklDSnBlMnRkdkJ6aXAybm40WQ?oc=5",
+"pub": "2026-11-25T02:18:38+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-25T06:21:17+00:00"
+},
+{
 "id": "0896531f124e",
 "t": "",
 "title": "McEwen Inc (MUX.Z) | Stock Price & Latest News - Reuters",
@@ -8488,6 +8688,16 @@
 "src": "Reuters",
 "kind": "market",
 "seen": "2026-11-25T05:14:58+00:00"
+},
+{
+"id": "574914b27fa8",
+"t": "",
+"title": "Thai Wah PCL (TWPC.BK) | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFA5M2t5Wmk3MExUbjBJTWozdUF0amJ1cXVRQjl0a0pFMnh0dTFpS2tzb1NsRzlYalJCQy1rRVlLRTdkRzBGdWI1RjJXelBwalV4dE9FSkk0OXoyTGVWdWhVb01ZV1dxS2l4bTI2bG96dw?oc=5",
+"pub": "2026-11-25T01:47:46+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-25T06:21:17+00:00"
 },
 {
 "id": "8fc68de70bea",
@@ -10808,216 +11018,6 @@
 "src": "FinancialJuice",
 "kind": "market",
 "seen": "2026-11-24T15:44:24+00:00"
-},
-{
-"id": "ae8332f45fa3",
-"t": "",
-"title": "Fitch Ratings: Faster productivity & AI adoption have not resulted in any falls in aggregate us employment & there has been no surge in layoffs.",
-"url": "https://www.financialjuice.com/News/9866312/Fitch-Ratings-Faster-productivity--AI-adoption-have-not-resulted-in-any-falls-in-aggregate-us-employment--there-has-been-no-surge-in-layoffs.aspx?xy=rss",
-"pub": "2026-11-24T15:23:09+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-24T15:44:24+00:00"
-},
-{
-"id": "c27babecdcbd",
-"t": "",
-"title": "Fitch Ratings: US productivity growth is improving steadily.",
-"url": "https://www.financialjuice.com/News/9866310/Fitch-Ratings-US-productivity-growth-is-improving-steadily.aspx?xy=rss",
-"pub": "2026-11-24T15:21:27+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-24T15:44:24+00:00"
-},
-{
-"id": "4b28d61064ee",
-"t": "",
-"title": "NYC Calls on Kalshi, Polymarket to Testify on Marketing to Youth",
-"url": "https://www.bloomberg.com/news/articles/2026-11-24/nyc-calls-on-kalshi-polymarket-to-testify-on-marketing-to-youth",
-"pub": "2026-11-24T15:21:17+00:00",
-"src": "Bloomberg",
-"kind": "market",
-"seen": "2026-11-24T15:44:24+00:00"
-},
-{
-"id": "699177c50acd",
-"t": "",
-"title": "ECB policy direction clear for December but uncertain after, Sleijpen says - Reuters",
-"url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPX3NvS1RRNnRjN2c0bk5lS19FVEl4X3VwczBEUmI1R19XVTMxR2VjRGZaQ3dvZ0Z1MmM1NXdGVWZNTDVRX3dQTm9wYnRYR1p6MFVza1AxOFZONGNWT0JzNW5SYnJFVC1XRXBPTGhlcWxfNFMyanBabTlJcXBZSWFmTW1UV2ZSUk9GUjhMTnVPNVhSWVNscWhaZjRBOU5NVTlxcGpsTXkzblQxdlpudl9mQ2hKQ2FyOWM?oc=5",
-"pub": "2026-11-24T15:20:35+00:00",
-"src": "Reuters",
-"kind": "market",
-"seen": "2026-11-24T15:44:24+00:00"
-},
-{
-"id": "fb6fd7d2b956",
-"t": "",
-"title": "Fear & Greed Index: 18/100 - Extreme Fear",
-"url": "https://www.financialjuice.com/News/9866309/Fear--Greed-Index-18100---Extreme-Fear.aspx?xy=rss",
-"pub": "2026-11-24T15:18:55+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-24T15:44:24+00:00"
-},
-{
-"id": "d4f7296138d4",
-"t": "",
-"title": "Crypto Fear & Greed Index: 11/100 - Extreme Fear",
-"url": "https://www.financialjuice.com/News/9866308/Crypto-Fear--Greed-Index-11100---Extreme-Fear.aspx?xy=rss",
-"pub": "2026-11-24T15:17:51+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-24T15:44:24+00:00"
-},
-{
-"id": "81b86cf16782",
-"t": "",
-"title": "Dollar Could Rise Further in 2027 if Fed Lifts Rates",
-"url": "https://www.wsj.com/articles/dollar-stays-strong-after-nvidia-news-boosts-u-s-tech-stocks-a0c603c2",
-"pub": "2026-11-24T15:17:00+00:00",
-"src": "WSJ",
-"kind": "market",
-"seen": "2026-11-24T19:44:00+00:00"
-},
-{
-"id": "0e74672a0c62",
-"t": "",
-"title": "U.S. Treasury Yields Tick Down Ahead of Inflation Data",
-"url": "https://www.wsj.com/finance/jgb-futures-rise-buoyed-by-decline-in-crude-oil-prices-deebd8c8",
-"pub": "2026-11-24T15:16:00+00:00",
-"src": "WSJ",
-"kind": "market",
-"seen": "2026-11-24T16:32:44+00:00"
-},
-{
-"id": "e3b8c9dd0a49",
-"t": "",
-"title": "China extends suspension of ban on US-bound gallium, germanium, antimony exports - Reuters",
-"url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOaWFnRklCLUpuNTZIRVNMaTQtd192Vlkta0FIMzBEaEMxZ2dUWmo5TnFkTXJMNmVFbUJMMVRVSDUxWXZvUGJqOVBzclJpa1J1RGhGY05ndm00MWpCeEpyNk1NS0dKa3B1STkybFZnbml0a09FMzhFREVnVVZhU2pTajBXZWI1RW12NUFocm52c01nX1BNNTc3ZGVyZTBJWlNGRHdmSzZYNEtfSkZ6VE9KLXNrV00tYkExTUZDVGFBN2l2aW4yYi00?oc=5",
-"pub": "2026-11-24T15:15:25+00:00",
-"src": "Reuters",
-"kind": "market",
-"seen": "2026-11-24T15:44:24+00:00"
-},
-{
-"id": "e8f64e3fc98c",
-"t": "",
-"title": "Brazil Real Rallies on Reports Lula Backs Further Spending Curbs",
-"url": "https://www.bloomberg.com/news/articles/2026-11-24/brazil-real-rallies-on-reports-lula-backs-further-spending-curbs",
-"pub": "2026-11-24T15:12:01+00:00",
-"src": "Bloomberg",
-"kind": "market",
-"seen": "2026-11-24T15:44:24+00:00"
-},
-{
-"id": "ef82e2aca38b",
-"t": "",
-"title": "US Consumer Confidence Surges to Highest Since Early 2025",
-"url": "https://www.bloomberg.com/news/articles/2026-11-24/us-consumer-confidence-surges-to-highest-since-early-2025",
-"pub": "2026-11-24T15:04:41+00:00",
-"src": "Bloomberg",
-"kind": "market",
-"seen": "2026-11-24T15:15:37+00:00"
-},
-{
-"id": "2cec70ac0725",
-"t": "",
-"title": "Excel Industries Ltd (EXCI.M3) | Stock Price & Latest News - Reuters",
-"url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBHWERqdnliSGE4bjl3WmUwd1Noa0FkMVhmS3JjSFBnQk1JaVRwYXYwck1zVlBNSUc0cE5GaEc5dTdYRkpOaTI0U0hlUDJwRkJkRUQxR1hjc2FhY2JvQTlPSEpJd1BNM1BuWHQwcw?oc=5",
-"pub": "2026-11-24T15:04:22+00:00",
-"src": "Reuters",
-"kind": "market",
-"seen": "2026-11-24T23:13:49+00:00"
-},
-{
-"id": "ad00dffd1491",
-"t": "",
-"title": "US CB: Consumers still expect higher interest rates over the next 12 months.",
-"url": "https://www.financialjuice.com/News/9866272/US-CB-Consumers-still-expect-higher-interest-rates-over-the-next-12-months.aspx?xy=rss",
-"pub": "2026-11-24T15:01:53+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-24T15:15:37+00:00"
-},
-{
-"id": "21ef6ba77a4b",
-"t": "",
-"title": "US CB: Market volatility in the first half of November notwithstanding, more consumers expected stock prices to increase rather than decrease in the next 12 months.",
-"url": "https://www.financialjuice.com/News/9866271/US-CB-Market-volatility-in-the-first-half-of-November-notwithstanding-more-consumers-expected-stock-prices-to-increase-rather-than-decrease-in-the-next-12-months.aspx?xy=rss",
-"pub": "2026-11-24T15:01:52+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-24T15:15:37+00:00"
-},
-{
-"id": "493a6a2e4de8",
-"t": "",
-"title": "US CB: Consumers' average 12-month inflation expectations declined for a second consecutive month in November, but remained elevated at 5.7%.",
-"url": "https://www.financialjuice.com/News/9866259/US-CB-Consumers-average-12-month-inflation-expectations-declined-for-a-second-consecutive-month-in-November-but-remained-elevated-at-57.aspx?xy=rss",
-"pub": "2026-11-24T15:01:46+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-24T15:15:37+00:00"
-},
-{
-"id": "7d0cf215c00e",
-"t": "",
-"title": "Venezuela Unveils $237 Billion Debt Load Ahead of Restructuring",
-"url": "https://www.bloomberg.com/news/articles/2026-11-24/venezuela-unveils-237-billion-debt-load-ahead-of-restructuring",
-"pub": "2026-11-24T15:01:19+00:00",
-"src": "Bloomberg",
-"kind": "market",
-"seen": "2026-11-24T15:15:37+00:00"
-},
-{
-"id": "922060c7f1d4",
-"t": "",
-"title": "ECB's Sleijpen: it's complicated to discuss rate moves in 2027.",
-"url": "https://www.financialjuice.com/News/9866256/ECBs-Sleijpen-its-complicated-to-discuss-rate-moves-in-2027.aspx?xy=rss",
-"pub": "2026-11-24T15:00:43+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-24T15:15:37+00:00"
-},
-{
-"id": "c58d1ad2d4d7",
-"t": "",
-"title": "ECB's Sleijpen: Direction of ECB policy in December seems clear, but uncertain after.",
-"url": "https://www.financialjuice.com/News/9866250/ECBs-Sleijpen-Direction-of-ECB-policy-in-December-seems-clear-but-uncertain-after.aspx?xy=rss",
-"pub": "2026-11-24T15:00:24+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-24T15:15:37+00:00"
-},
-{
-"id": "2edaa08227f4",
-"t": "",
-"title": "Richmond Fed Comp. Index Actual 3 (Forecast -2, Previous -2)",
-"url": "https://www.financialjuice.com/News/9866241/Richmond-Fed-Comp-Index-Actual-3-Forecast--2-Previous--2.aspx?xy=rss",
-"pub": "2026-11-24T15:00:22+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-24T15:15:37+00:00"
-},
-{
-"id": "665463665dbe",
-"t": "",
-"title": "US CB Consumer Confidence Actual 103.3 (Forecast 92.4, Previous 91.7)",
-"url": "https://www.financialjuice.com/News/9866240/US-CB-Consumer-Confidence-Actual-1033-Forecast-924-Previous-917.aspx?xy=rss",
-"pub": "2026-11-24T15:00:00+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-24T15:15:37+00:00"
-},
-{
-"id": "0f0bfe58c26c",
-"t": "",
-"title": "Petrobras aumenta investimentos com alta do petróleo",
-"url": "https://www.bloomberg.com/news/videos/2026-11-24/petrobras-aumenta-investimentos-com-alta-do-petroleo-video",
-"pub": "2026-11-24T14:55:44+00:00",
-"src": "Bloomberg",
-"kind": "market",
-"seen": "2026-11-24T15:15:37+00:00"
 }
 ]
 }
