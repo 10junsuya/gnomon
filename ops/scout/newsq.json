@@ -1,6 +1,6 @@
 {
-"updated_kst": "2026-11-25 13:02",
-"rot": 67,
+"updated_kst": "2026-11-25 13:14",
+"rot": 127,
 "how": "Scout(프로그램)이 10분마다 모은 기사 제목·링크와 공시예요. Wren이 공식 출처로 확인한 뒤 회사 화면에 한국어로 반영해요. 본문은 받지 않아요.",
 "sources": {
 "Yahoo Finance": "120종목 확인 · 실패 0",
@@ -10,12 +10,42 @@
 "CNBC": "63건",
 "Bloomberg": "40건",
 "WSJ": "61건",
-"Reuters": "51건",
+"Reuters": "100건",
 "FinancialJuice": "100건",
 "SEC EDGAR": "실패 HTTPError",
 "Fox Business": "50건"
 },
 "items": [
+{
+"id": "d4c201efbe74",
+"t": "NVDA",
+"title": "Asian stocks mostly decline as AI shares fall following a retreat on Wall Street",
+"url": "https://finance.yahoo.com/markets/stocks/articles/asian-stocks-mostly-decline-ai-040526833.html",
+"pub": "2026-11-25T04:05:26+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-25T04:14:49+00:00"
+},
+{
+"id": "276eacbfdbaa",
+"t": "NVDA",
+"title": "Asian stocks slide as AI selloff deepens, U.S. tariff threats weigh on sentiment",
+"url": "https://finance.yahoo.com/markets/stocks/articles/asian-stocks-slide-ai-selloff-040525614.html",
+"pub": "2026-11-25T04:05:25+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-25T04:14:49+00:00"
+},
+{
+"id": "0e25abc8b522",
+"t": "BE",
+"title": "BE Stock Slumps After AI-Driven Gains: This Analyst Sees ‘An Attractive Entry Point’",
+"url": "https://stocktwits.com/news-articles/markets/equity/be-stock-slumps-after-ai-driven-gains-this-analyst-sees-an-attractive-entry-point/cNbHRamR9lQ",
+"pub": "2026-11-25T03:53:51+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-25T04:14:49+00:00"
+},
 {
 "id": "adc24009c4c8",
 "t": "NVDA",
@@ -55,6 +85,16 @@
 "src": "Yahoo Finance",
 "kind": "news",
 "seen": "2026-11-25T03:44:28+00:00"
+},
+{
+"id": "026b491e9242",
+"t": "CME",
+"title": "Gold holds near 15-mth lows on Fed hike bets; PCE inflation awaited",
+"url": "https://finance.yahoo.com/markets/commodities/articles/gold-holds-near-15-mth-032814171.html",
+"pub": "2026-11-25T03:28:14+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-25T04:14:49+00:00"
 },
 {
 "id": "d7eb7386ca8b",
@@ -107,6 +147,16 @@
 "seen": "2026-11-25T03:44:28+00:00"
 },
 {
+"id": "11886d1b38b8",
+"t": "NVDA",
+"title": "NVidia Still Faces 'Key-Man Risk' in Huang: Professor",
+"url": "https://finance.yahoo.com/video/nvidia-still-faces-key-man-030814447.html",
+"pub": "2026-11-25T03:08:14+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-25T04:14:49+00:00"
+},
+{
 "id": "030139ea43c1",
 "t": "NVDA",
 "title": "Jensen Huang Reportedly Says Succession Plan Risks ‘Unnecessary Hierarchy’ At Nvidia — Crypto Bettors Wager on Another Exit",
@@ -115,6 +165,16 @@
 "src": "Yahoo Finance",
 "kind": "news",
 "seen": "2026-11-25T03:14:39+00:00"
+},
+{
+"id": "abb9977b1b83",
+"t": "AMZN",
+"title": "Amazon ‘Trying to Trick’ You With Black Friday Offers That Aren’t Really Deals, Says Elizabeth Warren: E-Commerce Giant Pushes Back",
+"url": "https://finance.yahoo.com/markets/stocks/articles/amazon-trying-trick-black-friday-025557873.html",
+"pub": "2026-11-25T02:55:57+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-25T04:14:49+00:00"
 },
 {
 "id": "272453876ec6",
@@ -385,6 +445,16 @@
 "src": "Yahoo Finance",
 "kind": "news",
 "seen": "2026-11-25T01:44:29+00:00"
+},
+{
+"id": "ada90d67435b",
+"t": "SKHY",
+"title": "SoftBank Shares Drop 10% as Samsung and SK Hynix Fall Over 7% in AI Sell Off",
+"url": "https://beincrypto.com/softbank-shares-drop-samsung-sk-hynix/",
+"pub": "2026-11-25T01:12:52+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-25T04:14:49+00:00"
 },
 {
 "id": "f977eeece006",
@@ -3997,6 +4067,16 @@
 "src": "Yahoo Finance",
 "kind": "news",
 "seen": "2026-11-24T19:14:35+00:00"
+},
+{
+"id": "df9b27151b93",
+"t": "META",
+"title": "Meta launches its Muse personal agent in the UK – but it comes with a big warning",
+"url": "https://www.independent.co.uk/tech/meta-muse-uk-launch-release-warning-b3090758.html",
+"pub": "2026-11-24T18:33:43+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-25T04:14:49+00:00"
 },
 {
 "id": "ccfed57d92df",
@@ -7940,84 +8020,14 @@
 "seen": "2026-11-24T15:44:24+00:00"
 },
 {
-"id": "569e07216583",
-"t": "RKLB",
-"title": "Why Rocket Lab Demand News Could Make ETFs Worth A Look",
-"url": "https://finance.yahoo.com/markets/stocks/articles/why-rocket-lab-demand-news-151414622.html",
-"pub": "2026-11-24T15:14:14+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-24T15:44:24+00:00"
-},
-{
-"id": "25da2449b82b",
-"t": "LMT",
-"title": "Global Military Computer Market Report 2026 to 2035: Trends, Forecast, and Competitive Analysis Featuring General Dynamics, Lockheed Martin, Northrop Grumman, Raytheon Technologies, BAE Systems, Thales Group, and Leonardo",
-"url": "https://finance.yahoo.com/technology/articles/global-military-computer-market-report-151400094.html",
-"pub": "2026-11-24T15:14:00+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-24T15:44:24+00:00"
-},
-{
-"id": "7366b48b8fa7",
-"t": "MO",
-"title": "Smucker Beats Q2 Earnings Estimates on Lower Costs, Raises View",
-"url": "https://finance.yahoo.com/markets/stocks/articles/smucker-beats-q2-earnings-estimates-151400816.html",
-"pub": "2026-11-24T15:14:00+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-24T17:14:02+00:00"
-},
-{
-"id": "db93e710c01b",
-"t": "KO",
-"title": "Coca-Cola (KO) Appoints David Elkins As CFO Effective April 2027",
-"url": "https://finance.yahoo.com/markets/stocks/articles/coca-cola-ko-appoints-david-151354439.html",
-"pub": "2026-11-24T15:13:54+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-24T15:44:24+00:00"
-},
-{
-"id": "b4813c2746f4",
-"t": "NFLX",
-"title": "Banque Cantonale de Genève And 2 Top Undervalued Stocks",
-"url": "https://finance.yahoo.com/markets/stocks/articles/banque-cantonale-gen-ve-2-151338119.html",
-"pub": "2026-11-24T15:13:38+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-24T15:44:24+00:00"
-},
-{
-"id": "101cecefde23",
-"t": "ORCL",
-"title": "How Investors Are Reacting To Oracle Stock Securing AI Funding",
-"url": "https://finance.yahoo.com/technology/ai/articles/investors-reacting-oracle-stock-securing-151310449.html",
-"pub": "2026-11-24T15:13:10+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-24T15:44:24+00:00"
-},
-{
-"id": "ce3138fff749",
-"t": "NVDA",
-"title": "Nvidia stock in focus: Why CEO comebacks are usually good for shares",
-"url": "https://finance.yahoo.com/video/nvidia-stock-in-focus-why-ceo-comebacks-are-usually-good-for-shares-151307354.html",
-"pub": "2026-11-24T15:13:07+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-24T15:15:37+00:00"
-},
-{
-"id": "cb291b3ec551",
-"t": "TXN",
-"title": "Why Analog Devices Stock Is Taking Its Worst Beating Since 2020",
-"url": "https://finance.yahoo.com/m/46454a5c-9063-384d-acc5-8cb7e232384f/why-analog-devices-stock-is.html",
-"pub": "2026-11-24T15:13:00+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-24T15:44:24+00:00"
+"id": "2efc86804497",
+"t": "",
+"title": "‘Ready for any storm’: UAE minister optimistic on economy as IMF lifts forecast",
+"url": "https://www.cnbc.com/2026/11/25/uae-iran-war-economy-oil.html",
+"pub": "2026-11-25T04:06:01+00:00",
+"src": "CNBC",
+"kind": "market",
+"seen": "2026-11-25T04:14:49+00:00"
 },
 {
 "id": "f6147ee850b7",
@@ -8190,6 +8200,16 @@
 "seen": "2026-11-25T01:55:14+00:00"
 },
 {
+"id": "0bcffa554daa",
+"t": "",
+"title": "Phenix Optics Co Ltd (600071.SS) | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9rbFB4SG83ZFJUZE1aeVNNbHYtLWFqV3A3b0J4TGFNRDZsb0o2aXBERjRZZUsycDVrdGVidG5EWHdOOGhKWjZsWk9iZXY5Y0tDMGl0bTJJS011SjI5WmpWaGxTak1FamdEWXdWWlE4eFBZQQ?oc=5",
+"pub": "2026-11-25T00:43:27+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-25T04:14:49+00:00"
+},
+{
 "id": "fad56bb432ba",
 "t": "",
 "title": "JINGDONG Industrials Inc (7618.HK) | Stock Price & Latest News - Reuters",
@@ -8328,6 +8348,16 @@
 "src": "Bloomberg",
 "kind": "market",
 "seen": "2026-11-24T23:32:07+00:00"
+},
+{
+"id": "1fcd82536a8e",
+"t": "",
+"title": "AMG River Road Large Cap Value Select Fund;N (FQUAX.O) | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5SOFF5cmtRLTdGX2hWc0JDVWxOajRIWDZrdFBZU0RUTG8zOGstakx4WUg1S2JrcUhwNmpJSUV5TjZOZVExM3VDV0lDaGgxZlBtVEc4TU83VDJydkt3X1ZIbWlhOUtBMDdIdmYzcXp3?oc=5",
+"pub": "2026-11-24T22:40:21+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-25T04:14:49+00:00"
 },
 {
 "id": "1c50301b2875",
@@ -9550,6 +9580,16 @@
 "seen": "2026-11-24T18:14:24+00:00"
 },
 {
+"id": "1b3c8f0c9c76",
+"t": "",
+"title": "300242.ZK - | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNLTVzaFIxM2pENXlNRHNmQVRLR1FDNl8yREpueFAzdHJnV0pqbFZqQ0R1dm9TeFZoMmtWS1F1d2NuazNHaXh5X1FyM0VKbm0xeUVINXlWaEx0QV9OLXE3MjhqbUItRXdhb3E5aFV5bi1OZmFVSnVsa21QSkxBS2JjZU9ab2pzei0yR2haLTlROGRUcE0?oc=5",
+"pub": "2026-11-24T17:39:33+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-25T04:14:49+00:00"
+},
+{
 "id": "232641326867",
 "t": "",
 "title": "Amana Developing World ETF (AMEM.OQ) | Stock Price & Latest News - Reuters",
@@ -9798,6 +9838,16 @@
 "src": "Reuters",
 "kind": "market",
 "seen": "2026-11-24T23:13:49+00:00"
+},
+{
+"id": "f7cf27b94131",
+"t": "",
+"title": "603199.SH - | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQT0hzbWxYWkdnWVM3RFQyajBtVm1ZVE1aWjRlcVc3OTNBZ29TdUtTSmlMd3NvY25zNGJqQ0UxSmlYWUFTbnJvUmh1M3l6RjdBN3QtNXZ6WHNZMTdaaEo1SzZhOUZYa2pPV3lyLU9wUnJsX1V1dllSSUd3RFRYRWVLSlpsOHh5cTV3Z2hnY1I4OWIzLUk?oc=5",
+"pub": "2026-11-24T17:05:42+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-25T04:14:49+00:00"
 },
 {
 "id": "39af3d3973f3",
@@ -10570,6 +10620,16 @@
 "seen": "2026-11-24T14:44:20+00:00"
 },
 {
+"id": "06fe694297c8",
+"t": "",
+"title": "OYO Corp (9755.T) | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB0eGc4dG9ybElpcUFGYWhrY1kzTHdvLS1hLUlfY1JyNkhzZnNCZmt4OTJjZjNMQS1UM290dzZDTkpZQmdVRkRLbmFHR2xTX3VEVThPVVZLbWdfRW0xYklISW56M3ZXR214NW5zS0d3?oc=5",
+"pub": "2026-11-24T14:35:14+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-25T04:14:49+00:00"
+},
+{
 "id": "c1dad4f5b018",
 "t": "",
 "title": "Saint-Gobain Sekurit India Ltd (SGSI.NS) | Stock Price & Latest News - Reuters",
@@ -10958,66 +11018,6 @@
 "src": "Bloomberg",
 "kind": "market",
 "seen": "2026-11-24T13:44:55+00:00"
-},
-{
-"id": "16da9236c4cb",
-"t": "",
-"title": "BoE’s Greene: Wage growth of 3.6% would warrant more tightening.",
-"url": "https://www.financialjuice.com/News/9866100/BoEs-Greene-Wage-growth-of-36-would-warrant-more-tightening.aspx?xy=rss",
-"pub": "2026-11-24T13:21:37+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-24T13:44:55+00:00"
-},
-{
-"id": "d615f17c79f9",
-"t": "",
-"title": "US ADP Wkly Employment Change Actual 21k (Forecast -, Previous 23.75k, Revised 23k)",
-"url": "https://www.financialjuice.com/News/9866094/US-ADP-Wkly-Employment-Change-Actual-21k-Forecast---Previous-2375k-Revised-23k.aspx?xy=rss",
-"pub": "2026-11-24T13:15:00+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-24T13:20:10+00:00"
-},
-{
-"id": "2b843f4499e2",
-"t": "",
-"title": "Oppenheimer cuts target price for Marvell Technology to $325 from $425",
-"url": "https://www.financialjuice.com/News/9866093/Oppenheimer-cuts-target-price-for-Marvell-Technology-to-325-from-425.aspx?xy=rss",
-"pub": "2026-11-24T13:13:29+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-24T13:20:10+00:00"
-},
-{
-"id": "3a59edbbdec2",
-"t": "",
-"title": "BoE's Greene: More of the same grounds for tightening policy.",
-"url": "https://www.financialjuice.com/News/9866092/BoEs-Greene-More-of-the-same-grounds-for-tightening-policy.aspx?xy=rss",
-"pub": "2026-11-24T13:12:42+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-24T13:20:10+00:00"
-},
-{
-"id": "bd9d12011907",
-"t": "",
-"title": "New tariffs likely be added on top of July tariff action - WSJ.",
-"url": "https://www.financialjuice.com/News/9866091/New-tariffs-likely-be-added-on-top-of-July-tariff-action---WSJ.aspx?xy=rss",
-"pub": "2026-11-24T13:11:53+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-24T13:20:10+00:00"
-},
-{
-"id": "1d4171e81ab9",
-"t": "",
-"title": "Higher tariff levies from US to target excess industrial capacity overseas are expected this week - WSJ.",
-"url": "https://www.financialjuice.com/News/9866089/Higher-tariff-levies-from-US-to-target-excess-industrial-capacity-overseas-are-expected-this-week---WSJ.aspx?xy=rss",
-"pub": "2026-11-24T13:10:47+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-24T13:20:10+00:00"
 }
 ]
 }
