@@ -1,6 +1,6 @@
 {
-"updated_kst": "2026-11-25 13:14",
-"rot": 127,
+"updated_kst": "2026-11-25 13:44",
+"rot": 8,
 "how": "Scout(프로그램)이 10분마다 모은 기사 제목·링크와 공시예요. Wren이 공식 출처로 확인한 뒤 회사 화면에 한국어로 반영해요. 본문은 받지 않아요.",
 "sources": {
 "Yahoo Finance": "120종목 확인 · 실패 0",
@@ -10,12 +10,62 @@
 "CNBC": "63건",
 "Bloomberg": "40건",
 "WSJ": "61건",
-"Reuters": "100건",
+"Reuters": "50건",
 "FinancialJuice": "100건",
 "SEC EDGAR": "실패 HTTPError",
 "Fox Business": "50건"
 },
 "items": [
+{
+"id": "82dbabe9f383",
+"t": "CRCL",
+"title": "HOOD, COIN Get Wedbush Outperform Ratings: Here’s What The Firm Sees In Fintech’s Next Growth Phase",
+"url": "https://stocktwits.com/news-articles/markets/equity/robinhood-coinbase-circle-block-wedbush-price-targets-fintech-growth/cNbHcXzR9lX",
+"pub": "2026-11-25T04:33:11+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-25T04:44:49+00:00"
+},
+{
+"id": "8c1fcaf35fe3",
+"t": "NVDA",
+"title": "Jim Cramer resets Nvidia stock target as Jensen Huang returns as CEO",
+"url": "https://www.thestreet.com/investing/stocks/jim-cramer-nvidia-stock-target-jensen-huang",
+"pub": "2026-11-25T04:33:00+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-25T04:44:49+00:00"
+},
+{
+"id": "0e316ec4a5b1",
+"t": "NFLX",
+"title": "What Could Netflix (NFLX) Gain From Owning The Radford Studio Center?",
+"url": "https://finance.yahoo.com/media-advertising/articles/could-netflix-nflx-gain-owning-042601498.html",
+"pub": "2026-11-25T04:26:01+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-25T04:44:49+00:00"
+},
+{
+"id": "e6fa5312d48a",
+"t": "NVDA",
+"title": "Le Monde details suspected Nvidia chip diversion network through Southeast Asia",
+"url": "https://finance.yahoo.com/technology/ai/articles/le-monde-details-suspected-nvidia-042239633.html",
+"pub": "2026-11-25T04:22:39+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-25T04:44:49+00:00"
+},
+{
+"id": "73b3f43251a1",
+"t": "BABA",
+"title": "Alibaba weighs offshore bond sale next year to fund AI expansion - Bloomberg",
+"url": "https://finance.yahoo.com/technology/ai/articles/alibaba-weighs-offshore-bond-sale-042159367.html",
+"pub": "2026-11-25T04:21:59+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-25T04:44:49+00:00"
+},
 {
 "id": "d4c201efbe74",
 "t": "NVDA",
@@ -7970,54 +8020,44 @@
 "seen": "2026-11-24T17:14:02+00:00"
 },
 {
-"id": "bf086421cd66",
-"t": "CME",
-"title": "CME Group (CME): Initiating a Position in a Mispriced Crown-Jewel Asset",
-"url": "https://finance.yahoo.com/markets/options/articles/cme-group-cme-initiating-position-151556134.html",
-"pub": "2026-11-24T15:15:56+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-24T16:32:44+00:00"
+"id": "739594c8c99e",
+"t": "",
+"title": "Iran revolutionary guards' navy: two tankers blaze on unauthorized route through Strait of Hormuz - state media",
+"url": "https://www.financialjuice.com/News/9867167/Iran-revolutionary-guards-navy-two-tankers-blaze-on-unauthorized-route-through-Strait-of-Hormuz---state-media.aspx?xy=rss",
+"pub": "2026-11-25T04:42:19+00:00",
+"src": "FinancialJuice",
+"kind": "market",
+"seen": "2026-11-25T04:44:49+00:00"
 },
 {
-"id": "ef449baa5107",
-"t": "ACN",
-"title": "From the Demo Crew to the Nasdaq Podium: KBF Design Gallery's Adam Vellequette Joins Anthropic to Ring the Closing Bell on IPO Day",
-"url": "https://finance.yahoo.com/technology/ai/articles/demo-crew-nasdaq-podium-kbf-151500049.html",
-"pub": "2026-11-24T15:15:00+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-24T16:15:36+00:00"
+"id": "3aefd2ba5e95",
+"t": "",
+"title": "Maybank Reviews Portfolio as Chip Curbs Hit Data Center Projects",
+"url": "https://www.bloomberg.com/news/articles/2026-11-25/maybank-reviews-portfolio-as-chip-curbs-hit-data-center-projects",
+"pub": "2026-11-25T04:35:30+00:00",
+"src": "Bloomberg",
+"kind": "market",
+"seen": "2026-11-25T04:44:49+00:00"
 },
 {
-"id": "f64eec480b3e",
-"t": "LITE",
-"title": "Marvell Sinks 8%, Intel Down 6% as Chip Stocks Give Back Nvidia’s Record Huang Rally",
-"url": "https://www.tikr.com/blog/marvell-sinks-8-intel-down-6-as-chip-stocks-give-back-nvidias-record-huang-rally",
-"pub": "2026-11-24T15:14:59+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-24T15:44:24+00:00"
+"id": "9756f3dce911",
+"t": "",
+"title": "Xi Probes Shanghai Boss, Widening Political Shakeup",
+"url": "https://www.bloomberg.com/news/videos/2026-11-25/xi-probes-shanghai-boss-widening-political-shakeup-video",
+"pub": "2026-11-25T04:25:11+00:00",
+"src": "Bloomberg",
+"kind": "market",
+"seen": "2026-11-25T04:44:49+00:00"
 },
 {
-"id": "91bea939d0fc",
-"t": "UTHR",
-"title": "United Therapeutics Eyes Pivotal 2027 With Two FDA Decisions, Trial Results Ahead",
-"url": "https://www.marketbeat.com/instant-alerts/event-united-therapeutics-eyes-pivotal-2027-with-two-fda-decisions-trial-results-ahead-2026-11-24/",
-"pub": "2026-11-24T15:14:58+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-24T16:32:44+00:00"
-},
-{
-"id": "efaa8bcae621",
-"t": "ZS",
-"title": "Ibotta And 2 Top Owner Operator Stocks To Watch",
-"url": "https://finance.yahoo.com/markets/stocks/articles/ibotta-2-top-owner-operator-151417492.html",
-"pub": "2026-11-24T15:14:17+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-24T15:44:24+00:00"
+"id": "ae80859a868a",
+"t": "",
+"title": "Dangote Refinery Set to Become Africa’s Biggest Listed Company",
+"url": "https://www.bloomberg.com/news/articles/2026-11-25/dangote-refinery-set-to-become-africa-s-biggest-listed-company",
+"pub": "2026-11-25T04:15:00+00:00",
+"src": "Bloomberg",
+"kind": "market",
+"seen": "2026-11-25T04:44:49+00:00"
 },
 {
 "id": "2efc86804497",
@@ -8050,6 +8090,16 @@
 "seen": "2026-11-25T04:02:08+00:00"
 },
 {
+"id": "992f35790bec",
+"t": "",
+"title": "RKFO_bv.NS - | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBwMm83LVpXU0NvQnpIcFVXNS10Mll2aEFBTjN0cXd0X1M1cE9vVFpKanJtbDhkQ3FodW8zZVlfRjlqQTJPTDhmaUZneGxseXFKX1lKcWs0cUllUGxGdG9uMS1HRVNteHp0a2ppR3puQndfeC04VVdZUFdVeEVGakE?oc=5",
+"pub": "2026-11-25T03:23:09+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-25T04:44:49+00:00"
+},
+{
 "id": "c287ddd50807",
 "t": "",
 "title": "Starbucks Is Said to Engage Banks for Sale of Japan Business",
@@ -8078,6 +8128,16 @@
 "src": "WSJ",
 "kind": "market",
 "seen": "2026-11-25T02:56:36+00:00"
+},
+{
+"id": "e2396a6ea0df",
+"t": "",
+"title": "3080.J2 - | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE80V2tWRzMyRUF1RWQ5cHdfSlRNbVd6c21tbno1Z1RlX0ZINFhfNjV5NnlrOHFVSFBhNVVmb2xnaTUtTzJQN3RBamJBdEJwTEpJaVlsSVl3MG01RkhpSkN0dXdWOTAxdkNMRUszNjdXVVVESjZqeHQyY0RR?oc=5",
+"pub": "2026-11-25T02:50:10+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-25T04:44:49+00:00"
 },
 {
 "id": "2ee289f7e9a4",
@@ -8178,6 +8238,16 @@
 "src": "FinancialJuice",
 "kind": "market",
 "seen": "2026-11-25T01:44:29+00:00"
+},
+{
+"id": "db12f9631cb1",
+"t": "",
+"title": "9686ta.HK - | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPRHM4cjNfcWg1d3dPOVlualhRR3dVYmZWTDg2emNweE5fQVk1TUNyT1U4MHpockQ2R1F4WmlOdG5YcXNaV0FrUXZoemZ6d3lRSTVzYmcwN190Tk1TNHNtb0NBM3NETExGaVU3T0NDOEQ1a0dPcWZWbkFLWVVvSk5kQm91NTd5bjRkUWNZ?oc=5",
+"pub": "2026-11-25T01:21:01+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-25T04:44:49+00:00"
 },
 {
 "id": "8024553f1207",
@@ -10948,76 +11018,6 @@
 "src": "Reuters",
 "kind": "market",
 "seen": "2026-11-24T14:16:39+00:00"
-},
-{
-"id": "6a8937dd3ff0",
-"t": "",
-"title": "600121.SH - | Stock Price & Latest News - Reuters",
-"url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQd2VDcHVYWHBaNHhjWHVRNmF5RFcxS1htVG43SVgzZzVXSUxWbjZzaWpSNzFFeEFLQm0xcjVuRGFBZzlNS0ZlUm1VWWxIcUU3bGhiVEdrNmxnUk40czhBRVh6Q3dmZ2VFZWRsUUJmd2JocWM0ekl3X3puaHcxOXNZa3pHTFo0TmhUMU94WVU4c3VVeGc?oc=5",
-"pub": "2026-11-24T13:43:24+00:00",
-"src": "Reuters",
-"kind": "market",
-"seen": "2026-11-24T20:14:02+00:00"
-},
-{
-"id": "01994fd9e21a",
-"t": "",
-"title": "Market Timers Get Schooled as S&P 500 Swings Rip Up Playbooks",
-"url": "https://www.bloomberg.com/news/articles/2026-11-24/market-timers-get-schooled-as-s-p-500-swings-rip-up-playbooks",
-"pub": "2026-11-24T13:41:59+00:00",
-"src": "Bloomberg",
-"kind": "market",
-"seen": "2026-11-24T14:06:43+00:00"
-},
-{
-"id": "6664b919da20",
-"t": "",
-"title": "Zorlu Enerji Elektrik Uretim AS (ZOREN.IS) | Stock Price & Latest News - Reuters",
-"url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1qd2pxMElXTjBzVG94Rk5Send1YXkyRUVKY3FXYnVTQUM5cWhKU3lNSVJkcnhPVldGZUkyQ2RqMzF6M1VPTFFvRzlYZEpLRThxY2lCRy1oYUY2OUc5ZkZLMTF2eUsxd29SenN4LVFzWQ?oc=5",
-"pub": "2026-11-24T13:41:50+00:00",
-"src": "Reuters",
-"kind": "market",
-"seen": "2026-11-24T22:33:52+00:00"
-},
-{
-"id": "d94d99edefbb",
-"t": "",
-"title": "Turkey Frees Ex-Minister Arrested in Fund Scandal After 18 Days",
-"url": "https://www.bloomberg.com/news/articles/2026-11-24/turkey-frees-ex-minister-arrested-in-fund-scandal-after-18-days",
-"pub": "2026-11-24T13:40:02+00:00",
-"src": "Bloomberg",
-"kind": "market",
-"seen": "2026-11-24T14:06:43+00:00"
-},
-{
-"id": "fcb74ad096b3",
-"t": "",
-"title": "Saudis See Economy Taking Smaller Hit From War as Oil Flows Rise",
-"url": "https://www.bloomberg.com/news/articles/2026-11-24/saudis-see-economy-taking-smaller-hit-from-war-as-oil-flows-rise",
-"pub": "2026-11-24T13:37:53+00:00",
-"src": "Bloomberg",
-"kind": "market",
-"seen": "2026-11-24T13:44:55+00:00"
-},
-{
-"id": "2f8e31425f8c",
-"t": "",
-"title": "VODA.INx - Reuters",
-"url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1CTGV5MlJ6NHBPQkZBVFhwNW1XMEp2NjktYXhJNGlrNnVNWS11Y0hxOFBsME5tMDMzQzRSaU5qNnFGazZmakdDN1ZXZTRudmdEWGo4YnBwZlFjSllDUDZuZXZETFRFaExjVWJiSmQxVEJGMTVkZlUwa1QzdV9Wdw?oc=5",
-"pub": "2026-11-24T13:37:50+00:00",
-"src": "Reuters",
-"kind": "market",
-"seen": "2026-11-24T22:33:52+00:00"
-},
-{
-"id": "4aa3b20e15eb",
-"t": "",
-"title": "BOE ‘Behind the Curve’ Unless War Miraculously Ends, Greene Says",
-"url": "https://www.bloomberg.com/news/articles/2026-11-24/boe-behind-the-curve-unless-war-miraculously-ends-greene-says-mwuqeoej",
-"pub": "2026-11-24T13:29:43+00:00",
-"src": "Bloomberg",
-"kind": "market",
-"seen": "2026-11-24T13:44:55+00:00"
 }
 ]
 }
