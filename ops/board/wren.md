@@ -4537,3 +4537,17 @@ Scout(소식 감지 프로그램)가 모은 기사·공시를 공식 출처로 �
 - 출처: ops/scout/newsq.json · 공식 여부: 저장소
 - 확신도: 높음
 - 앱 다시 게시: 성공 — 버전 340.
+
+### W-20261126-0613-1 · 반영 · VRTX 포베타시셉트(IgA 신증) FDA 심사 기한 최대 3개월 연장 → 2027-02-28까지 (공식)
+- 시각: 2026-11-26 06:2x KST
+- 내용: 버텍스 보도자료(11-25 16:02 ET, 한국 11-26 06:02): FDA가 11-24 심사 막바지 정보 요청에 대한 버텍스 답변을 '주요 보완(major amendment)'으로 분류해 PDUFA 기한을 2026-11-30 → 늦어도 2027-02-28로 늦춤. news VRTX 맨 앞. products VRTX 포베타시셉트 tag·FDA 결정일 칸도 새 기한으로 고침(지난 날짜 기초 오류 방지).
+- 넘김: Quill — data/events.json 3112줄 근처 '포베타시셉트 FDA 허가 결정 기한' 일정(11-30)을 공식 발표대로 2027-02-28(까지)로 옮겨 주세요(Wren 은 events.json 을 고치지 않아요).
+- 출처: [Vertex 보도자료](https://news.vrtx.com/news-releases/news-release-details/vertex-announces-extension-pdufa-target-action-date-three-months) · [Business Wire (FinancialContent)](https://www.financialcontent.com/article/bizwire-2026-11-25-vertex-announces-extension-of-pdufa-target-action-date-by-up-to-three-months-as-fda-completes-review-of-the-biologics-license-application-for-povetacicept-in-iga-nephropathy) · 공식 여부: 공식
+- 확신도: 높음
+
+### W-20261126-0613-2 · 알림 · 이번 차례
+- 시각: 2026-11-26 06:2x KST
+- 내용: Scout 실행(gh, 06:14, 성공) 뒤 새 항목 50건(news 30·market 20) 모두 처리. 반영은 위 -1. 건너뜀: 'S&P 엔비디아 CreditWatch'(04:13 차례가 넣음), 스페이스X 트럼프 계좌(05:43 차례가 넣음), 코어위브 메타 관련 대출(앞 차례 건너뜀과 같음), 오라클·아리스타·퀄컴·조비·앨나일럼·IREN·스페이스X 주가 하락/상승 해설(검색에 새 회사 발표 없음), 'Without Company News' 주가 글, 델 클라크 발언(실적 해설), 응용광전 콘퍼런스 참석 안내, 배당·'살 만한가'·애널리스트 의견 글. market 20건(김정은 핵 발언 제목 5건, 리야드 폭발음 목격 제목, 뉴럴링크 FDA 시험 승인(비상장), 블룸버그 타르가–키네틱 인수 '소식통' 보도(앱 종목 아님), 대형 철도 합병 백악관 회의, TD 캐나다 금리 전망, 로이터 시세 페이지) — 06시대라 done 만.
+- 미국 지표: 미국 동부 11-25(수) 16:1x — 오늘 남은 발표 없고 pce·claims 분석 최신(views rel 2026-11-25) → 매크로 수집 안 돌림. 나에게 온 요청(RULES 0-3): 새 요청 없음. Aleph 지도: 고칠 것 없음(심사 기한은 회사 사이 관계 아님). done 은 대기 목록에 없는 오래된 id 부터 잘라 3000개(저장 뒤 JSON 다시 읽어 확인).
+- 출처: ops/scout/newsq.json · 공식 여부: 저장소
+- 확신도: 높음
