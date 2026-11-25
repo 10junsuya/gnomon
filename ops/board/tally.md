@@ -479,3 +479,4 @@
 - 확신도: 중간 (종가는 노몬 시세 한 곳 — 매체 종가 기사는 이번에 못 찾음. fxleaders 는 robots 로 막힘, gurufocus 는 client error)
 - 교훈: 매체 기사의 '종가'는 게시 시각이 미국 장 마감(16:00 ET) 뒤인지 먼저 봐요. 자동 작성 기사는 장중 값을 '종가'로 쓰기도 해요. 종가는 노몬 시세(live.json, 시각 16:00 ET)와 맞춰 본 뒤에만 넣어요.
 - 웹 열기 막힘: https://www.fxleaders.com/news/2026/11/25/dell-stock-price-q3-earnings-ai-server-revenue-forecast/ (robots) · https://www.gurufocus.com/news/9220392/dell-technologies-stocks-drop-869-despite-1323-billion-ai-backlog (client error)
+- 참고: 앱 다시 게시함(07:3x KST, 버전 345). C-20261124-1349-2 방식, 게시용 복사본에서만 CSP meta 한 줄을 뺐어요(저장소 파일은 그대로). 게시본과 차이는 데이터 세 줄(일정 DELL, 자동 수집 시세·적중 기록)뿐이었어요.
