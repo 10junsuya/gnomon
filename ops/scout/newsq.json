@@ -1,21 +1,61 @@
 {
-"updated_kst": "2026-11-26 04:44",
-"rot": 141,
+"updated_kst": "2026-11-26 05:06",
+"rot": 22,
 "how": "Scout(프로그램)이 10분마다 모은 기사 제목·링크와 공시예요. Wren이 공식 출처로 확인한 뒤 회사 화면에 한국어로 반영해요. 본문은 받지 않아요.",
 "sources": {
 "Yahoo Finance": "120종목 확인 · 실패 0",
-"GlobeNewswire": "실패 HTTPError",
-"PR Newswire": "1건",
+"GlobeNewswire": "0건",
+"PR Newswire": "0건",
 "Business Wire": "0건",
 "CNBC": "63건",
 "Bloomberg": "40건",
 "WSJ": "61건",
-"Reuters": "100건",
+"Reuters": "46건",
 "FinancialJuice": "100건",
 "SEC EDGAR": "실패 HTTPError",
 "Fox Business": "50건"
 },
 "items": [
+{
+"id": "12e199285c9a",
+"t": "NVDA",
+"title": "Walmart+ Members Spend 4 Times As Much As Non-Members. The Retailer’s New $120 Bundle Could Unlock More Growth.",
+"url": "https://www.fool.com/investing/2026/11/25/walmart-members-spend-4-times-as-much-as-non-members-the-retailer-s-new-usd120-bundle-could-unlock-more-growth/",
+"pub": "2026-11-25T19:50:02+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-25T20:06:21+00:00"
+},
+{
+"id": "2d0676af6d60",
+"t": "BE",
+"title": "Why ADS-TEC Energy (ADSE) Stock Is Up 6.8% Today Without Company News",
+"url": "https://finance.yahoo.com/markets/stocks/articles/why-ads-tec-energy-adse-194516791.html",
+"pub": "2026-11-25T19:45:16+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-25T20:06:21+00:00"
+},
+{
+"id": "d870de871757",
+"t": "NVDA",
+"title": "Why Lucid Stock Is Moving in Reverse Today",
+"url": "https://www.fool.com/investing/2026/11/25/why-lucid-stock-is-moving-in-reverse-today/",
+"pub": "2026-11-25T19:38:59+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-25T20:06:21+00:00"
+},
+{
+"id": "1d55a0f9264d",
+"t": "NVDA",
+"title": "Abercrombie & Fitch Grew Sales for the 16th Straight Quarter as Earnings Jumped 62%. Here's What's Behind the Streak.",
+"url": "https://www.fool.com/investing/2026/11/25/abercrombie-fitch-grew-sales-for-the-16th-straight-quarter-as-earnings-jumped-62-heres-whats-behind-the-streak/",
+"pub": "2026-11-25T19:36:02+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-25T20:06:21+00:00"
+},
 {
 "id": "bd77a61a9fc6",
 "t": "CRWV",
@@ -55,6 +95,16 @@
 "src": "Yahoo Finance",
 "kind": "news",
 "seen": "2026-11-25T19:44:14+00:00"
+},
+{
+"id": "2b6f947f9c5e",
+"t": "NVDA",
+"title": "See how Jensen Huang's fortune compares with the richest Americans in history",
+"url": "https://www.businessinsider.com/richest-americans-in-history",
+"pub": "2026-11-25T19:27:36+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-25T20:06:21+00:00"
 },
 {
 "id": "b36aacf76595",
@@ -107,6 +157,16 @@
 "seen": "2026-11-25T19:44:14+00:00"
 },
 {
+"id": "d51076db51d2",
+"t": "SPCX",
+"title": "Meta Says Muse “Raises Conversions for Advertisers.” It Already Places 51% of AI Agent Orders",
+"url": "https://www.tikr.com/blog/meta-says-muse-raises-conversions-for-advertisers-it-already-places-51-of-ai-agent-orders",
+"pub": "2026-11-25T19:20:33+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-25T20:06:21+00:00"
+},
+{
 "id": "f1f0d6896e02",
 "t": "MU",
 "title": "David Tepper Sold All of His AMD Stock. His Biggest Position Is Micron.",
@@ -155,6 +215,16 @@
 "src": "Yahoo Finance",
 "kind": "news",
 "seen": "2026-11-25T19:44:14+00:00"
+},
+{
+"id": "18f2b56c7ee1",
+"t": "META",
+"title": "Meta’s AI shopping push could lift Instagram ad revenue, Jefferies says",
+"url": "https://www.proactiveinvestors.com/companies/news/1102462/meta-s-ai-shopping-push-could-lift-instagram-ad-revenue-jefferies-says-1102462.html",
+"pub": "2026-11-25T19:09:00+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-25T20:06:21+00:00"
 },
 {
 "id": "4324184be369",
@@ -225,6 +295,16 @@
 "src": "Yahoo Finance",
 "kind": "news",
 "seen": "2026-11-25T19:14:43+00:00"
+},
+{
+"id": "35ea56207316",
+"t": "QBTS",
+"title": "QBTS vs. RGTI: Which Is the Better Quantum Computing Stock to Buy Now?",
+"url": "https://finance.yahoo.com/markets/stocks/articles/qbts-vs-rgti-better-quantum-190000018.html",
+"pub": "2026-11-25T19:00:00+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-25T20:06:21+00:00"
 },
 {
 "id": "f79537331d4f",
@@ -7940,84 +8020,24 @@
 "seen": "2026-11-25T11:44:20+00:00"
 },
 {
-"id": "bed588956242",
-"t": "VRT",
-"title": "Vertiv Holdings Co (VRT) Looks Repriced Following AI Data Center Wins And Higher Guidance",
-"url": "https://finance.yahoo.com/technology/ai/articles/vertiv-holdings-co-vrt-looks-110832574.html",
-"pub": "2026-11-25T11:08:32+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-25T11:44:20+00:00"
+"id": "b3f80b4f7e7b",
+"t": "",
+"title": "Stocks Continue Fall as Nvidia Reinstatement Rally Fades",
+"url": "https://www.bloomberg.com/news/videos/2026-11-25/stocks-continue-fall-as-nvidia-reinstatement-rally-fades",
+"pub": "2026-11-25T19:49:18+00:00",
+"src": "Bloomberg",
+"kind": "market",
+"seen": "2026-11-25T20:06:21+00:00"
 },
 {
-"id": "de62d83163c5",
-"t": "NET",
-"title": "Cloudflare (NET) Could Be 72% Overvalued As Digital Identity Buzz Builds",
-"url": "https://finance.yahoo.com/markets/stocks/articles/cloudflare-net-could-72-overvalued-110831937.html",
-"pub": "2026-11-25T11:08:31+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-25T12:37:37+00:00"
-},
-{
-"id": "d3554c453069",
-"t": "JPM",
-"title": "FDIC-Insured Banks' Q3 Earnings Grow Y/Y, Asset Quality Holds Steady",
-"url": "https://finance.yahoo.com/markets/stocks/articles/fdic-insured-banks-q3-earnings-110800983.html",
-"pub": "2026-11-25T11:08:00+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-25T12:14:33+00:00"
-},
-{
-"id": "82d1bdcc1d66",
-"t": "AAOI",
-"title": "Supply Deal Might Change The Case For Investing In Applied Optoelectronics (AAOI)",
-"url": "https://finance.yahoo.com/markets/stocks/articles/supply-deal-might-change-case-110727461.html",
-"pub": "2026-11-25T11:07:27+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-25T11:44:20+00:00"
-},
-{
-"id": "8c47e11ef190",
-"t": "CRDO",
-"title": "Credo Technology Group Holding (CRDO) Stock Still Looks Undervalued After Its 7x Run",
-"url": "https://finance.yahoo.com/markets/stocks/articles/credo-technology-group-holding-crdo-110715948.html",
-"pub": "2026-11-25T11:07:15+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-25T12:37:37+00:00"
-},
-{
-"id": "33f6b288af5a",
-"t": "NVDA",
-"title": "Dell Delivered Strong Earnings but at the Wrong Time for the Stock",
-"url": "https://finance.yahoo.com/m/7bfc9015-4ca1-3f6d-81d5-7ffb1b1990e6/dell-delivered-strong.html",
-"pub": "2026-11-25T11:06:00+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-25T11:14:11+00:00"
-},
-{
-"id": "1f66933668ed",
-"t": "ORCL",
-"title": "iShares Expanded Tech-Software (IGV) Buys $15 Million More Palo Alto on Nov. 23",
-"url": "https://finance.yahoo.com/markets/stocks/articles/ishares-expanded-tech-software-igv-110551099.html",
-"pub": "2026-11-25T11:05:51+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-25T11:14:11+00:00"
-},
-{
-"id": "b5d67a9988d7",
-"t": "MU",
-"title": "Proshares Trust (TQQQ) Sells Apple and Nvidia on Nov. 23",
-"url": "https://finance.yahoo.com/markets/stocks/articles/proshares-trust-tqqq-sells-apple-110547396.html",
-"pub": "2026-11-25T11:05:47+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-25T11:14:11+00:00"
+"id": "2ba651f6ee1e",
+"t": "",
+"title": "Nvidia U-Turn Is Bad News For Anthropic, Says Parmy Olson",
+"url": "https://www.bloomberg.com/news/videos/2026-11-25/nvidia-u-turn-is-bad-news-for-anthropic-parmy-olson-video",
+"pub": "2026-11-25T19:48:58+00:00",
+"src": "Bloomberg",
+"kind": "market",
+"seen": "2026-11-25T20:06:21+00:00"
 },
 {
 "id": "0c39c5e9c686",
@@ -8058,6 +8078,26 @@
 "src": "Bloomberg",
 "kind": "market",
 "seen": "2026-11-25T19:44:14+00:00"
+},
+{
+"id": "d1313c3f3baa",
+"t": "",
+"title": "M&A in the Industrials Sector Looks Set for a Robust 2027",
+"url": "https://www.bloomberg.com/news/articles/2026-11-25/m-a-in-the-industrials-sector-looks-set-for-a-robust-2027",
+"pub": "2026-11-25T19:35:06+00:00",
+"src": "Bloomberg",
+"kind": "market",
+"seen": "2026-11-25T20:06:21+00:00"
+},
+{
+"id": "8635de55eab0",
+"t": "",
+"title": "La Caisse’s Infrastructure Arm Pauses Bond Sale as Market Sours",
+"url": "https://www.bloomberg.com/news/articles/2026-11-25/la-caisse-s-infrastructure-arm-pauses-bond-sale-as-market-sours",
+"pub": "2026-11-25T19:34:38+00:00",
+"src": "Bloomberg",
+"kind": "market",
+"seen": "2026-11-25T20:06:21+00:00"
 },
 {
 "id": "3e4469826025",
@@ -8378,6 +8418,26 @@
 "src": "FinancialJuice",
 "kind": "market",
 "seen": "2026-11-25T18:45:05+00:00"
+},
+{
+"id": "3233fc7cc942",
+"t": "",
+"title": "Jamie Dimon Loved Britain—Until It Raised Taxes on JPMorgan",
+"url": "https://www.wsj.com/finance/banking/jamie-dimon-loved-britainuntil-it-raised-taxes-on-jpmorgan-3462d7b6",
+"pub": "2026-11-25T18:24:00+00:00",
+"src": "WSJ",
+"kind": "market",
+"seen": "2026-11-25T20:06:21+00:00"
+},
+{
+"id": "f28484a89c64",
+"t": "",
+"title": "RWE AG (RWEG.DE) | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBCTlB1dzl0LXRmT1B0LXlYQ3NZNW9VS2dORC11VU94N2FkdVFRaTl4SC04YWRPblkzMENJdVliaWNJQ2J5UWNHZkdXbXhWWmVyUFNUaHhjQUpWcGdnNmtn?oc=5",
+"pub": "2026-11-25T18:17:28+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-25T20:06:21+00:00"
 },
 {
 "id": "9cb57a3745cd",
@@ -10958,66 +11018,6 @@
 "src": "Reuters",
 "kind": "market",
 "seen": "2026-11-25T16:44:23+00:00"
-},
-{
-"id": "1c12465300be",
-"t": "",
-"title": "ECB's Kocher: Demand not driving prices at the moment",
-"url": "https://www.financialjuice.com/News/9867592/ECBs-Kocher-Demand-not-driving-prices-at-the-moment.aspx?xy=rss",
-"pub": "2026-11-25T11:03:49+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-25T11:14:11+00:00"
-},
-{
-"id": "09002a44a3a4",
-"t": "",
-"title": "ECB's Kocher: Economy is resilient, but it's still fragile",
-"url": "https://www.financialjuice.com/News/9867591/ECBs-Kocher-Economy-is-resilient-but-its-still-fragile.aspx?xy=rss",
-"pub": "2026-11-25T11:03:38+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-25T11:14:11+00:00"
-},
-{
-"id": "6d280d651157",
-"t": "",
-"title": "ECB's Kocher: ECB should err on the prudent side and not act too late",
-"url": "https://www.financialjuice.com/News/9867590/ECBs-Kocher-ECB-should-err-on-the-prudent-side-and-not-act-too-late.aspx?xy=rss",
-"pub": "2026-11-25T11:03:27+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-25T11:14:11+00:00"
-},
-{
-"id": "87917b72cbf8",
-"t": "",
-"title": "ECB's Kocher: Market pricing doesn't seem completely unreasonable",
-"url": "https://www.financialjuice.com/News/9867589/ECBs-Kocher-Market-pricing-doesnt-seem-completely-unreasonable.aspx?xy=rss",
-"pub": "2026-11-25T11:03:09+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-25T11:14:11+00:00"
-},
-{
-"id": "d2a1a99bca65",
-"t": "",
-"title": "Copper Slumps Amid AI Roller Coaster But Physical Supply Remains Tight",
-"url": "https://www.wsj.com/finance/commodities-futures/copper-slumps-amid-ai-roller-coaster-but-physical-supply-remains-tight-14fd2a91",
-"pub": "2026-11-25T11:03:00+00:00",
-"src": "WSJ",
-"kind": "market",
-"seen": "2026-11-25T11:14:11+00:00"
-},
-{
-"id": "a8faec5ebd45",
-"t": "",
-"title": "ECB's Kocher: ECB likely to revise inflation outlook up in December",
-"url": "https://www.financialjuice.com/News/9867588/ECBs-Kocher-ECB-likely-to-revise-inflation-outlook-up-in-December.aspx?xy=rss",
-"pub": "2026-11-25T11:03:00+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-25T11:14:11+00:00"
 }
 ]
 }
