@@ -4259,3 +4259,4 @@ Scout(소식 감지 프로그램)가 모은 기사·공시를 공식 출처로 �
 - 웹 열기 막힘: https://finance.yahoo.com/technology/ai/articles/exclusive-meta-amazon-discuss-ending-080100266.html (권한 요청에 응답 없음)
 - 출처: ops/scout/newsq.json · 공식 여부: 저장소
 - 확신도: 높음
+- 앱 다시 게시: 성공 — 버전 327.
