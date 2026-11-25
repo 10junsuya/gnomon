@@ -1,6 +1,6 @@
 {
-"updated_kst": "2026-11-25 15:44",
-"rot": 129,
+"updated_kst": "2026-11-25 16:14",
+"rot": 10,
 "how": "Scout(프로그램)이 10분마다 모은 기사 제목·링크와 공시예요. Wren이 공식 출처로 확인한 뒤 회사 화면에 한국어로 반영해요. 본문은 받지 않아요.",
 "sources": {
 "Yahoo Finance": "120종목 확인 · 실패 0",
@@ -10,12 +10,62 @@
 "CNBC": "63건",
 "Bloomberg": "40건",
 "WSJ": "61건",
-"Reuters": "56건",
+"Reuters": "100건",
 "FinancialJuice": "100건",
 "SEC EDGAR": "실패 HTTPError",
 "Fox Business": "50건"
 },
 "items": [
+{
+"id": "d4171a92a32f",
+"t": "NVDA",
+"title": "Nvidia’s spying scandal is backfiring on China",
+"url": "https://uk.finance.yahoo.com/news/nvidia-spying-scandal-backfiring-china-070000166.html",
+"pub": "2026-11-25T07:00:00+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-25T07:14:48+00:00"
+},
+{
+"id": "49038ad8f477",
+"t": "SPCX",
+"title": "AI Concerns Resurface? ORCL, GOOGL, SPCX, CRWV Credit Default Swap Spreads Hit Records As NVDA, ANT Tumble",
+"url": "https://stocktwits.com/news-articles/markets/equity/ai-concerns-resurface-orcl-googl-spcx-crwv-credit-default-swap-spreads-hit-records-as-nvda-ant-tumble/cNbHEEAR9lZ",
+"pub": "2026-11-25T06:56:18+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-25T07:14:48+00:00"
+},
+{
+"id": "25ffc75ffc9b",
+"t": "NVDA",
+"title": "NVDA Eyes Worst Month Since 2022 — Dip Buyers Are ‘Still Fighting To Break Even’ After Huang’s Return, Analyst Says",
+"url": "https://stocktwits.com/news-articles/markets/equity/nvda-dip-buyers-still-fighting-break-even-after-huang-return-analyst-says/cNbHEckR9lm",
+"pub": "2026-11-25T06:52:33+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-25T07:14:48+00:00"
+},
+{
+"id": "d2d2a646f5a7",
+"t": "NVDA",
+"title": "Bitcoin extends losses below $59,000 as ETF outflows weigh",
+"url": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-extends-losses-below-59-064934005.html",
+"pub": "2026-11-25T06:49:34+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-25T07:14:48+00:00"
+},
+{
+"id": "d1cc0f4ba438",
+"t": "NVDA",
+"title": "Where Will Palantir Stock Be at the End of 2030?",
+"url": "https://www.fool.com/investing/2026/11/25/where-will-palantir-stock-be-at-the-end-of-2030/",
+"pub": "2026-11-25T06:47:02+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-25T07:14:48+00:00"
+},
 {
 "id": "d6819ce49c98",
 "t": "NVDA",
@@ -7970,54 +8020,144 @@
 "seen": "2026-11-24T16:15:36+00:00"
 },
 {
-"id": "5fb3048306fb",
-"t": "ABT",
-"title": "Why Varex Imaging (VREX) Stock Is Down 4.2% Today Without Company News",
-"url": "https://finance.yahoo.com/markets/stocks/articles/why-varex-imaging-vrex-stock-153052784.html",
-"pub": "2026-11-24T15:30:52+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-24T16:15:36+00:00"
+"id": "a76c46855fd5",
+"t": "",
+"title": "China's foreign ministry, on US planned tariffs announcement: The so-called overcapacity does not really exist",
+"url": "https://www.financialjuice.com/News/9867337/Chinas-foreign-ministry-on-US-planned-tariffs-announcement-The-so-called-overcapacity-does-not-really-exist.aspx?xy=rss",
+"pub": "2026-11-25T07:13:58+00:00",
+"src": "FinancialJuice",
+"kind": "market",
+"seen": "2026-11-25T07:14:48+00:00"
 },
 {
-"id": "0645a5e53fce",
-"t": "REGN",
-"title": "Why MapLight Therapeutics (MPLT) Stock Is Up 16.1% Today Without Company News",
-"url": "https://finance.yahoo.com/markets/stocks/articles/why-maplight-therapeutics-mplt-stock-153048855.html",
-"pub": "2026-11-24T15:30:48+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-24T16:44:26+00:00"
+"id": "749ae1aba4f8",
+"t": "",
+"title": "UK Energy Bills Rise 26% With War Fueling Cost-of-Living Squeeze",
+"url": "https://www.bloomberg.com/news/articles/2026-11-25/uk-energy-bills-rise-26-with-war-fueling-cost-of-living-squeeze",
+"pub": "2026-11-25T07:04:01+00:00",
+"src": "Bloomberg",
+"kind": "market",
+"seen": "2026-11-25T07:14:48+00:00"
 },
 {
-"id": "61070ea1998e",
-"t": "NVDA",
-"title": "BC-Most Active Stocks",
-"url": "https://finance.yahoo.com/markets/stocks/articles/bc-most-active-stocks-153019321.html",
-"pub": "2026-11-24T15:30:19+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-24T15:44:24+00:00"
+"id": "cdcb078e8e57",
+"t": "",
+"title": "UK energy price cap to rise 26%, fueling cost of living squeeze",
+"url": "https://www.financialjuice.com/News/9867331/UK-energy-price-cap-to-rise-26-fueling-cost-of-living-squeeze.aspx?xy=rss",
+"pub": "2026-11-25T07:01:17+00:00",
+"src": "FinancialJuice",
+"kind": "market",
+"seen": "2026-11-25T07:14:48+00:00"
 },
 {
-"id": "b0590544d66f",
-"t": "CME",
-"title": "BC-Lumber Futures",
-"url": "https://finance.yahoo.com/markets/commodities/articles/bc-lumber-futures-153013531.html",
-"pub": "2026-11-24T15:30:13+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-24T16:32:44+00:00"
+"id": "0bbfe2526c05",
+"t": "",
+"title": "German GDP Final QoQ Actual 0.1% (Forecast 0.2%, Previous 0.2%)",
+"url": "https://www.financialjuice.com/News/9867326/German-GDP-Final-QoQ-Actual-01-Forecast-02-Previous-02.aspx?xy=rss",
+"pub": "2026-11-25T07:00:10+00:00",
+"src": "FinancialJuice",
+"kind": "market",
+"seen": "2026-11-25T07:14:48+00:00"
 },
 {
-"id": "abbf0ae9addd",
-"t": "NVDA",
-"title": "Despite Jensen's return, Nvidia still needs to address several management issues",
-"url": "https://finance.yahoo.com/video/despite-jensens-return-nvidia-still-153000278.html",
-"pub": "2026-11-24T15:30:00+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-24T15:44:24+00:00"
+"id": "260dc124aab9",
+"t": "",
+"title": "German GDP Final YoY NSA Actual 1.2% (Forecast 1.3%, Previous 1.3%)",
+"url": "https://www.financialjuice.com/News/9867325/German-GDP-Final-YoY-NSA-Actual-12-Forecast-13-Previous-13.aspx?xy=rss",
+"pub": "2026-11-25T07:00:10+00:00",
+"src": "FinancialJuice",
+"kind": "market",
+"seen": "2026-11-25T07:14:48+00:00"
+},
+{
+"id": "ab556fdd7a73",
+"t": "",
+"title": "German GDP Final YoY SA Actual 1.1% (Forecast 1.2%, Previous 1.2%)",
+"url": "https://www.financialjuice.com/News/9867324/German-GDP-Final-YoY-SA-Actual-11-Forecast-12-Previous-12.aspx?xy=rss",
+"pub": "2026-11-25T07:00:09+00:00",
+"src": "FinancialJuice",
+"kind": "market",
+"seen": "2026-11-25T07:14:48+00:00"
+},
+{
+"id": "3c256e10f18e",
+"t": "",
+"title": "Swedish PPI MoM Actual 0.9% (Forecast -, Previous 3.4%)",
+"url": "https://www.financialjuice.com/News/9867323/Swedish-PPI-MoM-Actual-09-Forecast---Previous-34.aspx?xy=rss",
+"pub": "2026-11-25T07:00:02+00:00",
+"src": "FinancialJuice",
+"kind": "market",
+"seen": "2026-11-25T07:14:48+00:00"
+},
+{
+"id": "8ae9a9266fa4",
+"t": "",
+"title": "Swedish PPI YoY Actual 11.8% (Forecast -, Previous 11.2%)",
+"url": "https://www.financialjuice.com/News/9867322/Swedish-PPI-YoY-Actual-118-Forecast---Previous-112.aspx?xy=rss",
+"pub": "2026-11-25T07:00:01+00:00",
+"src": "FinancialJuice",
+"kind": "market",
+"seen": "2026-11-25T07:14:48+00:00"
+},
+{
+"id": "29303e1ce6c8",
+"t": "",
+"title": "Horizons Middle East & Africa 25/112026 (Video)",
+"url": "https://www.bloomberg.com/news/videos/2026-11-25/horizons-middle-east-africa-25-112026-video",
+"pub": "2026-11-25T06:57:52+00:00",
+"src": "Bloomberg",
+"kind": "market",
+"seen": "2026-11-25T07:14:48+00:00"
+},
+{
+"id": "c4f4e39fb5dd",
+"t": "",
+"title": "Dangote Refinery Said to List in Lagos on December 1",
+"url": "https://www.bloomberg.com/news/videos/2026-11-25/dangote-refinery-said-to-list-in-lagos-on-december-1-video",
+"pub": "2026-11-25T06:53:07+00:00",
+"src": "Bloomberg",
+"kind": "market",
+"seen": "2026-11-25T07:14:48+00:00"
+},
+{
+"id": "9ff0dac1e639",
+"t": "",
+"title": "Danantara Reports $634 Billion in Assets in First Audited Report",
+"url": "https://www.bloomberg.com/news/articles/2026-11-25/danantara-reports-634-billion-in-assets-in-first-audited-report",
+"pub": "2026-11-25T06:51:36+00:00",
+"src": "Bloomberg",
+"kind": "market",
+"seen": "2026-11-25T07:14:48+00:00"
+},
+{
+"id": "ccf5ee394d6f",
+"t": "",
+"title": "Treasuries Rise Across Curve as AI Concerns Dent Risk Sentiment",
+"url": "https://www.bloomberg.com/news/articles/2026-11-25/treasuries-rise-across-curve-as-ai-concerns-dent-risk-sentiment",
+"pub": "2026-11-25T06:49:34+00:00",
+"src": "Bloomberg",
+"kind": "market",
+"seen": "2026-11-25T07:14:48+00:00"
+},
+{
+"id": "ade35f433a57",
+"t": "",
+"title": "GPIF Agenda May Signal Portfolio Review Progress, JPMorgan Says",
+"url": "https://www.bloomberg.com/news/articles/2026-11-25/gpif-agenda-may-signal-portfolio-review-progress-jpmorgan-says-mwvrj40v",
+"pub": "2026-11-25T06:48:56+00:00",
+"src": "Bloomberg",
+"kind": "market",
+"seen": "2026-11-25T07:14:48+00:00"
+},
+{
+"id": "d03bc14efca3",
+"t": "",
+"title": "FTSE 100 Live: UK Stocks to Rebound, Pound Slips Further Below $1.31",
+"url": "https://www.bloomberg.com/news/live-blog/2026-11-25/ftse-100-live-updates-ai-stocks-pound-gilts-bonds-energy-bills-what-s-moving-uk-markets-right-now-markets-today",
+"pub": "2026-11-25T06:47:16+00:00",
+"src": "Bloomberg",
+"kind": "market",
+"seen": "2026-11-25T07:14:48+00:00"
 },
 {
 "id": "17d57bcbe3fa",
@@ -8400,6 +8540,16 @@
 "seen": "2026-11-25T05:14:58+00:00"
 },
 {
+"id": "1ca855c469ac",
+"t": "",
+"title": "Vanguard Morningstar Growth Index Mutual Fund Investor Shares (VIGRX.O) | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE82QWNET1BpTDFlQ2lPS1dXX2c3RjBXcTFWSjhwNHlBR0RoZ0F3bFEyeXZSZlptd0FQXzZ1QXhyVzFwTkRFbDdOWGRadVlBMjRfRGJjV1VNa3BfOEptX1V2UDVHZEV0cGpFT3FJQ3VR?oc=5",
+"pub": "2026-11-25T05:00:21+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-25T07:14:48+00:00"
+},
+{
 "id": "bcee03b192b4",
 "t": "",
 "title": "Indonesia central bank expects to keep benchmark rate at 6% in 2027, governor says - Reuters",
@@ -8490,6 +8640,16 @@
 "seen": "2026-11-25T04:02:08+00:00"
 },
 {
+"id": "3ebd3d1368bf",
+"t": "",
+"title": "126640ta.KQ - | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5vVC14VXhVd1NxMXY2T1B0RGZUWmM1YjEtZmExZ3U0TW9nWk1SOTloYXdIQ1V4YW5VbUQwamlXQWU5NEg4enhXY0N6VDFrRTZfZmp3UU9hVi13NE5aX2pYSGFZeXlfREgwZkcwSnJ2bF80VDNVNHdRbVdyTVJCdw?oc=5",
+"pub": "2026-11-25T03:56:17+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-25T07:14:48+00:00"
+},
+{
 "id": "936f5bc68867",
 "t": "",
 "title": "KIRPta.NS - | Stock Price & Latest News - Reuters",
@@ -8558,6 +8718,16 @@
 "src": "Reuters",
 "kind": "market",
 "seen": "2026-11-25T06:14:14+00:00"
+},
+{
+"id": "bf6ead494fe7",
+"t": "",
+"title": "7084.JNF - | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9GRFhqOUdmbk1pNmk0S1F6Z2k3b3RwSHE0U3J0aHlkc3duaGFXMFVRdDlRdjVGcmtlbmp4czEyVHRraWhWSGFjYm1TZlA2QzlnV1lxVzNqRnhjOFA2OWlGTnExOWxqLU1FcmxnQ05MbmtFUER0enY5anYyVkQ?oc=5",
+"pub": "2026-11-25T03:21:50+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-25T07:14:48+00:00"
 },
 {
 "id": "887c70cc25b6",
@@ -8630,6 +8800,16 @@
 "seen": "2026-11-25T06:44:47+00:00"
 },
 {
+"id": "6b80c5d724e5",
+"t": "",
+"title": "Precipitate Gold Corp (PRG.V) | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE43Tzhqd3lGYkJJXzQwSENFc2tPQ0o4QXNteE5ES3ZJVFgwb3VwQ3NDZkhqTnE3elBfLUNDaVpJWXBBMmxlaURWWHFmeDh0eWRzdWwwR2xyeVpUenM3N0I5N2tNeUdHSUlJaFE?oc=5",
+"pub": "2026-11-25T02:53:34+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-25T07:14:48+00:00"
+},
+{
 "id": "9d6f0b686d18",
 "t": "",
 "title": "Asian Stocks Mostly Lower on AI Doubts, Tariff Jitters",
@@ -8638,6 +8818,16 @@
 "src": "WSJ",
 "kind": "market",
 "seen": "2026-11-25T02:56:36+00:00"
+},
+{
+"id": "8b5ac38ca2e0",
+"t": "",
+"title": "HBM.CCP - Reuters",
+"url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1sVzNvUmk1cFRNNUNObmgzTXBuaEFJcjN1X01HTkF3dGpJWEJHZS1meld3Z2dtSDVZOUVwUE9IT3J3MkZKd0hRbUktbVY3MjVVd3Zfd2todDVNT09abW04MnlxYlJsajAxVUU1RjZrWWRXa0N5aHhJMGdiNkI?oc=5",
+"pub": "2026-11-25T02:50:16+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-25T07:14:48+00:00"
 },
 {
 "id": "e2396a6ea0df",
@@ -8778,6 +8968,16 @@
 "src": "WSJ",
 "kind": "market",
 "seen": "2026-11-25T02:14:10+00:00"
+},
+{
+"id": "c53d431744f1",
+"t": "",
+"title": "600368ta.SS - | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNcjlJR01YZjdEbG5iX3NHTDNWenlOX0YweGZNTi1oMDF1dGg0cGFTSVFEa1V5dnlHU1RQRnRkQmY3SFhPMTFpMnFUU2N5ejJaODBfSG5UMDR5bjk5WjB3c01ycDJzY3RwamFLUUFleHd3cElDVkN2LVlYcGg1SlZuMkhjNFNuZXdQODBKekI5c1ZXblR2Vnc?oc=5",
+"pub": "2026-11-25T01:57:05+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-25T07:14:48+00:00"
 },
 {
 "id": "d5ecc1e32cfc",
@@ -9638,6 +9838,16 @@
 "src": "Fox Business",
 "kind": "market",
 "seen": "2026-11-24T20:44:03+00:00"
+},
+{
+"id": "01f9061c1dcb",
+"t": "",
+"title": "Delsole Corp (2876.T) | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBIaXpWY29sbVVtcVJyU1hfdlRwVlJiS3A0QjI5eDJGZFFCdExMeDRtNlVXWjQya0Q4UndQaVh6ZXVGRk9LYk9LX0NIbXpBTlJsdy03ajZEVUlLLUNTMTVGYWp1S1dfZ2hMRnZTOGhB?oc=5",
+"pub": "2026-11-24T20:34:53+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-25T07:14:48+00:00"
 },
 {
 "id": "d0a3fdf3275d",
@@ -10806,216 +11016,6 @@
 "url": "https://www.financialjuice.com/News/9866388/US-52-Week-Bill-High-Yield-Actual-4365-Forecast---Previous-4290.aspx?xy=rss",
 "pub": "2026-11-24T16:32:17+00:00",
 "src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-24T16:32:44+00:00"
-},
-{
-"id": "3b7a5f1f0f81",
-"t": "",
-"title": "EU Commission says French draft 2027 budget is in line with EU rules - Reuters",
-"url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPaFNfOVdRWDJjRERXMUV5ZVRNc1lQU2RhN3pndUQxdVJoeEhsRjJBZnpJa25iUzNGNkJobkdaajZCUUNpeEpNWWlIdW1JS1Exd2VvUjVzWXJlbXpmVE9QNFVHS2wxYmQ3a29FZC0tVjFPMHA3SnR2dTVvRWNNMWZkSHVxclVGdDV2RGpZU1FNSS1Ibm5pc1l1dFJjRHIyZGRkdm1DT2tHb0JGZjhKQjJibDBLS2NHT28?oc=5",
-"pub": "2026-11-24T16:31:43+00:00",
-"src": "Reuters",
-"kind": "market",
-"seen": "2026-11-24T16:44:26+00:00"
-},
-{
-"id": "f69047b68157",
-"t": "",
-"title": "UKMTO: Tanker struck while transiting Hormuz eastbound Nov. 22nd",
-"url": "https://www.financialjuice.com/News/9866373/UKMTO-Tanker-struck-while-transiting-Hormuz-eastbound-Nov-22nd.aspx?xy=rss",
-"pub": "2026-11-24T16:29:13+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-24T16:32:44+00:00"
-},
-{
-"id": "259950a823e0",
-"t": "",
-"title": "Nvidia’s Board Faces Governance Questions",
-"url": "https://www.bloomberg.com/news/videos/2026-11-24/nvidia-s-board-faces-governance-questions-video",
-"pub": "2026-11-24T16:23:23+00:00",
-"src": "Bloomberg",
-"kind": "market",
-"seen": "2026-11-24T16:32:44+00:00"
-},
-{
-"id": "8a0e42183631",
-"t": "",
-"title": "Goldman's Rosner: Fed Hikes ‘Metered,’ Not Big Cycle",
-"url": "https://www.bloomberg.com/news/videos/2026-11-24/goldman-s-rosner-fed-hikes-metered-not-big-cycle-video",
-"pub": "2026-11-24T16:16:23+00:00",
-"src": "Bloomberg",
-"kind": "market",
-"seen": "2026-11-24T16:32:44+00:00"
-},
-{
-"id": "0c081fc08ffb",
-"t": "",
-"title": "Fed bids for 52-Week bills total $4.1 bln",
-"url": "https://www.financialjuice.com/News/9866367/Fed-bids-for-52-Week-bills-total-41-bln.aspx?xy=rss",
-"pub": "2026-11-24T16:15:35+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-24T16:15:36+00:00"
-},
-{
-"id": "2cad930face8",
-"t": "",
-"title": "McDonald's Moves on Makeover; Dick's Sporting Goods Up on Earnings | Stock Movers",
-"url": "https://www.bloomberg.com/news/videos/2026-11-24/mcdonald-s-makeover-dick-s-sporting-goods-earnings-video",
-"pub": "2026-11-24T16:13:24+00:00",
-"src": "Bloomberg",
-"kind": "market",
-"seen": "2026-11-24T16:32:44+00:00"
-},
-{
-"id": "9ddc462d52ef",
-"t": "",
-"title": "Microsoft sets target for worldwide mitigation in under an hour for future incidents - Memo. $MSFT",
-"url": "https://www.financialjuice.com/News/9866361/Microsoft-sets-target-for-worldwide-mitigation-in-under-an-hour-for-future-incidents---Memo-MSFT.aspx?xy=rss",
-"pub": "2026-11-24T16:08:25+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-24T16:15:36+00:00"
-},
-{
-"id": "7f1e68d5f73f",
-"t": "",
-"title": "Microsoft has declared 'Code Red' for M365 core service health after Nov 12 outage, internal memos show. $MSFT",
-"url": "https://www.financialjuice.com/News/9866360/Microsoft-has-declared-Code-Red-for-M365-core-service-health-after-Nov-12-outage-internal-memos-show-MSFT.aspx?xy=rss",
-"pub": "2026-11-24T16:08:09+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-24T16:15:36+00:00"
-},
-{
-"id": "3bbd48273841",
-"t": "",
-"title": "Consumer confidence shoots up after Democrats' midterm victories — though inflation worries persist",
-"url": "https://www.cnbc.com/2026/11/24/consumer-confidence-november-election-midterm.html",
-"pub": "2026-11-24T16:06:07+00:00",
-"src": "CNBC",
-"kind": "market",
-"seen": "2026-11-24T16:15:36+00:00"
-},
-{
-"id": "65bc4809990b",
-"t": "",
-"title": "CVS Health Corporation (CVS) | Stock Price & Latest News - Reuters",
-"url": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxNcWtiV0FNQ213M0lwdzVmM3YyRmt1QUhaUGdKT0Q3N0NadElkaGJSOVREUGFwRkpVNXFsa2dadWNiZ0xIb3RTTHVscWQ5NG1ndUxzRE9EOGJOTkxkUVJnSHdQNEtMdmJ3ZFo4YTNiSGNEQVMxLUdveDJiRW5pVXBJdl9CS3RaUm5wTG1EcXdxVzVvOUZMaWZNeWc2Q0dXS25CbEFhMHBjUlZMWUhqRVpXZDNaZjhldnFNSnZ3Z3luNVdGa0FHUG1saFJlVjNwRnh0VXFJNnp0cXBsY2p6cEVCcmxUQkhaQWp2SEdhVjRMYkwtWFRoWFhEZlpvYUZUZTZlRmhzUkNURnQ5MkMyVmdCN1lCV1AxSVZsLVNKb0c4V1hOa2w2UFl0c3ZkTndpRC1DQXFfSnlTVGQ3Y1pYQXUwQUFhNHk0NTZrV1laZ08zajBqSWc?oc=5",
-"pub": "2026-11-24T16:05:34+00:00",
-"src": "Reuters",
-"kind": "market",
-"seen": "2026-11-24T19:35:01+00:00"
-},
-{
-"id": "30a71124935c",
-"t": "",
-"title": "Hg’s Visma Plans Up to €6.5 Billion Debt Sale With UK IPO on Ice",
-"url": "https://www.bloomberg.com/news/articles/2026-11-24/hg-s-visma-plans-up-to-6-5-billion-debt-sale-with-uk-ipo-on-ice",
-"pub": "2026-11-24T16:02:50+00:00",
-"src": "Bloomberg",
-"kind": "market",
-"seen": "2026-11-24T16:32:44+00:00"
-},
-{
-"id": "80b684df7091",
-"t": "",
-"title": "Trump administration officials debating targeting Iran's leaders - NBC, citing sources",
-"url": "https://www.financialjuice.com/News/9866345/Trump-administration-officials-debating-targeting-Irans-leaders---NBC-citing-sources.aspx?xy=rss",
-"pub": "2026-11-24T16:01:48+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-24T16:15:36+00:00"
-},
-{
-"id": "d793e6bf9449",
-"t": "",
-"title": "The Retail Investors Who Believed Nvidia’s Board—and Got Burned by Its U-Turn",
-"url": "https://www.wsj.com/finance/stocks/the-retail-investors-who-believed-nvidias-boardand-got-burned-by-its-u-turn-05349a63",
-"pub": "2026-11-24T16:01:00+00:00",
-"src": "WSJ",
-"kind": "market",
-"seen": "2026-11-24T16:15:36+00:00"
-},
-{
-"id": "94a72edc8fca",
-"t": "",
-"title": "US Treasury to auction $105 bln 4-week bills on November 25th, to settle on December 1st",
-"url": "https://www.financialjuice.com/News/9866343/US-Treasury-to-auction-105-bln-4-week-bills-on-November-25th-to-settle-on-December-1st.aspx?xy=rss",
-"pub": "2026-11-24T16:00:31+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-24T16:15:36+00:00"
-},
-{
-"id": "ce718da49dd7",
-"t": "",
-"title": "Consumer Mood Improves Into Holidays, But Risks Loom",
-"url": "https://www.bloomberg.com/news/videos/2026-11-24/consumer-mood-improves-into-holidays-but-risks-loom-video",
-"pub": "2026-11-24T15:57:01+00:00",
-"src": "Bloomberg",
-"kind": "market",
-"seen": "2026-11-24T16:15:36+00:00"
-},
-{
-"id": "d3c82f5c7c3d",
-"t": "",
-"title": "Consumer Confidence Surges as Americans Grow More Optimistic",
-"url": "https://www.bloomberg.com/news/videos/2026-11-24/us-consumer-confidence-surges-on-increased-optimism-video",
-"pub": "2026-11-24T15:52:58+00:00",
-"src": "Bloomberg",
-"kind": "market",
-"seen": "2026-11-24T16:15:36+00:00"
-},
-{
-"id": "b63c1cd5b658",
-"t": "",
-"title": "Putin: Russia will expand sales market.",
-"url": "https://www.financialjuice.com/News/9866341/Putin-Russia-will-expand-sales-market.aspx?xy=rss",
-"pub": "2026-11-24T15:52:14+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-24T16:15:36+00:00"
-},
-{
-"id": "040ee318b6a6",
-"t": "",
-"title": "Putin: Attempts to curb Russian energy exports will backfire, especially for Europe.",
-"url": "https://www.financialjuice.com/News/9866340/Putin-Attempts-to-curb-Russian-energy-exports-will-backfire-especially-for-Europe.aspx?xy=rss",
-"pub": "2026-11-24T15:51:58+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-24T16:15:36+00:00"
-},
-{
-"id": "280c43554e50",
-"t": "",
-"title": "Putin: Need to develop new energy supply routes.",
-"url": "https://www.financialjuice.com/News/9866339/Putin-Need-to-develop-new-energy-supply-routes.aspx?xy=rss",
-"pub": "2026-11-24T15:51:31+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-24T16:15:36+00:00"
-},
-{
-"id": "7a96c4699163",
-"t": "",
-"title": "Colombia Fiscal Bill Likely to Fall Short, Still Deliver Big Fix",
-"url": "https://www.bloomberg.com/news/articles/2026-11-24/colombia-fiscal-bill-likely-to-fall-short-still-deliver-big-fix",
-"pub": "2026-11-24T15:50:18+00:00",
-"src": "Bloomberg",
-"kind": "market",
-"seen": "2026-11-24T16:15:36+00:00"
-},
-{
-"id": "21ea4d71d301",
-"t": "",
-"title": "Unprecedented CMBS Debt Wipeout Is Coming for Two Hilton Hotels",
-"url": "https://www.bloomberg.com/news/articles/2026-11-24/unprecedented-cmbs-debt-wipeout-is-coming-for-two-hilton-hotels",
-"pub": "2026-11-24T15:50:13+00:00",
-"src": "Bloomberg",
 "kind": "market",
 "seen": "2026-11-24T16:32:44+00:00"
 }
