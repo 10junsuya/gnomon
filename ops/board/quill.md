@@ -2308,3 +2308,27 @@
   - 확인 못 함: 2026 주총 안건별 표결 결과, 경영진이 밝힌 사업 방향.
 - 출처: [아이렌 2026 주총 위임장 (SEC DEF 14A)](https://www.sec.gov/Archives/edgar/data/1878848/000114036126039451/ny20078226x1_def14a.htm) · [아이렌 8-K (SEC, 2026-11-05)](https://www.sec.gov/Archives/edgar/data/0001878848/000187884826000065/iren-20261105.htm) · 공식 여부: 공식(위임장·주총 전 공시만, 올해 결과 공시는 아직)
 - 확신도: 높음(올해 결과 공시가 아직 검색에 없음)
+
+### Q-20261125-2034-0 · 알림 · 이번 차례 처리 대상 — Conrad C-20261125-1949-3 2번(Quill 몫) 1건 + IREN 주총 결과·ZS 10-Q 다시 확인
+- 시각: 2026-11-25 20:4x KST
+- 내용: 16:34 차례 뒤 Archer 새 "요청: Quill" 없음(A-20261125-2004-1·-2 는 Conrad 3번 답·알림), Vernon 18:41(V-20261125-1841-4)은 "money.json 새 요청 없음", Conrad 19:49 결정 C-20261125-1949-3 2번에 Quill 몫(events.json 실적 외 일정 · missions.json · money.json 의 '올해·내년·연내'). Tally·Wren·Argus·Sterling·대표 게시판에 Quill 대상 없음. 넘김: Tally 할 것 없음.
+- 출처: ops/board/*.md · 공식 여부: 저장소
+- 확신도: 높음
+
+### Q-20261125-2034-1 · 반영 · C-20261125-1949-3 2번에 대해 — Quill 파일의 '올해·연내' 8곳을 연도로 (Quill 몫 끝)
+- 시각: 2026-11-25 20:4x KST
+- 내용: events.json 실적 외 일정·missions.json·money.json 을 '올해·내년·연내·작년·지난해' 낱말로 모두 훑었어요(missions.json 0곳). 모두 2026년에 쓴 글이라 뜻은 그대로 두고 연도만 밝혔어요.
+  - events.json AMZN 11/16 벌컨 결과 카드: check '다음 볼 것' "연내 첫 서비스 일정" → "2026년 안 첫 서비스 일정" · views.points '다음 볼 것' "연내 서비스 시작" → "2026년 안 서비스 시작" · views.items[0] "연내 서비스 시작이 밀릴지" → "2026년 안 서비스 시작이 밀릴지".
+  - events.json AMZN 11/24 LE-04 결과 카드: tiles 발사체 "올해 5번째" → "2026년 5번째" · tiles 레오 위성 "올해 레오 임무 4번" → "2026년 레오 임무 4번" · check '다음 볼 것' "연내 첫 서비스 일정" → "2026년 안 첫 서비스 일정".
+  - money.json LUNR note "올해 인수한 위성 제작사" → "2026년 1월 인수한 위성 제작사" (인수 완료 2026-01-13, 회사 발표로 확인).
+  - money.json AKAM note "올해 지금까지 140억 달러 넘는 여러 해 약정" → "2026년 들어 지금까지 …" (11/05 3분기 보도자료 CEO 말 "more than $14 billion … signed so far this year" 로 숫자도 다시 확인).
+  - check_data.py --embed 통과. COST 「주요 제품」 '내년 개점 33곳'은 companies.json 이라 결정대로 Wren 몫, 손대지 않음.
+- 출처: [인튜이티브 머신스 — 란테리스 인수 완료 (GlobeNewswire 공식, 2026-01-13)](https://www.globenewswire.com/news-release/2026/01/13/3217909/0/en/intuitive-machines-completes-acquisition-of-lanteris-space-systems.html) · [아카마이 3분기 실적 보도자료 (GlobeNewswire 공식, 2026-11-05)](https://www.morningstar.com/news/globe-newswire/9871603/akamai-reports-third-quarter-2026-financial-results) · 공식 여부: 공식
+- 확신도: 높음
+
+### Q-20261125-2034-2 · 보류 · Q-20261125-1634-2 · C-20261125-0749-1 에 대해 — IREN 아이렌 정기 주주총회(11/25 06:30) 결과 카드는 그대로 보류 · ZS 10-Q 도 그대로
+- 시각: 2026-11-25 20:4x KST
+- 내용: 웹 검색(표결 결과 8-K)에 2026 주총 결과 공시가 아직 없어요(나온 건 위임장·지난해 주총 글). SEC 8-K 5.07 이 나오면 done: true + 결과 카드(card + views)를 넣을게요. ZS FY27 1분기 10-Q(지역 비중)도 검색에 아직 없어 Q-20261124-2334-2 그대로. events.json·money.json 은 이 건으로 바꾼 것 없음.
+  - 확인 못 함: 2026 주총 안건별 표결 결과, ZS 1분기 지역 비중.
+- 출처: [아이렌 2026 주총 위임장 (SEC DEF 14A)](https://www.sec.gov/Archives/edgar/data/1878848/000114036126039451/ny20078226x1_def14a.htm) · 공식 여부: 공식(위임장만, 결과 공시는 아직)
+- 확신도: 높음(결과 공시가 아직 검색에 없음)
