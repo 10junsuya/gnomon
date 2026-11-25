@@ -1,6 +1,6 @@
 {
-"updated_kst": "2026-11-25 10:13",
-"rot": 124,
+"updated_kst": "2026-11-25 10:44",
+"rot": 5,
 "how": "Scout(프로그램)이 10분마다 모은 기사 제목·링크와 공시예요. Wren이 공식 출처로 확인한 뒤 회사 화면에 한국어로 반영해요. 본문은 받지 않아요.",
 "sources": {
 "Yahoo Finance": "120종목 확인 · 실패 0",
@@ -16,6 +16,66 @@
 "Fox Business": "50건"
 },
 "items": [
+{
+"id": "4627c289d820",
+"t": "INSM",
+"title": "Sanofi (SNY) Just Hit New Heights. Investors Love This Billion-Dollar Move",
+"url": "https://finance.yahoo.com/healthcare/articles/sanofi-sny-just-hit-heights-013741972.html",
+"pub": "2026-11-25T01:37:41+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-25T01:44:29+00:00"
+},
+{
+"id": "4efd366b1ab7",
+"t": "NVDA",
+"title": "Why Nvidia's rebound may not mean the S&P 500 has bottomed",
+"url": "https://www.thestreet.com/investing/why-nvidias-rebound-may-not-mean-the-sp-500-has-bottomed",
+"pub": "2026-11-25T01:23:10+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-25T01:44:29+00:00"
+},
+{
+"id": "65a4ee5f7cbe",
+"t": "NVDA",
+"title": "Trump Says Inflation Could Help Pay Down the National Debt. Here's What That Means for Your Retirement Savings",
+"url": "https://www.fool.com/investing/2026/11/24/trump-says-inflation-could-help-pay-down-the-national-debt-here-s-what-that-means-for-your-retirement-savings/",
+"pub": "2026-11-25T01:20:02+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-25T01:44:29+00:00"
+},
+{
+"id": "0ba127d6f803",
+"t": "NVDA",
+"title": "Anthropic Has Plunged 30% From Its Peak. Here’s the Price at Which I’d Buy.",
+"url": "https://www.fool.com/investing/2026/11/24/anthropic-has-plunged-30-from-its-peak-here-s-the-price-at-which-i-d-buy/",
+"pub": "2026-11-25T01:20:02+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-25T01:44:29+00:00"
+},
+{
+"id": "d783a03051a4",
+"t": "CSCO",
+"title": "Cisco Systems (CSCO) Unveils Shirudo for Real Time AI Cyber Defense",
+"url": "https://finance.yahoo.com/technology/ai/articles/cisco-systems-csco-unveils-shirudo-011419803.html",
+"pub": "2026-11-25T01:14:19+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-25T01:44:29+00:00"
+},
+{
+"id": "0bb7f6449357",
+"t": "INTC",
+"title": "HP Q4 Earnings Call Highlights",
+"url": "https://www.marketbeat.com/instant-alerts/transcript-hp-q4-earnings-call-highlights-2026-11-24/",
+"pub": "2026-11-25T01:13:15+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-25T01:44:29+00:00"
+},
 {
 "id": "745f827f8b6d",
 "t": "NVDA",
@@ -105,6 +165,16 @@
 "src": "Yahoo Finance",
 "kind": "news",
 "seen": "2026-11-25T00:44:53+00:00"
+},
+{
+"id": "3e303b1a7ff0",
+"t": "CSCO",
+"title": "Cisco (CSCO) Stock May Be 29% Undervalued As AI Security News Builds",
+"url": "https://finance.yahoo.com/markets/stocks/articles/cisco-csco-stock-may-29-002031349.html",
+"pub": "2026-11-25T00:20:31+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-25T01:44:29+00:00"
 },
 {
 "id": "2e8f1d4efd3f",
@@ -7950,74 +8020,24 @@
 "seen": "2026-11-24T15:15:37+00:00"
 },
 {
-"id": "1ec9bda359fb",
-"t": "MU",
-"title": "BNP Paribas cuts Micron rating on risks to 2028 hyperscaler capacity plans",
-"url": "https://finance.yahoo.com/markets/stocks/articles/bnp-paribas-cuts-micron-rating-145304912.html",
-"pub": "2026-11-24T14:53:04+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-24T15:15:37+00:00"
+"id": "8fc68de70bea",
+"t": "",
+"title": "Still Too Early to Bet Against the U.S. Dollar",
+"url": "https://www.wsj.com/finance/currencies/still-too-early-to-bet-against-the-u-s-dollar-f6411c71",
+"pub": "2026-11-25T01:39:00+00:00",
+"src": "WSJ",
+"kind": "market",
+"seen": "2026-11-25T01:44:29+00:00"
 },
 {
-"id": "e3635303e42d",
-"t": "INSM",
-"title": "Insmed Soars 14% on $41 Billion Sanofi Buyout: “A Major Strategic Step”",
-"url": "https://www.tikr.com/blog/insmed-soars-14-on-41-billion-sanofi-buyout-a-major-strategic-step",
-"pub": "2026-11-24T14:52:34+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-24T15:15:37+00:00"
-},
-{
-"id": "76a1154e1747",
-"t": "SPY",
-"title": "The New York Fed’s John Williams Won’t Rule Out Back-to-Back Rate Hikes",
-"url": "https://247wallst.com/investing/2026/11/24/the-new-york-feds-john-williams-wont-rule-out-back-to-back-rate-hikes/",
-"pub": "2026-11-24T14:52:22+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-24T15:15:37+00:00"
-},
-{
-"id": "debbf1acba48",
-"t": "MU",
-"title": "Micron Sinks 7% as Chip Stocks Give Back Huang Rally",
-"url": "https://www.tikr.com/blog/micron-sinks-7-as-chip-stocks-give-back-huang-rally",
-"pub": "2026-11-24T14:51:59+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-24T15:15:37+00:00"
-},
-{
-"id": "af89478295f3",
-"t": "NVDA",
-"title": "Anthropic Sinks 7% Below IPO Price as AI Stocks Slide: Cramer Blames “Endless Hammering of Small Bids”",
-"url": "https://www.tikr.com/blog/anthropic-sinks-7-below-ipo-price-as-ai-stocks-slide-cramer-blames-endless-hammering-of-small-bids",
-"pub": "2026-11-24T14:51:22+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-24T15:15:37+00:00"
-},
-{
-"id": "ea9f39e03f78",
-"t": "NVDA",
-"title": "Why bringing Jensen Huang back was Nvidia's 'least bad' option",
-"url": "https://finance.yahoo.com/video/why-bringing-jensen-huang-back-was-nvidias-least-bad-option-145052627.html",
-"pub": "2026-11-24T14:50:52+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-24T15:15:37+00:00"
-},
-{
-"id": "206e77bfd45a",
-"t": "CSCO",
-"title": "HPE Sinks 14% Despite Raised Outlook as CFO Expects “Gross Margin to Moderate”",
-"url": "https://www.tikr.com/blog/hpe-sinks-14-despite-raised-outlook-as-cfo-expects-gross-margin-to-moderate",
-"pub": "2026-11-24T14:50:44+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-24T15:15:37+00:00"
+"id": "bf6349061eb5",
+"t": "",
+"title": "Hong Kong-listed shares of Minimax 0100.hk poised to open 6% lower",
+"url": "https://www.financialjuice.com/News/9866951/Hong-Kong-listed-shares-of-Minimax-0100hk-poised-to-open-6-lower.aspx?xy=rss",
+"pub": "2026-11-25T01:29:27+00:00",
+"src": "FinancialJuice",
+"kind": "market",
+"seen": "2026-11-25T01:44:29+00:00"
 },
 {
 "id": "d1d9044389d2",
@@ -8180,6 +8200,16 @@
 "seen": "2026-11-24T22:33:52+00:00"
 },
 {
+"id": "c503f6e02e23",
+"t": "",
+"title": "CTVA.ZY - Reuters",
+"url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE14bVBTc3FNYnhwLS1yOTctbWhRMTV5S2Nuc0QyX3Jma3ZrU2VianlWN0MyWG1MWXpaanM4dUc3clJ6TEUtSXNlTWRyZkRKcWtVOU1PcktsRW05dUl2T0VDODBBVFROQ0lBdVFFM0pRQQ?oc=5",
+"pub": "2026-11-24T22:24:33+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-25T01:44:29+00:00"
+},
+{
 "id": "98cd887e2252",
 "t": "",
 "title": "Houthi-run Saba news agency reports attacks on Yemen's Hodeidah port",
@@ -8280,6 +8310,16 @@
 "seen": "2026-11-24T22:14:12+00:00"
 },
 {
+"id": "5d71292ef54f",
+"t": "",
+"title": "Auto & Transport Roundup: Market Talk",
+"url": "https://www.wsj.com/business/auto-transport-roundup-market-talk-3c2ab9a4",
+"pub": "2026-11-24T21:55:00+00:00",
+"src": "WSJ",
+"kind": "market",
+"seen": "2026-11-25T01:44:29+00:00"
+},
+{
 "id": "5407ff221905",
 "t": "",
 "title": "UBS Group AG (UBSG.S) | Stock Price & Latest News - Reuters",
@@ -8298,6 +8338,16 @@
 "src": "WSJ",
 "kind": "market",
 "seen": "2026-11-25T00:26:28+00:00"
+},
+{
+"id": "3bee36a66bd7",
+"t": "",
+"title": "Crude Futures Settle Higher on Shipping Risks",
+"url": "https://www.wsj.com/finance/commodities-futures/oil-futures-edge-higher-on-likely-technical-recovery-3d1650f7",
+"pub": "2026-11-24T21:51:00+00:00",
+"src": "WSJ",
+"kind": "market",
+"seen": "2026-11-25T01:44:29+00:00"
 },
 {
 "id": "c6a884924e28",
@@ -8438,6 +8488,26 @@
 "src": "Bloomberg",
 "kind": "market",
 "seen": "2026-11-24T21:32:03+00:00"
+},
+{
+"id": "512932d224dd",
+"t": "",
+"title": "INV.AX - Reuters",
+"url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5xNHpQRDlDaWdGQTZJazBhWEF0eW5XN1NyWFRmTXBrTDJ5bDExYW43Y0ptc1ZNS2dWLVk3ZHcyRDZJc3hmQzdxdThUeFlRQzdkSHhmUkhMUjdSeEJTb3F1anNsLTloZ1piQ3lkZDNEZGFBZThuOUhJ?oc=5",
+"pub": "2026-11-24T21:11:55+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-25T01:44:29+00:00"
+},
+{
+"id": "9bccb3e566a9",
+"t": "",
+"title": "7287JPY.JPx - Reuters",
+"url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFB1LUVJODI3OWlGeXpfa3B1Y0NxQVZFYmVvZFp4TUdDQ3VaTjFIeXZBSzhkV2hlOGdKOWV3cHFPWGFMM2hRODhnRlRzMmh2Q29tNVBGQlp3VnFabjREdXE0WGZjRGxDNWZvVS1TYXByZzhPWHpBRk9WZV91aFZPdw?oc=5",
+"pub": "2026-11-24T21:11:32+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-25T01:44:29+00:00"
 },
 {
 "id": "fa852b973dc5",
@@ -10946,76 +11016,6 @@
 "url": "https://www.financialjuice.com/News/9866022/BoEs-Greene-Not-much-evidence-of-2nd-round-effects-so-far.aspx?xy=rss",
 "pub": "2026-11-24T12:38:12+00:00",
 "src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-24T12:44:57+00:00"
-},
-{
-"id": "c9789385743c",
-"t": "",
-"title": "AB New York Intermediate Municipal ETF (NYM.N) | Stock Price & Latest News - Reuters",
-"url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE43U09WNE1Gd3A4NHlCQm9GQnQtVXRpMlkxNVlfdjN5SnN6RkU4Q2VqOGNQTks1b3FWREU3eUJGcFNSckx0SnRrQkQzTVdXVF9KdVJhSUZDcnpvTDRZQmZQNVBtaU9HSDhkbUE?oc=5",
-"pub": "2026-11-24T12:36:49+00:00",
-"src": "Reuters",
-"kind": "market",
-"seen": "2026-11-25T01:13:53+00:00"
-},
-{
-"id": "62aed4fe3249",
-"t": "",
-"title": "BoE’s Greene: Monetary policy has role in anchoring inflation expectations.",
-"url": "https://www.financialjuice.com/News/9866021/BoEs-Greene-Monetary-policy-has-role-in-anchoring-inflation-expectations.aspx?xy=rss",
-"pub": "2026-11-24T12:36:07+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-24T12:44:57+00:00"
-},
-{
-"id": "0165f321ff97",
-"t": "",
-"title": "BoE’s Greene: Need to think about successive shocks differently",
-"url": "https://www.financialjuice.com/News/9866020/BoEs-Greene-Need-to-think-about-successive-shocks-differently.aspx?xy=rss",
-"pub": "2026-11-24T12:35:49+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-24T12:44:57+00:00"
-},
-{
-"id": "0bf01d2c9dea",
-"t": "",
-"title": "Xiaomi profit falls as China auto downturn weighs, eyes Europe car market - Reuters",
-"url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPVTdNQlhOOXJOaGNReUtEVmRIekJ3cG5hbzJhbUM5SFVlc2M0SUIwMDA1eU81NHBQN0x3MEZEd0VyNnR3Y2NWTVBueTBZTHUzNDNRZlJsQy03RG5tdkFybi13cGt6OFdfZG91a1UzT0Nabnk1dHN0emdfZUhCWE51WHBORFJJRWgyQlNFbUtUNkluRU9qdlprNjJXRlZkVFBD?oc=5",
-"pub": "2026-11-24T12:34:18+00:00",
-"src": "Reuters",
-"kind": "market",
-"seen": "2026-11-24T21:44:11+00:00"
-},
-{
-"id": "9486972fce69",
-"t": "",
-"title": "Oil Prices Rebound as Shipping Risks Persist",
-"url": "https://www.wsj.com/business/energy-oil/oil-prices-fall-as-traders-weigh-supply-outlook-shipping-risks-7225885e",
-"pub": "2026-11-24T12:33:00+00:00",
-"src": "WSJ",
-"kind": "market",
-"seen": "2026-11-24T19:44:00+00:00"
-},
-{
-"id": "ee19d54d6938",
-"t": "",
-"title": "Pentagon reportedly in talks with GM, Ford to scale US military drone production",
-"url": "https://www.foxbusiness.com/economy/pentagon-reportedly-talks-gm-ford-scale-us-military-drone-production",
-"pub": "2026-11-24T12:26:44+00:00",
-"src": "Fox Business",
-"kind": "market",
-"seen": "2026-11-24T12:44:57+00:00"
-},
-{
-"id": "12e2790ce5a4",
-"t": "",
-"title": "Fund With $21 Billion Favors Africa Local Bonds, Adds to Uganda Bet",
-"url": "https://www.bloomberg.com/news/articles/2026-11-24/fund-with-21-billion-favors-africa-local-bonds-adds-to-uganda-bet",
-"pub": "2026-11-24T12:26:19+00:00",
-"src": "Bloomberg",
 "kind": "market",
 "seen": "2026-11-24T12:44:57+00:00"
 }
