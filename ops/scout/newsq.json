@@ -1,6 +1,6 @@
 {
-"updated_kst": "2026-11-25 10:44",
-"rot": 5,
+"updated_kst": "2026-11-25 10:55",
+"rot": 65,
 "how": "Scout(프로그램)이 10분마다 모은 기사 제목·링크와 공시예요. Wren이 공식 출처로 확인한 뒤 회사 화면에 한국어로 반영해요. 본문은 받지 않아요.",
 "sources": {
 "Yahoo Finance": "120종목 확인 · 실패 0",
@@ -10,12 +10,22 @@
 "CNBC": "63건",
 "Bloomberg": "40건",
 "WSJ": "61건",
-"Reuters": "100건",
+"Reuters": "50건",
 "FinancialJuice": "100건",
 "SEC EDGAR": "실패 HTTPError",
 "Fox Business": "50건"
 },
 "items": [
+{
+"id": "701f59b0c9dc",
+"t": "NVDA",
+"title": "Wall St futures fall after S&P 500, Nasdaq end lower; inflation data eyed",
+"url": "https://finance.yahoo.com/markets/stocks/articles/wall-st-futures-fall-p-014227385.html",
+"pub": "2026-11-25T01:42:27+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-25T01:55:14+00:00"
+},
 {
 "id": "4627c289d820",
 "t": "INSM",
@@ -8010,16 +8020,6 @@
 "seen": "2026-11-24T15:15:37+00:00"
 },
 {
-"id": "6f5a8e76c804",
-"t": "SPCX",
-"title": "Anthropic Tumbles 9%, Trades Below IPO Price Despite Canaccord’s $135 Target; CoreWeave and Nebius Drop 8%",
-"url": "https://247wallst.com/investing/2026/11/24/anthropic-tumbles-9-breaks-below-ipo-price-despite-canaccords-135-target-coreweave-and-nebius-drop-8/",
-"pub": "2026-11-24T14:54:48+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-24T15:15:37+00:00"
-},
-{
 "id": "8fc68de70bea",
 "t": "",
 "title": "Still Too Early to Bet Against the U.S. Dollar",
@@ -8030,6 +8030,16 @@
 "seen": "2026-11-25T01:44:29+00:00"
 },
 {
+"id": "beb48015fbf6",
+"t": "",
+"title": "India Pension Funds Pivot to Bonds as Equity Exposure Nears Cap",
+"url": "https://www.bloomberg.com/news/articles/2026-11-25/india-pension-funds-pivot-to-bonds-as-equity-exposure-nears-cap",
+"pub": "2026-11-25T01:30:00+00:00",
+"src": "Bloomberg",
+"kind": "market",
+"seen": "2026-11-25T01:55:14+00:00"
+},
+{
 "id": "bf6349061eb5",
 "t": "",
 "title": "Hong Kong-listed shares of Minimax 0100.hk poised to open 6% lower",
@@ -8038,6 +8048,26 @@
 "src": "FinancialJuice",
 "kind": "market",
 "seen": "2026-11-25T01:44:29+00:00"
+},
+{
+"id": "8024553f1207",
+"t": "",
+"title": "Japan’s Service Prices for Businesses Jump by Most in 36 Years",
+"url": "https://www.bloomberg.com/news/articles/2026-11-25/japan-s-service-prices-for-businesses-jump-by-most-in-36-years",
+"pub": "2026-11-25T01:18:38+00:00",
+"src": "Bloomberg",
+"kind": "market",
+"seen": "2026-11-25T01:55:14+00:00"
+},
+{
+"id": "8e1925f10473",
+"t": "",
+"title": "DHL AG (DHLn.DE) | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE11dGdmQ2ZPSGZwWURhektVcVFrVjVlTm5iMUtsUkxrdjRfY2k1WlZOS1Q0UUg1ZnpIOHhIX1NLV0RZVDdpaVdDdS1nV05OU1BCSzJxNGVwZXdLSm1JMGZz?oc=5",
+"pub": "2026-11-25T00:45:37+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-25T01:55:14+00:00"
 },
 {
 "id": "d1d9044389d2",
@@ -8260,6 +8290,16 @@
 "seen": "2026-11-24T22:14:12+00:00"
 },
 {
+"id": "44733fe0e642",
+"t": "",
+"title": "GSR IV Acquisition Corp (GSRF.O) | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1ISW5udUR3ZGdYd1RHMGV4RDdELV82VzZja0UyVXVWN2dwYjllaU5TRl90cHBZaHRfWjhRZWQza1djQUwycWh6WlRKMjFmWGdFRUtkQnQzNkw4T0lhaV9uSWN3T3ZHdEk3enZr?oc=5",
+"pub": "2026-11-24T22:02:09+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-25T01:55:14+00:00"
+},
+{
 "id": "f8afdc316c67",
 "t": "",
 "title": "BOJ Likely to Lift Rate to 2% by Mid-2027, Ex-Board Member Says",
@@ -8448,6 +8488,16 @@
 "src": "CNBC",
 "kind": "market",
 "seen": "2026-11-24T21:44:11+00:00"
+},
+{
+"id": "9486972fce69",
+"t": "",
+"title": "Oil Prices Rebound as Shipping Risks Persist",
+"url": "https://www.wsj.com/business/energy-oil/oil-prices-fall-as-traders-weigh-supply-outlook-shipping-risks-7225885e",
+"pub": "2026-11-24T21:28:00+00:00",
+"src": "WSJ",
+"kind": "market",
+"seen": "2026-11-25T01:55:14+00:00"
 },
 {
 "id": "04dca54d7f51",
@@ -10965,56 +11015,6 @@
 "title": "BoE’s Greene: We have to make a judgment on 2nd-round effects now",
 "url": "https://www.financialjuice.com/News/9866025/BoEs-Greene-We-have-to-make-a-judgment-on-2nd-round-effects-now.aspx?xy=rss",
 "pub": "2026-11-24T12:40:22+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-24T12:44:57+00:00"
-},
-{
-"id": "dc49860ee663",
-"t": "",
-"title": "BoE’s Greene: Firms expect wage settlements at 3.6%, too high",
-"url": "https://www.financialjuice.com/News/9866024/BoEs-Greene-Firms-expect-wage-settlements-at-36-too-high.aspx?xy=rss",
-"pub": "2026-11-24T12:39:54+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-24T12:44:57+00:00"
-},
-{
-"id": "a25ed063a03d",
-"t": "",
-"title": "ARCXF.PQ - | Stock Price & Latest News - Reuters",
-"url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQUkc0c1kyQ1I0YjNCS0huOTd5Q1dueHVXT0V2REJ3bFUyS2FrYkZKV29qVHFyZ1RQSnE5bWtoUW5ldlNGa2ZkRGRvTUwxVWx5em1mRlpjaXFCNHZUUVFRYkh5d0pmOFhRMjdOSENuVTdHWWRuY3RTZTRqZDJ2S3NfVm1DU3lBbHR1?oc=5",
-"pub": "2026-11-24T12:38:59+00:00",
-"src": "Reuters",
-"kind": "market",
-"seen": "2026-11-24T22:44:05+00:00"
-},
-{
-"id": "7a4fcb287e41",
-"t": "",
-"title": "The Oil Market Is Talking About a Surplus Again",
-"url": "https://www.bloomberg.com/news/newsletters/2026-11-24/the-oil-market-is-talking-about-a-surplus-again",
-"pub": "2026-11-24T12:38:42+00:00",
-"src": "Bloomberg",
-"kind": "market",
-"seen": "2026-11-24T12:44:57+00:00"
-},
-{
-"id": "0c75dff58dff",
-"t": "",
-"title": "AM.P - | Stock Price & Latest News - Reuters",
-"url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE4xUnI1Ry00Ry1EXy1VMDVKcEJVdC1yNG94b1daYjNTeWJKVHpPVkV3Q3owUXZvU3RDemdKQnhaZ0hpbkNxTVZOSXBFbmswSE9MWVBETm1VS0RKdl9BYlJuTHNSUW9YME9fdEE4TFQ2YTNpUDlvN1FCaw?oc=5",
-"pub": "2026-11-24T12:38:32+00:00",
-"src": "Reuters",
-"kind": "market",
-"seen": "2026-11-24T20:14:02+00:00"
-},
-{
-"id": "ec4706b80f4c",
-"t": "",
-"title": "BoE’s Greene: Not much evidence of 2nd-round effects so far",
-"url": "https://www.financialjuice.com/News/9866022/BoEs-Greene-Not-much-evidence-of-2nd-round-effects-so-far.aspx?xy=rss",
-"pub": "2026-11-24T12:38:12+00:00",
 "src": "FinancialJuice",
 "kind": "market",
 "seen": "2026-11-24T12:44:57+00:00"
