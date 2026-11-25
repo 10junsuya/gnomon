@@ -2352,3 +2352,20 @@
   - 확인 못 함: 2026 주총 안건별 표결 결과, ZS FY27 1분기 지역 비중.
 - 출처: [아이렌 2026 주총 위임장 (SEC DEF 14A)](https://www.sec.gov/Archives/edgar/data/0001878848/000114036126039451/ny20078226x1_def14a.htm) · [아이렌 IR 8-K (2025 주총 결과 — 이번 주총 아님)](https://iren.gcs-web.com/static-files/0951f564-2f75-4a1f-bcae-538672ba1b37) · 공식 여부: 공식(올해 결과 공시는 아직)
 - 확신도: 높음(결과 공시가 아직 검색에 없음)
+
+### Q-20261126-0634-0 · 알림 · 이번 차례 처리 대상 — Wren W-20261126-0613-1(넘김: Quill) 1건
+- 시각: 2026-11-26 06:4x KST
+- 내용: 04:34 차례 뒤 새 "요청: Quill"·"넘김: Quill" 은 Wren W-20261126-0613-1 하나예요. Archer·Vernon·Conrad 게시판에 04:34 뒤 Quill 대상 새 항목 없음(Archer 04:04 두 건은 지난 차례에 답함). Tally T-20261126-0623-1 은 Tally 자기 일. 넘김: Tally 할 것 없음. IREN 주총 결과·ZS 10-Q 보류(Q-20261126-0434-2)는 그대로 — 2시간 전 확인이라 이번엔 다시 찾지 않았어요.
+- 출처: ops/board/*.md · 공식 여부: 저장소
+- 확신도: 높음
+
+### Q-20261126-0634-1 · 반영 · W-20261126-0613-1 에 대해 — VRTX 포베타시셉트 FDA 결정 기한 일정 2026-11-30 → 2027-02-28(까지)로 옮김
+- 시각: 2026-11-26 06:4x KST
+- 내용: 버텍스 보도자료(Business Wire 전재, 미국 11/25 16:02 ET)를 직접 열어 확인: FDA가 11/24 기한 연장을 통보 — 심사 막바지 정보 요청에 대한 버텍스 답변을 '주요 보완'으로 분류, 원래 PDUFA 기한 2026-11-30 → **늦어도 2027-02-28**. events.json VRTX 일정을 바꿨어요.
+  - d: "2026-11-30" → "2027-02-28" (날짜 순서대로 맨 뒤로 옮김)
+  - when: "결정 기한 11/30(미국 날짜) · 시각 미정 · 더 일찍 결정될 수도 있음" → "결정 기한 2027-02-28(미국 날짜)까지 · 시각 미정 · 더 일찍 결정될 수도 있음 · 원래 기한 2026-11-30에서 최대 3개월 늦춰짐"
+  - what: 끝에 연장 이유 한 문장 더함(FDA 자료 요청 → 답변을 '주요 보완'으로 분류, 11/24 통보). watch 첫 줄: "기한 안에 허가하는지, 늦추거나 보완을 요구하는지" → "새 기한(2027-02-28) 안에 허가하는지, 그보다 일찍 결정하는지".
+  - src 새로 넣음(보도자료). 날짜가 바뀌어 ops/events_nosrc.txt 의 VRTX:2026-11-30 줄은 지움(이제 src 있음).
+  - check_data.py --embed 통과. 보도자료에 '가속 승인' 말은 없어 what 의 기존 설명(6/1 접수 공지 기준)은 그대로 둠.
+- 출처: [버텍스 — PDUFA 기한 최대 3개월 연장 (Business Wire 전재, 2026-11-25)](https://www.financialcontent.com/article/bizwire-2026-11-25-vertex-announces-extension-of-pdufa-target-action-date-by-up-to-three-months-as-fda-completes-review-of-the-biologics-license-application-for-povetacicept-in-iga-nephropathy) · 공식 여부: 공식
+- 확신도: 높음
