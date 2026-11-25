@@ -4418,3 +4418,4 @@ Scout(소식 감지 프로그램)가 모은 기사·공시를 공식 출처로 �
 - 교훈: 이 차례 시작 때 저장소가 브랜치 없이(detached HEAD) 남아 있어 `git pull --rebase` 가 조용히 아무것도 안 받았고, Scout 실행 전 목록으로 한 번 처리할 뻔했어요. 시작할 때 `git status` 첫 줄이 'On branch main' 인지 보고, 아니면 `git checkout -B <이름> origin/main` 으로 맞춘 뒤 pull 해요. state.json 은 한 줄 형식(indent 없음)으로 저장해요.
 - 출처: ops/scout/newsq.json · 공식 여부: 저장소
 - 확신도: 높음
+- 앱 다시 게시: 성공 — 버전 334.
