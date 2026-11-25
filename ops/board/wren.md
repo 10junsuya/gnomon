@@ -4572,3 +4572,22 @@ Scout(소식 감지 프로그램)가 모은 기사·공시를 공식 출처로 �
 - 출처: ops/scout/newsq.json · 공식 여부: 저장소
 - 확신도: 높음
 - 앱 다시 게시: 성공 — 버전 343.
+
+### W-20261126-0713-1 · 반영 · PANW 전 부사장이 회계 부정(끝나지 않은 거래를 매출로) 주장 소송 (보도)
+- 시각: 2026-11-26 07:2x KST
+- 내용: 블룸버그(11-25 미국 장 마감 뒤, 제목)·Seeking Alpha(11-25 16:30 ET): 팔로알토 네트웍스 전 부사장이 회사가 끝나지 않은 거래를 매출로 잡는 회계 부정을 공모했다고 소장에서 주장. 법원·청구 금액·회사 답변은 읽은 부분에 없어 안 적음(Investing.com 본문은 웹 열기 한도 초과로 못 읽음). 회사 공식 글 없음 → '보도'. news PANW 맨 앞.
+- 출처: [Bloomberg(제목)](https://www.bloomberg.com/news/articles/2026-11-25/palo-alto-networks-accused-by-ex-executive-of-accounting-fraud) · [Seeking Alpha](https://seekingalpha.com/news/4676702-palo-alto-networks-falls-after-former-exec-sues-alleging-accounting-fraud) · 공식 여부: 보도
+- 확신도: 중간(소장 원문 못 봄)
+
+### W-20261126-0713-2 · 반영 · 시장 칸 2건 (07시대)
+- 시각: 2026-11-26 07:2x KST
+- 내용: ① 11-25(수) 뉴욕 장 마감: 장 초반 급락을 거의 되돌림, 다우 소폭 상승·S&P500 -0.25%·나스닥 약 -0.6%, 엔비디아 약 -3.9%, 근원 PCE 3.3%·AI 투자 걱정. 야후 라이브 블로그 숫자 상자(다우 +0.33%·나스닥 -0.62%)와 본문(다우 약 +0.5%)이 달라 다우는 '소폭'으로만, 나스닥은 '약 -0.6%'로 적음. S&P500 -0.25% 는 야후·Swingfolio 같음. → **다음 차례(또는 19시대) 로이터·AP 최종치 확인 바람**(LESSONS 11-24 예비치). ② USTR 과잉 생산 301조 관세 제안(11-25): 14곳(중국·EU·싱가포르·스위스·인도네시아·말레이시아·캄보디아·태국·한국·베트남·대만·방글라데시·일본·인도), 중국 최대 20%·EU 15%·한국·대만·일본 최대 15%(합의 불만족 시 더 높은 대안 세율), 232조 품목(반도체 포함)은 13곳에서 제외, 멕시코·노르웨이는 판정 보류. 의견 마감 2027-01-05·공청회 01-25. 11-24 '16곳 준비' 보도 항목은 지우지 않고 새 항목을 앞에 둠. USTR 원문은 검색에서 못 찾아 '보도'(Euronews/AP·Baker McKenzie 법률 블로그 — Federal Register 사전 공개본 인용).
+- 출처: [Yahoo Finance](https://finance.yahoo.com/markets/live/stock-market-today-wednesday-november-25-dow-sp-500-nasdaq-pce-inflation-data-091428237.html) · [Motley Fool](https://www.fool.com/coverage/stock-market-today/2026/11/25/stock-market-today-nov-25-dow-erases-1-100-point-loss-as-wall-street-stages-dramatic-late-day-comeback/) · [Euronews (AP)](https://www.euronews.com/2026/11/25/us-proposes-new-tariffs-on-14-major-trading-partners-the-eu-included) · [Baker McKenzie](https://globalimportblog.bakermckenzie.com/2026/11/25/us-ustr-proposes-section-301-tariffs-on-14-economies-over-structural-excess-capacity/) · 공식 여부: 보도
+- 확신도: 중간(장 마감 숫자 일부 예비) · 높음(관세 제안 내용, 두 출처 같음)
+
+### W-20261126-0713-3 · 알림 · 이번 차례
+- 시각: 2026-11-26 07:2x KST
+- 내용: Scout 실행(gh, 07:13) 뒤 대기 목록(07:14 갱신분) 새 항목 27건(news 21·market 6) 모두 처리. 반영은 위 -1·-2. 건너뜀: 스페이스X FCC 허가·트럼프 계좌(앞 차례가 넣음), 엔비디아 퇴사 엔지니어 복귀 의향(중요 사건 아님), 무디스 '엔비디아 등급·전망 그대로'(변화 없음), 디어 실적 콜(Tally 몫), 퀄리스·SK하이닉스 가치 평가 글, 퍼포스 펀드 위험 등급, 폼팩터 콘퍼런스 참석, 테라울프 CEO 발언, Fool·Zacks '살 만한가/비교'·배당 글, 홈디포 펀드 매매. market 나머지(CNBC 리스먼 칼럼, WSJ AI 장세 해설, 블룸버그 M&A·AI 신용, 로이터 시세 페이지) done 만.
+- 미국 지표: 미국 동부 11-25(수) 17:1x — pce·claims 는 22:43 차례가 분석(views rel 2026-11-25), 오늘 남은 발표 없음 → 매크로 수집 안 돌림. 나에게 온 요청(RULES 0-3): 새 요청 없음. Aleph 지도: 고칠 것 없음(소송·관세는 회사 사이 관계 아님). done 은 대기 목록에 없는 오래된 id 부터 잘라 3000개(저장 뒤 JSON 다시 읽어 확인).
+- 출처: ops/scout/newsq.json · 공식 여부: 저장소
+- 확신도: 높음
