@@ -1,6 +1,6 @@
 {
-"updated_kst": "2026-11-25 16:43",
-"rot": 70,
+"updated_kst": "2026-11-25 16:53",
+"rot": 130,
 "how": "Scout(프로그램)이 10분마다 모은 기사 제목·링크와 공시예요. Wren이 공식 출처로 확인한 뒤 회사 화면에 한국어로 반영해요. 본문은 받지 않아요.",
 "sources": {
 "Yahoo Finance": "120종목 확인 · 실패 0",
@@ -10,12 +10,22 @@
 "CNBC": "63건",
 "Bloomberg": "40건",
 "WSJ": "61건",
-"Reuters": "49건",
+"Reuters": "100건",
 "FinancialJuice": "100건",
 "SEC EDGAR": "실패 HTTPError",
 "Fox Business": "50건"
 },
 "items": [
+{
+"id": "37cc3ad2778c",
+"t": "TSLA",
+"title": "BYD plans car production in France to boost its push into the European market",
+"url": "https://www.euronews.com/2026/11/25/byd-plans-car-production-in-france-to-boost-its-push-into-the-european-market",
+"pub": "2026-11-25T07:41:49+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-25T07:53:49+00:00"
+},
 {
 "id": "2f87f8b81c02",
 "t": "GOOGL",
@@ -77,6 +87,16 @@
 "seen": "2026-11-25T07:43:53+00:00"
 },
 {
+"id": "f4eb46cf3e47",
+"t": "SNOW",
+"title": "Snowflake (SNOW) Stock Looks Rich Relative To Future Cash Flow",
+"url": "https://finance.yahoo.com/markets/stocks/articles/snowflake-snow-stock-looks-rich-070844186.html",
+"pub": "2026-11-25T07:08:44+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-25T07:53:49+00:00"
+},
+{
 "id": "d4171a92a32f",
 "t": "NVDA",
 "title": "Nvidia’s spying scandal is backfiring on China",
@@ -125,6 +145,26 @@
 "src": "Yahoo Finance",
 "kind": "news",
 "seen": "2026-11-25T07:14:48+00:00"
+},
+{
+"id": "b78b7b8b6f04",
+"t": "GS",
+"title": "Goldman Sachs Sees U.S. Natural Gas Demand Surging on Data Center Boom",
+"url": "https://finance.yahoo.com/energy/articles/goldman-sachs-sees-u-natural-064500252.html",
+"pub": "2026-11-25T06:45:00+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-25T07:53:49+00:00"
+},
+{
+"id": "8ff1ef44b43f",
+"t": "ASML",
+"title": "‘Disastrous' for ASML: Dutch Lawmakers Revolt Against US Push to Tighten China Chip Curbs",
+"url": "https://finance.yahoo.com/markets/stocks/articles/disastrous-asml-dutch-lawmakers-revolt-064230741.html",
+"pub": "2026-11-25T06:42:30+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-25T07:53:49+00:00"
 },
 {
 "id": "b36833d423c9",
@@ -7450,6 +7490,16 @@
 "seen": "2026-11-24T16:15:36+00:00"
 },
 {
+"id": "7f61b38fa19c",
+"t": "WMT",
+"title": "Consumer Mood Improves Into Holidays, But Risks Loom",
+"url": "https://finance.yahoo.com/video/consumer-mood-improves-holidays-risks-160317427.html",
+"pub": "2026-11-24T16:03:17+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-25T07:53:49+00:00"
+},
+{
 "id": "bb19b100c6d8",
 "t": "MP",
 "title": "USAR Starts Serra Verde Shipments With Price Floors and Cash Limits",
@@ -7970,54 +8020,64 @@
 "seen": "2026-11-24T16:15:36+00:00"
 },
 {
-"id": "9d5dd0a75875",
-"t": "ORCL",
-"title": "Why Did Bloom Energy Stock Jump Monday?",
-"url": "https://www.trefis.com/stock/be/articles/628613/why-did-bloom-energy-stock-jump-monday/2026-11-24",
-"pub": "2026-11-24T15:38:09+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-24T16:15:36+00:00"
+"id": "1ef73dc219b8",
+"t": "",
+"title": "UK Heating Bills Surge 26%, Adding to Inflation Pressure",
+"url": "https://www.bloomberg.com/news/newsletters/2026-11-25/uk-heating-bills-surge-26-adding-to-inflation-pressure",
+"pub": "2026-11-25T07:51:47+00:00",
+"src": "Bloomberg",
+"kind": "market",
+"seen": "2026-11-25T07:53:49+00:00"
 },
 {
-"id": "714a0063cfe3",
-"t": "REGN",
-"title": "Kymera stock soars as eczema pill takes aim at Dupixent",
-"url": "https://www.thestreet.com/investing/stocks/kymera-stock-soars-as-eczema-pill-kt-621-competes-with-dupixent",
-"pub": "2026-11-24T15:37:00+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-24T16:44:26+00:00"
+"id": "9bfa1aaea90b",
+"t": "",
+"title": "Malaysia Says Too Early to See Impact of US Chip Curbs",
+"url": "https://www.bloomberg.com/news/videos/2026-11-25/malaysia-says-too-early-to-see-impact-of-us-chip-curbs-video",
+"pub": "2026-11-25T07:48:37+00:00",
+"src": "Bloomberg",
+"kind": "market",
+"seen": "2026-11-25T07:53:49+00:00"
 },
 {
-"id": "2554a565f10a",
-"t": "WMT",
-"title": "Dollar Tree Turnaround Blooms; Abercrombie Struts With Double-Digit Growth",
-"url": "https://finance.yahoo.com/m/0c69688e-4fdf-305b-9afa-ac8253166177/dollar-tree-turnaround.html",
-"pub": "2026-11-24T15:35:49+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-24T16:15:36+00:00"
+"id": "e597421d3a57",
+"t": "",
+"title": "French Consumer Confidence Actual 82 (Forecast 81, Previous 80)",
+"url": "https://www.financialjuice.com/News/9867367/French-Consumer-Confidence-Actual-82-Forecast-81-Previous-80.aspx?xy=rss",
+"pub": "2026-11-25T07:45:00+00:00",
+"src": "FinancialJuice",
+"kind": "market",
+"seen": "2026-11-25T07:53:49+00:00"
 },
 {
-"id": "5088152c8bb7",
-"t": "ABT",
-"title": "Medtronic continues to see growth in cardiovascular business",
-"url": "https://www.medtechdive.com/news/medtronic-continues-to-see-growth-in-cardiovascular-business/875613/",
-"pub": "2026-11-24T15:35:48+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-24T17:14:02+00:00"
+"id": "9fdab746e08d",
+"t": "",
+"title": "U.S. Treasury Yields Fall Ahead of PCE Inflation Data",
+"url": "https://www.wsj.com/finance/investing/u-s-treasury-yields-fall-ahead-of-pce-inflation-data-dfeb7995",
+"pub": "2026-11-25T07:44:00+00:00",
+"src": "WSJ",
+"kind": "market",
+"seen": "2026-11-25T07:53:49+00:00"
 },
 {
-"id": "1a656d370c9a",
-"t": "LLY",
-"title": "Forget Zepbound: Lilly's Retatrutide Just Cut Sleep Apnea Severity by Up to 60%",
-"url": "https://www.fool.com/investing/2026/11/24/forget-zepbound-lillys-retatrutide-just-cut-sleep-apnea-severity-by-up-to-60/",
-"pub": "2026-11-24T15:35:02+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-24T16:44:26+00:00"
+"id": "bea2f9a63f24",
+"t": "",
+"title": "Malaysia's Pension Fund Favors Infrastructure Assets",
+"url": "https://www.bloomberg.com/news/videos/2026-11-25/malaysia-s-pension-fund-favors-infrastructure-assets-video",
+"pub": "2026-11-25T07:40:39+00:00",
+"src": "Bloomberg",
+"kind": "market",
+"seen": "2026-11-25T07:53:49+00:00"
+},
+{
+"id": "6173ae6ff546",
+"t": "",
+"title": "AUD/USD: Aussie Set for Biggest Monthly Drop in Four Years as Stocks Fall",
+"url": "https://www.bloomberg.com/news/articles/2026-11-25/aud-usd-aussie-set-for-biggest-monthly-drop-in-four-years-as-stocks-fall",
+"pub": "2026-11-25T07:28:30+00:00",
+"src": "Bloomberg",
+"kind": "market",
+"seen": "2026-11-25T07:53:49+00:00"
 },
 {
 "id": "ecfa342d3dbc",
@@ -8100,6 +8160,16 @@
 "seen": "2026-11-25T07:14:48+00:00"
 },
 {
+"id": "07968d359844",
+"t": "",
+"title": "Indonesian company taking over tycoon's seized forest land is Danantara unit, document shows - Reuters",
+"url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQRDVaRmM0QXg2NWlvR0tvRTJNWEdHUTQ0M2lkUFZKZnRrS2ZidjNmX0JCMC1QeHY2Z0tyaVFTMmRwVGRWNzNDczZGME9vcWRPZ1ItVERzcU1rUjN2MEJ6cFUzOFhkVy1KUXNsUEFiUFJzMllnNi1sUXI0X19ISmV3WEtwdmxOZy1QWWw4NXNXaEFZSXZBWmNzLTQ2STZCUVZCN0M0SzlRMjN6bjgyY05sLURJdkMxNC15MUVvcm5DU2tnLXNpSzNsQVJFMA?oc=5",
+"pub": "2026-11-25T07:01:00+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-25T07:53:49+00:00"
+},
+{
 "id": "0bbfe2526c05",
 "t": "",
 "title": "German GDP Final QoQ Actual 0.1% (Forecast 0.2%, Previous 0.2%)",
@@ -8148,6 +8218,16 @@
 "src": "FinancialJuice",
 "kind": "market",
 "seen": "2026-11-25T07:14:48+00:00"
+},
+{
+"id": "34f0818de283",
+"t": "",
+"title": "Restructuring Firm Interpath in Deal to Buy US Company, CEO Says",
+"url": "https://www.bloomberg.com/news/articles/2026-11-25/restructuring-firm-interpath-in-deal-to-buy-us-company-ceo-says",
+"pub": "2026-11-25T07:00:00+00:00",
+"src": "Bloomberg",
+"kind": "market",
+"seen": "2026-11-25T07:53:49+00:00"
 },
 {
 "id": "29303e1ce6c8",
@@ -8218,6 +8298,16 @@
 "src": "Bloomberg",
 "kind": "market",
 "seen": "2026-11-25T07:14:48+00:00"
+},
+{
+"id": "5fb741859fc1",
+"t": "",
+"title": "Jiangsu Lettall Electronic Co Ltd (603629.SS) | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE42aS03MGJYRFVxNldpYlY1ampBQVhWRHM0eHdMQmRUSHpwRVRZZ1NWbGptclcxMV9SVzZZQ192TkVITXhQVHF1Z1JSRnl3QzJKa1JpM0tJR0tTbU53WXV0aw?oc=5",
+"pub": "2026-11-25T06:36:19+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-25T07:53:49+00:00"
 },
 {
 "id": "17d57bcbe3fa",
@@ -8570,6 +8660,16 @@
 "seen": "2026-11-25T06:14:14+00:00"
 },
 {
+"id": "bb4398136432",
+"t": "",
+"title": "600918.SH - | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQWmotNW5OQld2RllVZGE0b0VFM0tyRDFRVFFhdnAwYWI0VEpEUDFLMm5XQXVtZEFJM041U3Q1azhTcU84enI0d2ItcnJ2U2FTWWt3NS1sZDlzSmx4M21DWWs1UnNnU2U0cHV1Ul90TGdSWTRWZFJfNkdpWEtKN3IzM18xX3hqQQ?oc=5",
+"pub": "2026-11-25T05:19:14+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-25T07:53:49+00:00"
+},
+{
 "id": "75dc72e0fca7",
 "t": "",
 "title": "France’s National Assembly Approves 2026 Year-End Budget Bill",
@@ -8628,6 +8728,26 @@
 "src": "Reuters",
 "kind": "market",
 "seen": "2026-11-25T05:14:58+00:00"
+},
+{
+"id": "bee528e1d183",
+"t": "",
+"title": "Saksoft Ltd (SAKS.BO) | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5KZzJfMzJ1QTl3eWw0RU43b1M0eV9vM2pzemRhWDByV01IeDhFNTdHZ29ra0Y1TXE1bFk3b2NEZ29PTU5mMXpncjNCNzdSMFU5MElxZ1F4MjFXNHlGempFTGd1aHBJalZ2Y1JmeA?oc=5",
+"pub": "2026-11-25T04:58:20+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-25T07:53:49+00:00"
+},
+{
+"id": "c88d9a0f073b",
+"t": "",
+"title": "DFA Dimensional International Small Cap ETF (DFIS.N) | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBGRHdDeGtidzJ4bVFjU29YTXBDOUtoZG9ITWtnWWlJUGZIbWVzaFE3U0p2dUlZQXlxckprME16OG00Qlp5UjlhS29pcEhmbUNCbFNsdHVxT2g?oc=5",
+"pub": "2026-11-25T04:58:19+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-25T07:53:49+00:00"
 },
 {
 "id": "fb9a9836096a",
@@ -8868,6 +8988,16 @@
 "src": "Reuters",
 "kind": "market",
 "seen": "2026-11-25T03:44:28+00:00"
+},
+{
+"id": "b9dfdb25b20b",
+"t": "",
+"title": "Gaumont SA (GAUM.PA) | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE01S2V3VHE5RHdSMTlJempZcFhZbXRWQVRoRC15ajRzcFNIckgyRzdKSDJxWmlzSjY2YkF3cTNCcUFxdVllUmxySFZCT08yVF93Y21HVFpRRzIwbm5LaEdQT3kwWTVKQWtPQy0wdw?oc=5",
+"pub": "2026-11-25T02:58:12+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-25T07:53:49+00:00"
 },
 {
 "id": "a419d5a0d10d",
@@ -9180,6 +9310,16 @@
 "seen": "2026-11-25T05:14:58+00:00"
 },
 {
+"id": "365a3a25bd15",
+"t": "",
+"title": "SOGn.PA - Reuters",
+"url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE93YmhwUWF5bFl6REVmaXRHVU1fXzJOdWJEUEhOS3BwRllUR3hxWGJENnNCZU9MZ0lPMnU5Nnlia2dCUU9FU1NYTWlfNV94cVAyV19GTHlUcW5EUDUxUzRqdkczXzZMcXdMbHJjc3BYaVdIeng2MWhzRA?oc=5",
+"pub": "2026-11-25T01:21:51+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-25T07:53:49+00:00"
+},
+{
 "id": "db12f9631cb1",
 "t": "",
 "title": "9686ta.HK - | Stock Price & Latest News - Reuters",
@@ -9390,6 +9530,16 @@
 "seen": "2026-11-24T23:32:07+00:00"
 },
 {
+"id": "0a8272e51581",
+"t": "",
+"title": "WASH.DY - Reuters",
+"url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNbTFTUW1NSHotMjE0THl0OENFS0RFVmFfbkJnbnJucGcxVTViX1lHWFFCbmV1cl9aaVhqaXFiN0FKQnFQYTNXbUZGcFJwVnBOcVpxQTlwNzFNNzNuY3NVT3MyUzdZYjExOHNyS1ZRRGc5ZDZ3VVRubVM0OG1WajcyV0xoZERvblJL?oc=5",
+"pub": "2026-11-24T23:11:20+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-25T07:53:49+00:00"
+},
+{
 "id": "67d2ce40fa29",
 "t": "",
 "title": "Latest Oil Market News and Analysis for Nov. 25",
@@ -9398,6 +9548,16 @@
 "src": "Bloomberg",
 "kind": "market",
 "seen": "2026-11-24T23:32:07+00:00"
+},
+{
+"id": "eb6cee87616c",
+"t": "",
+"title": "GPH.V - | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBaSEx0TnFKamtobF9Ka3ZFaU9WbXR1VTViMW54V2hGNkRMNF81amVmZ2hodnFDTk5RM2pXY0VHOVo5Z2YzdzBXZ2xaVmM0WC05LXY3N1lDR2twTndEeXFxM2ZNZVg4UGkyVEtRb3IycHpYeW82d05N?oc=5",
+"pub": "2026-11-24T22:41:44+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-25T07:53:49+00:00"
 },
 {
 "id": "1fcd82536a8e",
@@ -9938,6 +10098,16 @@
 "src": "Reuters",
 "kind": "market",
 "seen": "2026-11-25T03:44:28+00:00"
+},
+{
+"id": "c1566216dc42",
+"t": "",
+"title": "ALL_pi.N - Reuters",
+"url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1mcU94aUN1bm5UTGJ4dy1zUGJYLU9jMkJMazJOc2pQRUdJTVdZU2twX1p0OFdNUUt6SVJzZVpxZFpFSHJ4WFVKTGpMTmI3X1FlZ01PY0ZQSGw5d1FUWmtnaHNyVVVBUFVjMGhBRjBuVVM0dl9OSGxPbXBlWQ?oc=5",
+"pub": "2026-11-24T20:40:01+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-25T07:53:49+00:00"
 },
 {
 "id": "a0f3bae98619",
@@ -10848,176 +11018,6 @@
 "src": "FinancialJuice",
 "kind": "market",
 "seen": "2026-11-24T17:29:04+00:00"
-},
-{
-"id": "57fcba2897cf",
-"t": "",
-"title": "BoC Summary: Renewed framework drops all mentions of bank using the 1%-3% target range to seek maximum sustainable employment when conditions warrant",
-"url": "https://www.financialjuice.com/News/9866452/BoC-Summary-Renewed-framework-drops-all-mentions-of-bank-using-the-1-3-target-range-to-seek-maximum-sustainable-employment-when-conditions-warrant.aspx?xy=rss",
-"pub": "2026-11-24T17:25:59+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-24T17:29:04+00:00"
-},
-{
-"id": "56a42c660c23",
-"t": "",
-"title": "Bank of Canada Fades Core Inflation, Switches Gauges",
-"url": "https://www.bloomberg.com/news/articles/2026-11-24/bank-of-canada-fades-core-inflation-switches-gauges",
-"pub": "2026-11-24T17:25:52+00:00",
-"src": "Bloomberg",
-"kind": "market",
-"seen": "2026-11-24T18:44:31+00:00"
-},
-{
-"id": "14658f281866",
-"t": "",
-"title": "Crispier Chicken and Remodels Pit McDonald's Against Franchisees",
-"url": "https://www.bloomberg.com/news/videos/2026-11-24/mcdonald-s-remodel-pits-company-against-franchisees-video",
-"pub": "2026-11-24T17:25:50+00:00",
-"src": "Bloomberg",
-"kind": "market",
-"seen": "2026-11-24T17:29:04+00:00"
-},
-{
-"id": "5b21a3db6033",
-"t": "",
-"title": "BoC Summary: Monetary policy can temporarily influence housing demand but cannot address supply constraints.",
-"url": "https://www.financialjuice.com/News/9866451/BoC-Summary-Monetary-policy-can-temporarily-influence-housing-demand-but-cannot-address-supply-constraints.aspx?xy=rss",
-"pub": "2026-11-24T17:25:34+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-24T17:29:04+00:00"
-},
-{
-"id": "c05e51bd0143",
-"t": "",
-"title": "Bank of Canada Chief Warns of Oil Passthrough, Sticky Inflation",
-"url": "https://www.bloomberg.com/news/articles/2026-11-24/bank-of-canada-chief-warns-of-oil-passthrough-sticky-inflation",
-"pub": "2026-11-24T17:25:00+00:00",
-"src": "Bloomberg",
-"kind": "market",
-"seen": "2026-11-24T17:44:03+00:00"
-},
-{
-"id": "d2b98841fef5",
-"t": "",
-"title": "European shares end lower as tech rally fades; Sanofi gains - Reuters",
-"url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPRFZqN1lVNFNOTEFzWnBjSFFrbEVUQ2NLQ3EyOFJVdXVoUDFtdDJOcXoteHFEZWVmQ3dsYWV1OUxjN2FkY2pOVzk0T1NpTXBQTXpIWlJuWVozQlJNMHFHQmlvTFVwOG9LYmZRY3k0RDFLelNheUVaanNPSWpibkxyZXlRSGV6a2ttanl1MjZqLTZ3Z0JubU42OUZybWtUZEU?oc=5",
-"pub": "2026-11-24T17:19:57+00:00",
-"src": "Reuters",
-"kind": "market",
-"seen": "2026-11-24T19:44:00+00:00"
-},
-{
-"id": "0012c2d9b60b",
-"t": "",
-"title": "ZGN.DG - Reuters",
-"url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBieWFOR1g4RDg5OVRkNE0yY2NkTHJoazAzenA1VE55N0ZlRmJJcVVxRXhGay1Wd0NKLThGNzhnUFN5OWZNUVRSS0JWR0Z6cGxLWVZvV3VQSV83Q1ZRdVFOZ3dwTlBPbjRybFk5TndHdmVLT1BWaGc?oc=5",
-"pub": "2026-11-24T17:09:59+00:00",
-"src": "Reuters",
-"kind": "market",
-"seen": "2026-11-24T22:14:12+00:00"
-},
-{
-"id": "0e94c5d061c7",
-"t": "",
-"title": "Middlesex Water Co (MSEX.OQ) | Stock Price & Latest News - Reuters",
-"url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9HTlJDWE9FVVBlV0lZNmtNeWlfUm1ZSmVuMml1cEJQdWpVblBTUTVtMUpzWHNPUlk4eXhPTE83b3BJSFBhb3EtUnNwU05UVTRVMkkxNTk3SUFwQlA5enN1dW1DWHJVdTB6YXVTeTJnZw?oc=5",
-"pub": "2026-11-24T17:07:24+00:00",
-"src": "Reuters",
-"kind": "market",
-"seen": "2026-11-25T01:13:53+00:00"
-},
-{
-"id": "ec5428610d9d",
-"t": "",
-"title": "GOKUta.NS - | Stock Price & Latest News - Reuters",
-"url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1va1FmSWFQcGRpMTRIQXBPXzhPbVVRUnlPRTNEX1NwRkxqN05jMldiQ2F3UExvNU9Na0NvVWE3b3FHTjEtUHJtbmZjX3dnQnVfZERkWlF0SVR1U2toUWt4eDZyTWVrNUZoVi1SMFlzb1hQVkNlUGlyTVoyOA?oc=5",
-"pub": "2026-11-24T17:06:14+00:00",
-"src": "Reuters",
-"kind": "market",
-"seen": "2026-11-24T22:33:52+00:00"
-},
-{
-"id": "c28ac4bde905",
-"t": "",
-"title": "JAKKS Pacific Inc (JAKK.O) | Stock Price & Latest News - Reuters",
-"url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8wQlBWQzByUnpNT3BKQnMwSk0yeFVIeWNGMHNBLTYzTWlrMjNJMVd5Y1dNVGdYZGkxdkxkTEVsTDdtbWRzZHJKSWF3R0JzTmI4dWU1cFdCTThDc09TYzdUQTFoZHlsSXJTZlBn?oc=5",
-"pub": "2026-11-24T17:05:47+00:00",
-"src": "Reuters",
-"kind": "market",
-"seen": "2026-11-24T23:13:49+00:00"
-},
-{
-"id": "f7cf27b94131",
-"t": "",
-"title": "603199.SH - | Stock Price & Latest News - Reuters",
-"url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQT0hzbWxYWkdnWVM3RFQyajBtVm1ZVE1aWjRlcVc3OTNBZ29TdUtTSmlMd3NvY25zNGJqQ0UxSmlYWUFTbnJvUmh1M3l6RjdBN3QtNXZ6WHNZMTdaaEo1SzZhOUZYa2pPV3lyLU9wUnJsX1V1dllSSUd3RFRYRWVLSlpsOHh5cTV3Z2hnY1I4OWIzLUk?oc=5",
-"pub": "2026-11-24T17:05:42+00:00",
-"src": "Reuters",
-"kind": "market",
-"seen": "2026-11-25T04:14:49+00:00"
-},
-{
-"id": "39af3d3973f3",
-"t": "",
-"title": "Global X US Infrastructure Development ETF (PAVE.Z) | Stock Price & Latest News - Reuters",
-"url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4yQWtJb2t6dEpWUTRFNkFscHg3WmVwWVJfQkFxVWpaTFk5OEpsVVAwejZuOXRJM0RmUkJBcTVmaUE2bnlSbFdLN25QeDNWdW93RHN5SEktWnp2eW1WaUNBSDg3azZpa2tna3pWVg?oc=5",
-"pub": "2026-11-24T17:04:50+00:00",
-"src": "Reuters",
-"kind": "market",
-"seen": "2026-11-24T22:44:05+00:00"
-},
-{
-"id": "3d5d2a93eafc",
-"t": "",
-"title": "048470stat.KQ - | Stock Price & Latest News - Reuters",
-"url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPaU9iZ1RxdTc5UmphdW4yandFa0M2YXMzM2pLSTNlOHpSeDYtQjJ0NDE5NUZtNnBJSGpDTXVZS3I0ZVlCcmNMeHZzQVhIR284dDB3a1ZQOHF0UW1sZTVvNEVwWnE0V3BvZEl0SjZXTEZFZmFOYzdwaXRBbVE3SHZMdmJvQ2Y?oc=5",
-"pub": "2026-11-24T17:04:35+00:00",
-"src": "Reuters",
-"kind": "market",
-"seen": "2026-11-24T19:35:01+00:00"
-},
-{
-"id": "dfe5d6d6774c",
-"t": "",
-"title": "Iraq Rejects OPEC+ Assessment of Its Oil Production Capacity",
-"url": "https://www.bloomberg.com/news/articles/2026-11-24/iraq-rejects-opec-assessment-of-its-oil-production-capacity",
-"pub": "2026-11-24T17:04:34+00:00",
-"src": "Bloomberg",
-"kind": "market",
-"seen": "2026-11-24T17:14:02+00:00"
-},
-{
-"id": "3f5dd88e3630",
-"t": "",
-"title": "TTW PCL (F1P2.F) | Stock Price & Latest News - Reuters",
-"url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5ERGluamNEWUt0bzAyOC1TNzYwSWtOd2FEWUxrTl9ra1dUdG1NX3Q0bzJ4SWRCbDF0am9Gd05jZmV4RjJiNjlxdG1oS1BjZGN3bUlmQjF2ZnV6RXhmUkNQMDJuTXk0Qms1a09n?oc=5",
-"pub": "2026-11-24T17:04:21+00:00",
-"src": "Reuters",
-"kind": "market",
-"seen": "2026-11-25T03:44:28+00:00"
-},
-{
-"id": "68e65010fd85",
-"t": "",
-"title": "Nvidia's Huang to hold all-hands meeting at 12:30 PM PT today. $NVDA",
-"url": "https://www.financialjuice.com/News/9866431/Nvidias-Huang-to-hold-all-hands-meeting-at-1230-PM-PT-today-NVDA.aspx?xy=rss",
-"pub": "2026-11-24T17:03:47+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-24T17:14:02+00:00"
-},
-{
-"id": "c1aae6daa996",
-"t": "",
-"title": "Nvidia's Huang to hold all-hands meeting at 12:30 PM ET today. $NVDA",
-"url": "https://www.financialjuice.com/News/9866431/Nvidias-Huang-to-hold-all-hands-meeting-at-1230-PM-ET-today-NVDA.aspx?xy=rss",
-"pub": "2026-11-24T17:03:47+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-24T17:44:03+00:00"
 }
 ]
 }
