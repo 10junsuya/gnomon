@@ -1,6 +1,6 @@
 {
-"updated_kst": "2026-11-25 15:21",
-"rot": 69,
+"updated_kst": "2026-11-25 15:44",
+"rot": 129,
 "how": "Scout(프로그램)이 10분마다 모은 기사 제목·링크와 공시예요. Wren이 공식 출처로 확인한 뒤 회사 화면에 한국어로 반영해요. 본문은 받지 않아요.",
 "sources": {
 "Yahoo Finance": "120종목 확인 · 실패 0",
@@ -10,12 +10,32 @@
 "CNBC": "63건",
 "Bloomberg": "40건",
 "WSJ": "61건",
-"Reuters": "100건",
+"Reuters": "56건",
 "FinancialJuice": "100건",
 "SEC EDGAR": "실패 HTTPError",
 "Fox Business": "50건"
 },
 "items": [
+{
+"id": "d6819ce49c98",
+"t": "NVDA",
+"title": "Dollar Tree's Customer Traffic Jumped 3.8% as Comparable Sales Beat Its Outlook. Here's What's Behind the Gains.",
+"url": "https://www.fool.com/investing/2026/11/25/dollar-tree-s-customer-traffic-jumped-3-8-as-comparable-sales-beat-its-outlook-here-s-what-s-behind-the-gains/",
+"pub": "2026-11-25T06:15:49+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-25T06:44:47+00:00"
+},
+{
+"id": "a59cf7ff7597",
+"t": "BIIB",
+"title": "Stoke Therapeutics (STOK) Stock Looks Pricey Following Fresh Dravet Data",
+"url": "https://finance.yahoo.com/markets/stocks/articles/stoke-therapeutics-stok-stock-looks-061126377.html",
+"pub": "2026-11-25T06:11:26+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-25T06:44:47+00:00"
+},
 {
 "id": "b114435d728e",
 "t": "NVDA",
@@ -65,6 +85,16 @@
 "src": "Yahoo Finance",
 "kind": "news",
 "seen": "2026-11-25T05:44:12+00:00"
+},
+{
+"id": "995fa5ad46c5",
+"t": "NVDA",
+"title": "‘Not All Of It Was Forthcoming’: Singapore PM Lawrence Wong Knocks US Cooperation In Nvidia Megaspeed Chip Probe",
+"url": "https://finance.yahoo.com/technology/articles/not-forthcoming-singapore-pm-lawrence-052954958.html",
+"pub": "2026-11-25T05:29:54+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-25T06:44:47+00:00"
 },
 {
 "id": "fe7255602e9e",
@@ -7990,34 +8020,74 @@
 "seen": "2026-11-24T15:44:24+00:00"
 },
 {
-"id": "f070a94dc853",
-"t": "INSM",
-"title": "Sanofi Makes $41 Billion Bet as Patent Threat Looms",
-"url": "https://finance.yahoo.com/healthcare/articles/sanofi-makes-41-billion-bet-152944310.html",
-"pub": "2026-11-24T15:29:44+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-24T16:32:44+00:00"
+"id": "17d57bcbe3fa",
+"t": "",
+"title": "Dangote Refinery Set to Start Trading in Lagos on Dec. 1",
+"url": "https://www.bloomberg.com/news/videos/2026-11-25/dangote-refinery-set-to-start-trading-in-lagos-on-dec-1-video",
+"pub": "2026-11-25T06:33:01+00:00",
+"src": "Bloomberg",
+"kind": "market",
+"seen": "2026-11-25T06:44:47+00:00"
 },
 {
-"id": "212183032ba6",
-"t": "APLD",
-"title": "Needham keeps Applied Digital at Buy with $70 target after 150 MW lease at $2.0 million per MW",
-"url": "https://blockspace.media/insight/applied-digital-needham-buy-rating-2/",
-"pub": "2026-11-24T15:29:35+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-24T16:44:26+00:00"
+"id": "315e52d91e91",
+"t": "",
+"title": "Indonesia's sovereign fund Danantara books $14 billion net profit in 2025 - Reuters",
+"url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPa0pLaG5aWURVa0pONnJwdGx1bTE0VDFYMFVMcE94ZUU4Y1hFZzRuM1BlaWpmV3ZFeXpXalJkUHllay1OaEJlZTNlM256WGg1ZTZEY1pfS1cyYnloaGg5bUFrWjY5bThUdFV3ZF9SQnNpdXZDeEhxYnRMVW5fb0NGamVTZ0lNVzR0UjNNclZxcFlIWXpLS3IxS3lDbEczZ1N5X2Ixdjk3dFlVRTNKcEFnaWNPNm9uQUR3WFg4?oc=5",
+"pub": "2026-11-25T06:32:00+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-25T06:44:47+00:00"
 },
 {
-"id": "f3097e720198",
-"t": "GOOGL",
-"title": "Asia-Pacific Digital Transformation Market: Size, Trends, and Forecast (2026-2034) Featuring Intelligence on Accenture, Google (Alphabet), IBM, Microsoft, Oracle, HPE, SAP, EMC (Dell EMC), Cognex, Adobe and Siemens",
-"url": "https://finance.yahoo.com/technology/articles/asia-pacific-digital-transformation-market-152900939.html",
-"pub": "2026-11-24T15:29:00+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-24T15:44:24+00:00"
+"id": "b7b4af03b499",
+"t": "",
+"title": "China's Zhu: US 301 tariffs can be settled via negotiations with China",
+"url": "https://www.financialjuice.com/News/9867289/Chinas-Zhu-US-301-tariffs-can-be-settled-via-negotiations-with-China.aspx?xy=rss",
+"pub": "2026-11-25T06:30:04+00:00",
+"src": "FinancialJuice",
+"kind": "market",
+"seen": "2026-11-25T06:44:47+00:00"
+},
+{
+"id": "ec16f636b38e",
+"t": "",
+"title": "China's Zhu: China and the US to open a 'new chapter’ of trade talks in January",
+"url": "https://www.financialjuice.com/News/9867288/Chinas-Zhu-China-and-the-US-to-open-a-new-chapter-of-trade-talks-in-January.aspx?xy=rss",
+"pub": "2026-11-25T06:27:48+00:00",
+"src": "FinancialJuice",
+"kind": "market",
+"seen": "2026-11-25T06:44:47+00:00"
+},
+{
+"id": "e47b82f742c2",
+"t": "",
+"title": "SNB Interest Rate Probabilities",
+"url": "https://www.financialjuice.com/News/9867287/SNB-Interest-Rate-Probabilities.aspx?xy=rss",
+"pub": "2026-11-25T06:23:02+00:00",
+"src": "FinancialJuice",
+"kind": "market",
+"seen": "2026-11-25T06:44:47+00:00"
+},
+{
+"id": "b338e16d142f",
+"t": "",
+"title": "RBNZ Interest Rate Probabilities",
+"url": "https://www.financialjuice.com/News/9867286/RBNZ-Interest-Rate-Probabilities.aspx?xy=rss",
+"pub": "2026-11-25T06:22:46+00:00",
+"src": "FinancialJuice",
+"kind": "market",
+"seen": "2026-11-25T06:44:47+00:00"
+},
+{
+"id": "ea0180284549",
+"t": "",
+"title": "RBA Interest Rate Probabilities",
+"url": "https://www.financialjuice.com/News/9867285/RBA-Interest-Rate-Probabilities.aspx?xy=rss",
+"pub": "2026-11-25T06:22:28+00:00",
+"src": "FinancialJuice",
+"kind": "market",
+"seen": "2026-11-25T06:44:47+00:00"
 },
 {
 "id": "53ed851c7aca",
@@ -8230,6 +8300,16 @@
 "seen": "2026-11-25T06:14:14+00:00"
 },
 {
+"id": "b767fc37c2b4",
+"t": "",
+"title": "AI Rally Fizzles as US Readies New Tariffs on China",
+"url": "https://www.bloomberg.com/news/videos/2026-11-25/the-china-show-11-25-2026-video",
+"pub": "2026-11-25T05:46:27+00:00",
+"src": "Bloomberg",
+"kind": "market",
+"seen": "2026-11-25T06:44:47+00:00"
+},
+{
 "id": "03e18bea9657",
 "t": "",
 "title": "Soy Oil Hits Nine-Month Low as Strong Meal Demand Boosts Crush",
@@ -8330,6 +8410,16 @@
 "seen": "2026-11-25T05:14:58+00:00"
 },
 {
+"id": "fb9a9836096a",
+"t": "",
+"title": "JP3648800005.TRE - | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOZUhXTk1qbFVicUhfeDdEX3JZaEZQd2RrN0NHSHhmSldLZ1JWT1V3WXNtX1k5ZUwyd19NNzg5Y2dvM0h0TExOTXJDczNyNFhoeWlOMjEwOTFBOHZ0dndHTUNiYW1OUEwzdFlTaG1kNjFtSXZsZWZmcDd0UjdidTRPVklXZ3c3dw?oc=5",
+"pub": "2026-11-25T04:50:59+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-25T06:44:47+00:00"
+},
+{
 "id": "739594c8c99e",
 "t": "",
 "title": "Iran revolutionary guards' navy: two tankers blaze on unauthorized route through Strait of Hormuz - state media",
@@ -8398,6 +8488,16 @@
 "src": "Bloomberg",
 "kind": "market",
 "seen": "2026-11-25T04:02:08+00:00"
+},
+{
+"id": "936f5bc68867",
+"t": "",
+"title": "KIRPta.NS - | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQRmRCR1JEWmtXWTduTEhSNFFwNUhXRzg4UGZlMTZTbUp5cE94T2hJY0tLaUlDZmduUmhfaVFYWlhBOGo2OTVQc2ZwZldMZlZhZnRMZVlzTFFIMmJWVXdEbVlxVjdfdW5ZZGloUDFpRHJfX2E1M0U5NjJ2X2ZzLW8zcGp2Z1pxaHlia0Nn?oc=5",
+"pub": "2026-11-25T03:55:34+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-25T06:44:47+00:00"
 },
 {
 "id": "e93c6bdd77ac",
@@ -8518,6 +8618,16 @@
 "src": "Reuters",
 "kind": "market",
 "seen": "2026-11-25T06:14:14+00:00"
+},
+{
+"id": "86da04bb1be1",
+"t": "",
+"title": "CVST.OQ%5EG05 - | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNend3LV8ycXdJTEpEWU9TdU5oZGpuQnhsU0FhSldUWHFiVG1WRHptZ1BnSkJINklqcFNCRGJKOTBJb2NsRDZwQ2FjaHhqSkd0Y0ROdk04em5HaXd0dTNORXdGVUgzYm5uOFpUNm1kWEdHcjRYU2hrZlVPS1hieW5fbkFFTEZPT3QxOVhMX0x0STdpWlhxN09hVA?oc=5",
+"pub": "2026-11-25T02:55:32+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-25T06:44:47+00:00"
 },
 {
 "id": "9d6f0b686d18",
@@ -8938,6 +9048,16 @@
 "src": "Bloomberg",
 "kind": "market",
 "seen": "2026-11-25T00:14:06+00:00"
+},
+{
+"id": "81b86cf16782",
+"t": "",
+"title": "The WSJ Dollar Index Falls 0.27% to 98.75",
+"url": "https://www.wsj.com/articles/dollar-stays-strong-after-nvidia-news-boosts-u-s-tech-stocks-a0c603c2",
+"pub": "2026-11-24T23:44:00+00:00",
+"src": "WSJ",
+"kind": "market",
+"seen": "2026-11-25T06:44:47+00:00"
 },
 {
 "id": "915fef8e7e14",
@@ -10898,126 +11018,6 @@
 "src": "Bloomberg",
 "kind": "market",
 "seen": "2026-11-24T16:32:44+00:00"
-},
-{
-"id": "cee4cf2c8bf0",
-"t": "",
-"title": "Putin: The Russian fuel market situation remains difficult.",
-"url": "https://www.financialjuice.com/News/9866338/Putin-The-Russian-fuel-market-situation-remains-difficult.aspx?xy=rss",
-"pub": "2026-11-24T15:49:30+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-24T16:15:36+00:00"
-},
-{
-"id": "e785d312dbed",
-"t": "",
-"title": "Putin: Despite difficult geopolitical situation, Russian companies hold leading positions in global energy markets.",
-"url": "https://www.financialjuice.com/News/9866337/Putin-Despite-difficult-geopolitical-situation-Russian-companies-hold-leading-positions-in-global-energy-markets.aspx?xy=rss",
-"pub": "2026-11-24T15:49:22+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-24T16:15:36+00:00"
-},
-{
-"id": "3812facf5b4e",
-"t": "",
-"title": "New US tariffs expected Tuesday won't exceed trade deal levels; Trump Section 301 tariffs to be targeted, not a blanket rate, according to a person",
-"url": "https://www.financialjuice.com/News/9866323/New-US-tariffs-expected-Tuesday-wont-exceed-trade-deal-levels-Trump-Section-301-tariffs-to-be-targeted-not-a-blanket-rate-according-to-a-person.aspx?xy=rss",
-"pub": "2026-11-24T15:45:55+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-24T16:15:36+00:00"
-},
-{
-"id": "df88dd7e5f9d",
-"t": "",
-"title": "New Trump Tariffs Won’t Top Trade Deal Levels, Will Be Targeted",
-"url": "https://www.bloomberg.com/news/articles/2026-11-24/new-trump-tariffs-won-t-top-trade-deal-levels-will-be-targeted",
-"pub": "2026-11-24T15:45:27+00:00",
-"src": "Bloomberg",
-"kind": "market",
-"seen": "2026-11-24T16:15:36+00:00"
-},
-{
-"id": "a0bb922b0514",
-"t": "",
-"title": "Nigeria Billionaire Sets Blockbuster Refinery Listing for Dec. 1",
-"url": "https://www.bloomberg.com/news/articles/2026-11-24/nigeria-billionaire-sets-blockbuster-refinery-listing-for-dec-1",
-"pub": "2026-11-24T15:42:55+00:00",
-"src": "Bloomberg",
-"kind": "market",
-"seen": "2026-11-24T16:15:36+00:00"
-},
-{
-"id": "7ed310463877",
-"t": "",
-"title": "EU executive may end disciplinary budget steps against Italy in 2027 - Reuters",
-"url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQOVJjS2NNQTZqR1VZRGVQR2Y3RmtMQndSYXNpSXY5Y3lzV1cxRFptSkJoNDZVQjJ4SzVwa0xvNk5JVFE0RmtIYU5Nd2Z5QWNzZFVXZXJqODNCLU54dmZsY29COC1tWm9BVXp5ZzI2RkhORHowUm9iczRFYXVMT091X0luRGRqN19VUF9od1FNbDFaSjJiV09nZHRTYzZuc3pnUmRjbi1abWZxMjlFNlFiMmRUSVNCTjA?oc=5",
-"pub": "2026-11-24T15:42:09+00:00",
-"src": "Reuters",
-"kind": "market",
-"seen": "2026-11-24T16:15:36+00:00"
-},
-{
-"id": "7a4dcfc02462",
-"t": "",
-"title": "0893.HS - | Stock Price & Latest News - Reuters",
-"url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE91cFp2SFBmMUdUVXl3dTVQMldWQzQ0WjNsZEE5QjZIZVpqMzFuUkxlVWRZbjhMSjRNUk5fV2ZHTE5LcTV6ZERxNDNySUxaWGd0dlJJNVkxeGtSc09vMEpwWi1YbkZ3NnFpQ2NUVlBzaWlseEhFc0ozclFB?oc=5",
-"pub": "2026-11-24T15:41:21+00:00",
-"src": "Reuters",
-"kind": "market",
-"seen": "2026-11-24T22:33:52+00:00"
-},
-{
-"id": "8bbebd8c87da",
-"t": "",
-"title": "EU Commission: May end disciplinary budget steps against Italy in 2027 if 2026 data confirms deficit was below 3% of GDP.",
-"url": "https://www.financialjuice.com/News/9866320/EU-Commission-May-end-disciplinary-budget-steps-against-Italy-in-2027-if-2026-data-confirms-deficit-was-below-3-of-GDP.aspx?xy=rss",
-"pub": "2026-11-24T15:34:25+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-24T15:44:24+00:00"
-},
-{
-"id": "39d0cbfbde52",
-"t": "",
-"title": "Walking Clubs Are the Antidote to Fitness Culture",
-"url": "https://www.bloomberg.com/news/videos/2026-11-24/walking-clubs-are-the-antidote-to-fitness-culture-video",
-"pub": "2026-11-24T15:28:29+00:00",
-"src": "Bloomberg",
-"kind": "market",
-"seen": "2026-11-24T15:44:24+00:00"
-},
-{
-"id": "0c51dc73ad28",
-"t": "",
-"title": "LME Tightens Rules on Big Positions to Ease Aluminum Squeeze",
-"url": "https://www.bloomberg.com/news/articles/2026-11-24/lme-tightens-rules-on-big-positions-to-address-aluminum-squeeze",
-"pub": "2026-11-24T15:28:27+00:00",
-"src": "Bloomberg",
-"kind": "market",
-"seen": "2026-11-24T15:44:24+00:00"
-},
-{
-"id": "991fadfdebce",
-"t": "",
-"title": "New Balance Turns 'Dad Shoe' Into Trendy Hit With Gen Z",
-"url": "https://www.bloomberg.com/news/videos/2026-11-24/new-balance-turns-dad-shoe-into-trendy-hit-with-gen-z-video",
-"pub": "2026-11-24T15:28:18+00:00",
-"src": "Bloomberg",
-"kind": "market",
-"seen": "2026-11-24T15:44:24+00:00"
-},
-{
-"id": "31ced7ade66e",
-"t": "",
-"title": "Fitch Ratings: AI job disruption could be significant in industries where labour substitution possibilities are high & AI complementarities limited.",
-"url": "https://www.financialjuice.com/News/9866313/Fitch-Ratings-AI-job-disruption-could-be-significant-in-industries-where-labour-substitution-possibilities-are-high--AI-complementarities-limited.aspx?xy=rss",
-"pub": "2026-11-24T15:23:55+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-24T15:44:24+00:00"
 }
 ]
 }
