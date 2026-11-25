@@ -1,6 +1,6 @@
 {
-"updated_kst": "2026-11-25 17:14",
-"rot": 11,
+"updated_kst": "2026-11-25 17:44",
+"rot": 71,
 "how": "Scout(프로그램)이 10분마다 모은 기사 제목·링크와 공시예요. Wren이 공식 출처로 확인한 뒤 회사 화면에 한국어로 반영해요. 본문은 받지 않아요.",
 "sources": {
 "Yahoo Finance": "120종목 확인 · 실패 0",
@@ -10,12 +10,62 @@
 "CNBC": "63건",
 "Bloomberg": "40건",
 "WSJ": "61건",
-"Reuters": "48건",
+"Reuters": "54건",
 "FinancialJuice": "100건",
 "SEC EDGAR": "실패 HTTPError",
 "Fox Business": "50건"
 },
 "items": [
+{
+"id": "bcd3ebc45ef8",
+"t": "NVDA",
+"title": "Home Depot Has Raised Its Dividend 17 Straight Years. Here's What $10,000 Invested Pays Annually.",
+"url": "https://www.fool.com/investing/2026/11/25/home-depot-has-raised-its-dividend-17-straight-years-here-s-what-usd10-000-invested-pays-annually/",
+"pub": "2026-11-25T08:35:02+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-25T08:44:35+00:00"
+},
+{
+"id": "510e11b3c50a",
+"t": "NVDA",
+"title": "Adobe Stock Is About 67% Below Its 2021 Record. Here's What I Think It Will Be Worth in 2030.",
+"url": "https://www.fool.com/investing/2026/11/25/adobe-stock-is-about-67-below-its-2021-record-here-s-what-i-think-it-will-be-worth-in-2030/",
+"pub": "2026-11-25T08:33:02+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-25T08:44:35+00:00"
+},
+{
+"id": "93140fcdaf96",
+"t": "MU",
+"title": "MU, SKHY, SNDK Stocks In Focus After TrendForce Lowers DRAM Pricing Forecast",
+"url": "https://stocktwits.com/news-articles/markets/equity/mu-skhy-sndk-stocks-in-focus-after-trend-force-lowers-dram-pricing-forecast/cNbH7VLR9l8",
+"pub": "2026-11-25T08:27:10+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-25T08:44:35+00:00"
+},
+{
+"id": "556e2e1cfcbc",
+"t": "NVDA",
+"title": "1 Reason to Buy AMD Stock Before 2027",
+"url": "https://www.fool.com/investing/2026/11/25/1-reason-to-buy-amd-stock-before-2027/",
+"pub": "2026-11-25T08:26:02+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-25T08:44:35+00:00"
+},
+{
+"id": "62108efd7e2f",
+"t": "ACHR",
+"title": "Archer Aviation (ACHR) Dropped, So What Is Driving Attention Now?",
+"url": "https://finance.yahoo.com/markets/stocks/articles/archer-aviation-achr-dropped-driving-080750095.html",
+"pub": "2026-11-25T08:07:50+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-25T08:44:35+00:00"
+},
 {
 "id": "af20237c37da",
 "t": "SPCX",
@@ -25,6 +75,16 @@
 "src": "Yahoo Finance",
 "kind": "news",
 "seen": "2026-11-25T08:14:42+00:00"
+},
+{
+"id": "36fb952c5219",
+"t": "NVDA",
+"title": "LIVE – Crypto News Today: Bitcoin Hit by Trump Tariff Threat and US Treasury Cyberattack as IBIT Bleeds Billions",
+"url": "https://cryptonews.com/news/crypto-news-bitcoin-trump-tariffs-ibit-etf-outflows/",
+"pub": "2026-11-25T08:05:23+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-25T08:44:35+00:00"
 },
 {
 "id": "2c181d0abe24",
@@ -7960,64 +8020,34 @@
 "seen": "2026-11-24T22:14:12+00:00"
 },
 {
-"id": "f362bc66d4d1",
-"t": "ORCL",
-"title": "HPE Stock On Track For Biggest Single-Day Loss In Over 18 Months — CEO Warns Of Supply Shortages Through 2028",
-"url": "https://stocktwits.com/news-articles/markets/equity/hpe-stock-on-track-for-biggest-single-day-loss-in-over-18-months-ceo-warns-of-supply-shortages-through-2028/cNbsQ2WR9kt",
-"pub": "2026-11-24T15:42:58+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-24T16:15:36+00:00"
+"id": "4d7fe3e8603f",
+"t": "",
+"title": "Naftogaz: Russia hit gas production facility in Poltava region.",
+"url": "https://www.financialjuice.com/News/9867422/Naftogaz-Russia-hit-gas-production-facility-in-Poltava-region.aspx?xy=rss",
+"pub": "2026-11-25T08:36:51+00:00",
+"src": "FinancialJuice",
+"kind": "market",
+"seen": "2026-11-25T08:44:35+00:00"
 },
 {
-"id": "2579b10a76c6",
-"t": "GOOGL",
-"title": "Who is holding Jensen Huang accountable? It sure looks like nobody",
-"url": "https://finance.yahoo.com/video/who-is-holding-jensen-huang-accountable-it-sure-looks-like-nobody-154255467.html",
-"pub": "2026-11-24T15:42:55+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-24T15:44:24+00:00"
+"id": "d5771ad2a63b",
+"t": "",
+"title": "Murdoch-Backed Allen Career Is Said to Pick Banks for India IPO",
+"url": "https://www.bloomberg.com/news/articles/2026-11-25/murdoch-backed-allen-career-is-said-to-pick-banks-for-india-ipo",
+"pub": "2026-11-25T08:26:23+00:00",
+"src": "Bloomberg",
+"kind": "market",
+"seen": "2026-11-25T08:44:35+00:00"
 },
 {
-"id": "8561731a013d",
-"t": "NVDA",
-"title": "What social media is saying about Jensen Huang's Nvidia comeback",
-"url": "https://finance.yahoo.com/video/what-social-media-is-saying-about-jensen-huangs-nvidia-comeback-154237606.html",
-"pub": "2026-11-24T15:42:37+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-24T15:44:24+00:00"
-},
-{
-"id": "20b06d137f10",
-"t": "ABT",
-"title": "Cardiac Arrhythmia Monitoring Devices Market Report 2026-2034: Global Size, Share, Trends, and Company Analysis Featuring Abbott Labs, GE HealthCare, Philips, Medtronic, Asahi Kasei Corp., Boston Scientific Corp. and More",
-"url": "https://finance.yahoo.com/healthcare/articles/cardiac-arrhythmia-monitoring-devices-market-154200459.html",
-"pub": "2026-11-24T15:42:00+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-24T16:15:36+00:00"
-},
-{
-"id": "1a9707ce59de",
-"t": "CEG",
-"title": "CEG or BE: Which Is the Better Value Stock Right Now?",
-"url": "https://finance.yahoo.com/markets/stocks/articles/ceg-better-value-stock-now-154002434.html",
-"pub": "2026-11-24T15:40:02+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-24T17:14:02+00:00"
-},
-{
-"id": "0cab83c953c4",
-"t": "REGN",
-"title": "REGN or CSLLY: Which Is the Better Value Stock Right Now?",
-"url": "https://finance.yahoo.com/markets/stocks/articles/regn-cslly-better-value-stock-154001542.html",
-"pub": "2026-11-24T15:40:01+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-24T17:44:03+00:00"
+"id": "2cd10d3f2090",
+"t": "",
+"title": "CATL Tumbles 12% on Fears Over Weak Earnings, Forced Selling",
+"url": "https://www.bloomberg.com/news/articles/2026-11-25/catl-tumbles-12-on-fears-over-weak-earnings-forced-selling",
+"pub": "2026-11-25T08:25:56+00:00",
+"src": "Bloomberg",
+"kind": "market",
+"seen": "2026-11-25T08:44:35+00:00"
 },
 {
 "id": "e3cf70c24583",
@@ -9248,6 +9278,16 @@
 "src": "WSJ",
 "kind": "market",
 "seen": "2026-11-25T02:14:10+00:00"
+},
+{
+"id": "75002c494b02",
+"t": "",
+"title": "North Peak Resources Ltd (NPRLF.PK) | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1zZS03ZlhodmM0NnRsMFg2dDNwb0d6QW44OFlwTTJSXzNvaFd4WGRwdDZqYndCQ3hFN0NKcV9nSGc2RXpjX1NIQjNpcXZXVldEVkxoVHVDcDVNVGVyQ0VrX3RWTVZ0cmZONXc?oc=5",
+"pub": "2026-11-25T01:57:37+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-25T08:44:35+00:00"
 },
 {
 "id": "c53d431744f1",
@@ -10975,46 +11015,6 @@
 "title": "BoC's Gov. Macklem: Monetary policy framework has performed well but that doesn't mean we can't do better.",
 "url": "https://www.financialjuice.com/News/9866461/BoCs-Gov-Macklem-Monetary-policy-framework-has-performed-well-but-that-doesnt-mean-we-cant-do-better.aspx?xy=rss",
 "pub": "2026-11-24T17:28:02+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-24T17:29:04+00:00"
-},
-{
-"id": "696b74df162a",
-"t": "",
-"title": "Health Care Roundup: Market Talk",
-"url": "https://www.wsj.com/business/health-care-roundup-market-talk-0f197179",
-"pub": "2026-11-24T17:28:00+00:00",
-"src": "WSJ",
-"kind": "market",
-"seen": "2026-11-25T00:44:53+00:00"
-},
-{
-"id": "ee51b78ff86b",
-"t": "",
-"title": "BoC's Gov. Macklem: If inflation is going to be too high for two long, we would need to hike rates.",
-"url": "https://www.financialjuice.com/News/9866460/BoCs-Gov-Macklem-If-inflation-is-going-to-be-too-high-for-two-long-we-would-need-to-hike-rates.aspx?xy=rss",
-"pub": "2026-11-24T17:27:51+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-24T17:29:04+00:00"
-},
-{
-"id": "e67a8544c571",
-"t": "",
-"title": "BoC's Gov. Macklem: If inflation goes up but is expected to come down on its own, we generally don't need to respond.",
-"url": "https://www.financialjuice.com/News/9866459/BoCs-Gov-Macklem-If-inflation-goes-up-but-is-expected-to-come-down-on-its-own-we-generally-dont-need-to-respond.aspx?xy=rss",
-"pub": "2026-11-24T17:27:41+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-24T17:29:04+00:00"
-},
-{
-"id": "e161d6e8fe40",
-"t": "",
-"title": "BoC's Gov. Macklem: A temporary disruption to supply can have bigger, broader and longer-lasting effects on inflation if economy is already running hot.",
-"url": "https://www.financialjuice.com/News/9866458/BoCs-Gov-Macklem-A-temporary-disruption-to-supply-can-have-bigger-broader-and-longer-lasting-effects-on-inflation-if-economy-is-already-running-hot.aspx?xy=rss",
-"pub": "2026-11-24T17:27:29+00:00",
 "src": "FinancialJuice",
 "kind": "market",
 "seen": "2026-11-24T17:29:04+00:00"
