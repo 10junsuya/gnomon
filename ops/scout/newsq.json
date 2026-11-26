@@ -1,6 +1,6 @@
 {
-"updated_kst": "2026-11-26 09:14",
-"rot": 86,
+"updated_kst": "2026-11-26 09:44",
+"rot": 146,
 "how": "Scout(프로그램)이 10분마다 모은 기사 제목·링크와 공시예요. Wren이 공식 출처로 확인한 뒤 회사 화면에 한국어로 반영해요. 본문은 받지 않아요.",
 "sources": {
 "Yahoo Finance": "120종목 확인 · 실패 0",
@@ -10,12 +10,92 @@
 "CNBC": "63건",
 "Bloomberg": "40건",
 "WSJ": "61건",
-"Reuters": "실패 HTTPError",
+"Reuters": "100건",
 "FinancialJuice": "100건",
 "SEC EDGAR": "실패 HTTPError",
 "Fox Business": "50건"
 },
 "items": [
+{
+"id": "920f8841a867",
+"t": "PWR",
+"title": "Canadian Utilities Responds to Puerto Rico Supreme Court Decision Regarding LUMA",
+"url": "https://finance.yahoo.com/news/canadian-utilities-responds-puerto-rico-003900065.html",
+"pub": "2026-11-26T00:39:00+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-26T00:44:37+00:00"
+},
+{
+"id": "828a8424a90c",
+"t": "TSLA",
+"title": "Elon Musk tells Tesla investors there is 'only one way' to eliminate poverty",
+"url": "https://www.thestreet.com/investing/elon-musk-tells-tesla-investors-optimus-robots-will-eliminate-poverty",
+"pub": "2026-11-26T00:37:00+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-26T00:44:37+00:00"
+},
+{
+"id": "0aa9b623a4d3",
+"t": "NVDA",
+"title": "Vertex Pharmaceuticals Has Turned $10,000 Into $61,660 Over 10 Years. Here's What Could Come Next",
+"url": "https://www.fool.com/investing/2026/11/25/vertex-pharmaceuticals-has-turned-10000-into-x-ove/",
+"pub": "2026-11-26T00:32:00+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-26T00:44:37+00:00"
+},
+{
+"id": "d0163f94d8aa",
+"t": "NVDA",
+"title": "Why CleanSpark Stock Was a Winner on Wednesday",
+"url": "https://www.fool.com/investing/2026/11/25/why-cleanspark-stock-was-a-winner-on-wednesday/",
+"pub": "2026-11-26T00:30:39+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-26T00:44:37+00:00"
+},
+{
+"id": "6166fbee5265",
+"t": "SPCX",
+"title": "SpaceX wins approval to launch one million AI data centre satellites",
+"url": "https://www.proactiveinvestors.com/companies/news/1102478/spacex-wins-approval-to-launch-one-million-ai-data-centre-satellites-1102478.html",
+"pub": "2026-11-26T00:27:00+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-26T00:44:37+00:00"
+},
+{
+"id": "8e756a62b1d5",
+"t": "SPCX",
+"title": "SPCX Stock Rebounds From 9% Drop: SpaceX Pledges Shares To Trump Accounts And Wins FCC Starmind Nod",
+"url": "https://stocktwits.com/news-articles/markets/equity/spcx-stock-rebounds-from-9-drop-space-x-pledges-shares-to-trump-accounts-and-wins-fcc-starmind-nod/cNbx2umR9m6",
+"pub": "2026-11-26T00:22:41+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-26T00:44:37+00:00"
+},
+{
+"id": "3580c16feb40",
+"t": "SPCX",
+"title": "S&P 500, Nasdaq End Lower But Dow Rebounds As Traders Rotate Out Of AI — NVDA, SPCX, PANW  In Focus",
+"url": "https://stocktwits.com/news-articles/markets/equity/s-and-p-500-nasdaq-end-lower-but-dow-rebounds-as-traders-rotate-out-of-ai-nvda-spcx-panw-in-focus/cNbx21AR9mC",
+"pub": "2026-11-26T00:09:50+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-26T00:44:37+00:00"
+},
+{
+"id": "f396cb76ad0c",
+"t": "IONQ",
+"title": "How Much More Could You Lose In IonQ Stock?",
+"url": "https://www.trefis.com/stock/ionq/articles/628757/how-much-more-could-you-lose-in-ionq-stock/2026-11-25",
+"pub": "2026-11-25T23:55:38+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-26T00:44:37+00:00"
+},
 {
 "id": "fccc2b22bdd5",
 "t": "MSFT",
@@ -235,6 +315,16 @@
 "src": "Yahoo Finance",
 "kind": "news",
 "seen": "2026-11-25T23:14:50+00:00"
+},
+{
+"id": "01f3cd85f8e0",
+"t": "AMZN",
+"title": "Pro Shop's Chad Mumm on Skins Game Return To Prime Video",
+"url": "https://finance.yahoo.com/video/pro-shops-chad-mumm-skins-225939915.html",
+"pub": "2026-11-25T22:59:39+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-26T00:44:37+00:00"
 },
 {
 "id": "43ed1867b832",
@@ -7933,94 +8023,64 @@
 "seen": "2026-11-25T13:44:08+00:00"
 },
 {
-"id": "b5242168337e",
-"t": "RBRK",
-"title": "RBRK near-term setup: key levels and earnings risk ahead of Nov 30",
-"url": "https://finance.yahoo.com/markets/stocks/articles/rbrk-near-term-setup-key-130141112.html",
-"pub": "2026-11-25T13:01:41+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-25T13:58:47+00:00"
+"id": "4c880ea5f745",
+"t": "",
+"title": "Australian Building Capex Actual 1.7% (Forecast -, Previous 2.1%)",
+"url": "https://www.financialjuice.com/News/9868586/Australian-Building-Capex-Actual-17-Forecast---Previous-21.aspx?xy=rss",
+"pub": "2026-11-26T00:30:16+00:00",
+"src": "FinancialJuice",
+"kind": "market",
+"seen": "2026-11-26T00:44:37+00:00"
 },
 {
-"id": "d16196bf81da",
-"t": "AMZN",
-"title": "Amazon to Launch Online Car Sales in UK in Early 2027",
-"url": "https://finance.yahoo.com/small-business/articles/amazon-launch-online-car-sales-130130091.html",
-"pub": "2026-11-25T13:01:30+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-25T13:44:08+00:00"
+"id": "d62a542298ad",
+"t": "",
+"title": "Australian Capital Expenditure QoQ Actual 12.2% (Forecast 4.3%, Previous -3.6%)",
+"url": "https://www.financialjuice.com/News/9868585/Australian-Capital-Expenditure-QoQ-Actual-122-Forecast-43-Previous--36.aspx?xy=rss",
+"pub": "2026-11-26T00:30:01+00:00",
+"src": "FinancialJuice",
+"kind": "market",
+"seen": "2026-11-26T00:44:37+00:00"
 },
 {
-"id": "94cd908ecd9a",
-"t": "NVDA",
-"title": "How the S&P 500 Performs After Hitting Correction Territory",
-"url": "https://finance.yahoo.com/markets/stocks/articles/p-500-performs-hitting-correction-130009454.html",
-"pub": "2026-11-25T13:00:09+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-25T13:18:15+00:00"
+"id": "4d5769e396ef",
+"t": "",
+"title": "Gold Edges Lower Amid Rate Hike Bets",
+"url": "https://www.wsj.com/finance/commodities-futures/gold-edges-lower-amid-rate-hike-bets-1d4057c0",
+"pub": "2026-11-26T00:24:00+00:00",
+"src": "WSJ",
+"kind": "market",
+"seen": "2026-11-26T00:44:37+00:00"
 },
 {
-"id": "864b86036237",
-"t": "V",
-"title": "Visa Inc. (V) is Attracting Investor Attention: Here is What You Should Know",
-"url": "https://finance.yahoo.com/markets/stocks/articles/visa-inc-v-attracting-investor-130005459.html",
-"pub": "2026-11-25T13:00:05+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-25T14:15:15+00:00"
+"id": "01193bf651e1",
+"t": "",
+"title": "Nikkei Rises 1.3%, Led by Chip, Metals Stocks",
+"url": "https://www.wsj.com/finance/stocks/nikkei-rises-1-3-led-by-chip-metals-stocks-3b7004c9",
+"pub": "2026-11-26T00:19:00+00:00",
+"src": "WSJ",
+"kind": "market",
+"seen": "2026-11-26T00:44:37+00:00"
 },
 {
-"id": "1e1e61265233",
-"t": "BRKB",
-"title": "Investors Heavily Search Berkshire Hathaway Inc. (BRK.B): Here is What You Need to Know",
-"url": "https://finance.yahoo.com/markets/stocks/articles/investors-heavily-search-berkshire-hathaway-130005239.html",
-"pub": "2026-11-25T13:00:05+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-25T14:44:19+00:00"
+"id": "d13b953c2793",
+"t": "",
+"title": "Gold Edges Lower as US Inflation Data Fuels Bets for Rate Hikes",
+"url": "https://www.bloomberg.com/news/articles/2026-11-26/gold-edges-lower-as-us-inflation-data-fuels-bets-for-rate-hikes",
+"pub": "2026-11-26T00:18:09+00:00",
+"src": "Bloomberg",
+"kind": "market",
+"seen": "2026-11-26T00:44:37+00:00"
 },
 {
-"id": "732d8733e8a5",
-"t": "AMKR",
-"title": "Investors Heavily Search Amkor Technology, Inc. (AMKR): Here is What You Need to Know",
-"url": "https://finance.yahoo.com/markets/stocks/articles/investors-heavily-search-amkor-technology-130004860.html",
-"pub": "2026-11-25T13:00:04+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-25T14:15:15+00:00"
-},
-{
-"id": "9947ca8536c8",
-"t": "GLW",
-"title": "Is Most-Watched Stock Owens Corning Inc (OC) Worth Betting on Now?",
-"url": "https://finance.yahoo.com/markets/stocks/articles/most-watched-stock-owens-corning-130004945.html",
-"pub": "2026-11-25T13:00:04+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-25T14:44:19+00:00"
-},
-{
-"id": "05b3bbc0baaf",
-"t": "VZ",
-"title": "Verizon Communications Inc. (VZ) is Attracting Investor Attention: Here is What You Should Know",
-"url": "https://finance.yahoo.com/markets/stocks/articles/verizon-communications-inc-vz-attracting-130004286.html",
-"pub": "2026-11-25T13:00:04+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-25T15:05:32+00:00"
-},
-{
-"id": "6d050ce3fb27",
-"t": "MPC",
-"title": "Investors Heavily Search Marathon Petroleum Corporation (MPC): Here is What You Need to Know",
-"url": "https://finance.yahoo.com/markets/stocks/articles/investors-heavily-search-marathon-petroleum-130003380.html",
-"pub": "2026-11-25T13:00:03+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-25T14:44:19+00:00"
+"id": "f3ab882c45ab",
+"t": "",
+"title": "Emerging Asia’s Best Bond Rally Seen Extending in Philippines",
+"url": "https://www.bloomberg.com/news/articles/2026-11-26/emerging-asia-s-best-bond-rally-seen-extending-in-philippines",
+"pub": "2026-11-26T00:05:45+00:00",
+"src": "Bloomberg",
+"kind": "market",
+"seen": "2026-11-26T00:44:37+00:00"
 },
 {
 "id": "04cfb7b15377",
@@ -8131,6 +8191,16 @@
 "src": "Bloomberg",
 "kind": "market",
 "seen": "2026-11-25T23:04:13+00:00"
+},
+{
+"id": "ae72e7a5b7a8",
+"t": "",
+"title": "TPKYF.PK%5EJ24 - | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOcmprSWg5MU9vb2Y1SW1hZmNKVWN5bzMzWE9zNFYwNWkwVnNCMmFROGxfOW9CNzhXdjFTcU1QTHMwT3dVUXJON24zWVo1anFWbVpMTnNpQzFGSjVtVGQ5c0kyM01SbEpteFlfZmJ6ZXF0Y2ZLc1pGczhfTG5tNkFtSUoxbXhkVFNrMlNz?oc=5",
+"pub": "2026-11-25T22:49:15+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-26T00:44:37+00:00"
 },
 {
 "id": "03d13a3cdc95",
@@ -8303,6 +8373,26 @@
 "seen": "2026-11-25T21:45:02+00:00"
 },
 {
+"id": "6d7ccf188619",
+"t": "",
+"title": "9248.JSD - | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBiNndsNjlrYklKSVJWNWFKM0N0Ujc5UV9DOUVLMzJxaEQ3eTJDbnFZX3JfVjlwcjBQMnBIMnIzWV9YM1RzX2RZVGtscVZQRWRIX1JxYVlueVZaek1tRDhYTTZ4NGt2eVZyRldMM05JbWtFVnVPRk5vRk51QQ?oc=5",
+"pub": "2026-11-25T21:22:55+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-26T00:44:37+00:00"
+},
+{
+"id": "6e73fbfc19b5",
+"t": "",
+"title": "Centuria Capital Group (CNI.AX) | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE05OUVIcTdicWJqSzBoLTRGaWpfZmtiVDl5cF9BQ0pnQ1g4eTc0TGN1dWpKVUpYVUZwWFQzYVdxZHRteWRzdHZ2U1Jmcm1pN1pXbmFaZ2pFQ21GY3dXWF8xeHI2Nzk1OF9HUlptdWF3?oc=5",
+"pub": "2026-11-25T21:22:33+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-26T00:44:37+00:00"
+},
+{
 "id": "bfbc351c50c1",
 "t": "",
 "title": "Toronto-Dominion Bank expects Bank of Canada to hike in December.",
@@ -8443,6 +8533,16 @@
 "seen": "2026-11-25T22:44:42+00:00"
 },
 {
+"id": "99c1bf5f0598",
+"t": "",
+"title": "VPl.BS - Reuters",
+"url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1iekVmWGV0a1k5enRscFZSMWh1aHVCOVV1ZThHYzZvemdGVHRHOG9RN3dxbWg4UFAzeUtKMVRiUno0SDRzMlBRanYzZkhOWXdIQ3hOaXpQT0FqV3BuOGNtMDJRX3VCY2RzNGF1eklpUTFJZC1rTE5EU1dfZw?oc=5",
+"pub": "2026-11-25T20:52:15+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-26T00:44:37+00:00"
+},
+{
 "id": "3a94df6e69ec",
 "t": "",
 "title": "MOC Imbalance",
@@ -8513,6 +8613,16 @@
 "seen": "2026-11-25T20:44:17+00:00"
 },
 {
+"id": "b399e206174a",
+"t": "",
+"title": "0225stat.HK - | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBFXzI3OVg3MW5tZGU3NTZ1dzdTZ2VrekZuSTFpcWd1cXBGLTBzZ1RzWE9Pa2RQVlFJbTRXcG84cTBlSGJFOFdoZ2xBdWt1anNoc2doQjdxTnA5bzZHNUFKSFFuN0NhbjBSOE0zT1h2aXJab1RzTjhodlk4azJnUQ?oc=5",
+"pub": "2026-11-25T20:22:21+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-26T00:44:37+00:00"
+},
+{
 "id": "b39057d4e4bd",
 "t": "",
 "title": "Musk's SpaceX pledge to donate a share each to active Trump Accounts $SPCX",
@@ -8571,6 +8681,16 @@
 "src": "Bloomberg",
 "kind": "market",
 "seen": "2026-11-25T21:14:25+00:00"
+},
+{
+"id": "9e2893c303b4",
+"t": "",
+"title": "HDZf.TRE - | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNQXgycWN5eDVjZHpJdEpvRHQwaGlRQlY3RWp1TTJGaG9ONGV4T1E1QjJFMm56aWZqQ24yVUtlWElKUlBzeXB6dzV6dnN1MmhHeFA0SGpvamdqcW9SMTF3c28xa3FScU5ObER1S3dBWmpUNDVLM0F6UDE4RTltZUtDRXNCdWNjNDg?oc=5",
+"pub": "2026-11-25T19:50:31+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-26T00:44:37+00:00"
 },
 {
 "id": "4c88dbceb33f",
@@ -8801,6 +8921,16 @@
 "src": "FinancialJuice",
 "kind": "market",
 "seen": "2026-11-25T19:07:59+00:00"
+},
+{
+"id": "750c99b98cc7",
+"t": "",
+"title": "Tarini International Ltd (TRNT.BO) | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5WNjM4b1l6cVk0RWN1bkpuX1Zmck1Pd0tEVk03amhRODRtd2JfUkxQZkFJU0NmQ0hCRW9KUURuOHRYZ0prdllxWXJBbUZnbUt5cE5vblY1NktWeTFqb0hUNG9RVzBxR0M0UlllUw?oc=5",
+"pub": "2026-11-25T18:59:42+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-26T00:44:37+00:00"
 },
 {
 "id": "a9b1e6eaba1e",
@@ -9193,6 +9323,16 @@
 "seen": "2026-11-25T17:22:35+00:00"
 },
 {
+"id": "24fe75c90eb8",
+"t": "",
+"title": "Guardian Metal Resources PLC (GMTLF.PK) | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1aUU5jRnNXN1g5Rlhfc2x2RElKdWtxWVY3akNydV80aWFvNzNvckZSZEw4Umd3VU80X1VlREJKYXE4SFEyc280MUJORlFSZVNmUlB3XzQ0N3A0Z3p2QUYtUE1XSTA4NUd5U2hhWXpB?oc=5",
+"pub": "2026-11-25T17:03:06+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-26T00:44:37+00:00"
+},
+{
 "id": "e86535bf840b",
 "t": "",
 "title": "EIA Natural Gas Change BCF Actual -24B (Forecast -25B, Previous 20B)",
@@ -9231,6 +9371,16 @@
 "src": "Reuters",
 "kind": "market",
 "seen": "2026-11-25T21:14:25+00:00"
+},
+{
+"id": "032fa0eec776",
+"t": "",
+"title": "BMO S&P 500 Hedged to CAD Index Series Units ETF (ZUE.TO) | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5KWUdpdVU5bldYYWlGMldQNEtBTXVBdmI3dFAybDkxQml0Qzk1YjQyMHNNcmNwRzMzQW5SdUdQTlp2SHdXWklxN1VuTDBPaVM4OW1VRlRiRHg5QnFESjBXanY0NUpJdzdMeGpZ?oc=5",
+"pub": "2026-11-25T16:52:12+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-26T00:44:37+00:00"
 },
 {
 "id": "1bd09e1b9740",
@@ -9603,6 +9753,16 @@
 "seen": "2026-11-25T16:20:21+00:00"
 },
 {
+"id": "ed881dccec22",
+"t": "",
+"title": "NAITl.CHI - Reuters",
+"url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNU05MRnhDQUhWSXhvdzE4WWZkR1BvMUk4TENnZjFMOWF3alRhbVRsSTN3bV95MjVoRDVZRy16NEpvSmM1bjd3RDlNMGRhbUFGQy1MSGtjclBEejNaQ0tydTRld0FWRnUtYndFMUZ4VWVVWDNzcnU1a284RUdpakdFT3JGMzJMaHNwT1Fj?oc=5",
+"pub": "2026-11-25T15:48:45+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-26T00:44:37+00:00"
+},
+{
 "id": "182dff8bbaa1",
 "t": "",
 "title": "Dubai Bank Merger to Create $159 Billion Islamic Lending Giant",
@@ -9641,6 +9801,16 @@
 "src": "Reuters",
 "kind": "market",
 "seen": "2026-11-25T19:07:59+00:00"
+},
+{
+"id": "c143cd4a807d",
+"t": "",
+"title": "MRLN.O - | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE0wSlpNZXJXNkpoanVoNWNRZDY1YmdqSUZVazd4RllVUEFsOVoyVTAtNDFtbWh4TUJMOFhHSU9fejBXSGFDOXE2YWt2ZUZJVEJBVGFCQnNFVEloZFhjT05IODlIZ1R3WEpDT2dwd193?oc=5",
+"pub": "2026-11-25T15:35:54+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-26T00:44:37+00:00"
 },
 {
 "id": "4028571c3795",
@@ -9683,6 +9853,16 @@
 "seen": "2026-11-25T19:14:43+00:00"
 },
 {
+"id": "8de18290439a",
+"t": "",
+"title": "4286.JSFx - | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQZHgwMVhUOFg1MnNqYzlVOHE5TTBZdlFLYlZzR2FNX01MYWdDWFY4S3lEUG5DUW9YZEZtcHVoM1NybVc5d210OTNGeWNVQklCQm0zaHhwcnhYbFAtdXpwVjZYYmJ5VzFZU0tZV0h0VVpTRWxfVEdTLWlGc28zNER3VXVkQjZOUzAwcVpSSm5nVzJpcE0?oc=5",
+"pub": "2026-11-25T15:31:47+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-26T00:44:37+00:00"
+},
+{
 "id": "887d4ebf7fea",
 "t": "",
 "title": "SIVN.AX%5EF06 - | Stock Price & Latest News - Reuters",
@@ -9691,6 +9871,16 @@
 "src": "Reuters",
 "kind": "market",
 "seen": "2026-11-25T17:44:05+00:00"
+},
+{
+"id": "85a7289b4eac",
+"t": "",
+"title": "MD.DG - | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9NaS1KRVpiWUJUeUtJYm1pZlNVenVFcGstMUliQ05nekE4U1Z5MlQweWJ6SHR6VWthUmVrY0NjazBqbzZkNEEtNFh5QjBMa0Q1M09USlRUelJHVTc4YTBtREpxNTlEb19Gc3FtOEVXaW1HekxqdUE?oc=5",
+"pub": "2026-11-25T15:31:35+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-26T00:44:37+00:00"
 },
 {
 "id": "bef61bf58338",
@@ -9761,6 +9951,16 @@
 "src": "Reuters",
 "kind": "market",
 "seen": "2026-11-25T19:14:43+00:00"
+},
+{
+"id": "cf0279287154",
+"t": "",
+"title": "Pou Sheng International (Holdings) Ltd (3813.HK) | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5fU3BPYkJzN2Fra2ludUJRUy16TlIzQlZNUVpnUUhMUUxzNlUydUc1dXVCU2Z6NTU3WGFEQWNucXlvQnVNdUNrS3RLdEMtWU5ocVhoX3hTclpJS0tJMGRCd0t5U0RPbVBudjdFQzVxVQ?oc=5",
+"pub": "2026-11-25T15:28:57+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-26T00:44:37+00:00"
 },
 {
 "id": "7c4c0eacc44a",
@@ -9891,6 +10091,16 @@
 "src": "FinancialJuice",
 "kind": "market",
 "seen": "2026-11-25T15:46:42+00:00"
+},
+{
+"id": "a0bece273793",
+"t": "",
+"title": "Nu Tek India Ltd (NUTK.BO) | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1RLWxvTE11bFYxcDIyNXdzbzFsNkNRYm9RTU03Q3RtWnc1bGZaMkppSVNyd1d0b0lid2dEaHJ2VFRZd2ozank0cVVNNmFOMDVXMlpkSVRJdkRGd1h1ekFuZWs0UUZaNUZkaktpTw?oc=5",
+"pub": "2026-11-25T15:17:26+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-26T00:44:37+00:00"
 },
 {
 "id": "665ef57ac939",
@@ -10811,216 +11021,6 @@
 "src": "Bloomberg",
 "kind": "market",
 "seen": "2026-11-25T14:15:15+00:00"
-},
-{
-"id": "d8f6594e47b4",
-"t": "",
-"title": "U.S. Natural Gas Steady as December Contract Set to Expire",
-"url": "https://www.wsj.com/finance/commodities-futures/u-s-natural-gas-steady-as-december-contract-set-to-expire-9d411e92",
-"pub": "2026-11-25T14:01:00+00:00",
-"src": "WSJ",
-"kind": "market",
-"seen": "2026-11-25T14:15:15+00:00"
-},
-{
-"id": "1db3b8d54c5d",
-"t": "",
-"title": "LME tightens rules in response to aluminium squeeze - Reuters",
-"url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOR0NzVkVpcDd1ZkFXdUREX243eEVQQkVpZDdmak41ZjNsNGhPOHh6aUt5MllDa1NrLV9hdnYzTW9rNl9HejFzNFZTMU5uUjBWbktXTmVLbXdXdndIUXZydmMtY3pnMFkzTWJHcUx6b3o2b2w5SjdxZzZ2bXpGUGdFR2doVHZKNmU2YmI5VnlZUWZFVGd6YlppbEJRZHAzbHBtcG9F?oc=5",
-"pub": "2026-11-25T14:00:43+00:00",
-"src": "Reuters",
-"kind": "market",
-"seen": "2026-11-25T15:14:55+00:00"
-},
-{
-"id": "61de9b9c74ec",
-"t": "",
-"title": "Rappi, Uber Face Fresh Tax Squeeze After Mexico Gig-Labor Reform",
-"url": "https://www.bloomberg.com/news/articles/2026-11-25/rappi-uber-face-fresh-tax-squeeze-after-mexico-gig-labor-reform",
-"pub": "2026-11-25T14:00:00+00:00",
-"src": "Bloomberg",
-"kind": "market",
-"seen": "2026-11-25T14:15:15+00:00"
-},
-{
-"id": "61a991c169ba",
-"t": "",
-"title": "Effective Fed Funds Rate 3.88% November 24 vs 3.88% November 23",
-"url": "https://www.financialjuice.com/News/9867860/Effective-Fed-Funds-Rate-388-November-24-vs-388-November-23.aspx?xy=rss",
-"pub": "2026-11-25T13:59:52+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-25T14:15:15+00:00"
-},
-{
-"id": "a0fe0980b4f1",
-"t": "",
-"title": "Why Is Thanksgiving So Expensive This Year?",
-"url": "https://www.bloomberg.com/news/videos/2026-11-25/why-is-thanksgiving-so-expensive-this-year",
-"pub": "2026-11-25T13:56:43+00:00",
-"src": "Bloomberg",
-"kind": "market",
-"seen": "2026-11-25T13:58:47+00:00"
-},
-{
-"id": "f130d7399ff0",
-"t": "",
-"title": "UBS cuts target price for Applied Materials to $575 from $640",
-"url": "https://www.financialjuice.com/News/9867859/UBS-cuts-target-price-for-Applied-Materials-to-575-from-640.aspx",
-"pub": "2026-11-25T13:56:19+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-25T13:58:47+00:00"
-},
-{
-"id": "87a9e5c754da",
-"t": "",
-"title": "USTR Greer: I agree with the US' actions on megaspeed",
-"url": "https://www.financialjuice.com/News/9867858/USTR-Greer-I-agree-with-the-US-actions-on-megaspeed.aspx",
-"pub": "2026-11-25T13:49:23+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-25T13:58:47+00:00"
-},
-{
-"id": "403ad0e02605",
-"t": "",
-"title": "USTR Greer, on export controls: We have to balance the economy and national security - CNBC",
-"url": "https://www.financialjuice.com/News/9867857/USTR-Greer-on-export-controls-We-have-to-balance-the-economy-and-national-security---CNBC.aspx",
-"pub": "2026-11-25T13:48:12+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-25T13:58:47+00:00"
-},
-{
-"id": "809853f7ceab",
-"t": "",
-"title": "USTR Greer on NVIDIA: We have to make sure that company remains on top.",
-"url": "https://www.financialjuice.com/News/9867856/USTR-Greer-on-NVIDIA-We-have-to-make-sure-that-company-remains-on-top.aspx",
-"pub": "2026-11-25T13:46:55+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-25T13:58:47+00:00"
-},
-{
-"id": "a1e6ef010bd4",
-"t": "",
-"title": "US economy grew at a solid pace in third quarter, revised data shows",
-"url": "https://www.foxbusiness.com/economy/us-economy-q3-2026-second-estimate",
-"pub": "2026-11-25T13:46:51+00:00",
-"src": "Fox Business",
-"kind": "market",
-"seen": "2026-11-25T13:58:47+00:00"
-},
-{
-"id": "ae0bc5e64aa3",
-"t": "",
-"title": "USTR Greer on NVIDIA: The company is structurally important -CNBC Interview. $NVDA",
-"url": "https://www.financialjuice.com/News/9867854/USTR-Greer-on-NVIDIA-The-company-is-structurally-important--CNBC-Interview-NVDA.aspx",
-"pub": "2026-11-25T13:46:50+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-25T13:58:47+00:00"
-},
-{
-"id": "305e7c5b4137",
-"t": "",
-"title": "USTR Greer on chips and export controls: Administration closing some loopholes - CNBC interview",
-"url": "https://www.financialjuice.com/News/9867846/USTR-Greer-on-chips-and-export-controls-Administration-closing-some-loopholes---CNBC-interview.aspx",
-"pub": "2026-11-25T13:46:35+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-25T13:58:47+00:00"
-},
-{
-"id": "8d27d41e0e69",
-"t": "",
-"title": "USTR Greer, on Canada: Canada needs to be realistic about limited prospects for economic integration with Europe",
-"url": "https://www.financialjuice.com/News/9867831/USTR-Greer-on-Canada-Canada-needs-to-be-realistic-about-limited-prospects-for-economic-integration-with-Europe.aspx",
-"pub": "2026-11-25T13:44:50+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-25T13:58:47+00:00"
-},
-{
-"id": "4fc9c7b0e27d",
-"t": "",
-"title": "Fed’s preferred inflation gauge accelerated to 3.8% in October, likely sealing rate hike",
-"url": "https://www.cnbc.com/2026/11/25/pce-inflation-report-october-2026.html",
-"pub": "2026-11-25T13:44:13+00:00",
-"src": "CNBC",
-"kind": "market",
-"seen": "2026-11-25T13:44:08+00:00"
-},
-{
-"id": "7f3156392089",
-"t": "",
-"title": "USTR Greer: The US met with Canadians last week on trade",
-"url": "https://www.financialjuice.com/News/9867829/USTR-Greer-The-US-met-with-Canadians-last-week-on-trade.aspx?xy=rss",
-"pub": "2026-11-25T13:43:15+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-25T13:44:08+00:00"
-},
-{
-"id": "5a7d30156678",
-"t": "",
-"title": "USTR Greer: Autos, steel, and aluminum are sticking points with Canada.",
-"url": "https://www.financialjuice.com/News/9867828/USTR-Greer-Autos-steel-and-aluminum-are-sticking-points-with-Canada.aspx?xy=rss",
-"pub": "2026-11-25T13:43:09+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-25T13:44:08+00:00"
-},
-{
-"id": "aa4c158ffa11",
-"t": "",
-"title": "USTR Greer, on Canada trade: Still have some sticking points - CNBC interview",
-"url": "https://www.financialjuice.com/News/9867827/USTR-Greer-on-Canada-trade-Still-have-some-sticking-points---CNBC-interview.aspx?xy=rss",
-"pub": "2026-11-25T13:42:42+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-25T13:44:08+00:00"
-},
-{
-"id": "54c7b933f18d",
-"t": "",
-"title": "USTR Greer: We have had very good conversations with Mexico.",
-"url": "https://www.financialjuice.com/News/9867826/USTR-Greer-We-have-had-very-good-conversations-with-Mexico.aspx?xy=rss",
-"pub": "2026-11-25T13:41:38+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-25T13:44:08+00:00"
-},
-{
-"id": "cad27273ff84",
-"t": "",
-"title": "USTR Greer: New excess capacity tariffs are in line with what we have agreed with the Chinese",
-"url": "https://www.financialjuice.com/News/9867825/USTR-Greer-New-excess-capacity-tariffs-are-in-line-with-what-we-have-agreed-with-the-Chinese.aspx?xy=rss",
-"pub": "2026-11-25T13:41:36+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-25T13:44:08+00:00"
-},
-{
-"id": "2b70d1d4ece8",
-"t": "",
-"title": "USTR Greer: Proposing $30B worth of Chinese goods exempt from tariff",
-"url": "https://www.financialjuice.com/News/9867824/USTR-Greer-Proposing-30B-worth-of-Chinese-goods-exempt-from-tariff.aspx?xy=rss",
-"pub": "2026-11-25T13:41:19+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-25T13:44:08+00:00"
-},
-{
-"id": "f9879dca7829",
-"t": "",
-"title": "USTR Greer: Proposing to exempt some Chinese consumer goods",
-"url": "https://www.financialjuice.com/News/9867823/USTR-Greer-Proposing-to-exempt-some-Chinese-consumer-goods.aspx?xy=rss",
-"pub": "2026-11-25T13:40:30+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-25T13:44:08+00:00"
 }
 ]
 }
