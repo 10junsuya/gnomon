@@ -1,6 +1,6 @@
 {
-"updated_kst": "2026-11-26 10:14",
-"rot": 87,
+"updated_kst": "2026-11-26 10:44",
+"rot": 147,
 "how": "Scout(프로그램)이 10분마다 모은 기사 제목·링크와 공시예요. Wren이 공식 출처로 확인한 뒤 회사 화면에 한국어로 반영해요. 본문은 받지 않아요.",
 "sources": {
 "Yahoo Finance": "120종목 확인 · 실패 0",
@@ -17,6 +17,16 @@
 },
 "items": [
 {
+"id": "3814d7685e16",
+"t": "INSM",
+"title": "Insmed (INSM) Boards Back $39.1 Billion All Cash Deal and Set 2027 Timeline",
+"url": "https://finance.yahoo.com/healthcare/articles/insmed-insm-boards-back-39-011732940.html",
+"pub": "2026-11-26T01:17:32+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-26T01:44:44+00:00"
+},
+{
 "id": "80e0300a05a0",
 "t": "FPS",
 "title": "Don’t Get Burned by the Hype: Why Anthropic Faces Headwinds – And the 5 Worst IPOs of 2026",
@@ -27,6 +37,16 @@
 "seen": "2026-11-26T01:14:06+00:00"
 },
 {
+"id": "f429abfe8ce5",
+"t": "AVGO",
+"title": "Broadcom Stock Hasn't Traded This Low Since July 2025. I Think It's a Buy.",
+"url": "https://www.fool.com/investing/2026/11/25/broadcom-stock-hasn-t-traded-this-low-since-july-2025-i-think-it-s-a-buy/",
+"pub": "2026-11-26T01:03:02+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-26T01:44:44+00:00"
+},
+{
 "id": "c21e5696b0e8",
 "t": "NVDA",
 "title": "'Alarming, if unsurprising': Trump administration cut corners with hasty Nvidia investigation, former CIA officer warns",
@@ -35,6 +55,16 @@
 "src": "Yahoo Finance",
 "kind": "news",
 "seen": "2026-11-26T01:10:48+00:00"
+},
+{
+"id": "82e3845ca66a",
+"t": "GOOGL",
+"title": "Apple Stock Defies AI Selloff: Is It the Market's Safe Haven?",
+"url": "https://beincrypto.com/apple-stock-ai-selloff-safe-haven/",
+"pub": "2026-11-26T01:00:00+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-26T01:44:44+00:00"
 },
 {
 "id": "6d1c13a37053",
@@ -195,6 +225,16 @@
 "src": "Yahoo Finance",
 "kind": "news",
 "seen": "2026-11-26T00:44:37+00:00"
+},
+{
+"id": "1892909504ec",
+"t": "WMT",
+"title": "Walmart CEO Says Your Income Won’t Change The Price. So What Do Digital Shelf Tags Actually Do?",
+"url": "https://finance.yahoo.com/small-business/articles/walmart-ceo-says-income-won-000012697.html",
+"pub": "2026-11-26T00:00:12+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-26T01:44:44+00:00"
 },
 {
 "id": "f396cb76ad0c",
@@ -7983,44 +8023,44 @@
 "seen": "2026-11-25T13:44:08+00:00"
 },
 {
-"id": "988a3fe877aa",
-"t": "AVGO",
-"title": "The Consensus on Micron Stock Is Changing. Here’s What Investors Should Know",
-"url": "https://247wallst.com/investing/2026/11/25/the-consensus-on-micron-stock-is-changing-heres-what-investors-should-know/",
-"pub": "2026-11-25T13:10:26+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-25T13:18:15+00:00"
+"id": "a2afe111b1a6",
+"t": "",
+"title": "Asian Currencies Consolidate, But Risk-Off Sentiment Might Weigh",
+"url": "https://www.wsj.com/finance/currencies/asian-currencies-consolidate-but-risk-off-sentiment-might-weigh-13bdefa1",
+"pub": "2026-11-26T01:39:00+00:00",
+"src": "WSJ",
+"kind": "market",
+"seen": "2026-11-26T01:44:44+00:00"
 },
 {
-"id": "6c2e93d83cbd",
-"t": "GOOGL",
-"title": "Can NIQ Global Intelligence (NIQ) Hold Its Value After A 16% Slide?",
-"url": "https://finance.yahoo.com/markets/stocks/articles/niq-global-intelligence-niq-hold-131023828.html",
-"pub": "2026-11-25T13:10:23+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-25T13:44:08+00:00"
+"id": "495a55971009",
+"t": "",
+"title": "Oil Rises Amid Ongoing Middle East Tensions",
+"url": "https://www.wsj.com/finance/commodities-futures/oil-rises-amid-ongoing-middle-east-tensions-c730426d",
+"pub": "2026-11-26T01:27:00+00:00",
+"src": "WSJ",
+"kind": "market",
+"seen": "2026-11-26T01:44:44+00:00"
 },
 {
-"id": "e51a950c0e99",
-"t": "ADM",
-"title": "3 Top-Ranked Dividend Stocks: A Smarter Way to Boost Your Retirement Income",
-"url": "https://finance.yahoo.com/markets/stocks/articles/3-top-ranked-dividend-stocks-131015133.html",
-"pub": "2026-11-25T13:10:15+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-25T14:44:19+00:00"
+"id": "bd6aca5691ee",
+"t": "",
+"title": "Situational Awareness Lost 65% in Wild Third Quarter, WSJ Says",
+"url": "https://www.bloomberg.com/news/articles/2026-11-26/situational-awareness-ai-65-hedge-fund-third-quarter-wsj-says",
+"pub": "2026-11-26T01:11:41+00:00",
+"src": "Bloomberg",
+"kind": "market",
+"seen": "2026-11-26T01:44:44+00:00"
 },
 {
-"id": "b3231d824c42",
-"t": "GE",
-"title": "General Electric (GE) Lands First GEnx Engine Order From Malaysia Aviation Group",
-"url": "https://finance.yahoo.com/markets/stocks/articles/general-electric-ge-lands-first-131008130.html",
-"pub": "2026-11-25T13:10:08+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-25T13:44:08+00:00"
+"id": "b25808ef9101",
+"t": "",
+"title": "Lula Sounds Out Bradesco’s Luiz Trabuco to Join His Government",
+"url": "https://www.bloomberg.com/news/articles/2026-11-26/lula-sounds-out-bradesco-s-luiz-trabuco-to-join-his-government",
+"pub": "2026-11-26T01:07:45+00:00",
+"src": "Bloomberg",
+"kind": "market",
+"seen": "2026-11-26T01:44:44+00:00"
 },
 {
 "id": "0c0b770bacda",
@@ -8031,6 +8071,26 @@
 "src": "Reuters",
 "kind": "market",
 "seen": "2026-11-26T01:10:48+00:00"
+},
+{
+"id": "2efd07e64d1c",
+"t": "",
+"title": "Australia Capex Surges by Most Since Mining Boom on Data Centers",
+"url": "https://www.bloomberg.com/news/articles/2026-11-26/australia-capex-surges-by-most-since-mining-boom-on-data-centers",
+"pub": "2026-11-26T01:01:57+00:00",
+"src": "Bloomberg",
+"kind": "market",
+"seen": "2026-11-26T01:44:44+00:00"
+},
+{
+"id": "ad686c94d5c9",
+"t": "",
+"title": "Modi’s Criticism of India Inc. Puts Weak Investment in Focus",
+"url": "https://www.bloomberg.com/news/articles/2026-11-26/modi-s-criticism-of-india-inc-puts-weak-investment-in-focus",
+"pub": "2026-11-26T01:00:00+00:00",
+"src": "Bloomberg",
+"kind": "market",
+"seen": "2026-11-26T01:44:44+00:00"
 },
 {
 "id": "64634a85e897",
@@ -8423,6 +8483,16 @@
 "seen": "2026-11-26T01:14:06+00:00"
 },
 {
+"id": "1a89dc2dd1dd",
+"t": "",
+"title": "BIRGi.CHI - Reuters",
+"url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQZ3JSTGZnejBnWnpsZHVZNkkyZ21EMHl6cWhXVzZTXzNtNjRBVDRLeE9NYW90cjF5aWVRWkNpTXVXdGwwcWpmZExCSjB5clZjOGZVLVAyN0JGY3lTQmJfLUhnYXA1UUtPVDc5UDNpd0VDajY0Q0E2SWo4QnMxbm5MbHRBbXdGMk0?oc=5",
+"pub": "2026-11-25T21:27:06+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-26T01:44:44+00:00"
+},
+{
 "id": "444b948a8443",
 "t": "",
 "title": "Market Volatility Highly Unlikely To Continue: Kindler",
@@ -8603,6 +8673,16 @@
 "seen": "2026-11-25T22:44:42+00:00"
 },
 {
+"id": "be5bc3019a33",
+"t": "",
+"title": "1075stat.HK - | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPTFpuSk9UbFZBX3ZxNVNRM3liT09Jck1uZ2xobFI4RUFPdG5ZeWk1ZlJ5TXliT1djWHZWWENPX1RXX2tqWlg0VU5mOU5Wam1JdWI2ZjdEVElPYlB5T0RoOWY1eHdEMmFpempSNExMYnZPWFNBMU5pR1pEOEhDUnIxM0tn?oc=5",
+"pub": "2026-11-25T20:52:55+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-26T01:44:44+00:00"
+},
+{
 "id": "99c1bf5f0598",
 "t": "",
 "title": "VPl.BS - Reuters",
@@ -8671,6 +8751,16 @@
 "src": "FinancialJuice",
 "kind": "market",
 "seen": "2026-11-25T20:44:17+00:00"
+},
+{
+"id": "59df13ae5bf6",
+"t": "",
+"title": "ALCz.BS - Reuters",
+"url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNOXk5RUU1ZFZTazRhWl9WS3U2SDU1Q2I1OG42dkZIVzdMUmxSYjBHekt3NUxybHQtWjNmNVV2ZEJDbW9YRG5McTJkSzduN1BqMUk1TDVMejdnTjh1SjVuckFTMlRhampuQWhDTG5xRUFYRjQxamJ1OEtBVlp2MnZhRk4wUTM?oc=5",
+"pub": "2026-11-25T20:23:10+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-26T01:44:44+00:00"
 },
 {
 "id": "0ebb3fc3ac16",
@@ -10063,6 +10153,16 @@
 "seen": "2026-11-25T15:46:42+00:00"
 },
 {
+"id": "beaf6315202a",
+"t": "",
+"title": "BLTAta.JK - | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1zUUgzMVJQM2psck5LMlR1OUdCc3NxWV9mQ1BuOUJHTnJ3NXl4Y1ZSVWVxUGxWeW0weEhLWnVHWDVuWk01dHM3SVQ3T21zdEhsZXRNZGJ4c21sbzZ1OV9aQjFjTERYWnBvX3kxX0hfemxKVjN2RUhrallDRQ?oc=5",
+"pub": "2026-11-25T15:28:40+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-26T01:44:44+00:00"
+},
+{
 "id": "9ef9f25a1ad2",
 "t": "",
 "title": "5312ol.TWO - | Stock Price & Latest News - Reuters",
@@ -10921,106 +11021,6 @@
 "src": "FinancialJuice",
 "kind": "market",
 "seen": "2026-11-25T14:44:19+00:00"
-},
-{
-"id": "e77972aae4f6",
-"t": "",
-"title": "BoE's Lombardelli: Lower oil prices mean likely peak of inflation is lower than what we forecast in November.",
-"url": "https://www.financialjuice.com/News/9867922/BoEs-Lombardelli-Lower-oil-prices-mean-likely-peak-of-inflation-is-lower-than-what-we-forecast-in-November.aspx?xy=rss",
-"pub": "2026-11-25T14:24:42+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-25T14:44:19+00:00"
-},
-{
-"id": "9512dd4feb7e",
-"t": "",
-"title": "Iran's Army: An oil tanker hit a naval mine and caught fire in the Strait of Hormuz. The tanker hit a mine east of Hormuz hours ago - Fars.",
-"url": "https://www.financialjuice.com/News/9867921/Irans-Army-An-oil-tanker-hit-a-naval-mine-and-caught-fire-in-the-Strait-of-Hormuz-The-tanker-hit-a-mine-east-of-Hormuz-hours-ago---Fars.aspx?xy=rss",
-"pub": "2026-11-25T14:24:36+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-25T14:44:19+00:00"
-},
-{
-"id": "b554e15c9d59",
-"t": "",
-"title": "BoE's Dhingra: Loss of purchasing power half a point of GDP.",
-"url": "https://www.financialjuice.com/News/9867920/BoEs-Dhingra-Loss-of-purchasing-power-half-a-point-of-GDP.aspx?xy=rss",
-"pub": "2026-11-25T14:24:11+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-25T14:44:19+00:00"
-},
-{
-"id": "9970a2ad36f3",
-"t": "",
-"title": "BoE's Dhingra: Need to see stronger pricing power to keep rates high.",
-"url": "https://www.financialjuice.com/News/9867919/BoEs-Dhingra-Need-to-see-stronger-pricing-power-to-keep-rates-high.aspx?xy=rss",
-"pub": "2026-11-25T14:23:28+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-25T14:44:19+00:00"
-},
-{
-"id": "97970dbd7008",
-"t": "",
-"title": "Jenburkt Pharmaceuticals Ltd (JENA.BO) | Stock Price & Latest News - Reuters",
-"url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5uUXdWMnEwUkhWU3BnRXR5TllSd0hIdHk4WlRYblBDWlZ5UzF6QnRlTFEyWXBld3p2OXp5bVY1VlUwZHNHTkh3endVWkFzWmY0VGdZT2pDSm1uYUt4R3FJXzJla1A2Nk9qYjB3Wkxxdw?oc=5",
-"pub": "2026-11-25T14:22:27+00:00",
-"src": "Reuters",
-"kind": "market",
-"seen": "2026-11-25T18:09:13+00:00"
-},
-{
-"id": "e95412470527",
-"t": "",
-"title": "US Sentiment: Risk-Off Continues to Grip Markets - FJElite",
-"url": "https://www.financialjuice.com/News/9867918/US-Sentiment-Risk-Off-Continues-to-Grip-Markets---FJElite.aspx?xy=rss",
-"pub": "2026-11-25T14:21:52+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-25T14:44:19+00:00"
-},
-{
-"id": "c74030574c3c",
-"t": "",
-"title": "BoE's Mann: Energy futures have not been a good guide to prices",
-"url": "https://www.financialjuice.com/News/9867917/BoEs-Mann-Energy-futures-have-not-been-a-good-guide-to-prices.aspx?xy=rss",
-"pub": "2026-11-25T14:21:52+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-25T14:44:19+00:00"
-},
-{
-"id": "cc268f0bd61b",
-"t": "",
-"title": "Saipem SpA (SPMI.MI) | Stock Price & Latest News - Reuters",
-"url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE05cHhtTmdZVVpSMWMtekVGWHMzLVJ4UUpvQ0Q4NkhHWVVScFdiRHdQWlVOS2REcUd4b3ZtRERMNlhGZXAwb1kxWFFWbjNBV1FRVEh5OHRJQlViVXBncUln?oc=5",
-"pub": "2026-11-25T14:21:37+00:00",
-"src": "Reuters",
-"kind": "market",
-"seen": "2026-11-25T15:46:42+00:00"
-},
-{
-"id": "4fc9c7b0e27d",
-"t": "",
-"title": "Fed’s preferred inflation gauge accelerated to 3.8% in October, raising the 2027 stakes for the central bank",
-"url": "https://www.cnbc.com/2026/11/25/pce-inflation-report-october-2026.html",
-"pub": "2026-11-25T14:18:45+00:00",
-"src": "CNBC",
-"kind": "market",
-"seen": "2026-11-26T01:10:48+00:00"
-},
-{
-"id": "977fd42018ea",
-"t": "",
-"title": "What the PCE Data Means for Fed Policy",
-"url": "https://www.bloomberg.com/news/videos/2026-11-25/what-the-pce-data-means-for-fed-policy-video",
-"pub": "2026-11-25T14:11:57+00:00",
-"src": "Bloomberg",
-"kind": "market",
-"seen": "2026-11-25T14:15:15+00:00"
 }
 ]
 }
