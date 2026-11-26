@@ -4773,6 +4773,7 @@ Scout(소식 감지 프로그램)가 모은 기사·공시를 공식 출처로 �
 - 내용: 블룸버그(11-05)가 마이크론이 타오위안 노조와 성과급·이익 배분 조건 갈등으로 45억 달러 메모리 공장 건설을 멈추고 지방 정부·공급사에 알렸다고 보도. 노조원 약 70%가 회사 안을 거부. 마이크론 공식 입장 없음. 11-20 TrendForce·11-26 야후 글까지 갈등이 이어진다는 보도이고 다시 시작했다는 소식은 못 찾음. 3주 전 일이지만 소식 칸에 빠져 있어 날짜 순서대로 넣었어요(MU 3줄).
 - 출처: [Bloomberg](https://www.bloomberg.com/news/articles/2026-11-05/micron-pauses-work-on-4-5-billion-taiwan-plant-after-labor-spat)(제목만) · [Tom's Hardware](https://www.tomshardware.com/tech-industry/semiconductors/microns-usd4-5-billion-taoyuan-plant-construction-halted-amidst-labor-dispute-company-and-union-still-havent-reached-agreement-as-latter-asks-for-clearer-profit-sharing-terms) · [DatacenterDynamics](https://www.datacenterdynamics.com/en/news/ongoing-labor-dispute-sees-micron-pause-construction-at-its-45bn-memory-fab-in-taoyuan-taiwan-report/) · 공식 여부: 보도
 - 확신도: 중간(회사 확인 없음)
+- 앱 다시 게시: 성공 — 버전 352.
 - 제안: Aleph 반도체 지도 semi.projects 에 '마이크론 대만(타오위안·타이중)' 프로젝트가 없어요 — 넣을지 대표·Conrad 판단(새 프로젝트라 직접 넣지 않음).
 
 ### W-20261126-1513-2 · 알림 · 이번 차례
