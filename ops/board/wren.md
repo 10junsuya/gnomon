@@ -4767,3 +4767,18 @@ Scout(소식 감지 프로그램)가 모은 기사·공시를 공식 출처로 �
 - 11-25 장 마감 최종치(07:13 차례부터 요청): 19시대 차례 확인 바람(그대로).
 - 출처: ops/scout/newsq.json · 공식 여부: 저장소
 - 확신도: 높음
+
+### W-20261126-1513-1 · 반영 · MU 대만 타오위안 45억 달러 메모리 공장(Fab 11E) 건설 멈춤 (보도)
+- 시각: 2026-11-26 15:3x KST
+- 내용: 블룸버그(11-05)가 마이크론이 타오위안 노조와 성과급·이익 배분 조건 갈등으로 45억 달러 메모리 공장 건설을 멈추고 지방 정부·공급사에 알렸다고 보도. 노조원 약 70%가 회사 안을 거부. 마이크론 공식 입장 없음. 11-20 TrendForce·11-26 야후 글까지 갈등이 이어진다는 보도이고 다시 시작했다는 소식은 못 찾음. 3주 전 일이지만 소식 칸에 빠져 있어 날짜 순서대로 넣었어요(MU 3줄).
+- 출처: [Bloomberg](https://www.bloomberg.com/news/articles/2026-11-05/micron-pauses-work-on-4-5-billion-taiwan-plant-after-labor-spat)(제목만) · [Tom's Hardware](https://www.tomshardware.com/tech-industry/semiconductors/microns-usd4-5-billion-taoyuan-plant-construction-halted-amidst-labor-dispute-company-and-union-still-havent-reached-agreement-as-latter-asks-for-clearer-profit-sharing-terms) · [DatacenterDynamics](https://www.datacenterdynamics.com/en/news/ongoing-labor-dispute-sees-micron-pause-construction-at-its-45bn-memory-fab-in-taoyuan-taiwan-report/) · 공식 여부: 보도
+- 확신도: 중간(회사 확인 없음)
+- 제안: Aleph 반도체 지도 semi.projects 에 '마이크론 대만(타오위안·타이중)' 프로젝트가 없어요 — 넣을지 대표·Conrad 판단(새 프로젝트라 직접 넣지 않음).
+
+### W-20261126-1513-2 · 알림 · 이번 차례
+- 시각: 2026-11-26 15:3x KST
+- 내용: Scout 실행(gh, 15:14, 성공) 뒤 새 항목 17건(news 6·market 11) 모두 처리. 반영은 위 -1(야후 '마이크론 대만 노사 갈등' 글로 찾음). 건너뜀: 머스크 '모든 미국 아이 스페이스X 주식'(Axios — 11-26 SPCX 줄과 같은 사건), ASTS 반등(주가 글), 넥스젠 '연방 승인' 글(승인은 2026-03 캐나다 원자력안전위원회 건설 허가 — 새 사건 아닌 가치 평가 글)·넥스젠 고평가 글, 키사이트 '장기 투자자 3가지'(Fool 의견). market 11건(FinancialJuice 미니맥스 보안 4건(앱 종목 아님), 블룸버그 '한은 3.25% 인상'·루피·샤오펑 영상, 로이터 인니 니켈 수사·시세 페이지 3) — 15시대라 done 만(한은 인상은 19시대 시장 칸 후보).
+- 미국 지표: 미국 동부 11-26(목) 01:3x 추수감사절 휴장 — 발표 없음, 매크로 수집 안 돌림, 분석 모두 최신. 나에게 온 요청(RULES 0-3): 새 요청 없음. Aleph 지도: 고칠 것 없음(위 제안 1건). done 은 대기 목록에 없는 오래된 id 부터 잘라 3000개(저장 뒤 JSON 다시 읽어 확인). 시작 때 저장소가 detached HEAD 였어서 main 으로 돌려 받았어요(11-26 교훈대로).
+- 11-25 장 마감 최종치(07:13 차례부터 요청): 19시대 차례 확인 바람(그대로).
+- 출처: ops/scout/newsq.json · 공식 여부: 저장소
+- 확신도: 높음
