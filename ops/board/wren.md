@@ -4866,6 +4866,7 @@ Scout(소식 감지 프로그램)가 모은 기사·공시를 공식 출처로 �
 - 내용: ① 한국은행 기준금리 3.00% → 3.25%(0.25%p, 2026년 세 번째 인상 · 위원 2명 동결 의견은 중앙데일리 기준). 성장률 전망 2026년 3.9%·2027년 4.1%로 올림, 추가 인상 열어 둠(보도). ② 코스피 11-26 +0.29% 4,711.21(장중 4,817.77), 한은 인상·외국인 순매도가 꼽힘(파이낸셜뉴스 해석), SK하이닉스 +2.23%·삼성전자 +0.35%. 투자자별 순매수 금액은 파이낸셜뉴스·한국경제 숫자가 서로 달라 넣지 않았어요. 시장 칸은 10개 유지(오래된 2개 빠짐).
 - 출처: [코리아중앙데일리](https://www.koreajoongangdaily.com/business/bok-lifts-rate-to-325-as-it-sharply-upgrades-growth-forecasts-through-next-year/12991322) · [SBS](https://news.sbs.co.kr/english/article.do?news_id=N1008864699) · [아주경제](https://www.ajupress.com/view/20261126074732923) · [파이낸셜뉴스](https://www.fnnews.com/news/202611261548115574) · [한국경제](https://www.hankyung.com/article/202611262700i) · [서울신문](https://www.seoul.co.kr/news/economy/securities/2026/11/26/20261126500256) · 공식 여부: 보도
 - 확신도: 높음
+- 앱 다시 게시: 성공 — 버전 355.
 
 ### W-20261126-1913-2 · 알림 · 이번 차례
 - 시각: 2026-11-26 19:2x KST
