@@ -1,6 +1,6 @@
 {
-"updated_kst": "2026-11-26 20:44",
-"rot": 97,
+"updated_kst": "2026-11-26 21:14",
+"rot": 157,
 "how": "Scout(프로그램)이 10분마다 모은 기사 제목·링크와 공시예요. Wren이 공식 출처로 확인한 뒤 회사 화면에 한국어로 반영해요. 본문은 받지 않아요.",
 "sources": {
 "Yahoo Finance": "120종목 확인 · 실패 0",
@@ -10,12 +10,142 @@
 "CNBC": "63건",
 "Bloomberg": "40건",
 "WSJ": "61건",
-"Reuters": "100건",
+"Reuters": "53건",
 "FinancialJuice": "100건",
 "SEC EDGAR": "실패 HTTPError",
 "Fox Business": "50건"
 },
 "items": [
+{
+"id": "78b16a4c9898",
+"t": "SPY",
+"title": "The Stock Market Is Still on Track for Its Best Thanksgiving Week Since 2008",
+"url": "https://247wallst.com/investing/2026/11/26/the-stock-market-is-still-on-track-for-its-best-thanksgiving-week-since-2008/",
+"pub": "2026-11-26T12:02:31+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-26T12:14:11+00:00"
+},
+{
+"id": "ccd99fef7eb1",
+"t": "GOOGL",
+"title": "5 things I'm thankful for in AI",
+"url": "https://finance.yahoo.com/video/5-things-im-thankful-ai-120000522.html",
+"pub": "2026-11-26T12:00:00+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-26T12:14:11+00:00"
+},
+{
+"id": "e2e3f18a7b42",
+"t": "NVDA",
+"title": "President Donald Trump's \"Big, Beautiful Bill\" Dropped a $169 Billion Bombshell on Social Security",
+"url": "https://www.fool.com/retirement/2026/11/26/president-donald-trump-big-beautiful-bill-dropped-169-billion-bombshell-on-social-security/",
+"pub": "2026-11-26T11:56:02+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-26T12:14:11+00:00"
+},
+{
+"id": "43b3475e027d",
+"t": "NVDA",
+"title": "Nvidia Makes A Record $115.8 Billion In Revenue. Now S&P Warns Its Credit Rating Could Be Cut In 90 Days.",
+"url": "https://www.ibtimes.com/nvidia-credit-downgrade-governance-concerns-3810220",
+"pub": "2026-11-26T11:53:40+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-26T12:14:11+00:00"
+},
+{
+"id": "423c91a641fb",
+"t": "AVGO",
+"title": "UBS’s $425 Target Says Broadcom’s Selloff Went Too Far",
+"url": "https://www.tikr.com/blog/ubss-425-target-says-broadcoms-selloff-went-too-far",
+"pub": "2026-11-26T11:51:23+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-26T12:14:11+00:00"
+},
+{
+"id": "fce5ee529736",
+"t": "NVDA",
+"title": "Warren Buffett Told Savers to \"Rejoice When Markets Decline.\" After the 2000-2002 Bear Market, the S&P 500 Doubled in 5 Years.",
+"url": "https://www.fool.com/investing/2026/11/26/warren-buffett-told-savers-to-rejoice-when-markets-decline-after-the-2000-2002-bear-market-the-sp-500-doubled-in-5-years/",
+"pub": "2026-11-26T11:49:02+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-26T12:14:11+00:00"
+},
+{
+"id": "c9fc88bd19cb",
+"t": "SPCX",
+"title": "JPMorgan Says S&P Could Waive Its Rules for a Tesla-SpaceX Merger. That’s Good News for SpaceX Holders",
+"url": "https://www.tikr.com/blog/jpmorgan-says-sp-could-waive-its-rules-for-a-tesla-spacex-merger-thats-good-news-for-spacex-holders",
+"pub": "2026-11-26T11:45:59+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-26T12:14:11+00:00"
+},
+{
+"id": "c3f509d3a8d4",
+"t": "AAPL",
+"title": "Retiring Healthy: A Sensor Or A Weight-Loss Drug? Investors Price Them The Same",
+"url": "https://www.trefis.com/stock/dxcm/articles/629170/retiring-healthy-a-sensor-or-a-weight-loss-drug-investors-price-them-the-same/2026-11-26",
+"pub": "2026-11-26T11:42:33+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-26T12:14:11+00:00"
+},
+{
+"id": "06e7052def79",
+"t": "INSM",
+"title": "Sanofi Pays $41 Billion For Insmed's Lung Pill",
+"url": "https://www.trefis.com/stock/insm/articles/629159/sanofi-pays-41-billion-for-insmed-s-lung-pill/2026-11-26",
+"pub": "2026-11-26T11:40:27+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-26T12:14:11+00:00"
+},
+{
+"id": "e4c86634cf72",
+"t": "NVDA",
+"title": "3 Investing Moves All Investors Should Make Right Now if a Bear Market Is Coming",
+"url": "https://www.fool.com/investing/2026/11/26/3-investing-moves-all-investors-should-make-right/",
+"pub": "2026-11-26T11:39:00+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-26T12:14:11+00:00"
+},
+{
+"id": "ddc72ceed45c",
+"t": "TSLA",
+"title": "Anthropic Broke Its $83 IPO Price. What Did Facebook Do Next?",
+"url": "https://www.trefis.com/stock/ant/articles/629153/anthropic-broke-its-83-ipo-price-what-did-facebook-do-next/2026-11-26",
+"pub": "2026-11-26T11:38:21+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-26T12:14:11+00:00"
+},
+{
+"id": "0ba722580933",
+"t": "TSLA",
+"title": "Energy Transition Update - Green Rain Energy Expands With Innovative EV Charging Deal",
+"url": "https://finance.yahoo.com/energy/articles/energy-transition-green-rain-energy-113711470.html",
+"pub": "2026-11-26T11:37:11+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-26T12:14:11+00:00"
+},
+{
+"id": "32c4574df62c",
+"t": "ILMN",
+"title": "If You Ran Revvity, What Would You Fix?",
+"url": "https://www.trefis.com/stock/rvty/articles/629206/if-you-ran-revvity-what-would-you-fix/2026-11-26",
+"pub": "2026-11-26T11:36:14+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-26T12:14:11+00:00"
+},
 {
 "id": "b25a91c428ef",
 "t": "MU",
@@ -25,6 +155,26 @@
 "src": "Yahoo Finance",
 "kind": "news",
 "seen": "2026-11-26T11:44:37+00:00"
+},
+{
+"id": "b604a93249e9",
+"t": "ORCL",
+"title": "Bloom Energy Issued Oracle 2.15 Million Shares. Now Oracle’s Credit Is Cracking",
+"url": "https://www.tikr.com/blog/bloom-energy-issued-oracle-2-15-million-shares-now-oracles-credit-is-cracking",
+"pub": "2026-11-26T11:35:26+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-26T12:14:11+00:00"
+},
+{
+"id": "cecdd9ca4779",
+"t": "NBIS",
+"title": "Evercore Cut Its CoreWeave Target to $80 From $100. It Still Sees 88% Upside",
+"url": "https://www.tikr.com/blog/evercore-cut-its-coreweave-target-to-80-from-100-it-still-sees-88-upside",
+"pub": "2026-11-26T11:35:23+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-26T12:14:11+00:00"
 },
 {
 "id": "f091a4dcfe18",
@@ -55,6 +205,16 @@
 "src": "Yahoo Finance",
 "kind": "news",
 "seen": "2026-11-26T11:44:37+00:00"
+},
+{
+"id": "a6750b679467",
+"t": "AMZN",
+"title": "Does Black Friday Ever Move Amazon Stock?",
+"url": "https://www.trefis.com/stock/amzn/articles/629188/does-black-friday-ever-move-amazon-stock/2026-11-26",
+"pub": "2026-11-26T11:29:56+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-26T12:14:11+00:00"
 },
 {
 "id": "d782f0bc46e4",
@@ -97,6 +257,16 @@
 "seen": "2026-11-26T11:39:29+00:00"
 },
 {
+"id": "2afc5e29ecf3",
+"t": "AMD",
+"title": "Is The Client Unit Still Carrying AMD Stock?",
+"url": "https://www.trefis.com/stock/amd/articles/629201/is-the-client-unit-still-carrying-amd-stock/2026-11-26",
+"pub": "2026-11-26T11:23:39+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-26T12:14:11+00:00"
+},
+{
 "id": "be4dcefcf9c1",
 "t": "NVDA",
 "title": "Michael Burry flips mostly long as tech stocks slide",
@@ -105,6 +275,36 @@
 "src": "Yahoo Finance",
 "kind": "news",
 "seen": "2026-11-26T11:39:29+00:00"
+},
+{
+"id": "958ae9950dd2",
+"t": "AAPL",
+"title": "Has Buying Apple At A High Paid Off?",
+"url": "https://www.trefis.com/stock/aapl/articles/629200/has-buying-apple-at-a-high-paid-off/2026-11-26",
+"pub": "2026-11-26T11:21:35+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-26T12:14:11+00:00"
+},
+{
+"id": "95a30dc8985e",
+"t": "GEV",
+"title": "Morgan Stanley’s $335 Target Says Bloom Energy’s Selloff Went Too Far",
+"url": "https://www.tikr.com/blog/morgan-stanleys-335-target-says-bloom-energys-selloff-went-too-far",
+"pub": "2026-11-26T11:20:23+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-26T12:14:11+00:00"
+},
+{
+"id": "f2ef27d4486e",
+"t": "CRWV",
+"title": "Lucid Capital Cut Its Applied Digital Target to $40 From $83. It Still Sees 227% Upside",
+"url": "https://www.tikr.com/blog/lucid-capital-cut-its-applied-digital-target-to-40-from-83-it-still-sees-227-upside",
+"pub": "2026-11-26T11:20:20+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-26T12:14:11+00:00"
 },
 {
 "id": "d14936d5d4e1",
@@ -135,6 +335,16 @@
 "src": "Yahoo Finance",
 "kind": "news",
 "seen": "2026-11-26T11:39:29+00:00"
+},
+{
+"id": "52928572657a",
+"t": "AXP",
+"title": "California business owner thought he was getting $750K — instead he got a 'long nightmare' that cost him thousands",
+"url": "https://finance.yahoo.com/small-business/articles/california-business-owner-thought-getting-111500893.html",
+"pub": "2026-11-26T11:15:00+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-26T12:14:11+00:00"
 },
 {
 "id": "cd184a9e4165",
@@ -3729,6 +3939,16 @@
 "src": "Yahoo Finance",
 "kind": "news",
 "seen": "2026-11-25T21:06:44+00:00"
+},
+{
+"id": "56755a935f75",
+"t": "CME",
+"title": "Stock Market Trading Hours For Thanksgiving And Black Friday",
+"url": "https://finance.yahoo.com/m/b9c07147-90c9-300a-9712-4f1b0d4b57b3/stock-market-trading-hours.html",
+"pub": "2026-11-25T21:01:47+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-26T12:14:11+00:00"
 },
 {
 "id": "329914c47851",
@@ -7804,224 +8024,114 @@
 "seen": "2026-11-25T16:20:21+00:00"
 },
 {
-"id": "78e49e69ada0",
-"t": "AMGN",
-"title": "What Explains The Rise In Revolution Medicines Stock?",
-"url": "https://www.trefis.com/stock/rvmd/articles/628988/what-explains-the-rise-in-revolution-medicines-stock/2026-11-25",
-"pub": "2026-11-25T15:45:22+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-25T16:20:21+00:00"
+"id": "2e361cef9110",
+"t": "",
+"title": "Health Care Roundup: Market Talk",
+"url": "https://www.wsj.com/business/health-care-roundup-market-talk-b4d17b6e",
+"pub": "2026-11-26T12:11:00+00:00",
+"src": "WSJ",
+"kind": "market",
+"seen": "2026-11-26T12:14:11+00:00"
 },
 {
-"id": "e2143595dc6d",
-"t": "MU",
-"title": "Ambiq Micro (AMBQ) Stock Is Down 11.7% Today: Chip Stocks Slide on AI Spending Fears",
-"url": "https://finance.yahoo.com/markets/stocks/articles/ambiq-micro-ambq-stock-down-154517493.html",
-"pub": "2026-11-25T15:45:17+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-25T16:20:21+00:00"
+"id": "74c27c133d57",
+"t": "",
+"title": "Auto & Transport Roundup: Market Talk",
+"url": "https://www.wsj.com/business/auto-transport-roundup-market-talk-7aa75f48",
+"pub": "2026-11-26T12:06:00+00:00",
+"src": "WSJ",
+"kind": "market",
+"seen": "2026-11-26T12:14:11+00:00"
 },
 {
-"id": "ab6e24c098d7",
-"t": "SPY",
-"title": "What Happens to a $900,000 401(k) by the End of 2027? $1,062,300 in Wall Street’s Best Case, $824,900 in Its Worst",
-"url": "https://247wallst.com/personal-finance/2026/11/25/what-happens-to-a-900000-401k-by-the-end-of-2027-1062300-in-wall-streets-best-case-824900-in-its-worst/",
-"pub": "2026-11-25T15:45:17+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-25T16:44:23+00:00"
+"id": "fa3e7b94c8c5",
+"t": "",
+"title": "Trump’s Latest Tariffs Undercut the ‘China Plus One’ Idea",
+"url": "https://www.bloomberg.com/news/newsletters/2026-11-26/trump-s-latest-tariffs-undercut-the-china-plus-one-idea",
+"pub": "2026-11-26T12:00:01+00:00",
+"src": "Bloomberg",
+"kind": "market",
+"seen": "2026-11-26T12:14:11+00:00"
 },
 {
-"id": "76d81559b675",
-"t": "MPC",
-"title": "Icahn Enterprises (IEP) Stock Is Down 7.5% Today Amid Broad Market Selloff",
-"url": "https://finance.yahoo.com/markets/stocks/articles/icahn-enterprises-iep-stock-down-154517723.html",
-"pub": "2026-11-25T15:45:17+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-25T17:14:44+00:00"
+"id": "79a277b2bce9",
+"t": "",
+"title": "Trading partners respond to Trump tariff plans",
+"url": "https://www.bloomberg.com/news/newsletters/2026-11-26/trading-partners-respond-to-trump-tariff-plans",
+"pub": "2026-11-26T12:00:01+00:00",
+"src": "Bloomberg",
+"kind": "market",
+"seen": "2026-11-26T12:14:11+00:00"
 },
 {
-"id": "dc01ded92813",
-"t": "AMAT",
-"title": "Lam Research (LRCX) Stock Is Down 10.6% Today: AI-Led Chip Selloff",
-"url": "https://finance.yahoo.com/markets/stocks/articles/lam-research-lrcx-stock-down-154515238.html",
-"pub": "2026-11-25T15:45:15+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-25T16:20:21+00:00"
+"id": "910ada4e963c",
+"t": "",
+"title": "Peru’s Business Executives Exude Confidence in Fujimori Era",
+"url": "https://www.bloomberg.com/news/articles/2026-11-26/peru-s-business-executives-exude-confidence-in-fujimori-era",
+"pub": "2026-11-26T12:00:00+00:00",
+"src": "Bloomberg",
+"kind": "market",
+"seen": "2026-11-26T12:14:11+00:00"
 },
 {
-"id": "747ef7ec3e9b",
-"t": "SPCX",
-"title": "I’m Buying SpaceX Because There’s a Reasonable Case for $200 by January",
-"url": "https://247wallst.com/investing/2026/11/25/im-buying-spacex-because-theres-a-reasonable-case-for-200-by-january/",
-"pub": "2026-11-25T15:45:07+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-25T16:20:21+00:00"
+"id": "6368b73536ae",
+"t": "",
+"title": "Lagarde Says AI Has Helped Europe Withstand Higher Energy Prices",
+"url": "https://www.bloomberg.com/news/articles/2026-11-26/lagarde-says-ai-has-helped-europe-withstand-higher-energy-prices",
+"pub": "2026-11-26T11:59:54+00:00",
+"src": "Bloomberg",
+"kind": "market",
+"seen": "2026-11-26T12:14:11+00:00"
 },
 {
-"id": "721bce4e5bd5",
-"t": "TSLA",
-"title": "Li Auto’s Losses Narrow and a Weak Sales Outlook Isn’t Spoiling the Stock’s Rally",
-"url": "https://finance.yahoo.com/m/230ff6fc-7602-30bc-b73f-a9ef2d01578a/li-auto%E2%80%99s-losses-narrow-and-a.html",
-"pub": "2026-11-25T15:45:00+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-26T03:14:26+00:00"
+"id": "629d04db2ded",
+"t": "",
+"title": "UKMTO gets report of incident November 25th, 18nm from Khasab, Oman",
+"url": "https://www.financialjuice.com/News/9869334/UKMTO-gets-report-of-incident-November-25th-18nm-from-Khasab-Oman.aspx?xy=rss",
+"pub": "2026-11-26T11:59:45+00:00",
+"src": "FinancialJuice",
+"kind": "market",
+"seen": "2026-11-26T12:14:11+00:00"
 },
 {
-"id": "0539d3673e74",
-"t": "ORCL",
-"title": "Oracle Stocks Tumble 7.45%, Now 12.6% Below November Offering Price",
-"url": "https://finance.yahoo.com/markets/stocks/articles/oracle-stocks-tumble-7-45-154419573.html",
-"pub": "2026-11-25T15:44:19+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-25T16:20:21+00:00"
+"id": "ef736a41db12",
+"t": "",
+"title": "BoE's Braddick: AI bubble risks are a very live part of our approach to supervision, and portfolio management has improved",
+"url": "https://www.financialjuice.com/News/9869333/BoEs-Braddick-AI-bubble-risks-are-a-very-live-part-of-our-approach-to-supervision-and-portfolio-management-has-improved.aspx?xy=rss",
+"pub": "2026-11-26T11:49:05+00:00",
+"src": "FinancialJuice",
+"kind": "market",
+"seen": "2026-11-26T12:14:11+00:00"
 },
 {
-"id": "b7a0395fe3b3",
-"t": "AXTI",
-"title": "AXTI vs. ASX: Which AI Semiconductor Stock Is the Better Buy Now?",
-"url": "https://finance.yahoo.com/technology/ai/articles/axti-vs-asx-ai-semiconductor-154300925.html",
-"pub": "2026-11-25T15:43:00+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-25T17:14:44+00:00"
+"id": "cb32a7cde938",
+"t": "",
+"title": "Turkey Plans Lower Taxes on Lira Deposits to Support Currency",
+"url": "https://www.bloomberg.com/news/articles/2026-11-26/turkey-plans-lower-taxes-on-lira-deposits-to-support-currency",
+"pub": "2026-11-26T11:41:33+00:00",
+"src": "Bloomberg",
+"kind": "market",
+"seen": "2026-11-26T12:14:11+00:00"
 },
 {
-"id": "c9c25fe59bff",
-"t": "SPCX",
-"title": "SpaceX Drops $738 Million of Federal Subsidies to Give Dishes “at No Cost to New Subscribers”",
-"url": "https://www.tikr.com/blog/spacex-drops-738-million-of-federal-subsidies-to-give-dishes-at-no-cost-to-new-subscribers",
-"pub": "2026-11-25T15:42:27+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-25T16:20:21+00:00"
+"id": "11e0bf7b9df5",
+"t": "",
+"title": "China Shenhua seeks up to $881 million in Hong Kong share sale, term sheet shows - Reuters",
+"url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPQ1RIVXI1dEZ1U3Z0MHZ5RTJaY28tT3JseG1zaDBYR3lQcjlvQWozbHFUYzgwZjJuaG5wZVJEYjJBbXNxQVBscng4YlJaUU9kNlBjTWtESlFQSGF3aGI4OFd0UGlCOWVSWjJpa1FZLUtDQ1N4TElVYUltenFzSFJhUVBvQWUxRTNldldlS3dYOVZNRUI5bGQ1TlZJMmVpcG00aVBFS2FiSjdkSm00WFpSWVlHOUJ6cjRtb0FDZ3ZTMDB1NkxCaEJz?oc=5",
+"pub": "2026-11-26T11:39:16+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-26T12:14:11+00:00"
 },
 {
-"id": "e79c617d5129",
-"t": "DELL",
-"title": "Dell's Q3 Results, Commentary Suggest Profitability Remains Intact Entering Fiscal 2028, Morgan Stanley Says",
-"url": "https://finance.yahoo.com/markets/stocks/articles/dell-apos-q3-results-commentary-154217340.html",
-"pub": "2026-11-25T15:42:17+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-25T16:44:23+00:00"
-},
-{
-"id": "b91167160fe8",
-"t": "SPCX",
-"title": "Tesla and SpaceX stocks sink as merger concerns mount",
-"url": "https://finance.yahoo.com/markets/stocks/article/tesla-and-spacex-stocks-sink-as-merger-concerns-mount-154159372.html",
-"pub": "2026-11-25T15:41:59+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-25T15:46:42+00:00"
-},
-{
-"id": "3e445b857752",
-"t": "CVX",
-"title": "Bad News for Exxon and Chevron: Goldman Sees Brent Falling “Roughly $10” Next Year on a Supply Glut",
-"url": "https://www.tikr.com/blog/bad-news-for-exxon-and-chevron-goldman-sees-brent-falling-roughly-10-next-year-on-a-supply-glut",
-"pub": "2026-11-25T15:41:56+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-25T16:20:21+00:00"
-},
-{
-"id": "e281b498aa39",
-"t": "DELL",
-"title": "Stock Market Today: Dow Slammed 800 Points; Dell Falls Hard Despite Big Earnings (Live Coverage)",
-"url": "https://finance.yahoo.com/m/90407e46-3b17-34e8-8c82-527bf00b63e4/stock-market-today%3A-dow.html",
-"pub": "2026-11-25T15:41:42+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-25T16:44:23+00:00"
-},
-{
-"id": "5c388dd56424",
-"t": "AMZN",
-"title": "Amazon Stocks Fall 4.26% as $215 Billion Capex Run Rate Meets AI Doubts",
-"url": "https://finance.yahoo.com/news/amazon-stocks-fall-4-26-154117429.html",
-"pub": "2026-11-25T15:41:17+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-25T16:20:21+00:00"
-},
-{
-"id": "1b2d0e03bc99",
-"t": "GOOGL",
-"title": "Microsoft Stocks Fall 2.53% as Hyperscalers Join AI Selloff",
-"url": "https://finance.yahoo.com/markets/stocks/articles/microsoft-stocks-fall-2-53-154006144.html",
-"pub": "2026-11-25T15:40:06+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-25T16:20:21+00:00"
-},
-{
-"id": "7e7323445530",
-"t": "STRL",
-"title": "STRL or MOD: Which Is the Better Value Stock Right Now?",
-"url": "https://finance.yahoo.com/markets/stocks/articles/strl-mod-better-value-stock-154004427.html",
-"pub": "2026-11-25T15:40:04+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-25T17:22:35+00:00"
-},
-{
-"id": "e92b6cd51a77",
-"t": "AXP",
-"title": "SYF or AXP: Which Is the Better Value Stock Right Now?",
-"url": "https://finance.yahoo.com/markets/stocks/articles/syf-axp-better-value-stock-154004497.html",
-"pub": "2026-11-25T15:40:04+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-25T17:44:05+00:00"
-},
-{
-"id": "434d5faaad6a",
-"t": "ARGX",
-"title": "KMDA or ARGX: Which Is the Better Value Stock Right Now?",
-"url": "https://finance.yahoo.com/markets/stocks/articles/kmda-argx-better-value-stock-154002120.html",
-"pub": "2026-11-25T15:40:02+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-25T17:14:44+00:00"
-},
-{
-"id": "36c0ac970d99",
-"t": "COP",
-"title": "COP or WHD: Which Is the Better Value Stock Right Now?",
-"url": "https://finance.yahoo.com/markets/stocks/articles/cop-whd-better-value-stock-154002531.html",
-"pub": "2026-11-25T15:40:02+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-25T17:22:35+00:00"
-},
-{
-"id": "a056f5ea5dad",
-"t": "ISRG",
-"title": "GE HealthCare Expands CT Portfolio With New Systems and AI Innovations",
-"url": "https://finance.yahoo.com/healthcare/articles/ge-healthcare-expands-ct-portfolio-154000497.html",
-"pub": "2026-11-25T15:40:00+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-25T17:14:44+00:00"
-},
-{
-"id": "a210acf1215a",
-"t": "META",
-"title": "Meta Platforms Stocks Fall 2.91% as Big Tech Selloff Spreads",
-"url": "https://finance.yahoo.com/markets/stocks/articles/meta-platforms-stocks-fall-2-153932487.html",
-"pub": "2026-11-25T15:39:32+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-25T16:20:21+00:00"
+"id": "019ef3daa5af",
+"t": "",
+"title": "Couche-Tard rules out sweeter offer for Zabka, says bid price final - Reuters",
+"url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQYlpsczI5a19OMGVTbTd2d0x6OXZ1M21zOGs1ZGVRWnRsME5lVGp2bEFMVjNUWFhRM1QtQ2hLVG1MYVNhMU5uaG9mYTctNndFWjFfRVRtWHZEbUxWNlF1NTRZSGFPU1NLbkhGSXNSM25mV1Rwb2d1S0VFRjVrOXhDaDYtY1lHSkdSSW1MOUtueWMxYnhsUkpDYkMybmRNVzZjbTRYcHJQQnk2c3BMQnlLUENUVUVXZw?oc=5",
+"pub": "2026-11-26T11:38:01+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-26T12:14:11+00:00"
 },
 {
 "id": "a8f75c9a0ff8",
@@ -8062,6 +8172,16 @@
 "src": "FinancialJuice",
 "kind": "market",
 "seen": "2026-11-26T11:39:29+00:00"
+},
+{
+"id": "b2f4cc610b33",
+"t": "",
+"title": "TSX futures flat as copper, silver rebound offset oil slip - Reuters",
+"url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPOHZaRlo1ZDVoeGx6WTAzbnVNcHBJZHY2TFF1dk41aGdQYUdJR0hLTUEwR2ZHN2Z0ZlAydE5XUmVTc2twUW9IeXkxX1ZRdTEwSGx3VkxmRklONGtuNEpaZ1pmNF9oc1VXbVJQaFF2SVJadS1wMEgtT2tYRlduNi12WEs5bWFkcmhNaDdBcWM3czBFQWM4SzhUamItanY2dHBQbnIySmFTZHM?oc=5",
+"pub": "2026-11-26T11:24:09+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-26T12:14:11+00:00"
 },
 {
 "id": "61325fab9358",
@@ -8322,6 +8442,16 @@
 "src": "Bloomberg",
 "kind": "market",
 "seen": "2026-11-26T10:39:24+00:00"
+},
+{
+"id": "0d104f723e33",
+"t": "",
+"title": "Aegon Ltd. (AEG) | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBMck4yU1ZfdE5paXEzLVA2aHo4V2M0NXFTZ0puWGdfX1JkTVFvUFJ4bXlQVEJyaURXRXlnYVV0ZmwyMFU0YnZxOWVvTlc2QlBQcEpxUUtMcVpoZw?oc=5",
+"pub": "2026-11-26T10:20:04+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-26T12:14:11+00:00"
 },
 {
 "id": "46f09ea14e85",
@@ -10892,136 +11022,6 @@
 "src": "FinancialJuice",
 "kind": "market",
 "seen": "2026-11-25T20:44:17+00:00"
-},
-{
-"id": "d68d1c32dbc6",
-"t": "",
-"title": "Claude: Claude for Microsoft 365 add-in missing for some users $MSFT",
-"url": "https://www.financialjuice.com/News/9868356/Claude-Claude-for-Microsoft-365-add-in-missing-for-some-users-MSFT.aspx?xy=rss",
-"pub": "2026-11-25T20:23:18+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-25T20:44:17+00:00"
-},
-{
-"id": "59df13ae5bf6",
-"t": "",
-"title": "ALCz.BS - Reuters",
-"url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNOXk5RUU1ZFZTazRhWl9WS3U2SDU1Q2I1OG42dkZIVzdMUmxSYjBHekt3NUxybHQtWjNmNVV2ZEJDbW9YRG5McTJkSzduN1BqMUk1TDVMejdnTjh1SjVuckFTMlRhampuQWhDTG5xRUFYRjQxamJ1OEtBVlp2MnZhRk4wUTM?oc=5",
-"pub": "2026-11-25T20:23:10+00:00",
-"src": "Reuters",
-"kind": "market",
-"seen": "2026-11-26T01:44:44+00:00"
-},
-{
-"id": "0ebb3fc3ac16",
-"t": "",
-"title": "EXCLUSIVE: US famine monitor to halt reporting as funding shortfall hits staff, sources say - Reuters",
-"url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNX0pLNUxINEV5TzZTWm5tYXQ5TnlMb3hBaHFWdzFSZGZBYVYySGhjeUotaHhKdnl6ME4ySEJJLVF2eVRvSHpRUXVZWVA5VndLUVZyMzk0cmx5S1JlZm82ZUNtS3lLS3gzMzk4Y2NMRmJHcThpWFZrMFJvajZpUFEwZzk0LUgwSkJaV1kyaFZ5ejhNQ2prRWI3dzl4aWE1NEJ5NHZ2RmZwZUQ5MkF1QzdmdTZXV1BqLWFxU1VrLQ?oc=5",
-"pub": "2026-11-25T20:23:03+00:00",
-"src": "Reuters",
-"kind": "market",
-"seen": "2026-11-25T20:44:17+00:00"
-},
-{
-"id": "b399e206174a",
-"t": "",
-"title": "0225stat.HK - | Stock Price & Latest News - Reuters",
-"url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBFXzI3OVg3MW5tZGU3NTZ1dzdTZ2VrekZuSTFpcWd1cXBGLTBzZ1RzWE9Pa2RQVlFJbTRXcG84cTBlSGJFOFdoZ2xBdWt1anNoc2doQjdxTnA5bzZHNUFKSFFuN0NhbjBSOE0zT1h2aXJab1RzTjhodlk4azJnUQ?oc=5",
-"pub": "2026-11-25T20:22:21+00:00",
-"src": "Reuters",
-"kind": "market",
-"seen": "2026-11-26T00:44:37+00:00"
-},
-{
-"id": "b39057d4e4bd",
-"t": "",
-"title": "Musk's SpaceX pledge to donate a share each to active Trump Accounts $SPCX",
-"url": "https://www.financialjuice.com/News/9868353/Musks-SpaceX-pledge-to-donate-a-share-each-to-active-Trump-Accounts-SPCX.aspx?xy=rss",
-"pub": "2026-11-25T20:21:16+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-25T20:44:17+00:00"
-},
-{
-"id": "81943af83268",
-"t": "",
-"title": "Sanofi’s $41B Insmed Deal Shows Cost of a Patent Cliff",
-"url": "https://www.bloomberg.com/news/videos/2026-11-25/sanofi-s-41b-insmed-deal-shows-cost-of-a-patent-cliff-video",
-"pub": "2026-11-25T20:19:42+00:00",
-"src": "Bloomberg",
-"kind": "market",
-"seen": "2026-11-25T20:44:17+00:00"
-},
-{
-"id": "165aab0b8f39",
-"t": "",
-"title": "Egypt Road Accident Kills at Least 30 in Greater Cairo",
-"url": "https://www.bloomberg.com/news/articles/2026-11-25/egypt-road-accident-kills-at-least-30-in-greater-cairo",
-"pub": "2026-11-25T20:08:21+00:00",
-"src": "Bloomberg",
-"kind": "market",
-"seen": "2026-11-25T20:44:17+00:00"
-},
-{
-"id": "73fbf89f9fd4",
-"t": "",
-"title": "GTCR Is Said to Weigh $50B Global Payments Buyout",
-"url": "https://www.bloomberg.com/news/videos/2026-11-25/gtcr-is-said-to-weigh-50b-global-payments-buyout-video",
-"pub": "2026-11-25T20:06:17+00:00",
-"src": "Bloomberg",
-"kind": "market",
-"seen": "2026-11-25T20:14:15+00:00"
-},
-{
-"id": "401c20c4d5ef",
-"t": "",
-"title": "BNP Paribas Hit by Higher Capital Surcharge Under New GSIB List",
-"url": "https://www.bloomberg.com/news/articles/2026-11-25/bnp-paribas-hit-by-higher-capital-surcharge-under-new-gsib-list",
-"pub": "2026-11-25T20:03:35+00:00",
-"src": "Bloomberg",
-"kind": "market",
-"seen": "2026-11-25T20:14:15+00:00"
-},
-{
-"id": "1246534631c6",
-"t": "",
-"title": "Australia’s Beaten-Down Small Caps Look Primed for 2027 Comeback",
-"url": "https://www.bloomberg.com/news/articles/2026-11-25/australia-s-beaten-down-small-caps-look-primed-for-2027-comeback",
-"pub": "2026-11-25T20:00:00+00:00",
-"src": "Bloomberg",
-"kind": "market",
-"seen": "2026-11-25T21:14:25+00:00"
-},
-{
-"id": "9e2893c303b4",
-"t": "",
-"title": "HDZf.TRE - | Stock Price & Latest News - Reuters",
-"url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNQXgycWN5eDVjZHpJdEpvRHQwaGlRQlY3RWp1TTJGaG9ONGV4T1E1QjJFMm56aWZqQ24yVUtlWElKUlBzeXB6dzV6dnN1MmhHeFA0SGpvamdqcW9SMTF3c28xa3FScU5ObER1S3dBWmpUNDVLM0F6UDE4RTltZUtDRXNCdWNjNDg?oc=5",
-"pub": "2026-11-25T19:50:31+00:00",
-"src": "Reuters",
-"kind": "market",
-"seen": "2026-11-26T00:44:37+00:00"
-},
-{
-"id": "4c88dbceb33f",
-"t": "",
-"title": "Lithium Ionic Corp. (LTHCF.PK) | Stock Price & Latest News - Reuters",
-"url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9JeUdhZHhCeHBsZzIxa1RtZzFHMU01SWM3Uk1GbGh0aFJkazhfbmhwekkyTmU1dzRHc2lXdnROdVk1QUhocFZZbDdUVHFoZFAyRHRYRHdaME1NbmxQS0thUU1EN0l1aTNRaXZaaGJR?oc=5",
-"pub": "2026-11-25T19:50:30+00:00",
-"src": "Reuters",
-"kind": "market",
-"seen": "2026-11-25T21:45:02+00:00"
-},
-{
-"id": "b3f80b4f7e7b",
-"t": "",
-"title": "Stocks Continue Fall as Nvidia Reinstatement Rally Fades",
-"url": "https://www.bloomberg.com/news/videos/2026-11-25/stocks-continue-fall-as-nvidia-reinstatement-rally-fades",
-"pub": "2026-11-25T19:49:18+00:00",
-"src": "Bloomberg",
-"kind": "market",
-"seen": "2026-11-25T20:06:21+00:00"
 }
 ]
 }
