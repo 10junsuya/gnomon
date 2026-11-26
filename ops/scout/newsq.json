@@ -1,6 +1,6 @@
 {
-"updated_kst": "2026-11-26 14:44",
-"rot": 91,
+"updated_kst": "2026-11-26 14:45",
+"rot": 151,
 "how": "Scout(프로그램)이 10분마다 모은 기사 제목·링크와 공시예요. Wren이 공식 출처로 확인한 뒤 회사 화면에 한국어로 반영해요. 본문은 받지 않아요.",
 "sources": {
 "Yahoo Finance": "120종목 확인 · 실패 0",
@@ -10,7 +10,7 @@
 "CNBC": "63건",
 "Bloomberg": "40건",
 "WSJ": "61건",
-"Reuters": "52건",
+"Reuters": "100건",
 "FinancialJuice": "100건",
 "SEC EDGAR": "실패 HTTPError",
 "Fox Business": "50건"
@@ -77,6 +77,16 @@
 "seen": "2026-11-26T05:44:01+00:00"
 },
 {
+"id": "329a0697931a",
+"t": "NXE",
+"title": "NexGen Energy (TSX:NXE) Stock Looks Overvalued On Its 74% Five Year Run",
+"url": "https://finance.yahoo.com/markets/stocks/articles/nexgen-energy-tsx-nxe-stock-051628722.html",
+"pub": "2026-11-26T05:16:28+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-26T05:45:32+00:00"
+},
+{
 "id": "8d91066892c3",
 "t": "IONQ",
 "title": "What Do IonQ (IONQ) Quantum Sensing Wins Mean For Its Broader Growth Story?",
@@ -95,6 +105,16 @@
 "src": "Yahoo Finance",
 "kind": "news",
 "seen": "2026-11-26T05:44:01+00:00"
+},
+{
+"id": "354b685a771f",
+"t": "KEYS",
+"title": "Keysight: 3 Key Takeaways for Long-Term Investors",
+"url": "https://www.fool.com/earnings/takeaways/2026/11/25/keysight-3-key-takeaways-for-long-term-investors/",
+"pub": "2026-11-26T05:00:06+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-26T05:45:32+00:00"
 },
 {
 "id": "50dcbb7cfef5",
@@ -125,6 +145,16 @@
 "src": "Yahoo Finance",
 "kind": "news",
 "seen": "2026-11-26T05:14:29+00:00"
+},
+{
+"id": "6cf3d47f391e",
+"t": "NXE",
+"title": "Federal Approval Could Be A Big Moment For NexGen Energy Stock (TSX:NXE)",
+"url": "https://finance.yahoo.com/markets/stocks/articles/federal-approval-could-big-moment-043756388.html",
+"pub": "2026-11-26T04:37:56+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-26T05:45:32+00:00"
 },
 {
 "id": "5f88684c19fd",
@@ -7993,36 +8023,6 @@
 "seen": "2026-11-25T14:15:15+00:00"
 },
 {
-"id": "239a732985da",
-"t": "NVDA",
-"title": "AMD Stock Would Need to Rise About 57% to Get Back to Its Record. History Says How Long Past Comebacks Took.",
-"url": "https://www.fool.com/investing/2026/11/25/amd-stock-would-need-to-rise-about-57-to-get-back-to-its-record-history-says-how-long-past-comebacks-took/",
-"pub": "2026-11-25T13:57:02+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-25T14:15:15+00:00"
-},
-{
-"id": "c080b54ac0ed",
-"t": "UNH",
-"title": "Trump Says Abdul El-Sayed Is a 'Smart Guy, Warms to 'TrumpCare' Idea",
-"url": "https://www.benzinga.com/markets/prediction-markets/26/11/63620600/trumpcare-medicare-health-insurer-stocks",
-"pub": "2026-11-25T13:56:15+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-25T15:05:32+00:00"
-},
-{
-"id": "10fd85f6fbc3",
-"t": "HD",
-"title": "Coupang vs. Home Depot: Which Consumer Stock Is a Better Buy for 2027?",
-"url": "https://www.fool.com/coverage/better-buy/2026/11/25/coupang-vs-home-depot-which-consumer-stock-is-a-better-buy-for-2027/",
-"pub": "2026-11-25T13:56:05+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-25T15:05:32+00:00"
-},
-{
 "id": "e935c4593137",
 "t": "",
 "title": "Indonesia Must Grow Faster as Its Population Ages, OECD Says",
@@ -8181,6 +8181,16 @@
 "src": "Bloomberg",
 "kind": "market",
 "seen": "2026-11-26T03:44:34+00:00"
+},
+{
+"id": "cba0b696e152",
+"t": "",
+"title": "FT Vest US Equity Enh & Mod Buffer ETF - Jul (XJUL.N) | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBXMkhlWFU2NUdVc25CVXhXZmlGUUIwTVR1UGJNWG1VYlRIY0ZOWTZLUElNUEp2c2Z1cVRBYlRNa2tIV0EtLXVpZFJXejgzZi16NEtfYWlBRUhMcXl0ekpmYlZkMndCcllTdEJIWUlR?oc=5",
+"pub": "2026-11-26T03:19:28+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-26T05:45:32+00:00"
 },
 {
 "id": "237d2e67c449",
@@ -8523,6 +8533,16 @@
 "seen": "2026-11-26T00:14:43+00:00"
 },
 {
+"id": "9ea4a202a2a4",
+"t": "",
+"title": "9240.J1 - | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQUkppRnpQcGp5MnZmZGJham5VV3VQXzhMcTN6MUFpaFRaYkxvc0pmOWYxRWVKWnpaY0JWU3JlcmlkbGQzUTAzSDBmR1JvcmNfV3h6dTNhdDFZazNaOFFDWkxGZ282V0JUM1pFYl9EOGhPS29sWTlyZUkyQ3drVG5OTkdJbXVLT0lKVXFIX2llZw?oc=5",
+"pub": "2026-11-25T23:55:37+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-26T05:45:32+00:00"
+},
+{
 "id": "4c5da3cb0e74",
 "t": "",
 "title": "China 2027 Growth to Top 4.5%, Ex-Official Says",
@@ -8561,6 +8581,16 @@
 "src": "Bloomberg",
 "kind": "market",
 "seen": "2026-11-25T23:44:37+00:00"
+},
+{
+"id": "f22ff806fb2e",
+"t": "",
+"title": "Invesco RAFI Developed Mkts ex-US SM ETF (PDN.N) | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE10TFNmZTdPV3pidXB1aTRxSldHZnVrcHhyaHFSaVhWbkFmUVZ2cUg1TE5kdzFmRThzT083aUtnUU0wTkJVVnpzYnRJcWVpMFRnV0NjQVFZMk5ZQ1g4MGk5SW5Dd1BtTllMUS1WRA?oc=5",
+"pub": "2026-11-25T23:04:12+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-26T05:45:32+00:00"
 },
 {
 "id": "1fbeee94fafd",
@@ -10991,36 +11021,6 @@
 "src": "Reuters",
 "kind": "market",
 "seen": "2026-11-25T16:20:21+00:00"
-},
-{
-"id": "8e4a1f8a0642",
-"t": "",
-"title": "BoE's Lombardelli: I'm less certain that underlying disinflation is on track",
-"url": "https://www.financialjuice.com/News/9868008/BoEs-Lombardelli-Im-less-certain-that-underlying-disinflation-is-on-track.aspx?xy=rss",
-"pub": "2026-11-25T15:01:10+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-25T15:05:32+00:00"
-},
-{
-"id": "80f80d764081",
-"t": "",
-"title": "BoE's Dhingra: Disinflation on track, some sectors doing better",
-"url": "https://www.financialjuice.com/News/9868007/BoEs-Dhingra-Disinflation-on-track-some-sectors-doing-better.aspx?xy=rss",
-"pub": "2026-11-25T15:00:57+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-25T15:05:32+00:00"
-},
-{
-"id": "2b2b93334c80",
-"t": "",
-"title": "US October median sale price $391,300, -3.2% from October 2025 ($404,200).",
-"url": "https://www.financialjuice.com/News/9868006/US-October-median-sale-price-391300--32-from-October-2025-404200.aspx?xy=rss",
-"pub": "2026-11-25T15:00:54+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-25T15:05:32+00:00"
 }
 ]
 }
