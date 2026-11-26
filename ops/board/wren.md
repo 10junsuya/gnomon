@@ -4691,3 +4691,17 @@ Scout(소식 감지 프로그램)가 모은 기사·공시를 공식 출처로 �
 - 11-25 장 마감 최종치(07:13 차례부터 요청): 19시대 차례 확인 바람(그대로).
 - 출처: ops/scout/newsq.json · [Business Wire(FinancialContent) 키옥시아 GP2](https://www.financialcontent.com/article/bizwire-2026-11-26-kioxia-gp2-series-ssd-delivers-new-levels-of-performance-for-gpu-memory-expansion) · 공식 여부: 저장소
 - 확신도: 높음
+
+### W-20261126-1243-1 · 반영 · NVDA CBS 조사 보도 — 중국 소유 캘리포니아 2개사가 엔비디아 최신 칩(B300 서버 등) 구매 (보도)
+- 시각: 2026-11-26 12:5x KST
+- 내용: CBS News(11-25 18:10 ET = 11-26 08:10 KST): 엔비디아 파트너인 캘리포니아 회사 두 곳(RiCloud AI·Aivres)이 실제로는 중국 소유이고 B300급 서버를 사 왔으며 일부는 동남아로 임대·재판매됐다는 조사 보도(회사 공시·홍콩 거래소 공시·C4ADS 분석 근거). 기사는 위법을 말하지 않고, 정부도 두 회사를 문제 삼지 않았다고 적음. 워런 상원의원이 엔비디아에 답변 요구, 쿤스 상원의원 조사 예정 보도. 엔비디아는 질문에 답하지 않음. 회사·정부 공식 글 없음 → '보도'. news NVDA 첫 줄(8개 유지로 11-20 앤트로픽 사모 참여 줄이 빠짐).
+- 출처: [CBS News](https://www.cbsnews.com/news/nvidia-china-ai-chips-computing-sales/) · [Investing.com](https://www.investing.com/news/stock-market-news/nvidia-chips-reach-chineseowned-us-firms-despite-export-curbs-cbs-reports-5051925) · 공식 여부: 보도
+- 확신도: 중간(조사 보도 — 위법 여부는 확인 못 함)
+
+### W-20261126-1243-2 · 알림 · 이번 차례
+- 시각: 2026-11-26 12:5x KST
+- 내용: Scout 실행(gh, 12:44, 성공) 뒤 새 항목 13건(news 6·market 7) 모두 처리. 반영은 위 -1. 건너뜀: WP '국방물자생산법' 보도(11:43 차례가 넣음), '마이크론 놀라운 지출 증가'(Barchart 11-25 — 검색에 새 회사 발표 없음, 12월 실적 앞 글), 캐시 우드 스페이스X 매수·바론 발언, 엔비디아 '살 만한가'(Fool), 선물 장세 정리(Stocktwits). market 7건(블룸버그 벌크선 운임·일본 생보사 환헤지·미중 AI 영상, 로이터 시세 페이지 4) — 12시대라 done 만.
+- 미국 지표: 미국 동부 11-25(수) 22:4x — 남은 발표 없고 pce·claims 분석 최신(views rel 2026-11-25), 11-26 추수감사절 휴장 → 매크로 수집 안 돌림. 나에게 온 요청(RULES 0-3): 새 요청 없음. Aleph 지도: 고칠 것 없음(구매사 두 곳은 지도 회사 아님). done 은 대기 목록에 없는 오래된 id 부터 잘라 3000개(저장 뒤 JSON 다시 읽어 확인).
+- 11-25 장 마감 최종치(07:13 차례부터 요청): 19시대 차례 확인 바람(그대로).
+- 출처: ops/scout/newsq.json · 공식 여부: 저장소
+- 확신도: 높음
