@@ -1,21 +1,71 @@
 {
-"updated_kst": "2026-11-26 17:44",
-"rot": 94,
+"updated_kst": "2026-11-26 18:14",
+"rot": 154,
 "how": "Scout(프로그램)이 10분마다 모은 기사 제목·링크와 공시예요. Wren이 공식 출처로 확인한 뒤 회사 화면에 한국어로 반영해요. 본문은 받지 않아요.",
 "sources": {
-"Yahoo Finance": "119종목 확인 · 실패 1",
+"Yahoo Finance": "120종목 확인 · 실패 0",
 "GlobeNewswire": "실패 HTTPError",
 "PR Newswire": "0건",
 "Business Wire": "0건",
 "CNBC": "63건",
 "Bloomberg": "40건",
 "WSJ": "61건",
-"Reuters": "100건",
+"Reuters": "58건",
 "FinancialJuice": "100건",
 "SEC EDGAR": "실패 HTTPError",
 "Fox Business": "50건"
 },
 "items": [
+{
+"id": "419528fc5ffe",
+"t": "META",
+"title": "CoStar Data Shows Noho Office Leasing Nearing 900,000 Sq. Ft.",
+"url": "https://finance.yahoo.com/real-estate/articles/costar-data-shows-noho-office-090000605.html",
+"pub": "2026-11-26T09:00:00+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-26T09:14:28+00:00"
+},
+{
+"id": "f350cf613acd",
+"t": "SPCX",
+"title": "Musk says will give two SpaceX shares to 'every child in America'",
+"url": "https://finance.yahoo.com/markets/stocks/articles/musk-says-two-spacex-shares-085820244.html",
+"pub": "2026-11-26T08:58:20+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-26T09:14:28+00:00"
+},
+{
+"id": "4dbe89175b58",
+"t": "MU",
+"title": "The Nasdaq Fell Below Correction Territory: 2 Beaten-Down Nasdaq Stocks to Buy and Hold",
+"url": "https://www.fool.com/investing/2026/11/26/the-nasdaq-fell-below-correction-territory-2-beaten-down-nasdaq-stocks-to-buy-and-hold/",
+"pub": "2026-11-26T08:50:02+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-26T09:14:28+00:00"
+},
+{
+"id": "d4a83462260c",
+"t": "NVDA",
+"title": "Nvidia Wins Back Wall Street Backing As Jensen Huang Returns; CRWD, LI Stocks Score Upgrades While DKNG, AMBA Face Pressure",
+"url": "https://stocktwits.com/news-articles/markets/equity/nvda-jensen-huang-return-stock-upgrades-crwd-li-amba-dkng/cNbxi4aR9ZF",
+"pub": "2026-11-26T08:43:12+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-26T09:14:28+00:00"
+},
+{
+"id": "b256d6684abe",
+"t": "PLTR",
+"title": "Palantir Is Down 22% From Its October High. Dan Ives Puts It Among the Sell-Off’s “Clear Areas of Safety”",
+"url": "https://www.tikr.com/blog/palantir-is-down-22-from-its-october-high-dan-ives-puts-it-among-the-sell-offs-clear-areas-of-safety",
+"pub": "2026-11-26T08:26:16+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-26T09:14:28+00:00"
+},
 {
 "id": "60d411b29fd9",
 "t": "SPCX",
@@ -25,6 +75,16 @@
 "src": "Yahoo Finance",
 "kind": "news",
 "seen": "2026-11-26T08:44:41+00:00"
+},
+{
+"id": "afbf2d242b6a",
+"t": "VTRS",
+"title": "How Investors May Respond To Viatris (VTRS) Cadillac F1 Partnership",
+"url": "https://finance.yahoo.com/healthcare/articles/investors-may-respond-viatris-vtrs-081359941.html",
+"pub": "2026-11-26T08:13:59+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-26T09:14:28+00:00"
 },
 {
 "id": "aa55aa0a9eaf",
@@ -57,6 +117,16 @@
 "seen": "2026-11-26T08:44:41+00:00"
 },
 {
+"id": "d3d2e4ec580b",
+"t": "JPM",
+"title": "What Is JPMorgan Chase (JPM) Saying With Its $450 Billion AI Debt Call?",
+"url": "https://finance.yahoo.com/technology/ai/articles/jpmorgan-chase-jpm-saying-450-080838063.html",
+"pub": "2026-11-26T08:08:38+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-26T09:14:28+00:00"
+},
+{
 "id": "5c26fb2070f8",
 "t": "NVDA",
 "title": "S&P Weighs Nvidia Downgrade Despite Huang's Return. What Would a Cut Mean?",
@@ -65,6 +135,16 @@
 "src": "Yahoo Finance",
 "kind": "news",
 "seen": "2026-11-26T08:14:41+00:00"
+},
+{
+"id": "3860401d5877",
+"t": "IBM",
+"title": "Bull of the Day: Kyndryl Holdings (KD)",
+"url": "https://finance.yahoo.com/markets/stocks/articles/bull-day-kyndryl-holdings-kd-080000034.html",
+"pub": "2026-11-26T08:00:00+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-26T09:14:28+00:00"
 },
 {
 "id": "4412dd9ec422",
@@ -7943,84 +8023,104 @@
 "seen": "2026-11-25T21:14:25+00:00"
 },
 {
-"id": "84c403282163",
-"t": "AVGO",
-"title": "Global Software-Defined Wide Area Network (SD-WAN) Market Forecast to 2035 | Capitalize as SASE, Zero Trust and Cloud Drive Market to $78.33 Billion: Cisco, Fortinet and Broadcom",
-"url": "https://finance.yahoo.com/technology/articles/global-software-defined-wide-area-141800853.html",
-"pub": "2026-11-25T14:18:00+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-25T14:44:19+00:00"
+"id": "8a8ac24180e1",
+"t": "",
+"title": "Germany’s Chancellor Merz: Current proposals on eu budget are no basis for deal.",
+"url": "https://www.financialjuice.com/News/9869140/Germanys-Chancellor-Merz-Current-proposals-on-eu-budget-are-no-basis-for-deal.aspx?xy=rss",
+"pub": "2026-11-26T09:07:52+00:00",
+"src": "FinancialJuice",
+"kind": "market",
+"seen": "2026-11-26T09:14:28+00:00"
 },
 {
-"id": "969dc1c0440f",
-"t": "IBM",
-"title": "$300,000 in IBM, Merck and Cisco Could Pay More Than $7,000 a Year in Dividends",
-"url": "https://247wallst.com/investing/2026/11/25/300000-in-ibm-merck-and-cisco-could-pay-more-than-7000-a-year-in-dividends/",
-"pub": "2026-11-25T14:17:38+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-25T14:44:19+00:00"
+"id": "f4adc197f060",
+"t": "",
+"title": "Marc Levinson on How UPS Created Modern Logistics",
+"url": "https://www.bloomberg.com/news/articles/2026-11-26/marc-levinson-on-how-ups-created-modern-logistics",
+"pub": "2026-11-26T09:00:22+00:00",
+"src": "Bloomberg",
+"kind": "market",
+"seen": "2026-11-26T09:14:28+00:00"
 },
 {
-"id": "36f66034784e",
-"t": "AAPL",
-"title": "USA Rare Earth Drops 6% as China Extends Mineral Export Pause and New U.S. Tariffs Loom; Critical Metals Declines 5%, MP Materials Falls 3%",
-"url": "https://247wallst.com/investing/2026/11/25/usa-rare-earth-drops-6-as-china-extends-mineral-export-pause-and-new-u-s-tariffs-loom-critical-metals-declines-5-mp-materials-falls-3/",
-"pub": "2026-11-25T14:17:21+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-25T14:44:19+00:00"
+"id": "9db2e036afe2",
+"t": "",
+"title": "Eurozone Loans to Households Actual 3.1% (Forecast -, Previous 3.1%)",
+"url": "https://www.financialjuice.com/News/9869129/Eurozone-Loans-to-Households-Actual-31-Forecast---Previous-31.aspx?xy=rss",
+"pub": "2026-11-26T09:00:20+00:00",
+"src": "FinancialJuice",
+"kind": "market",
+"seen": "2026-11-26T09:14:28+00:00"
 },
 {
-"id": "e3b3ee6fe498",
-"t": "SPCX",
-"title": "SpaceX Slides 5% as Gary Black Warns a Tesla Bid Could Push It Below $100; Rocket Lab and AST SpaceMobile Drop 4%",
-"url": "https://247wallst.com/investing/2026/11/25/spacex-slides-5-as-gary-black-warns-a-tesla-bid-could-push-it-below-100-rocket-lab-and-ast-spacemobile-drop-4/",
-"pub": "2026-11-25T14:17:18+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-25T14:44:19+00:00"
+"id": "98ac488d9c01",
+"t": "",
+"title": "Eurozone Loans to Non Financial Firms Actual 4.5% (Forecast -, Previous 4.2%)",
+"url": "https://www.financialjuice.com/News/9869128/Eurozone-Loans-to-Non-Financial-Firms-Actual-45-Forecast---Previous-42.aspx?xy=rss",
+"pub": "2026-11-26T09:00:19+00:00",
+"src": "FinancialJuice",
+"kind": "market",
+"seen": "2026-11-26T09:14:28+00:00"
 },
 {
-"id": "12658e70683f",
-"t": "NVDA",
-"title": "XRP Just Dropped Below $1. Here's the Contrarian Case for Buying XRP Right Now.",
-"url": "https://www.fool.com/investing/2026/11/25/xrp-just-dropped-below-1-heres-the-contrarian-case-for-buying-xrp-right-now/",
-"pub": "2026-11-25T14:17:01+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-25T14:44:19+00:00"
+"id": "6985ca18b722",
+"t": "",
+"title": "Eurozone Money-M3 Annual Growth Actual 3.6% (Forecast 3.5%, Previous 3.5%)",
+"url": "https://www.financialjuice.com/News/9869127/Eurozone-Money-M3-Annual-Growth-Actual-36-Forecast-35-Previous-35.aspx?xy=rss",
+"pub": "2026-11-26T09:00:03+00:00",
+"src": "FinancialJuice",
+"kind": "market",
+"seen": "2026-11-26T09:14:28+00:00"
 },
 {
-"id": "b350d82f1734",
-"t": "JPM",
-"title": "This Asian market could be your portfolio’s best anchor in 2027: JPM",
-"url": "https://finance.yahoo.com/markets/stocks/articles/asian-market-could-portfolio-best-141633303.html",
-"pub": "2026-11-25T14:16:33+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-25T15:14:55+00:00"
+"id": "e07d972099b1",
+"t": "",
+"title": "Turkey’s Defense Chief to Meet Hegseth to Discuss Russian S-400s",
+"url": "https://www.bloomberg.com/news/articles/2026-11-26/turkey-s-defense-chief-to-meet-hegseth-to-discuss-russian-s-400s",
+"pub": "2026-11-26T09:00:01+00:00",
+"src": "Bloomberg",
+"kind": "market",
+"seen": "2026-11-26T09:14:28+00:00"
 },
 {
-"id": "386add539167",
-"t": "FDX",
-"title": "Global Biopharmaceutical Cold Chain Logistics Market Report 2026 | Capitalize on 9.5% CAGR Through 2030 as DHL, UPS, FedEx, Cencora, and Maersk Scale AI and IoT Logistics",
-"url": "https://finance.yahoo.com/healthcare/articles/global-biopharmaceutical-cold-chain-logistics-141500913.html",
-"pub": "2026-11-25T14:15:00+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-25T15:14:55+00:00"
+"id": "3d4535f17565",
+"t": "",
+"title": "Odd Lots: Levinson on How UPS Created Modern Logistics (Podcast)",
+"url": "https://www.bloomberg.com/news/audio/2026-11-26/odd-lots-levinson-on-how-ups-created-modern-logistics-podcast",
+"pub": "2026-11-26T09:00:00+00:00",
+"src": "Bloomberg",
+"kind": "market",
+"seen": "2026-11-26T09:14:28+00:00"
 },
 {
-"id": "49f76caf41f7",
-"t": "NVDA",
-"title": "What Pulled Marvell Stock Down On Tuesday?",
-"url": "https://www.trefis.com/stock/mrvl/articles/628981/what-pulled-marvell-stock-down-on-tuesday/2026-11-25",
-"pub": "2026-11-25T14:14:26+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-25T14:44:19+00:00"
+"id": "8ba68484c0b0",
+"t": "",
+"title": "Midcaps Hiding 'Historic' AI Bargain: JPMorgan's Leccubarri",
+"url": "https://www.bloomberg.com/news/videos/2026-11-26/midcaps-hiding-historic-ai-bargain-jpm-s-leccubarri-video",
+"pub": "2026-11-26T08:55:36+00:00",
+"src": "Bloomberg",
+"kind": "market",
+"seen": "2026-11-26T09:14:28+00:00"
+},
+{
+"id": "b92f0ff8c09b",
+"t": "",
+"title": "UniCredit Clears Final Hurdle to Take Over Commerzbank",
+"url": "https://www.bloomberg.com/news/videos/2026-11-26/unicredit-clears-final-hurdle-to-take-over-commerzbank-video",
+"pub": "2026-11-26T08:50:20+00:00",
+"src": "Bloomberg",
+"kind": "market",
+"seen": "2026-11-26T09:14:28+00:00"
+},
+{
+"id": "41fb97a59d70",
+"t": "",
+"title": "BOJ's net income shrinks on higher interest payments on reserves - Reuters",
+"url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOUVl2eERicjB3b2lZVlJiaVV1aEV4ZTRwZllZLXJxcjl6b0RISnY2allPRjd6NldqMHFIRVZQYmZkYjJUdG9hREo1RzdlN3djZnZJcndHYUptd013eGh0cWFQVmZqa0UyeHF0c1QxWkhFb3VSMjJkWlVQYU4yeFNwaXkyYkFmbkowamJNOVpOcmQtd0dFMV82UTVMZG5JempCbjR3Z3pWa05PSkNfM3BhOA?oc=5",
+"pub": "2026-11-26T08:45:37+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-26T09:14:28+00:00"
 },
 {
 "id": "12157dc10655",
@@ -8103,6 +8203,16 @@
 "seen": "2026-11-26T08:14:41+00:00"
 },
 {
+"id": "a7f01c327268",
+"t": "",
+"title": "Portugal aims for 2027 surplus, PM refuses to enact deficit-driving tax cuts - Reuters",
+"url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNNnk0M2J3X3d3YnBwT3RWRjJwcnRjbUUtNE9CN3JIRE50V054cGg1WmRQMHVOWlJpZXBURkZIbDZrd0EtMFlKRmozVkQyd2hZNHdsZU90ZHVtVWxTc1RjNWRYQ29oQnc5NmxBLTc5RzBnYm1DUHBxVUtBakNXMktZRFJMdUdlb0VBM216cEF3Zi1hbVZIbGlTMjBrQkhtNnBjMXlRYnZpdTdwdDFhdXRLTDhwSDFNOXI0WWJZ?oc=5",
+"pub": "2026-11-26T08:03:46+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-26T09:14:28+00:00"
+},
+{
 "id": "fda3752d67d7",
 "t": "",
 "title": "Currency Strength Chart: Strongest: AUD, JPY, USD, EUR, CAD, GBP, NZD, CHF - Weakest",
@@ -8111,6 +8221,16 @@
 "src": "FinancialJuice",
 "kind": "market",
 "seen": "2026-11-26T08:14:41+00:00"
+},
+{
+"id": "6d4f10df18c8",
+"t": "",
+"title": "German consumer sentiment edges up into December, survey finds - Reuters",
+"url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPQjFtTWpYaGFYMFI4SUh4TFZCV25MTVlFYmNPRDhPeFYyamdCeTlPOWpsQVpPV3lrdkFOMmZhR1BxVmdnLUNldEpUWEctWmtlRjRpb3l0czFBUVgwSWxUYnZBc0lNUE9fVUNySkxEQzNrNVBVdlZRMnFzSVZEVDc3RFFzRERhZ3RhVTRYWGZnWmZNY2hoY0tUdC1MeUdrQ0M2bFVSLXJBdDBwMG9ZQ1lVanhR?oc=5",
+"pub": "2026-11-26T07:50:00+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-26T09:14:28+00:00"
 },
 {
 "id": "b1dfdaad77d8",
@@ -8181,6 +8301,16 @@
 "src": "FinancialJuice",
 "kind": "market",
 "seen": "2026-11-26T07:44:59+00:00"
+},
+{
+"id": "ef8c53177b09",
+"t": "",
+"title": "Vox Populi ETF (VOXP.N) | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE93UTgtTWN4X2VxY01tVldVTVg1ZUg3VWpFeUdmenpqZnNpck1uSEw4LVJyUEZGX1R5ajJKLTFTTGR4RzJjazdvMkZkdlQ4MUFBUGNXQ3k3b0w?oc=5",
+"pub": "2026-11-26T07:27:27+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-26T09:14:28+00:00"
 },
 {
 "id": "a4a19c0cdbc8",
@@ -9063,6 +9193,16 @@
 "seen": "2026-11-26T04:14:27+00:00"
 },
 {
+"id": "ee5d8f87a35b",
+"t": "",
+"title": "SUINol.NS - | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQQzhKTUF1TWtpZ2V5TXpuSXlWenRsZEUzamtPYlEwbWowTWtsbFNRdmFocjJDSVFPTUtGczJ6NDlSRUN0SVpzMmJPMnAtYUlLTGhZcFE3S083UXpvZ2M0OFI1WUZBaHVRTjMwbEtWTThsc05VaXZrZGtoQnBrMXhLN1pyLUcwVEVpcDZ3?oc=5",
+"pub": "2026-11-26T02:25:59+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-26T09:14:28+00:00"
+},
+{
 "id": "09706a476bfa",
 "t": "",
 "title": "KK Mart Starts $112 Million IPO Delayed by Malaysia Socks Row",
@@ -9401,6 +9541,16 @@
 "src": "Bloomberg",
 "kind": "market",
 "seen": "2026-11-26T00:14:43+00:00"
+},
+{
+"id": "1db3b8d54c5d",
+"t": "",
+"title": "LME tightens rules in response to aluminium squeeze - Reuters",
+"url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOR0NzVkVpcDd1ZkFXdUREX243eEVQQkVpZDdmak41ZjNsNGhPOHh6aUt5MllDa1NrLV9hdnYzTW9rNl9HejFzNFZTMU5uUjBWbktXTmVLbXdXdndIUXZydmMtY3pnMFkzTWJHcUx6b3o2b2w5SjdxZzZ2bXpGUGdFR2doVHZKNmU2YmI5VnlZUWZFVGd6YlppbEJRZHAzbHBtcG9F?oc=5",
+"pub": "2026-11-25T23:41:04+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-26T09:14:28+00:00"
 },
 {
 "id": "1f019bd203a4",
@@ -10871,156 +11021,6 @@
 "src": "FinancialJuice",
 "kind": "market",
 "seen": "2026-11-25T17:14:44+00:00"
-},
-{
-"id": "82e9cc11c28f",
-"t": "",
-"title": "US Army Detonates Explosives Cache in Middletown, Iowa",
-"url": "https://www.bloomberg.com/news/videos/2026-11-25/us-army-detonates-explosives-cache-in-middletown-iowa-video",
-"pub": "2026-11-25T17:11:46+00:00",
-"src": "Bloomberg",
-"kind": "market",
-"seen": "2026-11-25T17:22:35+00:00"
-},
-{
-"id": "24fe75c90eb8",
-"t": "",
-"title": "Guardian Metal Resources PLC (GMTLF.PK) | Stock Price & Latest News - Reuters",
-"url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1aUU5jRnNXN1g5Rlhfc2x2RElKdWtxWVY3akNydV80aWFvNzNvckZSZEw4Umd3VU80X1VlREJKYXE4SFEyc280MUJORlFSZVNmUlB3XzQ0N3A0Z3p2QUYtUE1XSTA4NUd5U2hhWXpB?oc=5",
-"pub": "2026-11-25T17:03:06+00:00",
-"src": "Reuters",
-"kind": "market",
-"seen": "2026-11-26T00:44:37+00:00"
-},
-{
-"id": "e86535bf840b",
-"t": "",
-"title": "EIA Natural Gas Change BCF Actual -24B (Forecast -25B, Previous 20B)",
-"url": "https://www.financialjuice.com/News/9868145/EIA-Natural-Gas-Change-BCF-Actual--24B-Forecast--25B-Previous-20B.aspx?xy=rss",
-"pub": "2026-11-25T17:00:01+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-25T17:14:44+00:00"
-},
-{
-"id": "22434e41bebd",
-"t": "",
-"title": "El Salvador Finally Reaps Economic Gains From Gang Crackdown",
-"url": "https://www.bloomberg.com/news/articles/2026-11-25/el-salvador-finally-reaps-economic-gains-from-gang-crackdown",
-"pub": "2026-11-25T16:55:27+00:00",
-"src": "Bloomberg",
-"kind": "market",
-"seen": "2026-11-25T17:14:44+00:00"
-},
-{
-"id": "53e723a31cbe",
-"t": "",
-"title": "Peru Races to Resolve Informal Mining Fight by Year-End Deadline",
-"url": "https://www.bloomberg.com/news/articles/2026-11-25/peru-races-to-resolve-informal-mining-fight-by-year-end-deadline",
-"pub": "2026-11-25T16:55:18+00:00",
-"src": "Bloomberg",
-"kind": "market",
-"seen": "2026-11-25T17:14:44+00:00"
-},
-{
-"id": "a74686329562",
-"t": "",
-"title": "ARWMF.PK - | Stock Price & Latest News - Reuters",
-"url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFA5QVVDZFd1QlVVQzVNSHV6VV9QQnRSUDBmd2lEd1hkbHlER3hUeUtiNHk5ZVdXMlFNbEhjQWctYmktVjlyUjV1a0JKQzB0MnFKRUFOX0tUVkRSY25jMl9MdnlNNnc4elhHSE5kaWVTel9HQTdsVy13Z2h3?oc=5",
-"pub": "2026-11-25T16:52:35+00:00",
-"src": "Reuters",
-"kind": "market",
-"seen": "2026-11-25T21:14:25+00:00"
-},
-{
-"id": "032fa0eec776",
-"t": "",
-"title": "BMO S&P 500 Hedged to CAD Index Series Units ETF (ZUE.TO) | Stock Price & Latest News - Reuters",
-"url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5KWUdpdVU5bldYYWlGMldQNEtBTXVBdmI3dFAybDkxQml0Qzk1YjQyMHNNcmNwRzMzQW5SdUdQTlp2SHdXWklxN1VuTDBPaVM4OW1VRlRiRHg5QnFESjBXanY0NUpJdzdMeGpZ?oc=5",
-"pub": "2026-11-25T16:52:12+00:00",
-"src": "Reuters",
-"kind": "market",
-"seen": "2026-11-26T00:44:37+00:00"
-},
-{
-"id": "1bd09e1b9740",
-"t": "",
-"title": "2903.HK%5EB24 - | Stock Price & Latest News - Reuters",
-"url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPeTk1eG1sT2R6d0RhRW16REhpVEhNOGtkNXliMWd6NFlkTUpsa2d1T1NpeXJoMVpqWWhPS3BGSVRIdEZjWmhUSzRVQlM5WmVBT0JMU3ZnSEZla25BRDhjUExQQ28xMzNFWU5NZ0xiQ2hwQTdxMGxLTElCQVB0X25UUzhRZWFYSUpPeHoyMGNYd1BTVG4xa2pn?oc=5",
-"pub": "2026-11-25T16:52:01+00:00",
-"src": "Reuters",
-"kind": "market",
-"seen": "2026-11-25T22:06:56+00:00"
-},
-{
-"id": "c721680e3a99",
-"t": "",
-"title": "1137.SG - | Stock Price & Latest News - Reuters",
-"url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9qamV6LVBtYVBES3NwYlU3OW5DM19NTTlQcm9WSks5T21sZVJzR3FacTBnMWhESHVkaDVWclpGdkhDTjdzNnRnR0NLaE94RXlFc1BPOWFJdm9sbUhzN3BJY1RiWHRWYXNiaXBsNE1oc3lWTEhfaV9N?oc=5",
-"pub": "2026-11-25T16:51:11+00:00",
-"src": "Reuters",
-"kind": "market",
-"seen": "2026-11-25T21:14:25+00:00"
-},
-{
-"id": "39fe7f043d2c",
-"t": "",
-"title": "Bank of England Rate-Setters Leave December Hike on the Table",
-"url": "https://www.bloomberg.com/news/articles/2026-11-25/bank-of-england-rate-setters-leave-december-hike-on-the-table",
-"pub": "2026-11-25T16:49:25+00:00",
-"src": "Bloomberg",
-"kind": "market",
-"seen": "2026-11-25T17:14:44+00:00"
-},
-{
-"id": "2f9fd0c0cee8",
-"t": "",
-"title": "Invesco S&P 500 High Div Low Vlty UCITS ETF Dist (HDLV.DE) | Stock Price & Latest News - Reuters",
-"url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1XSXNVQTV2TnJfYkU3dWtlQTI0dU1CcVY5SU04ZHh6WjRmTUxrZDlRRUkzQU8xaVhwam5RWlRjQUtVenJrNG92dDNacjRoVDZTdFp5WThyYkRnanowZFFQUlo2bml5ZDVYRm4yZzBB?oc=5",
-"pub": "2026-11-25T16:48:11+00:00",
-"src": "Reuters",
-"kind": "market",
-"seen": "2026-11-26T07:44:59+00:00"
-},
-{
-"id": "832914a86a55",
-"t": "",
-"title": "US FCC authorizes SpaceX to deploy 1 million data centers in space. $SPCX",
-"url": "https://www.financialjuice.com/News/9868143/US-FCC-authorizes-SpaceX-to-deploy-1-million-data-centers-in-space-SPCX.aspx?xy=rss",
-"pub": "2026-11-25T16:47:10+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-25T17:14:44+00:00"
-},
-{
-"id": "ed0a6d049d2f",
-"t": "",
-"title": "Anthropic’s Post-IPO Struggles Contrast With SpaceX’s Early Days",
-"url": "https://www.bloomberg.com/news/articles/2026-11-25/anthropic-s-post-ipo-struggles-contrast-with-spacex-s-early-days",
-"pub": "2026-11-25T16:45:00+00:00",
-"src": "Bloomberg",
-"kind": "market",
-"seen": "2026-11-25T17:14:44+00:00"
-},
-{
-"id": "a1ec0e782ec0",
-"t": "",
-"title": "CoreWeave, Nvidia Credit Risk Hit Fresh Highs as AI Fears Mount",
-"url": "https://www.bloomberg.com/news/articles/2026-11-25/coreweave-nvidia-credit-risk-hit-fresh-highs-as-ai-fears-mount",
-"pub": "2026-11-25T16:44:02+00:00",
-"src": "Bloomberg",
-"kind": "market",
-"seen": "2026-11-25T17:14:44+00:00"
-},
-{
-"id": "f34477996d1d",
-"t": "",
-"title": "Trump’s New Tariffs: How Are Import Taxes Affecting the Economy?",
-"url": "https://www.bloomberg.com/news/articles/2026-11-25/trump-s-new-tariffs-how-are-import-taxes-affecting-the-economy",
-"pub": "2026-11-25T16:40:58+00:00",
-"src": "Bloomberg",
-"kind": "market",
-"seen": "2026-11-25T16:44:23+00:00"
 }
 ]
 }
