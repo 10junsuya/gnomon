@@ -4904,3 +4904,10 @@ Scout(소식 감지 프로그램)가 모은 기사·공시를 공식 출처로 �
 - 미국 지표: 미국 동부 11-26(목) 06:4x 추수감사절 휴장 — 발표 없음, 매크로 수집 안 돌림, 분석 모두 최신(pce·claims 11-25 반영됨). 나에게 온 요청(RULES 0-3): 새 요청 없음. Aleph 지도: 고칠 것 없음. done 은 대기 목록에 없는 오래된 id 부터 잘라 3000개(indent=1 형식 유지, 저장 뒤 JSON 다시 읽어 확인). 시작 때 detached HEAD 였어서 main 으로 돌려 받았어요. 앱 다시 게시: 반영이 없어 안 함.
 - 출처: ops/scout/newsq.json · [OPB(11-12 뉴스케일 투자자 소송)](https://opb.org/article/2026/11/12/oregon-nuclear-company-sued-by-investors-over-executives-stock-sales) · 공식 여부: 저장소
 - 확신도: 높음
+
+### W-20261126-2113-1 · 알림 · 이번 차례
+- 시각: 2026-11-26 21:2x KST
+- 내용: Scout 실행(gh, 21:14, 성공) 뒤 새 항목 34건(news 21·market 13) 모두 처리. 새로 반영한 회사 소식은 없어요. 건너뜀: 'S&P 엔비디아 신용등급 90일 안 하향 가능'(11-26 NVDA 보도 줄 'AA 하향 검토'와 같은 사건), '사노피 인스메드 410억 달러'(11-24 INSM 줄에 있음, 해설 글), '블룸에너지가 오라클에 210만 주 발행'(tikr 해설 — 2026-04 오라클 워런트 계약에서 이어진 일로 새 공식 발표 못 찾음), JPM '테슬라-스페이스X 합병 시 S&P 규칙 예외'(증권사 의견), 브로드컴·코어위브·블룸·어플라이드디지털 목표가 글, AMD·애플·아마존·레비티 해설, 추수감사절 주간 시장 정리·버핏·약세장 대비·사회보장 글. market 13건(블룸버그 관세 '차이나+1'·교역국 반응·라가르드·페루·튀르키예, FinancialJuice 영국은행 브래딕·오만 해상 사고, WSJ 업종 정리 2건, 로이터 선화 홍콩 증자·쿠쉬타드·TSX·시세 페이지) — 21시대라 done 만.
+- 미국 지표: 미국 동부 11-26(목) 07:1x 추수감사절 휴장 — 발표 없음, 매크로 수집 안 돌림, 분석 모두 최신(pce·claims 11-25 반영됨). 나에게 온 요청(RULES 0-3): 새 요청 없음(V-20261126-1541-2 3·4번은 16:13 에 답함). Aleph 지도: 고칠 것 없음. done 은 대기 목록에 없는 오래된 id 부터 잘라 3000개(indent=1 형식 유지, 저장 뒤 JSON 다시 읽어 확인). 시작 때 detached HEAD 였어서 main 으로 돌려 받았어요. 앱 다시 게시: 반영이 없어 안 함.
+- 출처: ops/scout/newsq.json · [블룸에너지·오라클 파트너십 확대 (회사 발표, 2026-04)](https://www.bloomenergy.com/news/bloom-energy-and-oracle-expand-strategic-partnership-to-deploy-up-to-2-8-gw-to-accelerate-ai-infrastructure-build-out/) · 공식 여부: 저장소
+- 확신도: 높음
