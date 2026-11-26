@@ -1,6 +1,6 @@
 {
-"updated_kst": "2026-11-26 12:14",
-"rot": 29,
+"updated_kst": "2026-11-26 12:34",
+"rot": 89,
 "how": "Scout(프로그램)이 10분마다 모은 기사 제목·링크와 공시예요. Wren이 공식 출처로 확인한 뒤 회사 화면에 한국어로 반영해요. 본문은 받지 않아요.",
 "sources": {
 "Yahoo Finance": "120종목 확인 · 실패 0",
@@ -10,12 +10,42 @@
 "CNBC": "63건",
 "Bloomberg": "40건",
 "WSJ": "61건",
-"Reuters": "52건",
+"Reuters": "100건",
 "FinancialJuice": "100건",
 "SEC EDGAR": "실패 HTTPError",
 "Fox Business": "50건"
 },
 "items": [
+{
+"id": "6f99c0b9c40d",
+"t": "NVDA",
+"title": "Trump admin weighed using Cold War law to reinstate Nvidia CEO Huang, WaPo reports",
+"url": "https://finance.yahoo.com/technology/articles/trump-admin-weighed-using-cold-032247551.html",
+"pub": "2026-11-26T03:22:47+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-26T03:34:03+00:00"
+},
+{
+"id": "4dfd13866436",
+"t": "VRTX",
+"title": "Dow, S&P 500, Nasdaq Futures Edge Higher As Tech Rebounds After Selloff: DIS, VRTX, DE, CHTR In Focus",
+"url": "https://stocktwits.com/news-articles/markets/equity/dow-s-and-p-500-nasdaq-futures-edge-higher-as-tech-rebounds-after-selloff-dis-vrtx-de-chtr-in-focus/cNbxeL0R9ZE",
+"pub": "2026-11-26T03:14:36+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-26T03:34:03+00:00"
+},
+{
+"id": "de2b1f7b79b6",
+"t": "NVDA",
+"title": "Nvidia chips reach Chinese-owned U.S. firms despite export curbs, CBS reports",
+"url": "https://finance.yahoo.com/technology/ai/articles/nvidia-chips-reach-chinese-owned-031146505.html",
+"pub": "2026-11-26T03:11:46+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-26T03:34:03+00:00"
+},
 {
 "id": "e3934f0cca62",
 "t": "NVDA",
@@ -25,6 +55,16 @@
 "src": "Yahoo Finance",
 "kind": "news",
 "seen": "2026-11-26T03:14:26+00:00"
+},
+{
+"id": "a0364e43f801",
+"t": "NVDA",
+"title": "Is Nvidia Stock a Buy After Dell's Record AI Backlog?",
+"url": "https://www.fool.com/investing/2026/11/25/is-nvidia-stock-a-buy-after-dell-s-record-ai-backlog/",
+"pub": "2026-11-26T03:07:02+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-26T03:34:03+00:00"
 },
 {
 "id": "f5be72eaf925",
@@ -3601,6 +3641,16 @@
 "src": "Yahoo Finance",
 "kind": "news",
 "seen": "2026-11-25T18:09:13+00:00"
+},
+{
+"id": "dda48a44161c",
+"t": "MU",
+"title": "Micron Stock and Other Memory Plays Will Bear the Brunt of This AI Pain",
+"url": "https://finance.yahoo.com/m/c60b7c01-7f3d-3700-ad68-951e994a6d38/micron-stock-and-other-memory.html",
+"pub": "2026-11-25T17:46:00+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-26T03:34:03+00:00"
 },
 {
 "id": "119d0b792126",
@@ -7973,54 +8023,14 @@
 "seen": "2026-11-25T13:58:47+00:00"
 },
 {
-"id": "78acee12510f",
-"t": "PG",
-"title": "If the Fed Hikes on Dec. 9, These 4 Dividend Stocks Are Built to Handle It",
-"url": "https://247wallst.com/investing/2026/11/25/if-the-fed-hikes-on-dec-9-these-4-dividend-stocks-are-built-to-handle-it/",
-"pub": "2026-11-25T13:32:40+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-25T13:58:47+00:00"
-},
-{
-"id": "71308eb2616f",
-"t": "ANET",
-"title": "Wall Street Bulls Look Optimistic About Arista Networks (ANET): Should You Buy?",
-"url": "https://finance.yahoo.com/markets/stocks/articles/wall-street-bulls-look-optimistic-133004185.html",
-"pub": "2026-11-25T13:30:04+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-25T15:05:32+00:00"
-},
-{
-"id": "5ed1338c3ffa",
-"t": "FIX",
-"title": "Wall Street Analysts See Comfort Systems (FIX) as a Buy: Should You Invest?",
-"url": "https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-see-comfort-133003221.html",
-"pub": "2026-11-25T13:30:03+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-25T14:44:19+00:00"
-},
-{
-"id": "cbcdd0b86bb9",
-"t": "LMT",
-"title": "Lockheed (LMT) Is Considered a Good Investment by Brokers: Is That True?",
-"url": "https://finance.yahoo.com/markets/stocks/articles/lockheed-lmt-considered-good-investment-133003655.html",
-"pub": "2026-11-25T13:30:03+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-25T14:44:19+00:00"
-},
-{
-"id": "3a842638d76f",
-"t": "GILD",
-"title": "GILD Stock Hits a 52-Week High: Should We Buy, Sell or Hold?",
-"url": "https://finance.yahoo.com/markets/stocks/articles/gild-stock-hits-52-week-132900852.html",
-"pub": "2026-11-25T13:29:00+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-25T14:44:19+00:00"
+"id": "237d2e67c449",
+"t": "",
+"title": "China, US Must Manage AI Risks: Ex-Negotiator",
+"url": "https://www.bloomberg.com/news/videos/2026-11-26/china-us-must-manage-ai-risks-ex-negotiator-video",
+"pub": "2026-11-26T03:17:18+00:00",
+"src": "Bloomberg",
+"kind": "market",
+"seen": "2026-11-26T03:34:03+00:00"
 },
 {
 "id": "393b85e24675",
@@ -9271,6 +9281,16 @@
 "src": "Reuters",
 "kind": "market",
 "seen": "2026-11-26T00:44:37+00:00"
+},
+{
+"id": "23db57239d58",
+"t": "",
+"title": "Procook Group PLC (PROC.L) | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9vTHZYLTlfV3dMUWdWMDdqdDlMU0tTYnpKUE1UT1RpdFBiUXJGNFZ6Ni15T3ZxRDNRcmxpNlQ0aDctRkR4ekN3eExhU0Z6VWtMT0lnV0FpVGVkOXQ1bWt3S1A0TVh3Q1E3TzRN?oc=5",
+"pub": "2026-11-25T18:59:38+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-26T03:34:03+00:00"
 },
 {
 "id": "a9b1e6eaba1e",
@@ -11001,26 +11021,6 @@
 "src": "Fox Business",
 "kind": "market",
 "seen": "2026-11-25T15:05:32+00:00"
-},
-{
-"id": "ffe7605d9188",
-"t": "",
-"title": "BoE's Lombardelli: The economy is stronger than we expected.",
-"url": "https://www.financialjuice.com/News/9867977/BoEs-Lombardelli-The-economy-is-stronger-than-we-expected.aspx?xy=rss",
-"pub": "2026-11-25T14:36:33+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-25T14:44:19+00:00"
-},
-{
-"id": "85cf3355edda",
-"t": "",
-"title": "MUFG on USD & Oil Correlation - FJElite",
-"url": "https://www.financialjuice.com/News/9867976/MUFG-on-USD--Oil-Correlation---FJElite.aspx?xy=rss",
-"pub": "2026-11-25T14:36:18+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-25T14:44:19+00:00"
 }
 ]
 }
