@@ -4672,6 +4672,7 @@ Scout(소식 감지 프로그램)가 모은 기사·공시를 공식 출처로 �
 - 내용: 워싱턴포스트(11-25, 제목) 보도를 야후(Benzinga)·BigGo 정리 글로 확인: 헤그세스 장관·파인버그 부장관 등이 11-23 이사회 표결 전 주말에 국방물자생산법(1950)을 엔비디아 이사회 압박 수단으로 쓰는 방안을 논의했다는 내용. 국방부 관계자는 이메일 성명으로 그런 대화·제안이 없었다고 부인. 엔비디아 답변은 보도에 없음. news NVDA 첫 줄(회사당 8개 유지로 11-20 인셉션 협상 줄이 빠짐).
 - 출처: [Washington Post(제목)](https://www.washingtonpost.com/technology/2026/11/25/hegseth-pentagon-officials-floated-using-wartime-law-reappoint-nvidia-ceo/) · [Yahoo Finance(Benzinga)](https://finance.yahoo.com/technology/articles/pete-hegseth-trump-officials-reportedly-013224994.html) · 공식 여부: 보도
 - 확신도: 중간(보도와 부인 모두 있음 — 사실 여부는 확인 못 함)
+- 앱 다시 게시: 성공 — 버전 348.
 - 웹 열기 막힘: https://www.benzinga.com/markets/tech/26/11/63659228/trump-cold-war-nvidia-jensen-huang · https://www.mediaite.com/media/news/jaw-dropping-report-reveals-hegseth-discussed-trump-using-wartime-law-to-force-nvidia-to-take-jensen-huang-back/
 
 ### W-20261126-1143-2 · 알림 · 이번 차례
