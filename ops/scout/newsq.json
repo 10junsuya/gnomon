@@ -1,6 +1,6 @@
 {
-"updated_kst": "2026-11-26 11:44",
-"rot": 148,
+"updated_kst": "2026-11-26 12:14",
+"rot": 29,
 "how": "Scout(프로그램)이 10분마다 모은 기사 제목·링크와 공시예요. Wren이 공식 출처로 확인한 뒤 회사 화면에 한국어로 반영해요. 본문은 받지 않아요.",
 "sources": {
 "Yahoo Finance": "120종목 확인 · 실패 0",
@@ -10,12 +10,62 @@
 "CNBC": "63건",
 "Bloomberg": "40건",
 "WSJ": "61건",
-"Reuters": "49건",
+"Reuters": "52건",
 "FinancialJuice": "100건",
 "SEC EDGAR": "실패 HTTPError",
 "Fox Business": "50건"
 },
 "items": [
+{
+"id": "e3934f0cca62",
+"t": "NVDA",
+"title": "Kioxia and NVIDIA Collaborate to Expand Effective High-Bandwidth Memory Capacity with SSDs",
+"url": "https://finance.yahoo.com/technology/ai/articles/kioxia-nvidia-collaborate-expand-effective-031000587.html",
+"pub": "2026-11-26T03:10:00+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-26T03:14:26+00:00"
+},
+{
+"id": "f5be72eaf925",
+"t": "TSM",
+"title": "Asian tech stocks jump as bargain buyers boost battered AI trade",
+"url": "https://finance.yahoo.com/markets/stocks/articles/asian-tech-stocks-jump-bargain-030316035.html",
+"pub": "2026-11-26T03:03:16+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-26T03:14:26+00:00"
+},
+{
+"id": "fbb4d2da818b",
+"t": "NVDA",
+"title": "Where Will the Money From Anthropic’s Record IPO Go Next: AI or Crypto?",
+"url": "https://unchainedcrypto.com/where-will-the-money-from-anthropics-record-ipo-go-next-ai-or-crypto/",
+"pub": "2026-11-26T03:00:07+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-26T03:14:26+00:00"
+},
+{
+"id": "16f8b7e27d88",
+"t": "NVDA",
+"title": "Nvidia’s Market Cap Falls Below Microsoft’s: Analyst Flags Five Overhangs For NVDA Stock",
+"url": "https://stocktwits.com/news-articles/markets/equity/nvidia-s-market-cap-falls-below-microsoft-s-analyst-flags-five-overhangs-for-nvda-stock/cNbx4KZR9Z3",
+"pub": "2026-11-26T02:39:42+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-26T03:14:26+00:00"
+},
+{
+"id": "803f16ea23c6",
+"t": "SPCX",
+"title": "SpaceX gets approval for 1 million data center satellites",
+"url": "https://finance.yahoo.com/technology/ai/articles/spacex-gets-approval-1-million-023847485.html",
+"pub": "2026-11-26T02:38:47+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-26T03:14:26+00:00"
+},
 {
 "id": "e4d8b835124f",
 "t": "NVDA",
@@ -25,6 +75,16 @@
 "src": "Yahoo Finance",
 "kind": "news",
 "seen": "2026-11-26T02:44:08+00:00"
+},
+{
+"id": "2236fee522ea",
+"t": "ORCL",
+"title": "Is Oracle the First AI Casualty as It Sheds 70% of Its Value?",
+"url": "https://beincrypto.com/oracle-stock-falls-70-ai-debt/",
+"pub": "2026-11-26T02:15:00+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-26T03:14:26+00:00"
 },
 {
 "id": "1ff54e5fe94d",
@@ -55,6 +115,26 @@
 "src": "Yahoo Finance",
 "kind": "news",
 "seen": "2026-11-26T02:44:08+00:00"
+},
+{
+"id": "9a6f040f0864",
+"t": "EBAY",
+"title": "eBay (EBAY) Stock Could Be 26% Undervalued After AI Toy Safety Scrutiny",
+"url": "https://finance.yahoo.com/markets/stocks/articles/ebay-ebay-stock-could-26-021017919.html",
+"pub": "2026-11-26T02:10:17+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-26T03:14:26+00:00"
+},
+{
+"id": "c0737a702d78",
+"t": "SPCX",
+"title": "Coinbase CEO on the Anthropic and SpaceX IPOs: Who Actually Made the Money?",
+"url": "https://beincrypto.com/coinbase-ceo-anthropic-spacex-ipo-money/",
+"pub": "2026-11-26T02:10:04+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-26T03:14:26+00:00"
 },
 {
 "id": "342662f83143",
@@ -95,6 +175,16 @@
 "src": "Yahoo Finance",
 "kind": "news",
 "seen": "2026-11-26T02:44:08+00:00"
+},
+{
+"id": "1ecc2016b073",
+"t": "NVDA",
+"title": "Nvidia Put on Negative Credit Watch by S&P Over ‘Key Man’ Risk: Moody’s Says Jensen Huang’s Return as CEO ‘Reduces Near-Term Uncertainty’",
+"url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-put-negative-credit-watch-013558626.html",
+"pub": "2026-11-26T01:35:58+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-26T03:14:26+00:00"
 },
 {
 "id": "5f51c225a0c9",
@@ -1468,6 +1558,16 @@
 "src": "Yahoo Finance",
 "kind": "news",
 "seen": "2026-11-25T21:14:25+00:00"
+},
+{
+"id": "6b2ea4b2cc38",
+"t": "ARQQ",
+"title": "Arqit Quantum Stock Just Scored a New 'Buy' Rating. Here's Why.",
+"url": "https://www.barchart.com/story/news/9009960/arqit-quantum-stock-just-scored-a-new-buy-rating-here-s-why",
+"pub": "2026-11-25T21:04:20+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-26T03:14:26+00:00"
 },
 {
 "id": "881d835081d9",
@@ -5603,6 +5703,16 @@
 "seen": "2026-11-25T16:20:21+00:00"
 },
 {
+"id": "721bce4e5bd5",
+"t": "TSLA",
+"title": "Li Auto’s Losses Narrow and a Weak Sales Outlook Isn’t Spoiling the Stock’s Rally",
+"url": "https://finance.yahoo.com/m/230ff6fc-7602-30bc-b73f-a9ef2d01578a/li-auto%E2%80%99s-losses-narrow-and-a.html",
+"pub": "2026-11-25T15:45:00+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-26T03:14:26+00:00"
+},
+{
 "id": "0539d3673e74",
 "t": "ORCL",
 "title": "Oracle Stocks Tumble 7.45%, Now 12.6% Below November Offering Price",
@@ -7913,114 +8023,34 @@
 "seen": "2026-11-25T14:44:19+00:00"
 },
 {
-"id": "4a0ef087a543",
-"t": "ISRG",
-"title": "Here's How Boston Scientific's Outlook Is Under Pressure",
-"url": "https://finance.yahoo.com/healthcare/articles/heres-boston-scientifics-outlook-under-132800881.html",
-"pub": "2026-11-25T13:28:00+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-25T14:44:19+00:00"
+"id": "393b85e24675",
+"t": "",
+"title": "Kioxia and Nvidia partner to boost effective high-bandwidth memory capacity with SSDs",
+"url": "https://www.financialjuice.com/News/9868780/Kioxia-and-Nvidia-partner-to-boost-effective-high-bandwidth-memory-capacity-with-SSDs.aspx?xy=rss",
+"pub": "2026-11-26T03:10:28+00:00",
+"src": "FinancialJuice",
+"kind": "market",
+"seen": "2026-11-26T03:14:26+00:00"
 },
 {
-"id": "593d9c9003f1",
-"t": "TSM",
-"title": "Huang Is Back as NVDA CEO: Quantum ETFs to Buy Before the Next AI Surge",
-"url": "https://finance.yahoo.com/markets/stocks/articles/huang-back-nvda-ceo-quantum-132700890.html",
-"pub": "2026-11-25T13:27:00+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-25T14:44:19+00:00"
+"id": "5f816874e80d",
+"t": "",
+"title": "Asian Stocks Rise as Investors Shrug Off U.S. Tariff Plan",
+"url": "https://www.wsj.com/finance/asian-stocks-rise-as-investors-shrug-off-u-s-tariff-plan-f8daa85b",
+"pub": "2026-11-26T03:09:00+00:00",
+"src": "WSJ",
+"kind": "market",
+"seen": "2026-11-26T03:14:26+00:00"
 },
 {
-"id": "4e1251238b1e",
-"t": "MA",
-"title": "Will Mastercard Accept Strengthen MA's Long-Term Growth Prospects?",
-"url": "https://finance.yahoo.com/markets/stocks/articles/mastercard-accept-strengthen-mas-long-132700345.html",
-"pub": "2026-11-25T13:27:00+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-25T15:05:32+00:00"
-},
-{
-"id": "d2de9b9d6de8",
-"t": "TXN",
-"title": "Analog Devices Stock Just Had Its Worst Day Since 1998",
-"url": "https://247wallst.com/investing/2026/11/25/analog-devices-stock-just-had-its-worst-day-since-1998/",
-"pub": "2026-11-25T13:22:43+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-25T13:44:08+00:00"
-},
-{
-"id": "04e6fc7ee0a3",
-"t": "LLY",
-"title": "Market Chatter: Novo Nordisk and Eli Lilly Prepare New Warning Labels for GLP-1 Drugs Over Eye Condition Risk",
-"url": "https://finance.yahoo.com/healthcare/articles/market-chatter-novo-nordisk-eli-132230427.html",
-"pub": "2026-11-25T13:22:30+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-25T13:58:47+00:00"
-},
-{
-"id": "bf2f93d74b29",
-"t": "WMT",
-"title": "Top 3 holiday consumer stocks: Walmart, Hasbro, and Ulta Beauty",
-"url": "https://finance.yahoo.com/markets/stocks/articles/top-3-holiday-consumer-stocks-132110158.html",
-"pub": "2026-11-25T13:21:10+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-25T14:15:15+00:00"
-},
-{
-"id": "29f94f68d5cc",
-"t": "LLY",
-"title": "3 Stocks With Dividend Yields of 4% or More to Buy in November",
-"url": "https://www.fool.com/investing/2026/11/25/3-stocks-with-dividend-yields-of-4-or-more-to-buy-in-november/",
-"pub": "2026-11-25T13:21:02+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-25T13:58:47+00:00"
-},
-{
-"id": "dda48a44161c",
-"t": "MU",
-"title": "Micron Stock and Other Memory Plays Will Bear the Brunt of This AI Pain",
-"url": "https://finance.yahoo.com/m/c60b7c01-7f3d-3700-ad68-951e994a6d38/micron-stock-and-other-memory.html",
-"pub": "2026-11-25T13:21:00+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-25T14:44:19+00:00"
-},
-{
-"id": "f02806c50c8f",
-"t": "NVDA",
-"title": "Nvidia Author Stephen Witt Says Huang’s Return Is “Not Great for AMD.” Here’s What AMD Loses",
-"url": "https://www.tikr.com/blog/jensen-huangs-return-is-not-great-for-amd-and-its-obvious-why",
-"pub": "2026-11-25T13:20:26+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-25T13:58:47+00:00"
-},
-{
-"id": "9ea25adb1af7",
-"t": "NVDA",
-"title": "How American Express Turned Berkshire’s $1.3 Billion Bet Into a $576 Million Annual Paycheck",
-"url": "https://www.fool.com/investing/2026/11/25/how-american-express-turned-berkshire-billion-bet-into-576-million-annual-paycheck/",
-"pub": "2026-11-25T13:20:02+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-25T13:44:08+00:00"
-},
-{
-"id": "7df36b6f4e25",
-"t": "CVX",
-"title": "Chevron Pays a Bigger Dividend, but Exxon May Be the Better Retirement Stock",
-"url": "https://247wallst.com/investing/2026/11/25/chevron-pays-a-bigger-dividend-but-exxon-may-be-the-better-retirement-stock/",
-"pub": "2026-11-25T13:17:55+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-25T13:58:47+00:00"
+"id": "1cc41d1fc9d2",
+"t": "",
+"title": "South Korea vows talks to protect its interests after US proposes new tariffs - Reuters",
+"url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPY1B1OWJBc2E3WjFvNTE3a0J5eHZuQmt0eUZ2Q2dWbWZ1RV9vNWJXX3V4OU43VE84Q1FWVGRXUDRGUkxScWVFMUNtU25fcThLRXg0Y2hkcUh1dE1zMXNNUlFRRGp0VTdJczJpY0xESEpFWDJXeG5VVC14N1RpZWdyQzRLZmhjOHgxMEV3NVNmQTlmdlNFc2JfakhuSjZCTTRSV0tOUXhhZ19CWDJxMGZkaHF5bHl3dkhqRDdIOFgtdFdzaFlieGc?oc=5",
+"pub": "2026-11-26T03:01:00+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-26T03:14:26+00:00"
 },
 {
 "id": "d53fa44f4886",
@@ -8031,6 +8061,16 @@
 "src": "Bloomberg",
 "kind": "market",
 "seen": "2026-11-26T02:44:08+00:00"
+},
+{
+"id": "68a261b4e172",
+"t": "",
+"title": "Hawkish Bank of Japan Member Seeks Quick Rate Hikes On Inflation",
+"url": "https://www.bloomberg.com/news/articles/2026-11-26/hawkish-bank-of-japan-member-seeks-quick-rate-hikes-on-inflation",
+"pub": "2026-11-26T02:28:30+00:00",
+"src": "Bloomberg",
+"kind": "market",
+"seen": "2026-11-26T03:14:26+00:00"
 },
 {
 "id": "09706a476bfa",
@@ -10978,46 +11018,6 @@
 "title": "MUFG on USD & Oil Correlation - FJElite",
 "url": "https://www.financialjuice.com/News/9867976/MUFG-on-USD--Oil-Correlation---FJElite.aspx?xy=rss",
 "pub": "2026-11-25T14:36:18+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-25T14:44:19+00:00"
-},
-{
-"id": "3bbf54915457",
-"t": "",
-"title": "Anthropic, PBC (ANT.O) | Stock Price & Latest News - Reuters",
-"url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1sMzJxaDFtcTdDUE1rWGVFZFVhMjJhX0RVSko2RlMtejdUdDlMY2MtZXdLYUh3aVc0WFBSMnlZR3hLc0MwVjNRUG00Q1Nxd1loR055XzZPZ0tvZk0t?oc=5",
-"pub": "2026-11-25T14:36:15+00:00",
-"src": "Reuters",
-"kind": "market",
-"seen": "2026-11-25T16:44:23+00:00"
-},
-{
-"id": "c38427ea9b9c",
-"t": "",
-"title": "BoE's Lombardelli: There's a higher risk of second-round effects.",
-"url": "https://www.financialjuice.com/News/9867975/BoEs-Lombardelli-Theres-a-higher-risk-of-second-round-effects.aspx?xy=rss",
-"pub": "2026-11-25T14:36:03+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-25T14:44:19+00:00"
-},
-{
-"id": "92f33075d564",
-"t": "",
-"title": "BoE's Lombardelli: We still expect food price inflation to rise next year to around 5%.",
-"url": "https://www.financialjuice.com/News/9867974/BoEs-Lombardelli-We-still-expect-food-price-inflation-to-rise-next-year-to-around-5.aspx?xy=rss",
-"pub": "2026-11-25T14:35:30+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-25T14:44:19+00:00"
-},
-{
-"id": "1bc42c944221",
-"t": "",
-"title": "BoE's Lombardelli: Indirect effects are less than expected.",
-"url": "https://www.financialjuice.com/News/9867973/BoEs-Lombardelli-Indirect-effects-are-less-than-expected.aspx?xy=rss",
-"pub": "2026-11-25T14:35:15+00:00",
 "src": "FinancialJuice",
 "kind": "market",
 "seen": "2026-11-25T14:44:19+00:00"
