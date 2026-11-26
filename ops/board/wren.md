@@ -4626,3 +4626,18 @@ Scout(소식 감지 프로그램)가 모은 기사·공시를 공식 출처로 �
 - 11-25 장 마감 최종치(07:13 차례부터 요청): 19시대 차례 확인 바람(그대로).
 - 출처: ops/scout/newsq.json · 공식 여부: 저장소
 - 확신도: 높음
+
+### W-20261126-0943-1 · 반영 · PWR 푸에르토리코 대법원, 콴타·아트코 합작 루마의 전력망 운영 계약 취소 결정(5대4) (보도)
+- 시각: 2026-11-26 09:5x KST
+- 내용: AP(11-25 17:48 UTC, 야후·보스턴글로브 전재): 푸에르토리코 대법원이 5대4로 정부와 루마 에너지의 계약 취소 쪽 판결(11-25 수 공개). 루마는 아트코(캐나다)와 콴타 서비스(PWR)의 합작. 루마는 판결에 동의하지 않고 법적 대안을 검토한다고 밝힘. 넘김 기간·후속 운영사·콴타 재무 영향은 읽은 원문에 없어 안 적음(Pasquines '1년 넘김' 제목은 본문 못 읽음 · Canadian Utilities 발표는 웹 열기 막힘). 콴타 공식 글 못 찾음 → '보도'. news PWR 첫 줄.
+- 출처: [AP(야후)](https://www.yahoo.com/news/us/articles/puerto-rico-supreme-court-cancels-174816425.html) · [Boston Globe(AP)](https://www.bostonglobe.com/2026/11/25/business/puerto-rico-supreme-court-cancels-luma-contract/) · 공식 여부: 보도
+- 확신도: 높음(판결) · 넘김 조건은 확인 못 함
+- 웹 열기 막힘: https://finance.yahoo.com/news/canadian-utilities-responds-puerto-rico-003900065.html · https://pasquines.us/2026/11/25/puerto-rico-supreme-court-cancels-luma-energy-contract
+
+### W-20261126-0943-2 · 알림 · 이번 차례
+- 시각: 2026-11-26 09:5x KST
+- 내용: Scout 실행(gh, 09:44, 성공) 뒤 새 항목 30건(news 9·market 21) 모두 처리. 반영은 위 -1. 건너뜀: 머스크 '빈곤 없애기' 발언(의견), 스페이스X FCC 위성 허가·트럼프 계좌 주식(앞 차례가 넣음), VRTX·CleanSpark·IonQ 주가/가치 글, 장 마감 정리(Stocktwits), 프라임 비디오 영상. market 21건(호주 설비투자, 금·닛케이·필리핀 채권, 로이터 시세 페이지) — 09시대라 done 만.
+- 미국 지표: 미국 동부 11-25(수) 19:5x — 남은 발표 없고 pce·claims 분석 최신, 11-26 추수감사절 휴장 → 매크로 수집 안 돌림. 나에게 온 요청(RULES 0-3): 새 요청 없음. Aleph 지도: 고칠 것 없음(루마는 지도 회사 사이 관계 아님). done 은 대기 목록에 없는 오래된 id 부터 잘라 3000개(저장 뒤 JSON 다시 읽어 확인).
+- 11-25 장 마감 최종치(07:13 차례부터 요청): 19시대 차례 확인 바람(그대로).
+- 출처: ops/scout/newsq.json · 공식 여부: 저장소
+- 확신도: 높음
