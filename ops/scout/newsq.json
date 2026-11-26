@@ -1,6 +1,6 @@
 {
-"updated_kst": "2026-11-26 11:26",
-"rot": 88,
+"updated_kst": "2026-11-26 11:44",
+"rot": 148,
 "how": "Scout(프로그램)이 10분마다 모은 기사 제목·링크와 공시예요. Wren이 공식 출처로 확인한 뒤 회사 화면에 한국어로 반영해요. 본문은 받지 않아요.",
 "sources": {
 "Yahoo Finance": "120종목 확인 · 실패 0",
@@ -10,12 +10,22 @@
 "CNBC": "63건",
 "Bloomberg": "40건",
 "WSJ": "61건",
-"Reuters": "51건",
+"Reuters": "49건",
 "FinancialJuice": "100건",
 "SEC EDGAR": "실패 HTTPError",
 "Fox Business": "50건"
 },
 "items": [
+{
+"id": "e4d8b835124f",
+"t": "NVDA",
+"title": "Asian stocks enjoy another bounce as tech holds court",
+"url": "https://finance.yahoo.com/markets/world-indices/articles/asian-stocks-enjoy-another-bounce-023024729.html",
+"pub": "2026-11-26T02:30:24+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-26T02:44:08+00:00"
+},
 {
 "id": "1ff54e5fe94d",
 "t": "CVLT",
@@ -25,6 +35,26 @@
 "src": "Yahoo Finance",
 "kind": "news",
 "seen": "2026-11-26T02:26:03+00:00"
+},
+{
+"id": "9f3ba210e688",
+"t": "AVGO",
+"title": "Why Retail Investors Are Watching AMD and AI Infrastructure Stocks After SpaceX Satellite News",
+"url": "https://finance.yahoo.com/technology/ai/articles/why-retail-investors-watching-amd-021215050.html",
+"pub": "2026-11-26T02:12:15+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-26T02:44:08+00:00"
+},
+{
+"id": "bbf75d5b93a9",
+"t": "NVT",
+"title": "nVent Electric (NVT) Stock Sees Modest Fair Value Cut As Analysts Weigh AI Growth And Costs",
+"url": "https://finance.yahoo.com/markets/stocks/articles/nvent-electric-nvt-stock-sees-021125154.html",
+"pub": "2026-11-26T02:11:25+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-26T02:44:08+00:00"
 },
 {
 "id": "342662f83143",
@@ -55,6 +85,26 @@
 "src": "Yahoo Finance",
 "kind": "news",
 "seen": "2026-11-26T02:14:26+00:00"
+},
+{
+"id": "70166928dd6f",
+"t": "GS",
+"title": "Goldman Sachs lays out three signals stock investors should watch",
+"url": "https://www.thestreet.com/investing/stocks/goldman-sachs-lays-out-three-signals-stock-investors-should-watch",
+"pub": "2026-11-26T01:37:00+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-26T02:44:08+00:00"
+},
+{
+"id": "5f51c225a0c9",
+"t": "NVDA",
+"title": "Pete Hegseth, Trump Officials Reportedly Floated Wartime Law to Force Jensen Huang’s Return as Nvidia CEO, But Pentagon Says It ‘Never Happened’",
+"url": "https://finance.yahoo.com/technology/articles/pete-hegseth-trump-officials-reportedly-013224994.html",
+"pub": "2026-11-26T01:32:24+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-26T02:44:08+00:00"
 },
 {
 "id": "0215d3b6651f",
@@ -7973,54 +8023,14 @@
 "seen": "2026-11-25T13:58:47+00:00"
 },
 {
-"id": "721bce4e5bd5",
-"t": "TSLA",
-"title": "Li Auto’s Losses Narrow and a Weak Sales Outlook Isn’t Spoiling the Stock’s Rally",
-"url": "https://finance.yahoo.com/m/230ff6fc-7602-30bc-b73f-a9ef2d01578a/li-auto%E2%80%99s-losses-narrow-and-a.html",
-"pub": "2026-11-25T13:17:00+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-25T14:44:19+00:00"
-},
-{
-"id": "f4b6e0752eb7",
-"t": "AVGO",
-"title": "Nvidia, chipmakers slide premarket; Dell falls despite upbeat outlook",
-"url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-chipmakers-slide-premarket-dell-131630827.html",
-"pub": "2026-11-25T13:16:30+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-25T13:44:08+00:00"
-},
-{
-"id": "2fc70def2a8c",
-"t": "ORCL",
-"title": "Investors Are 'Over' the AI Trade—and the Stock Market Is in Trouble",
-"url": "https://finance.yahoo.com/m/41615497-454e-30a0-832b-fb57024ef73b/investors-are-%27over%27-the-ai.html",
-"pub": "2026-11-25T13:15:11+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-25T14:44:19+00:00"
-},
-{
-"id": "89f9b16a5542",
-"t": "OKTA",
-"title": "Okta (OKTA) Q3 Earnings on the Horizon: Analysts' Insights on Key Performance Measures",
-"url": "https://finance.yahoo.com/markets/stocks/articles/okta-okta-q3-earnings-horizon-131504278.html",
-"pub": "2026-11-25T13:15:04+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-25T14:44:19+00:00"
-},
-{
-"id": "d763a037db17",
-"t": "NVDA",
-"title": "Why Are Freeport McMoRan (FCX) Shares Jumping On AI Driven Copper Demand?",
-"url": "https://finance.yahoo.com/markets/stocks/articles/why-freeport-mcmoran-fcx-shares-131503525.html",
-"pub": "2026-11-25T13:15:03+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-25T13:44:08+00:00"
+"id": "d53fa44f4886",
+"t": "",
+"title": "Rupee Hits 8-Month High as India November Stock Inflows Reach $14.7 Billion: INR",
+"url": "https://www.bloomberg.com/news/newsletters/2026-11-26/rupee-hits-8-month-high-as-india-november-stock-inflows-reach-14-7-billion",
+"pub": "2026-11-26T02:32:22+00:00",
+"src": "Bloomberg",
+"kind": "market",
+"seen": "2026-11-26T02:44:08+00:00"
 },
 {
 "id": "09706a476bfa",
@@ -11008,16 +11018,6 @@
 "title": "BoE's Lombardelli: Indirect effects are less than expected.",
 "url": "https://www.financialjuice.com/News/9867973/BoEs-Lombardelli-Indirect-effects-are-less-than-expected.aspx?xy=rss",
 "pub": "2026-11-25T14:35:15+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-25T14:44:19+00:00"
-},
-{
-"id": "f05dcebf86fc",
-"t": "",
-"title": "BoE Gov. Bailey: The UK labour market is no longer softening; it has flattened out.",
-"url": "https://www.financialjuice.com/News/9867972/BoE-Gov-Bailey-The-UK-labour-market-is-no-longer-softening-it-has-flattened-out.aspx?xy=rss",
-"pub": "2026-11-25T14:34:05+00:00",
 "src": "FinancialJuice",
 "kind": "market",
 "seen": "2026-11-25T14:44:19+00:00"
