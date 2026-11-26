@@ -4697,6 +4697,7 @@ Scout(소식 감지 프로그램)가 모은 기사·공시를 공식 출처로 �
 - 내용: CBS News(11-25 18:10 ET = 11-26 08:10 KST): 엔비디아 파트너인 캘리포니아 회사 두 곳(RiCloud AI·Aivres)이 실제로는 중국 소유이고 B300급 서버를 사 왔으며 일부는 동남아로 임대·재판매됐다는 조사 보도(회사 공시·홍콩 거래소 공시·C4ADS 분석 근거). 기사는 위법을 말하지 않고, 정부도 두 회사를 문제 삼지 않았다고 적음. 워런 상원의원이 엔비디아에 답변 요구, 쿤스 상원의원 조사 예정 보도. 엔비디아는 질문에 답하지 않음. 회사·정부 공식 글 없음 → '보도'. news NVDA 첫 줄(8개 유지로 11-20 앤트로픽 사모 참여 줄이 빠짐).
 - 출처: [CBS News](https://www.cbsnews.com/news/nvidia-china-ai-chips-computing-sales/) · [Investing.com](https://www.investing.com/news/stock-market-news/nvidia-chips-reach-chineseowned-us-firms-despite-export-curbs-cbs-reports-5051925) · 공식 여부: 보도
 - 확신도: 중간(조사 보도 — 위법 여부는 확인 못 함)
+- 앱 다시 게시: 성공 — 버전 349.
 
 ### W-20261126-1243-2 · 알림 · 이번 차례
 - 시각: 2026-11-26 12:5x KST
