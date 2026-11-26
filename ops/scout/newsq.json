@@ -1,16 +1,16 @@
 {
-"updated_kst": "2026-11-26 15:45",
-"rot": 92,
+"updated_kst": "2026-11-26 15:48",
+"rot": 152,
 "how": "Scout(프로그램)이 10분마다 모은 기사 제목·링크와 공시예요. Wren이 공식 출처로 확인한 뒤 회사 화면에 한국어로 반영해요. 본문은 받지 않아요.",
 "sources": {
 "Yahoo Finance": "120종목 확인 · 실패 0",
-"GlobeNewswire": "0건",
+"GlobeNewswire": "실패 HTTPError",
 "PR Newswire": "0건",
 "Business Wire": "0건",
 "CNBC": "63건",
 "Bloomberg": "40건",
 "WSJ": "61건",
-"Reuters": "100건",
+"Reuters": "48건",
 "FinancialJuice": "100건",
 "SEC EDGAR": "실패 HTTPError",
 "Fox Business": "50건"
@@ -45,6 +45,16 @@
 "src": "Yahoo Finance",
 "kind": "news",
 "seen": "2026-11-26T06:45:06+00:00"
+},
+{
+"id": "6b0176bddd8c",
+"t": "VTRS",
+"title": "Is Viatris (VTRS) A Bargain On Its Pacira Deal And Product Pipeline?",
+"url": "https://finance.yahoo.com/healthcare/articles/viatris-vtrs-bargain-pacira-deal-061842102.html",
+"pub": "2026-11-26T06:18:42+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-26T06:48:51+00:00"
 },
 {
 "id": "7794e075a2bc",
@@ -85,6 +95,16 @@
 "src": "Yahoo Finance",
 "kind": "news",
 "seen": "2026-11-26T06:45:06+00:00"
+},
+{
+"id": "60e095b59212",
+"t": "NXE",
+"title": "NexGen Energy (TSX:NXE) Secures Final Rook I Approval, Is The 3.5x P B Premium Justified?",
+"url": "https://finance.yahoo.com/energy/articles/nexgen-energy-tsx-nxe-secures-061249858.html",
+"pub": "2026-11-26T06:12:49+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-26T06:48:51+00:00"
 },
 {
 "id": "7dd19138531f",
@@ -8003,24 +8023,14 @@
 "seen": "2026-11-25T15:05:32+00:00"
 },
 {
-"id": "6b6a49f20c99",
-"t": "AMD",
-"title": "Scott Galloway Predicts Nvidia Stock Will Be “Up at the End of the Year.” Six Weeks Left",
-"url": "https://www.tikr.com/blog/scott-galloway-nvidia-stock-prediction-end-of-year",
-"pub": "2026-11-25T14:05:28+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-25T14:44:19+00:00"
-},
-{
-"id": "0752268a8390",
-"t": "NVDA",
-"title": "Is Annaly Capital Stock a Buy, Sell, or Hold About 25% Below Its 52-Week High?",
-"url": "https://www.fool.com/investing/2026/11/25/is-annaly-capital-stock-a-buy-sell-or-hold-about-25-below-its-52-week-high/",
-"pub": "2026-11-25T14:05:02+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-25T14:15:15+00:00"
+"id": "c7dca903d462",
+"t": "",
+"title": "Why the AI Panic May Be Premature",
+"url": "https://www.bloomberg.com/news/videos/2026-11-26/why-the-ai-panic-may-be-premature-video",
+"pub": "2026-11-26T06:46:26+00:00",
+"src": "Bloomberg",
+"kind": "market",
+"seen": "2026-11-26T06:48:51+00:00"
 },
 {
 "id": "6f8c470f6c3e",
@@ -8221,6 +8231,16 @@
 "src": "Bloomberg",
 "kind": "market",
 "seen": "2026-11-26T06:45:06+00:00"
+},
+{
+"id": "83d94840410d",
+"t": "",
+"title": "Chinese Carmakers Double Sales in Europe on Hybrid Demand",
+"url": "https://www.bloomberg.com/news/articles/2026-11-26/chinese-carmakers-double-sales-in-europe-on-hybrid-demand",
+"pub": "2026-11-26T06:15:00+00:00",
+"src": "Bloomberg",
+"kind": "market",
+"seen": "2026-11-26T06:48:51+00:00"
 },
 {
 "id": "14ff77f0066f",
@@ -8963,6 +8983,16 @@
 "seen": "2026-11-25T23:44:37+00:00"
 },
 {
+"id": "b38d2c50b43f",
+"t": "",
+"title": "Traton SE (8TRA.DE) | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5XWjRjU1R0YXFHc1lWdGw4Q2oxNGh4dldiQ1BUVkRSZkdtcUs1SW9qLTExQTctbGxEMnFQbUF0UGhqUnpMRmRlSWNIZUItVDZqRDBQSkNwQ05PTVVKUWRr?oc=5",
+"pub": "2026-11-25T23:06:07+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-26T06:48:51+00:00"
+},
+{
 "id": "f22ff806fb2e",
 "t": "",
 "title": "Invesco RAFI Developed Mkts ex-US SM ETF (PDN.N) | Stock Price & Latest News - Reuters",
@@ -9471,6 +9501,16 @@
 "src": "FinancialJuice",
 "kind": "market",
 "seen": "2026-11-25T21:06:44+00:00"
+},
+{
+"id": "9fdab746e08d",
+"t": "",
+"title": "Treasury Yields Extend Fall After U.S. Data Flurry",
+"url": "https://www.wsj.com/finance/investing/u-s-treasury-yields-fall-ahead-of-pce-inflation-data-dfeb7995",
+"pub": "2026-11-25T21:02:00+00:00",
+"src": "WSJ",
+"kind": "market",
+"seen": "2026-11-26T06:48:51+00:00"
 },
 {
 "id": "c934f22f1df1",
@@ -10981,46 +11021,6 @@
 "src": "Reuters",
 "kind": "market",
 "seen": "2026-11-25T18:14:34+00:00"
-},
-{
-"id": "376d72deb168",
-"t": "",
-"title": "ECB in No Rush to Increase Banks’ Minimum Reserves After Debate",
-"url": "https://www.bloomberg.com/news/articles/2026-11-25/ecb-in-no-rush-to-increase-banks-minimum-reserves-after-debate",
-"pub": "2026-11-25T15:30:24+00:00",
-"src": "Bloomberg",
-"kind": "market",
-"seen": "2026-11-25T15:46:42+00:00"
-},
-{
-"id": "04acccd96cda",
-"t": "",
-"title": "EIA Crude Cushing Inventories  Actual -0.534M (Forecast -, Previous -1.209M)",
-"url": "https://www.financialjuice.com/News/9868051/EIA-Crude-Cushing-Inventories--Actual--0534M-Forecast---Previous--1209M.aspx?xy=rss",
-"pub": "2026-11-25T15:30:16+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-25T15:46:42+00:00"
-},
-{
-"id": "2917060255e0",
-"t": "",
-"title": "EIA Crude Oil Inventories Actual 1.109M (Forecast 2M, Previous 3.380M)",
-"url": "https://www.financialjuice.com/News/9868050/EIA-Crude-Oil-Inventories-Actual-1109M-Forecast-2M-Previous-3380M.aspx?xy=rss",
-"pub": "2026-11-25T15:30:02+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-25T15:46:42+00:00"
-},
-{
-"id": "cbc3a3fda002",
-"t": "",
-"title": "EIA Distillate Inventories Actual 0.715M (Forecast 1.5M, Previous 1.571M)",
-"url": "https://www.financialjuice.com/News/9868049/EIA-Distillate-Inventories-Actual-0715M-Forecast-15M-Previous-1571M.aspx?xy=rss",
-"pub": "2026-11-25T15:30:02+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-25T15:46:42+00:00"
 }
 ]
 }
