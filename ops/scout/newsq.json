@@ -1,16 +1,16 @@
 {
-"updated_kst": "2026-11-26 13:44",
-"rot": 90,
+"updated_kst": "2026-11-26 13:47",
+"rot": 150,
 "how": "Scout(프로그램)이 10분마다 모은 기사 제목·링크와 공시예요. Wren이 공식 출처로 확인한 뒤 회사 화면에 한국어로 반영해요. 본문은 받지 않아요.",
 "sources": {
 "Yahoo Finance": "120종목 확인 · 실패 0",
-"GlobeNewswire": "1건",
+"GlobeNewswire": "실패 HTTPError",
 "PR Newswire": "0건",
 "Business Wire": "0건",
 "CNBC": "63건",
 "Bloomberg": "40건",
 "WSJ": "61건",
-"Reuters": "58건",
+"Reuters": "59건",
 "FinancialJuice": "100건",
 "SEC EDGAR": "실패 HTTPError",
 "Fox Business": "50건"
@@ -8163,6 +8163,16 @@
 "seen": "2026-11-26T03:14:26+00:00"
 },
 {
+"id": "f00687a302fb",
+"t": "",
+"title": "American Airlines Group Inc. (AAL.O) | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBQV0VRQ2Z5V3VjOW5OZzFtdGZfTExsTFJna2RkUXVKNXVTS190eUMxYWticklLcnQ1dURkb3hpYm5TN09FdUhzekZZNE1Kd21GajVRWTZTYXl4SmtV?oc=5",
+"pub": "2026-11-26T02:55:04+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-26T04:47:25+00:00"
+},
+{
 "id": "4fa06d01d216",
 "t": "",
 "title": "Amazon.com Inc (AMZN.O) | Stock Price & Latest News - Reuters",
@@ -11008,16 +11018,6 @@
 "title": "BoE Gov. Bailey: It is more likely than not that we will have to raise interest rates more if energy prices stay elevated.",
 "url": "https://www.financialjuice.com/News/9867999/BoE-Gov-Bailey-It-is-more-likely-than-not-that-we-will-have-to-raise-interest-rates-more-if-energy-prices-stay-elevated.aspx?xy=rss",
 "pub": "2026-11-25T14:54:52+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-25T15:05:32+00:00"
-},
-{
-"id": "f988be64b550",
-"t": "",
-"title": "BoE's Mann: My job is to bring down inflation risk premia.",
-"url": "https://www.financialjuice.com/News/9867998/BoEs-Mann-My-job-is-to-bring-down-inflation-risk-premia.aspx?xy=rss",
-"pub": "2026-11-25T14:52:10+00:00",
 "src": "FinancialJuice",
 "kind": "market",
 "seen": "2026-11-25T15:05:32+00:00"
