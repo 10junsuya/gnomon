@@ -1,6 +1,6 @@
 {
-"updated_kst": "2026-11-26 15:48",
-"rot": 152,
+"updated_kst": "2026-11-26 16:14",
+"rot": 33,
 "how": "Scout(프로그램)이 10분마다 모은 기사 제목·링크와 공시예요. Wren이 공식 출처로 확인한 뒤 회사 화면에 한국어로 반영해요. 본문은 받지 않아요.",
 "sources": {
 "Yahoo Finance": "120종목 확인 · 실패 0",
@@ -10,7 +10,7 @@
 "CNBC": "63건",
 "Bloomberg": "40건",
 "WSJ": "61건",
-"Reuters": "48건",
+"Reuters": "100건",
 "FinancialJuice": "100건",
 "SEC EDGAR": "실패 HTTPError",
 "Fox Business": "50건"
@@ -65,6 +65,16 @@
 "src": "Yahoo Finance",
 "kind": "news",
 "seen": "2026-11-26T06:45:06+00:00"
+},
+{
+"id": "4554a200241a",
+"t": "APLD",
+"title": "Is Applied Digital (APLD) Undervalued As Its New 18 Year Lease Lifts Revenue Visibility?",
+"url": "https://finance.yahoo.com/markets/stocks/articles/applied-digital-apld-undervalued-18-061644025.html",
+"pub": "2026-11-26T06:16:44+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-26T07:14:25+00:00"
 },
 {
 "id": "ca73e16f2703",
@@ -8013,14 +8023,84 @@
 "seen": "2026-11-25T15:14:55+00:00"
 },
 {
-"id": "7f06ca34428f",
-"t": "ADI",
-"title": "Analog Devices: 3 Key Takeaways for Long-Term Investors",
-"url": "https://www.fool.com/earnings/takeaways/2026/11/25/analog-devices-3-key-takeaways-for-long-term-investors/",
-"pub": "2026-11-25T14:05:36+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-25T15:05:32+00:00"
+"id": "4c3c85841919",
+"t": "",
+"title": "China's commerce ministry, on new US tariffs: US Section 301 investigation is an act of unilateralism, China firmly opposes it",
+"url": "https://www.financialjuice.com/News/9868990/Chinas-commerce-ministry-on-new-US-tariffs-US-Section-301-investigation-is-an-act-of-unilateralism-China-firmly-opposes-it.aspx?xy=rss",
+"pub": "2026-11-26T07:10:04+00:00",
+"src": "FinancialJuice",
+"kind": "market",
+"seen": "2026-11-26T07:14:25+00:00"
+},
+{
+"id": "574a03a2f85f",
+"t": "",
+"title": "China's foreign ministry, on US tariffs announcement: China will continue to take necessary measures to safeguard its rights and interests",
+"url": "https://www.financialjuice.com/News/9868989/Chinas-foreign-ministry-on-US-tariffs-announcement-China-will-continue-to-take-necessary-measures-to-safeguard-its-rights-and-interests.aspx?xy=rss",
+"pub": "2026-11-26T07:05:30+00:00",
+"src": "FinancialJuice",
+"kind": "market",
+"seen": "2026-11-26T07:14:25+00:00"
+},
+{
+"id": "02322719816d",
+"t": "",
+"title": "China Foreign Ministry, on US tariffs announcement: So-called overcapacity should not be used as a pretext for political manipulation.",
+"url": "https://www.financialjuice.com/News/9868988/China-Foreign-Ministry-on-US-tariffs-announcement-So-called-overcapacity-should-not-be-used-as-a-pretext-for-political-manipulation.aspx?xy=rss",
+"pub": "2026-11-26T07:05:27+00:00",
+"src": "FinancialJuice",
+"kind": "market",
+"seen": "2026-11-26T07:14:25+00:00"
+},
+{
+"id": "bc20bc528664",
+"t": "",
+"title": "China foreign ministry, on US tariffs announcement: Relevant issue should be resolved through dialogue and consultations",
+"url": "https://www.financialjuice.com/News/9868987/China-foreign-ministry-on-US-tariffs-announcement-Relevant-issue-should-be-resolved-through-dialogue-and-consultations.aspx?xy=rss",
+"pub": "2026-11-26T07:05:19+00:00",
+"src": "FinancialJuice",
+"kind": "market",
+"seen": "2026-11-26T07:14:25+00:00"
+},
+{
+"id": "0d38f3bdf39e",
+"t": "",
+"title": "China foreign ministry, on US tariffs announcement: Tariff wars and trade wars serve no one's interests",
+"url": "https://www.financialjuice.com/News/9868986/China-foreign-ministry-on-US-tariffs-announcement-Tariff-wars-and-trade-wars-serve-no-ones-interests.aspx?xy=rss",
+"pub": "2026-11-26T07:05:00+00:00",
+"src": "FinancialJuice",
+"kind": "market",
+"seen": "2026-11-26T07:14:25+00:00"
+},
+{
+"id": "11d95e9546b2",
+"t": "",
+"title": "Norwegian Mainland GDP MoM Actual 0.2% (Forecast -, Previous 0.0%)",
+"url": "https://www.financialjuice.com/News/9868971/Norwegian-Mainland-GDP-MoM-Actual-02-Forecast---Previous-00.aspx?xy=rss",
+"pub": "2026-11-26T07:00:22+00:00",
+"src": "FinancialJuice",
+"kind": "market",
+"seen": "2026-11-26T07:14:25+00:00"
+},
+{
+"id": "ffb6a8d779dd",
+"t": "",
+"title": "German GfK Consumer Sentiment Actual -30.2 (Forecast -30, Previous -30.8)",
+"url": "https://www.financialjuice.com/News/9868970/German-GfK-Consumer-Sentiment-Actual--302-Forecast--30-Previous--308.aspx?xy=rss",
+"pub": "2026-11-26T07:00:16+00:00",
+"src": "FinancialJuice",
+"kind": "market",
+"seen": "2026-11-26T07:14:25+00:00"
+},
+{
+"id": "8147b581b5e4",
+"t": "",
+"title": "U.S. Treasurys Show ‘Remarkable Resilience’ to Upbeat Data",
+"url": "https://www.wsj.com/finance/long-term-jgb-yields-rise-as-chip-stocks-rebound-c8e82816",
+"pub": "2026-11-26T06:54:00+00:00",
+"src": "WSJ",
+"kind": "market",
+"seen": "2026-11-26T07:14:25+00:00"
 },
 {
 "id": "c7dca903d462",
@@ -8031,6 +8111,16 @@
 "src": "Bloomberg",
 "kind": "market",
 "seen": "2026-11-26T06:48:51+00:00"
+},
+{
+"id": "4dd605648b5d",
+"t": "",
+"title": "FTSE 100 to Rebound Following Another Tumultuous Session - Live Updates",
+"url": "https://www.bloomberg.com/news/live-blog/2026-11-26/ftse-100-live-updates-pound-bonds-dollar-ai-stocks-gold-prices-tube-strike-boe-report-what-s-moving-uk-markets-right-now-markets-today",
+"pub": "2026-11-26T06:45:44+00:00",
+"src": "Bloomberg",
+"kind": "market",
+"seen": "2026-11-26T07:14:25+00:00"
 },
 {
 "id": "6f8c470f6c3e",
@@ -8123,6 +8213,16 @@
 "seen": "2026-11-26T06:45:06+00:00"
 },
 {
+"id": "4abb36573908",
+"t": "",
+"title": "Viettel, Singtel start building submarine cable linking Vietnam, Singapore and Thailand - Reuters",
+"url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQOGFBR0dJcm9mODFxZUJpNGpNUjd4OEhVMXc5MHdEQm9BVmdhbjZZMUlIZTBvSlMzRUtMdkFvdUtWcGtUN2o4XzduOWtYRUNwZl9rUTFFTG1TN25GVEtZdUNnYkZSN0Zmb1lsQmdrTmJCZEdEcHVEUmQ0U1V2S05pOFRrMHBVajJqbzVYcjlqQWZvUGo2VWJLSXpUN0h6RUR4YS12ai1rTk84SmY2NGtXQ1JWcW9jYUJwUGFHUDZkRWZjU3c?oc=5",
+"pub": "2026-11-26T06:35:00+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-26T07:14:25+00:00"
+},
+{
 "id": "45bd81d059f7",
 "t": "",
 "title": "FX Implied Volatility",
@@ -8193,6 +8293,16 @@
 "seen": "2026-11-26T06:45:06+00:00"
 },
 {
+"id": "b461ce9483f9",
+"t": "",
+"title": "Vietnam Weighs Delaying Nuclear Power Plants Beyond 2035 Target",
+"url": "https://www.bloomberg.com/news/articles/2026-11-26/vietnam-weighs-delaying-nuclear-power-plants-beyond-2035-target",
+"pub": "2026-11-26T06:32:14+00:00",
+"src": "Bloomberg",
+"kind": "market",
+"seen": "2026-11-26T07:14:25+00:00"
+},
+{
 "id": "c257a83d1cb8",
 "t": "",
 "title": "Oil Rises as Houthis Attack Two Saudi Ports on Red Sea",
@@ -8211,6 +8321,16 @@
 "src": "Bloomberg",
 "kind": "market",
 "seen": "2026-11-26T06:45:06+00:00"
+},
+{
+"id": "24d6938a78fe",
+"t": "",
+"title": "Guinea Lawmakers Approve Law to Establish Sovereign Wealth Fund",
+"url": "https://www.bloomberg.com/news/articles/2026-11-26/guinea-lawmakers-approve-law-to-establish-sovereign-wealth-fund",
+"pub": "2026-11-26T06:27:47+00:00",
+"src": "Bloomberg",
+"kind": "market",
+"seen": "2026-11-26T07:14:25+00:00"
 },
 {
 "id": "9485fe148528",
@@ -8331,6 +8451,16 @@
 "src": "Bloomberg",
 "kind": "market",
 "seen": "2026-11-26T06:14:55+00:00"
+},
+{
+"id": "10c554a9d607",
+"t": "",
+"title": "Diesel’s Slump Offers Brief Respite From Global Energy Turmoil",
+"url": "https://www.bloomberg.com/news/articles/2026-11-26/diesel-s-slump-offers-brief-respite-from-global-energy-turmoil",
+"pub": "2026-11-26T05:32:58+00:00",
+"src": "Bloomberg",
+"kind": "market",
+"seen": "2026-11-26T07:14:25+00:00"
 },
 {
 "id": "e935c4593137",
@@ -9601,6 +9731,16 @@
 "src": "Bloomberg",
 "kind": "market",
 "seen": "2026-11-25T21:06:44+00:00"
+},
+{
+"id": "5f06c160a45d",
+"t": "",
+"title": "JVC.F - | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBmdEpIcnFhbzRfR1hjYWRCTFlCTEgzSWE0bEtTaWpYc1lncnpuS2NJNlVNMmE5MFFUTnJfamctVVdoQmpTcW1nV3lMSXBSV2hxRFpHRVBsUWl2alA0SmNGejJ5b25tWFRIOGFSSA?oc=5",
+"pub": "2026-11-25T20:39:27+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-26T07:14:25+00:00"
 },
 {
 "id": "ca7cf797fb02",
@@ -10881,146 +11021,6 @@
 "src": "Reuters",
 "kind": "market",
 "seen": "2026-11-25T18:09:13+00:00"
-},
-{
-"id": "54977b4d961e",
-"t": "",
-"title": "O3191O.T - | Stock Price & Latest News - Reuters",
-"url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1UT05xV3kwMUpxZDNxWWhHR0lUWXM1Z0lIaGgwUTQxQVZaZTF1OFBRZllTT1NCYWhDN181X0c1d0NGdjZHTFJwVnRjbFF2a3lsOHBWRzRDV2RkcUpSOWJuc3ZrVnFfQlpmU2VOaUhnS3dDcks0bVkzUVlGUG1JZw?oc=5",
-"pub": "2026-11-25T15:36:35+00:00",
-"src": "Reuters",
-"kind": "market",
-"seen": "2026-11-25T19:07:59+00:00"
-},
-{
-"id": "c143cd4a807d",
-"t": "",
-"title": "MRLN.O - | Stock Price & Latest News - Reuters",
-"url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE0wSlpNZXJXNkpoanVoNWNRZDY1YmdqSUZVazd4RllVUEFsOVoyVTAtNDFtbWh4TUJMOFhHSU9fejBXSGFDOXE2YWt2ZUZJVEJBVGFCQnNFVEloZFhjT05IODlIZ1R3WEpDT2dwd193?oc=5",
-"pub": "2026-11-25T15:35:54+00:00",
-"src": "Reuters",
-"kind": "market",
-"seen": "2026-11-26T00:44:37+00:00"
-},
-{
-"id": "4028571c3795",
-"t": "",
-"title": "BoE's Mann: Resilience suggests policy has not been restrictive.",
-"url": "https://www.financialjuice.com/News/9868069/BoEs-Mann-Resilience-suggests-policy-has-not-been-restrictive.aspx?xy=rss",
-"pub": "2026-11-25T15:35:44+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-25T15:46:42+00:00"
-},
-{
-"id": "904f1e634753",
-"t": "",
-"title": "7575.JSFx - | Stock Price & Latest News - Reuters",
-"url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBUNUFDN0xQVUkyRWNtRFlhM2FhYy0xZ0tmYzVSMmlqMzRyM19sRVBsU3FONkpGTWRoV0gyYWRaQy10QjdMN3liTEpFRVc1emthLWZxc1Z4VFp6SUo2a213SWkwdE1DTTFNNzZkcGtvU2doaFRFOUpYOHBfdw?oc=5",
-"pub": "2026-11-25T15:34:04+00:00",
-"src": "Reuters",
-"kind": "market",
-"seen": "2026-11-26T01:14:06+00:00"
-},
-{
-"id": "db0983bc0256",
-"t": "",
-"title": "300046.SZh - | Stock Price & Latest News - Reuters",
-"url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPWmtrMkVqQ2pFUlNlaDhkalFObFRmZENFSi0tQ3dycVY4SHNUcThxbUlKMEp5WU45blJYNWJRZGh6YzBpdXNDWF9hX0dyejlWQ05PT3FBZUhoMDFwbnJOZ29EeVNWVmVmd1VMSDhwbWd6RVktQm1YUFk2MUs2TGd2OWxsV1lFNmU3aGc?oc=5",
-"pub": "2026-11-25T15:34:02+00:00",
-"src": "Reuters",
-"kind": "market",
-"seen": "2026-11-25T18:09:13+00:00"
-},
-{
-"id": "55f5a5cc7db7",
-"t": "",
-"title": "1668ta.HZ - | Stock Price & Latest News - Reuters",
-"url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9fYkRQWGl0Wkh6S1VVVkdJY051WXU3T0ZNZ1NlRDhSaW00aEJuLUx1OWhKZmdVVW1VZERiTlRmVjQ1X1EtekJjSm5wdkVIaGdSM1VJejE3QW5aaHJRdVJwbDhBN0lTLTgtMmhfeTJPMF9EUXRlZU9oaW1xUXdMSVk?oc=5",
-"pub": "2026-11-25T15:34:00+00:00",
-"src": "Reuters",
-"kind": "market",
-"seen": "2026-11-26T04:14:27+00:00"
-},
-{
-"id": "333f6a5b3713",
-"t": "",
-"title": "SRAIL.BN - Reuters",
-"url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQU2NzQTBHMF9WZXFLMlJWSHBnbDdQYU9IOG5uRkt3d2k3Nk1DNHpaQWt2dE5Gc0h3ZmF6b3diMWduc2lHYkExNDhFNEwtTm1JV2FOQnJnbVNPN2M1ZFZPaTN5RFRqN2diYzFkQ1A3TVRKczRYdE1aZFBfTlFsSnRuMWRlTzRGa242cnZlZXF4S3JKUQ?oc=5",
-"pub": "2026-11-25T15:33:26+00:00",
-"src": "Reuters",
-"kind": "market",
-"seen": "2026-11-25T18:09:13+00:00"
-},
-{
-"id": "f9d3970693b1",
-"t": "",
-"title": "4WF.SG - Reuters",
-"url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNTUMzbUZhQS1JNzhkdWpRTDkxOTZrQW5OQUdfNHI1eUJfaVktOXQ3YXcwZ2k4SW42amJydm9sWkhzcWdFN2pnNDk4azJGa1VDWUVwZXZDMkh5dmFFVGNVcTk4U3ZxajlYMmVaUWphcFlkN3hka1V4aWkyZVJCcmVLUnJSOVNUYmxZaUZPelR4QQ?oc=5",
-"pub": "2026-11-25T15:32:59+00:00",
-"src": "Reuters",
-"kind": "market",
-"seen": "2026-11-25T19:14:43+00:00"
-},
-{
-"id": "8de18290439a",
-"t": "",
-"title": "4286.JSFx - | Stock Price & Latest News - Reuters",
-"url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQZHgwMVhUOFg1MnNqYzlVOHE5TTBZdlFLYlZzR2FNX01MYWdDWFY4S3lEUG5DUW9YZEZtcHVoM1NybVc5d210OTNGeWNVQklCQm0zaHhwcnhYbFAtdXpwVjZYYmJ5VzFZU0tZV0h0VVpTRWxfVEdTLWlGc28zNER3VXVkQjZOUzAwcVpSSm5nVzJpcE0?oc=5",
-"pub": "2026-11-25T15:31:47+00:00",
-"src": "Reuters",
-"kind": "market",
-"seen": "2026-11-26T00:44:37+00:00"
-},
-{
-"id": "887d4ebf7fea",
-"t": "",
-"title": "SIVN.AX%5EF06 - | Stock Price & Latest News - Reuters",
-"url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOdUViUVNWNDU1cklweFVPelZaSzFOSVpMV2drU0daNk4zV0k0MnFUREdRb2lVZEJEVnZWMXRadkZEdTNrYnN5Q25Jd0dLcVhWSFk0XzZfVjdfd1RGSnRRWjR0ZXprUlBMWVl6RnBnWmRMd2RkNG9KLTl4bEswajV0enU1YkZaOFAwSnE4?oc=5",
-"pub": "2026-11-25T15:31:39+00:00",
-"src": "Reuters",
-"kind": "market",
-"seen": "2026-11-25T17:44:05+00:00"
-},
-{
-"id": "6ec4b2e8479a",
-"t": "",
-"title": "000995.SZh - | Stock Price & Latest News - Reuters",
-"url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOLXU2WlBKd01OUGdMTWxWbnZhaEEzYTRwcnhiRXd0bHc3NERQUEhnZHh0TEFTSzdURVJSc1RPSnhWczNBNi1LamdQc0l1aGt0ajlzUkNyUkNXX0tWQWdrSmIwS3VDa1JQbHVUS1VxTWZ2MTlud2lSazlwR3lmUFY3WDdwSGZ5a1VYOWVFVA?oc=5",
-"pub": "2026-11-25T15:31:38+00:00",
-"src": "Reuters",
-"kind": "market",
-"seen": "2026-11-26T01:10:48+00:00"
-},
-{
-"id": "85a7289b4eac",
-"t": "",
-"title": "MD.DG - | Stock Price & Latest News - Reuters",
-"url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9NaS1KRVpiWUJUeUtJYm1pZlNVenVFcGstMUliQ05nekE4U1Z5MlQweWJ6SHR6VWthUmVrY0NjazBqbzZkNEEtNFh5QjBMa0Q1M09USlRUelJHVTc4YTBtREpxNTlEb19Gc3FtOEVXaW1HekxqdUE?oc=5",
-"pub": "2026-11-25T15:31:35+00:00",
-"src": "Reuters",
-"kind": "market",
-"seen": "2026-11-26T00:44:37+00:00"
-},
-{
-"id": "978597cb31f6",
-"t": "",
-"title": "O5965O.T - | Stock Price & Latest News - Reuters",
-"url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOcXRyamoxLUdGeDIxWVl5SU5JNkd1bW9LUXNLenJUTlpheHNuSUJROXpOOFpmcnRPcDNGMmVCMVVFVHYtNHBDRW0xM3RueEVqVVlFRTBwT0l0Zjh4bXk3eDVqRW92TkZqa0w1NUFjYXZkOVg4aWxzalZQaFhoU1MzOTVFVFgxSFU?oc=5",
-"pub": "2026-11-25T15:31:29+00:00",
-"src": "Reuters",
-"kind": "market",
-"seen": "2026-11-26T02:14:26+00:00"
-},
-{
-"id": "bef61bf58338",
-"t": "",
-"title": "Invesco S&P 500 High Div Low Vlty UCITS ETF Dist (HDLV.DE) | Stock Price & Latest News - Reuters",
-"url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1kRk9EMEE4dzk2c2ZpcUpLOTdobWdZVGt5RkhjaExxLWpPTkRjVlVNQ1VpYWp5TkRlNm81QkxVYjNKOG9YVXhoeFZWNC0xVGJYTVlKal9Nb1Rqdw?oc=5",
-"pub": "2026-11-25T15:31:14+00:00",
-"src": "Reuters",
-"kind": "market",
-"seen": "2026-11-25T18:14:34+00:00"
 }
 ]
 }
