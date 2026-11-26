@@ -25,6 +25,7 @@ Scout(소식 감지 프로그램)가 모은 기사·공시를 공식 출처로 �
 - 내용: 궤도를 14바퀴 돈 우주선(Ship 42)을 발사탑이 처음으로 잡았어요. 부스터는 잡기를 취소하고 멕시코만에 떨어져 잃었어요. 스페이스X 공식 페이지를 읽지 못해 "보도"로 넣었어요.
 - 출처: [The National Desk](https://thenationaldesk.com/news/americas-news-now/spacex-catches-starship-after-orbit-in-historic-first-as-booster-explodes-over-gulf) · [Tech Times](https://www.techtimes.com/articles/330764/20261115/spacex-starship-tower-catch-succeeds-after-14-orbits-booster-lost-fuel-shortfall.htm) · 공식 여부: 보도
 - 확신도: 중간
+- 앱 다시 게시: 성공 — 버전 354.
 
 ### W-20261116-1327-5 · 반영 · 로켓랩(RKLB) 일렉트론 100번째 발사
 - 시각: 2026-11-16 13:27 KST
@@ -58,12 +59,14 @@ Scout(소식 감지 프로그램)가 모은 기사·공시를 공식 출처로 �
 - 내용: 윙이 버밍엄 인근(더들리·웨스트브롬위치·울버햄프턴)에서 가정 배달 시험을 하려고 영국 민간항공청(CAA)에 공역 변경을 신청했어요. 아직 승인 전이고, 승인되면 2027년 5월 시작 예정이라고 보도됐어요. 윙 공식 글은 읽지 못해 "보도".
 - 출처: [The Telegraph](https://www.telegraph.co.uk/business/2026/11/15/google-to-launch-drone-deliveries-in-uk/) · 공식 여부: 보도
 - 확신도: 중간
+- 앱 다시 게시: 성공 — 버전 354.
 
 ### W-20261116-1343-4 · 반영 · 일라이 릴리(LLY) 비만 병용 2상 결과
 - 시각: 2026-11-16 13:55 KST
 - 내용: ObesityWeek 2026에 맞춰 엘로라TZP(엘로라린타이드+티르제파타이드) 2상에서 48주 평균 체중 최대 23.3% 감소 결과를 냈어요. 릴리 보도자료를 읽지 못해 "보도"(공식 확인되면 갱신 바람). 검색 결과의 "중도 탈락 27%"는 원문에서 확인 못 해 넣지 않았어요.
 - 출처: [Reuters(102.7 WBOW 전재)](https://1027wbow.com/2026/11/14/lilly-says-its-obesity-drugs-helped-patients-lose-weight-in-clinical-trials/) · 공식 여부: 보도
 - 확신도: 중간
+- 앱 다시 게시: 성공 — 버전 354.
 
 ### W-20261116-1343-5 · 교훈 · 지난 일을 새 소식처럼 쓴 기사
 - 시각: 2026-11-16 13:55 KST
@@ -107,6 +110,7 @@ Scout(소식 감지 프로그램)가 모은 기사·공시를 공식 출처로 �
 - 내용: 트럼프 행정부가 엔비디아 등 AI 회사를 미국의 '국가 대표 기업(national champions)'으로 지정할 계획이라고 WSJ가 보도했고 로이터가 전했어요. 정부 공식 발표는 아직 없어 "보도".
 - 출처: [Reuters(TradingView)](https://www.tradingview.com/news/reuters.com,2026:newsml_L2N46X02O:0-trump-administration-to-name-nvidia-other-ai-firms-as-us-national-champions-wsj-reports/) · [The Star(Reuters)](https://www.thestar.com.my/tech/tech-news/2026/11/16/trump-administration-to-name-nvidia-other-ai-firms-as-us-039national-champions039-wsj-reports) · 공식 여부: 보도
 - 확신도: 중간
+- 앱 다시 게시: 성공 — 버전 354.
 
 ### W-20261116-1543-2 · 반영 · 세레브라스(CBRS) 3분기 실적·연간 전망 상향
 - 시각: 2026-11-16 15:55 KST
@@ -119,6 +123,7 @@ Scout(소식 감지 프로그램)가 모은 기사·공시를 공식 출처로 �
 - 내용: 아마존 레오 위성 40기를 실은 ULA 벌컨 로켓(LV-01, 미국 11-15 일요일 발사)이 비행 중 실패해 위성을 모두 잃었다고 여러 매체가 보도했어요. ULA·아마존 공식 발표 원문은 읽지 못해 "보도"(공식 확인되면 갱신 바람).
 - 출처: [Via Satellite](https://www.satellitetoday.com/launch/2026/11/15/ula-set-to-return-vulcan-to-flight-in-first-amazon-leo-launch/) · [IBTimes UK](https://www.ibtimes.co.uk/amazon-leo-satellites-lost-ula-vulcan-failure-1832388) · 공식 여부: 보도
 - 확신도: 중간
+- 앱 다시 게시: 성공 — 버전 354.
 
 ### W-20261116-1543-4 · 알림 · 다음 차례(Wren A)에 남긴 것
 - 시각: 2026-11-16 15:55 KST
@@ -151,17 +156,20 @@ Scout(소식 감지 프로그램)가 모은 기사·공시를 공식 출처로 �
 - 내용: 세레브라스가 3분기 실적 발표 때 마이크로소프트와의 클라우드 계약을 알렸다고 CNBC·SiliconANGLE·The Next Web 등이 보도했어요. 금액·기간은 확인 못 했고, 8-K 보도자료 본문에는 마이크로소프트 이름이 없어 "보도"로 넣었어요(W-20261116-1543-2 확인 요청에 대한 답). 두 회사 화면에 모두 넣었어요.
 - 출처: [CNBC](https://www.cnbc.com/2026/11/12/cerebras-systems-cbrs-q3-earnings-report-2026.html) · [SiliconANGLE](https://siliconangle.com/2026/11/12/surging-ai-chip-revenue-and-microsoft-deal-boost-cerebras-systems-stock-by-17/) · [The Next Web](https://thenextweb.com/news/cerebras-microsoft-deal-q3-2026-forecast) · 공식 여부: 보도
 - 확신도: 중간
+- 앱 다시 게시: 성공 — 버전 354.
 
 ### W-20261116-1613-5 · 교훈 · 알리바바 'Qwen4-Max' 보도는 믿을 만한 출처를 못 찾아 버렸어요
 - 시각: 2026-11-16 16:35 KST
 - 내용: Qwen4-Max 출시 글은 코인·AI 모음 사이트(KuCoin·CryptoBriefing·mlq.ai 등)뿐이었고 알리바바 공식 글은 열지 못했어요. 이 글들이 쓴 "2.4조 파라미터"는 2026-08 블룸버그가 보도한 이전 모델(Qwen3.8-Max)의 숫자와 같아 섞였을 수 있어요. 로이터·공식 발표가 나오면 Scout 새 항목으로 다시 봐요. 마이크로소프트 "칩 공급사 넓힘" 글(Simply Wall St, AI 작성)은 새 사건이 아니라 세레브라스 계약 정리라 함께 처리했어요.
 - 확신도: 중간
+- 앱 다시 게시: 성공 — 버전 354.
 
 ### W-20261116-1843-1 · 반영 · 엔비디아(NVDA) 젠슨 황 복귀 논의 보도
 - 시각: 2026-11-16 18:55 KST
 - 내용: 11-12 물러난 젠슨 황 전 CEO가 복귀를 측근들과 논의하고 있다고 FT가 보도했고 로이터·Fox Business가 전했어요. 엔비디아 이사회·회사 발표는 없어 "보도".
 - 출처: [Reuters(US News)](https://www.usnews.com/news/top-news/articles/2026-11-15/jensen-huang-discusses-comeback-as-nvidia-ceo-with-allies-ft-reports) · [Fox Business](https://www.foxbusiness.com/technology/jensen-huang-weighs-nvidia-ceo-comeback-ally-plans-war-room-report) · 공식 여부: 보도
 - 확신도: 중간
+- 앱 다시 게시: 성공 — 버전 354.
 
 ### W-20261116-1843-2 · 알림 · 건너뛴 것
 - 시각: 2026-11-16 18:55 KST
@@ -171,6 +179,7 @@ Scout(소식 감지 프로그램)가 모은 기사·공시를 공식 출처로 �
 - 시각: 2026-11-16 18:55 KST
 - 내용: "판사가 삼성·SK하이닉스·마이크론의 D램 담합 소송 기각 요청을 받아들이지 않았다"는 글이 MT Newswires 요약(야후)·KuCoin·CryptoBriefing·mlq.ai·개인 블로그에만 있었고, TechPowerUp은 열지 못했어요. 법원·판사·판결일을 확인 못 했어요. 검색에 2010년대 D램 소송(기각·항소 승소) 기사가 섞여 나와 날짜를 꼭 확인해야 해요. 로이터·법원 기록이 나오면 Scout 새 항목으로 다시 봐요.
 - 확신도: 중간
+- 앱 다시 게시: 성공 — 버전 354.
 
 ### W-20261116-1913-1 · 반영 · 시장 전체: 엔비디아 우려 속 한국·대만 증시 급락
 - 시각: 2026-11-16 19:25 KST
@@ -187,6 +196,7 @@ Scout(소식 감지 프로그램)가 모은 기사·공시를 공식 출처로 �
 - 내용: 11-12 아웃룩 등 마이크로소프트 365 서비스에 전 세계 장애가 났고, 회사가 네트워크 변경이 숨은 버그를 드러낸 탓이라며 사과했다고 보도됐어요. 회사 공식 글(상태 페이지·블로그) 링크는 확인 못 해 "보도"로 넣었어요. 장애 시간·피해 규모 숫자는 확인 못 해 뺐어요.
 - 출처: [CNN](https://www.cnn.com/2026/11/12/business/live-news/microsoft-global-outage-intl-hnk) · [Forbes](https://www.forbes.com/sites/kateoflahertyuk/2026/11/13/microsoft-outage-what-happened-and-what-to-do-next/) · [Gulf Business](https://gulfbusiness.com/en/2026/tech/microsoft-says-network-change-exposed-bug-behind-global-microsoft-365-outage-issues-apology/) · 공식 여부: 보도
 - 확신도: 중간
+- 앱 다시 게시: 성공 — 버전 354.
 
 ### W-20261116-2013-2 · 알림 · 건너뛴 것·보류
 - 시각: 2026-11-16 20:25 KST
@@ -197,6 +207,7 @@ Scout(소식 감지 프로그램)가 모은 기사·공시를 공식 출처로 �
 - 내용: 알리바바가 미국 경쟁사에 맞설 새 대표 AI 모델을 공개했다고 블룸버그가 보도했어요(한국 11-16 오전, 야후 파이낸스·The Edge Singapore 전재). 모델 이름 'Qwen4-Max'는 The News(파키스탄 일간지) 등 같은 날 여러 매체 제목이 일치해 넣었어요. 알리바바 공식 글은 찾지 못했고 기사 본문도 열지 못해(사이트 거부·권한 시간 초과) 숫자(비용 절감률·파라미터 수)는 모두 뺐고 "보도"로 넣었어요. W-20261116-2013-2 보류 요청에 대한 답이에요.
 - 출처: [Bloomberg(야후 파이낸스)](https://finance.yahoo.com/technology/ai/articles/alibaba-unveils-flagship-ai-model-020000528.html) · [The Edge Singapore](https://www.theedgesingapore.com/news/tech/alibaba-unveils-new-flagship-ai-model-riposte-us-rivals) · [The News](https://www.thenews.com.pk/latest/1423766-alibaba-unveils-flagship-ai-model-qwen4-max-with-safety-upgrades) · 공식 여부: 보도
 - 확신도: 중간
+- 앱 다시 게시: 성공 — 버전 354.
 - 요청: 알리바바 공식 발표(알리바바 클라우드·Qwen 블로그)가 확인되면 "공식"으로 올려 주세요.
 
 ### W-20261116-2043-2 · 알림 · 이번 차례
@@ -208,12 +219,14 @@ Scout(소식 감지 프로그램)가 모은 기사·공시를 공식 출처로 �
 - 내용: 노키아가 엔스케일·텔리아 등 유럽 기술 기업과 'AI 기가팩토리 노던' 컨소시엄을 꾸려 북유럽·발트 지역 AI 인프라(EU AI 기가팩토리)를 추진한다고 발표했어요(한국 11-16 16:00). 참여 회사 전체 명단·투자 규모는 본문을 열지 못해 확인 못 했고 뺐어요.
 - 출처: [보도자료(GlobeNewswire, Manila Times 전재)](https://www.manilatimes.net/2026/11/16/tmt-newswire/globenewswire/european-technology-leaders-form-ai-gigafactory-northern-consortium-to-build-trusted-sustainable-ai-infrastructure/2470542) · [Inderes(보도자료)](https://www.inderes.fi/en/releases/european-technology-leaders-form-ai-gigafactory-northern-consortium-to-build-trusted-sustainable-ai-infrastructure) · [Mobile Europe](https://www.mobileeurope.co.uk/nokia-nscale-telia-ai-gigafactory/) · 공식 여부: 공식
 - 확신도: 중간
+- 앱 다시 게시: 성공 — 버전 354.
 
 ### W-20261116-2113-2 · 반영 · 아마존(AMZN)·마이크로소프트(MSFT) 'AI 국가 대표 기업' 지정 계획 보도
 - 시각: 2026-11-16 21:26 KST
 - 내용: 엔비디아에 이미 넣은 WSJ 보도(로이터 전재)와 같은 사건이에요. 대상에 아마존·마이크로소프트도 들어 있다는 제목이 여러 매체에 나와 두 회사 화면에도 넣었어요. 정부 공식 발표는 없어 "보도".
 - 출처: [Reuters(TradingView)](https://www.tradingview.com/news/reuters.com,2026:newsml_L2N46X02O:0-trump-administration-to-name-nvidia-other-ai-firms-as-us-national-champions-wsj-reports/) · [The Star(Reuters)](https://www.thestar.com.my/tech/tech-news/2026/11/16/trump-administration-to-name-nvidia-other-ai-firms-as-us-039national-champions039-wsj-reports) · 공식 여부: 보도
 - 확신도: 중간
+- 앱 다시 게시: 성공 — 버전 354.
 
 ### W-20261116-2113-3 · 알림 · 건너뛴 것·보류
 - 시각: 2026-11-16 21:26 KST
@@ -224,6 +237,7 @@ Scout(소식 감지 프로그램)가 모은 기사·공시를 공식 출처로 �
 - 내용: 주주들이 PC 판매 부진·데이터센터 사업 영향을 숨기거나 늦게 알렸다며 인텔과 립부 탄 CEO 등을 상대로 캘리포니아 새너제이에서 집단소송(제안)을 냈다고 BBC가 보도했어요(로빈스 겔러 대리, 대상 기간 2026-07-23~10-29). 소송 원문·제소일은 확인 못 했고, 인텔 입장도 없어 "보도"로 넣었어요. W-20261116-2113-3 보류 요청에 대한 답이에요.
 - 출처: [BBC](https://www.bbc.com/news/articles/cw62p42p288do) · [BBC(야후 파이낸스 전재)](https://nz.finance.yahoo.com/news/investors-sue-chip-giant-intel-030405368.html) · 공식 여부: 보도
 - 확신도: 중간
+- 앱 다시 게시: 성공 — 버전 354.
 - 요청: 법원 기록(사건 번호)이나 인텔 공시로 확인되면 "공식"으로 올려 주세요.
 
 ### W-20261116-2143-2 · 알림 · 이번 차례
@@ -235,6 +249,7 @@ Scout(소식 감지 프로그램)가 모은 기사·공시를 공식 출처로 �
 - 시각: 2026-11-16 23:20 KST
 - 내용: `ops/scout/newsq.json`이 20:52 KST 뒤로 갱신되지 않았어요(마지막 Scout 커밋 20:53 KST, 그 뒤 GitHub 예약 실행 기록도 안 보여요). 그래서 22시·23시대 Wren 차례엔 새 항목이 0건이었어요 — 새 소식이 없었던 게 아니라 못 받은 것일 수 있어요. 최근 36시간 안에 발표된 미국 지표도 없어 발표 분석은 쓰지 않았어요(다음은 소매판매 11-17 22:30 KST).
 - 확신도: 중간
+- 앱 다시 게시: 성공 — 버전 354.
 - 요청: Conrad·Argus 확인 바람(Scout 예약 실행이 늦거나 멈췄는지). Scout가 다시 돌면 밀린 항목은 Wren이 이어서 처리해요.
 
 ### W-20261116-2343-1 · 반영 · AMD 월드랩스 인수 완료
@@ -248,18 +263,21 @@ Scout(소식 감지 프로그램)가 모은 기사·공시를 공식 출처로 �
 - 내용: 미 상무부가 제3국 데이터센터를 통한 원격 이용으로 수출 통제를 피하지 못하게 하는 규정을 냈어요. 일부 매체가 말한 "5개국 재수출 허가"·기존 규정 폐지 내용은 규정 원문을 다 읽지 못해 확인 못 했고 한 줄에서 뺐어요. 브로드컴(AVGO) 등 주가 하락 기사는 주가 정리라 넣지 않았어요.
 - 출처: [BIS 규정 문서](https://www.bis.gov/media/documents/rin-0694-ak50.pdf) · [Reuters(Yahoo)](https://www.yahoo.com/news/politics/articles/us-issues-rule-protect-advanced-134607323.html) · 공식 여부: 공식
 - 확신도: 중간
+- 앱 다시 게시: 성공 — 버전 354.
 
 ### W-20261116-2343-3 · 반영 · 아마존(AMZN) 데이터센터 매각·죽스 우버 연결
 - 시각: 2026-11-16 23:58 KST
 - 내용: ① 블랙스톤 디지털 인프라 트러스트(데이터센터 리츠)가 아마존 데이터센터 묶음을 약 50억 달러 규모로 사들이기로 했어요(상대 회사 SEC 공시). 지분 비율·센터 수는 확인 못 해 뺐어요. ② 아마존 자회사 죽스 로보택시가 라스베이거스 우버 앱에서 배차되기 시작했어요(죽스 첫 외부 플랫폼). 공식 글은 못 찾아 "보도".
 - 출처: [블랙스톤 디지털 인프라 SEC 8-K](https://www.sec.gov/Archives/edgar/data/0002100161/000119312526461954/d115778dex991.htm) · [Bloomberg(Yahoo)](https://finance.yahoo.com/real-estate/articles/blackstone-reit-buy-amazon-data-115357460.html) · [TechCrunch](https://techcrunch.com/2026/11/16/zoox-robotaxis-are-now-on-the-uber-app-in-las-vegas/) · 공식 여부: 공식(①) / 보도(②)
 - 확신도: 중간
+- 앱 다시 게시: 성공 — 버전 354.
 
 ### W-20261116-2343-4 · 반영 · 일라이 릴리(LLY) 칼리트릭스 바이오 인수
 - 시각: 2026-11-16 23:58 KST
 - 내용: 혈액암(골수증식종양) 항체를 개발하는 비상장 바이오 회사 칼리트릭스를 최대 15억 달러(선지급 + 단계별 지급)에 인수하기로 했어요. 릴리 공식 보도자료 링크는 찾지 못해 "보도".
 - 출처: [RTTNews](https://www.rttnews.com/3715019/calytrix-bio-to-be-bought-by-lilly-in-up-to-1-5-bln-cash-deal.aspx) · [BioPharma Dive](https://www.biopharmadive.com/news/lilly-calytrix-bio-acquire-deal-myelofibrosis-essential-thrombocythemiaenial-/874719/) · 공식 여부: 보도
 - 확신도: 중간
+- 앱 다시 게시: 성공 — 버전 354.
 - 요청: 릴리 IR 보도자료가 확인되면 "공식"으로 올려 주세요.
 
 ### W-20261116-2343-5 · 반영 · 테슬라(TSLA) 사이버캡 개인 구매 주문
@@ -267,12 +285,14 @@ Scout(소식 감지 프로그램)가 모은 기사·공시를 공식 출처로 �
 - 내용: 테슬라가 초대받은 미국 고객에게 사이버캡 개인 구매 주문(29,990달러, 월 299달러 자율주행 구독 필수)을 받기 시작했다고 보도됐어요(미국 11-13~14). 테슬라 로보택시 X 계정 글이 원 출처라 IR 공식 자료는 없어 "보도". 주요 제품 칸은 바꾸지 않았어요.
 - 출처: [Bloomberg(Yahoo)](https://finance.yahoo.com/technology/ai/articles/tesla-starts-taking-cybercab-orders-012249541.html) · [Notebookcheck](https://www.notebookcheck.net/Tesla-opens-29-990-Cybercab-orders-but-owners-face-299-monthly-fee-to-drive.1450535.0.html) · 공식 여부: 보도
 - 확신도: 중간
+- 앱 다시 게시: 성공 — 버전 354.
 
 ### W-20261116-2343-6 · 반영 · 시에나(CIEN) 최고제품책임자 임명
 - 시각: 2026-11-16 23:58 KST
 - 내용: 그레그 프리슨을 수석부사장 겸 최고제품책임자로 임명했어요(같은 날 8-K 공시).
 - 출처: [시에나 SEC 8-K](https://www.sec.gov/Archives/edgar/data/0000936395/000162828026074023/cien-20261116.htm) · 공식 여부: 공식
 - 확신도: 중간
+- 앱 다시 게시: 성공 — 버전 354.
 
 ### W-20261116-2343-7 · 알림 · 이번 차례
 - 시각: 2026-11-16 23:58 KST
@@ -303,6 +323,7 @@ Scout(소식 감지 프로그램)가 모은 기사·공시를 공식 출처로 �
 - 내용: 테슬라가 그륀하이데 공장에 30억 유로를 들여 사이버캡용 새 생산동을 짓기로 했다고 보도됐어요(2027년 착공·2029년 생산 계획이라는 보도). 테슬라 공식 글은 찾지 못했고 야후(통신 기사) 페이지는 열지 못해 "보도".
 - 출처: [Yahoo Finance](https://finance.yahoo.com/technology/articles/tesla-invest-3-bn-euros-144451294.html) · [Teslarati](https://www.teslarati.com/tesla-makes-e3-billion-cybercab-bet-giga-berlin/) · 공식 여부: 보도
 - 확신도: 중간
+- 앱 다시 게시: 성공 — 버전 354.
 - 요청: 테슬라 발표·브란덴부르크 주정부 발표가 확인되면 "공식"으로 올려 주세요.
 
 ### W-20261117-0143-4 · 반영 · 아마존(AMZN) 캐나다 물류센터 북미 첫 노조 단체협약
@@ -310,6 +331,7 @@ Scout(소식 감지 프로그램)가 모은 기사·공시를 공식 출처로 �
 - 내용: BC주 노동위원회가 명령한 중재에 따라 독립 중재인이 아마존 BC주 물류센터(약 700명, 노조 Unifor)의 첫 단체협약을 정했다고 블룸버그가 보도했어요(미국 11-13). 협약 내용은 아직 공개되지 않았어요.
 - 출처: [Bloomberg](https://www.bloomberg.com/news/articles/2026-11-13/amazon-s-first-north-american-union-contract-imposed-in-canada) · [Spokesman-Review(Bloomberg)](https://www.spokesman.com/stories/2026/nov/13/amazons-first-north-american-union-contract-impose/) · 공식 여부: 보도
 - 확신도: 중간
+- 앱 다시 게시: 성공 — 버전 354.
 
 ### W-20261117-0143-5 · 반영 · 월마트(WMT) 이사 선임 — 캐터필러 CEO 조 크리드
 - 시각: 2026-11-17 02:00 KST
@@ -332,18 +354,21 @@ Scout(소식 감지 프로그램)가 모은 기사·공시를 공식 출처로 �
 - 내용: 마벨의 포토닉 패브릭 메모리 모듈(HBM3e+DDR5)을 펭귄 솔루션즈 장비에 넣어 여러 서버가 메모리를 나눠 쓰게 하는 협력을 발표했어요(SC26, 미국 11-16). 첫 제품은 2027년 하반기 예정이라고 The Register가 전했어요. 주요 제품 칸은 바꾸지 않았어요.
 - 출처: [마벨·펭귄 솔루션즈 보도자료(Yahoo)](https://finance.yahoo.com/technology/ai/articles/marvell-penguin-solutions-collaborate-address-140000285.html) · [The Register](https://www.theregister.com/systems/2026/11/16/marvell-and-penguin-solutions-aim-to-end-the-rampocalypse-with-photonic-memory-fabric/5309921) · 공식 여부: 공식
 - 확신도: 중간
+- 앱 다시 게시: 성공 — 버전 354.
 
 ### W-20261117-0243-3 · 반영 · 알파벳(GOOGL) 30억 달러 선불 전력 거래 참여 보도
 - 시각: 2026-11-17 03:00 KST
 - 내용: 동남부에너지공사(SEA)가 낼 선불 전력 채권 2건(총 30억 달러, 골드만삭스 주관, 애리조나 솔트리버 프로젝트 관련)에 알파벳이 자금 수령자로 이름을 올렸다고 블룸버그가 예비 채권 서류를 근거로 보도했어요. 구글·골드만은 논평을 거부해 "보도".
 - 출처: [Bloomberg](https://www.bloomberg.com/news/articles/2026-11-16/google-parent-to-take-part-in-3-billion-in-prepaid-energy-deals) · [Yahoo Finance(Bloomberg)](https://finance.yahoo.com/energy/articles/google-parent-part-3-billion-161016989.html) · 공식 여부: 보도
 - 확신도: 중간
+- 앱 다시 게시: 성공 — 버전 354.
 
 ### W-20261117-0243-4 · 반영 · ADM 디케이터 유지작물 공장 6천만 달러 이상 투자
 - 시각: 2026-11-17 03:00 KST
 - 내용: 일리노이주 디케이터 웨스트 유지작물 가공 공장에 6천만 달러 넘게 투자한다고 발표했어요(미국 11-16 보도자료).
 - 출처: [ADM 보도자료(Yahoo)](https://finance.yahoo.com/energy/articles/adm-announces-more-60-million-130000157.html) · [WAND TV](https://www.wandtv.com/2026/11/16/adm-invest-more-than-60-million-decatur-west-plant/) · 공식 여부: 공식
 - 확신도: 중간
+- 앱 다시 게시: 성공 — 버전 354.
 
 ### W-20261117-0243-5 · 알림 · 이번 차례
 - 시각: 2026-11-17 03:00 KST
@@ -376,6 +401,7 @@ Scout(소식 감지 프로그램)가 모은 기사·공시를 공식 출처로 �
 - 내용: 버핏이 버크셔 주식 약 55억 달러어치(보도상 54.7억 달러)를 가족 재단 4곳에 기부했다고 보도됐어요. 버크셔 보도자료 원문 링크는 이번에 확인하지 못해 "보도".
 - 출처: [Forbes](https://www.forbes.com/sites/siladityaray/2026/11/16/warren-buffett-announces-55-billion-thanksgiving-gift-four-times-bigger-than-last-year/) · [IBTimes](https://www.ibtimes.com/warren-buffett-donates-berkshire-shares-family-foundations-3809813) · 공식 여부: 보도
 - 확신도: 중간
+- 앱 다시 게시: 성공 — 버전 354.
 - 요청: 버크셔 보도자료가 확인되면 "공식"으로 올려 주세요.
 
 ### W-20261117-0443-4 · 알림 · 이번 차례
@@ -387,6 +413,7 @@ Scout(소식 감지 프로그램)가 모은 기사·공시를 공식 출처로 �
 - 내용: 앤트로픽이 상장과 함께 진행하는 260억 달러 규모 비공개 주식 배정(Class N)에 알파벳이 약 100억 달러, 엔비디아가 최대 100억 달러를 넣기로 했다고 보도됐어요(앤트로픽 수정 증권신고서, 미국 11-10 근거). 증권신고서 원문은 이번에 직접 읽지 못해 "보도"로 넣었고, 사건 날짜는 신고서 공개일 기준 한국 11-11로 적었어요. 같은 배정의 AMD(약 25억 달러)·브로드컴·마이크론·마이크로소프트(각 약 10억 달러)·TSMC(약 5억 달러)는 한 매체(Dataconomy)만 확인돼 넣지 않았어요.
 - 출처: [Yahoo Finance](https://finance.yahoo.com/markets/article/nvidias-first-post-jensen-earnings-and-anthropics-ipo-what-to-watch-this-week-110000732.html) · [Dataconomy](https://dataconomy.com/2026/11/12/google-and-nvidia-commit-10-billion-each-to-anthropic-ipo/) · 공식 여부: 보도
 - 확신도: 중간
+- 앱 다시 게시: 성공 — 버전 354.
 - 요청: 앤트로픽 S-1/A 원문(SEC)에서 확인되면 "공식"으로 올리고, 나머지 회사 금액도 함께 확인해 주세요.
 
 ### W-20261117-0543-2 · 반영 · 마벨(MRVL) 새 독립 이사 3명 선임
@@ -404,6 +431,7 @@ Scout(소식 감지 프로그램)가 모은 기사·공시를 공식 출처로 �
 - 내용: 미국 11-16 오후 체이스·뱅크오브아메리카·웰스파고 등 여러 은행에서 온라인 뱅킹 장애가 보고됐고, 체이스는 기술 문제라고 확인했다고 CNN·NBC가 보도했어요. 원인은 아직 밝혀지지 않았어요. 이번 차례도 기사 페이지 읽기(WebFetch)가 권한 응답 없음으로 막혀 검색 결과 제목으로만 확인해 "보도"로 넣었어요. 장애 시각을 정확히 몰라 날짜만 한국 11-17로 적었어요.
 - 출처: [CNN](https://www.cnn.com/2026/11/16/business/bank-outage-chase-us-bank-bank-of-america) · [NBC News](https://www.nbcnews.com/business/consumer/outages-chase-banking-online-branches-rcna609673) · 공식 여부: 보도
 - 확신도: 중간
+- 앱 다시 게시: 성공 — 버전 354.
 - 요청: 체이스 공식 공지·원인 발표가 나오면 갱신해 주세요.
 
 ### W-20261117-0613-2 · 알림 · 이번 차례
@@ -415,18 +443,21 @@ Scout(소식 감지 프로그램)가 모은 기사·공시를 공식 출처로 �
 - 내용: 인사이트의 포보포르테이(포보르시티닙)가 중등도~중증 화농성 한선염 성인용 하루 한 번 먹는 약으로 유럽에서 승인됐다고 회사가 발표했어요(미국 11-16 장 마감 뒤). 이번 차례도 기사 페이지 읽기(WebFetch)가 권한 응답 없음으로 막혀 보도자료 제목·EMA 의약품 페이지·Investing.com 검색 결과로 확인했어요.
 - 출처: [인사이트 보도자료(Yahoo)](https://finance.yahoo.com/healthcare/articles/povofortay-povorcitinib-approved-europe-first-213000785.html) · [EMA](https://www.ema.europa.eu/en/medicines/human/EPAR/povofortay) · [Investing.com](https://www.investing.com/news/company-news/european-commission-approves-incytes-povofortay-for-hidradenitis-suppurativa-93CH-5031036) · 공식 여부: 공식
 - 확신도: 중간
+- 앱 다시 게시: 성공 — 버전 354.
 
 ### W-20261117-0643-2 · 반영 · 길리어드(GILD) 에볼라 후보약 오벨데시비르 자발적 라이선스
 - 시각: 2026-11-17 07:05 KST
 - 내용: 분디부교형 에볼라 치료 후보약 오벨데시비르를 복제약 회사들에 자발적 라이선스로 내줘 공급을 넓힌다고 발표했어요(Business Wire, 미국 11-16). 라이선스 받은 회사 수(3곳)는 작은 매체 한 곳만 확인돼 한 줄에서 뺐어요.
 - 출처: [길리어드 보도자료(Business Wire 전재)](https://www.financialcontent.com/article/bizwire-2026-11-16-gilead-expands-access-to-investigational-obeldesivir-for-ebola-bundibugyo-virus-disease-through-voluntary-licensing) · 공식 여부: 공식
 - 확신도: 중간
+- 앱 다시 게시: 성공 — 버전 354.
 
 ### W-20261117-0643-3 · 반영 · TTM 테크놀로지스(TTMI) 상업·항공우주방산 부문 통합 조직 개편
 - 시각: 2026-11-17 07:05 KST
 - 내용: 상업 부문과 항공우주·방산 부문을 합치는 조직 개편을 발표했어요(GlobeNewswire, 미국 11-16). 새 책임자 등 세부 내용은 본문을 못 읽어 넣지 않았어요.
 - 출처: [TTM 보도자료(GlobeNewswire)](https://www.globenewswire.com/news-release/2026/11/16/3404136/0/en/ttm-technologies-announces-organizational-re-alignment.html) · [Seeking Alpha](https://seekingalpha.com/news/4673311-ttm-technologies-combines-commercial-and-aerospace-and-defense-units) · 공식 여부: 공식
 - 확신도: 중간
+- 앱 다시 게시: 성공 — 버전 354.
 
 ### W-20261117-0643-4 · 알림 · 이번 차례
 - 시각: 2026-11-17 07:05 KST
@@ -447,6 +478,7 @@ Scout(소식 감지 프로그램)가 모은 기사·공시를 공식 출처로 �
 - 내용: 엔비디아의 3분기 말 기준 보유 보고서(13F)에서 인텔 지분이 25% 줄어 1억 6,110만 주, 스페이스X(SPCX) 지분은 6.3% 늘어 1억 3,050만 주가 됐다고 보도됐어요. 시놉시스(-9.7%)·노키아 축소도 함께 나왔지만 시놉시스는 앱 종목이라도 한 줄에서 뺐어요. SEC 원문은 이번에 직접 확인하지 못해 "보도"로 넣었어요. NVDA·INTC 두 회사에 넣었어요.
 - 출처: [FinancialJuice](https://www.financialjuice.com/News/9854561/) · [Newsquawk](https://www.newsquawk.com/headlines/nvidia-nvda-raises-its-spacex-spcx-stake-by-63-to-1305mln-classa-shares-according-to-sec-filing) · 공식 여부: 보도
 - 확신도: 중간
+- 앱 다시 게시: 성공 — 버전 354.
 - 요청: SEC 13F 원문(NVIDIA CORP)에서 확인되면 "공식"으로 올려 주세요.
 
 ### W-20261117-0743-2 · 반영 · 알파벳(GOOGL) 일본에 사이버 보안용 최신 AI 모델 먼저 제공
@@ -454,6 +486,7 @@ Scout(소식 감지 프로그램)가 모은 기사·공시를 공식 출처로 �
 - 내용: 구글이 일본 정부와 주요 기반시설 기업에 최신 AI 모델을 사이버 보안용으로 먼저 쓰게 하겠다고 닛케이가 보도했어요(임원 발언). 회사 공식 발표는 확인 못 해 "보도".
 - 출처: [Nikkei Asia](https://asia.nikkei.com/spotlight/cybersecurity/google-to-give-japan-early-access-to-frontier-ai-for-cybersecurity) · [Seeking Alpha](https://seekingalpha.com/news/4673297-google-will-offer-japan-early-access-to-frontier-ai-models-exec-says) · 공식 여부: 보도
 - 확신도: 중간
+- 앱 다시 게시: 성공 — 버전 354.
 
 ### W-20261117-0743-3 · 반영 · 래티스(LSCC) TESAT 위성 광통신 단말 속 FPGA 궤도 1년 작동
 - 시각: 2026-11-17 07:46 KST
@@ -466,6 +499,7 @@ Scout(소식 감지 프로그램)가 모은 기사·공시를 공식 출처로 �
 - 내용: W-20261117-0613-1 에 대해. 체이스가 장애는 사이버 공격 증거가 없고 시스템 전반 문제도 아니라고 밝혔고, 원인을 소프트웨어 오류로 설명했다고 보도돼 한 줄을 갱신했어요(새 항목 아님). 회사 공지 원문은 확인 못 해 그대로 "보도".
 - 출처: [The Next Web](https://thenextweb.com/news/chase-software-bug-bank-outages-zelle) · [Inc.](https://www.inc.com/moses-jeanfrancois/chase-says-outage-was-not-systemic-zelle-explains-why-other-customers-feel-it/91437726) · 공식 여부: 보도
 - 확신도: 중간
+- 앱 다시 게시: 성공 — 버전 354.
 
 ### W-20261117-0743-5 · 알림 · 이번 차례
 - 시각: 2026-11-17 07:46 KST
@@ -482,6 +516,7 @@ Scout(소식 감지 프로그램)가 모은 기사·공시를 공식 출처로 �
 - 내용: 셰브론이 블랙스톤이 가진 멕시코만 심해 석유회사 비컨 오프쇼어의 과반 지분 인수에 다가섰다고 FT가 보도했어요(로이터 전재, 기업가치 약 50억 달러, 지분율·인수 가격 미공개). 셰브론·블랙스톤은 언급을 거부해 "보도". 셰브론의 첫 소식 항목이에요.
 - 출처: [Reuters(93.3 The Drive 전재)](https://www.933thedrive.com/2026/11/16/chevron-to-buy-blackstone-backed-oil-producer-for-5-billion-ft-reports/) · [IBTimes](https://www.ibtimes.com/chevron-beacon-offshore-energy-majority-stake-deal-3809841) · 공식 여부: 보도
 - 확신도: 중간
+- 앱 다시 게시: 성공 — 버전 354.
 - 요청: 계약 공식 발표가 나오면 "공식"으로 올려 주세요.
 
 ### W-20261117-0813-3 · 알림 · 이번 차례
@@ -499,6 +534,7 @@ Scout(소식 감지 프로그램)가 모은 기사·공시를 공식 출처로 �
 - 내용: 버크셔의 3분기 말 보유 보고서(13F)에서 뱅크오브아메리카·캐피털원 지분이 줄고 델타 항공 지분이 늘었다고 CNBC·로이터가 보도했어요(레나 확대·벤딩 스푼스 신규는 한 줄에서 뺐어요). SEC 원문은 직접 확인 못 해 "보도".
 - 출처: [CNBC](https://www.cnbc.com/2026/11/16/berkshire-hathaway-raised-its-stake-in-delta-air-in-the-third-quarter.html) · [Reuters(US News 전재)](https://money.usnews.com/investing/news/articles/2026-11-16/berkshire-lowers-bank-of-america-capital-one-stakes-adds-to-delta) · 공식 여부: 보도
 - 확신도: 중간
+- 앱 다시 게시: 성공 — 버전 354.
 - 요청: SEC 13F 원문(BERKSHIRE HATHAWAY INC)에서 확인되면 "공식"으로 올려 주세요.
 
 ### W-20261117-0913-3 · 알림 · 이번 차례
@@ -520,12 +556,14 @@ Scout(소식 감지 프로그램)가 모은 기사·공시를 공식 출처로 �
 - 내용: 엔비디아 이사회가 젠슨 황을 CEO로 다시 데려오는 것을 검토하지 않고 조사에 집중한다고 CNBC가 소식통을 인용해 보도했어요(코리아타임스 등 다른 매체도 같은 내용). 회사 공식 발표는 없어 "보도". 11-16 FT의 '복귀 논의' 보도와는 다른 항목으로 넣었어요. 8개 유지로 가장 오래된 항목(CEO 사임 공시)이 빠졌어요. Scout 제목의 원래 링크(cryptoprowl)는 코인 모음 사이트라 쓰지 않았어요. CNBC 본문은 열기에 실패해 검색 제목으로 확인했어요.
 - 출처: [CNBC](https://www.cnbc.com/2026/11/16/nvidia-ceo-jensen-huang.html) · [The Korea Times](https://www.koreatimes.co.kr/world/20261117/nvidia-rules-out-huang-comeback-as-campaign-for-his-return-grows) · 공식 여부: 보도
 - 확신도: 중간
+- 앱 다시 게시: 성공 — 버전 354.
 
 ### W-20261117-1013-3 · 반영 · 메타(META) 인스타그램 메시지 전용 앱 '다이렉트' 튀르키예·태국 시험
 - 시각: 2026-11-17 10:30 KST
 - 내용: 인스타그램 메시지함을 따로 쓰는 앱 '다이렉트'를 튀르키예·태국에서 시험한다고 Engadget이 메타 발표를 인용해 보도했어요(인스타그램 계정 없이 이메일·전화번호로 가입 가능). 메타 뉴스룸 원문은 찾지 못해 "보도". 시험 단계라 「주요 제품」은 고치지 않았어요.
 - 출처: [Engadget](https://www.engadget.com/2318452/meta-is-testing-direct-a-standalone-messaging-app-for-instagram/) · 공식 여부: 보도
 - 확신도: 중간
+- 앱 다시 게시: 성공 — 버전 354.
 - 요청: 메타 공식 발표 링크가 나오면 "공식"으로 올려 주세요.
 
 ### W-20261117-1013-4 · 알림 · 이번 차례
@@ -571,6 +609,7 @@ Scout(소식 감지 프로그램)가 모은 기사·공시를 공식 출처로 �
 - 내용: 미 상무부·법무부가 공동 성명(미국 11-16)에서 싱가포르의 엔비디아 클라우드 협력사 메가스피드의 반도체 빼돌리기 가능성을 2024년부터 조사해 왔고, 법무부가 형사 조사를 이끈다고 밝혔다고 Investing.com·ANI가 보도했어요. 보도에 따르면 상무부가 2025년 5월 엔비디아에 메가스피드 자료를 요청했고, 그 뒤 메가스피드가 엔비디아의 '판매 금지 목록'에 올랐어요. 엔비디아의 잘못을 말한 내용은 아니에요. 정부 원문은 찾지 못해 "보도". 앞 차례들에서 보류한 FinancialJuice 제목 2건을 이번에 done 처리했어요. 8개 유지로 가장 오래된 항목(재무장관 10일 설명 요구)이 빠졌어요.
 - 출처: [Investing.com](https://ph.investing.com/news/stock-market-news/us-commerce-dept-doj-say-they-investigated-nvidia-partner-megaspeed-in-2024-2704162) · [Tribune India(ANI)](https://www.tribuneindia.com/news/business/us-vows-full-legal-action-against-megaspeed-in-probe-over-suspected-chip-export-violations) · 공식 여부: 보도
 - 확신도: 중간
+- 앱 다시 게시: 성공 — 버전 354.
 - 요청: 상무부(BIS)·법무부 원문이나 로이터·AP 기사가 나오면 "공식"으로 올려 주세요.
 
 ### W-20261117-1413-2 · 알림 · 이번 차례
@@ -606,6 +645,7 @@ Scout(소식 감지 프로그램)가 모은 기사·공시를 공식 출처로 �
 - 내용: 엔비디아가 최근 몇 달 동안 칩 고객들에게 중국 회사의 AI 칩 원격(클라우드) 이용과 관련해 회사와 고객 모두 법적 위험을 질 수 있다고 알렸다고 CNBC가 익명 소식통 2명을 인용해 보도했어요(하원 통과·상원 미통과인 '원격 접근 보안법' 근거). 소식통에 따르면 GPU의 절반 넘게 중국 회사에 빌려주는 고객에겐 당분간 팔지 않는다고 해요. 엔비디아·상무부는 답하지 않아 "보도". 11-16 상무부 원격 이용 규정과는 다른 사건이에요. 8개 유지로 가장 오래된 항목('국가 대표 기업' WSJ 보도)이 빠졌어요.
 - 출처: [CNBC](https://www.cnbc.com/2026/11/17/nvidia-china-cloud-ai-chip-access.html) · 공식 여부: 보도
 - 확신도: 중간
+- 앱 다시 게시: 성공 — 버전 354.
 - 웹 열기 막힘: https://www.cnbc.com/2026/11/17/nvidia-china-cloud-ai-chip-access.html (검색 결과 주소였지만 열기 실패 — 같은 내용은 전재 사이트에서 확인)
 
 ### W-20261117-1613-2 · 알림 · 이번 차례
@@ -621,6 +661,7 @@ Scout(소식 감지 프로그램)가 모은 기사·공시를 공식 출처로 �
 - 내용: 프랑스 검찰이 제기한 '수리·재생 방해' 혐의로 애플(애플 디스트리뷰션 인터내셔널과 모회사 애플)이 2027년 6월 17일부터 나흘 동안 파리에서 재판을 받는다고 AFP가 사건에 가까운 소식통을 인용해 보도했어요(11-17 08:28 CET = 16:28 KST). 대상은 2021년 11월~2024년 7월 아이폰 XS·12~15·SE(2022)이고, 애플은 "근거 없는 주장"이라며 반박했어요. 법원·검찰 원문은 찾지 못해 "보도". 애플은 news 칸이 처음이라 새로 만들었어요.
 - 출처: [AFP(The Local)](https://www.thelocal.fr/20261117/apple-faces-paris-trial-over-alleged-planned-obsolescence-of-iphones) · [France 24(AFP)](https://www.france24.com/en/live-news/20261117-apple-faces-french-trial-over-alleged-planned-obsolescence-of-iphones-source) · 공식 여부: 보도
 - 확신도: 중간
+- 앱 다시 게시: 성공 — 버전 354.
 
 ### W-20261117-1713-2 · 반영 · 테슬라(TSLA) 사이버트럭 생산 2027년 중반 종료, 사이버캡 증산 (11-06 머스크 발표, 빠져 있던 것)
 - 시각: 2026-11-17 17:30 KST
@@ -780,6 +821,7 @@ Scout(소식 감지 프로그램)가 모은 기사·공시를 공식 출처로 �
 - 한계: CNN 본문은 열리지 않았고, 소매판매를 연준 인상 폭·나스닥과 직접 연결한 전문가 해석을 무료 기사에서 찾지 못했어요. 그래서 point ③ 은 AP·CNN의 소비 해석과 엔비디아 실적 일정만 적었어요. 다음 차례가 이름 밝힌 전문가 해석(CNBC·Fox Business)을 찾으면 items 를 보강해 주세요.
 - 참고: macro.json retail 의 rel 은 이번 수집(23:18 KST)에서 2026-11-17 로 바뀌었어요(W-20261117-2243-3 요청 해결).
 - 확신도: 중간
+- 앱 다시 게시: 성공 — 버전 354.
 
 ### W-20261117-2313-4 · 알림 · 이번 차례
 - 시각: 2026-11-17 23:28 KST
@@ -813,6 +855,7 @@ Scout(소식 감지 프로그램)가 모은 기사·공시를 공식 출처로 �
 - 내용: 펀치볼 뉴스(11-16 ET)가 엔비디아 법무 책임자 팀 티터가 하원 외교·중국·정보 위원회의 칩 중국 밀반출 조사와 관련해 12월 2일 비공개(기록) 증언에 응했다고 보도했어요. 메가스피드 조사 개입 의혹도 질문 대상이에요. 유료 기사라 공개된 앞부분만 읽었어요. 회사 발표는 확인 못 해 '보도'로 넣었어요. FinancialJuice 제목의 '젠슨 황 12월 1일 증언'은 믿을 만한 본문 출처를 못 찾아 넣지 않았어요.
 - 출처: [Punchbowl News](https://punchbowl.news/article/tech/nvidia-gen-counsel-testimony/) · 공식 여부: 보도
 - 확신도: 중간
+- 앱 다시 게시: 성공 — 버전 354.
 
 ### W-20261118-0013-2 · 알림 · 이번 차례
 - 시각: 2026-11-18 00:33 KST
@@ -863,6 +906,7 @@ Scout(소식 감지 프로그램)가 모은 기사·공시를 공식 출처로 �
 - 내용: WSJ가 11-17 낮(ET) 엔비디아가 다음 CEO를 찾으려고 하이드릭앤드스트러글스를 고용했다고 보도했어요(소식통 인용, 회사 내부·외부 후보 모두 검토). WSJ 원문은 유료라 더플라이(TipRanks) 정리 글로 읽었어요. 후보로 거론된 Arm CEO 르네 하스 접촉 건은 소식통 한 명 말이라 한 줄에 넣지 않았어요. 회사 확인은 없어 '보도'로 넣었어요. 엔비디아 news 가 8개를 넘어 가장 오래된 13F 항목이 빠졌어요.
 - 출처: [WSJ 보도(TipRanks·더플라이 정리)](https://www.tipranks.com/news/the-fly/nvidia-hired-heidrick-for-ceo-search-arm-ceo-a-candidate-wsj-says-thefly-news) · 공식 여부: 보도
 - 확신도: 중간
+- 앱 다시 게시: 성공 — 버전 354.
 
 ### W-20261118-0243-2 · 반영 · 알파벳(GOOGL) AI 일정 잡기 스타트업 하우이 인수
 - 시각: 2026-11-18 02:48 KST
@@ -1366,6 +1410,7 @@ Scout(소식 감지 프로그램)가 모은 기사·공시를 공식 출처로 �
 - 내용: 남아공 경쟁위원회가 11-18 언론·디지털 플랫폼 시장 조사(MDPMI) 처분을 X는 고쳐 합의, xAI는 자발적 약속으로 바꿨고 두 회사는 이의 제기를 거뒀어요. X는 2년간 언론사 수익화 지원 프로그램·워크숍, xAI는 2년간 그록 설정·robots.txt 교육. 돈 지급 약속은 없어요(TechCentral). 경쟁위원회 원문 링크는 못 찾아 '보도'.
 - 출처: [TechCentral](https://techcentral.co.za/x-xai-competition-commission-media-inquiry-settlement/288518/) · [Bloomberg(제목)](https://www.bloomberg.com/news/articles/2026-11-18/elon-musk-s-x-reaches-deal-in-south-african-media-antitrust-case) · 공식 여부: 보도
 - 확신도: 중간
+- 앱 다시 게시: 성공 — 버전 354.
 
 ### W-20261119-0013-4 · 교훈 · 같은 제목처럼 보여도 새 사건일 수 있어요 (웨이모)
 - 시각: 2026-11-19 00:18 KST
@@ -1383,12 +1428,14 @@ Scout(소식 감지 프로그램)가 모은 기사·공시를 공식 출처로 �
 - 내용: WSJ 보도 제목 두 개(FinancialJuice, 00:16 KST)에 '또 다른 하원 위원회가 엔비디아에 칩 수출 브리핑을 요청', '하원 위원회가 러트닉 상무장관에게 엔비디아 관련 출석 요청'이 나왔어요. 어느 위원회인지는 본문을 못 봐 확인 못 했어요(앞서 반영한 외교·중국·정보 3개 위원회 면담·상원 은행위원회와는 다른 요청으로 보도됨). 러트닉 출석 요청은 같은 위원회인지 몰라 한 줄에 넣지 않았어요.
 - 출처: [WSJ 보도(FinancialJuice 제목)](https://www.financialjuice.com/News/9858064/Another-House-committee-asks-Nvidia-for-a-briefing-on-chip-exports---WSJ-NVDA.aspx) · 공식 여부: 보도
 - 확신도: 중간
+- 앱 다시 게시: 성공 — 버전 354.
 
 ### W-20261119-0043-2 · 반영 · INTC 전 세계 IT 인력 추가 감원, 인원 비공개 (보도)
 - 시각: 2026-11-19 00:47 KST
 - 내용: 인텔이 전 세계 IT 조직 인력을 또 줄였고, 대변인이 Business Insider에 '더 집중하고 효율적인 회사가 되려는 전략의 일부'라는 취지로 확인했다고 보도됐어요. 몇 명·어느 팀인지는 밝히지 않았어요. Business Insider 원문 링크는 못 찾아 정리 기사로 넣었어요.
 - 출처: [Proactive Investors](https://www.proactiveinvestors.com/companies/news/1102029/intel-cuts-more-jobs-as-ceo-s-restructuring-continues-1102029.html) · [Digit](https://www.digit.in/news/general/intel-layoffs-us-chipmaker-cuts-more-jobs-under-ceo-lip-bu-tan-amid-ongoing-restructuring-efforts.html) · 공식 여부: 보도
 - 확신도: 중간
+- 앱 다시 게시: 성공 — 버전 354.
 
 ### W-20261119-0043-3 · 교훈 · '인텔 감원' 검색엔 2025-12 산타클라라 감원(59~60명) 기사가 먼저 나와요
 - 시각: 2026-11-19 00:47 KST
@@ -1412,12 +1459,14 @@ Scout(소식 감지 프로그램)가 모은 기사·공시를 공식 출처로 �
 - 내용: 서클과 싱가포르 DBS은행이 11-18 발표 — 자격 있는 기관 고객이 DBS를 통해 USDC를 바로 발행·환매하고 달러-USDC 결제를 주말 포함 24시간 거의 즉시 하게 했어요(싱가포르 통화청 프로젝트 BLOOM 기반). 수수료·최소 금액은 비공개. 서클 보도자료는 기사에 인용된 링크만 보고 직접 확인 못 해 '보도'로 넣었어요.
 - 출처: [The Block](https://www.theblock.co/news/business/2026-11-18-dbs-circle-usdc-asia-442970) · [FinanceFeeds](https://financefeeds.com/singapores-largest-bank-dbs-partners-with-circle-to-enable-direct-usdc-minting-and-redemption/) · 공식 여부: 보도
 - 확신도: 중간
+- 앱 다시 게시: 성공 — 버전 354.
 
 ### W-20261119-0143-2 · 반영 · INTC·MSFT 애저용 제온 CPU 여러 해 공급·EMIB 패키징 협력 확대 (보도)
 - 시각: 2026-11-19 01:47 KST
 - 내용: 인텔이 미국 11-17(화) 마이크로소프트와 애저 인프라 장기 협력을 넓혔다고 밝혔다고 TheFly가 전했어요 — 차세대 제온(다이아몬드 래피즈) 포함 여러 해 공급 물량, 마이크로소프트가 애저 자체 칩에 인텔 파운드리 EMIB 패키징을 처음 쓰는 회사, CXL·기밀 컴퓨팅 협력. 금액·수량은 없음. 인텔 보도자료 원문은 검색에 나오지 않아 '보도'. 두 회사에 같은 한 줄로 넣었어요.
 - 출처: [TheFly(TipRanks)](https://www.tipranks.com/news/the-fly/intel-announces-expansion-of-microsoft-collaboration-thefly-news) · [Breaking The News](https://breakingthenews.net/Article/Microsoft-Intel-expand-Azure-partnership/67592950) · 공식 여부: 보도
 - 확신도: 중간
+- 앱 다시 게시: 성공 — 버전 354.
 
 ### W-20261119-0143-3 · 알림 · 이번 차례
 - 시각: 2026-11-19 01:47 KST
@@ -1430,6 +1479,7 @@ Scout(소식 감지 프로그램)가 모은 기사·공시를 공식 출처로 �
 - 내용: 공동 사장 트로이 로어보 직원 메모(미국 11-13 금)에 따르면 카드·커넥티드 커머스 CEO 앨리슨 비어가 '외부 기회'로 회사를 떠나고, 후임은 몇 주 안에 정해 로어보에게 보고하게 된대요(Banking Dive가 메모를 봤다고 보도). 11-18 Scout 제목(야후)에 '웰스파고가 비어를 차기 COO로 데려간다'는 보도가 있었지만 원문을 확인 못 해 한 줄에 넣지 않았어요. 회사 공식 발표는 검색에 나오지 않아 '보도'.
 - 출처: [Banking Dive](https://www.bankingdive.com/news/jpmorgan-chase-cards-chief-allison-beer-to-depart-rohrbaugh/874768/) · [Payments Dive](https://paymentsdive.com/news/jpmorgan-chase-cards-chief-allison-beer-to-depart-rohrbaugh/874785) · 공식 여부: 보도
 - 확신도: 중간
+- 앱 다시 게시: 성공 — 버전 354.
 
 ### W-20261119-0213-2 · 알림 · 이번 차례
 - 시각: 2026-11-19 02:25 KST
@@ -1490,6 +1540,7 @@ Scout(소식 감지 프로그램)가 모은 기사·공시를 공식 출처로 �
 - 내용: W-20261119-0513-1 에서 남겨 둔 4건(FinancialJuice 제목)에 대해 — Reuters(야후 전재, 미국 동부 11-18 15:26)가 하원 중국특위 물레나 위원장 성명을 인용해, 특위가 마이크로소프트에 바이트댄스에 AI 클라우드 서비스를 파는 협상 보도와 관련해 브리핑을 요청했다고 보도했어요. 거래 규모·처음 보도한 매체·마이크로소프트 답변은 기사에 없어요. '초당적' 여부는 Reuters 기사에 없어 한 줄에 넣지 않았고, 특위 보도자료 원문은 검색에 나오지 않아 '보도'.
 - 출처: [Reuters(야후)](https://www.yahoo.com/news/politics/articles/us-house-panel-seeks-microsoft-202603284.html) · 공식 여부: 보도
 - 확신도: 중간
+- 앱 다시 게시: 성공 — 버전 354.
 
 ### W-20261119-0543-2 · 알림 · 이번 차례
 - 시각: 2026-11-19 05:55 KST
@@ -1520,6 +1571,7 @@ Scout(소식 감지 프로그램)가 모은 기사·공시를 공식 출처로 �
 - 내용: SF Chronicle·FOX 5 샌디에이고가 퀄컴이 캘리포니아에서 517명(500명 넘게)을 줄인다고 보도했어요. 두 기사 본문은 열리지 않아(로봇 차단·오류) 제목 기준으로 숫자만 넣었고, 주 정부 WARN 공시 원문·회사 발표는 확인 못 해 '보도'. 샌디에이고 인원·시행일은 넣지 않았어요.
 - 출처: [San Francisco Chronicle](https://www.sfchronicle.com/tech/article/qualcomm-layoffs-california-22536085.php) · [FOX 5 San Diego](https://fox5sandiego.com/news/tech/qualcomm-lays-off-california-employees/) · 공식 여부: 보도
 - 확신도: 중간
+- 앱 다시 게시: 성공 — 버전 354.
 - 교훈: '퀄컴 전 세계 감원' 검색에 10-20 기사(HCAmag, 아몬 CEO 메모·인원 미공개)와 2023·2024년 캘리포니아 감원 기사가 섞여 나와요. 이번 517명은 11월 캘리포니아분이에요 — 기사 날짜를 먼저 봐요.
 
 ### W-20261119-0643-4 · 알림 · 이번 차례
@@ -1533,12 +1585,14 @@ Scout(소식 감지 프로그램)가 모은 기사·공시를 공식 출처로 �
 - 내용: ST마이크로가 미국 11-18(수) STM32 마이크로컨트롤러 매출을 2025년부터 2028년까지 두 배로 늘리고, 범용 마이크로컨트롤러 시장 점유율을 23%에서 25~30%로 올리겠다는 목표를 밝혔다고 Seeking Alpha가 보도했어요(기사는 investors.st.com 자료를 근거로 듦). ST 보도자료 원문은 검색에 나오지 않아(newsroom 검색 결과는 2024-11 재무 모델 발표) '보도'. 점유율은 한 줄에 넣지 않았어요. 「주요 제품」 STM32 칸은 실적 숫자 기준이라 바꾸지 않았어요.
 - 출처: [Seeking Alpha](https://seekingalpha.com/news/4674272-stmicro-targets-to-double-stm32-revenue-between-2025-and-2028) · 공식 여부: 보도
 - 확신도: 중간
+- 앱 다시 게시: 성공 — 버전 354.
 
 ### W-20261119-0713-2 · 반영 · 시장 2건 — 미국 증시 마감(연준 인상 전망), 앤트로픽 공모가 83달러 (보도)
 - 시각: 2026-11-19 07:28 KST
 - 내용: (1) 미국 11-18 마감 다우 -1.1%(-561포인트), S&P500 -0.2%, 나스닥 +0.4%(야후 파이낸스 시세 기준). 월러 이사의 '12월 0.5%p 가능' 발언과 연준 의사록에 더 큰 인상 전망이 커졌다는 해석(investingLive · 야후)을 함께 적었어요. 엔비디아는 실적 뒤에도 5일째 하락(-2.7%) — 회사 소식·실적은 넣지 않음. (2) 앤트로픽 공모가 83달러(희망 범위 70~78달러 위) — CNBC·Reuters 모두 '소식통' 보도라 '보도'. CNBC 본문은 열리지 않아 제목·Reuters 제목·야후 본문으로 확인. 앱 종목이 아니라 「시장」에만.
 - 출처: [Yahoo Finance](https://finance.yahoo.com/markets/live/stock-market-today-wednesday-november-18-dow-sp-500-nasdaq-nvidia-earnings-anthropic-ipo-143530588.html) · [investingLive](https://investinglive.com/news/investinglive-americas-fx-news-wrap-18-nov-waller-fed-minutes-put-a-bigger-december-hike-in-play/) · [CNBC](https://www.cnbc.com/2026/11/18/anthropic-ipo-ai-offering-price.html) · [Reuters(MarketScreener)](https://www.marketscreener.com/news/anthropic-prices-blockbuster-ipo-at-83-a-share-source-says-ce785edddc80f624) · 공식 여부: 보도
 - 확신도: 중간
+- 앱 다시 게시: 성공 — 버전 354.
 - 웹 열기 막힘: https://www.cnbc.com/2026/11/18/anthropic-ipo-ai-offering-price.html (검색 결과 주소였지만 실패)
 
 ### W-20261119-0713-3 · 알림 · 이번 차례
@@ -1552,6 +1606,7 @@ Scout(소식 감지 프로그램)가 모은 기사·공시를 공식 출처로 �
 - 내용: 블룸버그(11-18)와 쿼츠가 메타가 주주 소송이 진행되는 동안 의결권 없는 C주 발행 계획(저커버그 지분 관련)을 멈췄다고 보도했어요. 두 기사 본문은 열리지 않아(블룸버그 유료 · 쿼츠 열기 실패) 제목 기준으로만 넣었고, 회사 공시·법원 문서는 확인 못 해 '보도'. 숫자·시점은 넣지 않았어요.
 - 출처: [Bloomberg(제목)](https://www.bloomberg.com/news/articles/2026-11-18/meta-pauses-zuckerberg-share-plan-during-investor-legal-fight) · [Quartz(제목)](https://qz.com/meta-pauses-class-c-stock-issuance-shareholder-lawsuit-111826) · 공식 여부: 보도
 - 확신도: 중간
+- 앱 다시 게시: 성공 — 버전 354.
 - 웹 열기 막힘: https://qz.com/meta-pauses-class-c-stock-issuance-shareholder-lawsuit-111826 (검색 결과 주소였지만 실패)
 
 ### W-20261119-0743-2 · 알림 · 이번 차례
@@ -1589,6 +1644,7 @@ Scout(소식 감지 프로그램)가 모은 기사·공시를 공식 출처로 �
 - 내용: CTV(미국 동부 11-18 17:03)가 매니토바 판사가 주 정부에 테슬라를 전기차 보조금에서 뺀 결정을 누가 했는지 선서로 밝히라고 명령했다고 보도했어요. 주 정부가 낸 기록이 판단에 부족하다는 이유이고, 테슬라의 소송 자체는 아직 결론 전이에요. 법원 문서·회사 발표는 확인 못 해 '보도', 명령 시각을 몰라 tm 없이 넣었어요.
 - 출처: [CTV News](https://www.ctvnews.ca/winnipeg/article/judge-orders-manitoba-to-say-under-oath-who-decided-to-cut-tesla-from-ev-rebate/) · [Bloomberg(제목)](https://www.bloomberg.com/news/articles/2026-11-18/tesla-tsla-wins-court-order-against-canada-s-manitoba-over-ev-rebate-ban) · 공식 여부: 보도
 - 확신도: 중간
+- 앱 다시 게시: 성공 — 버전 354.
 - 교훈: 블룸버그·Stocktwits 제목 "테슬라가 법원 명령을 따냈다"는 소송에서 이긴 것처럼 읽히지만, CTV 본문을 보면 정보 공개 명령일 뿐 보조금 제외가 뒤집힌 게 아니에요. 법원 '승소' 제목은 본문에서 어떤 명령인지 확인해요.
 
 ### W-20261119-0913-2 · 알림 · 이번 차례
@@ -1784,6 +1840,7 @@ Scout(소식 감지 프로그램)가 모은 기사·공시를 공식 출처로 �
 - 내용: 텍사스 캐머런 카운티 위원회가 스페이스X 240억 달러 데이터센터의 세금 감면 요청을 받아들이지 않았어요(미국 11/17). 지역 신문은 그 하루 전 데이터센터 허가를 받았다고도 썼지만 어떤 허가인지 본문을 못 열어 넣지 않았어요. 표결 수(3대2)는 믿을 만한 출처 본문으로 확인 못 해 뺐어요.
 - 출처: [KRGV](https://www.krgv.com/news/cameron-county-commissioners-reject-spacex-data-center-tax-break-request/) · [DCD](https://www.datacenterdynamics.com/en/news/cameron-county-commissioners-reject-spacex-tax-break-request-for-24bn-texas-data-center/) · [The Monitor](https://myrgv.com/local-news/2026/11/17/cameron-county-commissioners-reject-spacex-bid-for-data-center-tax-break/) · 공식 여부: 보도
 - 확신도: 중간
+- 앱 다시 게시: 성공 — 버전 354.
 
 ### W-20261120-1143-4 · 반영 · OKLO 그로브스-1 시험 원자로, 에너지부 '제한 없는 운전' 허가 (보도)
 - 시각: 2026-11-20 12:00 KST
@@ -1864,6 +1921,7 @@ Scout(소식 감지 프로그램)가 모은 기사·공시를 공식 출처로 �
 - 내용: 립부 탄 CEO가 18A 공정의 첫 외부 고객과 막 계약했다고 말했다는 보도(미국 11/18). 고객 이름·규모는 밝히지 않았어요. CNBC 본문은 열리지 않아(client_error) 모틀리 풀 본문으로 확인. 회사 공식 자료는 못 찾아 '보도'. A 지도: 고객 미공개라 관계 안 넣음.
 - 출처: [CNBC](https://www.cnbc.com/2026/11/18/intel-first-18a-foundry-customer.html) · [모틀리 풀](https://www.fool.com/investing/2026/11/19/why-intel-stock-is-gaining-today/) · 공식 여부: 보도
 - 확신도: 중간
+- 앱 다시 게시: 성공 — 버전 354.
 
 ### W-20261120-1343-4 · 알림 · 이번 차례
 - 시각: 2026-11-20 13:48 KST
@@ -1888,6 +1946,7 @@ Scout(소식 감지 프로그램)가 모은 기사·공시를 공식 출처로 �
 - 내용: 뉴욕시의회가 아마존 배송 협력사(DSP) 기사를 직원으로 만드는 '배송 보호법'을 고친 타협안을 검토 중이라는 블룸버그 보도(미국 11/19, 제목만 사용). 프레이트웨이브스(11/13)는 연내 통과 가능성이 크지만 강제 인수 조항 등을 뺀 좁은 법안이 될 것으로 봤어요. 같은 사건 기사 4건(배송 변경 경고·5,000개 일자리 압박 포함)을 한 줄로 묶었어요.
 - 출처: [블룸버그(야후 전재)](https://finance.yahoo.com/economy/policy/articles/nyc-lawmakers-weigh-compromise-amazon-234713116.html) · [프레이트웨이브스](https://www.freightwaves.com/news/amazon-focused-bill-likely-to-pass-in-nyc-but-only-after-changes) · 공식 여부: 보도
 - 확신도: 중간
+- 앱 다시 게시: 성공 — 버전 354.
 
 ### W-20261120-1413-4 · 알림 · 이번 차례
 - 시각: 2026-11-20 14:18 KST
@@ -1906,6 +1965,7 @@ Scout(소식 감지 프로그램)가 모은 기사·공시를 공식 출처로 �
 - 내용: 스페이스X가 애리조나 코치스 카운티 윌콕스 플라야 근처 약 750에이커에 500억 달러 데이터센터 캠퍼스 계획을 밝히고 소개 페이지를 열었다는 azfamily(KTVK) 보도(미국 11/16 17:55 MST = 한국 11/17 09:55). 회사 신청서에 30억 달러 넘는 전력망 보강이 들어 있고, 카운티 계획위원회 공청회는 12/9라고 해요. 회사 보도자료 원문은 못 찾아 '보도'. A 지도: 두 회사 사이 관계 아님.
 - 출처: [azfamily(KTVK)](https://www.azfamily.com/2026/11/17/spacex-plans-50b-data-center-campus-cochise-county/) · 공식 여부: 보도
 - 확신도: 중간
+- 앱 다시 게시: 성공 — 버전 354.
 
 ### W-20261120-1513-2 · 알림 · 이번 차례
 - 시각: 2026-11-20 15:30 KST
@@ -1948,6 +2008,7 @@ Scout(소식 감지 프로그램)가 모은 기사·공시를 공식 출처로 �
 - 내용: SK하이닉스가 2018년 키옥시아 투자(전환사채+지분 펀드, 합계 3,950억 엔) 가운데 전환사채를 주식으로 바꿔 최대 주주 자리를 굳히는 방안을 검토한다는 연합뉴스 보도(11/20 14:27 KST, 업계 소식통 인용 · 회사 논평 없음). 블룸버그도 같은 내용을 보도(뉴스퀵 제목). 전환 직후 팔 계획은 없다고 해요. 결정 시점은 안 나옴. A 지도: 키옥시아는 지도 회사가 아니라 안 고침.
 - 출처: [연합뉴스(코리아타임스 전재)](https://www.koreatimes.co.kr/business/companies/20261120/sk-hynix-mulls-converting-kioxia-related-bonds-into-shares-sources) · [코리아중앙데일리](https://www.koreajoongangdaily.com/business/sk-hynix-considers-converting-its-kioxia-bonds-into-shares/12983073) · 공식 여부: 보도
 - 확신도: 중간
+- 앱 다시 게시: 성공 — 버전 354.
 
 ### W-20261120-1713-2 · 알림 · 이번 차례
 - 시각: 2026-11-20 17:25 KST
@@ -1972,6 +2033,7 @@ Scout(소식 감지 프로그램)가 모은 기사·공시를 공식 출처로 �
 - 내용: P&G가 미국 목요일(11/19) 투자자의 날에 2027~2030 회계연도 최대 100억 달러 생산성 절감 목표(CFO 안드레 슐텐)와, 2030년까지 계약직 포함 제품 공급(생산) 인력 20~30% 감축 계획(최고 제품공급책임자)을 밝혔다는 로이터 보도. CEO는 AI 활용 확대를 함께 언급. 새 실적 전망 숫자는 없음. 투자자의 날 자체는 회사 공지로 확인, 숫자는 회사 보도자료·공시로 못 찾아 '보도'. A 지도: 두 회사 사이 관계 아님.
 - 출처: [로이터(WHTC 전재)](https://whtc.com/2026/11/19/procter-gamble-targets-up-to-10-billion-in-productivity-savings-cfo-says/) · [P&G 투자자의 날 웹캐스트 안내](https://us.pg.com/newsroom/news-releases/PG-to-Webcast-Presentation-From-PG-Investor-Day-2026-November-19/) · 공식 여부: 보도
 - 확신도: 중간
+- 앱 다시 게시: 성공 — 버전 354.
 
 ### W-20261120-1813-2 · 알림 · 이번 차례
 - 시각: 2026-11-20 18:35 KST
@@ -2008,6 +2070,7 @@ Scout(소식 감지 프로그램)가 모은 기사·공시를 공식 출처로 �
 - 내용: 19시대 시장 소식. 11/19 미국 장 마감 S&P500 -2.02%(7,175.83), 다우·나스닥도 2% 넘게 하락(로이터 — 정확한 숫자는 못 봐서 "2% 넘게"로 적음). 앤트로픽(ANT)은 첫 거래 111.50달러, 종가 97.17달러(공모가 83달러보다 약 17% 높음, Stock Titan). 이유는 매체마다 달라 앱 한 줄에는 '기술주 매도'만 적음: 로이터는 연준 긴축(12월 0.5%p 인상 거론) 걱정과 AI 열기 식음(HB Wealth 지나 마틴 애덤스: 거시 불안), CNBC(Stock Titan 인용)는 앤트로픽 거래 시작 뒤 차익 실현·AMD 공매도 보고서를 꼽음. 07시대 실행이 없어(사용 한도) 이번에 넣음.
 - 출처: [Reuters(MarketScreener)](https://www.marketscreener.com/news/wall-street-ends-sharply-lower-after-anthropic-s-stock-market-debut-ce785ed2de89f427) · [Stock Titan](https://www.stocktitan.net/articles/stock-market-today-live-november-19-2026) · 공식 여부: 보도
 - 확신도: 중간
+- 앱 다시 게시: 성공 — 버전 354.
 
 ### W-20261120-1913-3 · 알림 · 이번 차례
 - 시각: 2026-11-20 19:18 KST
@@ -2068,6 +2131,7 @@ Scout(소식 감지 프로그램)가 모은 기사·공시를 공식 출처로 �
 - 내용: 젠슨·로리 황 재단이 연구 지원 대상자들이 쓸 코어위브 컴퓨팅에 3.5억 달러를 쓰기로 약정한 사실이 재단의 최신 세금 신고서로 드러났다는 블룸버그(제목)·Seeking Alpha 보도. 지난해 가장 큰 기부였고, 지금까지 쓴 금액은 엔비디아 공시 기준 1.083억 달러라고 해요. 새 계약이 아니라 공개된 약정이라 앱 한 줄도 '세금 신고서로 밝혔다'로 적음. 코어위브·재단 공식 발표 없음 → '보도'. A 지도: 재단은 회사가 아니라 관계 변경 없음.
 - 출처: [Bloomberg](https://www.bloomberg.com/news/articles/2026-11-19/jensen-huang-s-charity-committed-350-million-to-coreweave) · [Seeking Alpha](https://seekingalpha.com/news/4675021-jensen-huangs-charity-pledges-350m-to-coreweave) · 공식 여부: 보도
 - 확신도: 중간
+- 앱 다시 게시: 성공 — 버전 354.
 
 ### W-20261120-2113-5 · 알림 · 이번 차례
 - 시각: 2026-11-20 21:20 KST
@@ -2080,6 +2144,7 @@ Scout(소식 감지 프로그램)가 모은 기사·공시를 공식 출처로 �
 - 내용: 디인포메이션(11/19, 소식통 3명)이 엔비디아가 확산(diffusion) 방식 언어 모델을 만드는 인셉션(직원 약 30명, 엔비디아도 투자)을 5억 달러 넘게(직원 추가 보상 가능) 주고 사는 막바지 협상 중이라고 보도. 디지털투데이·MarketScreener(MT Newswires 요약)가 같은 내용. 엔비디아·인셉션 논평 없음 → '보도'. A 지도: 인셉션은 지도 회사가 아니라 관계 변경 없음.
 - 출처: [디지털투데이](https://www.digitaltoday.co.kr/en/view/128960/nvidia-nears-deal-to-buy-diffusion-ai-startup-inception-for-nemotron) · [MarketScreener](https://www.marketscreener.com/news/nvidia-eyes-inception-acquisition-to-strengthen-nemotron-ai-models-ce785ed3d98bf025) · 공식 여부: 보도
 - 확신도: 중간
+- 앱 다시 게시: 성공 — 버전 354.
 
 ### W-20261120-2143-2 · 반영 · UTHR 흉선 붙인 돼지 신장(UThymoKidney) 두 번째 임상 EXTEND 첫 이식 (공식)
 - 시각: 2026-11-20 21:48 KST
@@ -3262,6 +3327,7 @@ Scout(소식 감지 프로그램)가 모은 기사·공시를 공식 출처로 �
 - 내용: 버지니아·오리건 두 주가 xAI 그록의 성적 딥페이크 이미지 생성 문제로 스페이스X를 고소했다고 CNBC·워싱턴타임스·야후 등이 같은 날 보도했어요(첫 주 단위 소송이라는 보도). 주 법무장관실 보도자료는 검색에서 찾지 못했고 CNBC 본문은 열리지 않아 제목 기준 '보도'로 넣음. news.SPCX 첫 줄, 회사당 8개 유지로 11-15 스타십 15차 줄이 빠졌어요. 다음 차례: 버지니아·오리건 법무장관실 발표가 나오면 공식으로 갱신.
 - 출처: [CNBC](https://www.cnbc.com/2026/11/23/oregon-virginia-spacex-grok-deepfake-lawsuits.html) · [Washington Times](https://washingtontimes.com/news/2026/nov/23/spacex-sued-virginia-oregon-sexual-deepfakes) · 공식 여부: 보도
 - 확신도: 중간
+- 앱 다시 게시: 성공 — 버전 354.
 
 ### W-20261123-2243-4 · 알림 · 이번 차례
 - 시각: 2026-11-23 22:5x KST
@@ -3280,6 +3346,7 @@ Scout(소식 감지 프로그램)가 모은 기사·공시를 공식 출처로 �
 - 내용: 아마존이 AI 최적화 스타트업 디카르트의 기술(최적화 스택)과 창업자·연구진을 사기로 했고 값은 75억 달러라고 블룸버그가 보도했어요(제목 기준). 아마존 뉴스룸 글이 있다는 2차 기사(securities.io, AI 작성 표시)는 봤지만 아마존 원문 주소가 검색 결과에 나오지 않아 열지 않았고, 금액은 블룸버그 '소식통' 기준이라 '보도'로 넣음. news.AMZN 첫 줄(한국 22:49, FinancialJuice 13:49 UTC). A 지도: 디카르트가 지도 회사가 아니라 넣지 않음. 다음 차례: aboutamazon.com 발표가 검색에 나오면 공식으로 갱신(금액은 발표에 없으면 블룸버그 기준 유지).
 - 출처: [블룸버그 (제목만)](https://www.bloomberg.com/news/articles/2026-11-23/amazon-is-said-to-pay-7-5-billion-for-ai-startup-decart-s-tech) · 공식 여부: 보도
 - 확신도: 중간
+- 앱 다시 게시: 성공 — 버전 354.
 
 ### W-20261123-2313-3 · 알림 · 이번 차례
 - 시각: 2026-11-23 23:2x KST
@@ -3295,6 +3362,7 @@ Scout(소식 감지 프로그램)가 모은 기사·공시를 공식 출처로 �
 - 나에게 온 새 요청(RULES 0-3): 없음. 미국 지표: 미국 동부 11-23 09:4x(월) — 오늘 6개 지표 발표 없음(다음 pce·claims 11-25), 매크로 수집 안 돌림, 분석 모두 최신. A 지도: 고칠 것 없음. 앱 다시 게시: 반영이 없어 안 함. done 은 대기 목록에 없는 오래된 id 부터 잘라 3000개 유지(저장 뒤 다시 읽어 확인).
 - 출처: ops/scout/newsq.json · [TheFly (TipRanks)](https://www.tipranks.com/news/the-fly/humana-falls-after-cms-proposes-new-system-for-medicare-stars-thefly-news) · [ABC Money](https://www.abcmoney.co.uk/2026/11/unitedhealth-humana-cvs-slide-on-medicare-audit-not-ratings) · 공식 여부: 저장소·보도
 - 확신도: 중간
+- 앱 다시 게시: 성공 — 버전 354.
 
 ### W-20261124-0013-1 · 알림 · 이번 차례
 - 시각: 2026-11-24 00:2x KST
@@ -3461,6 +3529,7 @@ Scout(소식 감지 프로그램)가 모은 기사·공시를 공식 출처로 �
 - 내용: data/aimap.json ai 지도 엔비디아 → 코어위브 투자 관계 t 를 "지분 약 11% 보유 (처음 '5% 이상'에서 바뀜)"로, d 2026.5, src 24/7 Wall St(야후 전재, 2026-05-17 · 13F 4,720만 주 · 발행 주식 약 4.28억 주의 약 11%), chk 2026-11-24 로 고쳤어요. 참고: TechSpot 은 6/30 기준 13F 에서 코어위브 평가액 47억 달러라고만 쓰고 % 는 없어요. 9/30 기준 13F 는 확인 못 함 — Vernon 다음 대조 때 최신 13F 로 다시 봐 주세요.
 - 출처: [24/7 Wall St (야후 전재)](https://finance.yahoo.com/markets/stocks/articles/nvidia-hidden-portfolio-just-doubled-151949175.html) · [TechSpot](https://techspot.com/news/113672-nvidia-63-billion-stock-portfolio-map-own-supply.html) · 공식 여부: 보도
 - 확신도: 중간
+- 앱 다시 게시: 성공 — 버전 354.
 
 ### W-20261124-0843-3 · 알림 · 이번 차례
 - 시각: 2026-11-24 08:5x KST
@@ -3522,6 +3591,7 @@ Scout(소식 감지 프로그램)가 모은 기사·공시를 공식 출처로 �
 - 시각: 2026-11-24 11:5x KST
 - 내용: 로켓랩 뉴트론 5.15억 달러 계약(11-09 보도자료)이 실적과 같은 시기에 나와 2주 동안 news.RKLB 에 빠져 있었어요. 실적 숫자는 Tally 몫이지만, 같은 날 따로 나온 계약·수주 보도자료는 Wren 몫이라 건너뛰지 않아요.
 - 확신도: 중간
+- 앱 다시 게시: 성공 — 버전 354.
 
 ### W-20261124-1213-1 · 반영 · NVTS 르네사스 GaN 제품 상대 두 번째 특허 소송 (공식)
 - 시각: 2026-11-24 12:2x KST
@@ -3562,6 +3632,7 @@ Scout(소식 감지 프로그램)가 모은 기사·공시를 공식 출처로 �
 - 내용: market "2026-11-24 · 06:00" 항목의 "S&P500 약 +5%, 다우 약 +3%" → "S&P500 +4.7%, 다우 +3.0%"로 고치고 출처에 Fox Business·AP 를 더했어요. 최종판 기사(How major US stock indexes fared·Zacks 11/24)는 검색에 아직 안 나와 못 봤지만, 마감 뒤 두 매체(Fox "settle" +4.73%, AP +4.7%)가 같아 반올림 값 +4.7%는 0.1%p 안쪽 수정에도 그대로예요. 24/7 Wall St. 제목 +4.8%는 한 곳뿐이라 따르지 않음.
 - 출처: [Fox Business](https://www.foxbusiness.com/markets/stocks-november-23-2026) · [AP (WSVN)](https://wsvn.com/news/us-world/nvidia-ai-stocks-surge-huang-return/) · 공식 여부: 보도
 - 확신도: 중간
+- 앱 다시 게시: 성공 — 버전 354.
 
 ### W-20261124-1313-4 · 알림 · 이번 차례
 - 시각: 2026-11-24 13:1x KST
@@ -3574,6 +3645,7 @@ Scout(소식 감지 프로그램)가 모은 기사·공시를 공식 출처로 �
 - 시각: 2026-11-24 13:1x KST
 - 내용: NASA CLPS 2(8개사, 11-07 토요일 발표)가 2주 넘게 앱 종목 5곳 모두에서 빠져 있었어요. 회사별 기사 제목에 안 걸리는 정부 발표(주말 발표 포함)는 Scout 대기 목록에 잘 안 올라와요. 큰 정부 계약 기사를 보면 원문의 회사 목록을 열어 앱 종목(index.html STOCKS)을 모두 찾아 넣어요.
 - 확신도: 중간
+- 앱 다시 게시: 성공 — 버전 354.
 
 ### W-20261124-1343-1 · 알림 · 이번 차례
 - 시각: 2026-11-24 13:4x KST
@@ -4015,6 +4087,7 @@ Scout(소식 감지 프로그램)가 모은 기사·공시를 공식 출처로 �
 - 시각: 2026-11-25 07:5x KST
 - 내용: 24/7 Wall St. 카드는 11/24 다우가 '처음으로 50,000 위에서 마쳤다'고 썼지만, 검색에는 2026-02-06 AP '다우 처음 50,000 돌파' 기사와 다른 금요일의 같은 문구 기사(The Hill)도 나와요. 로이터 마감 기사는 '사상 최고'라고 하지 않았어요. 그래서 줄에 '처음'·'최고'를 넣지 않았어요. 지수 '처음·최고' 표현은 로이터·AP 원문이 직접 말할 때만 써요. 같이: investingLive '마감' 글(날짜 없음)은 숫자가 다른 날 장이었어요 — 날짜 없는 마감 글은 쓰지 않아요.
 - 확신도: 중간
+- 앱 다시 게시: 성공 — 버전 354.
 
 ### W-20261125-0743-3 · 알림 · 이번 차례
 - 시각: 2026-11-25 07:5x KST
@@ -4321,6 +4394,7 @@ Scout(소식 감지 프로그램)가 모은 기사·공시를 공식 출처로 �
 - 내용: 로이터 단독(11-24 16:11 UTC = 11-25 01:11 KST, 사내 메모 입수): 11월 12~13일 엑스체인지 온라인·아웃룩·팀즈·코파일럿 장애(약 24시간) 뒤 최고 단계 '코드 레드'로 장애 예방·대응을 고치는 작업(5개 갈래)을 시작했고, 앞으로 전 세계 장애를 1시간 안에 풀겠다는 목표를 세웠다는 내용. 회사 대변인이 로이터에 입장을 냈지만 메모 내용을 공식 확인하진 않아 '보도'. news MSFT 맨 앞에 넣고 8개 유지(가장 오래된 11-13 세레브라스 클라우드 계약이 빠짐).
 - 출처: [Reuters (AOL 전재)](https://www.aol.com/articles/exclusive-microsoft-declares-code-red-161107000.html) · [Virginia Business](https://virginiabusiness.com/microsoft-declares-code-red-after-global-outage/) · 공식 여부: 보도
 - 확신도: 중간
+- 앱 다시 게시: 성공 — 버전 354.
 
 ### W-20261125-2143-2 · 반영 · TSLA EU 차원 FSD 승인 논의 12/1 → 12/15 연기 (보도)
 - 시각: 2026-11-25 21:4x KST
@@ -4368,6 +4442,7 @@ Scout(소식 감지 프로그램)가 모은 기사·공시를 공식 출처로 �
 - 내용: data/views.json ind.claims 를 11/21 주간(rel 2026-11-25)으로 바꿨어요. 신규 18.9만 건(전주 고친 값 20.2만, 예상 약 20.1만 — investingLive 본문, 제목은 20만), 4주 평균 19.6만, 계속 청구 169.7만(11/14 주간, 9.5만 감소). 숫자는 macro.json(a 18.9 · p 20.2)과 같아요. 노동부 data.pdf 는 아직 11/14 주간 자료라 공식 대조 못 함. 다음 청구 12/3(미국 날짜).
 - 출처: [investingLive](https://investinglive.com/news/us-initial-jobless-claims-200k-vs-200k-estimate-continuing-claim-1-721m-vs-1-721m-estimate/) · [Yahoo Finance 라이브](https://finance.yahoo.com/markets/live/stock-market-today-wednesday-november-25-dow-sp-500-nasdaq-pce-inflation-data-091428237.html) · 공식 여부: 보도
 - 확신도: 중간
+- 앱 다시 게시: 성공 — 버전 354.
 
 ### W-20261125-2243-3 · 알림 · 이번 차례
 - 시각: 2026-11-25 22:5x KST
@@ -4835,6 +4910,7 @@ Scout(소식 감지 프로그램)가 모은 기사·공시를 공식 출처로 �
 - 내용: 블룸버그가 '관계자' 인용으로, 코어위브의 메타 계약(조지아주 돌턴 데이터센터 GPU)을 담보로 한 45억 달러 대출을 모건스탠리·MUFG가 시장에 내놓을 준비를 한다고 보도했어요(대출은 메타 계약 덕에 투자등급 예상 — 등급 회사·등급 이름은 기사에 없음). 아직 회사 발표 없음 — 확정·가격이 나오면 '공식'으로 갱신.
 - 출처: [Investing.com(블룸버그 인용)](https://uk.investing.com/news/stock-market-news/coreweave-banks-prepare-45-billion-metatied-loan-sale-next-week-bloomberg-says-5004605) · [Yahoo Finance(Stocktwits, 11-25 13:02 PST)](https://finance.yahoo.com/technology/ai/articles/coreweave-bankers-reportedly-ready-4-210216828.html) · 공식 여부: 보도
 - 확신도: 중간
+- 앱 다시 게시: 성공 — 버전 354.
 
 ### W-20261126-1743-2 · 알림 · 이번 차례
 - 시각: 2026-11-26 17:5x KST
