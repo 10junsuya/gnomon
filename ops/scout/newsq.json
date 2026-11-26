@@ -1,21 +1,51 @@
 {
-"updated_kst": "2026-11-26 11:14",
-"rot": 28,
+"updated_kst": "2026-11-26 11:26",
+"rot": 88,
 "how": "Scout(프로그램)이 10분마다 모은 기사 제목·링크와 공시예요. Wren이 공식 출처로 확인한 뒤 회사 화면에 한국어로 반영해요. 본문은 받지 않아요.",
 "sources": {
 "Yahoo Finance": "120종목 확인 · 실패 0",
-"GlobeNewswire": "1건",
+"GlobeNewswire": "실패 HTTPError",
 "PR Newswire": "0건",
 "Business Wire": "0건",
 "CNBC": "63건",
 "Bloomberg": "40건",
 "WSJ": "61건",
-"Reuters": "100건",
+"Reuters": "51건",
 "FinancialJuice": "100건",
 "SEC EDGAR": "실패 HTTPError",
 "Fox Business": "50건"
 },
 "items": [
+{
+"id": "1ff54e5fe94d",
+"t": "CVLT",
+"title": "CommVault Systems Bets on Cloud and AI Recovery as CFO Search Continues",
+"url": "https://www.marketbeat.com/instant-alerts/event-commvault-systems-bets-on-cloud-and-ai-recovery-as-cfo-search-continues-2026-11-25/",
+"pub": "2026-11-26T02:12:15+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-26T02:26:03+00:00"
+},
+{
+"id": "342662f83143",
+"t": "AMZN",
+"title": "Washington Calls It a Goldilocks Economy. On a $2,071 Social Security Check, She Calls It the Annoyance Economy: Prices Up 3.7%, and Her Real Raise Is Just 3.3%",
+"url": "https://247wallst.com/personal-finance/social-security/2026/11/25/washington-calls-it-a-goldilocks-economy-on-a-2071-social-security-check-she-calls-it-the-annoyance-economy-prices-up-3-7-and-her-real-raise-is-just-3-3/",
+"pub": "2026-11-26T02:03:25+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-26T02:26:03+00:00"
+},
+{
+"id": "8b15913d604d",
+"t": "MA",
+"title": "Debia and Mastercard Sign MoU to Advance Agentic Commerce",
+"url": "https://finance.yahoo.com/technology/ai/articles/debia-mastercard-sign-mou-advance-020000232.html",
+"pub": "2026-11-26T02:00:00+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-26T02:26:03+00:00"
+},
 {
 "id": "ee806a7e4701",
 "t": "RKLB",
@@ -45,6 +75,26 @@
 "src": "Yahoo Finance",
 "kind": "news",
 "seen": "2026-11-26T01:44:44+00:00"
+},
+{
+"id": "5b728bb6587e",
+"t": "KO",
+"title": "3 US Consumer Staples Stocks Built For Sticky Inflation",
+"url": "https://finance.yahoo.com/markets/stocks/articles/3-us-consumer-staples-stocks-011434558.html",
+"pub": "2026-11-26T01:14:34+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-26T02:26:03+00:00"
+},
+{
+"id": "17112a8e95f2",
+"t": "FPS",
+"title": "Why Forgent Power Solutions (FPS) Failed to Live Up to Its IPO Hype?",
+"url": "https://finance.yahoo.com/markets/stocks/articles/why-forgent-power-solutions-fps-011255361.html",
+"pub": "2026-11-26T01:12:55+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-26T02:26:03+00:00"
 },
 {
 "id": "80e0300a05a0",
@@ -105,6 +155,16 @@
 "src": "Yahoo Finance",
 "kind": "news",
 "seen": "2026-11-26T01:10:48+00:00"
+},
+{
+"id": "02962105c3bf",
+"t": "SKHY",
+"title": "Samsung and SK Hynix Drag KOSPI Down 6%, and Foreign Investors Are Running",
+"url": "https://beincrypto.com/kospi-crash-south-korea-stock-market/",
+"pub": "2026-11-26T00:54:58+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-26T02:26:03+00:00"
 },
 {
 "id": "bb88dd86c507",
@@ -7963,64 +8023,14 @@
 "seen": "2026-11-25T13:44:08+00:00"
 },
 {
-"id": "40b93ed96b9e",
-"t": "NTAP",
-"title": "Unveiling NetApp (NTAP) Q2 Outlook: Wall Street Estimates for Key Metrics",
-"url": "https://finance.yahoo.com/markets/stocks/articles/unveiling-netapp-ntap-q2-outlook-131503142.html",
-"pub": "2026-11-25T13:15:03+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-25T14:44:19+00:00"
-},
-{
-"id": "fa0f7f35425b",
-"t": "GS",
-"title": "PNC Executives to Speak at Goldman Sachs Financial Services Conference",
-"url": "https://finance.yahoo.com/markets/stocks/articles/pnc-executives-speak-goldman-sachs-131500464.html",
-"pub": "2026-11-25T13:15:00+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-25T14:15:15+00:00"
-},
-{
-"id": "2d5fe4595de3",
-"t": "BABA",
-"title": "Alibaba vs. Baidu: which China AI stock offers better risk-adjusted returns",
-"url": "https://finance.yahoo.com/markets/stocks/articles/alibaba-vs-baidu-china-ai-131453070.html",
-"pub": "2026-11-25T13:14:53+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-25T14:15:15+00:00"
-},
-{
-"id": "689e00a9340f",
-"t": "VOO",
-"title": "$1 Million In VYM Matched VOO With Smaller Falls",
-"url": "https://www.trefis.com/stock/vym/articles/628731/1-million-in-vym-matched-voo-with-smaller-falls/2026-11-25",
-"pub": "2026-11-25T13:14:52+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-25T13:44:08+00:00"
-},
-{
-"id": "2b1026fc790a",
-"t": "CAT",
-"title": "Caterpillar (CAT) Makes Collision Warning Standard On Most New Construction Machines",
-"url": "https://finance.yahoo.com/markets/stocks/articles/caterpillar-cat-makes-collision-warning-131411806.html",
-"pub": "2026-11-25T13:14:11+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-25T14:15:15+00:00"
-},
-{
-"id": "f21285ffd6b2",
-"t": "QQQ",
-"title": "Stock Market Today: Dow Dives Ahead Of Fed Inflation Data; Nvidia, Anthropic Plunge (Live Coverage)",
-"url": "https://finance.yahoo.com/m/90407e46-3b17-34e8-8c82-527bf00b63e4/stock-market-today%3A-dow-dives.html",
-"pub": "2026-11-25T13:14:04+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-25T13:18:15+00:00"
+"id": "09706a476bfa",
+"t": "",
+"title": "KK Mart Starts $112 Million IPO Delayed by Malaysia Socks Row",
+"url": "https://www.bloomberg.com/news/articles/2026-11-26/kk-mart-starts-112-million-ipo-delayed-by-malaysia-socks-row",
+"pub": "2026-11-26T02:03:11+00:00",
+"src": "Bloomberg",
+"kind": "market",
+"seen": "2026-11-26T02:26:03+00:00"
 },
 {
 "id": "a786dd31861c",
@@ -8081,6 +8091,16 @@
 "src": "WSJ",
 "kind": "market",
 "seen": "2026-11-26T01:44:44+00:00"
+},
+{
+"id": "7985adda7462",
+"t": "",
+"title": "BOJ's Tamura signals chance of faster-pace interest rate hikes - Reuters",
+"url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPSzdDZ1dodDgxM0NfQ1dITzJmdGxGVWhwUzRfY0ZhczRfZXFxRkhzZWZxS3JGdWhvU3BuRXhYRV9Halg4MjM0RnUwSklfdklwWWRSakNUdm9KV3JHSEJpR01HS2J0QUpKZFYwOThYRDMyVVc1cm9neWRYaFdyV000bENreEN1Y0g0Wk95bEdNZ2MyVmxTQlB4QWhYS1hUTkFZNENqbXh4STc?oc=5",
+"pub": "2026-11-26T01:15:00+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-26T02:26:03+00:00"
 },
 {
 "id": "bd6aca5691ee",
@@ -8421,6 +8441,16 @@
 "src": "Bloomberg",
 "kind": "market",
 "seen": "2026-11-25T22:44:42+00:00"
+},
+{
+"id": "7a4a2ef5b307",
+"t": "",
+"title": "Crude Posts Back-to-Back Gains on Middle East Tension",
+"url": "https://www.wsj.com/finance/commodities-futures/oil-futures-decline-as-traders-weigh-competing-supply-risks-9dd3835d",
+"pub": "2026-11-25T22:09:00+00:00",
+"src": "WSJ",
+"kind": "market",
+"seen": "2026-11-26T02:26:03+00:00"
 },
 {
 "id": "1f0bcc851ab2",
@@ -9301,6 +9331,16 @@
 "src": "FinancialJuice",
 "kind": "market",
 "seen": "2026-11-25T18:45:05+00:00"
+},
+{
+"id": "cde0359bff8c",
+"t": "",
+"title": "Emirates Nbd Bank PJSC (ENBD.DU) | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9ZUnRGeTZDTEtWbWpqVVZmYWc4SXpERWt1SDZEMmxhVFBaT3ZtTmplUWRSV3FLV3haQnFnSXEzV0RDWmZKQi1tMG9ETVcyazZZVkpSZG5KSF83NURuU2E4?oc=5",
+"pub": "2026-11-25T18:34:23+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-26T02:26:03+00:00"
 },
 {
 "id": "0c6eb0ab99ca",
@@ -10978,46 +11018,6 @@
 "title": "BoE Gov. Bailey: The UK labour market is no longer softening; it has flattened out.",
 "url": "https://www.financialjuice.com/News/9867972/BoE-Gov-Bailey-The-UK-labour-market-is-no-longer-softening-it-has-flattened-out.aspx?xy=rss",
 "pub": "2026-11-25T14:34:05+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-25T14:44:19+00:00"
-},
-{
-"id": "c8ba26fd004b",
-"t": "",
-"title": "BoE Gov. Bailey: We are seeing greater resilience in the UK economy; we must factor this into inflation projections.",
-"url": "https://www.financialjuice.com/News/9867971/BoE-Gov-Bailey-We-are-seeing-greater-resilience-in-the-UK-economy-we-must-factor-this-into-inflation-projections.aspx?xy=rss",
-"pub": "2026-11-25T14:33:45+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-25T14:44:19+00:00"
-},
-{
-"id": "3ab2203aad87",
-"t": "",
-"title": "BoE Gov. Bailey: The pipeline of energy effects now looks stronger.",
-"url": "https://www.financialjuice.com/News/9867970/BoE-Gov-Bailey-The-pipeline-of-energy-effects-now-looks-stronger.aspx?xy=rss",
-"pub": "2026-11-25T14:33:21+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-25T14:44:19+00:00"
-},
-{
-"id": "ae066d0894d3",
-"t": "",
-"title": "BoE Gov. Bailey: There's no substantial inflation pass-through.",
-"url": "https://www.financialjuice.com/News/9867969/BoE-Gov-Bailey-Theres-no-substantial-inflation-pass-through.aspx?xy=rss",
-"pub": "2026-11-25T14:32:47+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-25T14:44:19+00:00"
-},
-{
-"id": "91ebdf3a0eef",
-"t": "",
-"title": "Deutsche Bank's View on AUD - FJElite",
-"url": "https://www.financialjuice.com/News/9867967/Deutsche-Banks-View-on-AUD---FJElite.aspx?xy=rss",
-"pub": "2026-11-25T14:32:14+00:00",
 "src": "FinancialJuice",
 "kind": "market",
 "seen": "2026-11-25T14:44:19+00:00"
