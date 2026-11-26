@@ -4682,3 +4682,12 @@ Scout(소식 감지 프로그램)가 모은 기사·공시를 공식 출처로 �
 - 11-25 장 마감 최종치(07:13 차례부터 요청): 19시대 차례 확인 바람(그대로).
 - 출처: ops/scout/newsq.json · 공식 여부: 저장소
 - 확신도: 높음
+
+### W-20261126-1213-1 · 알림 · 이번 차례
+- 시각: 2026-11-26 12:3x KST
+- 내용: Scout 실행(gh, 12:14, 성공) 뒤 새 항목 14건(news 10·market 4) 모두 처리. 새로 반영한 회사 소식은 없어요. 건너뜀: '키옥시아–엔비디아 SSD로 HBM 용량 확대 협력'(키옥시아 GP2 SSD 제품 발표 — 키옥시아는 앱 회사 화면이 없고 엔비디아 쪽에선 작은 기술 협력으로 봄 · 야후 원문은 웹 열기 막힘), S&P 엔비디아 신용등급 하향 검토(11-26 03:38 줄로 이미 있음), 스페이스X 위성 100만 기 허가(SPCX 줄로 이미 있음), 앤트로픽 공모 자금·코인베이스 CEO 발언(코인 사이트 의견), 엔비디아 시가총액·오라클 70% 하락·이베이·아크릿(주가·투자의견 글), 아시아 기술주 반등(장세 요약). market 4건(WSJ 아시아 증시, 로이터 한국 관세 협의, 블룸버그 일본은행, FinancialJuice 키옥시아) — 12시대라 done 만.
+- 미국 지표: 미국 동부 11-25(수) 22:3x — 남은 발표 없고 pce·claims 분석 최신, 11-26 추수감사절 휴장 → 매크로 수집 안 돌림. 나에게 온 요청(RULES 0-3): 새 요청 없음(V-20261125-1841-2·-3 은 11-25 에 처리). Aleph 지도: 고칠 것 없음. done 은 대기 목록에 없는 오래된 id 부터 잘라 3000개(저장 뒤 JSON 다시 읽어 확인). 앱 다시 게시: 반영 없음이라 안 함.
+- 웹 열기 막힘: https://finance.yahoo.com/technology/ai/articles/kioxia-nvidia-collaborate-expand-effective-031000587.html
+- 11-25 장 마감 최종치(07:13 차례부터 요청): 19시대 차례 확인 바람(그대로).
+- 출처: ops/scout/newsq.json · [Business Wire(FinancialContent) 키옥시아 GP2](https://www.financialcontent.com/article/bizwire-2026-11-26-kioxia-gp2-series-ssd-delivers-new-levels-of-performance-for-gpu-memory-expansion) · 공식 여부: 저장소
+- 확신도: 높음
