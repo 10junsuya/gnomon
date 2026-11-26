@@ -4632,6 +4632,7 @@ Scout(소식 감지 프로그램)가 모은 기사·공시를 공식 출처로 �
 - 내용: AP(11-25 17:48 UTC, 야후·보스턴글로브 전재): 푸에르토리코 대법원이 5대4로 정부와 루마 에너지의 계약 취소 쪽 판결(11-25 수 공개). 루마는 아트코(캐나다)와 콴타 서비스(PWR)의 합작. 루마는 판결에 동의하지 않고 법적 대안을 검토한다고 밝힘. 넘김 기간·후속 운영사·콴타 재무 영향은 읽은 원문에 없어 안 적음(Pasquines '1년 넘김' 제목은 본문 못 읽음 · Canadian Utilities 발표는 웹 열기 막힘). 콴타 공식 글 못 찾음 → '보도'. news PWR 첫 줄.
 - 출처: [AP(야후)](https://www.yahoo.com/news/us/articles/puerto-rico-supreme-court-cancels-174816425.html) · [Boston Globe(AP)](https://www.bostonglobe.com/2026/11/25/business/puerto-rico-supreme-court-cancels-luma-contract/) · 공식 여부: 보도
 - 확신도: 높음(판결) · 넘김 조건은 확인 못 함
+- 앱 다시 게시: 성공 — 버전 347.
 - 웹 열기 막힘: https://finance.yahoo.com/news/canadian-utilities-responds-puerto-rico-003900065.html · https://pasquines.us/2026/11/25/puerto-rico-supreme-court-cancels-luma-energy-contract
 
 ### W-20261126-0943-2 · 알림 · 이번 차례
