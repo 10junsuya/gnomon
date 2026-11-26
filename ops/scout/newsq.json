@@ -1,21 +1,61 @@
 {
-"updated_kst": "2026-11-26 13:14",
-"rot": 30,
+"updated_kst": "2026-11-26 13:44",
+"rot": 90,
 "how": "Scout(프로그램)이 10분마다 모은 기사 제목·링크와 공시예요. Wren이 공식 출처로 확인한 뒤 회사 화면에 한국어로 반영해요. 본문은 받지 않아요.",
 "sources": {
 "Yahoo Finance": "120종목 확인 · 실패 0",
-"GlobeNewswire": "실패 HTTPError",
+"GlobeNewswire": "1건",
 "PR Newswire": "0건",
 "Business Wire": "0건",
 "CNBC": "63건",
 "Bloomberg": "40건",
 "WSJ": "61건",
-"Reuters": "57건",
+"Reuters": "58건",
 "FinancialJuice": "100건",
 "SEC EDGAR": "실패 HTTPError",
 "Fox Business": "50건"
 },
 "items": [
+{
+"id": "5ebf93b11aea",
+"t": "AMZN",
+"title": "MegazoneCloud Launches Its Amazon Quick Center of Excellence to Turn Enterprise Data Into Autonomous Action",
+"url": "https://finance.yahoo.com/technology/ai/articles/megazonecloud-launches-amazon-quick-center-042800157.html",
+"pub": "2026-11-26T04:28:00+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-26T04:44:11+00:00"
+},
+{
+"id": "ef1d19cec4de",
+"t": "NVDA",
+"title": "Global markets rebound as tech shares recover and tariff fears ease",
+"url": "https://www.euronews.com/2026/11/26/anxiety-over-the-ai-boom-and-inflation-drags-wall-street-lower",
+"pub": "2026-11-26T04:25:39+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-26T04:44:11+00:00"
+},
+{
+"id": "05166fb01292",
+"t": "NVDA",
+"title": "‘I Don’t Think He Needs a Pardon at All’: JD Vance Defends Nvidia CEO Jensen Huang as Crypto Bettors Put Him Atop Trump’s List",
+"url": "https://www.benzinga.com/markets/prediction-markets/26/11/63659548/jd-vance-jensen-huang-trump-pardon-nvidia",
+"pub": "2026-11-26T04:14:03+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-26T04:44:11+00:00"
+},
+{
+"id": "5c1699fd77a3",
+"t": "MU",
+"title": "Dow Jones Futures Rise After Nasdaq Slashes Losses In Wild Market Ride",
+"url": "https://finance.yahoo.com/m/158e82fc-b889-34b6-8704-99a49e9a83ae/dow-jones-futures-rise-after.html",
+"pub": "2026-11-26T04:06:32+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-26T04:44:11+00:00"
+},
 {
 "id": "b4f361856078",
 "t": "NVDA",
@@ -35,6 +75,16 @@
 "src": "Yahoo Finance",
 "kind": "news",
 "seen": "2026-11-26T03:44:34+00:00"
+},
+{
+"id": "d62181460eca",
+"t": "TSLA",
+"title": "Mark Cuban Says the Most Common Mistake He Saw Founders Make on 'Shark Tank' Was a Job They Kept Handing Off: 'You're Going to Fail'",
+"url": "https://finance.yahoo.com/small-business/articles/mark-cuban-says-most-common-033007508.html",
+"pub": "2026-11-26T03:30:07+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-26T04:44:11+00:00"
 },
 {
 "id": "6f99c0b9c40d",
@@ -85,6 +135,16 @@
 "src": "Yahoo Finance",
 "kind": "news",
 "seen": "2026-11-26T03:34:03+00:00"
+},
+{
+"id": "943aee1403b0",
+"t": "NVDA",
+"title": "‘Trump Put’ Protects Nvidia Growth Through 2028, Says Gary Black as NVDA Stock Trades at Cheapest Valuation in 10 Years",
+"url": "https://finance.yahoo.com/markets/stocks/articles/trump-put-protects-nvidia-growth-030625717.html",
+"pub": "2026-11-26T03:06:25+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-26T04:44:11+00:00"
 },
 {
 "id": "f5be72eaf925",
@@ -1066,6 +1126,16 @@
 "src": "Yahoo Finance",
 "kind": "news",
 "seen": "2026-11-25T22:44:42+00:00"
+},
+{
+"id": "ba7e8aca808c",
+"t": "AVGO",
+"title": "Cathie Wood Dumped 99% of ARKK’s Broadcom Stake Near Its 52-Week Low. December 9 Is When AVGO Stock Could Prove Her Wrong.",
+"url": "https://www.barchart.com/story/news/9010831/cathie-wood-dumped-99-of-arkks-broadcom-stake-near-its-52-week-low-december-9-is-when-avgo-stock-could-prove-her-wrong",
+"pub": "2026-11-25T22:07:37+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-26T04:44:11+00:00"
 },
 {
 "id": "a76dca1638bc",
@@ -7953,74 +8023,54 @@
 "seen": "2026-11-25T14:15:15+00:00"
 },
 {
-"id": "49d2be5bb4ec",
-"t": "CEG",
-"title": "Vistra Underperforms Industry in the Past Year: Time to Buy or Wait?",
-"url": "https://finance.yahoo.com/energy/articles/vistra-underperforms-industry-past-time-134200801.html",
-"pub": "2026-11-25T13:42:00+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-25T15:05:32+00:00"
+"id": "f573af37d31b",
+"t": "",
+"title": "Australia Firms See Inflation Holding Over 4% for Next 12 Months",
+"url": "https://www.bloomberg.com/news/articles/2026-11-26/australia-firms-see-inflation-holding-over-4-for-next-12-months",
+"pub": "2026-11-26T04:30:00+00:00",
+"src": "Bloomberg",
+"kind": "market",
+"seen": "2026-11-26T04:44:11+00:00"
 },
 {
-"id": "5129f43e1bb6",
-"t": "COP",
-"title": "Are Oils-Energy Stocks Lagging  Vaalco Energy (EGY) This Year?",
-"url": "https://finance.yahoo.com/markets/stocks/articles/oils-energy-stocks-lagging-vaalco-134004133.html",
-"pub": "2026-11-25T13:40:04+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-25T15:05:32+00:00"
+"id": "24e2a276370e",
+"t": "",
+"title": "Elon Musk, SpaceX pledge major stock donations to active Trump Accounts",
+"url": "https://www.foxbusiness.com/markets/elon-musk-spacex-pledge-major-stock-donations-active-trump-accounts",
+"pub": "2026-11-26T04:29:55+00:00",
+"src": "Fox Business",
+"kind": "market",
+"seen": "2026-11-26T04:44:11+00:00"
 },
 {
-"id": "3cd40d0d2e7d",
-"t": "FIX",
-"title": "Has Comfort Systems USA (FIX) Outpaced Other Construction Stocks This Year?",
-"url": "https://finance.yahoo.com/markets/stocks/articles/comfort-systems-usa-fix-outpaced-134003832.html",
-"pub": "2026-11-25T13:40:03+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-25T15:05:32+00:00"
+"id": "d10e214125b2",
+"t": "",
+"title": "Japan Protests New US Tariff Rate, Allegation of Excess Capacity",
+"url": "https://www.bloomberg.com/news/articles/2026-11-26/japan-protests-new-us-tariff-rate-allegation-of-excess-capacity",
+"pub": "2026-11-26T04:19:44+00:00",
+"src": "Bloomberg",
+"kind": "market",
+"seen": "2026-11-26T04:44:11+00:00"
 },
 {
-"id": "8b62c5680f2f",
-"t": "DELL",
-"title": "5 Things Investors Need to Know About Wednesday’s Markets",
-"url": "https://www.investopedia.com/5-things-to-know-stock-market-november-25-2026-12276784",
-"pub": "2026-11-25T13:38:20+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-25T15:14:55+00:00"
+"id": "b30a06352e0b",
+"t": "",
+"title": "Singapore 'very disappointed' over new tariffs, urges US to reconsider - Reuters",
+"url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOVTBhUG5wa3oyMWZJSVhaWlo3V0hiVjlsUlN6bXRXTVdpUmVlaWFzSkFOVEF0UEc4cTJESV9CVDZiSzdvVV9tS2JOQVU0X3BPdDdXejYzM2VPWnF6UjNLMmI4ZndCa2w2WXdwTVRQaGFSZ0pfY3FFdXRhMllLVVowdWJIblU3dEUtZi1XU0Jrc1J2NS10LUFLTnNZS0o0bnB6eGlRSGVLWHJnV08xem9YV1FNMA?oc=5",
+"pub": "2026-11-26T04:11:00+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-26T04:44:11+00:00"
 },
 {
-"id": "b622b92c29cc",
-"t": "NVDA",
-"title": "Nvidia’s Top Lawyer Sold $4.5 Million of Nvidia Stock the Day Before Its 14% Plunge",
-"url": "https://247wallst.com/investing/2026/11/25/nvidias-top-lawyer-sold-4-5-million-of-nvidia-stock-the-day-before-its-14-plunge/",
-"pub": "2026-11-25T13:37:45+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-25T13:58:47+00:00"
-},
-{
-"id": "dbb4e3d885e8",
-"t": "DELL",
-"title": "Dell Stock Gets Slew Of Price Target Cuts After 'Very Strong' Quarter On AI Buildout Worries",
-"url": "https://stocktwits.com/news-articles/markets/equity/dell-stock-gets-slew-of-price-target-cuts-after-very-strong-quarter-on-ai-buildout-worries/cNbHiwbR9mg",
-"pub": "2026-11-25T13:36:49+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-25T14:15:15+00:00"
-},
-{
-"id": "fdd4c9a483bd",
-"t": "NVDA",
-"title": "PCE Inflation Overshoots As Fed Fears Worsen AI-Stock Volatility (Live Coverage)",
-"url": "https://finance.yahoo.com/m/b30124ad-742e-3a7a-9720-272c18c9df53/pce-inflation-overshoots-as.html",
-"pub": "2026-11-25T13:36:40+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-25T13:44:08+00:00"
+"id": "8b19aff4fbdd",
+"t": "",
+"title": "China-Backed Pakistan Exchange Prepares to Launch Stock Options",
+"url": "https://www.bloomberg.com/news/articles/2026-11-26/china-backed-pakistan-exchange-prepares-to-launch-stock-options",
+"pub": "2026-11-26T04:00:15+00:00",
+"src": "Bloomberg",
+"kind": "market",
+"seen": "2026-11-26T04:44:11+00:00"
 },
 {
 "id": "cacf60a9f7eb",
@@ -8111,6 +8161,16 @@
 "src": "Reuters",
 "kind": "market",
 "seen": "2026-11-26T03:14:26+00:00"
+},
+{
+"id": "4fa06d01d216",
+"t": "",
+"title": "Amazon.com Inc (AMZN.O) | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFA0MURVMkxlMjB5YklKZmVtYnBLaWpob1QyZWdOaUlrSE5FZm9ZUjNJbkJTLThRYk9VWFpGYktlaENjVUxwSjdYaW8wcVV3MlJaUTFpQXJTakZFNDgyZ1E?oc=5",
+"pub": "2026-11-26T02:45:32+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-26T04:44:11+00:00"
 },
 {
 "id": "d53fa44f4886",
@@ -10958,66 +11018,6 @@
 "title": "BoE's Mann: My job is to bring down inflation risk premia.",
 "url": "https://www.financialjuice.com/News/9867998/BoEs-Mann-My-job-is-to-bring-down-inflation-risk-premia.aspx?xy=rss",
 "pub": "2026-11-25T14:52:10+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-25T15:05:32+00:00"
-},
-{
-"id": "6799e4608052",
-"t": "",
-"title": "WH Sr. Adviser Hassett's interview on Fox Business ends.",
-"url": "https://www.financialjuice.com/News/9867997/WH-Sr-Adviser-Hassetts-interview-on-Fox-Business-ends.aspx?xy=rss",
-"pub": "2026-11-25T14:51:09+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-25T15:05:32+00:00"
-},
-{
-"id": "848671f27602",
-"t": "",
-"title": "Nasdaq 100 Set for Bear Market as AI Trade Unravels at the Seams",
-"url": "https://www.bloomberg.com/news/articles/2026-11-25/nasdaq-100-set-for-bear-market-as-ai-trade-unravels-at-the-seams",
-"pub": "2026-11-25T14:50:56+00:00",
-"src": "Bloomberg",
-"kind": "market",
-"seen": "2026-11-25T15:05:32+00:00"
-},
-{
-"id": "193c7a892e25",
-"t": "",
-"title": "IFOS.GO - Reuters",
-"url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9RQ19CWHg2WGZEVVZseFZUWWIzek83U2Vsdjg4OUljWDdhY3k4NXhpemF3SVBvdVE3NVVDU3JJckVXaENKZ1RHTDNHZ0tWQTE1S01GbmVkR1c1djYtaHVqVDhSV3Q0WWRYdEhIR0d3Wm1URXR4LTBfdGZ3?oc=5",
-"pub": "2026-11-25T14:50:16+00:00",
-"src": "Reuters",
-"kind": "market",
-"seen": "2026-11-25T18:09:13+00:00"
-},
-{
-"id": "bbd9c41a9492",
-"t": "",
-"title": "WH Sr. Adviser Hassett: I expect more 4% quarters and more GDP upward revisions.",
-"url": "https://www.financialjuice.com/News/9867996/WH-Sr-Adviser-Hassett-I-expect-more-4-quarters-and-more-GDP-upward-revisions.aspx?xy=rss",
-"pub": "2026-11-25T14:50:11+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-25T15:05:32+00:00"
-},
-{
-"id": "c9361341112f",
-"t": "",
-"title": "WH Sr. Adviser Hassett: We expect Warsh, and the Fed will be data-driven.",
-"url": "https://www.financialjuice.com/News/9867995/WH-Sr-Adviser-Hassett-We-expect-Warsh-and-the-Fed-will-be-data-driven.aspx?xy=rss",
-"pub": "2026-11-25T14:49:43+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-25T15:05:32+00:00"
-},
-{
-"id": "e32ce394f625",
-"t": "",
-"title": "WH Sr. Adviser Hassett on tariff proposals: The point is to level the playing field.",
-"url": "https://www.financialjuice.com/News/9867994/WH-Sr-Adviser-Hassett-on-tariff-proposals-The-point-is-to-level-the-playing-field.aspx?xy=rss",
-"pub": "2026-11-25T14:48:48+00:00",
 "src": "FinancialJuice",
 "kind": "market",
 "seen": "2026-11-25T15:05:32+00:00"
