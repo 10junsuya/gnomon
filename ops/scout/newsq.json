@@ -1,10 +1,10 @@
 {
-"updated_kst": "2026-11-26 16:44",
-"rot": 93,
+"updated_kst": "2026-11-26 17:14",
+"rot": 153,
 "how": "Scout(프로그램)이 10분마다 모은 기사 제목·링크와 공시예요. Wren이 공식 출처로 확인한 뒤 회사 화면에 한국어로 반영해요. 본문은 받지 않아요.",
 "sources": {
 "Yahoo Finance": "120종목 확인 · 실패 0",
-"GlobeNewswire": "0건",
+"GlobeNewswire": "실패 HTTPError",
 "PR Newswire": "0건",
 "Business Wire": "0건",
 "CNBC": "63건",
@@ -16,6 +16,26 @@
 "Fox Business": "50건"
 },
 "items": [
+{
+"id": "5c26fb2070f8",
+"t": "NVDA",
+"title": "S&P Weighs Nvidia Downgrade Despite Huang's Return. What Would a Cut Mean?",
+"url": "https://beincrypto.com/sp-nvidia-credit-rating-downgrade-watch/",
+"pub": "2026-11-26T08:00:00+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-26T08:14:41+00:00"
+},
+{
+"id": "d7fea9040232",
+"t": "NVDA",
+"title": "Prediction: This Is What Nvidia Stock Will Be Worth by 2028",
+"url": "https://www.fool.com/investing/2026/11/26/prediction-this-is-what-nvidia-stock-will-be-worth-by-2028/",
+"pub": "2026-11-26T07:54:02+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-26T08:14:41+00:00"
+},
 {
 "id": "1bb4e29ebe8f",
 "t": "NVDA",
@@ -8003,24 +8023,34 @@
 "seen": "2026-11-25T14:44:19+00:00"
 },
 {
-"id": "ed657051a9ab",
-"t": "CVX",
-"title": "Can Chevron Build a Lithium Business in the Smackover Formation?",
-"url": "https://finance.yahoo.com/energy/articles/chevron-build-lithium-business-smackover-141200752.html",
-"pub": "2026-11-25T14:12:00+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-25T16:20:21+00:00"
+"id": "02d65ac20e4b",
+"t": "",
+"title": "U.S. tariff-hike threats pile pressure on partners to sign trade deals",
+"url": "https://www.cnbc.com/2026/11/26/us-tariffs-hike-trade-agreement.html",
+"pub": "2026-11-26T08:09:39+00:00",
+"src": "CNBC",
+"kind": "market",
+"seen": "2026-11-26T08:14:41+00:00"
 },
 {
-"id": "f4f9a8467920",
-"t": "NVDA",
-"title": "Stock futures plummet as Jensen Huang rebound rally fades",
-"url": "https://www.cbsnews.com/news/stocks-jensen-huang-bounce-ai-tariffs/",
-"pub": "2026-11-25T14:10:49+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-25T14:44:19+00:00"
+"id": "b6330985e09f",
+"t": "",
+"title": "Trump Riles Trade Partners With Tariffs That Undercut ‘China+1’",
+"url": "https://www.bloomberg.com/news/articles/2026-11-26/trump-riles-trade-partners-with-tariffs-that-undercut-china-1",
+"pub": "2026-11-26T08:05:24+00:00",
+"src": "Bloomberg",
+"kind": "market",
+"seen": "2026-11-26T08:14:41+00:00"
+},
+{
+"id": "fda3752d67d7",
+"t": "",
+"title": "Currency Strength Chart: Strongest: AUD, JPY, USD, EUR, CAD, GBP, NZD, CHF - Weakest",
+"url": "https://www.financialjuice.com/News/9869050/Currency-Strength-Chart-Strongest-AUD-JPY-USD-EUR-CAD-GBP-NZD-CHF---Weakest.aspx?xy=rss",
+"pub": "2026-11-26T08:01:14+00:00",
+"src": "FinancialJuice",
+"kind": "market",
+"seen": "2026-11-26T08:14:41+00:00"
 },
 {
 "id": "b1dfdaad77d8",
@@ -8121,6 +8151,26 @@
 "src": "FinancialJuice",
 "kind": "market",
 "seen": "2026-11-26T07:44:59+00:00"
+},
+{
+"id": "2523ee0ca5d5",
+"t": "",
+"title": "China Tech Stocks Rebound From Record Slump",
+"url": "https://www.bloomberg.com/news/videos/2026-11-26/the-china-show-11-26-2026-video",
+"pub": "2026-11-26T07:16:06+00:00",
+"src": "Bloomberg",
+"kind": "market",
+"seen": "2026-11-26T08:14:41+00:00"
+},
+{
+"id": "8c7961a12ead",
+"t": "",
+"title": "Banks Seek RBI FX Swaps After Record Inflows Into Indian Stocks",
+"url": "https://www.bloomberg.com/news/articles/2026-11-26/banks-seek-rbi-fx-swaps-after-record-inflows-into-indian-stocks",
+"pub": "2026-11-26T07:10:15+00:00",
+"src": "Bloomberg",
+"kind": "market",
+"seen": "2026-11-26T08:14:41+00:00"
 },
 {
 "id": "4c3c85841919",
@@ -8893,6 +8943,16 @@
 "seen": "2026-11-26T07:44:59+00:00"
 },
 {
+"id": "1c57a47d60cd",
+"t": "",
+"title": "ChipMOS Technologies Inc (CPIAy.F) | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9PWkpvNW9NR09hU2dRTVNzT3o1aEdaT0VNQ3VSZUZubEJWRC1oX3dnRVd2OUpiR25Xa2psNk1ENVJ5NkhBNkxtQ1p0NkZwVDlkM0xVUk9VbW1XTnUyLWNQX2dLeU1NWDVLaUNMSg?oc=5",
+"pub": "2026-11-26T02:29:14+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-26T08:14:41+00:00"
+},
+{
 "id": "68a261b4e172",
 "t": "",
 "title": "Hawkish Bank of Japan Member Seeks Quick Rate Hikes On Inflation",
@@ -9623,6 +9683,16 @@
 "seen": "2026-11-25T21:45:02+00:00"
 },
 {
+"id": "e3d8f8b76382",
+"t": "",
+"title": "Airline Norse Atlantic says financial situation 'critical,' shares plunge - Reuters",
+"url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQUnBxTTlMWW9sR2p0cHd4OXk3enppYzRYOTFkOENpamtod1VHTExCQjRqZ1cxRWRjZ04wZlp4NzR1SVdQaGpPeWNTLVpmN09fc3R0WGxUMUFUQ0tOekxYV3ZSY2w2WTQtUDR6N2pETVotWWRlV1VrRVhXYTFYY19SRXRfZ3Z5bmFnb2xVVjNjRkJPdG9qRE4yRGxMMVNyMjlEdXBvSEw1SjMxYVFvNjVEckszYw?oc=5",
+"pub": "2026-11-25T21:29:22+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-26T08:14:41+00:00"
+},
+{
 "id": "8fc68de70bea",
 "t": "",
 "title": "U.S. Dollar Slips After Muted Reaction to U.S. Data",
@@ -9871,6 +9941,16 @@
 "src": "Reuters",
 "kind": "market",
 "seen": "2026-11-26T00:44:37+00:00"
+},
+{
+"id": "23fa54a74b63",
+"t": "",
+"title": "VRNAn.JK - | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBRcUE1X3ZING1lVjU1M2x2VFR1YmJ1TUFPS1ZsVHhhT041T1VjRkNOSzhPT1duWngzdHpOUmZla0VuejZVN1MydFlJUjRoeVVMMmdWeWpZUlJ0amFrc0JLWWxneTRsZ19JMHFLd1FBS0xTTUxLejlVLXVhX3ltUQ?oc=5",
+"pub": "2026-11-25T20:51:43+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-26T08:14:41+00:00"
 },
 {
 "id": "3a94df6e69ec",
@@ -10941,86 +11021,6 @@
 "src": "WSJ",
 "kind": "market",
 "seen": "2026-11-25T16:44:23+00:00"
-},
-{
-"id": "6d2de8dbd884",
-"t": "",
-"title": "Japan seeks supply chain mandate for chips and other critical goods - Nikkei.",
-"url": "https://www.financialjuice.com/News/9868107/Japan-seeks-supply-chain-mandate-for-chips-and-other-critical-goods---Nikkei.aspx?xy=rss",
-"pub": "2026-11-25T16:28:37+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-25T16:44:23+00:00"
-},
-{
-"id": "f7163e71dec0",
-"t": "",
-"title": "Burry: Sold rest of my Nasdaq 100 put position. Have about 25% cash and working to invest it. Temporarily almost entirely long. Continuing to assess short opportunities.",
-"url": "https://www.financialjuice.com/News/9868106/Burry-Sold-rest-of-my-Nasdaq-100-put-position-Have-about-25-cash-and-working-to-invest-it-Temporarily-almost-entirely-long-Continuing-to-assess-short-opportunities.aspx?xy=rss",
-"pub": "2026-11-25T16:25:53+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-25T16:44:23+00:00"
-},
-{
-"id": "0696390fa605",
-"t": "",
-"title": "Nationwide Government Money Market Fund;Investor (MIFXX.O) | Stock Price & Latest News - Reuters",
-"url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBVY2FrN0NqZ1VZMVdUQVMweHVvTDFJd18wVUV0eEYwU3BRb3YxaWp5ZHRiLTVyaktDTE12ZWVubW1hT254T0pYdzdTaWtzb0I2MjIzSGRDem1EelBBWnNhdmE3alRhNFNQcjN2aw?oc=5",
-"pub": "2026-11-25T16:23:04+00:00",
-"src": "Reuters",
-"kind": "market",
-"seen": "2026-11-25T21:14:25+00:00"
-},
-{
-"id": "b2d00cbfb984",
-"t": "",
-"title": "Core PCE Momentum Remained Elevated in October",
-"url": "https://www.bloomberg.com/news/videos/2026-11-25/core-pce-momentum-remained-elevated-in-october-video",
-"pub": "2026-11-25T16:19:34+00:00",
-"src": "Bloomberg",
-"kind": "market",
-"seen": "2026-11-25T16:44:23+00:00"
-},
-{
-"id": "35460b7c3efe",
-"t": "",
-"title": "Even the price of toys is on the rise. How Americans are scaling back holiday plans",
-"url": "https://www.cnbc.com/2026/11/25/holiday-inflation-thanksgiving-travel-food-gifts.html",
-"pub": "2026-11-25T16:17:13+00:00",
-"src": "CNBC",
-"kind": "market",
-"seen": "2026-11-25T23:04:13+00:00"
-},
-{
-"id": "bf2fd0f90e18",
-"t": "",
-"title": "The RealReal CEO Sees Resale’s Structural Shift",
-"url": "https://www.bloomberg.com/news/videos/2026-11-25/the-realreal-ceo-sees-resale-s-structural-shift-video",
-"pub": "2026-11-25T16:15:46+00:00",
-"src": "Bloomberg",
-"kind": "market",
-"seen": "2026-11-25T16:20:21+00:00"
-},
-{
-"id": "5f5a67fab60c",
-"t": "",
-"title": "Fed bids for 7-Yr notes total $4.5 bln",
-"url": "https://www.financialjuice.com/News/9868099/Fed-bids-for-7-Yr-notes-total-45-bln.aspx?xy=rss",
-"pub": "2026-11-25T16:15:36+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-25T16:20:21+00:00"
-},
-{
-"id": "4a7a96fdc132",
-"t": "",
-"title": "IESC.PH - Reuters",
-"url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBkX2FqUFFOaTZleGVPWGpkOTlwcnJlMjd6NDl6RDY2VDQwR012V0trbVRtQ1N5eGtCUHo5VjI4UVdrY2Nub01rSWlVZWV3U0NRc0FpTG80VWk4Sk5qbFlET1RESkR4bmo4MmFRUk1zMA?oc=5",
-"pub": "2026-11-25T16:15:32+00:00",
-"src": "Reuters",
-"kind": "market",
-"seen": "2026-11-25T19:44:14+00:00"
 }
 ]
 }
