@@ -4729,6 +4729,8 @@ Scout(소식 감지 프로그램)가 모은 기사·공시를 공식 출처로 �
 - 출처: [미 전쟁부 계약 발표](https://www.war.gov/News/Contracts/Contract/Article/4660152/contracts-for-nov-25-2026/) · [ClearanceJobs](https://news.clearancejobs.com/2026/11/25/rtxs-pratt-whitney-wins-2-5b-contract-to-sustain-f-35-engines/) · 공식 여부: 공식
 - 확신도: 높음(금액·계약 번호는 ClearanceJobs·Forth 의 발표문 전재로 확인 — 전쟁부 원문 페이지는 직접 열지 못함)
 
+- 앱 다시 게시: 성공 — 버전 350.
+
 ### W-20261126-1413-2 · 반영 · NOC 미 해군 E-130J 통신기 시험기 3대 개발 계약 11.30억 달러 늘어남 (공식)
 - 시각: 2026-11-26 14:2x KST
 - 내용: 같은 11-25 계약 발표: 노스롭 그루먼이 E-130J(핵 지휘 통신 TACAMO 후속기) 시험기 3대 설계·개발·납품과 초기 부품을 위한 계약 변경 1,130,397,498달러를 받음. news NOC 첫 줄.
