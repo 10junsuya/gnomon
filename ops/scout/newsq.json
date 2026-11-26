@@ -1,6 +1,6 @@
 {
-"updated_kst": "2026-11-26 13:47",
-"rot": 150,
+"updated_kst": "2026-11-26 14:14",
+"rot": 31,
 "how": "Scout(프로그램)이 10분마다 모은 기사 제목·링크와 공시예요. Wren이 공식 출처로 확인한 뒤 회사 화면에 한국어로 반영해요. 본문은 받지 않아요.",
 "sources": {
 "Yahoo Finance": "120종목 확인 · 실패 0",
@@ -10,12 +10,42 @@
 "CNBC": "63건",
 "Bloomberg": "40건",
 "WSJ": "61건",
-"Reuters": "59건",
+"Reuters": "51건",
 "FinancialJuice": "100건",
 "SEC EDGAR": "실패 HTTPError",
 "Fox Business": "50건"
 },
 "items": [
+{
+"id": "50dcbb7cfef5",
+"t": "NOC",
+"title": "RTX, NOC Stocks Head For Green Week: RTX, Northrop Grumman Land $3.6B Navy Contracts For F-35 Engines, Military Communications",
+"url": "https://stocktwits.com/news-articles/markets/equity/rtx-noc-stocks-head-for-green-week-rtx-northrop-grumman-navy-contracts-f-35-engines-military-communications/cNbx9TUR9ZO",
+"pub": "2026-11-26T04:54:15+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-26T05:14:29+00:00"
+},
+{
+"id": "40511e2b694d",
+"t": "NTAP",
+"title": "3 US AI Infrastructure Stocks Built For Data Center Demand",
+"url": "https://finance.yahoo.com/technology/ai/articles/3-us-ai-infrastructure-stocks-043847207.html",
+"pub": "2026-11-26T04:38:47+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-26T05:14:29+00:00"
+},
+{
+"id": "b967e293a970",
+"t": "STX",
+"title": "Seagate (STX) Stock Fair Value Edges Lower As Analysts Rework AI Storage Assumptions",
+"url": "https://finance.yahoo.com/markets/stocks/articles/seagate-stx-stock-fair-value-043825316.html",
+"pub": "2026-11-26T04:38:25+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-26T05:14:29+00:00"
+},
 {
 "id": "5ebf93b11aea",
 "t": "AMZN",
@@ -55,6 +85,16 @@
 "src": "Yahoo Finance",
 "kind": "news",
 "seen": "2026-11-26T04:44:11+00:00"
+},
+{
+"id": "64ebfdc9e7b1",
+"t": "AAPL",
+"title": "HLTH 2026: Quest Diagnostics' Patrick Plewman Breaks Down Whoop Partnership",
+"url": "https://finance.yahoo.com/video/hlth-2026-quest-diagnostics-patrick-040236490.html",
+"pub": "2026-11-26T04:02:36+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-26T05:14:29+00:00"
 },
 {
 "id": "b4f361856078",
@@ -7983,44 +8023,44 @@
 "seen": "2026-11-25T13:58:47+00:00"
 },
 {
-"id": "34f6bf5617f7",
-"t": "MU",
-"title": "If Micron is Between $585-$600 Days Before Dec. 17 Earnings, Buy It",
-"url": "https://247wallst.com/investing/2026/11/25/if-micron-is-between-585-600-days-before-dec-17-earnings-buy-it/",
-"pub": "2026-11-25T13:45:04+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-25T13:58:47+00:00"
+"id": "0ed06231e9f0",
+"t": "",
+"title": "Dell, Supermicro tell buyers in Malaysia, Singapore, Thailand, and Indonesia: Nvidia won't permit order shipments - FT",
+"url": "https://www.financialjuice.com/News/9868877/Dell-Supermicro-tell-buyers-in-Malaysia-Singapore-Thailand-and-Indonesia-Nvidia-wont-permit-order-shipments---FT.aspx?xy=rss",
+"pub": "2026-11-26T05:05:15+00:00",
+"src": "FinancialJuice",
+"kind": "market",
+"seen": "2026-11-26T05:14:29+00:00"
 },
 {
-"id": "68697e229be8",
-"t": "JPM",
-"title": "Bank Bond Losses Hit $486 Billion: How Exposed Is Bank of America?",
-"url": "https://finance.yahoo.com/markets/stocks/articles/bank-bond-losses-hit-486-134500736.html",
-"pub": "2026-11-25T13:45:00+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-25T15:14:55+00:00"
+"id": "bd1b34a628db",
+"t": "",
+"title": "Nvidia pauses chip deliveries to South-east Asia: FT",
+"url": "https://www.financialjuice.com/News/9868876/Nvidia-pauses-chip-deliveries-to-South-east-Asia-FT.aspx?xy=rss",
+"pub": "2026-11-26T05:04:06+00:00",
+"src": "FinancialJuice",
+"kind": "market",
+"seen": "2026-11-26T05:14:29+00:00"
 },
 {
-"id": "7833dfa3ce40",
-"t": "NVDA",
-"title": "In a Sell-Off, How Much in One Stock Is Too Much?",
-"url": "https://www.fool.com/investing/2026/11/25/in-a-sell-off-how-much-in-one-stock-is-too-much/",
-"pub": "2026-11-25T13:43:23+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-25T13:58:47+00:00"
+"id": "ba267e1b21c5",
+"t": "",
+"title": "Poland’s $1 Trillion Economy Shows Weak Spots as Tusk-Nawrocki Feud Play Out",
+"url": "https://www.bloomberg.com/news/features/2026-11-26/poland-s-1-trillion-economy-shows-weak-spots-as-tusk-nawrocki-feud-play-out",
+"pub": "2026-11-26T05:00:22+00:00",
+"src": "Bloomberg",
+"kind": "market",
+"seen": "2026-11-26T05:14:29+00:00"
 },
 {
-"id": "f972da0d08cf",
-"t": "SPY",
-"title": "Stocks or Gold? GDE Refuses to Choose: Every $100 Buys $90 of Each",
-"url": "https://247wallst.com/investing/etf/2026/11/25/stocks-or-gold-gde-refuses-to-choose-every-100-buys-90-of-each/",
-"pub": "2026-11-25T13:42:51+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-25T14:15:15+00:00"
+"id": "0517565892f9",
+"t": "",
+"title": "Stephanomics Podcast: How AI Could Rewrite the Holiday Shopping Season",
+"url": "https://www.bloomberg.com/news/audio/2026-11-26/stephanomics-podcast-how-ai-could-rewrite-the-holiday-shopping-season",
+"pub": "2026-11-26T05:00:00+00:00",
+"src": "Bloomberg",
+"kind": "market",
+"seen": "2026-11-26T05:14:29+00:00"
 },
 {
 "id": "f573af37d31b",
@@ -10981,46 +11021,6 @@
 "src": "Reuters",
 "kind": "market",
 "seen": "2026-11-25T18:09:13+00:00"
-},
-{
-"id": "b70191a2d2c3",
-"t": "",
-"title": "753.LAS - | Stock Price & Latest News - Reuters",
-"url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPQVpOWHE1V3lnYWxKTXVmZmQ1YU5valhFZWRmRUdjLV9sOHFFLXFxYTRiWFJveV9KYVl5ZzlQTk42d1RLOUFBUjNhVUdlVkR1VVFSajdIOHNWVEx5eDd4ekpHWjNzaWNjUDhEVm80UFZac3pWTFNxNFlHb3VsNlJndVM5YnY5cTBnRGNWeFhoVQ?oc=5",
-"pub": "2026-11-25T14:57:40+00:00",
-"src": "Reuters",
-"kind": "market",
-"seen": "2026-11-25T18:09:13+00:00"
-},
-{
-"id": "e75e26b0de18",
-"t": "",
-"title": "BoE Gov. Bailey: Businesses still say it is hard to pass on cost increases.",
-"url": "https://www.financialjuice.com/News/9868001/BoE-Gov-Bailey-Businesses-still-say-it-is-hard-to-pass-on-cost-increases.aspx?xy=rss",
-"pub": "2026-11-25T14:57:32+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-25T15:05:32+00:00"
-},
-{
-"id": "db091ad0b291",
-"t": "",
-"title": "BoE Gov. Bailey: The risk premium in interest rates futures reflects uncertainty about energy prices, not about the BoE policy response.",
-"url": "https://www.financialjuice.com/News/9868000/BoE-Gov-Bailey-The-risk-premium-in-interest-rates-futures-reflects-uncertainty-about-energy-prices-not-about-the-BoE-policy-response.aspx?xy=rss",
-"pub": "2026-11-25T14:55:56+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-25T15:05:32+00:00"
-},
-{
-"id": "5d00bdf8bf59",
-"t": "",
-"title": "BoE Gov. Bailey: It is more likely than not that we will have to raise interest rates more if energy prices stay elevated.",
-"url": "https://www.financialjuice.com/News/9867999/BoE-Gov-Bailey-It-is-more-likely-than-not-that-we-will-have-to-raise-interest-rates-more-if-energy-prices-stay-elevated.aspx?xy=rss",
-"pub": "2026-11-25T14:54:52+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-25T15:05:32+00:00"
 }
 ]
 }
