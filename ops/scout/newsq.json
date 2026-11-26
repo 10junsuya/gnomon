@@ -1,6 +1,6 @@
 {
-"updated_kst": "2026-11-26 09:44",
-"rot": 146,
+"updated_kst": "2026-11-26 10:10",
+"rot": 27,
 "how": "Scout(프로그램)이 10분마다 모은 기사 제목·링크와 공시예요. Wren이 공식 출처로 확인한 뒤 회사 화면에 한국어로 반영해요. 본문은 받지 않아요.",
 "sources": {
 "Yahoo Finance": "120종목 확인 · 실패 0",
@@ -16,6 +16,86 @@
 "Fox Business": "50건"
 },
 "items": [
+{
+"id": "c21e5696b0e8",
+"t": "NVDA",
+"title": "'Alarming, if unsurprising': Trump administration cut corners with hasty Nvidia investigation, former CIA officer warns",
+"url": "https://finance.yahoo.com/technology/articles/alarming-unsurprising-trump-administration-cut-010000318.html",
+"pub": "2026-11-26T01:00:00+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-26T01:10:48+00:00"
+},
+{
+"id": "6d1c13a37053",
+"t": "MU",
+"title": "Dow Jones Futures Rise; Market Goes On Wild Ride As Nasdaq Slashes Losses",
+"url": "https://finance.yahoo.com/m/158e82fc-b889-34b6-8704-99a49e9a83ae/dow-jones-futures-rise%3B.html",
+"pub": "2026-11-26T00:58:51+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-26T01:10:48+00:00"
+},
+{
+"id": "7b4e95ae9fab",
+"t": "AMD",
+"title": "Big AI Buyers Want a Second Source. Is AMD (AMD) It?",
+"url": "https://finance.yahoo.com/technology/ai/articles/big-ai-buyers-want-second-005602621.html",
+"pub": "2026-11-26T00:56:02+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-26T01:10:48+00:00"
+},
+{
+"id": "bb88dd86c507",
+"t": "STX",
+"title": "Everyone Buried This Technology. Has Seagate (STX) Proved Them Wrong?",
+"url": "https://finance.yahoo.com/technology/articles/everyone-buried-technology-seagate-stx-005435209.html",
+"pub": "2026-11-26T00:54:35+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-26T01:10:48+00:00"
+},
+{
+"id": "725f8cd2d023",
+"t": "AMAT",
+"title": "Applied Materials (AMAT) Supplies Almost Every Fab. Is That Enough?",
+"url": "https://finance.yahoo.com/markets/stocks/articles/applied-materials-amat-supplies-almost-005322656.html",
+"pub": "2026-11-26T00:53:22+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-26T01:10:48+00:00"
+},
+{
+"id": "22a27600c960",
+"t": "ASML",
+"title": "ASML (ASML) Can’t Meet Demand. Is That a Strength or Risk?",
+"url": "https://finance.yahoo.com/markets/stocks/articles/asml-asml-t-meet-demand-004924571.html",
+"pub": "2026-11-26T00:49:24+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-26T01:10:48+00:00"
+},
+{
+"id": "6b84f07aa83e",
+"t": "LRCX",
+"title": "Memory Makers Are Spending Again. Will Lam Research (LRCX) Cash In?",
+"url": "https://finance.yahoo.com/markets/stocks/articles/memory-makers-spending-again-lam-004813338.html",
+"pub": "2026-11-26T00:48:13+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-26T01:10:48+00:00"
+},
+{
+"id": "23128e69a024",
+"t": "AVGO",
+"title": "5 Best Strong Buy Growth Stocks to Buy for 2027",
+"url": "https://finance.yahoo.com/markets/stocks/articles/5-best-strong-buy-growth-004610627.html",
+"pub": "2026-11-26T00:46:10+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-26T01:10:48+00:00"
+},
 {
 "id": "920f8841a867",
 "t": "PWR",
@@ -35,6 +115,26 @@
 "src": "Yahoo Finance",
 "kind": "news",
 "seen": "2026-11-26T00:44:37+00:00"
+},
+{
+"id": "ab2abf46093f",
+"t": "MCHP",
+"title": "Microchip (MCHP) Stock May Be 17% Undervalued After Safety Certification",
+"url": "https://finance.yahoo.com/markets/stocks/articles/microchip-mchp-stock-may-17-003554852.html",
+"pub": "2026-11-26T00:35:54+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-26T01:10:48+00:00"
+},
+{
+"id": "1bdeffc14f84",
+"t": "AMAT",
+"title": "Applied Materials (AMAT) Falls In Chip Selloff, Is It 44% Undervalued?",
+"url": "https://finance.yahoo.com/markets/stocks/articles/applied-materials-amat-falls-chip-003412379.html",
+"pub": "2026-11-26T00:34:12+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-26T01:10:48+00:00"
 },
 {
 "id": "0aa9b623a4d3",
@@ -95,6 +195,16 @@
 "src": "Yahoo Finance",
 "kind": "news",
 "seen": "2026-11-26T00:44:37+00:00"
+},
+{
+"id": "fcaa710a6db0",
+"t": "APLD",
+"title": "How Low Can Cipher Digital Stock Go?",
+"url": "https://www.trefis.com/stock/cifr/articles/628280/how-low-can-cipher-digital-stock-go/2026-11-25",
+"pub": "2026-11-25T23:48:28+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-26T01:10:48+00:00"
 },
 {
 "id": "fccc2b22bdd5",
@@ -165,6 +275,16 @@
 "src": "Yahoo Finance",
 "kind": "news",
 "seen": "2026-11-26T00:14:43+00:00"
+},
+{
+"id": "1d2361901b44",
+"t": "NET",
+"title": "Bridgewater Sees 1-in-3 Odds of a Destabilizing Cyberattack. CrowdStrike’s Workload Is Already “Up 50%”",
+"url": "https://www.tikr.com/blog/bridgewater-sees-1-in-3-odds-of-a-destabilizing-cyberattack-crowdstrikes-workload-is-already-up-50",
+"pub": "2026-11-25T23:40:20+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-26T01:10:48+00:00"
 },
 {
 "id": "bb3155909a6e",
@@ -2190,6 +2310,16 @@
 "seen": "2026-11-25T19:07:59+00:00"
 },
 {
+"id": "5659133b44b6",
+"t": "FLY",
+"title": "Firefly Aerospace Stock Just Scored a New 'Buy' Rating. Here's Why.",
+"url": "https://www.barchart.com/story/news/9008537/firefly-aerospace-stock-just-scored-a-new-buy-rating-here-s-why",
+"pub": "2026-11-25T18:51:49+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-26T01:10:48+00:00"
+},
+{
 "id": "492af9f2b1fb",
 "t": "MU",
 "title": "Why a Single Data-Center Delay Keeps Dogging This Tech Stock",
@@ -2258,6 +2388,16 @@
 "src": "Yahoo Finance",
 "kind": "news",
 "seen": "2026-11-25T19:07:59+00:00"
+},
+{
+"id": "d16d59463db3",
+"t": "NBIS",
+"title": "Nebius Group Climbed 22% as Tech Stocks Rebounded. Don’t Get Caught Rushing In.",
+"url": "https://www.barchart.com/story/news/9008512/nebius-group-climbed-22-as-tech-stocks-rebounded-dont-get-caught-rushing-in",
+"pub": "2026-11-25T18:48:21+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-26T01:10:48+00:00"
 },
 {
 "id": "902f6ec72b0c",
@@ -7883,144 +8023,24 @@
 "seen": "2026-11-25T13:58:47+00:00"
 },
 {
-"id": "920d20324ca2",
-"t": "META",
-"title": "Meta Platforms (META) Expands Muse Shopping In The UK, Is The Stock Still A Bargain?",
-"url": "https://finance.yahoo.com/markets/stocks/articles/meta-platforms-meta-expands-muse-130832921.html",
-"pub": "2026-11-25T13:08:32+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-25T13:44:08+00:00"
+"id": "0c0b770bacda",
+"t": "",
+"title": "South Korea's central bank resumes tightening with quarter-point hike - Reuters",
+"url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQSTJjdUdXNzZ0QVUtZS1QMGowZkw1ellJM1ZkZUMzYVQ1OVp5ME5vQnRTMHgyYm9YVFRxcm11TkdSUmJ6RV9nYlY0YnkzZnhuNkNWa0g0MmNQVDhNMTRiYVN0M1lUbERad1Rqb1h0U3BCa2RJam5DVXBXUk8zNy1CNDlVaXQwRE56Ykl6NjhXTy1Bc21Lbm1sc214UlNVLUdOajVQWlprbG1mRnlIQVNyaWpNSDFBa0Fo?oc=5",
+"pub": "2026-11-26T01:05:00+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-26T01:10:48+00:00"
 },
 {
-"id": "d098ac119191",
-"t": "WMT",
-"title": "Flipkart CEO Kalyan Krishnamurthy to step down next week amid IPO uncertainty",
-"url": "https://finance.yahoo.com/markets/stocks/articles/flipkart-ceo-kalyan-krishnamurthy-step-130819116.html",
-"pub": "2026-11-25T13:08:19+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-25T14:15:15+00:00"
-},
-{
-"id": "b3af9987020f",
-"t": "NET",
-"title": "Cloudflare (NET) Stock Trades Rich Against Its Sales Base",
-"url": "https://finance.yahoo.com/markets/stocks/articles/cloudflare-net-stock-trades-rich-130739854.html",
-"pub": "2026-11-25T13:07:39+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-25T13:44:08+00:00"
-},
-{
-"id": "e981b45eb333",
-"t": "WMT",
-"title": "Target vs Walmart holiday outlook: defensive strength against recovery potential",
-"url": "https://finance.yahoo.com/markets/stocks/articles/target-vs-walmart-holiday-outlook-130617796.html",
-"pub": "2026-11-25T13:06:17+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-25T13:18:15+00:00"
-},
-{
-"id": "9c2248e4e5cb",
-"t": "GOOGL",
-"title": "Is Google Services Still the Prime Earnings Engine for Alphabet Stock?",
-"url": "https://finance.yahoo.com/markets/stocks/articles/google-services-still-prime-earnings-130600190.html",
-"pub": "2026-11-25T13:06:00+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-25T14:44:19+00:00"
-},
-{
-"id": "77ee2673d255",
-"t": "CRWD",
-"title": "CrowdStrike Sees a Path to the “Largest AI Safety and Security Company” Ever. Zscaler Must Deliver $1 Billion of Synergies",
-"url": "https://www.tikr.com/blog/crowdstrike-sees-a-path-to-the-largest-ai-safety-and-security-company-ever-zscaler-must-deliver-1-billion-of-synergies",
-"pub": "2026-11-25T13:05:24+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-25T13:44:08+00:00"
-},
-{
-"id": "55f00b098c33",
-"t": "GOOGL",
-"title": "Alphabet vs Meta: which stock has the stronger AI position",
-"url": "https://finance.yahoo.com/markets/stocks/articles/alphabet-vs-meta-stock-stronger-130448764.html",
-"pub": "2026-11-25T13:04:48+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-25T13:18:15+00:00"
-},
-{
-"id": "65246d88a7c4",
-"t": "NVDA",
-"title": "Market Chatter: Trump to Preside Over Taiwan Semiconductor Plant Expansion Ceremony in Arizona",
-"url": "https://finance.yahoo.com/technology/articles/market-chatter-trump-preside-over-130436480.html",
-"pub": "2026-11-25T13:04:36+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-25T13:18:15+00:00"
-},
-{
-"id": "62b3eb4ae373",
-"t": "NVDA",
-"title": "What Explains The Drop In Intel Stock?",
-"url": "https://www.trefis.com/stock/intc/articles/628986/what-explains-the-drop-in-intel-stock/2026-11-25",
-"pub": "2026-11-25T13:04:29+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-25T13:44:08+00:00"
-},
-{
-"id": "a6cc2e0eab33",
-"t": "NVDA",
-"title": "Did Take-Two Stock Beat A Falling Market?",
-"url": "https://www.trefis.com/stock/ttwo/articles/629004/did-take-two-stock-beat-a-falling-market/2026-11-25",
-"pub": "2026-11-25T13:04:29+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-25T13:44:08+00:00"
-},
-{
-"id": "2721f2baea69",
-"t": "MRK",
-"title": "Which Is the Better Pharma Stock Now: J&J or AstraZeneca?",
-"url": "https://finance.yahoo.com/healthcare/articles/better-pharma-stock-now-j-130400101.html",
-"pub": "2026-11-25T13:04:00+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-25T15:05:32+00:00"
-},
-{
-"id": "078caa47dc3e",
-"t": "VZ",
-"title": "These 5 Dividend Stocks Are Brands You Use Every Day",
-"url": "https://247wallst.com/investing/2026/11/25/these-5-dividend-stocks-are-brands-you-use-every-day/",
-"pub": "2026-11-25T13:03:34+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-25T13:18:15+00:00"
-},
-{
-"id": "2af80a6bdd02",
-"t": "ARM",
-"title": "ARM Holdings near-term technical outlook: bearish setup with key levels to watch",
-"url": "https://finance.yahoo.com/markets/stocks/articles/arm-holdings-near-term-technical-130314923.html",
-"pub": "2026-11-25T13:03:14+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-25T13:58:47+00:00"
-},
-{
-"id": "2ca0c28bcdce",
-"t": "SPCX",
-"title": "Cathie Wood's ARK Buys Anthropic as Ripple CEO Predicts Post-IPO Crypto Rally",
-"url": "https://www.ccn.com/news/crypto/cathie-woods-ark-bitcoin-etf-anthropic-ripple-ceo-crypto-rebound/",
-"pub": "2026-11-25T13:02:15+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-25T13:44:08+00:00"
+"id": "02dd96ef2cbb",
+"t": "",
+"title": "Bank of Korea Base Rate Actual 3.25% (Forecast 3.25%, Previous 3.00%)",
+"url": "https://www.financialjuice.com/News/9868605/Bank-of-Korea-Base-Rate-Actual-325-Forecast-325-Previous-300.aspx?xy=rss",
+"pub": "2026-11-26T00:50:03+00:00",
+"src": "FinancialJuice",
+"kind": "market",
+"seen": "2026-11-26T01:10:48+00:00"
 },
 {
 "id": "4c880ea5f745",
@@ -8041,6 +8061,16 @@
 "src": "FinancialJuice",
 "kind": "market",
 "seen": "2026-11-26T00:44:37+00:00"
+},
+{
+"id": "ecc413126636",
+"t": "",
+"title": "Vietnam says it is working with US to complete trade deal as soon as possible - Reuters",
+"url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPS0FSUjN0THdiZzJpSzctaWg1Vks2dVhSTlNVWTJuZElHcEQ5WGNUX3BVWUgxVmdESnJ5WHExUFloSUlWQTdtZ0g4UEtLTUwzczE4bHB1V3lEczBpcE9qeE5aZjZJZ1lXeGlGQTh0NDM1WnlFTjlONFRGd3ViTHJzMEQxOGhkMUZpUmxBd1A0WE1TdTFmTDhJdFVBQ05kY2dHNDZkWURzc2s2MXFnRTUyNTgwZllaTFhSdVpFQjl3?oc=5",
+"pub": "2026-11-26T00:30:00+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-26T01:10:48+00:00"
 },
 {
 "id": "4d5769e396ef",
@@ -8193,6 +8223,16 @@
 "seen": "2026-11-25T23:04:13+00:00"
 },
 {
+"id": "0256bf1ee6ad",
+"t": "",
+"title": "Pinnacle Financial Partners Inc (PNFP.P) | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9Edjk2MVA2Y0ZQeFltX2d3YmlGVW9vTVVTUFFhV3ZCWUFVVkZDY0tIX1FvT0FoaGNwWkQzc184ejEzSExFSW1Ld3duT3c4bWdmQmhZV0NZS3dFUmhaQkE5OUlGZG9rZjFaNHVwTTVn?oc=5",
+"pub": "2026-11-25T22:51:08+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-26T01:10:48+00:00"
+},
+{
 "id": "ae72e7a5b7a8",
 "t": "",
 "title": "TPKYF.PK%5EJ24 - | Stock Price & Latest News - Reuters",
@@ -8341,6 +8381,16 @@
 "src": "Bloomberg",
 "kind": "market",
 "seen": "2026-11-25T21:45:02+00:00"
+},
+{
+"id": "d8f6594e47b4",
+"t": "",
+"title": "U.S. Natural Gas Futures End Lower As December Contract Expires",
+"url": "https://www.wsj.com/finance/commodities-futures/u-s-natural-gas-steady-as-december-contract-set-to-expire-9d411e92",
+"pub": "2026-11-25T21:32:00+00:00",
+"src": "WSJ",
+"kind": "market",
+"seen": "2026-11-26T01:10:48+00:00"
 },
 {
 "id": "0d42c8f65cfa",
@@ -9873,6 +9923,16 @@
 "seen": "2026-11-25T17:44:05+00:00"
 },
 {
+"id": "6ec4b2e8479a",
+"t": "",
+"title": "000995.SZh - | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOLXU2WlBKd01OUGdMTWxWbnZhaEEzYTRwcnhiRXd0bHc3NERQUEhnZHh0TEFTSzdURVJSc1RPSnhWczNBNi1LamdQc0l1aGt0ajlzUkNyUkNXX0tWQWdrSmIwS3VDa1JQbHVUS1VxTWZ2MTlud2lSazlwR3lmUFY3WDdwSGZ5a1VYOWVFVA?oc=5",
+"pub": "2026-11-25T15:31:38+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-26T01:10:48+00:00"
+},
+{
 "id": "85a7289b4eac",
 "t": "",
 "title": "MD.DG - | Stock Price & Latest News - Reuters",
@@ -10913,6 +10973,16 @@
 "seen": "2026-11-25T15:46:42+00:00"
 },
 {
+"id": "4fc9c7b0e27d",
+"t": "",
+"title": "Fed’s preferred inflation gauge accelerated to 3.8% in October, raising the 2027 stakes for the central bank",
+"url": "https://www.cnbc.com/2026/11/25/pce-inflation-report-october-2026.html",
+"pub": "2026-11-25T14:18:45+00:00",
+"src": "CNBC",
+"kind": "market",
+"seen": "2026-11-26T01:10:48+00:00"
+},
+{
 "id": "977fd42018ea",
 "t": "",
 "title": "What the PCE Data Means for Fed Policy",
@@ -10949,76 +11019,6 @@
 "url": "https://www.financialjuice.com/News/9867892/Bank-of-England-Governor--Bailey-Faces-UK-Parliaments-Treasury-Committee---WATCH-LIVE.aspx?xy=rss",
 "pub": "2026-11-25T14:06:40+00:00",
 "src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-25T14:15:15+00:00"
-},
-{
-"id": "9fb62f1448e8",
-"t": "",
-"title": "Some Chinese AI firms are exploring ways in which they can keep their remote access to NVIDIA chips - The Information",
-"url": "https://www.financialjuice.com/News/9867891/Some-Chinese-AI-firms-are-exploring-ways-in-which-they-can-keep-their-remote-access-to-NVIDIA-chips---The-Information.aspx?xy=rss",
-"pub": "2026-11-25T14:05:41+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-25T14:15:15+00:00"
-},
-{
-"id": "8fc68de70bea",
-"t": "",
-"title": "Dollar Stays Higher After Slew of U.S. Data",
-"url": "https://www.wsj.com/finance/currencies/still-too-early-to-bet-against-the-u-s-dollar-f6411c71",
-"pub": "2026-11-25T14:03:00+00:00",
-"src": "WSJ",
-"kind": "market",
-"seen": "2026-11-25T14:44:19+00:00"
-},
-{
-"id": "3132c666864b",
-"t": "",
-"title": "Some Chinese firms are looking at domestic chips, and others are exploring new workarounds overseas - The Information.",
-"url": "https://www.financialjuice.com/News/9867889/Some-Chinese-firms-are-looking-at-domestic-chips-and-others-are-exploring-new-workarounds-overseas---The-Information.aspx?xy=rss",
-"pub": "2026-11-25T14:02:56+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-25T14:15:15+00:00"
-},
-{
-"id": "e0ff03ee2daf",
-"t": "",
-"title": "Embraer Sinks Most Since May as US Proposes Brazil Aircraft Levy",
-"url": "https://www.bloomberg.com/news/articles/2026-11-25/embraer-sinks-most-since-may-as-us-proposes-brazil-aircraft-levy",
-"pub": "2026-11-25T14:02:53+00:00",
-"src": "Bloomberg",
-"kind": "market",
-"seen": "2026-11-25T14:44:19+00:00"
-},
-{
-"id": "d44469255943",
-"t": "",
-"title": "Chinese AI model development faces severe delays, widening gap with US - The Information",
-"url": "https://www.financialjuice.com/News/9867888/Chinese-AI-model-development-faces-severe-delays-widening-gap-with-US---The-Information.aspx?xy=rss",
-"pub": "2026-11-25T14:02:43+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-25T14:15:15+00:00"
-},
-{
-"id": "9ee9b5ed3745",
-"t": "",
-"title": "Stocks Meltdown Spills Into Unlikely Market, Sinking Carry Trade",
-"url": "https://www.bloomberg.com/news/articles/2026-11-25/stocks-meltdown-spills-into-unlikely-market-sinking-carry-trade",
-"pub": "2026-11-25T14:01:11+00:00",
-"src": "Bloomberg",
-"kind": "market",
-"seen": "2026-11-25T14:15:15+00:00"
-},
-{
-"id": "d825edc9cf0f",
-"t": "",
-"title": "BC Partners Buys GSE Sport Agency With Golfer DeChambeau on List",
-"url": "https://www.bloomberg.com/news/articles/2026-11-25/bc-partners-buys-gse-sport-agency-with-golfer-dechambeau-on-list",
-"pub": "2026-11-25T14:01:00+00:00",
-"src": "Bloomberg",
 "kind": "market",
 "seen": "2026-11-25T14:15:15+00:00"
 }
