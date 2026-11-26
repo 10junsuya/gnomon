@@ -1,6 +1,6 @@
 {
-"updated_kst": "2026-11-26 12:44",
-"rot": 149,
+"updated_kst": "2026-11-26 13:14",
+"rot": 30,
 "how": "Scout(프로그램)이 10분마다 모은 기사 제목·링크와 공시예요. Wren이 공식 출처로 확인한 뒤 회사 화면에 한국어로 반영해요. 본문은 받지 않아요.",
 "sources": {
 "Yahoo Finance": "120종목 확인 · 실패 0",
@@ -10,12 +10,22 @@
 "CNBC": "63건",
 "Bloomberg": "40건",
 "WSJ": "61건",
-"Reuters": "100건",
+"Reuters": "57건",
 "FinancialJuice": "100건",
 "SEC EDGAR": "실패 HTTPError",
 "Fox Business": "50건"
 },
 "items": [
+{
+"id": "b4f361856078",
+"t": "NVDA",
+"title": "Michael Burry Says He’s Shorting The Market’s ‘Generals’ As Apple Flashes A Warning Last Seen In 2002",
+"url": "https://stocktwits.com/news-articles/markets/equity/michael-burry-shorting-market-generals-apple-warning-last-seen-in-2002/cNbx7IxR9Ze",
+"pub": "2026-11-26T03:44:40+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-26T04:14:27+00:00"
+},
 {
 "id": "fe549c3837cd",
 "t": "SPCX",
@@ -95,6 +105,16 @@
 "src": "Yahoo Finance",
 "kind": "news",
 "seen": "2026-11-26T03:14:26+00:00"
+},
+{
+"id": "c247699c9868",
+"t": "QQQ",
+"title": "Michael Burry Says His Portfolio Was Discussed 'About the Time the Market Reversed Off Its Lows': He Is 'Temporarily Almost Entirely Long'",
+"url": "https://finance.yahoo.com/markets/stocks/articles/michael-burry-says-portfolio-discussed-025825540.html",
+"pub": "2026-11-26T02:58:25+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-26T04:14:27+00:00"
 },
 {
 "id": "16f8b7e27d88",
@@ -1227,6 +1247,16 @@
 "src": "Yahoo Finance",
 "kind": "news",
 "seen": "2026-11-25T23:04:13+00:00"
+},
+{
+"id": "baf21d631e74",
+"t": "SPCX",
+"title": "SPCX Stock Alert: What to Know as FCC Approves SpaceX Data Center Satellites",
+"url": "https://www.barchart.com/story/news/9010565/spcx-stock-alert-what-to-know-as-fcc-approves-spacex-data-center-satellites",
+"pub": "2026-11-25T21:47:17+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-26T04:14:27+00:00"
 },
 {
 "id": "5dddb43c6de3",
@@ -7993,34 +8023,24 @@
 "seen": "2026-11-25T13:44:08+00:00"
 },
 {
-"id": "7b962adec432",
-"t": "SPCX",
-"title": "Not SpaceX, Not Anthropic: These Are the 2 AI Stocks I Bought During the Sell-Off",
-"url": "https://www.fool.com/investing/2026/11/25/not-spacex-not-anthropic-these-are-the-2-ai-stocks-i-bought-during-the-sell-off/",
-"pub": "2026-11-25T13:35:02+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-25T13:44:08+00:00"
+"id": "cacf60a9f7eb",
+"t": "",
+"title": "Trump’s China Tariffs Raise Threat of New Test for Trade Truce",
+"url": "https://www.bloomberg.com/news/articles/2026-11-26/trump-s-china-tariffs-raise-threat-of-new-test-for-trade-truce",
+"pub": "2026-11-26T03:45:09+00:00",
+"src": "Bloomberg",
+"kind": "market",
+"seen": "2026-11-26T04:14:27+00:00"
 },
 {
-"id": "6a42f3d16e1b",
-"t": "AMGN",
-"title": "Amgen (AMGN) Crossed Above the 20-Day Moving Average: What That Means for Investors",
-"url": "https://finance.yahoo.com/markets/stocks/articles/amgen-amgn-crossed-above-20-133502879.html",
-"pub": "2026-11-25T13:35:02+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-25T14:44:19+00:00"
-},
-{
-"id": "6caf5c70be88",
-"t": "TLS",
-"title": "ExlService Holdings, Inc. (EXLS) Hits Fresh High: Is There Still Room to Run?",
-"url": "https://finance.yahoo.com/markets/stocks/articles/exlservice-holdings-inc-exls-hits-133502568.html",
-"pub": "2026-11-25T13:35:02+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-25T14:44:19+00:00"
+"id": "95194aa61acf",
+"t": "",
+"title": "Adani Firms Plan Public Bond Sale to Raise at Least $220 Million",
+"url": "https://www.bloomberg.com/news/articles/2026-11-26/adani-firms-plan-public-bond-sale-to-raise-at-least-220-million",
+"pub": "2026-11-26T03:42:25+00:00",
+"src": "Bloomberg",
+"kind": "market",
+"seen": "2026-11-26T04:14:27+00:00"
 },
 {
 "id": "59227321c3ff",
@@ -8073,6 +8093,16 @@
 "seen": "2026-11-26T03:14:26+00:00"
 },
 {
+"id": "be58233bab34",
+"t": "",
+"title": "Pacific trade bloc, ASEAN meet in Vietnam as Trump fires new tariff salvo - Reuters",
+"url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQdTBpdWE3OHFzWWtzUUpIUHNYdzZVNUtiTjg5SVZndWxPQjE5VjUtUXA0Qk9KbmtFTVBIM2tqcUp5djQxczctUUVvcWFUaGFOYTZjNkZqVzNKcm9YbW1RaTdfc1ZjZDZCSnAzODhwUjRQeUV0eXlJRjAzV1pKb3ExS0dtMzRRRmdnUVVzS2lvcUdSeVZ5dmJoX2NYWnpfczZJN05LcW5ldlFZNEp0SjVqWU1UQkJ0dExPUjFN?oc=5",
+"pub": "2026-11-26T03:06:00+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-26T04:14:27+00:00"
+},
+{
 "id": "1cc41d1fc9d2",
 "t": "",
 "title": "South Korea vows talks to protect its interests after US proposes new tariffs - Reuters",
@@ -8101,6 +8131,16 @@
 "src": "Bloomberg",
 "kind": "market",
 "seen": "2026-11-26T03:14:26+00:00"
+},
+{
+"id": "cc268f0bd61b",
+"t": "",
+"title": "Saipem SpA (SPMI.MI) | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE05cHhtTmdZVVpSMWMtekVGWHMzLVJ4UUpvQ0Q4NkhHWVVScFdiRHdQWlVOS2REcUd4b3ZtRERMNlhGZXAwb1kxWFFWbjNBV1FRVEh5OHRJQlViVXBncUln?oc=5",
+"pub": "2026-11-26T02:27:54+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-26T04:14:27+00:00"
 },
 {
 "id": "09706a476bfa",
@@ -8961,6 +9001,16 @@
 "src": "Bloomberg",
 "kind": "market",
 "seen": "2026-11-25T20:44:17+00:00"
+},
+{
+"id": "87b0561cb0f5",
+"t": "",
+"title": "W6Of.TXEA - | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBrc0lpdWQwSlUxT1VaTzkwTXVxaHpDeENkZGxUZy1QYkFjYXRENHZDc0tvNmdCVGwwM09YNlVDTDh0YW8yYndrZlpya0t3bG5Gd1ZxSkVhX01XS2VYOXVVaDRiR3lsZWZiQmpNTVgyWXVFRlk4cjY1RlRFVlhtQQ?oc=5",
+"pub": "2026-11-25T20:28:24+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-26T04:14:27+00:00"
 },
 {
 "id": "38ae316b4111",
@@ -10113,6 +10163,16 @@
 "seen": "2026-11-25T21:14:25+00:00"
 },
 {
+"id": "9743f505251a",
+"t": "",
+"title": "DPNf.TRE - | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQUjU1ZU45Vjk5V1JUMHdaWkM2S0M4cDVYUXcwMWFDeUlpeUhMaEdfdm9WNzdJMVFCMHJqQlhTbjUtX2FkejZIVmktUzliRThjaE5FeWxFUGY4M0RhSERYTjZ6M0N6N3E2cGw2dXNENW1NcFNDOE1aaDkyeWZ5Q2FPa3FqQmJ0UHM?oc=5",
+"pub": "2026-11-25T15:55:57+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-26T04:14:27+00:00"
+},
+{
 "id": "290ae7d216b9",
 "t": "",
 "title": "CTS Corp (CTS.Z) | Stock Price & Latest News - Reuters",
@@ -10261,6 +10321,16 @@
 "src": "Reuters",
 "kind": "market",
 "seen": "2026-11-25T18:09:13+00:00"
+},
+{
+"id": "55f5a5cc7db7",
+"t": "",
+"title": "1668ta.HZ - | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9fYkRQWGl0Wkh6S1VVVkdJY051WXU3T0ZNZ1NlRDhSaW00aEJuLUx1OWhKZmdVVW1VZERiTlRmVjQ1X1EtekJjSm5wdkVIaGdSM1VJejE3QW5aaHJRdVJwbDhBN0lTLTgtMmhfeTJPMF9EUXRlZU9oaW1xUXdMSVk?oc=5",
+"pub": "2026-11-25T15:34:00+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-26T04:14:27+00:00"
 },
 {
 "id": "333f6a5b3713",
@@ -10949,76 +11019,6 @@
 "url": "https://www.financialjuice.com/News/9867994/WH-Sr-Adviser-Hassett-on-tariff-proposals-The-point-is-to-level-the-playing-field.aspx?xy=rss",
 "pub": "2026-11-25T14:48:48+00:00",
 "src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-25T15:05:32+00:00"
-},
-{
-"id": "b4be095c0520",
-"t": "",
-"title": "BoE's Mann: Larger moves have a bigger impact on price strategies.",
-"url": "https://www.financialjuice.com/News/9867993/BoEs-Mann-Larger-moves-have-a-bigger-impact-on-price-strategies.aspx?xy=rss",
-"pub": "2026-11-25T14:48:25+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-25T15:05:32+00:00"
-},
-{
-"id": "6fad62cd5e2b",
-"t": "",
-"title": "WH Sr. Adviser Hassett: Oil and diesel prices are heading back to before war levels.",
-"url": "https://www.financialjuice.com/News/9867992/WH-Sr-Adviser-Hassett-Oil-and-diesel-prices-are-heading-back-to-before-war-levels.aspx?xy=rss",
-"pub": "2026-11-25T14:47:57+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-25T15:05:32+00:00"
-},
-{
-"id": "1cf8fb5ff63d",
-"t": "",
-"title": "BoE's Mann: I do not think the squeeze on firms' profit margins can continue to restrain inflation.",
-"url": "https://www.financialjuice.com/News/9867991/BoEs-Mann-I-do-not-think-the-squeeze-on-firms-profit-margins-can-continue-to-restrain-inflation.aspx?xy=rss",
-"pub": "2026-11-25T14:47:30+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-25T15:05:32+00:00"
-},
-{
-"id": "832f84fffdb8",
-"t": "",
-"title": "BoE's Mann: The optimal response is to hike rates more and sooner.",
-"url": "https://www.financialjuice.com/News/9867988/BoEs-Mann-The-optimal-response-is-to-hike-rates-more-and-sooner.aspx?xy=rss",
-"pub": "2026-11-25T14:46:26+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-25T15:05:32+00:00"
-},
-{
-"id": "256c911c46a7",
-"t": "",
-"title": "Deere Sees Headwinds Ahead for Farmers in 2027",
-"url": "https://www.bloomberg.com/news/videos/2026-11-25/deere-sees-headwinds-ahead-for-farmers-in-2027-video",
-"pub": "2026-11-25T14:46:13+00:00",
-"src": "Bloomberg",
-"kind": "market",
-"seen": "2026-11-25T15:05:32+00:00"
-},
-{
-"id": "6a9681469842",
-"t": "",
-"title": "WH Sr. Adviser Hassett: The PCE numbers show that the impact of the Gulf troubles is waning.",
-"url": "https://www.financialjuice.com/News/9867987/WH-Sr-Adviser-Hassett-The-PCE-numbers-show-that-the-impact-of-the-Gulf-troubles-is-waning.aspx?xy=rss",
-"pub": "2026-11-25T14:46:13+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-25T15:05:32+00:00"
-},
-{
-"id": "9f846ef82d60",
-"t": "",
-"title": "Bullrich dice que reelección de Milei está en riesgo si la economía no mejora",
-"url": "https://www.bloomberg.com/news/videos/2026-11-25/bullrich-dice-que-reeleccion-de-milei-esta-en-riesgo-si-la-economia-no-mejora",
-"pub": "2026-11-25T14:45:51+00:00",
-"src": "Bloomberg",
 "kind": "market",
 "seen": "2026-11-25T15:05:32+00:00"
 }
