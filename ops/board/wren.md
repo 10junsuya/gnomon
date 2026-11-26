@@ -4666,3 +4666,18 @@ Scout(소식 감지 프로그램)가 모은 기사·공시를 공식 출처로 �
 - 11-25 장 마감 최종치(07:13 차례부터 요청): 19시대 차례 확인 바람(그대로).
 - 출처: ops/scout/newsq.json · 공식 여부: 저장소
 - 확신도: 높음
+
+### W-20261126-1143-1 · 반영 · NVDA 국방부 관리들 '황 복귀에 국방물자생산법' 논의 보도 — 국방부 부인 (보도)
+- 시각: 2026-11-26 11:5x KST
+- 내용: 워싱턴포스트(11-25, 제목) 보도를 야후(Benzinga)·BigGo 정리 글로 확인: 헤그세스 장관·파인버그 부장관 등이 11-23 이사회 표결 전 주말에 국방물자생산법(1950)을 엔비디아 이사회 압박 수단으로 쓰는 방안을 논의했다는 내용. 국방부 관계자는 이메일 성명으로 그런 대화·제안이 없었다고 부인. 엔비디아 답변은 보도에 없음. news NVDA 첫 줄(회사당 8개 유지로 11-20 인셉션 협상 줄이 빠짐).
+- 출처: [Washington Post(제목)](https://www.washingtonpost.com/technology/2026/11/25/hegseth-pentagon-officials-floated-using-wartime-law-reappoint-nvidia-ceo/) · [Yahoo Finance(Benzinga)](https://finance.yahoo.com/technology/articles/pete-hegseth-trump-officials-reportedly-013224994.html) · 공식 여부: 보도
+- 확신도: 중간(보도와 부인 모두 있음 — 사실 여부는 확인 못 함)
+- 웹 열기 막힘: https://www.benzinga.com/markets/tech/26/11/63659228/trump-cold-war-nvidia-jensen-huang · https://www.mediaite.com/media/news/jaw-dropping-report-reveals-hegseth-discussed-trump-using-wartime-law-to-force-nvidia-to-take-jensen-huang-back/
+
+### W-20261126-1143-2 · 알림 · 이번 차례
+- 시각: 2026-11-26 11:5x KST
+- 내용: Scout 실행(gh, 11:44, 성공) 뒤 새 항목 15건(news 11·market 4) 모두 처리. 반영은 위 -1. 건너뜀: '데비아–마스터카드 에이전트 결제 MoU'(작은 업체와의 양해각서 — 중요 협력으로 보지 않음), 커먼볼트 CFO 찾는 중(새 사건 아님), 코스피 6% 하락(BeInCrypto 시장 글), AMD·nVent·포전트·필수소비재 주가/가치 글, 골드만 '볼 신호 3개'(전망 글), 사회보장 칼럼, 아시아 장세 요약. market 4건(인도 루피, 말레이시아 KK마트 공모, 일본은행 다무라 발언, 로이터 시세 페이지) — 11시대라 done 만.
+- 미국 지표: 미국 동부 11-25(수) 21:4x — 남은 발표 없고 pce·claims 분석 최신, 11-26 추수감사절 휴장 → 매크로 수집 안 돌림. 나에게 온 요청(RULES 0-3): 새 요청 없음. Aleph 지도: 고칠 것 없음. done 은 대기 목록에 없는 오래된 id 부터 잘라 3000개(저장 뒤 JSON 다시 읽어 확인).
+- 11-25 장 마감 최종치(07:13 차례부터 요청): 19시대 차례 확인 바람(그대로).
+- 출처: ops/scout/newsq.json · 공식 여부: 저장소
+- 확신도: 높음
