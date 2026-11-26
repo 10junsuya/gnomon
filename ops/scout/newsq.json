@@ -1,21 +1,91 @@
 {
-"updated_kst": "2026-11-26 19:14",
-"rot": 155,
+"updated_kst": "2026-11-26 19:39",
+"rot": 36,
 "how": "Scout(프로그램)이 10분마다 모은 기사 제목·링크와 공시예요. Wren이 공식 출처로 확인한 뒤 회사 화면에 한국어로 반영해요. 본문은 받지 않아요.",
 "sources": {
 "Yahoo Finance": "120종목 확인 · 실패 0",
-"GlobeNewswire": "0건",
+"GlobeNewswire": "실패 HTTPError",
 "PR Newswire": "0건",
 "Business Wire": "0건",
 "CNBC": "63건",
 "Bloomberg": "40건",
 "WSJ": "61건",
-"Reuters": "100건",
+"Reuters": "58건",
 "FinancialJuice": "100건",
 "SEC EDGAR": "실패 HTTPError",
 "Fox Business": "50건"
 },
 "items": [
+{
+"id": "856b8acd79b7",
+"t": "NVDA",
+"title": "President Trump Just Hit Stock Market Investors With Bad News at a Bad Time",
+"url": "https://www.fool.com/investing/2026/11/26/president-trump-hit-stock-market-investors-with-bad-news/",
+"pub": "2026-11-26T10:32:02+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-26T10:39:24+00:00"
+},
+{
+"id": "a04287de803a",
+"t": "NVDA",
+"title": "There’s one proven way not to lose during a market downturn. Ignore it and risk blowing up your entire financial future",
+"url": "https://finance.yahoo.com/news/one-proven-way-not-lose-103000392.html",
+"pub": "2026-11-26T10:30:00+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-26T10:39:24+00:00"
+},
+{
+"id": "8a23e644e0a9",
+"t": "TSLA",
+"title": "General Motors (GM) Bets On Egypt Assembly And Wider EV Charging Access",
+"url": "https://finance.yahoo.com/markets/stocks/articles/general-motors-gm-bets-egypt-101402167.html",
+"pub": "2026-11-26T10:14:02+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-26T10:39:24+00:00"
+},
+{
+"id": "f90f68298719",
+"t": "SPCX",
+"title": "Top 3 Crypto Stocks To Watch In November 2026",
+"url": "https://finance.yahoo.com/markets/crypto/articles/top-3-crypto-stocks-watch-101104165.html",
+"pub": "2026-11-26T10:11:04+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-26T10:39:24+00:00"
+},
+{
+"id": "62b4bd0ab0b0",
+"t": "SPCX",
+"title": "3 AI Infrastructure Stocks With Revenue Growth Up To 168%",
+"url": "https://finance.yahoo.com/technology/ai/articles/3-ai-infrastructure-stocks-revenue-100924358.html",
+"pub": "2026-11-26T10:09:24+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-26T10:39:24+00:00"
+},
+{
+"id": "300dd1f7bc70",
+"t": "MSFT",
+"title": "How Investors May Respond To Arrow Electronics (ARW) AI Sales Portal Launch",
+"url": "https://finance.yahoo.com/technology/ai/articles/investors-may-respond-arrow-electronics-100853526.html",
+"pub": "2026-11-26T10:08:53+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-26T10:39:24+00:00"
+},
+{
+"id": "074a90646e02",
+"t": "NVDA",
+"title": "Shopify (NasdaqGS:SHOP) Rebound Rekindles The Debate Over Its Fair Value",
+"url": "https://finance.yahoo.com/markets/stocks/articles/shopify-nasdaqgs-shop-rebound-rekindles-100844802.html",
+"pub": "2026-11-26T10:08:44+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-26T10:39:24+00:00"
+},
 {
 "id": "29c14a83b4a7",
 "t": "NVDA",
@@ -45,6 +115,16 @@
 "src": "Yahoo Finance",
 "kind": "news",
 "seen": "2026-11-26T10:14:26+00:00"
+},
+{
+"id": "e8b5f1e089cf",
+"t": "SPCX",
+"title": "Musk Calls FCC’s Million-Satellite Approval “a Great Asset.” SpaceX Has Until 2033 to Fly the First One",
+"url": "https://www.tikr.com/blog/musk-calls-fccs-million-satellite-approval-a-great-asset-spacex-has-until-2033-to-fly-the-first-one",
+"pub": "2026-11-26T09:50:35+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-26T10:39:24+00:00"
 },
 {
 "id": "a9b1b6f5eb0c",
@@ -87,6 +167,16 @@
 "seen": "2026-11-26T09:37:55+00:00"
 },
 {
+"id": "9e60ecdb7e4e",
+"t": "CRWD",
+"title": "Truist Sees 52% Upside in Zscaler, and the Reason Has Nothing to Do With Zscaler’s Valuation",
+"url": "https://www.tikr.com/blog/truist-sees-52-upside-in-zscaler-and-the-reason-has-nothing-to-do-with-zscalers-valuation",
+"pub": "2026-11-26T09:20:27+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-26T10:39:24+00:00"
+},
+{
 "id": "cd7f32c9c2c2",
 "t": "NVDA",
 "title": "Nvidia halts chip exports to south-east Asia after US crackdown",
@@ -95,6 +185,16 @@
 "src": "Yahoo Finance",
 "kind": "news",
 "seen": "2026-11-26T09:37:55+00:00"
+},
+{
+"id": "00bd65f32ac7",
+"t": "NVDA",
+"title": "Nvidia halts chip exports to south-east Asia",
+"url": "https://www.telegraph.co.uk/business/2026/11/26/nvidia-halts-chip-exports-to-south-east-asia-after-us-crack/",
+"pub": "2026-11-26T09:17:19+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-26T10:39:24+00:00"
 },
 {
 "id": "4e9cd7ed3ff1",
@@ -215,6 +315,16 @@
 "src": "Yahoo Finance",
 "kind": "news",
 "seen": "2026-11-26T09:14:28+00:00"
+},
+{
+"id": "a228a24db1d0",
+"t": "INTC",
+"title": "Bad News for Intel: Dell Says Companies Are “Deferring Their PC Purchases” for AI Servers",
+"url": "https://www.tikr.com/blog/bad-news-for-intel-dell-says-companies-are-deferring-their-pc-purchases-for-ai-servers",
+"pub": "2026-11-26T08:50:21+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-26T10:39:24+00:00"
 },
 {
 "id": "4dbe89175b58",
@@ -525,6 +635,16 @@
 "src": "Yahoo Finance",
 "kind": "news",
 "seen": "2026-11-26T06:45:06+00:00"
+},
+{
+"id": "b7b75f44753d",
+"t": "STX",
+"title": "122% Upside for Seagate? Citi Thinks So, and Here’s How",
+"url": "https://www.tikr.com/blog/122-upside-for-seagate-citi-thinks-so-and-heres-how",
+"pub": "2026-11-26T06:19:45+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-26T10:39:24+00:00"
 },
 {
 "id": "6b0176bddd8c",
@@ -7903,124 +8023,104 @@
 "seen": "2026-11-25T15:05:32+00:00"
 },
 {
-"id": "b3b1940586b9",
-"t": "GOOGL",
-"title": "Anthropic Loses Its $1 Trillion Market Value. So Much for the AI Hype.",
-"url": "https://finance.yahoo.com/m/acbd91a7-90c3-3b19-9187-1667d5063696/anthropic-loses-its-%241.html",
-"pub": "2026-11-25T14:53:00+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-25T16:20:21+00:00"
+"id": "f1bf9aec8b25",
+"t": "",
+"title": "BoE maintains countercyclical buffer at 2%",
+"url": "https://www.financialjuice.com/News/9869248/BoE-maintains-countercyclical-buffer-at-2.aspx?xy=rss",
+"pub": "2026-11-26T10:34:24+00:00",
+"src": "FinancialJuice",
+"kind": "market",
+"seen": "2026-11-26T10:39:24+00:00"
 },
 {
-"id": "dd4584f28570",
-"t": "NVDA",
-"title": "Ed Yardeni Wants Double the Fed Rate Hike the Market Expects",
-"url": "https://247wallst.com/investing/2026/11/25/ed-yardeni-wants-double-the-fed-rate-hike-the-market-expects/",
-"pub": "2026-11-25T14:52:55+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-25T15:05:32+00:00"
+"id": "20f5c09535ea",
+"t": "",
+"title": "BoE warns AI financing is \"increasingly complex, circular, opaque\"",
+"url": "https://www.financialjuice.com/News/9869247/BoE-warns-AI-financing-is-increasingly-complex-circular-opaque.aspx?xy=rss",
+"pub": "2026-11-26T10:34:09+00:00",
+"src": "FinancialJuice",
+"kind": "market",
+"seen": "2026-11-26T10:39:24+00:00"
 },
 {
-"id": "f06120beb090",
-"t": "ORCL",
-"title": "Globant announces Converge 2026: an edition about reinvention in the AI-Native Era, with Glob.AI at the center",
-"url": "https://finance.yahoo.com/technology/ai/articles/globant-announces-converge-2026-edition-145100834.html",
-"pub": "2026-11-25T14:51:00+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-25T15:05:32+00:00"
+"id": "75106430fb3e",
+"t": "",
+"title": "BOE Proposes 30 Basis Point Cut to UK Bank Capital Requirements",
+"url": "https://www.bloomberg.com/news/articles/2026-11-26/boe-proposes-30-basis-point-cut-to-uk-bank-capital-requirements",
+"pub": "2026-11-26T10:33:26+00:00",
+"src": "Bloomberg",
+"kind": "market",
+"seen": "2026-11-26T10:39:24+00:00"
 },
 {
-"id": "d39cb2b03805",
-"t": "MSFT",
-"title": "How Jensen Huang and Sam Altman ‘Un-Fired’ Themselves",
-"url": "https://finance.yahoo.com/video/jensen-huang-sam-altman-un-145100289.html",
-"pub": "2026-11-25T14:51:00+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-25T16:44:23+00:00"
+"id": "ac7a9a51a023",
+"t": "",
+"title": "BoE: Recent AI incidents show a prominent threat to financial stability",
+"url": "https://www.financialjuice.com/News/9869246/BoE-Recent-AI-incidents-show-a-prominent-threat-to-financial-stability.aspx?xy=rss",
+"pub": "2026-11-26T10:32:12+00:00",
+"src": "FinancialJuice",
+"kind": "market",
+"seen": "2026-11-26T10:39:24+00:00"
 },
 {
-"id": "608b852bfa81",
-"t": "NVDA",
-"title": "Even Without Warren Buffett as CEO, Berkshire Hathaway Is Outperforming the S&P 500, Nasdaq, and Dow by the Widest Margin Since 2022. History Says This Is What Happens Next.",
-"url": "https://www.fool.com/investing/2026/11/25/even-without-warren-buffett-as-ceo-berkshire-hathaway-is-outperforming-the-s-and-p-500-nasdaq-and-dow-by-the-widest-margin-since-2022-history-says-this-is-what-happens-next/",
-"pub": "2026-11-25T14:50:02+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-25T15:05:32+00:00"
+"id": "bab674e6f180",
+"t": "",
+"title": "BoE: Quantum-resistant cryptography is an immediate priority",
+"url": "https://www.financialjuice.com/News/9869245/BoE-Quantum-resistant-cryptography-is-an-immediate-priority.aspx?xy=rss",
+"pub": "2026-11-26T10:31:56+00:00",
+"src": "FinancialJuice",
+"kind": "market",
+"seen": "2026-11-26T10:39:24+00:00"
 },
 {
-"id": "e30e794a5e92",
-"t": "NVDA",
-"title": "10 things fueling this nasty market pullback",
-"url": "https://finance.yahoo.com/video/10-things-fueling-this-nasty-market-pullback-144906243.html",
-"pub": "2026-11-25T14:49:06+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-25T15:05:32+00:00"
+"id": "482d325e00dd",
+"t": "",
+"title": "BoE: Households and firms resilient, banking system strong",
+"url": "https://www.financialjuice.com/News/9869236/BoE-Households-and-firms-resilient-banking-system-strong.aspx?xy=rss",
+"pub": "2026-11-26T10:31:43+00:00",
+"src": "FinancialJuice",
+"kind": "market",
+"seen": "2026-11-26T10:39:24+00:00"
 },
 {
-"id": "198771e18659",
-"t": "QCOM",
-"title": "Qualcomm Sets Stunning $500 Stock Target for CEO",
-"url": "https://finance.yahoo.com/markets/stocks/articles/qualcomm-sets-stunning-500-stock-144851221.html",
-"pub": "2026-11-25T14:48:51+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-25T15:05:32+00:00"
+"id": "de19142121e9",
+"t": "",
+"title": "BoE to focus on pillar 2a charges for domestic lending",
+"url": "https://www.financialjuice.com/News/9869232/BoE-to-focus-on-pillar-2a-charges-for-domestic-lending.aspx?xy=rss",
+"pub": "2026-11-26T10:31:33+00:00",
+"src": "FinancialJuice",
+"kind": "market",
+"seen": "2026-11-26T10:39:24+00:00"
 },
 {
-"id": "dae5c3259783",
-"t": "SPCX",
-"title": "No One Will Ever Compete With SpaceX’s Space",
-"url": "https://247wallst.com/investing/2026/11/25/no-one-will-ever-compete-with-spacexs-space/",
-"pub": "2026-11-25T14:47:53+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-25T15:05:32+00:00"
+"id": "cc9c1b559f6e",
+"t": "",
+"title": "AI Crisis Would Collide With Political Mire, Scope Ratings Says",
+"url": "https://www.bloomberg.com/news/articles/2026-11-26/ai-crisis-would-collide-with-political-mire-scope-ratings-says",
+"pub": "2026-11-26T10:27:19+00:00",
+"src": "Bloomberg",
+"kind": "market",
+"seen": "2026-11-26T10:39:24+00:00"
 },
 {
-"id": "32681b9a8fbd",
-"t": "NVDA",
-"title": "Jim Bianco Calls Nvidia “the Federal Reserve of AI.” Here’s What That Means for Your Portfolio",
-"url": "https://247wallst.com/investing/2026/11/25/jim-bianco-calls-nvidia-the-federal-reserve-of-ai-heres-what-that-means-for-your-portfolio/",
-"pub": "2026-11-25T14:47:23+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-25T15:05:32+00:00"
+"id": "9af450628156",
+"t": "",
+"title": "Portugal Rejects Opposition Tax Cuts to Preserve Budget Surplus",
+"url": "https://www.bloomberg.com/news/articles/2026-11-26/portugal-rejects-opposition-tax-cuts-to-preserve-budget-surplus",
+"pub": "2026-11-26T10:22:18+00:00",
+"src": "Bloomberg",
+"kind": "market",
+"seen": "2026-11-26T10:39:24+00:00"
 },
 {
-"id": "a4a90301ae16",
-"t": "LMT",
-"title": "Multirotor UAVs - Global Strategic Business Report: Capitalize on a $6 Billion Market by 2030 as DJI, Lockheed Martin, Elbit Systems, and Israel Aerospace Industries Reshape Defense and Commerce",
-"url": "https://finance.yahoo.com/technology/articles/multirotor-uavs-global-strategic-business-144700359.html",
-"pub": "2026-11-25T14:47:00+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-25T15:46:42+00:00"
-},
-{
-"id": "53779e37f68c",
-"t": "WMT",
-"title": "Breaking down Thanksgiving costs of gas, groceries, and the bird",
-"url": "https://finance.yahoo.com/video/breaking-down-thanksgiving-costs-of-gas-groceries-and-the-bird-144623982.html",
-"pub": "2026-11-25T14:46:23+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-25T15:14:55+00:00"
-},
-{
-"id": "ccf4574efef0",
-"t": "IBM",
-"title": "Invest in the Laptops, Mainframes and Network Switches for Passive Income: $90,000 Across These 3 Tech Hardware Stocks Pays More Than $2,600 a Year",
-"url": "https://247wallst.com/investing/2026/11/25/invest-in-the-laptops-mainframes-and-network-switches-for-passive-income-90000-across-these-3-tech-hardware-stocks-pays-more-than-2600-a-year/",
-"pub": "2026-11-25T14:46:07+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-25T15:05:32+00:00"
+"id": "46f09ea14e85",
+"t": "",
+"title": "Iran and South Korea foreign ministers discuss region in call - IRIB",
+"url": "https://www.financialjuice.com/News/9869214/Iran-and-South-Korea-foreign-ministers-discuss-region-in-call---IRIB.aspx?xy=rss",
+"pub": "2026-11-26T10:16:33+00:00",
+"src": "FinancialJuice",
+"kind": "market",
+"seen": "2026-11-26T10:39:24+00:00"
 },
 {
 "id": "8a42ef92288d",
@@ -8121,6 +8221,16 @@
 "src": "FinancialJuice",
 "kind": "market",
 "seen": "2026-11-26T09:37:55+00:00"
+},
+{
+"id": "3ca3853a69cc",
+"t": "",
+"title": "Malaysia wants priority over other lenders if it backs AirAsia - Reuters",
+"url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQc3lUU2gwS21QWXpWVFRLUmoya0tHOFhSUGR6SG4wSVRqT2VkX3QyTEZJOHNIdWZZRF8wNFNBNXNtSW9SeGY3MXdoSEMzVWZBTjZ5U0oyRjZLNkZxb3VoZURrUWFuWjZrWGNSQklKbzVZbXB3RHViZ01HMVZQRUdJZ09BY0tsazk0dGY2Zm45blR0VnZSN196QmwwdWZUQkJEdmNiSXI4Vm5DZm1lWXFYbG5TTQ?oc=5",
+"pub": "2026-11-26T09:15:43+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-26T10:39:24+00:00"
 },
 {
 "id": "97dd619e6ed5",
@@ -10908,116 +11018,6 @@
 "title": "S&P intend to meet with Nvidia’s board & management. $NVDA",
 "url": "https://www.financialjuice.com/News/9868270/SP-intend-to-meet-with-Nvidias-board--management-NVDA.aspx?xy=rss",
 "pub": "2026-11-25T18:43:56+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-25T18:45:05+00:00"
-},
-{
-"id": "681b956537db",
-"t": "",
-"title": "Vice President JD Vance ends remarks to reporters",
-"url": "https://www.financialjuice.com/News/9868269/Vice-President-JD-Vance-ends-remarks-to-reporters.aspx?xy=rss",
-"pub": "2026-11-25T18:42:34+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-25T18:45:05+00:00"
-},
-{
-"id": "b3e0761f6852",
-"t": "",
-"title": "Dodgers Owner Todd Boehly Clinches Deal for Overseas Assets of Russia’s Lukoil",
-"url": "https://www.wsj.com/business/deals/dodgers-owner-todd-boehly-clinches-deal-for-overseas-assets-of-russias-lukoil-9679356a",
-"pub": "2026-11-25T18:41:00+00:00",
-"src": "WSJ",
-"kind": "market",
-"seen": "2026-11-25T18:45:05+00:00"
-},
-{
-"id": "d17a698c1ccb",
-"t": "",
-"title": "S&P sees potential one-notch Nvidia downgrade in 90 days. $NVDA",
-"url": "https://www.financialjuice.com/News/9868268/SP-sees-potential-one-notch-Nvidia-downgrade-in-90-days-NVDA.aspx?xy=rss",
-"pub": "2026-11-25T18:40:05+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-25T18:45:05+00:00"
-},
-{
-"id": "ab882ed406a8",
-"t": "",
-"title": "S&P: Nvidia 'AA' ratings placed on creditwatch negative on rising M&G risk. $NVDA",
-"url": "https://www.financialjuice.com/News/9868267/SP-Nvidia-AA-ratings-placed-on-creditwatch-negative-on-rising-MG-risk-NVDA.aspx?xy=rss",
-"pub": "2026-11-25T18:39:31+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-25T18:45:05+00:00"
-},
-{
-"id": "a2919b72337e",
-"t": "",
-"title": "S&P puts Nvidia 'AA' ratings on creditwatch negative",
-"url": "https://www.financialjuice.com/News/9868266/SP-puts-Nvidia-AA-ratings-on-creditwatch-negative.aspx?xy=rss",
-"pub": "2026-11-25T18:38:59+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-25T18:45:05+00:00"
-},
-{
-"id": "3de3b7ff3002",
-"t": "",
-"title": "CME E-Mini Options Briefly Paused During Chaotic Opening Session",
-"url": "https://www.bloomberg.com/news/articles/2026-11-25/cme-e-mini-options-briefly-paused-during-chaotic-opening-session",
-"pub": "2026-11-25T18:37:00+00:00",
-"src": "Bloomberg",
-"kind": "market",
-"seen": "2026-11-25T19:07:59+00:00"
-},
-{
-"id": "acb0e7b4ff71",
-"t": "",
-"title": "Vance on Nvidia: It was the board's decision to bring Huang back. $NVDA",
-"url": "https://www.financialjuice.com/News/9868265/Vance-on-Nvidia-It-was-the-boards-decision-to-bring-Huang-back-NVDA.aspx?xy=rss",
-"pub": "2026-11-25T18:34:37+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-25T18:45:05+00:00"
-},
-{
-"id": "cde0359bff8c",
-"t": "",
-"title": "Emirates Nbd Bank PJSC (ENBD.DU) | Stock Price & Latest News - Reuters",
-"url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9ZUnRGeTZDTEtWbWpqVVZmYWc4SXpERWt1SDZEMmxhVFBaT3ZtTmplUWRSV3FLV3haQnFnSXEzV0RDWmZKQi1tMG9ETVcyazZZVkpSZG5KSF83NURuU2E4?oc=5",
-"pub": "2026-11-25T18:34:23+00:00",
-"src": "Reuters",
-"kind": "market",
-"seen": "2026-11-26T02:26:03+00:00"
-},
-{
-"id": "0c6eb0ab99ca",
-"t": "",
-"title": "Vance asked on Huang pardon: Doesn't need one at all. $NVDA",
-"url": "https://www.financialjuice.com/News/9868264/Vance-asked-on-Huang-pardon-Doesnt-need-one-at-all-NVDA.aspx?xy=rss",
-"pub": "2026-11-25T18:34:17+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-25T18:45:05+00:00"
-},
-{
-"id": "24b6d834fff1",
-"t": "",
-"title": "Vance: Huang will take export controls very seriously. Accusations against Huang based on anonymous report. $NVDA",
-"url": "https://www.financialjuice.com/News/9868263/Vance-Huang-will-take-export-controls-very-seriously-Accusations-against-Huang-based-on-anonymous-report-NVDA.aspx?xy=rss",
-"pub": "2026-11-25T18:34:00+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-25T18:45:05+00:00"
-},
-{
-"id": "0c2636b022db",
-"t": "",
-"title": "Vance on Nvidia: This is an opportunity for the company to comply with export controls. $NVDA",
-"url": "https://www.financialjuice.com/News/9868262/Vance-on-Nvidia-This-is-an-opportunity-for-the-company-to-comply-with-export-controls-NVDA.aspx?xy=rss",
-"pub": "2026-11-25T18:33:32+00:00",
 "src": "FinancialJuice",
 "kind": "market",
 "seen": "2026-11-25T18:45:05+00:00"
