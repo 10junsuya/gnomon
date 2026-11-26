@@ -1,21 +1,91 @@
 {
-"updated_kst": "2026-11-26 15:14",
-"rot": 32,
+"updated_kst": "2026-11-26 15:45",
+"rot": 92,
 "how": "Scout(프로그램)이 10분마다 모은 기사 제목·링크와 공시예요. Wren이 공식 출처로 확인한 뒤 회사 화면에 한국어로 반영해요. 본문은 받지 않아요.",
 "sources": {
 "Yahoo Finance": "120종목 확인 · 실패 0",
-"GlobeNewswire": "실패 HTTPError",
+"GlobeNewswire": "0건",
 "PR Newswire": "0건",
 "Business Wire": "0건",
 "CNBC": "63건",
 "Bloomberg": "40건",
 "WSJ": "61건",
-"Reuters": "52건",
+"Reuters": "100건",
 "FinancialJuice": "100건",
 "SEC EDGAR": "실패 HTTPError",
 "Fox Business": "50건"
 },
 "items": [
+{
+"id": "d345cb8eb762",
+"t": "MU",
+"title": "MU, SNDK, SKHY Jump As Nvidia Tests Kioxia Memory Fix — Analyst Presses Memory Giants For ‘Massive’ Buybacks",
+"url": "https://stocktwits.com/news-articles/markets/equity/mu-sndk-skhy-nvidia-kioxia-memory-fix-analyst-memory-giants-buybacks/cNbxQFgR9ZK",
+"pub": "2026-11-26T06:30:51+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-26T06:45:06+00:00"
+},
+{
+"id": "aa49fffa3df4",
+"t": "NVDA",
+"title": "Nvidia stops shipping AI servers to 4 Southeast Asian countries- FT",
+"url": "https://finance.yahoo.com/technology/ai/articles/nvidia-stops-shipping-ai-servers-062916311.html",
+"pub": "2026-11-26T06:29:16+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-26T06:45:06+00:00"
+},
+{
+"id": "577d36a50e10",
+"t": "NVDA",
+"title": "Kioxia jumps 14% after Nvidia collaboration as chip stocks rebound",
+"url": "https://finance.yahoo.com/markets/stocks/articles/kioxia-jumps-14-nvidia-collaboration-062844097.html",
+"pub": "2026-11-26T06:28:44+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-26T06:45:06+00:00"
+},
+{
+"id": "7794e075a2bc",
+"t": "IONQ",
+"title": "IonQ Stock Has The Bull Case Changed After Raised Revenue Guidance",
+"url": "https://finance.yahoo.com/markets/stocks/articles/ionq-stock-bull-case-changed-061727547.html",
+"pub": "2026-11-26T06:17:27+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-26T06:45:06+00:00"
+},
+{
+"id": "ca73e16f2703",
+"t": "CEG",
+"title": "How Investors May Respond To Constellation Energy Stock After Earnings Estimate Upgrades",
+"url": "https://finance.yahoo.com/markets/stocks/articles/investors-may-respond-constellation-energy-061507801.html",
+"pub": "2026-11-26T06:15:07+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-26T06:45:06+00:00"
+},
+{
+"id": "bfe0c476b4c6",
+"t": "COP",
+"title": "3 Oil Stocks With Direct Exposure To Higher Crude Prices",
+"url": "https://finance.yahoo.com/energy/articles/3-oil-stocks-direct-exposure-061445059.html",
+"pub": "2026-11-26T06:14:45+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-26T06:45:06+00:00"
+},
+{
+"id": "0d21c8426d23",
+"t": "JOBY",
+"title": "Joby Aviation (JOBY) Climbs Ahead of Major Dubai Milestone",
+"url": "https://finance.yahoo.com/markets/stocks/articles/joby-aviation-joby-climbs-ahead-061436621.html",
+"pub": "2026-11-26T06:14:36+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-26T06:45:06+00:00"
+},
 {
 "id": "7dd19138531f",
 "t": "ASTS",
@@ -135,6 +205,16 @@
 "src": "Yahoo Finance",
 "kind": "news",
 "seen": "2026-11-26T05:44:01+00:00"
+},
+{
+"id": "618428410fe7",
+"t": "NVDA",
+"title": "Is the Stock Market Open Today? Here Are the Trading Hours for Thanksgiving.",
+"url": "https://finance.yahoo.com/m/535e2705-a042-38b6-9a9a-e1e743df5f27/is-the-stock-market-open.html",
+"pub": "2026-11-26T05:01:00+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-26T06:45:06+00:00"
 },
 {
 "id": "354b685a771f",
@@ -7943,84 +8023,204 @@
 "seen": "2026-11-25T14:15:15+00:00"
 },
 {
-"id": "a98c0bb75c71",
-"t": "SPY",
-"title": "Exchange-Traded Funds, Equity Futures Lower Pre-Bell Wednesday Amid Inflation Data Release",
-"url": "https://finance.yahoo.com/markets/stocks/articles/exchange-traded-funds-equity-futures-140441647.html",
-"pub": "2026-11-25T14:04:41+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-25T14:15:15+00:00"
+"id": "6f8c470f6c3e",
+"t": "",
+"title": "SNB Interest Rate Probabilities",
+"url": "https://www.financialjuice.com/News/9868963/SNB-Interest-Rate-Probabilities.aspx?xy=rss",
+"pub": "2026-11-26T06:38:19+00:00",
+"src": "FinancialJuice",
+"kind": "market",
+"seen": "2026-11-26T06:45:06+00:00"
 },
 {
-"id": "4ada969f7152",
-"t": "RKLB",
-"title": "Rocket Lab Just Grew Revenue 73%. Its Next Chapter Could Be Even Bigger",
-"url": "https://247wallst.com/investing/2026/11/25/rocket-lab-just-grew-revenue-73-its-next-chapter-could-be-even-bigger/",
-"pub": "2026-11-25T14:03:57+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-25T14:15:15+00:00"
+"id": "b6a50dc95713",
+"t": "",
+"title": "RBNZ Interest Rate Probabilities",
+"url": "https://www.financialjuice.com/News/9868962/RBNZ-Interest-Rate-Probabilities.aspx?xy=rss",
+"pub": "2026-11-26T06:37:57+00:00",
+"src": "FinancialJuice",
+"kind": "market",
+"seen": "2026-11-26T06:45:06+00:00"
 },
 {
-"id": "35bde1161ac1",
-"t": "AVGO",
-"title": "This Dividend ETF Has Paid 77 Monthly Checks in a Row. 2 More to Pair With It for Retirement",
-"url": "https://247wallst.com/investing/etf/2026/11/25/this-dividend-etf-has-paid-77-monthly-checks-in-a-row-2-more-to-pair-with-it-for-retirement/",
-"pub": "2026-11-25T14:03:56+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-25T14:15:15+00:00"
+"id": "964728ce5eae",
+"t": "",
+"title": "RBA Interest Rate Probabilities",
+"url": "https://www.financialjuice.com/News/9868961/RBA-Interest-Rate-Probabilities.aspx?xy=rss",
+"pub": "2026-11-26T06:37:39+00:00",
+"src": "FinancialJuice",
+"kind": "market",
+"seen": "2026-11-26T06:45:06+00:00"
 },
 {
-"id": "d84afd0b4e46",
-"t": "AMZN",
-"title": "In partnership with Amazon, Duracell Brings Holiday Magic to Chicago with Power Playland on the Pier",
-"url": "https://finance.yahoo.com/media-advertising/articles/partnership-amazon-duracell-brings-holiday-140300229.html",
-"pub": "2026-11-25T14:03:00+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-25T14:15:15+00:00"
+"id": "4a3a4faf605b",
+"t": "",
+"title": "BoJ Interest Rate Probabilities",
+"url": "https://www.financialjuice.com/News/9868960/BoJ-Interest-Rate-Probabilities.aspx?xy=rss",
+"pub": "2026-11-26T06:37:11+00:00",
+"src": "FinancialJuice",
+"kind": "market",
+"seen": "2026-11-26T06:45:06+00:00"
 },
 {
-"id": "a7c6b19ab1c5",
-"t": "RBRK",
-"title": "Netskope (NTSK) Expected to Beat Earnings Estimates: Can the Stock Move Higher?",
-"url": "https://finance.yahoo.com/markets/stocks/articles/netskope-ntsk-expected-beat-earnings-140004728.html",
-"pub": "2026-11-25T14:00:04+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-25T16:20:21+00:00"
+"id": "33d68f2125df",
+"t": "",
+"title": "BoC Interest Rate Probabilities",
+"url": "https://www.financialjuice.com/News/9868959/BoC-Interest-Rate-Probabilities.aspx?xy=rss",
+"pub": "2026-11-26T06:36:51+00:00",
+"src": "FinancialJuice",
+"kind": "market",
+"seen": "2026-11-26T06:45:06+00:00"
 },
 {
-"id": "8a3e1104e3a6",
-"t": "GOOGL",
-"title": "Data Center Americas 2027 Announces Industry Leaders from AWS, Google, Microsoft, Oracle, CoreWeave and Applied Digital as Featured Speakers",
-"url": "https://finance.yahoo.com/technology/ai/articles/data-center-americas-2027-announces-140000391.html",
-"pub": "2026-11-25T14:00:00+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-25T14:15:15+00:00"
+"id": "fce64642bde8",
+"t": "",
+"title": "BoE Interest Rate Probabilities",
+"url": "https://www.financialjuice.com/News/9868958/BoE-Interest-Rate-Probabilities.aspx?xy=rss",
+"pub": "2026-11-26T06:36:30+00:00",
+"src": "FinancialJuice",
+"kind": "market",
+"seen": "2026-11-26T06:45:06+00:00"
 },
 {
-"id": "4abaceaea575",
-"t": "GS",
-"title": "DuPont to Participate at the Goldman Sachs Industrials and Materials Conference",
-"url": "https://finance.yahoo.com/markets/stocks/articles/dupont-participate-goldman-sachs-industrials-140000313.html",
-"pub": "2026-11-25T14:00:00+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-25T14:15:15+00:00"
+"id": "0075ed7a20d9",
+"t": "",
+"title": "ECB Interest Rate Probabilities",
+"url": "https://www.financialjuice.com/News/9868957/ECB-Interest-Rate-Probabilities.aspx?xy=rss",
+"pub": "2026-11-26T06:36:05+00:00",
+"src": "FinancialJuice",
+"kind": "market",
+"seen": "2026-11-26T06:45:06+00:00"
 },
 {
-"id": "68b84dfd5045",
-"t": "BABA",
-"title": "Admitad helped Chinese brands to double their overseas sales during Double 11",
-"url": "https://finance.yahoo.com/small-business/articles/admitad-helped-chinese-brands-double-140000694.html",
-"pub": "2026-11-25T14:00:00+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-25T14:15:15+00:00"
+"id": "90eeee3289fb",
+"t": "",
+"title": "Fed Interest Rate Probabilities",
+"url": "https://www.financialjuice.com/News/9868956/Fed-Interest-Rate-Probabilities.aspx?xy=rss",
+"pub": "2026-11-26T06:35:46+00:00",
+"src": "FinancialJuice",
+"kind": "market",
+"seen": "2026-11-26T06:45:06+00:00"
+},
+{
+"id": "1769e1436d92",
+"t": "",
+"title": "Commodities Implied Volatility",
+"url": "https://www.financialjuice.com/News/9868955/Commodities-Implied-Volatility.aspx?xy=rss",
+"pub": "2026-11-26T06:35:15+00:00",
+"src": "FinancialJuice",
+"kind": "market",
+"seen": "2026-11-26T06:45:06+00:00"
+},
+{
+"id": "45bd81d059f7",
+"t": "",
+"title": "FX Implied Volatility",
+"url": "https://www.financialjuice.com/News/9868954/FX-Implied-Volatility.aspx?xy=rss",
+"pub": "2026-11-26T06:34:58+00:00",
+"src": "FinancialJuice",
+"kind": "market",
+"seen": "2026-11-26T06:45:06+00:00"
+},
+{
+"id": "f5d338f6a21e",
+"t": "",
+"title": "US Index Futures Implied Volatility",
+"url": "https://www.financialjuice.com/News/9868953/US-Index-Futures-Implied-Volatility.aspx?xy=rss",
+"pub": "2026-11-26T06:34:43+00:00",
+"src": "FinancialJuice",
+"kind": "market",
+"seen": "2026-11-26T06:45:06+00:00"
+},
+{
+"id": "a0cdfba2007b",
+"t": "",
+"title": "Top S&P 500 Stock Names Implied Volatility",
+"url": "https://www.financialjuice.com/News/9868952/Top-SP-500-Stock-Names-Implied-Volatility.aspx?xy=rss",
+"pub": "2026-11-26T06:34:25+00:00",
+"src": "FinancialJuice",
+"kind": "market",
+"seen": "2026-11-26T06:45:06+00:00"
+},
+{
+"id": "843c6061259b",
+"t": "",
+"title": "120-Day Correlation Matrix",
+"url": "https://www.financialjuice.com/News/9868951/120-Day-Correlation-Matrix.aspx?xy=rss",
+"pub": "2026-11-26T06:33:46+00:00",
+"src": "FinancialJuice",
+"kind": "market",
+"seen": "2026-11-26T06:45:06+00:00"
+},
+{
+"id": "1820267d33f5",
+"t": "",
+"title": "90-Day Correlation Matrix",
+"url": "https://www.financialjuice.com/News/9868950/90-Day-Correlation-Matrix.aspx?xy=rss",
+"pub": "2026-11-26T06:33:29+00:00",
+"src": "FinancialJuice",
+"kind": "market",
+"seen": "2026-11-26T06:45:06+00:00"
+},
+{
+"id": "75fd41c57859",
+"t": "",
+"title": "60-Day Correlation Matrix",
+"url": "https://www.financialjuice.com/News/9868949/60-Day-Correlation-Matrix.aspx?xy=rss",
+"pub": "2026-11-26T06:33:11+00:00",
+"src": "FinancialJuice",
+"kind": "market",
+"seen": "2026-11-26T06:45:06+00:00"
+},
+{
+"id": "c3317518e24d",
+"t": "",
+"title": "30-Day Correlation Matrix",
+"url": "https://www.financialjuice.com/News/9868948/30-Day-Correlation-Matrix.aspx?xy=rss",
+"pub": "2026-11-26T06:32:53+00:00",
+"src": "FinancialJuice",
+"kind": "market",
+"seen": "2026-11-26T06:45:06+00:00"
+},
+{
+"id": "c257a83d1cb8",
+"t": "",
+"title": "Oil Rises as Houthis Attack Two Saudi Ports on Red Sea",
+"url": "https://www.bloomberg.com/news/videos/2026-11-26/oil-rises-as-houthis-attack-two-saudi-ports-on-red-sea-video",
+"pub": "2026-11-26T06:31:16+00:00",
+"src": "Bloomberg",
+"kind": "market",
+"seen": "2026-11-26T06:45:06+00:00"
+},
+{
+"id": "6ab6418fee3d",
+"t": "",
+"title": "US Tariff Plan Raises Stakes for India to Clinch Trade Deal",
+"url": "https://www.bloomberg.com/news/videos/2026-11-26/us-tariffs-raise-stakes-for-india-to-clinch-trade-deal-video",
+"pub": "2026-11-26T06:28:58+00:00",
+"src": "Bloomberg",
+"kind": "market",
+"seen": "2026-11-26T06:45:06+00:00"
+},
+{
+"id": "9485fe148528",
+"t": "",
+"title": "Japanese Leading Indicator Change Rev. Actual -1.5 (Forecast -, Previous -1.6)",
+"url": "https://www.financialjuice.com/News/9868939/Japanese-Leading-Indicator-Change-Rev-Actual--15-Forecast---Previous--16.aspx?xy=rss",
+"pub": "2026-11-26T06:25:02+00:00",
+"src": "FinancialJuice",
+"kind": "market",
+"seen": "2026-11-26T06:45:06+00:00"
+},
+{
+"id": "37ae3e361346",
+"t": "",
+"title": "Tim Hortons China Is Said to Weigh Options Including Stake Sale",
+"url": "https://www.bloomberg.com/news/articles/2026-11-26/tim-hortons-china-is-said-to-weigh-options-including-stake-sale",
+"pub": "2026-11-26T06:19:08+00:00",
+"src": "Bloomberg",
+"kind": "market",
+"seen": "2026-11-26T06:45:06+00:00"
 },
 {
 "id": "14ff77f0066f",
@@ -8061,6 +8261,26 @@
 "src": "FinancialJuice",
 "kind": "market",
 "seen": "2026-11-26T06:14:55+00:00"
+},
+{
+"id": "51b8f4f6f7ce",
+"t": "",
+"title": "Turkey’s Traders See Slower Rate Cut Pace as Reserves Shrink",
+"url": "https://www.bloomberg.com/news/articles/2026-11-26/turkey-s-traders-see-slower-rate-cut-pace-as-reserves-shrink",
+"pub": "2026-11-26T06:12:43+00:00",
+"src": "Bloomberg",
+"kind": "market",
+"seen": "2026-11-26T06:45:06+00:00"
+},
+{
+"id": "885b2a005764",
+"t": "",
+"title": "Stocks and Bonds to Watch as Spain’s Voters Head to the Polls",
+"url": "https://www.bloomberg.com/news/articles/2026-11-26/stocks-and-bonds-to-watch-as-spain-s-voters-head-to-the-polls",
+"pub": "2026-11-26T06:00:00+00:00",
+"src": "Bloomberg",
+"kind": "market",
+"seen": "2026-11-26T06:45:06+00:00"
 },
 {
 "id": "796d9c29ac2d",
@@ -8323,6 +8543,16 @@
 "seen": "2026-11-26T03:14:26+00:00"
 },
 {
+"id": "9aa60dfd4012",
+"t": "",
+"title": "Navigator Global Investments Ltd (HFAHF.PK) | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9GcjhTZ3lkUHpkM1p6cGVuQzdzZXl6UUxGTUxrejNDMmYtUnU2dm13Q1gtZEZwejFHOHRqcTdIc19heENxZEUxYTNwX1FhWW9GajdkTlBMczlkZ3FNaWJmaWVTdXR2TEpPU0lyZ0Y1d1k?oc=5",
+"pub": "2026-11-26T02:57:37+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-26T06:45:06+00:00"
+},
+{
 "id": "f00687a302fb",
 "t": "",
 "title": "American Airlines Group Inc. (AAL.O) | Stock Price & Latest News - Reuters",
@@ -8331,6 +8561,16 @@
 "src": "Reuters",
 "kind": "market",
 "seen": "2026-11-26T04:47:25+00:00"
+},
+{
+"id": "dd83d32faf69",
+"t": "",
+"title": "Fidelity Emerging Markets Ltd (FEML.L) | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5DTjNHc0E5Skh2aGdHRnhocXZGNEtzTGRjbTNkdlFwdFhVbGZybWpKb3d5VDhlREVPeWRZSy05SjlsME94X2xWM20xUGNmNW5pbldWWFJaNTVNcXhUYkFiRmZvUUZjU28?oc=5",
+"pub": "2026-11-26T02:53:59+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-26T06:45:06+00:00"
 },
 {
 "id": "4fa06d01d216",
@@ -8403,6 +8643,26 @@
 "seen": "2026-11-26T02:14:26+00:00"
 },
 {
+"id": "7a54151a7595",
+"t": "",
+"title": "6835JPY.JPx - Reuters",
+"url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBDd2c4STVhTlF1RUdDdjNBcTY2aHRmUEpFTjhsSVVNZVhURlV2M2FIUHpkY3hSd2pxcHJCaE5RaWFCc1YyLV9BXzZ0bk1XZVFRM2o4dm1mXzJzSlBNSWVZc1hLcS1tMTF2akw0b1lRcjM0LVE?oc=5",
+"pub": "2026-11-26T01:56:19+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-26T06:45:06+00:00"
+},
+{
+"id": "808d722d6af7",
+"t": "",
+"title": "1676stat.HK - | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQa1dWR3Z4U1ZuSkFXamNGZllGUFo1ZEtnbWo5cFQ3aXU3M2tWMXdXQzktOGVuenNYam1fZGNBMVhhNzZBYktXNnF4R0puVVdDZ0g3dVFJZHhSck41MzlYUkFrZ0djZ0tuMlc5dVotZ1JNajRNb3FiVjdQeS1SR25PM29aaDVDdkZKREUw?oc=5",
+"pub": "2026-11-26T01:54:45+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-26T06:45:06+00:00"
+},
+{
 "id": "a2afe111b1a6",
 "t": "",
 "title": "Asian Currencies Consolidate, But Risk-Off Sentiment Might Weigh",
@@ -8431,6 +8691,26 @@
 "src": "Bloomberg",
 "kind": "market",
 "seen": "2026-11-26T02:14:26+00:00"
+},
+{
+"id": "11f1b46250c6",
+"t": "",
+"title": "ABHA.SG - Reuters",
+"url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQRExoMXVvQ2dlOVFyU3NBTlZ2MFVYUXJTSjVwcTRrS0VBNmR0ZXNuaXJqeU5iZzhsdTBaeUdzd1dGeWpiaGh5akhnc1AyMWkyMmc2RUloVmptall3QlFNSlJBd3lTX2xQdVZVOVJCc2syUDVYTFE1SkhIM1ZEUnBjTExnYlN6MlpZ?oc=5",
+"pub": "2026-11-26T01:28:48+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-26T06:45:06+00:00"
+},
+{
+"id": "f1802c0fcac7",
+"t": "",
+"title": "600325.SHh - | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1hSjYtbE5EdGo5cU84YnZKenZPblBibk9jMmZ3TC1qLUliRUtMbnNUV2xNd1gzaFBXdUxnTFNjNVg0NXhqeVlFSWc1eUR2a3FveE03X2ZwQnMtTEJFX1RsTE1RZVV3SG9IR3hWX0otOWM2MnNNMDIzcW4tOG4?oc=5",
+"pub": "2026-11-26T01:28:15+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-26T06:45:06+00:00"
 },
 {
 "id": "495a55971009",
@@ -8563,6 +8843,16 @@
 "seen": "2026-11-26T01:10:48+00:00"
 },
 {
+"id": "892c059a0b22",
+"t": "",
+"title": "Lvmh Moet Hennessy Louis Vuitton SE - Reuters",
+"url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOYW9VNEVpdGxoZFJ2TVluWjNDcjRQOXI1YmdDbW9wY2FXRndsNXRDVTI3dVpaQm1zWVJyMUx0SUlENVRIdTlqYkk5UXBYZ0lOVW9KRE9rTFBzZUZtQmk5dDh1cFYtUFVMd2g1Yk5CcVhPTGc1VGRMR0FYZm1MSWVsdGFkZmEtQQ?oc=5",
+"pub": "2026-11-26T00:29:51+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-26T06:45:06+00:00"
+},
+{
 "id": "4d5769e396ef",
 "t": "",
 "title": "Gold Edges Lower Amid Rate Hike Bets",
@@ -8611,6 +8901,16 @@
 "src": "WSJ",
 "kind": "market",
 "seen": "2026-11-26T00:14:43+00:00"
+},
+{
+"id": "306d8254cc09",
+"t": "",
+"title": "600996ta.SS - | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQU1ZSUlU5Zy1sRmpPV0dmMzhvaFdLSGYwTjY1UGJCTjR3VXd2Rk1vUk1OSnl0aUtndzZuMmdhQ2F6TW8yR1lZa29WdHBvTFVZLTBSSjlFNW1TUWRuanFFOVAzSE5zNFMwMmE5d2ZxUmR6VFdXNGZIcFlhNERPREE2VHlMcTJXMzQyRE1TTGpR?oc=5",
+"pub": "2026-11-25T23:57:25+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-26T06:45:06+00:00"
 },
 {
 "id": "9ea4a202a2a4",
@@ -8881,6 +9181,16 @@
 "src": "WSJ",
 "kind": "market",
 "seen": "2026-11-25T22:14:08+00:00"
+},
+{
+"id": "f8b2002d1a5c",
+"t": "",
+"title": "European stocks end lower as rate hike fears, AI doubts hammer banks and tech - Reuters",
+"url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNNjI0Y0NKdzRvSEFNNVk4Sk5pOEtGbnRiNmNoaW04dGF4RVVrRDRBcjRmT0JnZ3gxcDdEMFJDMW85aUY4RmZMZWthTTJPTjNxZEF0bmFVN2ZSQ3E4TmhnUFhFcy1LYktmeC1jRWtVb3prNUxQcEJHNEZxLW1YQU92a0pnbnFQcFZtVE5FVDdoSWkzclJTc0ZEX0g1ZlM1YVlGV2ktM2pTbHEwbTBSWGdlM1ZLUmJoYnlDUUlhWktB?oc=5",
+"pub": "2026-11-25T22:02:33+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-26T06:45:06+00:00"
 },
 {
 "id": "21e7a3df562e",
@@ -10711,316 +11021,6 @@
 "src": "FinancialJuice",
 "kind": "market",
 "seen": "2026-11-25T15:46:42+00:00"
-},
-{
-"id": "64262c2ba64d",
-"t": "",
-"title": "EIA Gasoline Inventories Actual 1.733M (Forecast 2M, Previous 5.192M)",
-"url": "https://www.financialjuice.com/News/9868048/EIA-Gasoline-Inventories-Actual-1733M-Forecast-2M-Previous-5192M.aspx?xy=rss",
-"pub": "2026-11-25T15:30:01+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-25T15:46:42+00:00"
-},
-{
-"id": "34b893e37c0e",
-"t": "",
-"title": "8359.JSFx - | Stock Price & Latest News - Reuters",
-"url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1TanFKWmxQMUhSUGp5SFVHeGo0S2taNkpFWkgxblRpaFE3M0Z6cHJpZlB3R3lONUJnQXRac0t2eG5ZM2RId3Z0bDlXUmdWb25JdHduTWJ5TzhTcmlQVlhCeVNLX3hkMnNPQ2I4LVNOcXB1RXpHZG9SQjdVMDBKNnc?oc=5",
-"pub": "2026-11-25T15:29:53+00:00",
-"src": "Reuters",
-"kind": "market",
-"seen": "2026-11-25T19:14:43+00:00"
-},
-{
-"id": "cf0279287154",
-"t": "",
-"title": "Pou Sheng International (Holdings) Ltd (3813.HK) | Stock Price & Latest News - Reuters",
-"url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5fU3BPYkJzN2Fra2ludUJRUy16TlIzQlZNUVpnUUhMUUxzNlUydUc1dXVCU2Z6NTU3WGFEQWNucXlvQnVNdUNrS3RLdEMtWU5ocVhoX3hTclpJS0tJMGRCd0t5U0RPbVBudjdFQzVxVQ?oc=5",
-"pub": "2026-11-25T15:28:57+00:00",
-"src": "Reuters",
-"kind": "market",
-"seen": "2026-11-26T00:44:37+00:00"
-},
-{
-"id": "7c4c0eacc44a",
-"t": "",
-"title": "Iran claims an LNG carrier hit a mine in Hormuz - Mehr.",
-"url": "https://www.financialjuice.com/News/9868047/Iran-claims-an-LNG-carrier-hit-a-mine-in-Hormuz---Mehr.aspx?xy=rss",
-"pub": "2026-11-25T15:28:52+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-25T15:46:42+00:00"
-},
-{
-"id": "beaf6315202a",
-"t": "",
-"title": "BLTAta.JK - | Stock Price & Latest News - Reuters",
-"url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1zUUgzMVJQM2psck5LMlR1OUdCc3NxWV9mQ1BuOUJHTnJ3NXl4Y1ZSVWVxUGxWeW0weEhLWnVHWDVuWk01dHM3SVQ3T21zdEhsZXRNZGJ4c21sbzZ1OV9aQjFjTERYWnBvX3kxX0hfemxKVjN2RUhrallDRQ?oc=5",
-"pub": "2026-11-25T15:28:40+00:00",
-"src": "Reuters",
-"kind": "market",
-"seen": "2026-11-26T01:44:44+00:00"
-},
-{
-"id": "a5405c67f9c5",
-"t": "",
-"title": "ASHEol.M3 - | Stock Price & Latest News - Reuters",
-"url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxORUpkdjgzUFV3UXkwQTNNbC1UYVJVOFRDNk1FOFBMZU1NZWhPeVVKMTV2RzBWLURwdlY0MWJiQmFCY3MtY1dsNUJ6LXZoclNGUU4wVGhmRGRZaGp4V0E1LVJHdmZub0VKNDNiWmZaQTdBTkw3M3pLVUpreXFVTEVTVmhIemZMckRj?oc=5",
-"pub": "2026-11-25T15:28:28+00:00",
-"src": "Reuters",
-"kind": "market",
-"seen": "2026-11-26T02:14:26+00:00"
-},
-{
-"id": "9ef9f25a1ad2",
-"t": "",
-"title": "5312ol.TWO - | Stock Price & Latest News - Reuters",
-"url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5RaUJtZ3BkdkJNNGhvT1Y3cnQ1SldILW5OT2gycG5ZbmVXY1JUUWZDQ3p3ZjJFbkZDNXc1YVY5NDdTREpQZ1Z2b3BaVElOTjB4cE9qN3d4b0h3b211WHhHNjdUb1ZlR2IxbE9FVjE0czVrblZwMDhrZlh5OS0?oc=5",
-"pub": "2026-11-25T15:28:13+00:00",
-"src": "Reuters",
-"kind": "market",
-"seen": "2026-11-25T19:14:43+00:00"
-},
-{
-"id": "f960904ab4a5",
-"t": "",
-"title": "COM7ss.BK - | Stock Price & Latest News - Reuters",
-"url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPcExNa0FBM2lBZHAycVhMUnMwVkNiV1dPWFpoa2NxMUlveWtLX1RfM1BvQ0tWeVBrSzhFY1lDX3ZHQUdQQ3pTbkpud0NULWwzd2cwZUdYdDFLYTEwa24xeVZqaEV3d1RKOUJMLVJnMDJQSlM1dVh1ZlJqVGRXSUVZV2VBaTVoYWNn?oc=5",
-"pub": "2026-11-25T15:28:11+00:00",
-"src": "Reuters",
-"kind": "market",
-"seen": "2026-11-26T02:14:26+00:00"
-},
-{
-"id": "1fadb0698147",
-"t": "",
-"title": "DoubleLine’s Cohen Turns AI Debt Lover From Hater After Selloff",
-"url": "https://www.bloomberg.com/news/articles/2026-11-25/doubleline-s-cohen-turns-ai-debt-lover-from-hater-after-selloff",
-"pub": "2026-11-25T15:27:51+00:00",
-"src": "Bloomberg",
-"kind": "market",
-"seen": "2026-11-25T15:46:42+00:00"
-},
-{
-"id": "8281baa2c562",
-"t": "",
-"title": "297A.J2 - | Stock Price & Latest News - Reuters",
-"url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9PVENTWVJCRG9jWEpocjdqb0hUTkVqTU5DamZIUFVaNU1EODFWOHZZVzZXRGRVeENYa3pQNHFVVlhwaUhBQ25PSTcyRU5uQk5oaFdJYWNVRnBDUXQ3NHJnWGhVT1VHWUVHQWY4eWhB?oc=5",
-"pub": "2026-11-25T15:26:11+00:00",
-"src": "Reuters",
-"kind": "market",
-"seen": "2026-11-25T19:14:43+00:00"
-},
-{
-"id": "080958acec10",
-"t": "",
-"title": "Leverage Shares 2X Long AAPL Daily ETF (AAPE.N) | Stock Price & Latest News - Reuters",
-"url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9lSVlhOEtQRWtpU2prR1NCNWxFY01DYndHUFFjTTZteldKd0ptZDZHaTlzUnVKSFFxeVp3NzFfZjdJTFk4VmZOOVhUZzJqem5aeV84UnlJak8?oc=5",
-"pub": "2026-11-25T15:25:08+00:00",
-"src": "Reuters",
-"kind": "market",
-"seen": "2026-11-25T18:09:13+00:00"
-},
-{
-"id": "597204e935ed",
-"t": "",
-"title": "3391.J3 - | Stock Price & Latest News - Reuters",
-"url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOc0NfcFAtRkE5NGlJZldrTjZKdnQycGVpeE1qSVJSNVg0RkVRSWsyZUUxeGxPSERxTE51bmhMYnQ2YnFFN2hNQzFiOG1LcWU5TFVINXp1b1Mtd0NTbjNtUG5FLWpMN016YnZETUhCV3A5QWcxMlZNTDFlZWczcUM5QU8tY1FIUQ?oc=5",
-"pub": "2026-11-25T15:23:05+00:00",
-"src": "Reuters",
-"kind": "market",
-"seen": "2026-11-25T18:09:13+00:00"
-},
-{
-"id": "d9dcf94742dd",
-"t": "",
-"title": "2385.JNF - | Stock Price & Latest News - Reuters",
-"url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9XNVFYeWd0NmZHOV9LZHNVN2h6OFhPaVV6QnpGYnZxZGFubkhFa3RBbTYxOTNwcXFwME9GT0xUajNZX3c2V1RQUWZNVUh0N2dhUUpqRFlkSEVDV1VjSXRQQ2NCWUh1MU9uZkR4R3lrNHVtZTByOHFBYVR3?oc=5",
-"pub": "2026-11-25T15:23:05+00:00",
-"src": "Reuters",
-"kind": "market",
-"seen": "2026-11-25T19:07:59+00:00"
-},
-{
-"id": "d5deea64eb08",
-"t": "",
-"title": "6100.HS - | Stock Price & Latest News - Reuters",
-"url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOblRjUG15Z0RqRzEtWHVZNk52VXlNSXZkSFFVSmgyYW5MREZHZVBXamZwYm9yZVhhcTc0TFF1ZlNLTGt4WTJqODlaT212SkpPeHVpbjZwck5CdzlHMURVbEsyeGk2TzdwUjFJQVB0dDJjOHlDcDVVc21Iem1BblVBYjB0bGVqQQ?oc=5",
-"pub": "2026-11-25T15:21:32+00:00",
-"src": "Reuters",
-"kind": "market",
-"seen": "2026-11-25T18:09:13+00:00"
-},
-{
-"id": "9fdab746e08d",
-"t": "",
-"title": "Treasury Yields Extend Fall After U.S. Data Flurry",
-"url": "https://www.wsj.com/finance/investing/u-s-treasury-yields-fall-ahead-of-pce-inflation-data-dfeb7995",
-"pub": "2026-11-25T15:21:00+00:00",
-"src": "WSJ",
-"kind": "market",
-"seen": "2026-11-25T18:14:34+00:00"
-},
-{
-"id": "73f7bc0b4cc0",
-"t": "",
-"title": "Air India Chief Seeks to Cut $650 Million in Costs This Year",
-"url": "https://www.bloomberg.com/news/articles/2026-11-25/air-india-chief-seeks-to-cut-650-million-in-costs-this-year",
-"pub": "2026-11-25T15:20:13+00:00",
-"src": "Bloomberg",
-"kind": "market",
-"seen": "2026-11-25T15:46:42+00:00"
-},
-{
-"id": "f2d205d9772f",
-"t": "",
-"title": "JPMorgan Backs Drone Engine Maker’s $10 Million Muni Bond Sale",
-"url": "https://www.bloomberg.com/news/articles/2026-11-25/jpmorgan-backs-drone-engine-maker-s-10-million-muni-bond-sale",
-"pub": "2026-11-25T15:20:02+00:00",
-"src": "Bloomberg",
-"kind": "market",
-"seen": "2026-11-25T15:46:42+00:00"
-},
-{
-"id": "210132fcd70d",
-"t": "",
-"title": "Crypto Fear and Greed Index: 13/100 = Extreme Fear",
-"url": "https://www.financialjuice.com/News/9868046/Crypto-Fear-and-Greed-Index-13100--Extreme-Fear.aspx?xy=rss",
-"pub": "2026-11-25T15:19:08+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-25T15:46:42+00:00"
-},
-{
-"id": "73b86376162a",
-"t": "",
-"title": "Fear and Greed Index: 9/100 = Extreme Fear",
-"url": "https://www.financialjuice.com/News/9868045/Fear-and-Greed-Index-9100--Extreme-Fear.aspx?xy=rss",
-"pub": "2026-11-25T15:18:30+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-25T15:46:42+00:00"
-},
-{
-"id": "a0bece273793",
-"t": "",
-"title": "Nu Tek India Ltd (NUTK.BO) | Stock Price & Latest News - Reuters",
-"url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1RLWxvTE11bFYxcDIyNXdzbzFsNkNRYm9RTU03Q3RtWnc1bGZaMkppSVNyd1d0b0lid2dEaHJ2VFRZd2ozank0cVVNNmFOMDVXMlpkSVRJdkRGd1h1ekFuZWs0UUZaNUZkaktpTw?oc=5",
-"pub": "2026-11-25T15:17:26+00:00",
-"src": "Reuters",
-"kind": "market",
-"seen": "2026-11-26T00:44:37+00:00"
-},
-{
-"id": "665ef57ac939",
-"t": "",
-"title": "WH Sr. Adviser Hassett: We're pursuing every chip and looking at where it's going.",
-"url": "https://www.financialjuice.com/News/9868032/WH-Sr-Adviser-Hassett-Were-pursuing-every-chip-and-looking-at-where-its-going.aspx?xy=rss",
-"pub": "2026-11-25T15:14:49+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-25T15:14:55+00:00"
-},
-{
-"id": "73b8aeb4b888",
-"t": "",
-"title": "WH Sr. Adviser Hassett: If the US is going to win the AI battle, Nvidia will be the reason. $NVDA",
-"url": "https://www.financialjuice.com/News/9868031/WH-Sr-Adviser-Hassett-If-the-US-is-going-to-win-the-AI-battle-Nvidia-will-be-the-reason-NVDA.aspx?xy=rss",
-"pub": "2026-11-25T15:13:08+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-25T15:14:55+00:00"
-},
-{
-"id": "bc5367981845",
-"t": "",
-"title": "WH Sr. Adviser Hassett: Inflation may be a little bit above target.",
-"url": "https://www.financialjuice.com/News/9868030/WH-Sr-Adviser-Hassett-Inflation-may-be-a-little-bit-above-target.aspx?xy=rss",
-"pub": "2026-11-25T15:12:38+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-25T15:14:55+00:00"
-},
-{
-"id": "046bd97eed0f",
-"t": "",
-"title": "WH Sr. Adviser Hassett: One would hope the Fed reevaluates its models, and considers supply vs. demand.",
-"url": "https://www.financialjuice.com/News/9868029/WH-Sr-Adviser-Hassett-One-would-hope-the-Fed-reevaluates-its-models-and-considers-supply-vs-demand.aspx?xy=rss",
-"pub": "2026-11-25T15:12:22+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-25T15:14:55+00:00"
-},
-{
-"id": "d8fee14e9b33",
-"t": "",
-"title": "WH Sr. Adviser Hassett: His Nvidia stake is not something I've discussed with Trump. $NVDA",
-"url": "https://www.financialjuice.com/News/9868028/WH-Sr-Adviser-Hassett-His-Nvidia-stake-is-not-something-Ive-discussed-with-Trump-NVDA.aspx?xy=rss",
-"pub": "2026-11-25T15:11:42+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-25T15:14:55+00:00"
-},
-{
-"id": "ee12044c7a9c",
-"t": "",
-"title": "Banks Pitch CVC €11 Billion Debt for Possible Verisure Takeover",
-"url": "https://www.bloomberg.com/news/articles/2026-11-25/banks-pitch-cvc-11-billion-debt-for-possible-verisure-takeover",
-"pub": "2026-11-25T15:07:25+00:00",
-"src": "Bloomberg",
-"kind": "market",
-"seen": "2026-11-25T15:46:42+00:00"
-},
-{
-"id": "8b4f9b881bae",
-"t": "",
-"title": "WH Sr. Adviser Hassett: We're in a 'Goldilocks' economy right now.",
-"url": "https://www.financialjuice.com/News/9868027/WH-Sr-Adviser-Hassett-Were-in-a-Goldilocks-economy-right-now.aspx?xy=rss",
-"pub": "2026-11-25T15:07:21+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-25T15:14:55+00:00"
-},
-{
-"id": "ac60f878cbbd",
-"t": "",
-"title": "WH Sr. Adviser Hassett Speaks - WATCH LIVE",
-"url": "https://www.financialjuice.com/News/9868026/WH-Sr-Adviser-Hassett-Speaks---WATCH-LIVE.aspx?xy=rss",
-"pub": "2026-11-25T15:07:09+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-25T15:14:55+00:00"
-},
-{
-"id": "4ba97162bdca",
-"t": "",
-"title": "WH Sr. Adviser Hassett: The fundamentals are very strong.",
-"url": "https://www.financialjuice.com/News/9868025/WH-Sr-Adviser-Hassett-The-fundamentals-are-very-strong.aspx?xy=rss",
-"pub": "2026-11-25T15:06:18+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-25T15:14:55+00:00"
-},
-{
-"id": "15ca92dbef2d",
-"t": "",
-"title": "Fitch Ratings: RBA cash rate to remain at 4.85% through 2027.",
-"url": "https://www.financialjuice.com/News/9868024/Fitch-Ratings-RBA-cash-rate-to-remain-at-485-through-2027.aspx?xy=rss",
-"pub": "2026-11-25T15:05:24+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-25T15:05:32+00:00"
-},
-{
-"id": "ae064a18a91a",
-"t": "",
-"title": "Swiss Government: Switzerland rejects the allegations raised during these investigations and assumes USTR tariff recommendations remain consistent with the joint declaration of intent dated November 14, 2025.",
-"url": "https://www.financialjuice.com/News/9868023/Swiss-Government-Switzerland-rejects-the-allegations-raised-during-these-investigations-and-assumes-USTR-tariff-recommendations-remain-consistent-with-the-joint-declaration-of-intent-dated-November-14-2025.aspx?xy=rss",
-"pub": "2026-11-25T15:05:12+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-25T15:05:32+00:00"
 }
 ]
 }
