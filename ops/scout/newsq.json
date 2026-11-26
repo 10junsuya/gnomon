@@ -1,6 +1,6 @@
 {
-"updated_kst": "2026-11-26 08:57",
-"rot": 26,
+"updated_kst": "2026-11-26 09:14",
+"rot": 86,
 "how": "Scout(프로그램)이 10분마다 모은 기사 제목·링크와 공시예요. Wren이 공식 출처로 확인한 뒤 회사 화면에 한국어로 반영해요. 본문은 받지 않아요.",
 "sources": {
 "Yahoo Finance": "120종목 확인 · 실패 0",
@@ -10,7 +10,7 @@
 "CNBC": "63건",
 "Bloomberg": "40건",
 "WSJ": "61건",
-"Reuters": "47건",
+"Reuters": "실패 HTTPError",
 "FinancialJuice": "100건",
 "SEC EDGAR": "실패 HTTPError",
 "Fox Business": "50건"
@@ -25,6 +25,36 @@
 "src": "Yahoo Finance",
 "kind": "news",
 "seen": "2026-11-25T23:57:52+00:00"
+},
+{
+"id": "15fb53da0c85",
+"t": "NVDA",
+"title": "Here’s How Many Coca-Cola Shares It Takes to Earn $1,300 Every Quarter in Dividends",
+"url": "https://www.fool.com/investing/2026/11/25/heres-how-many-coca-cola-shares-it-takes-to-earn-1300-every-quarter-in-dividends/",
+"pub": "2026-11-25T23:48:02+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-26T00:14:43+00:00"
+},
+{
+"id": "0b2562d16293",
+"t": "MU",
+"title": "Is Micron Cheap Only If Its Record Margin Lasts?",
+"url": "https://www.trefis.com/stock/mu/articles/628939/is-micron-cheap-only-if-its-record-margin-lasts/2026-11-25",
+"pub": "2026-11-25T23:43:07+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-26T00:14:43+00:00"
+},
+{
+"id": "c26482f76585",
+"t": "GOOGL",
+"title": "Bill Gurley: Investors Weren’t “Scrambling to Actually Own Anthropic.” That’s a Problem for Amazon and Alphabet",
+"url": "https://www.tikr.com/blog/bill-gurley-investors-werent-scrambling-to-actually-own-anthropic-thats-a-problem-for-amazon-and-alphabet",
+"pub": "2026-11-25T23:43:06+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-26T00:14:43+00:00"
 },
 {
 "id": "7a273519aa33",
@@ -45,6 +75,16 @@
 "src": "Yahoo Finance",
 "kind": "news",
 "seen": "2026-11-25T23:57:52+00:00"
+},
+{
+"id": "d79632075e85",
+"t": "SPCX",
+"title": "Anthropic Earns “$80 a Year per Watt” of GPUs, Says Modal’s CEO. That’s Good News for SpaceX",
+"url": "https://www.tikr.com/blog/anthropic-earns-80-a-year-per-watt-of-gpus-says-modals-ceo-thats-good-news-for-spacex",
+"pub": "2026-11-25T23:41:46+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-26T00:14:43+00:00"
 },
 {
 "id": "bb3155909a6e",
@@ -145,6 +185,16 @@
 "src": "Yahoo Finance",
 "kind": "news",
 "seen": "2026-11-25T23:44:37+00:00"
+},
+{
+"id": "ccccf4f6f561",
+"t": "DELL",
+"title": "Dell Technologies (DELL) Q3 Earnings Showcase AI Strength Without Stock Heat",
+"url": "https://finance.yahoo.com/markets/stocks/articles/dell-technologies-dell-q3-earnings-231732006.html",
+"pub": "2026-11-25T23:17:32+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-26T00:14:43+00:00"
 },
 {
 "id": "fbe7cc4758ec",
@@ -2650,6 +2700,16 @@
 "src": "Yahoo Finance",
 "kind": "news",
 "seen": "2026-11-25T18:45:05+00:00"
+},
+{
+"id": "2a5cca3e7266",
+"t": "LLY",
+"title": "Buy This Pharma Stock for Shelter From the AI Storm",
+"url": "https://finance.yahoo.com/m/d89537c9-bf7b-3753-9c05-b211c5d9aacb/buy-this-pharma-stock-for.html",
+"pub": "2026-11-25T18:09:00+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-26T00:14:43+00:00"
 },
 {
 "id": "da5b204e5f70",
@@ -7963,64 +8023,14 @@
 "seen": "2026-11-25T14:44:19+00:00"
 },
 {
-"id": "c733e5b57722",
-"t": "NEE",
-"title": "NextEra Energy, Inc. (NEE) Is a Trending Stock: Facts to Know Before Betting on It",
-"url": "https://finance.yahoo.com/markets/stocks/articles/nextera-energy-inc-nee-trending-130003888.html",
-"pub": "2026-11-25T13:00:03+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-25T15:05:32+00:00"
-},
-{
-"id": "4daa8e697f05",
-"t": "VST",
-"title": "Is Trending Stock Vistra Corp. (VST) a Buy Now?",
-"url": "https://finance.yahoo.com/markets/stocks/articles/trending-stock-vistra-corp-vst-130002887.html",
-"pub": "2026-11-25T13:00:02+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-25T14:15:15+00:00"
-},
-{
-"id": "fdfa038f21e9",
-"t": "ON",
-"title": "ON Semiconductor Corporation (ON) is Attracting Investor Attention: Here is What You Should Know",
-"url": "https://finance.yahoo.com/markets/stocks/articles/semiconductor-corporation-attracting-investor-attention-130002475.html",
-"pub": "2026-11-25T13:00:02+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-25T14:44:19+00:00"
-},
-{
-"id": "0c9ca1e004ee",
-"t": "TXN",
-"title": "Texas Instruments Incorporated (TXN) is Attracting Investor Attention: Here is What You Should Know",
-"url": "https://finance.yahoo.com/markets/stocks/articles/texas-instruments-incorporated-txn-attracting-130002775.html",
-"pub": "2026-11-25T13:00:02+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-25T14:44:19+00:00"
-},
-{
-"id": "79b67b420436",
-"t": "ABT",
-"title": "Here is What to Know Beyond Why Abbott Laboratories (ABT) is a Trending Stock",
-"url": "https://finance.yahoo.com/markets/stocks/articles/know-beyond-why-abbott-laboratories-130002529.html",
-"pub": "2026-11-25T13:00:02+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-25T15:05:32+00:00"
-},
-{
-"id": "873323877cba",
-"t": "NVDA",
-"title": "Taiwan Semiconductor Manufacturing Is Down Nearly 30% From Its High. Is It a Bargain Buy?",
-"url": "https://www.fool.com/investing/2026/11/25/taiwan-semiconductor-manufacturing-is-down-nearly-30-from-its-high-is-it-a-bargain-buy/",
-"pub": "2026-11-25T13:00:01+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-25T13:18:15+00:00"
+"id": "04cfb7b15377",
+"t": "",
+"title": "Aschenbrenner’s Situational Awareness Tells Investors It Lost 65% in Third Quarter",
+"url": "https://www.wsj.com/finance/investing/aschenbrenners-situational-awareness-tells-investors-it-lost-65-in-third-quarter-de8e9797",
+"pub": "2026-11-26T00:03:00+00:00",
+"src": "WSJ",
+"kind": "market",
+"seen": "2026-11-26T00:14:43+00:00"
 },
 {
 "id": "4c5da3cb0e74",
@@ -8031,6 +8041,16 @@
 "src": "Bloomberg",
 "kind": "market",
 "seen": "2026-11-25T23:57:52+00:00"
+},
+{
+"id": "995a46727067",
+"t": "",
+"title": "Would-Be RadioShack Revivers Settle SEC Fraud Suit Allegations",
+"url": "https://www.bloomberg.com/news/articles/2026-11-25/would-be-radioshack-revivers-settle-sec-fraud-suit-allegations",
+"pub": "2026-11-25T23:44:35+00:00",
+"src": "Bloomberg",
+"kind": "market",
+"seen": "2026-11-26T00:14:43+00:00"
 },
 {
 "id": "1f019bd203a4",
@@ -10998,26 +11018,6 @@
 "title": "USTR Greer: Proposing to exempt some Chinese consumer goods",
 "url": "https://www.financialjuice.com/News/9867823/USTR-Greer-Proposing-to-exempt-some-Chinese-consumer-goods.aspx?xy=rss",
 "pub": "2026-11-25T13:40:30+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-25T13:44:08+00:00"
-},
-{
-"id": "5d5b2b07ea5d",
-"t": "",
-"title": "USTR Greer: We will implement some items from board of trade.",
-"url": "https://www.financialjuice.com/News/9867822/USTR-Greer-We-will-implement-some-items-from-board-of-trade.aspx?xy=rss",
-"pub": "2026-11-25T13:39:26+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-25T13:44:08+00:00"
-},
-{
-"id": "e02ad0dc926e",
-"t": "",
-"title": "USTR Greer: Tariffs in most cases will top up just a few percentage points",
-"url": "https://www.financialjuice.com/News/9867821/USTR-Greer-Tariffs-in-most-cases-will-top-up-just-a-few-percentage-points.aspx?xy=rss",
-"pub": "2026-11-25T13:39:17+00:00",
 "src": "FinancialJuice",
 "kind": "market",
 "seen": "2026-11-25T13:44:08+00:00"
