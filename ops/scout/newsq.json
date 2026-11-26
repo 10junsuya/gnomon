@@ -1,6 +1,6 @@
 {
-"updated_kst": "2026-11-26 19:39",
-"rot": 36,
+"updated_kst": "2026-11-26 19:44",
+"rot": 96,
 "how": "Scout(프로그램)이 10분마다 모은 기사 제목·링크와 공시예요. Wren이 공식 출처로 확인한 뒤 회사 화면에 한국어로 반영해요. 본문은 받지 않아요.",
 "sources": {
 "Yahoo Finance": "120종목 확인 · 실패 0",
@@ -10,7 +10,7 @@
 "CNBC": "63건",
 "Bloomberg": "40건",
 "WSJ": "61건",
-"Reuters": "58건",
+"Reuters": "100건",
 "FinancialJuice": "100건",
 "SEC EDGAR": "실패 HTTPError",
 "Fox Business": "50건"
@@ -37,6 +37,26 @@
 "seen": "2026-11-26T10:39:24+00:00"
 },
 {
+"id": "2d930a2684cf",
+"t": "NVDA",
+"title": "Can Shiba Inu Reach $1 in 2027? The Answer Might Shock You.",
+"url": "https://www.fool.com/investing/2026/11/26/can-shiba-inu-reach-usd1-in-2027-answer-shock-you/",
+"pub": "2026-11-26T10:27:02+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-26T10:44:34+00:00"
+},
+{
+"id": "d5ffee29da7e",
+"t": "AMZN",
+"title": "Amazon India e-commerce exports hit $27bn, eyes $80bn by 2030",
+"url": "https://www.retail-insight-network.com/news/amazon-india-e-commerce-exports-27bn/",
+"pub": "2026-11-26T10:20:00+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-26T10:44:34+00:00"
+},
+{
 "id": "8a23e644e0a9",
 "t": "TSLA",
 "title": "General Motors (GM) Bets On Egypt Assembly And Wider EV Charging Access",
@@ -47,6 +67,16 @@
 "seen": "2026-11-26T10:39:24+00:00"
 },
 {
+"id": "e222099d56d7",
+"t": "TER",
+"title": "Teradyne (TER) Stock Could Be 14% Undervalued As Omnyx Edge Expands AI Testing",
+"url": "https://finance.yahoo.com/markets/stocks/articles/teradyne-ter-stock-could-14-101216335.html",
+"pub": "2026-11-26T10:12:16+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-26T10:44:34+00:00"
+},
+{
 "id": "f90f68298719",
 "t": "SPCX",
 "title": "Top 3 Crypto Stocks To Watch In November 2026",
@@ -55,6 +85,16 @@
 "src": "Yahoo Finance",
 "kind": "news",
 "seen": "2026-11-26T10:39:24+00:00"
+},
+{
+"id": "bac0a937f7df",
+"t": "ONTO",
+"title": "Onto Innovation (ONTO) Stock Sees Fair Value Cut As Analysts Lower Multiples",
+"url": "https://finance.yahoo.com/markets/stocks/articles/onto-innovation-onto-stock-sees-101005209.html",
+"pub": "2026-11-26T10:10:05+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-26T10:44:34+00:00"
 },
 {
 "id": "62b4bd0ab0b0",
@@ -1675,6 +1715,16 @@
 "src": "Yahoo Finance",
 "kind": "news",
 "seen": "2026-11-25T23:57:52+00:00"
+},
+{
+"id": "6a65e6ee8a61",
+"t": "SKHY",
+"title": "223% Upside for Sandisk? Mizuho Thinks So, and Here’s How",
+"url": "https://www.tikr.com/blog/223-upside-for-sandisk-mizuho-thinks-so-and-heres-how",
+"pub": "2026-11-25T23:33:51+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-26T10:44:34+00:00"
 },
 {
 "id": "1444058cd6e6",
@@ -7971,56 +8021,6 @@
 "src": "Yahoo Finance",
 "kind": "news",
 "seen": "2026-11-25T15:14:55+00:00"
-},
-{
-"id": "06869768eb23",
-"t": "NVDA",
-"title": "5 reasons Nvidia stock is stumbling",
-"url": "https://finance.yahoo.com/video/5-reasons-nvidia-stock-is-stumbling-145638309.html",
-"pub": "2026-11-25T14:56:38+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-25T15:05:32+00:00"
-},
-{
-"id": "6ab76b446012",
-"t": "WMT",
-"title": "Tanking gas prices could be the setup needed for strong holiday season",
-"url": "https://finance.yahoo.com/video/tanking-gas-prices-could-be-the-setup-needed-for-strong-holiday-season-145638621.html",
-"pub": "2026-11-25T14:56:38+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-25T15:14:55+00:00"
-},
-{
-"id": "bfb52111348f",
-"t": "NVDA",
-"title": "Dan Ives Delivers a $1 Trillion Verdict on Nvidia's Jensen Huang",
-"url": "https://finance.yahoo.com/markets/stocks/articles/dan-ives-delivers-1-trillion-145559768.html",
-"pub": "2026-11-25T14:55:59+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-25T15:14:55+00:00"
-},
-{
-"id": "872b22e5f554",
-"t": "ORCL",
-"title": "Anthropic Sinks 8%, Falls Further Below IPO Price Despite Cathie Wood Buying the Dip; IREN Tumbles 11%, CoreWeave Retreats 10%",
-"url": "https://247wallst.com/investing/2026/11/25/anthropic-sinks-8-falls-further-below-ipo-price-despite-cathie-wood-buying-the-dip-iren-tumbles-11-coreweave-retreats-10/",
-"pub": "2026-11-25T14:54:11+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-25T15:05:32+00:00"
-},
-{
-"id": "12bf6566ed9e",
-"t": "AVGO",
-"title": "The $2 trillion chip rally is getting wiped out — here's what history says comes next",
-"url": "https://finance.yahoo.com/markets/article/the-2-trillion-chip-rally-is-getting-wiped-out--heres-what-history-says-comes-next-145306996.html",
-"pub": "2026-11-25T14:53:06+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-25T15:05:32+00:00"
 },
 {
 "id": "f1bf9aec8b25",
