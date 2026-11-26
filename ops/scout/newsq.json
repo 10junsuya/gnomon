@@ -1,6 +1,6 @@
 {
-"updated_kst": "2026-11-26 14:45",
-"rot": 151,
+"updated_kst": "2026-11-26 15:14",
+"rot": 32,
 "how": "Scout(프로그램)이 10분마다 모은 기사 제목·링크와 공시예요. Wren이 공식 출처로 확인한 뒤 회사 화면에 한국어로 반영해요. 본문은 받지 않아요.",
 "sources": {
 "Yahoo Finance": "120종목 확인 · 실패 0",
@@ -10,12 +10,42 @@
 "CNBC": "63건",
 "Bloomberg": "40건",
 "WSJ": "61건",
-"Reuters": "100건",
+"Reuters": "52건",
 "FinancialJuice": "100건",
 "SEC EDGAR": "실패 HTTPError",
 "Fox Business": "50건"
 },
 "items": [
+{
+"id": "7dd19138531f",
+"t": "ASTS",
+"title": "AST SpaceMobile (ASTS) Stages Impressive Comeback From Record Low",
+"url": "https://finance.yahoo.com/markets/stocks/articles/ast-spacemobile-asts-stages-impressive-060124396.html",
+"pub": "2026-11-26T06:01:24+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-26T06:14:55+00:00"
+},
+{
+"id": "14b2576622ea",
+"t": "MU",
+"title": "Micron faces Taiwan uncertainty as labor dispute threatens expansion, report warns",
+"url": "https://finance.yahoo.com/technology/articles/micron-faces-taiwan-uncertainty-labor-055543451.html",
+"pub": "2026-11-26T05:55:43+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-26T06:14:55+00:00"
+},
+{
+"id": "aae33c1cefef",
+"t": "SPCX",
+"title": "Musk makes $18 billion SpaceX stock pledge for every kid in America",
+"url": "https://www.axios.com/2026/11/26/musk-spacex-shares-trump-accounts",
+"pub": "2026-11-26T05:39:02+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-26T06:14:55+00:00"
+},
 {
 "id": "387adbace7d1",
 "t": "SPCX",
@@ -7993,34 +8023,74 @@
 "seen": "2026-11-25T14:15:15+00:00"
 },
 {
-"id": "9eb4f23531a2",
-"t": "BABA",
-"title": "Alibaba Q2 Earnings Call Details Cloud Outlook and Chip Plans",
-"url": "https://finance.yahoo.com/technology/ai/articles/alibaba-q2-earnings-call-details-140000262.html",
-"pub": "2026-11-25T14:00:00+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-25T15:14:55+00:00"
+"id": "14ff77f0066f",
+"t": "",
+"title": "Atlas Cloud still warns customers to consider sensitive data sent to Minimax as compromised",
+"url": "https://www.financialjuice.com/News/9868930/Atlas-Cloud-still-warns-customers-to-consider-sensitive-data-sent-to-Minimax-as-compromised.aspx?xy=rss",
+"pub": "2026-11-26T06:14:22+00:00",
+"src": "FinancialJuice",
+"kind": "market",
+"seen": "2026-11-26T06:14:55+00:00"
 },
 {
-"id": "9ca55469a75f",
-"t": "ADI",
-"title": "ADI Q4 Earnings Call Points Capacity Push and Supply Bottlenecks",
-"url": "https://finance.yahoo.com/markets/stocks/articles/adi-q4-earnings-call-points-140000273.html",
-"pub": "2026-11-25T14:00:00+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-25T16:20:21+00:00"
+"id": "2332a31d1391",
+"t": "",
+"title": "Researcher identifies unusual activity in Moscow region involving links sent to minimax",
+"url": "https://www.financialjuice.com/News/9868929/Researcher-identifies-unusual-activity-in-Moscow-region-involving-links-sent-to-minimax.aspx?xy=rss",
+"pub": "2026-11-26T06:14:22+00:00",
+"src": "FinancialJuice",
+"kind": "market",
+"seen": "2026-11-26T06:14:55+00:00"
 },
 {
-"id": "5268161780c1",
-"t": "NVDA",
-"title": "The Tech Sell-Off Is Creating the Best Buying Window in 2 Years. Here’s What I’m Buying.",
-"url": "https://www.fool.com/investing/2026/11/25/tech-sell-off-creating-best-buying-window-2-years-what-im-buying/",
-"pub": "2026-11-25T13:58:56+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-25T14:15:15+00:00"
+"id": "2be109ddc69b",
+"t": "",
+"title": "Secret link sent to Minimax later accessed on devices in Beijing, Shanghai: researcher",
+"url": "https://www.financialjuice.com/News/9868928/Secret-link-sent-to-Minimax-later-accessed-on-devices-in-Beijing-Shanghai-researcher.aspx?xy=rss",
+"pub": "2026-11-26T06:14:22+00:00",
+"src": "FinancialJuice",
+"kind": "market",
+"seen": "2026-11-26T06:14:55+00:00"
+},
+{
+"id": "ef76c936fdba",
+"t": "",
+"title": "Minimax says it disabled security feature controlling link access",
+"url": "https://www.financialjuice.com/News/9868927/Minimax-says-it-disabled-security-feature-controlling-link-access.aspx?xy=rss",
+"pub": "2026-11-26T06:14:21+00:00",
+"src": "FinancialJuice",
+"kind": "market",
+"seen": "2026-11-26T06:14:55+00:00"
+},
+{
+"id": "796d9c29ac2d",
+"t": "",
+"title": "BOK Hikes Key Rate to 3.25%",
+"url": "https://www.bloomberg.com/news/videos/2026-11-26/bok-hikes-key-rate-to-3-25-video",
+"pub": "2026-11-26T05:52:11+00:00",
+"src": "Bloomberg",
+"kind": "market",
+"seen": "2026-11-26T06:14:55+00:00"
+},
+{
+"id": "ffefa6da92d2",
+"t": "",
+"title": "Rupee Options Signal Bullish Shift for First Time Since February",
+"url": "https://www.bloomberg.com/news/articles/2026-11-26/rupee-options-signal-bullish-shift-for-first-time-since-february",
+"pub": "2026-11-26T05:48:09+00:00",
+"src": "Bloomberg",
+"kind": "market",
+"seen": "2026-11-26T06:14:55+00:00"
+},
+{
+"id": "2541b8ee3817",
+"t": "",
+"title": "Xpeng President on Carmaker's Robot Push",
+"url": "https://www.bloomberg.com/news/videos/2026-11-26/xpeng-president-on-carmaker-s-robot-push-video",
+"pub": "2026-11-26T05:45:55+00:00",
+"src": "Bloomberg",
+"kind": "market",
+"seen": "2026-11-26T06:14:55+00:00"
 },
 {
 "id": "e935c4593137",
@@ -8031,6 +8101,16 @@
 "src": "Bloomberg",
 "kind": "market",
 "seen": "2026-11-26T05:44:01+00:00"
+},
+{
+"id": "5ee8ae520a29",
+"t": "",
+"title": "Indonesian prosecutors name nickel firm and its owner as money laundering suspects - Reuters",
+"url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPMXoyZEdJamt6dGhyMmRjTFVaNURwVGdmemMxYWc2SWI1WTFyWWszRkUwVFI1STNSakg5YllSTmxJOGhabUJ2NzI1Q1d1LXJEaFp6SklmRzgyaUdMa1UtYkpHVEx3WHFHbllKWFQ3ZmtMaFUxRmZzNE5Jd0pFSG8wMkpndzhzNjZHWXZ0dC1lN0dkX0NEdEZ4QThPN3hRaThQdm94UXI0ZklwMS1XYmE0LUxCWVZwcGJYbjluQzJ6UkUxQ1NwWXI1RlVjMA?oc=5",
+"pub": "2026-11-26T05:19:00+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-26T06:14:55+00:00"
 },
 {
 "id": "b0de9391458f",
@@ -10941,86 +11021,6 @@
 "src": "FinancialJuice",
 "kind": "market",
 "seen": "2026-11-25T15:05:32+00:00"
-},
-{
-"id": "45be4d44d3a6",
-"t": "",
-"title": "BoE's Dhingra: Inflation pressures more contained than in 2022.",
-"url": "https://www.financialjuice.com/News/9868022/BoEs-Dhingra-Inflation-pressures-more-contained-than-in-2022.aspx?xy=rss",
-"pub": "2026-11-25T15:03:43+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-25T15:05:32+00:00"
-},
-{
-"id": "910a2473f7a3",
-"t": "",
-"title": "US 4-Week Bill Auction",
-"url": "https://www.financialjuice.com/News/9868021/US-4-Week-Bill-Auction.aspx?xy=rss",
-"pub": "2026-11-25T15:03:04+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-25T15:05:32+00:00"
-},
-{
-"id": "338e6d6115b2",
-"t": "",
-"title": "New US Home Sales Reach Highest This Year, Topping Forecasts",
-"url": "https://www.bloomberg.com/news/articles/2026-11-25/new-us-home-sales-climb-to-highest-this-year-topping-forecasts",
-"pub": "2026-11-25T15:02:41+00:00",
-"src": "Bloomberg",
-"kind": "market",
-"seen": "2026-11-25T15:14:55+00:00"
-},
-{
-"id": "7e0e7250306a",
-"t": "",
-"title": "US 4-Week Bill Bid-to-Cover Actual 2.640 (Forecast -, Previous 2.550)",
-"url": "https://www.financialjuice.com/News/9868015/US-4-Week-Bill-Bid-to-Cover-Actual-2640-Forecast---Previous-2550.aspx?xy=rss",
-"pub": "2026-11-25T15:02:00+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-25T15:05:32+00:00"
-},
-{
-"id": "c174531cecac",
-"t": "",
-"title": "US 4-Week Bill High Yield Actual 4.115% (Forecast -, Previous 4.050%)",
-"url": "https://www.financialjuice.com/News/9868014/US-4-Week-Bill-High-Yield-Actual-4115-Forecast---Previous-4050.aspx?xy=rss",
-"pub": "2026-11-25T15:02:00+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-25T15:05:32+00:00"
-},
-{
-"id": "567b004e046b",
-"t": "",
-"title": "Homebuilder Stock Woes to Persist After Longest Slump Since 2008",
-"url": "https://www.bloomberg.com/news/articles/2026-11-25/homebuilder-stock-woes-to-persist-after-longest-slump-since-2008",
-"pub": "2026-11-25T15:01:39+00:00",
-"src": "Bloomberg",
-"kind": "market",
-"seen": "2026-11-25T15:14:55+00:00"
-},
-{
-"id": "c243223fb55f",
-"t": "",
-"title": "BoE's Deputy Governor Lombardelli: Latest wage data is mixed, slowdown in services price inflation may have stalled",
-"url": "https://www.financialjuice.com/News/9868011/BoEs-Deputy-Governor-Lombardelli-Latest-wage-data-is-mixed-slowdown-in-services-price-inflation-may-have-stalled.aspx?xy=rss",
-"pub": "2026-11-25T15:01:31+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-25T15:05:32+00:00"
-},
-{
-"id": "b38d2c50b43f",
-"t": "",
-"title": "Traton SE (8TRA.DE) | Stock Price & Latest News - Reuters",
-"url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5XWjRjU1R0YXFHc1lWdGw4Q2oxNGh4dldiQ1BUVkRSZkdtcUs1SW9qLTExQTctbGxEMnFQbUF0UGhqUnpMRmRlSWNIZUItVDZqRDBQSkNwQ05PTVVKUWRr?oc=5",
-"pub": "2026-11-25T15:01:15+00:00",
-"src": "Reuters",
-"kind": "market",
-"seen": "2026-11-25T16:20:21+00:00"
 }
 ]
 }
