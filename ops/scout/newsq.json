@@ -1,6 +1,6 @@
 {
-"updated_kst": "2026-11-28 06:40",
-"rot": 115,
+"updated_kst": "2026-11-28 06:44",
+"rot": 175,
 "how": "Scout(프로그램)이 10분마다 모은 기사 제목·링크와 공시예요. Wren이 공식 출처로 확인한 뒤 회사 화면에 한국어로 반영해요. 본문은 받지 않아요.",
 "sources": {
 "Yahoo Finance": "120종목 확인 · 실패 0",
@@ -10,12 +10,42 @@
 "CNBC": "63건",
 "Bloomberg": "40건",
 "WSJ": "60건",
-"Reuters": "52건",
+"Reuters": "54건",
 "FinancialJuice": "100건",
 "SEC EDGAR": "실패 HTTPError",
 "Fox Business": "50건"
 },
 "items": [
+{
+"id": "a6aebf2fa05a",
+"t": "ORCL",
+"title": "Billionaire Chase Coleman’s Tiger Global Raised Its Cerebras Stake 48% to $790 Million",
+"url": "https://247wallst.com/investing/2026/11/27/billionaire-chase-colemans-tiger-global-raised-its-cerebras-stake-48-to-790-million/",
+"pub": "2026-11-27T21:37:57+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-27T21:44:58+00:00"
+},
+{
+"id": "d595921d5cea",
+"t": "GOOGL",
+"title": "5 Best Tech Stocks to Buy for 2027 According to Hedge Funds",
+"url": "https://finance.yahoo.com/markets/stocks/articles/5-best-tech-stocks-buy-030856400.html",
+"pub": "2026-11-27T21:28:56+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-27T21:44:58+00:00"
+},
+{
+"id": "063a7e71aa45",
+"t": "AEM",
+"title": "Agnico Eagle Mines Stock What A 20% To 30% Output Growth Plan Could Change",
+"url": "https://finance.yahoo.com/markets/stocks/articles/agnico-eagle-mines-stock-20-211901795.html",
+"pub": "2026-11-27T21:19:01+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-27T21:44:58+00:00"
+},
 {
 "id": "4cbe87f19dda",
 "t": "AMKR",
@@ -25,6 +55,26 @@
 "src": "Yahoo Finance",
 "kind": "news",
 "seen": "2026-11-27T21:40:02+00:00"
+},
+{
+"id": "f25ad958624e",
+"t": "WDC",
+"title": "Western Digital Stock Gets A Lift From AI Storage Demand",
+"url": "https://finance.yahoo.com/markets/stocks/articles/western-digital-stock-gets-lift-211601592.html",
+"pub": "2026-11-27T21:16:01+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-27T21:44:58+00:00"
+},
+{
+"id": "19223ec132c5",
+"t": "INSM",
+"title": "Baycurrent And 2 Other High Growth Stocks",
+"url": "https://finance.yahoo.com/markets/stocks/articles/baycurrent-2-other-high-growth-211456974.html",
+"pub": "2026-11-27T21:14:56+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-27T21:44:58+00:00"
 },
 {
 "id": "ccc702464eda",
@@ -75,6 +125,16 @@
 "src": "Yahoo Finance",
 "kind": "news",
 "seen": "2026-11-27T21:14:55+00:00"
+},
+{
+"id": "a6fcadc58196",
+"t": "CME",
+"title": "Market Swings Spooked Retail Traders—And Lifted CME Group Up 18%",
+"url": "https://finance.yahoo.com/markets/options/articles/market-swings-spooked-retail-traders-204136574.html",
+"pub": "2026-11-27T20:41:36+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-27T21:44:58+00:00"
 },
 {
 "id": "6f2802139a51",
@@ -7964,64 +8024,24 @@
 "seen": "2026-11-27T04:01:46+00:00"
 },
 {
-"id": "1d58700c4268",
-"t": "AAPL",
-"title": "Apple (AAPL) Has Found a New AI Opportunity That Has Little to Do With the iPhone",
-"url": "https://finance.yahoo.com/technology/ai/articles/apple-aapl-found-ai-opportunity-031905510.html",
-"pub": "2026-11-27T03:19:05+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-27T04:01:46+00:00"
+"id": "35460b7c3efe",
+"t": "",
+"title": "Even the price of toys is on the rise. How Americans are scaling back holiday plans",
+"url": "https://www.cnbc.com/2026/11/25/holiday-inflation-thanksgiving-travel-food-gifts.html",
+"pub": "2026-11-27T21:42:40+00:00",
+"src": "CNBC",
+"kind": "market",
+"seen": "2026-11-27T21:44:58+00:00"
 },
 {
-"id": "24b75b2c0b1e",
-"t": "AAPL",
-"title": "Target cut its Apple Black Friday discount in half",
-"url": "https://www.thestreet.com/retail/target-cut-its-apple-black-friday-discount-in-half",
-"pub": "2026-11-27T03:17:00+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-27T04:01:46+00:00"
-},
-{
-"id": "aaf795ebcd3a",
-"t": "AVGO",
-"title": "Broadcom (AVGO) Could Be the Biggest Winner From the Shift to Custom AI Chips",
-"url": "https://finance.yahoo.com/technology/ai/articles/broadcom-avgo-could-biggest-winner-031533044.html",
-"pub": "2026-11-27T03:15:33+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-27T04:01:46+00:00"
-},
-{
-"id": "3a8370b2bb5b",
-"t": "CLS",
-"title": "3 Manufacturing Stocks Retail Investors Are Watching After New U.S. Tariff Plans",
-"url": "https://finance.yahoo.com/economy/policy/articles/3-manufacturing-stocks-retail-investors-031527610.html",
-"pub": "2026-11-27T03:15:27+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-27T05:12:20+00:00"
-},
-{
-"id": "98260ebe7b44",
-"t": "AXP",
-"title": "American Express (AXP) Names Sarah Dodds Brown As Legal Chief After Laureen Seeger Retirement",
-"url": "https://finance.yahoo.com/markets/stocks/articles/american-express-axp-names-sarah-031418742.html",
-"pub": "2026-11-27T03:14:18+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-27T06:20:52+00:00"
-},
-{
-"id": "801e6bb434dd",
-"t": "INTC",
-"title": "Intel’s (INTC) AI Opportunity Is Growing, But There’s One Big Problem Holding It Back",
-"url": "https://finance.yahoo.com/technology/ai/articles/intel-intc-ai-opportunity-growing-031416634.html",
-"pub": "2026-11-27T03:14:16+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-27T04:01:46+00:00"
+"id": "644e7ac3594d",
+"t": "",
+"title": "S&P revises France outlook to 'negative' on mounting budget pressures, weak growth - Reuters",
+"url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQSHlHVU5tTTJaQ21PUzY4S1VubHVSYk5rMy1rRFJYbWpKTUNLR0ljaGNMTklRLTVGSC1YN3FLeV9BNFRVbmMzM25jckV0MHJ0ME5GMGxheEwtS2lNWWVTc1lGdkloLURKc2FxWEkwZ3plS0ZFV2hqR09DNEpmeGp0QV85alE0c0xINHV1bTZSUko1UklHZk5DYUtsWmptekpxN3JjakVWeFItNjhMYllSMF96QWVzOU1LeW5JcnNNNkhiYXhpSUE?oc=5",
+"pub": "2026-11-27T21:27:44+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-27T21:44:58+00:00"
 },
 {
 "id": "9b67610c3a0b",
@@ -10999,26 +11019,6 @@
 "title": "India-US Trade Deal Talks Close to Culmination, Goyal Says",
 "url": "https://www.bloomberg.com/news/articles/2026-11-27/india-us-trade-deal-talks-close-to-culmination-goyal-says",
 "pub": "2026-11-27T06:19:10+00:00",
-"src": "Bloomberg",
-"kind": "market",
-"seen": "2026-11-27T07:51:21+00:00"
-},
-{
-"id": "40987cd748a5",
-"t": "",
-"title": "Asian Stocks Extend Recovery as AI Trade Rebounds",
-"url": "https://www.bloomberg.com/news/videos/2026-11-27/the-asia-trade-11-27-2026-video",
-"pub": "2026-11-27T06:16:34+00:00",
-"src": "Bloomberg",
-"kind": "market",
-"seen": "2026-11-27T07:51:21+00:00"
-},
-{
-"id": "cf1fd507c21c",
-"t": "",
-"title": "The Rate Bets That Backfired on Hedge Funds In Europe This Year",
-"url": "https://www.bloomberg.com/news/articles/2026-11-27/the-rate-bets-that-backfired-on-hedge-funds-in-europe-this-year",
-"pub": "2026-11-27T06:15:00+00:00",
 "src": "Bloomberg",
 "kind": "market",
 "seen": "2026-11-27T07:51:21+00:00"
