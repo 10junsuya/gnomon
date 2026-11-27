@@ -4951,3 +4951,22 @@ Scout(소식 감지 프로그램)가 모은 기사·공시를 공식 출처로 �
 - 출처: ops/scout/newsq.json · 공식 여부: 저장소
 - 확신도: 높음
 - 앱 다시 게시: 성공 — 버전 357.
+
+### W-20261127-1943-1 · 반영 · SPCX 머스크 '해마다 스페이스X 1주 더' 발언 (보도)
+- 시각: 2026-11-27 20:0x KST
+- 내용: W-20261127-1913-5 에서 넘겨받은 항목. 머스크가 추수감사절(11-26 미국)에 X에서 미국 아이들에게 해마다 스페이스X 주식 1주를 더 주겠다고 밝혔어요. 어떤 주식(개인 지분·회사)에서, 트럼프 계좌를 거치는지는 기사에도 없어 문구에 넣지 않았어요. 11-26 SPCX 공식 줄(계좌마다 1주 + 머스크 같은 수)은 그대로 두고 새 줄로 넣음 — '두 배로'(6551005036b7) 기사는 그 공식 줄과 같은 사건이라 done 만.
+- 출처: [CNBC](https://www.cnbc.com/2026/11/27/spacex-shares-musk-donations.html)(열기 실패 — 제목만) · [Teslarati](https://www.teslarati.com/elon-musk-gift-spacex-share-kid/) · 공식 여부: 보도
+- 확신도: 중간
+
+### W-20261127-1943-2 · 반영 · META·AMZN 아마존-메타 '뮤즈' 쇼핑 허용 협의 (보도)
+- 시각: 2026-11-27 20:0x KST
+- 내용: 포춘(11-25 미국)이 처음 보도 — 9월 아마존이 막은 메타 AI 에이전트 '뮤즈'의 아마존 쇼핑을 다시 허용하는 방안을 두 회사가 협의 중이고, 광고(외부 에이전트가 광고 상품을 건너뛸 수 있음)가 쟁점이라고 해요. 성사는 확실하지 않고 두 회사 논평 없음. 포춘 원문은 검색에 안 나와 TechCrunch·Parameter 로 확인. 두 회사 news 에 같은 사건 한 줄씩. Aleph 지도: 협의 단계라 고치지 않음.
+- 출처: [TechCrunch](https://techcrunch.com/2026/11/25/amazon-and-meta-reportedly-in-talks-to-lift-blockade-on-ai-agent-muse/) · [Parameter(포춘 인용)](https://parameter.io/meta-stock-rises-as-amazon-weighs-letting-muse-back-in/) · 공식 여부: 보도
+- 확신도: 중간
+
+### W-20261127-1943-3 · 알림 · 이번 차례
+- 시각: 2026-11-27 20:0x KST
+- 내용: Scout 실행(gh, 19:44) 뒤 새 항목은 A 가 남긴 6건뿐(news). 위 -1·-2 반영. 건너뜀: 마이크로소프트-아토스 '주권 클라우드'(22d681e70ec8 — 실제로는 11-24 아토스 보도자료(GlobeNewswire)로 아토스 컨설팅 서비스가 MS 기술(EU 데이터 경계)을 쓴다는 내용, 금액·계약 없음 → 중요 사건 기준 밖), 아멕스 법무 책임자 교체(98260ebe7b44 — 회사 발표·믿을 만한 보도 못 찾음, 블로그뿐), 메타 인도 콘텐츠 제한 소송(7bccaa9c58a1 — 야후 열기 막힘, 원 보도 못 찾음 → 버림).
+- 미국 지표: 미국 동부 11-27(금) 06:0x, 발표 없음 — 매크로 수집 안 돌림, 분석 모두 최신. 시장 칸: 19시대지만 새 market 항목 없음(A 가 코스피 반영). 나에게 온 요청(RULES 0-3): 새 요청 없음. 웹 열기 막힘: CNBC(2026/11/27 spacex-shares-musk-donations) · axios · 더힐 · 야후(meta-faces-india-lawsuit). done 3000개(대기 목록에 없는 오래된 id 부터 자름, JSON 다시 읽어 확인). 시작 때 detached HEAD 였어서 main 으로 돌려 받았어요.
+- 출처: ops/scout/newsq.json · [아토스 보도자료](https://www.globenewswire.com/news-release/2026/11/24/3409038/0/en/atos-delivers-a-structured-journey-to-digital-sovereignty-leveraging-microsoft-technology.html) · 공식 여부: 저장소
+- 확신도: 높음
