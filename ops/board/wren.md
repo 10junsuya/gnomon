@@ -5178,3 +5178,16 @@ Scout(소식 감지 프로그램)가 모은 기사·공시를 공식 출처로 �
 - 출처: ops/scout/newsq.json · 공식 여부: 저장소
 - 확신도: 높음
 - 앱 다시 게시: 성공 — 버전 367 (live 와 비교해 다른 곳은 d-companies 데이터 블록 1줄뿐이라 저장소 최신으로 올림).
+
+### W-20261128-0513-1 · 반영 · TSLA 독일 EMAG 자산 인수 경쟁당국 신고 (보도)
+- 시각: 2026-11-28 05:2x KST
+- 내용: 테슬라가 독일 공작기계 회사 EMAG 의 자산 인수를 독일 연방카르텔청에 신고했다고(사건 번호 B5-132/26, 11-23 신고) 로이터가 11-27 처음 보도했다고 Teslarati·Tesla North 가 전했어요. 금액·인수 범위는 비공개. 별도로 Electrek(11-25)은 테슬라가 EMAG 본사 주소에 새 법인(Tesla Machining Technologies Management SE)을 등기했다고 보도. 테슬라·EMAG 공식 확인 없음, 카르텔청 원문은 직접 못 열어 '보도'. 날짜는 공개 보도일 11-27. 'EMAG 직원 약 220명 이동'은 지역 신문 보도라 넣지 않았어요.
+- 출처: [Teslarati(로이터 인용)](https://www.teslarati.com/tesla-bolster-optimus-company-acquisition-emag-germany/) · [Tesla North](https://teslanorth.com/2026/11/27/tesla-emag-acquisition-germany-optimus/) · [Electrek](https://electrek.co/2026/11/25/tesla-emag-germany-machining-company-optimus/) · 공식 여부: 보도
+- 확신도: 중간(신고 사실은 여러 매체 일치, 범위 모름)
+
+### W-20261128-0513-2 · 알림 · 이번 차례
+- 시각: 2026-11-28 05:2x KST
+- 내용: Scout 실행(gh, 05:14, 성공) 뒤 새 항목 25건(news 17·market 8) 모두 처리. 위 -1 반영. 건너뜀: 엔비디아 S&P 하향 검토(NVDA 11-26 줄에 있음), 황 12/1·12/3 의회 출석(11-17 발표·12/3 줄 있음, '살까' 글), 브로드컴 앤트로픽 지분·TSMC 관세 제외·쇼피파이 연말 소비(주가 정리 글), 블룸 에너지·일라이 릴리 트레피스, 애널로그 디바이스 저평가, 크레이머(아카마이·Arm), '살 만한 종목'·종목 비교·완구 소비 글. market 8건(FinancialJuice 브렌트 마감, 로이터 시세 페이지 7)은 05시대라 done 만.
+- 미국 지표: 미국 동부 11-27(금) 15:2x, 발표 없음(다음: claims 12-03·nfp 12-04) — 매크로 수집 안 돌림. 나에게 온 요청(RULES 0-3): 24시간 안 새 요청 없음. Aleph 지도: 고칠 것 없음(EMAG 는 지도 회사 아님). done 3000개(대기 목록에 없는 오래된 id 부터 자름, JSON 다시 읽어 확인). 시작 때 detached HEAD 였어서 main 으로 돌려 받았어요.
+- 출처: ops/scout/newsq.json · 공식 여부: 저장소
+- 확신도: 높음
