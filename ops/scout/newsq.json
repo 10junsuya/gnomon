@@ -1,10 +1,10 @@
 {
-"updated_kst": "2026-11-28 00:40",
-"rot": 50,
+"updated_kst": "2026-11-28 00:44",
+"rot": 110,
 "how": "Scout(프로그램)이 10분마다 모은 기사 제목·링크와 공시예요. Wren이 공식 출처로 확인한 뒤 회사 화면에 한국어로 반영해요. 본문은 받지 않아요.",
 "sources": {
 "Yahoo Finance": "120종목 확인 · 실패 0",
-"GlobeNewswire": "0건",
+"GlobeNewswire": "실패 HTTPError",
 "PR Newswire": "1건",
 "Business Wire": "0건",
 "CNBC": "63건",
@@ -55,6 +55,16 @@
 "src": "Yahoo Finance",
 "kind": "news",
 "seen": "2026-11-27T15:40:28+00:00"
+},
+{
+"id": "9603e9e4920a",
+"t": "NVDA",
+"title": "BC-Most Active Stocks",
+"url": "https://finance.yahoo.com/markets/stocks/articles/bc-most-active-stocks-153017329.html",
+"pub": "2026-11-27T15:30:17+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-27T15:44:21+00:00"
 },
 {
 "id": "f00a6dd82d72",
@@ -115,6 +125,16 @@
 "src": "Yahoo Finance",
 "kind": "news",
 "seen": "2026-11-27T15:40:28+00:00"
+},
+{
+"id": "45564dea22c2",
+"t": "COST",
+"title": "Wall Street Gravitates To Reliable Retailer Costco In Rocky Market. But This Test Looms.",
+"url": "https://finance.yahoo.com/m/7a4a70d2-82a7-313f-b7bb-a323a8e6795c/wall-street-gravitates-to.html",
+"pub": "2026-11-27T15:15:56+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-27T15:44:21+00:00"
 },
 {
 "id": "ac7c52a3ca60",
@@ -187,6 +207,16 @@
 "seen": "2026-11-27T15:40:28+00:00"
 },
 {
+"id": "fad3ad3457bc",
+"t": "WMT",
+"title": "Walmart (WMT) Could Be 15% Undervalued Following Defensive Rotation And Holiday Momentum",
+"url": "https://finance.yahoo.com/markets/stocks/articles/walmart-wmt-could-15-undervalued-151004257.html",
+"pub": "2026-11-27T15:10:04+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-27T15:44:21+00:00"
+},
+{
 "id": "b4c295a891d7",
 "t": "SPCX",
 "title": "Nvidia halts sales to SE Asia, SpaceX surges on Musk's share promise",
@@ -206,6 +236,16 @@
 "kind": "news",
 "orig": true,
 "seen": "2026-11-27T15:14:26+00:00"
+},
+{
+"id": "f12dc772bc4e",
+"t": "MRK",
+"title": "Rapid Micro Biosystems (RPID) Stock Sees Fair Value Cut After Merck Deal Reframes Analyst Views",
+"url": "https://finance.yahoo.com/markets/stocks/articles/rapid-micro-biosystems-rpid-stock-150905372.html",
+"pub": "2026-11-27T15:09:05+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-27T15:44:21+00:00"
 },
 {
 "id": "229670a57efc",
@@ -236,6 +276,16 @@
 "src": "Yahoo Finance",
 "kind": "news",
 "seen": "2026-11-27T15:14:26+00:00"
+},
+{
+"id": "9384bc1b5863",
+"t": "DELL",
+"title": "Supermicro’s $80 Billion Sales Ambition Could Change Its Stock Outlook",
+"url": "https://247wallst.com/investing/2026/11/27/supermicros-80-billion-sales-ambition-could-change-its-stock-outlook/",
+"pub": "2026-11-27T15:03:32+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-27T15:44:21+00:00"
 },
 {
 "id": "5d43989046e2",
@@ -278,6 +328,16 @@
 "seen": "2026-11-27T15:14:26+00:00"
 },
 {
+"id": "2c98038bef49",
+"t": "JPM",
+"title": "JPMorgan Says Bitcoin ‘Capitulation’ Has Been Reached",
+"url": "https://www.cryptoprowl.com/releases/jpmorgan-says-bitcoin-capitulation-has-been-reached-8098",
+"pub": "2026-11-27T15:01:00+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-27T15:44:21+00:00"
+},
+{
 "id": "6f8e8fc67c95",
 "t": "MP",
 "title": "Lifezone Metals (LZM) Stock Is Up 12.9% Today Without Company News",
@@ -286,6 +346,16 @@
 "src": "Yahoo Finance",
 "kind": "news",
 "seen": "2026-11-27T15:14:26+00:00"
+},
+{
+"id": "2a976250673a",
+"t": "MO",
+"title": "Altria’s Potential Acquisition Of Imperial Brands Is ‘No Doubt Accretive,’ Says Stifel",
+"url": "https://stocktwits.com/news-articles/markets/equity/altria-potential-acquisition-of-imperial-brands-is-no-doubt-accretive-says-stifel/cNbCxL7R9VP",
+"pub": "2026-11-27T15:00:26+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-27T15:44:21+00:00"
 },
 {
 "id": "fc7cb5c5dc89",
@@ -316,6 +386,16 @@
 "src": "Yahoo Finance",
 "kind": "news",
 "seen": "2026-11-27T15:14:26+00:00"
+},
+{
+"id": "db732cebc381",
+"t": "MRK",
+"title": "Assisted Reproductive Technology - Global Strategic Business Report 2026-2032 | Benchmark CooperSurgical, Merck, Monash IVF Group and Hamilton Thorne",
+"url": "https://finance.yahoo.com/healthcare/articles/assisted-reproductive-technology-global-strategic-145800121.html",
+"pub": "2026-11-27T14:58:00+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-27T15:44:21+00:00"
 },
 {
 "id": "cbe3cd6ae2cb",
@@ -366,6 +446,16 @@
 "src": "Yahoo Finance",
 "kind": "news",
 "seen": "2026-11-27T15:14:26+00:00"
+},
+{
+"id": "9760d6caeda1",
+"t": "VZ",
+"title": "How to Collect Over $1,700 in Easy Passive Income From 3 High-Yield Leaders",
+"url": "https://247wallst.com/investing/2026/11/27/how-to-collect-over-1700-in-easy-passive-income-from-3-high-yield-leaders/",
+"pub": "2026-11-27T14:47:30+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-27T15:44:21+00:00"
 },
 {
 "id": "3c22b57d6dc3",
@@ -446,6 +536,16 @@
 "src": "Yahoo Finance",
 "kind": "news",
 "seen": "2026-11-27T15:14:26+00:00"
+},
+{
+"id": "ed9ff7be07da",
+"t": "WMT",
+"title": "3 Retail Dividend Stocks to Watch This Black Friday",
+"url": "https://247wallst.com/investing/2026/11/27/3-retail-dividend-stocks-to-watch-this-black-friday/",
+"pub": "2026-11-27T14:37:52+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-27T15:44:21+00:00"
 },
 {
 "id": "77c421501dbe",
@@ -538,6 +638,16 @@
 "seen": "2026-11-27T14:44:45+00:00"
 },
 {
+"id": "83261ad87ecd",
+"t": "BE",
+"title": "BE vs. FCEL: Which Fuel Cell Stock Has Stronger Long-Term Potential?",
+"url": "https://finance.yahoo.com/energy/articles/vs-fcel-fuel-cell-stock-143300726.html",
+"pub": "2026-11-27T14:33:00+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-27T15:44:21+00:00"
+},
+{
 "id": "0b594a343930",
 "t": "ORCL",
 "title": "AI Powered Supply Chain Planning Software Market Report 2026 | Capitalize on 24.8% CAGR and $26.72B in Revenue by 2030 with Microsoft, Oracle, SAP and IBM",
@@ -556,6 +666,16 @@
 "src": "Yahoo Finance",
 "kind": "news",
 "seen": "2026-11-27T14:44:45+00:00"
+},
+{
+"id": "5a18dae675c6",
+"t": "FPS",
+"title": "FPS vs. MXL: Which Stock Can Gain More From the AI Buildout?",
+"url": "https://finance.yahoo.com/markets/stocks/articles/fps-vs-mxl-stock-gain-143100935.html",
+"pub": "2026-11-27T14:31:00+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-27T15:44:21+00:00"
 },
 {
 "id": "19e8b35cec53",
@@ -698,6 +818,16 @@
 "seen": "2026-11-27T14:44:45+00:00"
 },
 {
+"id": "607b83ff29e0",
+"t": "CAT",
+"title": "CAT's Adjusted Operating Margin Expands in Q3: Is the Worst Over?",
+"url": "https://finance.yahoo.com/markets/stocks/articles/cats-adjusted-operating-margin-expands-142200297.html",
+"pub": "2026-11-27T14:22:00+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-27T15:44:21+00:00"
+},
+{
 "id": "6b090fd192ee",
 "t": "MPC",
 "title": "Billionaire Carl Icahn Faces Looming $1.4 Billion Problem",
@@ -826,6 +956,16 @@
 "src": "Yahoo Finance",
 "kind": "news",
 "seen": "2026-11-27T15:14:26+00:00"
+},
+{
+"id": "961a74872805",
+"t": "COST",
+"title": "American Eagle Gears Up for Q3 Earnings: What Should Investors Expect?",
+"url": "https://finance.yahoo.com/markets/stocks/articles/american-eagle-gears-q3-earnings-140800372.html",
+"pub": "2026-11-27T14:08:00+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-27T15:44:21+00:00"
 },
 {
 "id": "bcc4e57b2660",
@@ -1078,6 +1218,16 @@
 "seen": "2026-11-27T14:14:40+00:00"
 },
 {
+"id": "07342a0ece93",
+"t": "CVX",
+"title": "What's Going On With Chevron Stock On Friday?",
+"url": "https://finance.yahoo.com/markets/stocks/articles/whats-going-chevron-stock-friday-134421445.html",
+"pub": "2026-11-27T13:44:21+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-27T15:44:21+00:00"
+},
+{
 "id": "e1e35823e5e3",
 "t": "ASTS",
 "title": "ASTS Stock’s New Target By Berenberg Shows A 67% Cut – Analyst Says Satellite Launch Delays Hurt Revenue Ramp",
@@ -1096,6 +1246,26 @@
 "src": "Yahoo Finance",
 "kind": "news",
 "seen": "2026-11-27T14:14:40+00:00"
+},
+{
+"id": "832dce3ff896",
+"t": "COP",
+"title": "Oil Prices Remain High: Boon for BP's Energy Operations?",
+"url": "https://finance.yahoo.com/energy/articles/oil-prices-remain-high-boon-134300933.html",
+"pub": "2026-11-27T13:43:00+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-27T15:44:21+00:00"
+},
+{
+"id": "a5e1dac96443",
+"t": "MO",
+"title": "Altria weighs $30B takeover bid for Imperial Brands",
+"url": "https://www.proactiveinvestors.com/companies/news/1102580/altria-weighs-30b-takeover-bid-for-imperial-brands-1102580.html",
+"pub": "2026-11-27T13:43:00+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-27T15:44:21+00:00"
 },
 {
 "id": "afadcca72853",
@@ -7075,6 +7245,16 @@
 "seen": "2026-11-26T16:28:36+00:00"
 },
 {
+"id": "8281e036bb39",
+"t": "MO",
+"title": "Fears for FTSE 100 as tobacco giant draws US bid",
+"url": "https://www.telegraph.co.uk/business/2026/11/26/marlboro-maker-plots-27bn-takeover-of-british-tobacco-giant/",
+"pub": "2026-11-26T16:12:07+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-27T15:44:21+00:00"
+},
+{
 "id": "22eff161d663",
 "t": "LLY",
 "title": "Can Zenagamtide Bolster NVO's Next-Generation Obesity Drug Pipeline?",
@@ -7844,186 +8024,6 @@
 "src": "PR Newswire",
 "kind": "news",
 "orig": true,
-"seen": "2026-11-26T15:14:25+00:00"
-},
-{
-"id": "4c70f59e0f5c",
-"t": "AMZN",
-"title": "Kevin O’Leary Calls Anthropic ‘Sheer Genius’ for Running Amazon’s Playbook ‘At an Unprecedented Pace’",
-"url": "https://www.barchart.com/story/news/9020227/kevin-oleary-calls-anthropic-sheer-genius-for-running-amazons-playbook-at-an-unprecedented-pace",
-"pub": "2026-11-26T15:00:02+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-26T21:26:59+00:00"
-},
-{
-"id": "a0c113e43002",
-"t": "GOOGL",
-"title": "AI's self-improvement era is nearly here. It will be felt everywhere",
-"url": "https://finance.yahoo.com/video/ais-self-improvement-era-nearly-150000618.html",
-"pub": "2026-11-26T15:00:00+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-26T15:14:25+00:00"
-},
-{
-"id": "83b7a1af92b5",
-"t": "GOOGL",
-"title": "Europe Cloud Computing Market Surges to $ 550.42 billion at a CAGR 11.0% by 2030 | Report by MarketsandMarkets™",
-"url": "https://finance.yahoo.com/technology/articles/europe-cloud-computing-market-surges-150000346.html",
-"pub": "2026-11-26T15:00:00+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-26T15:14:25+00:00"
-},
-{
-"id": "634f68687999",
-"t": "ADM",
-"title": "POET, Valero, ADM, Raízen and Green Plains Lead the Bioethanol Market as It Grows to USD 192.57 Billion by 2035",
-"url": "https://finance.yahoo.com/energy/articles/poet-valero-adm-ra-zen-150000029.html",
-"pub": "2026-11-26T15:00:00+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-26T15:14:25+00:00"
-},
-{
-"id": "d1c8af8bc44f",
-"t": "BIIB",
-"title": "Neurology Clinical Trials - Global Strategic Business Report 2026: Capitalize on the Surge to $7.9 Billion by 2032 as IQVIA, ICON, Biogen, AbbVie, and Eisai Vie for Share",
-"url": "https://finance.yahoo.com/healthcare/articles/neurology-clinical-trials-global-strategic-150000027.html",
-"pub": "2026-11-26T15:00:00+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-26T17:29:32+00:00"
-},
-{
-"id": "efcdeefd9f9e",
-"t": "NVDA",
-"title": "ETO Markets Marks 13th Anniversary With “Race Beyond Limits” Global Brand Strategy",
-"url": "https://finance.yahoo.com/markets/currencies/articles/eto-markets-marks-13th-anniversary-145900039.html",
-"pub": "2026-11-26T14:59:00+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-26T15:14:25+00:00"
-},
-{
-"id": "2bcfb3925329",
-"t": "IBM",
-"title": "Global Hospital Asset Management Market to Reach $180.8 Billion by 2032; Benchmark IBM, Zebra Technologies, Ascom, and TeleTracking",
-"url": "https://finance.yahoo.com/healthcare/articles/global-hospital-asset-management-market-145500621.html",
-"pub": "2026-11-26T14:55:00+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-26T15:14:25+00:00"
-},
-{
-"id": "ccb5265a6010",
-"t": "IBM",
-"title": "Smart Hospitals - Global Strategic Business Report: Capitalize on a US$280.5 Billion Market by 2030 as IBM, Huawei, Honeywell, GE Healthcare and Cerner Disrupt Care at 22.9% CAGR",
-"url": "https://finance.yahoo.com/healthcare/articles/smart-hospitals-global-strategic-business-145300083.html",
-"pub": "2026-11-26T14:53:00+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-26T15:14:25+00:00"
-},
-{
-"id": "d16495c9e102",
-"t": "NVDA",
-"title": "Michael Burry Just Flipped Bullish and Went on a Shopping Spree for Stocks",
-"url": "https://247wallst.com/investing/2026/11/26/michael-burry-just-flipped-bullish-and-went-on-a-shopping-spree-for-stocks/",
-"pub": "2026-11-26T14:52:16+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-26T15:14:25+00:00"
-},
-{
-"id": "b6efb8f440cb",
-"t": "CRS",
-"title": "Aerospace Fasteners - Global Strategic Business Report: Capture the $4B Revenue Shift by 2030 Amid Tariff Disruption; Outmaneuver Arconic, Carpenter Technology, Cherry Aerospace and Click Bond",
-"url": "https://finance.yahoo.com/economy/policy/articles/aerospace-fasteners-global-strategic-business-145200937.html",
-"pub": "2026-11-26T14:52:00+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-26T16:28:36+00:00"
-},
-{
-"id": "bc0ca8af0319",
-"t": "NVDA",
-"title": "Investing $500 a Month in Coca-Cola, Realty Income, and Altria Could Generate Over $1,000 in Monthly Dividend Income by 2046",
-"url": "https://www.fool.com/investing/2026/11/26/investing-usd500-a-month-in-coca-cola-realty-income-and-altria-could-generate-over-usd1-000-in-monthly-dividend-income-by-2046/",
-"pub": "2026-11-26T14:51:02+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-26T15:14:25+00:00"
-},
-{
-"id": "a7c7905116fa",
-"t": "TSLA",
-"title": "General Motors Is Up 11% in a Month as the Nasdaq-100 Fell 10%. Is Its Nasdaq Switch Really That Good?",
-"url": "https://www.tikr.com/blog/general-motors-is-up-11-in-a-month-as-the-nasdaq-100-fell-10-is-its-nasdaq-switch-really-that-good",
-"pub": "2026-11-26T14:50:28+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-26T16:28:36+00:00"
-},
-{
-"id": "f67941c5671d",
-"t": "AAPL",
-"title": "Is Apple Stock Outperforming the Nasdaq?",
-"url": "https://www.barchart.com/story/news/9020084/is-apple-stock-outperforming-the-nasdaq",
-"pub": "2026-11-26T14:50:07+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-26T21:26:59+00:00"
-},
-{
-"id": "71765315c567",
-"t": "AAOI",
-"title": "Applied Optoelectronics (AAOI) Has the Orders. Does It Have the Parts?",
-"url": "https://finance.yahoo.com/technology/ai/articles/applied-optoelectronics-aaoi-orders-does-144805709.html",
-"pub": "2026-11-26T14:48:05+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-26T16:28:36+00:00"
-},
-{
-"id": "ee0cadad2b65",
-"t": "VSAT",
-"title": "UAV Satellite Communications - Global Strategic Business Report 2026: A $9.9 Billion Opportunity by 2032 as Airbus, Anduril, Viasat, Iridium, and L3Harris Vie for Share",
-"url": "https://finance.yahoo.com/technology/articles/uav-satellite-communications-global-strategic-144700317.html",
-"pub": "2026-11-26T14:47:00+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-26T15:14:25+00:00"
-},
-{
-"id": "6726d48d33d1",
-"t": "AAPL",
-"title": "Michael Burry exits Nasdaq-100 short",
-"url": "https://www.proactiveinvestors.com/companies/news/1102534/michael-burry-exits-nasdaq-100-short-1102534.html",
-"pub": "2026-11-26T14:47:00+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-26T17:29:32+00:00"
-},
-{
-"id": "9cb2bcaeae4c",
-"t": "NVDA",
-"title": "Dow Investors Chased Tech Swings—While Amgen Quietly Surged 77%",
-"url": "https://finance.yahoo.com/healthcare/articles/dow-investors-chased-tech-swings-144540662.html",
-"pub": "2026-11-26T14:45:40+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-26T15:14:25+00:00"
-},
-{
-"id": "16e5ed2c18ef",
-"t": "GILD",
-"title": "Forget Binary Biotech Bets: This Antiviral Giant Surged 38%",
-"url": "https://finance.yahoo.com/healthcare/articles/forget-binary-biotech-bets-antiviral-144530180.html",
-"pub": "2026-11-26T14:45:30+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
 "seen": "2026-11-26T15:14:25+00:00"
 },
 {
@@ -9137,6 +9137,16 @@
 "seen": "2026-11-27T10:07:06+00:00"
 },
 {
+"id": "f1b78d964807",
+"t": "",
+"title": "GMAB.PH - Reuters",
+"url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE44ZWgzVHgxYVpXUmJkZFdJUU1aTDZiUktkR1ZTbGI2Y3MySVhYZHE0U2RWa002a29BSVlyZllKM21aUkdzQTYyYk1DUHVHdVVvT2FPQVp4Sk5ObmpHN1lDSk13UHJOdHFsQUdIUWhYOA?oc=5",
+"pub": "2026-11-27T09:03:18+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-27T15:44:21+00:00"
+},
+{
 "id": "f39dd7da6f2f",
 "t": "",
 "title": "Italian Industrial Sales MoM Actual 3.0% (Forecast -, Previous -0.9%)",
@@ -9315,6 +9325,16 @@
 "src": "Bloomberg",
 "kind": "market",
 "seen": "2026-11-27T08:54:02+00:00"
+},
+{
+"id": "3f595c0d19e0",
+"t": "",
+"title": "European Stock Indexes Rise as Tech Rally Extends",
+"url": "https://www.wsj.com/finance/stocks/nikkei-rises-0-4-led-by-banks-trading-houses-7e23720e",
+"pub": "2026-11-27T08:32:00+00:00",
+"src": "WSJ",
+"kind": "market",
+"seen": "2026-11-27T15:44:21+00:00"
 },
 {
 "id": "645b2c50c1b6",
@@ -10187,6 +10207,16 @@
 "seen": "2026-11-27T06:20:52+00:00"
 },
 {
+"id": "85ff65645d1f",
+"t": "",
+"title": "Gold, Silver Rally as Market Sentiment Improves",
+"url": "https://www.wsj.com/finance/commodities-futures/gold-fortunes-tied-to-stocks-in-near-term-42ce98be",
+"pub": "2026-11-27T05:59:00+00:00",
+"src": "WSJ",
+"kind": "market",
+"seen": "2026-11-27T15:44:21+00:00"
+},
+{
 "id": "e5640c984c19",
 "t": "",
 "title": "Enhanced Group Inc (ENHA.N) | Stock Price & Latest News - Reuters",
@@ -10995,36 +11025,6 @@
 "src": "Reuters",
 "kind": "market",
 "seen": "2026-11-27T15:14:26+00:00"
-},
-{
-"id": "8b5bc09727cc",
-"t": "",
-"title": "Japan GPIF to Brief on Every Asset-Mix Review, Not Just Some",
-"url": "https://www.bloomberg.com/news/articles/2026-11-27/japan-gpif-to-brief-on-every-asset-mix-review-not-just-some",
-"pub": "2026-11-27T00:34:44+00:00",
-"src": "Bloomberg",
-"kind": "market",
-"seen": "2026-11-27T01:57:09+00:00"
-},
-{
-"id": "ccdcba494996",
-"t": "",
-"title": "Baan Rock Garden PCL (BROCK.BK) | Stock Price & Latest News - Reuters",
-"url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9BcXd3UVcyZ3VOaTMzQndXVHliaXlYVlhoS1REOHJ4bWVCOXg5dUpxTUJxS0FlSTVGZVc3NUdKQmczTE1BUW5USU1RNThuaDlsQnZOZ3llVUVGemFHdVFVV2JHdGhqVXo2a3Foc1Bn?oc=5",
-"pub": "2026-11-27T00:33:24+00:00",
-"src": "Reuters",
-"kind": "market",
-"seen": "2026-11-27T13:44:11+00:00"
-},
-{
-"id": "92521bde9b9a",
-"t": "",
-"title": "Japan Tobacco Shares Climb on Potential Imperial Brands Takeover",
-"url": "https://www.bloomberg.com/news/articles/2026-11-27/japan-tobacco-shares-climb-on-potential-imperial-brands-takeover",
-"pub": "2026-11-27T00:26:05+00:00",
-"src": "Bloomberg",
-"kind": "market",
-"seen": "2026-11-27T01:57:09+00:00"
 }
 ]
 }
