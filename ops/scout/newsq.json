@@ -1,21 +1,51 @@
 {
-"updated_kst": "2026-11-28 06:44",
-"rot": 175,
+"updated_kst": "2026-11-28 07:14",
+"rot": 56,
 "how": "Scout(프로그램)이 10분마다 모은 기사 제목·링크와 공시예요. Wren이 공식 출처로 확인한 뒤 회사 화면에 한국어로 반영해요. 본문은 받지 않아요.",
 "sources": {
 "Yahoo Finance": "120종목 확인 · 실패 0",
-"GlobeNewswire": "실패 HTTPError",
+"GlobeNewswire": "0건",
 "PR Newswire": "0건",
 "Business Wire": "0건",
 "CNBC": "63건",
 "Bloomberg": "40건",
 "WSJ": "60건",
-"Reuters": "54건",
+"Reuters": "56건",
 "FinancialJuice": "100건",
 "SEC EDGAR": "실패 HTTPError",
 "Fox Business": "50건"
 },
 "items": [
+{
+"id": "260f6a2e65ce",
+"t": "MA",
+"title": "Billionaire Andreas Halvorsen’s Viking Opened an $818 Million Mastercard Stake While Cutting Its Visa Shares 32.6%",
+"url": "https://247wallst.com/investing/2026/11/27/billionaire-andreas-halvorsens-viking-opened-an-818-million-mastercard-stake-while-cutting-its-visa-shares-32-6/",
+"pub": "2026-11-27T21:59:30+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-27T22:14:19+00:00"
+},
+{
+"id": "f87a9fd9f247",
+"t": "VOO",
+"title": "SWAN Was Built to Survive a Crash. It Cost Holders $180,330 Against VOO on $300,000 in Five Years",
+"url": "https://247wallst.com/investing/etf/2026/11/27/swan-was-built-to-survive-a-crash-it-cost-holders-180330-against-voo-on-300000-in-five-years/",
+"pub": "2026-11-27T21:43:58+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-27T22:14:19+00:00"
+},
+{
+"id": "18825dd35b2e",
+"t": "PLTR",
+"title": "Palantir Stock (PLTR) Has No Room for Error at This Valuation",
+"url": "https://finance.yahoo.com/markets/stocks/articles/palantir-stock-pltr-no-room-213800829.html",
+"pub": "2026-11-27T21:38:00+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-27T22:14:19+00:00"
+},
 {
 "id": "a6aebf2fa05a",
 "t": "ORCL",
@@ -35,6 +65,16 @@
 "src": "Yahoo Finance",
 "kind": "news",
 "seen": "2026-11-27T21:44:58+00:00"
+},
+{
+"id": "79b3a9c7f77f",
+"t": "VRT",
+"title": "Is NextEra A Safe Shelter Or A Fast Borrower?",
+"url": "https://www.trefis.com/stock/nee/articles/629223/is-nextera-a-safe-shelter-or-a-fast-borrower/2026-11-27",
+"pub": "2026-11-27T21:28:43+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-27T22:14:19+00:00"
 },
 {
 "id": "063a7e71aa45",
@@ -185,6 +225,16 @@
 "src": "Yahoo Finance",
 "kind": "news",
 "seen": "2026-11-27T21:14:55+00:00"
+},
+{
+"id": "6793d761ade7",
+"t": "NVDA",
+"title": "Can Record Black Friday Spending Lift Amazon Stock?",
+"url": "https://finance.yahoo.com/markets/stocks/articles/record-black-friday-spending-lift-203500466.html",
+"pub": "2026-11-27T20:35:00+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-27T22:14:19+00:00"
 },
 {
 "id": "d38217229825",
@@ -7974,54 +8024,44 @@
 "seen": "2026-11-27T04:01:46+00:00"
 },
 {
-"id": "1ea5e50fb58d",
-"t": "QNT",
-"title": "Here’s Why Quantinuum Inc. (QNT) is One of the Top Quantum Computing Stocks to Buy for 2027",
-"url": "https://finance.yahoo.com/technology/ai/articles/why-quantinuum-inc-qnt-one-032829499.html",
-"pub": "2026-11-27T03:28:29+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-27T04:01:46+00:00"
+"id": "94ca5f8c1171",
+"t": "",
+"title": "Week Ahead: Focus on AI, China Trade & Employment - FJElite",
+"url": "https://www.financialjuice.com/News/9871064/Week-Ahead-Focus-on-AI-China-Trade--Employment---FJElite.aspx?xy=rss",
+"pub": "2026-11-27T22:13:32+00:00",
+"src": "FinancialJuice",
+"kind": "market",
+"seen": "2026-11-27T22:14:19+00:00"
 },
 {
-"id": "39b008fb17b2",
-"t": "IONQ",
-"title": "39 Hedge Funds Back This Quantum Computing Stock: Should You Buy?",
-"url": "https://finance.yahoo.com/technology/ai/articles/39-hedge-funds-back-quantum-032646206.html",
-"pub": "2026-11-27T03:26:46+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-27T04:01:46+00:00"
+"id": "ef8816751790",
+"t": "",
+"title": "Saudi civil defense: danger has passed in Al Kharj",
+"url": "https://www.financialjuice.com/News/9871063/Saudi-civil-defense-danger-has-passed-in-Al-Kharj.aspx?xy=rss",
+"pub": "2026-11-27T22:11:58+00:00",
+"src": "FinancialJuice",
+"kind": "market",
+"seen": "2026-11-27T22:14:19+00:00"
 },
 {
-"id": "ca06472dbff0",
-"t": "SPCX",
-"title": "Cold Water for Grok: Musk Says SpaceX Is “Not Yet Even on the Podium” in AI",
-"url": "https://www.tikr.com/blog/cold-water-for-grok-musk-says-spacex-is-not-yet-even-on-the-podium-in-ai",
-"pub": "2026-11-27T03:22:03+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-27T10:07:06+00:00"
+"id": "30f686e6d7c9",
+"t": "",
+"title": "Saudi civil defense issues warning over possible threat in Al Kharj",
+"url": "https://www.financialjuice.com/News/9871062/Saudi-civil-defense-issues-warning-over-possible-threat-in-Al-Kharj.aspx?xy=rss",
+"pub": "2026-11-27T22:09:34+00:00",
+"src": "FinancialJuice",
+"kind": "market",
+"seen": "2026-11-27T22:14:19+00:00"
 },
 {
-"id": "112c6a31128c",
-"t": "GOOGL",
-"title": "5 Best Quantum Computing Stocks To Buy for 2027",
-"url": "https://finance.yahoo.com/technology/articles/5-best-quantum-computing-stocks-032149616.html",
-"pub": "2026-11-27T03:21:49+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-27T04:01:46+00:00"
-},
-{
-"id": "9b0f6d8cddba",
-"t": "NVDA",
-"title": "Nvidia Is Down 35% From Its All-Time High, Tied for Its Biggest Drop Since the AI Boom Began. Is It a Buy?",
-"url": "https://www.fool.com/investing/2026/11/26/nvidia-is-down-35-from-its-all-time-high-tied-for-its-biggest-drop-since-the-ai-boom-began-is-it-a-buy/",
-"pub": "2026-11-27T03:20:02+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-27T04:01:46+00:00"
+"id": "977b08b53353",
+"t": "",
+"title": "Saudi civil defense issues warning over potential risk in eastern province",
+"url": "https://www.financialjuice.com/News/9871061/Saudi-civil-defense-issues-warning-over-potential-risk-in-eastern-province.aspx?xy=rss",
+"pub": "2026-11-27T22:08:22+00:00",
+"src": "FinancialJuice",
+"kind": "market",
+"seen": "2026-11-27T22:14:19+00:00"
 },
 {
 "id": "35460b7c3efe",
@@ -8662,6 +8702,16 @@
 "src": "Reuters",
 "kind": "market",
 "seen": "2026-11-27T18:15:20+00:00"
+},
+{
+"id": "c3d979ecb418",
+"t": "",
+"title": "BAZA3Q.SA - | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNMFppTVFzazRqSmJ2RHJIbHJfbmluanlpN3BpeWxIVnI2YkVCaXZyS2p1ZW5SQVA5a096LWpxbTlQTXVEdzZsVkZvTUVnXzZWbE9wY1FCYnRlMFpGX0l2M001S21qbVJnZUhrcGdVVExfOFo1bHdGMS1DTzUyQ0ZVY1VQZl9XUQ?oc=5",
+"pub": "2026-11-27T15:27:15+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-27T22:14:19+00:00"
 },
 {
 "id": "e51b0966944a",
@@ -10970,56 +11020,6 @@
 "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPLWxqTUV2X2RZam8zVGVSY2ZFTzRLQkxKYjdBUVJvR1dIOVlaczllTWRmay1FM3pMOHk5SlBjYkhxaDZ4YmJXbWM3NFpSRDBuWWs3T05QS2hZU2FoVzluTzJTMVFjQmhVS3B3a3ZQSXlOc0JKLV92RHZiNFZoNUlXUW5MMk1ncnpDXzVsMnhpTGx4OWpOVnpCNjlWRlJCa1Bp?oc=5",
 "pub": "2026-11-27T06:24:00+00:00",
 "src": "Reuters",
-"kind": "market",
-"seen": "2026-11-27T07:51:21+00:00"
-},
-{
-"id": "83850334e666",
-"t": "",
-"title": "TILK.INx - Reuters",
-"url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNRW1oS2VYSFBJMkZ4N0NZWlREdmNvOWY5MEJvQTBHZ2VwY1ZVd2VWQ01JRm80Z0xPTXBhelowdm52bXpkeTMwX2lRR2JUNV9GZDZHdlZKcVpPMjA3d2RuVHU3SG9CWkNxRjhsc2o1TVMwNTBzRWItRloxOFRGdFV1STFyd0J0a0k?oc=5",
-"pub": "2026-11-27T06:23:25+00:00",
-"src": "Reuters",
-"kind": "market",
-"seen": "2026-11-27T14:34:12+00:00"
-},
-{
-"id": "3b97906a63cd",
-"t": "",
-"title": "VIEW China markets surge as Beijing unleashes national team - Reuters",
-"url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQSHpmejM1NzdYLTVadGZMS3JuU3pyb1dpZTlIWHNkLTdCWm0td3ZCU1pnSmExd3FES3o4MFFrRG52WUI5TlYtRjlMOEktdm05ZV9qbUZ1MGY0bXlvbXVTeFFOYkZfd2NnRGRUczJselg3S192Qng0NW5JMDNXM2xvVXNvTFJxQ1FhckxzbDFfRWtvLWRDNVFlSnE4b0NxZENsc0FaSXVVMnN0cmc?oc=5",
-"pub": "2026-11-27T06:23:00+00:00",
-"src": "Reuters",
-"kind": "market",
-"seen": "2026-11-27T08:54:02+00:00"
-},
-{
-"id": "4eedee7d5b26",
-"t": "",
-"title": "Ziemba: Oil Supply Risks Outweigh OPEC+ Moves",
-"url": "https://www.bloomberg.com/news/videos/2026-11-27/ziemba-oil-supply-risks-outweigh-opec-moves-video",
-"pub": "2026-11-27T06:22:58+00:00",
-"src": "Bloomberg",
-"kind": "market",
-"seen": "2026-11-27T07:51:21+00:00"
-},
-{
-"id": "fd4d1990a566",
-"t": "",
-"title": "Huawei Teases AI Chip to Rival Giants SK Hynix, Samsung",
-"url": "https://www.bloomberg.com/news/videos/2026-11-27/the-china-show-11-27-2026-video",
-"pub": "2026-11-27T06:20:34+00:00",
-"src": "Bloomberg",
-"kind": "market",
-"seen": "2026-11-27T07:51:21+00:00"
-},
-{
-"id": "bb0287df64bb",
-"t": "",
-"title": "India-US Trade Deal Talks Close to Culmination, Goyal Says",
-"url": "https://www.bloomberg.com/news/articles/2026-11-27/india-us-trade-deal-talks-close-to-culmination-goyal-says",
-"pub": "2026-11-27T06:19:10+00:00",
-"src": "Bloomberg",
 "kind": "market",
 "seen": "2026-11-27T07:51:21+00:00"
 }
