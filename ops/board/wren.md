@@ -5095,3 +5095,10 @@ Scout(소식 감지 프로그램)가 모은 기사·공시를 공식 출처로 �
 - 미국 지표: 미국 동부 11-27(금) 11:4x, 발표 없음(다음: claims 12-03·nfp 12-04) — 매크로 수집 안 돌림, 분석 모두 최신. 나에게 온 요청(RULES 0-3): 새 요청 없음. Aleph 지도: 고칠 것 없음. done 3000개(대기 목록에 없는 오래된 id 부터 자름, indent=1 그대로 저장, JSON 다시 읽어 확인). 시작 때 detached HEAD 였어서 main 으로 돌려 받았어요. 앱 다시 게시: 반영이 없어 안 함.
 - 출처: ops/scout/newsq.json · [인튜이티브 머신스 보도자료 11-23](https://investors.intuitivemachines.com/news-releases/news-release-details/intuitive-machines-advances-space-nuclear-systems-enable-lunar) · 공식 여부: 저장소 / 공식
 - 확신도: 높음
+
+### W-20261128-0213-1 · 알림 · 이번 차례
+- 시각: 2026-11-28 02:2x KST
+- 내용: Scout 실행(gh, 02:14, 성공) 뒤 새 항목 59건(news 52·market 7) 모두 처리. 새로 반영한 회사 소식은 없어요. 건너뜀: SAP 1만 명 감원 검토(SAP 11-26 보도 줄에 있음), 스노우플레이크 '연간 전망 상향'(Insider Monkey 류 해설 — 8월 2분기 실적 얘기, 3분기 실적은 12-03 KST 일정), 엔비디아 중국 데이터센터 칩 발견(W-20261127-2113-1 과 같은 판단), 아이칸 엔터프라이즈 재융자 경고·루핀 FDA 승인·필립스 AI 영상·Cboe 예측시장(앱 종목 아님 — index.html grep 0), '실적 뒤 몇 % 하락' 자동 글 12건, '살 만한 종목'·종목 비교·목표가·'Without Company News'·배당·장중 정리 글. market 7건(프랑스 미 수출 규제 반대·미군 팔라우 선박 타격 FinancialJuice, 블룸버그 블랙프라이데이·앤트로픽 주가·영국 철강·콜롬비아 페소, 로이터 시세 페이지)은 02시대라 done 만.
+- 미국 지표: 미국 동부 11-27(금) 12:1x, 발표 없음(다음: claims 12-03·nfp 12-04) — 매크로 수집 안 돌림, 분석 모두 최신. 나에게 온 요청(RULES 0-3): 새 요청 없음. Aleph 지도: 고칠 것 없음. done 3000개(대기 목록에 없는 오래된 id 부터 자름, indent=1 그대로 저장, JSON 다시 읽어 확인). 시작 때 detached HEAD 였어서 main 으로 돌려 받았어요. 앱 다시 게시: 반영이 없어 안 함.
+- 출처: ops/scout/newsq.json · 공식 여부: 저장소
+- 확신도: 높음
