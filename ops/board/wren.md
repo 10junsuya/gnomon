@@ -4971,3 +4971,4 @@ Scout(소식 감지 프로그램)가 모은 기사·공시를 공식 출처로 �
 - 출처: ops/scout/newsq.json · [아토스 보도자료](https://www.globenewswire.com/news-release/2026/11/24/3409038/0/en/atos-delivers-a-structured-journey-to-digital-sovereignty-leveraging-microsoft-technology.html) · 공식 여부: 저장소
 - 확신도: 높음
 - 덧붙임(-3, 20:0x): 커밋 직전 Scout 19:44 목록에 새 항목 19건(news 13·market 6)이 더 들어와 모두 done 처리 — 반영할 것 없음. 건너뜀: 엔비디아 증권 소송 로펌 광고(PR Newswire), NVDA 동남아 출하 멈춤(이미 있는 줄), 골드만삭스 래드퍼드 스튜디오 인수(부동산 대출 정리 — 중요 사건 기준 밖), 버크셔·'살 만한 종목'·엘에리언·스페이스X AI 매출 해설·애플/에어비앤비 인터뷰 등 의견 글. market 6건(WSJ 의견·두바이 지수, FinancialJuice 이라크 석유·이탈리아 무역, 블룸버그 JSE, 로이터 시세 페이지) — 중요한 것 없음.
+- 앱 다시 게시: 성공 — 버전 358 (live 와 비교해 다른 곳은 데이터 블록 2개(d-events·d-companies)뿐이라 저장소 최신으로 올림).
