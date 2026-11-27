@@ -1,21 +1,41 @@
 {
-"updated_kst": "2026-11-28 03:39",
-"rot": 172,
+"updated_kst": "2026-11-28 03:44",
+"rot": 53,
 "how": "Scout(프로그램)이 10분마다 모은 기사 제목·링크와 공시예요. Wren이 공식 출처로 확인한 뒤 회사 화면에 한국어로 반영해요. 본문은 받지 않아요.",
 "sources": {
 "Yahoo Finance": "120종목 확인 · 실패 0",
-"GlobeNewswire": "0건",
+"GlobeNewswire": "실패 HTTPError",
 "PR Newswire": "0건",
 "Business Wire": "0건",
 "CNBC": "63건",
 "Bloomberg": "40건",
 "WSJ": "60건",
-"Reuters": "55건",
+"Reuters": "100건",
 "FinancialJuice": "100건",
 "SEC EDGAR": "실패 HTTPError",
 "Fox Business": "50건"
 },
 "items": [
+{
+"id": "ca980ef2c5bc",
+"t": "NVDA",
+"title": "Where Will AbbVie Stock Be in 5 Years? Its 2 Immunology Blockbusters Are Still Growing 20%-Plus per Year",
+"url": "https://www.fool.com/investing/2026/11/27/where-will-abbvie-stock-be-in-5-years-its-2-immunology-blockbusters-are-still-growing-20-plus-per-year/",
+"pub": "2026-11-27T18:37:01+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-27T18:44:17+00:00"
+},
+{
+"id": "0a9b0a83fc9a",
+"t": "NVDA",
+"title": "For a Little While, Nvidia Faced a Future Without Jensen Huang",
+"url": "https://www.fool.com/investing/2026/11/27/for-a-little-while-nvidia-faced-a-future-without-jensen-huang/",
+"pub": "2026-11-27T18:31:02+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-27T18:44:17+00:00"
+},
 {
 "id": "1370431f0b49",
 "t": "CRWV",
@@ -57,6 +77,16 @@
 "seen": "2026-11-27T18:39:55+00:00"
 },
 {
+"id": "fa04eb98a1c1",
+"t": "NVDA",
+"title": "Here's Why Vera Therapeutics Stock Surged Today (Hint: It's Not Great News For Vertex Shareholders)",
+"url": "https://www.fool.com/investing/2026/11/27/here-s-why-vera-therapeutics-stock-surged-today-hint-it-s-not-great-news-for-vertex-shareholders/",
+"pub": "2026-11-27T18:27:13+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-27T18:44:17+00:00"
+},
+{
 "id": "36fb772ed8da",
 "t": "MSFT",
 "title": "Microsoft Stocks Rise 0.26% as Code Red Targets One-Hour Outage Recovery",
@@ -75,6 +105,16 @@
 "src": "Yahoo Finance",
 "kind": "news",
 "seen": "2026-11-27T18:39:55+00:00"
+},
+{
+"id": "196bf58a3722",
+"t": "QCOM",
+"title": "Qualcomm Stocks Climb 4.18% After Tying CEO Award to $500 Share Price",
+"url": "https://finance.yahoo.com/markets/stocks/articles/qualcomm-stocks-climb-4-18-181911724.html",
+"pub": "2026-11-27T18:19:11+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-27T18:44:17+00:00"
 },
 {
 "id": "8d167a0d14b2",
@@ -177,6 +217,16 @@
 "seen": "2026-11-27T18:15:20+00:00"
 },
 {
+"id": "e8365831f93c",
+"t": "ADI",
+"title": "Analog Devices (ADI) Stock May Look Fully Valued Despite Soft Q1 Outlook",
+"url": "https://finance.yahoo.com/markets/stocks/articles/analog-devices-adi-stock-may-180831120.html",
+"pub": "2026-11-27T18:08:31+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-27T18:44:17+00:00"
+},
+{
 "id": "e8b0303e9566",
 "t": "SPCX",
 "title": "Qualcomm, Cava, and Dutch Bros Earnings and a Robotics IPO",
@@ -185,6 +235,16 @@
 "src": "Yahoo Finance",
 "kind": "news",
 "seen": "2026-11-27T18:15:20+00:00"
+},
+{
+"id": "01dcede11fd5",
+"t": "CRWD",
+"title": "CrowdStrike Stocks Climb 1.86% as $43.9 Billion Zscaler Deal Value Slips",
+"url": "https://finance.yahoo.com/markets/stocks/articles/crowdstrike-stocks-climb-1-86-180326160.html",
+"pub": "2026-11-27T18:03:26+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-27T18:44:17+00:00"
 },
 {
 "id": "81f6b22f613e",
@@ -205,6 +265,16 @@
 "src": "Yahoo Finance",
 "kind": "news",
 "seen": "2026-11-27T18:15:20+00:00"
+},
+{
+"id": "40d01b4f8199",
+"t": "MRNA",
+"title": "Moderna’s Experimental Ebola Vaccine Begins Landmark Trial In Uganda – MRNA Stock Eyes Fourth Straight Monthly Gain",
+"url": "https://stocktwits.com/news-articles/markets/equity/moderna-ebola-vaccine-begins-landmark-trial-in-uganda-mrna-stock/cNb6R98R9Vf",
+"pub": "2026-11-27T18:02:47+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-27T18:44:17+00:00"
 },
 {
 "id": "9c29d4956e8c",
@@ -325,6 +395,16 @@
 "src": "Yahoo Finance",
 "kind": "news",
 "seen": "2026-11-27T18:15:20+00:00"
+},
+{
+"id": "e0af596e3f1c",
+"t": "PANW",
+"title": "Palo Alto Networks hit with fraud claims after blowout quarter",
+"url": "https://www.thestreet.com/investing/palo-alto-networks-ex-vp-lawsuit-early-booked-deals-fraud-claims",
+"pub": "2026-11-27T17:47:00+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-27T18:44:17+00:00"
 },
 {
 "id": "75f8e1570532",
@@ -6614,6 +6694,16 @@
 "seen": "2026-11-27T10:07:06+00:00"
 },
 {
+"id": "4db3b9ea2ada",
+"t": "LMT",
+"title": "Pentagon Urges Detroit to Spread Its Wings and Fly Into the Drone Biz",
+"url": "https://www.thedailyupside.com/industries/industrials/pentagon-urges-detroit-to-spread-its-wings-and-fly-into-the-drone-biz/",
+"pub": "2026-11-27T05:01:00+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-27T18:44:17+00:00"
+},
+{
 "id": "6a66e3fba565",
 "t": "SPCX",
 "title": "Musk Says SpaceX Leads the World “by an Order of Magnitude.” Here’s What That Means for Orbital Compute",
@@ -7934,96 +8024,6 @@
 "seen": "2026-11-26T20:28:59+00:00"
 },
 {
-"id": "291a7caed222",
-"t": "WMT",
-"title": "U.S. retailers offer Thanksgiving deals even as meal costs, turkey prices rise",
-"url": "https://finance.yahoo.com/economy/articles/u-retailers-offer-thanksgiving-deals-190718507.html",
-"pub": "2026-11-26T19:07:18+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-26T19:30:53+00:00"
-},
-{
-"id": "ea47d39220c2",
-"t": "TSLA",
-"title": "Tesla Stocks Slip 1.18% as EU Delays Self-Driving Vote to December 15",
-"url": "https://finance.yahoo.com/markets/stocks/articles/tesla-stocks-slip-1-18-190357031.html",
-"pub": "2026-11-26T19:03:57+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-26T19:30:53+00:00"
-},
-{
-"id": "b06bc084ed9f",
-"t": "TSM",
-"title": "Taiwan Semiconductor Stocks Slip 1.96% as Taiwan's Market Sinks 4.8% in Chip Rout",
-"url": "https://finance.yahoo.com/markets/stocks/articles/taiwan-semiconductor-stocks-slip-1-190319001.html",
-"pub": "2026-11-26T19:03:19+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-26T19:30:53+00:00"
-},
-{
-"id": "c4a989a3653e",
-"t": "DELL",
-"title": "BofA resets Dell stock price target by $100 after record earnings",
-"url": "https://www.thestreet.com/investing/stocks/dell-dell-technologies-bank-of-america-resets-dell-stock-price-target-by-100-after-record-q3-earnings",
-"pub": "2026-11-26T19:03:00+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-26T19:30:53+00:00"
-},
-{
-"id": "d0341272000f",
-"t": "AEM",
-"title": "Agnico Eagle Bets on Massive Gold Expansion Despite Rising Mining Costs",
-"url": "https://finance.yahoo.com/markets/commodities/articles/agnico-eagle-bets-massive-gold-190217024.html",
-"pub": "2026-11-26T19:02:17+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-26T20:28:59+00:00"
-},
-{
-"id": "1877f5314ba2",
-"t": "AAPL",
-"title": "Apple Stocks Rise as AI Selloff Spares the iPhone Maker",
-"url": "https://finance.yahoo.com/markets/stocks/articles/apple-stocks-rise-ai-selloff-190038273.html",
-"pub": "2026-11-26T19:00:38+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-26T19:30:53+00:00"
-},
-{
-"id": "ac26cf113c24",
-"t": "TSM",
-"title": "3 Top Stocks to Buy Before 2027 as Quantum Enters AI Data Centers",
-"url": "https://finance.yahoo.com/markets/stocks/articles/3-top-stocks-buy-2027-190000024.html",
-"pub": "2026-11-26T19:00:00+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-26T20:28:59+00:00"
-},
-{
-"id": "d51c09f83dfb",
-"t": "ADI",
-"title": "Analog Devices keeps UBS target despite softer earnings guidance",
-"url": "https://www.proactiveinvestors.com/companies/news/1102545/analog-devices-keeps-ubs-target-despite-softer-earnings-guidance-1102545.html",
-"pub": "2026-11-26T19:00:00+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-26T21:26:59+00:00"
-},
-{
-"id": "bf5e094e48c9",
-"t": "NVDA",
-"title": "Caterpillar's $78 Billion Backlog, Explained",
-"url": "https://www.fool.com/investing/2026/11/26/caterpillar-s-usd78-billion-backlog-explained/",
-"pub": "2026-11-26T18:57:02+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-26T19:30:53+00:00"
-},
-{
 "id": "bf7181779a47",
 "t": "",
 "title": "Turkish Foreign Minister: Mecca pact allies agreed on some principles for new additions to alliance.",
@@ -8092,6 +8092,16 @@
 "src": "WSJ",
 "kind": "market",
 "seen": "2026-11-27T17:45:35+00:00"
+},
+{
+"id": "e8249d945861",
+"t": "",
+"title": "Traders Buy the Dip as Stocks Rise on Black Friday",
+"url": "https://www.bloomberg.com/news/videos/2026-11-27/bloomberg-surveillance-11-27-2026-video",
+"pub": "2026-11-27T17:36:52+00:00",
+"src": "Bloomberg",
+"kind": "market",
+"seen": "2026-11-27T18:44:17+00:00"
 },
 {
 "id": "9ff8b08db68d",
@@ -8262,6 +8272,16 @@
 "src": "Bloomberg",
 "kind": "market",
 "seen": "2026-11-27T16:14:06+00:00"
+},
+{
+"id": "1c4ef653d3ea",
+"t": "",
+"title": "Tradr 2X Long ALAB Daily ETF (LABX.N) | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE0yaU9UOEh3MUh1aElORDlMcWVhT3hKaGg2UzY4ZVlnWHFnejEwREVKei12Rnd0RjZ4TVpkWkQyNFRvamR6YnF3YmZ1NGY4cEdxZVF3QnpxalpVRTdwNGNkZ3dFVE1MMDVfdmhOd1d3?oc=5",
+"pub": "2026-11-27T15:57:21+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-27T18:44:17+00:00"
 },
 {
 "id": "d85f266d1a09",
@@ -8492,6 +8512,16 @@
 "src": "Bloomberg",
 "kind": "market",
 "seen": "2026-11-27T15:14:26+00:00"
+},
+{
+"id": "d7a26345916b",
+"t": "",
+"title": "KMX.DG - Reuters",
+"url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1xSmZUY2ZZLVA5a1NsN0ZTS25jLU5PbXRSZEI2d1pHOVpTcXVocFZsV0EzMEtRdmJ0d20yNlVpZ19uLTZUQ0dJVWFfM0pWVDhDWHhhZHFRbnp1ZEFmc3EtbXlMd1l4cXhXTVpqd0FB?oc=5",
+"pub": "2026-11-27T14:36:21+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-27T18:44:17+00:00"
 },
 {
 "id": "fdd1358c62c6",
@@ -8744,6 +8774,26 @@
 "seen": "2026-11-27T13:28:07+00:00"
 },
 {
+"id": "da8eb04a8a5b",
+"t": "",
+"title": "30R0.D - | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNbzcwRkF4OGtQYXFtMHd0cjlIM1pKeFYtX2dKdUtGdXFqMVBTRFpWYmwtdTE2OHNBd3hray01Yk5lUGxmaWlubmdENDZlbjVrZERtVExBWGpRVU4xRVI5eXlXWDVHWTBaSnVsbW45ZmFtRTJGbjNwX1UzVk0wemJ0aU1mR2hZNDQ?oc=5",
+"pub": "2026-11-27T13:25:10+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-27T18:44:17+00:00"
+},
+{
+"id": "b9a247cdb55e",
+"t": "",
+"title": "SRV Yhtiot Oyj (B7J1.D) | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1Jdmh6LU1TUWh5dThOa2g0UHl5VjdTdmNORmpQZFNoUl9UWHF1UTdkcThTLWYtN1FHbmRrT01oOUNUMDVZLVBNT1diNFFJaDRsRjVxSGtNRHo2dWw5X3c?oc=5",
+"pub": "2026-11-27T13:20:28+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-27T18:44:17+00:00"
+},
+{
 "id": "2e8d84af08df",
 "t": "",
 "title": "El Niño, Flooding Put Squeeze on South African Fruit Producers",
@@ -8814,6 +8864,16 @@
 "seen": "2026-11-27T18:15:20+00:00"
 },
 {
+"id": "d74106449536",
+"t": "",
+"title": "UNBK.NS - Reuters",
+"url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOOFpkVlM0MEpiRXo3OUR1a3FlQ2ZQMVUxY2RyUnpJdVpEclRpVGl3dXdnVGQ1Y2JUOTFSazhtMXdlalhJSWVlVTVPREVwbVZZWTNvQXg5bEpEMk5jN2hwaW81T1BWMWpQRkdSUEVqR0JHZlY3cEU3elg3emJRWXhDMGQtdjFRVjlCWWtWM3pWaUE?oc=5",
+"pub": "2026-11-27T13:00:51+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-27T18:44:17+00:00"
+},
+{
 "id": "9f880b80e4b8",
 "t": "",
 "title": "Secured overnight financing rate 3.95% November 25th vs 3.94% November 24th",
@@ -8842,6 +8902,16 @@
 "src": "WSJ",
 "kind": "market",
 "seen": "2026-11-27T13:15:35+00:00"
+},
+{
+"id": "0db850df8aee",
+"t": "",
+"title": "Partners Value Investments LP (PVFa.V) | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBfUWZXY19fWE1xQk1OM1NVQVVVUXFvNkhXOW5OQ3ZGN1FWTzFxbFNkdFN2czBTZHNqNHhxeHVxOVJRVzFBaEM0VU9kZXFhNl9kRUJzUFZ2b2o3emdGYjdocEYzckt6Zw?oc=5",
+"pub": "2026-11-27T12:49:42+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-27T18:44:17+00:00"
 },
 {
 "id": "1d272a4a2724",
@@ -9024,6 +9094,16 @@
 "seen": "2026-11-27T12:06:59+00:00"
 },
 {
+"id": "c1d8f0945e13",
+"t": "",
+"title": "CBOE.A - | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQUzEtQ1JhUWpQa1VYelB3TldJazNSdXFXRTFUMDVBNnllT1V6Z1lkaTd0dW9QVXBjV0NQZFZTOUs3dE1ncXYtOFpnZUtkejQ4ZHBFSHdidlNjLW11RnNGb1JicE1VMnp1blZ0clNldlBYeUpiemplZTA4QzN1NDJsb2N3?oc=5",
+"pub": "2026-11-27T11:57:40+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-27T18:44:17+00:00"
+},
+{
 "id": "8c154b946ed9",
 "t": "",
 "title": "Two Chinese firms installed the high-end NVIDIA Blackwell GPUs at the Shanghai site $NVDA",
@@ -9192,6 +9272,16 @@
 "src": "Reuters",
 "kind": "market",
 "seen": "2026-11-27T14:34:12+00:00"
+},
+{
+"id": "31634436dcdd",
+"t": "",
+"title": "SM.V - | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQdHlYdFdLckdSRl8tX0tWTjdpTVNGMUNRTEZSUWVBMzZzS01Id1ZhOWljSGZPZFNjOGQtQlZYaVdiMkdPOVkxeXBFNTRlNS1zZDJfYlJNcnhzbWF2QXh1eGxjUl91UjJKUThnUjFFVEVDSWFpMVZRcmFZcnZyYmNYVERR?oc=5",
+"pub": "2026-11-27T10:57:27+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-27T18:44:17+00:00"
 },
 {
 "id": "4806c2c44e42",
@@ -10929,96 +11019,6 @@
 "title": "What’s Driving Hong Kong Home Rents to New Highs",
 "url": "https://www.bloomberg.com/news/videos/2026-11-27/what-s-driving-hong-kong-home-rents-to-new-highs-video",
 "pub": "2026-11-27T03:41:24+00:00",
-"src": "Bloomberg",
-"kind": "market",
-"seen": "2026-11-27T04:01:46+00:00"
-},
-{
-"id": "a93acbe144c8",
-"t": "",
-"title": "CNU.AX - Reuters",
-"url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9lUno3U242c1BfRENvRS0xSHYydXRKR3RmTXk2Nnc4S0ttMjZaajhCbGxsVFh1QzJpbTM0ZllacnUySXN2d3ZpdGpaMG10M3FHVVhwRnhuaHdPNHE5TFo4UGRzN0Z2eGxhaTVSeHZIWFNDek12eVJZ?oc=5",
-"pub": "2026-11-27T03:39:18+00:00",
-"src": "Reuters",
-"kind": "market",
-"seen": "2026-11-27T10:07:06+00:00"
-},
-{
-"id": "70e6e205a383",
-"t": "",
-"title": "COGNYTE SOFTWARE LTD. (81M.D) | Stock Price & Latest News - Reuters",
-"url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5pTGlMYXhvU0trcTQ3SkdHN0hOSlpzOXI5elVrV0tMNHJuMVZaYkdDZDFEcU84M1FrSkp5YVhjZDBVYU9fN2dkQ1VKOGJSdDZ3cnRRa19VTzdYT2ZH?oc=5",
-"pub": "2026-11-27T03:38:38+00:00",
-"src": "Reuters",
-"kind": "market",
-"seen": "2026-11-27T07:51:21+00:00"
-},
-{
-"id": "372af929d862",
-"t": "",
-"title": "EM Asia Stocks Set for Weekly Gain as Markets Regain Footing",
-"url": "https://www.bloomberg.com/news/articles/2026-11-27/em-asia-stocks-set-for-weekly-gain-as-markets-regain-footing",
-"pub": "2026-11-27T03:33:48+00:00",
-"src": "Bloomberg",
-"kind": "market",
-"seen": "2026-11-27T04:01:46+00:00"
-},
-{
-"id": "c34a5cda6da9",
-"t": "",
-"title": "Copper Rebounds From 11-Month Low on Return of Risk Appetite",
-"url": "https://www.bloomberg.com/news/articles/2026-11-27/copper-rebounds-from-11-month-low-on-return-of-risk-appetite",
-"pub": "2026-11-27T03:33:07+00:00",
-"src": "Bloomberg",
-"kind": "market",
-"seen": "2026-11-27T04:01:46+00:00"
-},
-{
-"id": "c51047a5ad1f",
-"t": "",
-"title": "Japan’s ‘Tokyo Drift’ Car Culture Draws Global Fans",
-"url": "https://www.bloomberg.com/news/videos/2026-11-27/japan-s-tokyo-drift-car-culture-draws-global-fans-video",
-"pub": "2026-11-27T03:18:38+00:00",
-"src": "Bloomberg",
-"kind": "market",
-"seen": "2026-11-27T04:01:46+00:00"
-},
-{
-"id": "0918d52d4314",
-"t": "",
-"title": "Truist Financial Corp (TFC_pr) | Stock Price & Latest News - Reuters",
-"url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5xQ050SVFsc0VIaDdIaGgzeF85cUF3d2ZoSmNfdWYzSWp2WDdPNW9PSVAzUnFYcW1pemZTYzRzczJ0QUdOdzdWT3hldXZLLWZSaFJEeXAxNWM0U1pQSHo0eXB3ak12dGlhTW9vYzhB?oc=5",
-"pub": "2026-11-27T03:11:42+00:00",
-"src": "Reuters",
-"kind": "market",
-"seen": "2026-11-27T07:51:21+00:00"
-},
-{
-"id": "a5b39fe8ece0",
-"t": "",
-"title": "Hangzhou IECHO Science & Technology Co Ltd (688092.SS) | Stock Price & Latest News - Reuters",
-"url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5wTUpwNkFJZTdta1F1X0thbTRrQUZvcF9WYmJES193enVia1h6THZjN1ZBLWNSTm5UdWdkODBUVkNqSjdrcXM2UGEzYmNLSkZmaFBBSS1paVBDMEctRlBfV0g4UzdhNnJwRjVyRDluLWhYZw?oc=5",
-"pub": "2026-11-27T03:00:45+00:00",
-"src": "Reuters",
-"kind": "market",
-"seen": "2026-11-27T13:44:11+00:00"
-},
-{
-"id": "85c2ad9be9c7",
-"t": "",
-"title": "DND.SG - Reuters",
-"url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOMDlPZkpiOUtpWnFqWjFmS01jZlRuU21lRURqZHRDNTVvVGZsOGxxejBXWVlUa3FlRnJ2MTNYZ0xWNWRPcE4tN21wUWstOC1yZEd1TldKd21IYUl1Q1VzTzJ2V3dRNU5wSnlIRE5jTUw0bjJQdGZwTUxKcVpPZWtydEVlX3AtZm8?oc=5",
-"pub": "2026-11-27T02:45:41+00:00",
-"src": "Reuters",
-"kind": "market",
-"seen": "2026-11-27T10:07:06+00:00"
-},
-{
-"id": "e5b8fdbcb8be",
-"t": "",
-"title": "Treasuries Retreat as Gains in Equities Sap Demand for Havens",
-"url": "https://www.bloomberg.com/news/articles/2026-11-27/treasuries-retreat-as-gains-in-equities-sap-demand-for-havens",
-"pub": "2026-11-27T02:43:08+00:00",
 "src": "Bloomberg",
 "kind": "market",
 "seen": "2026-11-27T04:01:46+00:00"
