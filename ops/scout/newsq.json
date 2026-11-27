@@ -1,6 +1,6 @@
 {
-"updated_kst": "2026-11-28 08:14",
-"rot": 57,
+"updated_kst": "2026-11-28 08:37",
+"rot": 117,
 "how": "Scout(프로그램)이 10분마다 모은 기사 제목·링크와 공시예요. Wren이 공식 출처로 확인한 뒤 회사 화면에 한국어로 반영해요. 본문은 받지 않아요.",
 "sources": {
 "Yahoo Finance": "120종목 확인 · 실패 0",
@@ -10,12 +10,32 @@
 "CNBC": "63건",
 "Bloomberg": "40건",
 "WSJ": "60건",
-"Reuters": "56건",
+"Reuters": "100건",
 "FinancialJuice": "100건",
 "SEC EDGAR": "실패 HTTPError",
 "Fox Business": "50건"
 },
 "items": [
+{
+"id": "7afbbe611e3c",
+"t": "AMZN",
+"title": "Meta’s (META) Muse Could Unlock a New Revenue Stream",
+"url": "https://finance.yahoo.com/technology/ai/articles/meta-meta-muse-could-unlock-232353308.html",
+"pub": "2026-11-27T23:23:53+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-27T23:37:01+00:00"
+},
+{
+"id": "879ee5f78bb6",
+"t": "ASML",
+"title": "Is ASML Holding (ENXTAM:ASML) Undervalued As Dutch Lawmakers Push Back On US Chip Curbs?",
+"url": "https://finance.yahoo.com/markets/stocks/articles/asml-holding-enxtam-asml-undervalued-231336088.html",
+"pub": "2026-11-27T23:13:36+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-27T23:37:01+00:00"
+},
 {
 "id": "91d4cec21b62",
 "t": "PG",
@@ -57,6 +77,16 @@
 "seen": "2026-11-27T22:14:19+00:00"
 },
 {
+"id": "8cc2c2b65305",
+"t": "COST",
+"title": "Costco (COST) Rises Yet Lags Behind Market: Some Facts Worth Knowing",
+"url": "https://finance.yahoo.com/markets/stocks/articles/costco-cost-rises-yet-lags-214503212.html",
+"pub": "2026-11-27T21:45:03+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-27T23:37:01+00:00"
+},
+{
 "id": "7a8911dd819c",
 "t": "NFLX",
 "title": "Netflix (NFLX) Beats Stock Market Upswing: What Investors Need to Know",
@@ -65,6 +95,26 @@
 "src": "Yahoo Finance",
 "kind": "news",
 "seen": "2026-11-27T23:14:15+00:00"
+},
+{
+"id": "352662170048",
+"t": "JPM",
+"title": "JPMorgan Chase & Co. (JPM) Outpaces Stock Market Gains: What You Should Know",
+"url": "https://finance.yahoo.com/markets/stocks/articles/jpmorgan-chase-co-jpm-outpaces-214502182.html",
+"pub": "2026-11-27T21:45:02+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-27T23:37:01+00:00"
+},
+{
+"id": "903f6c53341f",
+"t": "GS",
+"title": "Goldman Sachs (GS) Increases Yet Falls Behind Market: What Investors Need to Know",
+"url": "https://finance.yahoo.com/markets/stocks/articles/goldman-sachs-gs-increases-yet-214502262.html",
+"pub": "2026-11-27T21:45:02+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-27T23:37:01+00:00"
 },
 {
 "id": "f87a9fd9f247",
@@ -7974,54 +8024,14 @@
 "seen": "2026-11-27T05:12:20+00:00"
 },
 {
-"id": "73c1de5c7ec9",
-"t": "SPCX",
-"title": "SpaceX (SPCX) Balances Starlink Growth With Its AI Funding Needs",
-"url": "https://finance.yahoo.com/technology/ai/articles/spacex-spcx-balances-starlink-growth-035503007.html",
-"pub": "2026-11-27T03:55:03+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-27T05:12:20+00:00"
-},
-{
-"id": "ec62472ce815",
-"t": "SPCX",
-"title": "Amazon Lost 40 Satellites on a Boeing-Lockheed Rocket in November. SpaceX Is the Only Company That Can Fix Amazon’s Problem. Is the Stock a Buy Near $130?",
-"url": "https://www.fool.com/investing/2026/11/26/amazon-lost-40-satellites-on-a-boeing-lockheed-rocket-in-november-spacex-is-the-only-company-that-can-fix-amazon-s-problem-is-the-stock-a-buy-near-usd130/",
-"pub": "2026-11-27T03:53:02+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-27T05:12:20+00:00"
-},
-{
-"id": "77dcf4d06acc",
-"t": "AMZN",
-"title": "Can Amazon (AMZN) Turn Its AWS Growth Outlook Into Cash?",
-"url": "https://finance.yahoo.com/markets/stocks/articles/amazon-amzn-turn-aws-growth-035240906.html",
-"pub": "2026-11-27T03:52:40+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-27T04:01:46+00:00"
-},
-{
-"id": "1dc99b62435e",
-"t": "AVGO",
-"title": "Why Redburn Downgraded Broadcom (AVGO) Despite Surging AI Revenue",
-"url": "https://finance.yahoo.com/markets/stocks/articles/why-redburn-downgraded-broadcom-avgo-035057918.html",
-"pub": "2026-11-27T03:50:57+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-27T04:01:46+00:00"
-},
-{
-"id": "54426369db15",
-"t": "AMAT",
-"title": "Why Summit Insights Downgraded Applied Materials (AMAT) After Record Results",
-"url": "https://finance.yahoo.com/markets/stocks/articles/why-summit-insights-downgraded-applied-034833923.html",
-"pub": "2026-11-27T03:48:33+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-27T04:01:46+00:00"
+"id": "de656cefc5e2",
+"t": "",
+"title": "Vujcic and Kocher Hint at More ECB Rate Hiking, Kurier Reports",
+"url": "https://www.bloomberg.com/news/articles/2026-11-27/vujcic-and-kocher-hint-at-more-ecb-rate-hiking-kurier-reports",
+"pub": "2026-11-27T22:49:15+00:00",
+"src": "Bloomberg",
+"kind": "market",
+"seen": "2026-11-27T23:37:01+00:00"
 },
 {
 "id": "62eafde8e95a",
@@ -8062,6 +8072,16 @@
 "src": "Bloomberg",
 "kind": "market",
 "seen": "2026-11-27T23:14:15+00:00"
+},
+{
+"id": "bcfaba072245",
+"t": "",
+"title": "Global X Alternative Income ETF (ALTY.OQ) | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1KUzNDMkRtUnZsWFJIVmF4TGd0MEx5VGdHZ3F4anpUYm9tNEwzSWVJRGlFLXlXdzNscXdEUWRZa2piR2V0VUhBbVpkMDc0V1NPWHFvZmM0eEdFbHFWQ04yd0puelAzVDZtWUNnZ09R?oc=5",
+"pub": "2026-11-27T22:21:59+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-27T23:37:01+00:00"
 },
 {
 "id": "4d8859b6650a",
@@ -8304,6 +8324,16 @@
 "seen": "2026-11-27T22:43:58+00:00"
 },
 {
+"id": "6091dd2348ad",
+"t": "",
+"title": "J4V.F - | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE95TGZlN0hvcGxFSlRFSUpVWkhmUFM3X3NUcGJHVTAxVHZaVy1tR1JLQWRtdmY5eGhrSzhqUHBJSVVCal9vUEt3bVRXNk9KTG5xTGVnb0JCRk1UeTBlRGN5UWRaY3lMOE1ZTUlSWFpEd3dPUGZTUmZB?oc=5",
+"pub": "2026-11-27T19:55:06+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-27T23:37:01+00:00"
+},
+{
 "id": "90e6a8212d3f",
 "t": "",
 "title": "Brent Crude futures settle at $95.44/bbl, down $1.13, 1.17%.",
@@ -8412,6 +8442,16 @@
 "src": "FinancialJuice",
 "kind": "market",
 "seen": "2026-11-27T18:39:55+00:00"
+},
+{
+"id": "91873e7d0cda",
+"t": "",
+"title": "TOASO.IS - Reuters",
+"url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9xLVVWdTZKbncyaVdqUUhlRG05eVJIbl9kSFljT0ZPNEZtSS1EcHpSUlBWZnhYNkdNdzk4NHMwZVJzUWExT3ZHeFVpMDlFU0RQR1BMSk50LVN5TlBKemxyWkFMNVg2RDRFbWo0?oc=5",
+"pub": "2026-11-27T18:27:23+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-27T23:37:01+00:00"
 },
 {
 "id": "8471c84537be",
@@ -8552,6 +8592,16 @@
 "src": "FinancialJuice",
 "kind": "market",
 "seen": "2026-11-27T17:14:37+00:00"
+},
+{
+"id": "11b015285230",
+"t": "",
+"title": "CPSS.A - Reuters",
+"url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE12Ung0cDlXdl9wZ2M5OWhUVk5UdV81ZVJvc0prTEV1cy1YU3FHTlNRZzlFaTA5WXIwMktSSFFNQlMzZGZTZWdwa3d2V2lFNDdLZ01jcGphRGd4Y1BsX2FuY0lUZ0VnOFBRR3M0ZTQ4dw?oc=5",
+"pub": "2026-11-27T16:56:28+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-27T23:37:01+00:00"
 },
 {
 "id": "892415b5ea81",
@@ -9024,6 +9074,16 @@
 "seen": "2026-11-27T20:14:46+00:00"
 },
 {
+"id": "0c8d2e7459ec",
+"t": "",
+"title": "QK9.D - | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE43b3FtMEZkWV9oQjFKd29zLUtNOTI1VWo3d01Od1JOclA2WDA5YXJxV09zNlhpdlhLVy1yX3RaY3lmRGNGLWtBRXhrRWZDX1R1d2pzdm1vSWtGOGxqWXRlRVFkY1l5Qk5XblBqa2FraGh3TXBWckFv?oc=5",
+"pub": "2026-11-27T14:34:10+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-27T23:37:01+00:00"
+},
+{
 "id": "fe5626924d60",
 "t": "",
 "title": "Russia to Ban Exports of Key Staple Buckwheat to Protect Supply",
@@ -9044,6 +9104,16 @@
 "seen": "2026-11-27T14:44:45+00:00"
 },
 {
+"id": "2c439a32fed7",
+"t": "",
+"title": "KNRCau.M3 - | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1Qa1VmRHJaQ3hvc2lUYkVNazlWbkN4RWljNWV4Yl9GZWM5TVdWbUV0N3AzWGh0Z0UwdWdUeTgyWFFYQlZEY1ZzdGF2NFFBVVJpNE4xWGhWVTRya1EwSkdhUXh0akxlbVRpWmRIUVRYTk1pYzNXSUxEWU0wRDJzWjg?oc=5",
+"pub": "2026-11-27T14:30:51+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-27T23:37:01+00:00"
+},
+{
 "id": "40e172baafe3",
 "t": "",
 "title": "MOO Imbalance",
@@ -9052,6 +9122,16 @@
 "src": "FinancialJuice",
 "kind": "market",
 "seen": "2026-11-27T14:34:12+00:00"
+},
+{
+"id": "48dd12aae383",
+"t": "",
+"title": "First Trust Health Care AlphaDEX Fund (FXH.N) | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE11d2xFMXpadWNSSE1YRjVoTUgyLUN6U2Z5VTJDNFZ3bV9uYUpZdXAteENXemFaWkdGeVcwZFdLQzZFbkc2NFJPakt3bGJNcklBQmJwRzVfVmptcklvd21yaTFNYkd0cjJfamc?oc=5",
+"pub": "2026-11-27T14:22:59+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-27T23:37:01+00:00"
 },
 {
 "id": "44e4968e424f",
@@ -9314,6 +9394,16 @@
 "seen": "2026-11-27T18:44:17+00:00"
 },
 {
+"id": "909ffc65eec8",
+"t": "",
+"title": "Collective Acquisition Corp. II (CAIIU.OQ) | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB2azM2ZXpMN3RkbWp4eGdxN1k5M2t6bTZvdkxIOGdZNXA0bzZ3THlCR1JMTDFNeUxOa2pyZERqQ284cXVWYm5fMVFVTzUxN25ZcGE1VU90eGtlTXdrQWNobUUzaHRQRm5yd01iREx3?oc=5",
+"pub": "2026-11-27T13:19:48+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-27T23:37:01+00:00"
+},
+{
 "id": "2e8d84af08df",
 "t": "",
 "title": "El Niño, Flooding Put Squeeze on South African Fruit Producers",
@@ -9322,6 +9412,16 @@
 "src": "Bloomberg",
 "kind": "market",
 "seen": "2026-11-27T13:28:07+00:00"
+},
+{
+"id": "7ceb07d1f5f9",
+"t": "",
+"title": "DY8y.SG - Reuters",
+"url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOYnhJSWdaMWwxVl9WLWFUYUYzSGxQbzhROXlqNGJnb24tTzFNcThHaUpWeGRlU3RjWk0zRGVOLVFkQ1ZvU2ZjQWpwQnA5TnNaOWtUMWNualgzcGZyZ0FoU2F4MlZuMzhKMGdvYmwwWjRLU3NmTHo3TTd1N2JuY1ZSUnlzTXBHZw?oc=5",
+"pub": "2026-11-27T13:13:22+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-27T23:37:01+00:00"
 },
 {
 "id": "cdcda68c86ca",
@@ -9512,6 +9612,16 @@
 "src": "Bloomberg",
 "kind": "market",
 "seen": "2026-11-27T12:44:24+00:00"
+},
+{
+"id": "6325d6cd646a",
+"t": "",
+"title": "900934.SS - | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1remJHZ0pNVHBtY2hldkpOTXpyV3JKUXVNVExrMmVlckhONXRPLUZwSGI2WUN2cmZfMGRHdkhhMEQyTnd2Yk1rUTdxWDE1UnZYY2ZfX2R5d0FQdGRnSVQ5MUFXckxyb0M5MnBwS1hRdkxWSTF3WHFnbHdhVFg?oc=5",
+"pub": "2026-11-27T12:24:49+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-27T23:37:01+00:00"
 },
 {
 "id": "6cffdffed478",
@@ -9712,6 +9822,16 @@
 "src": "Bloomberg",
 "kind": "market",
 "seen": "2026-11-27T12:15:02+00:00"
+},
+{
+"id": "c79da904f268",
+"t": "",
+"title": "AGMa.P - | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBxcHV1UUlNVEliRXVPbFhCQ0ZYT2pTZUNTUnRvR2IzNzFXVW5DR2RPQUZPZ1d4cDJsRWlUNmZHQVZXcTFkSnhENVRxTVNtTGtjVEhvTXpnWDRDZHAxelZGSTFkcmhnRmdfQ1FNQjVRV3ZJSV9TLXcwTw?oc=5",
+"pub": "2026-11-27T11:21:50+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-27T23:37:01+00:00"
 },
 {
 "id": "5cd7b94aac0c",
@@ -10354,6 +10474,16 @@
 "seen": "2026-11-27T08:54:02+00:00"
 },
 {
+"id": "91f78eb2af3b",
+"t": "",
+"title": "Demire Deutsche Mittelstand Real Estate AG (DMRE.MU) | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5SM012QlhsRlF5dUJ3R1NBeDkyLTVHVlpIY0p6bHlldEVWMlhmYkMyM3A4dU5zc05QUFVuN21pamJNWGE2djZPNkZYQ0h2QW9ZYVJEcDRGYmp4TUU2N2NVUjhMaGJYUURjU3k3bg?oc=5",
+"pub": "2026-11-27T08:24:04+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-27T23:37:01+00:00"
+},
+{
 "id": "9207a2e593c5",
 "t": "",
 "title": "US Investors Will Have to Chase Rally: Market Analysis",
@@ -10532,6 +10662,16 @@
 "src": "Reuters",
 "kind": "market",
 "seen": "2026-11-27T08:54:02+00:00"
+},
+{
+"id": "19a50b12d310",
+"t": "",
+"title": "PKE.ZY - Reuters",
+"url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1DWjg1ZTlzWFJCck9DQ0p6VVdDcVc0U09VaEhHTDRKVUo3SGNtZTdJRGtyWXNqZFI3Q0pIY1hXVXp5cDN5VUd2dHdPMlhXLVFqV2thZ3UzZEZUcFZGVFNjX294OWNEdGRVWHhDM0pPZmhJMnhpN1cw?oc=5",
+"pub": "2026-11-27T07:49:33+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-27T23:37:01+00:00"
 },
 {
 "id": "e176790cc4f6",
@@ -10882,146 +11022,6 @@
 "src": "Reuters",
 "kind": "market",
 "seen": "2026-11-27T10:14:08+00:00"
-},
-{
-"id": "343149636b15",
-"t": "",
-"title": "Vietnam Expects to Sign US Trade Deal to Limit Tariff Hit",
-"url": "https://www.bloomberg.com/news/articles/2026-11-27/vietnam-expects-to-sign-us-trade-deal-to-limit-tariff-hit",
-"pub": "2026-11-27T06:44:25+00:00",
-"src": "Bloomberg",
-"kind": "market",
-"seen": "2026-11-27T07:51:21+00:00"
-},
-{
-"id": "2bcf6da9bc04",
-"t": "",
-"title": "CSI CONSUMER ELEC THEMATIC IDX (.CSI931494) | Stock Price & Latest News - Reuters",
-"url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBlbTVkN1NKMUIxeEZpSHRXOTlYbk5hMGdQLTNMOXVMNmVSeE9Ha2IxRFpOZ2pQcUEwcnJkdkx6U1lLLWMxMkh1WDlXVGpjbjhzZ1g4R0JmUm9mcGJEalE?oc=5",
-"pub": "2026-11-27T06:39:44+00:00",
-"src": "Reuters",
-"kind": "market",
-"seen": "2026-11-27T07:51:21+00:00"
-},
-{
-"id": "937dd8198b28",
-"t": "",
-"title": "CSI CLOUD COMPUTING BIG DATA INDEX (.CSI930851) | Stock Price & Latest News - Reuters",
-"url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5iSDhVanktV000Q2FkanVHVmVkaTR6NGc4X3hlYXdiTl9iX0ZQdTNZRm9hVW5RLThhU0xzRkxvaGdBVzh0cEV6RzQ5Rk9EbnVTUnBrd2ZDUkFSRlY0bmc?oc=5",
-"pub": "2026-11-27T06:39:44+00:00",
-"src": "Reuters",
-"kind": "market",
-"seen": "2026-11-27T08:54:02+00:00"
-},
-{
-"id": "07e19936b3ae",
-"t": "",
-"title": "SNB Interest Rate Probabilities",
-"url": "https://www.financialjuice.com/News/9870187/SNB-Interest-Rate-Probabilities.aspx?xy=rss",
-"pub": "2026-11-27T06:37:24+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-27T07:51:21+00:00"
-},
-{
-"id": "de8070be76cd",
-"t": "",
-"title": "RBNZ Interest Rate Probabilities",
-"url": "https://www.financialjuice.com/News/9870186/RBNZ-Interest-Rate-Probabilities.aspx?xy=rss",
-"pub": "2026-11-27T06:37:02+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-27T07:51:21+00:00"
-},
-{
-"id": "1d4a6ad59adb",
-"t": "",
-"title": "RBA Interest Rate Probabilities",
-"url": "https://www.financialjuice.com/News/9870185/RBA-Interest-Rate-Probabilities.aspx?xy=rss",
-"pub": "2026-11-27T06:36:46+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-27T07:51:21+00:00"
-},
-{
-"id": "216b05b678c2",
-"t": "",
-"title": "BoJ Interest Rate Probabilities",
-"url": "https://www.financialjuice.com/News/9870184/BoJ-Interest-Rate-Probabilities.aspx?xy=rss",
-"pub": "2026-11-27T06:36:26+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-27T07:51:21+00:00"
-},
-{
-"id": "8488623bb0c0",
-"t": "",
-"title": "BoC Interest Rate Probabilities",
-"url": "https://www.financialjuice.com/News/9870183/BoC-Interest-Rate-Probabilities.aspx?xy=rss",
-"pub": "2026-11-27T06:36:04+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-27T07:51:21+00:00"
-},
-{
-"id": "8cf828d4dc7c",
-"t": "",
-"title": "BoE Interest Rate Probabilities",
-"url": "https://www.financialjuice.com/News/9870182/BoE-Interest-Rate-Probabilities.aspx?xy=rss",
-"pub": "2026-11-27T06:35:45+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-27T07:51:21+00:00"
-},
-{
-"id": "d7a1af88017b",
-"t": "",
-"title": "ECB Interest Rate Probabilities",
-"url": "https://www.financialjuice.com/News/9870181/ECB-Interest-Rate-Probabilities.aspx?xy=rss",
-"pub": "2026-11-27T06:35:29+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-27T07:51:21+00:00"
-},
-{
-"id": "18fde599d957",
-"t": "",
-"title": "Fed Interest Rate Probabilities",
-"url": "https://www.financialjuice.com/News/9870180/Fed-Interest-Rate-Probabilities.aspx?xy=rss",
-"pub": "2026-11-27T06:35:07+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-27T07:51:21+00:00"
-},
-{
-"id": "fdf85eb5422e",
-"t": "",
-"title": "Commodities Implied Volatility",
-"url": "https://www.financialjuice.com/News/9870179/Commodities-Implied-Volatility.aspx?xy=rss",
-"pub": "2026-11-27T06:34:00+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-27T07:51:21+00:00"
-},
-{
-"id": "60717a887a61",
-"t": "",
-"title": "FX Implied Volatility",
-"url": "https://www.financialjuice.com/News/9870178/FX-Implied-Volatility.aspx?xy=rss",
-"pub": "2026-11-27T06:33:40+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-27T07:51:21+00:00"
-},
-{
-"id": "8441ce1e939c",
-"t": "",
-"title": "US Index Futures Implied Volatility",
-"url": "https://www.financialjuice.com/News/9870177/US-Index-Futures-Implied-Volatility.aspx?xy=rss",
-"pub": "2026-11-27T06:33:15+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-27T07:51:21+00:00"
 }
 ]
 }
