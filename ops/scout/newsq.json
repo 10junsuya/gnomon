@@ -1,6 +1,6 @@
 {
-"updated_kst": "2026-11-28 06:14",
-"rot": 55,
+"updated_kst": "2026-11-28 06:40",
+"rot": 115,
 "how": "Scout(프로그램)이 10분마다 모은 기사 제목·링크와 공시예요. Wren이 공식 출처로 확인한 뒤 회사 화면에 한국어로 반영해요. 본문은 받지 않아요.",
 "sources": {
 "Yahoo Finance": "120종목 확인 · 실패 0",
@@ -10,12 +10,62 @@
 "CNBC": "63건",
 "Bloomberg": "40건",
 "WSJ": "60건",
-"Reuters": "51건",
+"Reuters": "52건",
 "FinancialJuice": "100건",
 "SEC EDGAR": "실패 HTTPError",
 "Fox Business": "50건"
 },
 "items": [
+{
+"id": "4cbe87f19dda",
+"t": "AMKR",
+"title": "Amkor Technology (AMKR) Stock May Trade At A Discount To Its Earnings Power",
+"url": "https://finance.yahoo.com/markets/stocks/articles/amkor-technology-amkr-stock-may-211810101.html",
+"pub": "2026-11-27T21:18:10+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-27T21:40:02+00:00"
+},
+{
+"id": "ccc702464eda",
+"t": "JPM",
+"title": "Why JPMorgan Chase Fans May Look To ETFs Right Now",
+"url": "https://finance.yahoo.com/markets/options/articles/why-jpmorgan-chase-fans-may-211349086.html",
+"pub": "2026-11-27T21:13:49+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-27T21:40:02+00:00"
+},
+{
+"id": "476e2fd9cefc",
+"t": "CEG",
+"title": "Is Constellation Energy (CEG) Below Fair Value After Its $5b Asset Sale?",
+"url": "https://finance.yahoo.com/markets/stocks/articles/constellation-energy-ceg-below-fair-211346306.html",
+"pub": "2026-11-27T21:13:46+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-27T21:40:02+00:00"
+},
+{
+"id": "8d2fe5fdeb98",
+"t": "ORCL",
+"title": "Oracle is Living on a Prayer and It’s Not Even Halfway There",
+"url": "https://app.moby.co/home/news/news-oracle-is-living-on-a-prayer-and-theyre-not-even-halfway-there",
+"pub": "2026-11-27T21:12:17+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-27T21:40:02+00:00"
+},
+{
+"id": "fbc41246fe4a",
+"t": "AVGO",
+"title": "Jensen Huang Is Back. Nvidia’s (NVDA) Bull Case Remains",
+"url": "https://finance.yahoo.com/markets/stocks/articles/jensen-huang-back-nvidia-nvda-210600721.html",
+"pub": "2026-11-27T21:06:00+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-27T21:40:02+00:00"
+},
 {
 "id": "6ac3dcbe5bb3",
 "t": "PANW",
@@ -7974,54 +8024,74 @@
 "seen": "2026-11-27T04:01:46+00:00"
 },
 {
-"id": "73302cf94515",
-"t": "MU",
-"title": "Micron (MU) Has Secured $32 Billion in Customer Commitments. Here’s Why That Matters",
-"url": "https://finance.yahoo.com/markets/stocks/articles/micron-mu-secured-32-billion-031249719.html",
-"pub": "2026-11-27T03:12:49+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-27T04:01:46+00:00"
+"id": "9b67610c3a0b",
+"t": "",
+"title": "South Africa Edges Closer to Investment Grade After S&P Upgrade",
+"url": "https://www.bloomberg.com/news/articles/2026-11-27/south-africa-edges-closer-to-investment-grade-after-s-p-upgrade",
+"pub": "2026-11-27T21:24:16+00:00",
+"src": "Bloomberg",
+"kind": "market",
+"seen": "2026-11-27T21:40:02+00:00"
 },
 {
-"id": "a828bd17e61b",
-"t": "TSM",
-"title": "TSMC (TSM) Is Building a Semiconductor Moat That Rivals May Struggle to Cross",
-"url": "https://finance.yahoo.com/technology/articles/tsmc-tsm-building-semiconductor-moat-031114980.html",
-"pub": "2026-11-27T03:11:14+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-27T04:01:46+00:00"
+"id": "2d76e165be84",
+"t": "",
+"title": "France Fin. Min. Lescure: France's economic outlook is still uncertain.",
+"url": "https://www.financialjuice.com/News/9871032/France-Fin-Min-Lescure-Frances-economic-outlook-is-still-uncertain.aspx?xy=rss",
+"pub": "2026-11-27T21:20:55+00:00",
+"src": "FinancialJuice",
+"kind": "market",
+"seen": "2026-11-27T21:40:02+00:00"
 },
 {
-"id": "d595921d5cea",
-"t": "GOOGL",
-"title": "5 Best Tech Stocks to Buy for 2027 According to Hedge Funds",
-"url": "https://finance.yahoo.com/markets/stocks/articles/5-best-tech-stocks-buy-030856400.html",
-"pub": "2026-11-27T03:08:56+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-27T04:01:46+00:00"
+"id": "31953900facc",
+"t": "",
+"title": "France Fin. Min. Lescure: S&P says it is urgent to secure the budget.",
+"url": "https://www.financialjuice.com/News/9871031/France-Fin-Min-Lescure-SP-says-it-is-urgent-to-secure-the-budget.aspx?xy=rss",
+"pub": "2026-11-27T21:20:02+00:00",
+"src": "FinancialJuice",
+"kind": "market",
+"seen": "2026-11-27T21:40:02+00:00"
 },
 {
-"id": "746b538f5090",
-"t": "QCOM",
-"title": "SoftBank’s “Worst Sell-Off” Since ’08 Is Bad News for Arm. Here’s the Number That Matters",
-"url": "https://www.tikr.com/blog/softbanks-worst-sell-off-since-08-is-bad-news-for-arm-heres-the-number-that-matters",
-"pub": "2026-11-27T03:08:55+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-27T10:14:08+00:00"
+"id": "3b91a12f9658",
+"t": "",
+"title": "Hungary Credit Outlook Lifted by S&P on Budget and Euro Ambition",
+"url": "https://www.bloomberg.com/news/articles/2026-11-27/hungary-credit-outlook-lifted-by-s-p-on-budget-and-euro-ambition",
+"pub": "2026-11-27T21:19:31+00:00",
+"src": "Bloomberg",
+"kind": "market",
+"seen": "2026-11-27T21:40:02+00:00"
 },
 {
-"id": "1f0adbf0ab36",
-"t": "BABA",
-"title": "U.S. AI chip curbs stall billions in Asia data center deals, Bloomberg reports",
-"url": "https://finance.yahoo.com/technology/ai/articles/u-ai-chip-curbs-stall-030554065.html",
-"pub": "2026-11-27T03:05:54+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-27T06:20:52+00:00"
+"id": "f59c7f4f6d61",
+"t": "",
+"title": "S&P: France outlook cut to negative on budget consolidation risks; 'A+/A-1' ratings confirmed",
+"url": "https://www.financialjuice.com/News/9871030/SP-France-outlook-cut-to-negative-on-budget-consolidation-risks-AA-1-ratings-confirmed.aspx?xy=rss",
+"pub": "2026-11-27T21:18:19+00:00",
+"src": "FinancialJuice",
+"kind": "market",
+"seen": "2026-11-27T21:40:02+00:00"
+},
+{
+"id": "3772cef8df2f",
+"t": "",
+"title": "S&P revises France outlook to negative, affirms A+/A-1 ratings",
+"url": "https://www.financialjuice.com/News/9871029/SP-revises-France-outlook-to-negative-affirms-AA-1-ratings.aspx?xy=rss",
+"pub": "2026-11-27T21:18:17+00:00",
+"src": "FinancialJuice",
+"kind": "market",
+"seen": "2026-11-27T21:40:02+00:00"
+},
+{
+"id": "74ffb96cca94",
+"t": "",
+"title": "France Outlook Cut to Negative by S&P in Pre-Election Warning",
+"url": "https://www.bloomberg.com/news/articles/2026-11-27/france-outlook-cut-to-negative-by-s-p-in-pre-election-warning",
+"pub": "2026-11-27T21:17:53+00:00",
+"src": "Bloomberg",
+"kind": "market",
+"seen": "2026-11-27T21:40:02+00:00"
 },
 {
 "id": "a96f5bd9009c",
@@ -8542,6 +8612,16 @@
 "src": "Bloomberg",
 "kind": "market",
 "seen": "2026-11-27T16:14:06+00:00"
+},
+{
+"id": "70814f7dad41",
+"t": "",
+"title": "2106ol.TW - | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPYmQwVmFZek52RHlULXdTejl6NDVWREMwWV9PR3gxYTZ0cC1UNTJiVEdGUkpyNXlmWlItQUw5ejRtLUdxcVA0akNUelF1RHVsaUJnZk03TmtvX1BkOE9DRzBGVDlzbUdMWGhITVFmUkZRX2l3cE9kMEtaQmhWNDRBODJUV2tfdw?oc=5",
+"pub": "2026-11-27T15:30:31+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-27T21:40:02+00:00"
 },
 {
 "id": "d429d3d42f8c",
@@ -10942,86 +11022,6 @@
 "src": "Bloomberg",
 "kind": "market",
 "seen": "2026-11-27T07:51:21+00:00"
-},
-{
-"id": "6580d0ecf7ec",
-"t": "",
-"title": "Will the Nvidia Saga Stunt Chinese AI?",
-"url": "https://www.bloomberg.com/news/videos/2026-11-27/bloomberg-tech-asia-11-27-2026-video",
-"pub": "2026-11-27T06:10:54+00:00",
-"src": "Bloomberg",
-"kind": "market",
-"seen": "2026-11-27T07:51:21+00:00"
-},
-{
-"id": "5d28a5ddaa27",
-"t": "",
-"title": "China’s factories are growing profits again, but the AI boom is picking the winners",
-"url": "https://www.cnbc.com/2026/11/27/china-industrial-profits-october.html",
-"pub": "2026-11-27T06:09:51+00:00",
-"src": "CNBC",
-"kind": "market",
-"seen": "2026-11-27T17:45:35+00:00"
-},
-{
-"id": "61a0ff5478e6",
-"t": "",
-"title": "Russia prolongs aviation fuel export ban until March 31: IFX",
-"url": "https://www.financialjuice.com/News/9870135/Russia-prolongs-aviation-fuel-export-ban-until-March-31-IFX.aspx?xy=rss",
-"pub": "2026-11-27T06:00:23+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-27T06:20:52+00:00"
-},
-{
-"id": "85ff65645d1f",
-"t": "",
-"title": "Gold, Silver Rally as Market Sentiment Improves",
-"url": "https://www.wsj.com/finance/commodities-futures/gold-fortunes-tied-to-stocks-in-near-term-42ce98be",
-"pub": "2026-11-27T05:59:00+00:00",
-"src": "WSJ",
-"kind": "market",
-"seen": "2026-11-27T15:44:21+00:00"
-},
-{
-"id": "e5640c984c19",
-"t": "",
-"title": "Enhanced Group Inc (ENHA.N) | Stock Price & Latest News - Reuters",
-"url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1kV3dBVXlNVWJNU3hZbmZ1YjRwOHo3LVp2X29KcUxNMFhOdW93MEFTMHFXSVF5aFdEeVNYa1hfaGJNNWNMNUw1blFVRncxRjcwc0tKLUhsUHpBYjhVNEtvbXM3akhWOTZhVE5qUmZR?oc=5",
-"pub": "2026-11-27T05:54:27+00:00",
-"src": "Reuters",
-"kind": "market",
-"seen": "2026-11-27T08:54:02+00:00"
-},
-{
-"id": "666d10d5abde",
-"t": "",
-"title": "Asian Markets Rise as AI Sentiment Stabilizes",
-"url": "https://www.wsj.com/finance/asian-markets-mostly-higher-as-sentiment-stabilizes-8f998c4d",
-"pub": "2026-11-27T05:53:00+00:00",
-"src": "WSJ",
-"kind": "market",
-"seen": "2026-11-27T18:39:55+00:00"
-},
-{
-"id": "38508676edf2",
-"t": "",
-"title": "Is this a dead turkey bounce? - Reuters",
-"url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPSE5IZ1ZaakNkaEMxUmFKRGxIRHdHUGhKZXdjVkRJdXRiOXJLN1RnNmNFaEVjVVVDcGVEZTJwTjlJT1dpdTN6eDduT0NwSVpwN0c4Qzl5U3JoMFVJaWRMQ3NxMzVzZnpiRWxZQndQbmZ2SXZuTWhvaDE1OEszOUVIY2Vzaw?oc=5",
-"pub": "2026-11-27T05:33:00+00:00",
-"src": "Reuters",
-"kind": "market",
-"seen": "2026-11-27T06:20:52+00:00"
-},
-{
-"id": "13157d94fb2a",
-"t": "",
-"title": "Shares of Minimax 0100.hk rise over 17%, Z.AL 2513.hk up more than 15%",
-"url": "https://www.financialjuice.com/News/9870115/Shares-of-Minimax-0100hk-rise-over-17-ZAL-2513hk-up-more-than-15.aspx?xy=rss",
-"pub": "2026-11-27T05:32:33+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-27T06:20:52+00:00"
 }
 ]
 }
