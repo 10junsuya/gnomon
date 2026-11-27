@@ -5052,3 +5052,16 @@ Scout(소식 감지 프로그램)가 모은 기사·공시를 공식 출처로 �
 - 미국 지표: 미국 동부 11-27(금) 09:4x, 발표 없음(다음: claims 12-03·nfp 12-04) — 매크로 수집 안 돌림, 분석 모두 최신. 나에게 온 요청(RULES 0-3): 새 요청 없음. Aleph 지도: 고칠 것 없음. done 3000개(대기 목록에 없는 오래된 id 부터 자름, indent=1 그대로 저장, JSON 다시 읽어 확인). 시작 때 detached HEAD 였어서 main 으로 돌려 받았어요. 앱 다시 게시: 반영이 없어 안 함.
 - 출처: ops/scout/newsq.json · 공식 여부: 저장소
 - 확신도: 높음
+
+### W-20261128-0013-1 · 반영 · META 일본 JERA 도쿄권 발전소 옆 데이터센터 협의 (보도)
+- 시각: 2026-11-28 00:3x KST
+- 내용: 로이터(AsiaOne·Arab News 전재)가 닛케이(11-27)를 인용해 일본 최대 발전사 JERA 가 도쿄권 발전소 옆 데이터센터 건설을 앤트로픽·메타 등 미국 기술 회사와 협의 중이라고 전했어요. 가니 유키오 JERA 회장 인터뷰 기준으로 아마존·마이크로소프트·구글과도 논의 중이라고 했지만, 협의 상대로 먼저 꼽힌 곳은 앤트로픽·메타라 META 에만 넣었어요. 규모·장소·일정은 기사에 없어 넣지 않았고, 회사들은 바로 답하지 않았어요. 계약 아님(협의). Aleph 지도: JERA 가 지도 회사가 아니라 고치지 않음.
+- 출처: [로이터(AsiaOne 전재)](https://www.asiaone.com/asia/japans-jera-enters-talks-anthropic-meta-build-data-centres-nikkei-reports) · [Arab News(로이터)](https://www.arabnews.com/world/japans-jera-enters-talks-with-anthropic-meta-to-build-data-centers-nikkei-reports-3014204) · [닛케이 아시아(제목만)](https://asia.nikkei.com/business/technology/artificial-intelligence/japan-s-jera-aims-to-build-anthropic-meta-data-centers-near-power-plants) · 공식 여부: 보도
+- 확신도: 중간
+
+### W-20261128-0013-2 · 알림 · 이번 차례
+- 시각: 2026-11-28 00:3x KST
+- 내용: Scout 실행(gh, 00:14, 성공) 뒤 새 항목 48건(news 33·market 15) 모두 처리. 위 -1 반영. 건너뜀: 디웨이브 집단소송 원고 모집(법률 회사 광고성 보도자료), 트럼프 관세 '대만 칩 제외'(TIKR 해설 — USTR 11-25 발표는 시장 요약에 있음), 엔비디아 블랙웰 랙 상하이 등장(W-20261127-2113-1 과 같은 판단), 팔란티어 폴란드 계약(W-20261127-2313-1 로 반영함), 인스메드 매출 해설, 버크셔 아벨 매수·'살 만한 종목'·종목 비교·시장 조사 보고서 광고·'Without Company News'·장 시작 정리 글. market 15건(우크라이나 외교장관 휴전 발언·이란 IRGC 발언 FinancialJuice, 블룸버그 동부 폭풍 정전·셸 캐나다 투자, 로이터 시세 페이지 등)은 00시대라 done 만.
+- 미국 지표: 미국 동부 11-27(금) 10:1x, 발표 없음(다음: claims 12-03·nfp 12-04) — 매크로 수집 안 돌림, 분석 모두 최신. 나에게 온 요청(RULES 0-3): 새 요청 없음. 웹 열기 막힘: 야후(JERA 기사). done 3000개(대기 목록에 없는 오래된 id 부터 자름, indent=1 그대로 저장, JSON 다시 읽어 확인). 시작 때 detached HEAD 였어서 main 으로 돌려 받았어요.
+- 출처: ops/scout/newsq.json · 공식 여부: 저장소
+- 확신도: 높음
