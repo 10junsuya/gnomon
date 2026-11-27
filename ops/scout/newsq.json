@@ -1,11 +1,11 @@
 {
-"updated_kst": "2026-11-27 19:44",
-"rot": 105,
+"updated_kst": "2026-11-27 20:03",
+"rot": 165,
 "how": "Scout(프로그램)이 10분마다 모은 기사 제목·링크와 공시예요. Wren이 공식 출처로 확인한 뒤 회사 화면에 한국어로 반영해요. 본문은 받지 않아요.",
 "sources": {
-"Yahoo Finance": "120종목 확인 · 실패 0",
+"Yahoo Finance": "119종목 확인 · 실패 1",
 "GlobeNewswire": "실패 HTTPError",
-"PR Newswire": "4건",
+"PR Newswire": "1건",
 "Business Wire": "0건",
 "CNBC": "63건",
 "Bloomberg": "40건",
@@ -17,6 +17,46 @@
 },
 "items": [
 {
+"id": "f71d6d999ebc",
+"t": "NVDA",
+"title": "Singapore Reportedly In Talks With US To Retain Advanced AI Chip Access As Washington Tightens Export Restrictions",
+"url": "https://stocktwits.com/news-articles/markets/equity/singapore-reportedly-in-talks-with-us-to-retain-advanced-ai-chip-access-as-washington-tightens-export-restrictions/cNbCpMoR9No",
+"pub": "2026-11-27T10:54:14+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-27T11:03:19+00:00"
+},
+{
+"id": "c66e4ff9ec9b",
+"t": "NVDA",
+"title": "Warren Buffett Wrote in February 2009 That He Buys Stocks Like Socks, When They're Marked Down. The S&P 500 Gained 50% During the Next Year.",
+"url": "https://www.fool.com/investing/2026/11/27/warren-buffett-wrote-in-february-2009-that-he-buys-stocks-like-socks-when-they-re-marked-down-the-s-and-p-500-gained-50-over-the-next-year/",
+"pub": "2026-11-27T10:50:02+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-27T11:03:19+00:00"
+},
+{
+"id": "8ec154e3a649",
+"t": "GILD",
+"title": "Hetero starts lenacapavir rollout for HIV prevention in Africa",
+"url": "https://www.hospitalmanagement.net/news/hetero-generic-lenacapavir-rollout-hiv-africa/",
+"pub": "2026-11-27T10:46:05+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-27T11:03:19+00:00"
+},
+{
+"id": "9cf52de90672",
+"t": "NVDA",
+"title": "Anthropic’s Lock-Up Expirations Start Dec. 15. Here’s What Investors Should Know Before Then.",
+"url": "https://www.fool.com/investing/2026/11/27/anthropic-s-lock-up-expirations-start-dec-15-here-s-what-investors-should-know-before-then/",
+"pub": "2026-11-27T10:44:02+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-27T11:03:19+00:00"
+},
+{
 "id": "95fb09853b9e",
 "t": "NVDA",
 "title": "NVIDIA Corporation Sued for Securities Law Violations - Contact the DJS Law Group to Discuss Your Rights - NVDA",
@@ -26,6 +66,26 @@
 "kind": "news",
 "orig": true,
 "seen": "2026-11-27T10:44:09+00:00"
+},
+{
+"id": "629045315501",
+"t": "NVDA",
+"title": "Does Bill Ackman Know Something Wall Street Doesn't? The Billionaire Investor Keeps Buying a Tech Stock That's Now Down 44% Over the Past Year.",
+"url": "https://www.fool.com/investing/2026/11/27/does-bill-ackman-know-something-wall-street-doesn-t-the-billionaire-investor-keeps-buying-a-tech-stock-down-44-over-the-past-year/",
+"pub": "2026-11-27T10:40:02+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-27T11:03:19+00:00"
+},
+{
+"id": "492ee4d7c3cd",
+"t": "TSLA",
+"title": "Electric Vehicles Today - Driving Forward: Innovations in Pedestrian Safety Systems",
+"url": "https://finance.yahoo.com/technology/articles/electric-vehicles-today-driving-forward-103921382.html",
+"pub": "2026-11-27T10:39:21+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-27T11:03:19+00:00"
 },
 {
 "id": "17dfa5198c6a",
@@ -149,6 +209,16 @@
 "kind": "news",
 "orig": true,
 "seen": "2026-11-27T10:07:06+00:00"
+},
+{
+"id": "546e7c39226d",
+"t": "TSLA",
+"title": "Tesla’s Robotaxi Promises “More Cars, Less $” as Its Dallas Zone Grows 83.5%",
+"url": "https://www.tikr.com/blog/teslas-robotaxi-promises-more-cars-less-as-its-dallas-zone-grows-83-5",
+"pub": "2026-11-27T09:35:31+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-27T11:03:19+00:00"
 },
 {
 "id": "c50dcbcce73c",
@@ -7956,74 +8026,24 @@
 "seen": "2026-11-26T03:44:34+00:00"
 },
 {
-"id": "d62181460eca",
-"t": "TSLA",
-"title": "Mark Cuban Says the Most Common Mistake He Saw Founders Make on 'Shark Tank' Was a Job They Kept Handing Off: 'You're Going to Fail'",
-"url": "https://finance.yahoo.com/small-business/articles/mark-cuban-says-most-common-033007508.html",
-"pub": "2026-11-26T03:30:07+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-26T04:44:11+00:00"
+"id": "c028ee5b2b6c",
+"t": "",
+"title": "Hackers have breached the US Air Force's flagship Cloud One computing platform - Sources",
+"url": "https://www.financialjuice.com/News/9870448/Hackers-have-breached-the-US-Air-Forces-flagship-Cloud-One-computing-platform---Sources.aspx?xy=rss",
+"pub": "2026-11-27T11:00:26+00:00",
+"src": "FinancialJuice",
+"kind": "market",
+"seen": "2026-11-27T11:03:19+00:00"
 },
 {
-"id": "6f99c0b9c40d",
-"t": "NVDA",
-"title": "Trump admin weighed using Cold War law to reinstate Nvidia CEO Huang, WaPo reports",
-"url": "https://finance.yahoo.com/technology/articles/trump-admin-weighed-using-cold-032247551.html",
-"pub": "2026-11-26T03:22:47+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-26T03:34:03+00:00"
-},
-{
-"id": "4dfd13866436",
-"t": "VRTX",
-"title": "Dow, S&P 500, Nasdaq Futures Edge Higher As Tech Rebounds After Selloff: DIS, VRTX, DE, CHTR In Focus",
-"url": "https://stocktwits.com/news-articles/markets/equity/dow-s-and-p-500-nasdaq-futures-edge-higher-as-tech-rebounds-after-selloff-dis-vrtx-de-chtr-in-focus/cNbxeL0R9ZE",
-"pub": "2026-11-26T03:14:36+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-26T03:34:03+00:00"
-},
-{
-"id": "de2b1f7b79b6",
-"t": "NVDA",
-"title": "Nvidia chips reach Chinese-owned U.S. firms despite export curbs, CBS reports",
-"url": "https://finance.yahoo.com/technology/ai/articles/nvidia-chips-reach-chinese-owned-031146505.html",
-"pub": "2026-11-26T03:11:46+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-26T03:34:03+00:00"
-},
-{
-"id": "e3934f0cca62",
-"t": "NVDA",
-"title": "Kioxia and NVIDIA Collaborate to Expand Effective High-Bandwidth Memory Capacity with SSDs",
-"url": "https://finance.yahoo.com/technology/ai/articles/kioxia-nvidia-collaborate-expand-effective-031000587.html",
-"pub": "2026-11-26T03:10:00+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-26T03:14:26+00:00"
-},
-{
-"id": "a0364e43f801",
-"t": "NVDA",
-"title": "Is Nvidia Stock a Buy After Dell's Record AI Backlog?",
-"url": "https://www.fool.com/investing/2026/11/25/is-nvidia-stock-a-buy-after-dell-s-record-ai-backlog/",
-"pub": "2026-11-26T03:07:02+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-26T03:34:03+00:00"
-},
-{
-"id": "943aee1403b0",
-"t": "NVDA",
-"title": "‘Trump Put’ Protects Nvidia Growth Through 2028, Says Gary Black as NVDA Stock Trades at Cheapest Valuation in 10 Years",
-"url": "https://finance.yahoo.com/markets/stocks/articles/trump-put-protects-nvidia-growth-030625717.html",
-"pub": "2026-11-26T03:06:25+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-26T04:44:11+00:00"
+"id": "f4f28d1325bf",
+"t": "",
+"title": "Slow bird flu season offers relief for Europe's poultry sector - Reuters",
+"url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOdlBESmduYzFidzlERUxPLXFVblpiUTVYbTdxUGNHYXdOakR0cE9aYzI0VkdhVEh4U3M1cVVtbU5PRHhmY1ZmMURoWHFxbDMtR0swa1ZUdDJyZVBRcHhaaWZ5ZFJjeFpINFBCc2ZMTUtoMFV5d3lZUEdTV3JsUjF4S3JBbXBhSjVDLVZOMXF5U0xsV3dmLXVIUjVQejNJLUEzNGJudXRGSDdzMktwUDh6Q0lmVQ?oc=5",
+"pub": "2026-11-27T10:47:58+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-27T11:03:19+00:00"
 },
 {
 "id": "f0223e2b287d",
@@ -8536,6 +8556,16 @@
 "seen": "2026-11-27T08:54:02+00:00"
 },
 {
+"id": "119c0ad2a292",
+"t": "",
+"title": "L&G EM Govt Bd (USD) 0-5 Y Scrnd UCITS ETF USD Dis (EMA5.DE) | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE04MkhBdkthVHl1djBOZ09GQkNQQTJ3eHJYdzIzSVI5UkgxX2hfbnNFMXJxMUQwMm9RSXNnT3NzYXVNUXR5Tkl3bE0wdk0zNXl5WjNGcl85b2l0enNzSDdj?oc=5",
+"pub": "2026-11-27T07:57:29+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-27T11:03:19+00:00"
+},
+{
 "id": "e4bbbf9cec2b",
 "t": "",
 "title": "US Stocks Set to Bounce as Risk Appetite Returns After Holiday",
@@ -8766,6 +8796,16 @@
 "seen": "2026-11-27T10:14:08+00:00"
 },
 {
+"id": "b4952d3cbb22",
+"t": "",
+"title": "94P.F - | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5aUmNEcmRyUnV5eDd1Q1RMbE5WV1dLYnJlQThSSVp1OGZtS3JjNjg3dm9vdGctdTJ6Z1o5MWZpeXMzeWZ6NzVqWmh0cmhubTNFdENVZngxTm52SEFLQ1NEaDVvTWdReF9ScXg0Uk1laFNMakRtclRn?oc=5",
+"pub": "2026-11-27T07:04:47+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-27T11:03:19+00:00"
+},
+{
 "id": "cc7c0207e0ab",
 "t": "",
 "title": "Norwegian Unemployment Rate NSA Actual 2.0% (Forecast -, Previous 2.0%)",
@@ -8824,6 +8864,16 @@
 "src": "Bloomberg",
 "kind": "market",
 "seen": "2026-11-27T07:51:21+00:00"
+},
+{
+"id": "981d7fc3754d",
+"t": "",
+"title": "Spain’s Pablo Hernández de Cos set to lead European Central Bank",
+"url": "https://www.cnbc.com/2026/11/26/pablo-hernandez-de-cos-ecb-president.html",
+"pub": "2026-11-27T06:50:38+00:00",
+"src": "CNBC",
+"kind": "market",
+"seen": "2026-11-27T11:03:19+00:00"
 },
 {
 "id": "ce0d6077d5f8",
@@ -9356,6 +9406,16 @@
 "seen": "2026-11-27T05:12:20+00:00"
 },
 {
+"id": "f701274c8edd",
+"t": "",
+"title": "2332.JSFx - | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9hSDJhSFNZMnR5eWtFMjc4UG9iZTFnVE9rSk8xZ3dFSkVNMXJRVDRvWlhGd3FqNTdNbGhXSmZER3RiYnl0ZWQtUVF1TFVFY1Vzc0UtcGd1Tkt6Z3ZSYkhRQmlmWElkNXV1c3BITXJxcFZfdDE2Qk1UZnJONA?oc=5",
+"pub": "2026-11-27T04:07:29+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-27T11:03:19+00:00"
+},
+{
 "id": "dcb8b131651b",
 "t": "",
 "title": "TRAPETUN91A5.TRXA%5EG21 - | Stock Price & Latest News - Reuters",
@@ -9524,6 +9584,16 @@
 "src": "Reuters",
 "kind": "market",
 "seen": "2026-11-27T08:54:02+00:00"
+},
+{
+"id": "f73e419b6810",
+"t": "",
+"title": "Stallion Uranium Corp (STLNF.PK) | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBOdWoxU183ekN1QUxwOXRDYmtlS0dJNHdtQTlCRlFBQ29NSHRxTmt6UXVIamNZa250TWhjOUFjZEJEU2NOdGo2alNJSzNheFlSRkdqX0lPckFQSjNfNnFqTUJYV2x5QS1SZmc?oc=5",
+"pub": "2026-11-27T02:38:39+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-27T11:03:19+00:00"
 },
 {
 "id": "5afacb54b0c6",
@@ -9876,6 +9946,16 @@
 "seen": "2026-11-27T00:30:00+00:00"
 },
 {
+"id": "127ceea1f6c8",
+"t": "",
+"title": "ICC International PCL (ICC_n.BK) | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE96ZndHOGlMVFdOR3dPT08yRjFGMGo3YklVOEFFZHdNdFpua09rdGhqX3YzX2xmZjBPVHllamR4VmppOTZhTkRjUnVPSWs0dHpkYjFwRDVoNVNuWWE3Q0RQc3JZTDFnVmItQ1RWWWZR?oc=5",
+"pub": "2026-11-27T00:10:49+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-27T11:03:19+00:00"
+},
+{
 "id": "5f0bad9317ca",
 "t": "",
 "title": "China Tech’s Earnings Offer Little Relief in Worst-Ever Year",
@@ -10064,6 +10144,16 @@
 "src": "Bloomberg",
 "kind": "market",
 "seen": "2026-11-26T23:29:54+00:00"
+},
+{
+"id": "1b451b0a05b6",
+"t": "",
+"title": "AKR Corporindo Tbk PT (AKRA.SG) | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFAtNFRjamlFMEJkckRhWHk3UWhlamI5Q3dSbXhUWUowR01ENk0yTHdkYTgtV2xBNUJPTlVHSjhtTXBlSDlGQkpFN0k1LVFlUE1LamVmeFZPMGdFWHdWdWpn?oc=5",
+"pub": "2026-11-26T23:17:27+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-27T11:03:19+00:00"
 },
 {
 "id": "377bee196763",
@@ -10934,96 +11024,6 @@
 "src": "Bloomberg",
 "kind": "market",
 "seen": "2026-11-26T16:28:36+00:00"
-},
-{
-"id": "a2afe111b1a6",
-"t": "",
-"title": "Euro Stays Slightly Higher After Europe Picks New ECB Chief",
-"url": "https://www.wsj.com/finance/currencies/asian-currencies-consolidate-but-risk-off-sentiment-might-weigh-13bdefa1",
-"pub": "2026-11-26T15:12:00+00:00",
-"src": "WSJ",
-"kind": "market",
-"seen": "2026-11-26T20:28:59+00:00"
-},
-{
-"id": "6c8ca329b52f",
-"t": "",
-"title": "Bawag’s €1.6 Billion PTSB Deal Rejected by Irish High Court",
-"url": "https://www.bloomberg.com/news/articles/2026-11-26/irish-high-court-refuses-to-approve-bawag-s-ptsb-deal",
-"pub": "2026-11-26T15:09:23+00:00",
-"src": "Bloomberg",
-"kind": "market",
-"seen": "2026-11-26T17:29:32+00:00"
-},
-{
-"id": "0cb17b518431",
-"t": "",
-"title": "Mexican Peso Sees Worst Losing Streak Since 2021 on Carry Unwind",
-"url": "https://www.bloomberg.com/news/articles/2026-11-26/mexican-peso-sees-worst-losing-streak-since-2021-on-carry-unwind",
-"pub": "2026-11-26T15:07:52+00:00",
-"src": "Bloomberg",
-"kind": "market",
-"seen": "2026-11-26T15:14:25+00:00"
-},
-{
-"id": "9e18d94802bc",
-"t": "",
-"title": "RGA.TH - Reuters",
-"url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQcncxLW8wU2JENjNaTm02em4zb25sbURhX0VEbFZOc1ZwelVXeGVTQThnb2J5Yk41Qjd0REFBQlpFZV9ocV9nM2l4NXRqNmgyWFpNVXF5M3M4UDBHeFh5LWZoaFZpQlZUNmR2RmVKQW8tMS1vRENhVElfLXZ0XzZGY01CeW5JSDA?oc=5",
-"pub": "2026-11-26T15:05:24+00:00",
-"src": "Reuters",
-"kind": "market",
-"seen": "2026-11-26T22:29:32+00:00"
-},
-{
-"id": "be35fdf89998",
-"t": "",
-"title": "37130.KS%5EJ97 - | Stock Price & Latest News - Reuters",
-"url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQOGRRMVRTdThmRVZDcFktR3pTVDN5MTJTdWlXV1hmY2JVRW91WHl1aHp5ZjdxbnE2M0xUWklrWEJRUVZKckpyOXc4dm9QdDkwdi1feVlsWjNHTm4taG55dlA3NUh2cV9tcGdfYWJIaVJfb1M3UzZnSmFZcXktUjNBd1F1WnR6ckl3UmFBN0FCdw?oc=5",
-"pub": "2026-11-26T15:04:53+00:00",
-"src": "Reuters",
-"kind": "market",
-"seen": "2026-11-26T18:22:06+00:00"
-},
-{
-"id": "73f807abe2dc",
-"t": "",
-"title": "Latvia Backs Air Baltic Guarantee as it Searches for Investor",
-"url": "https://www.bloomberg.com/news/articles/2026-11-26/latvia-backs-air-baltic-guarantee-as-it-searches-for-investor",
-"pub": "2026-11-26T15:03:53+00:00",
-"src": "Bloomberg",
-"kind": "market",
-"seen": "2026-11-26T16:28:36+00:00"
-},
-{
-"id": "c3a05436b5e9",
-"t": "",
-"title": "Office Properties Income Trust (OPI.OQ) | Stock Price & Latest News - Reuters",
-"url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5sWUJ6aW0wY0g3dnR5S1Fzb2h5YTUwVFpka3BDdDdZSUlQMXREN0pDdkFjdDVOcTl4MXVpNnZqM1RRSG1nN3lFQnJrdktLMEhHLXQ4ODhDbk96Wm1OdnpZZmdYeTd2aDh0ZjNTU0x3?oc=5",
-"pub": "2026-11-26T15:02:58+00:00",
-"src": "Reuters",
-"kind": "market",
-"seen": "2026-11-26T19:30:53+00:00"
-},
-{
-"id": "b38d2c50b43f",
-"t": "",
-"title": "Traton SE (8TRA.DE) | Stock Price & Latest News - Reuters",
-"url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5XWjRjU1R0YXFHc1lWdGw4Q2oxNGh4dldiQ1BUVkRSZkdtcUs1SW9qLTExQTctbGxEMnFQbUF0UGhqUnpMRmRlSWNIZUItVDZqRDBQSkNwQ05PTVVKUWRr?oc=5",
-"pub": "2026-11-26T15:01:44+00:00",
-"src": "Reuters",
-"kind": "market",
-"seen": "2026-11-26T17:29:32+00:00"
-},
-{
-"id": "bd07919d018e",
-"t": "",
-"title": "US Marlboro maker Altria explores Imperial Brands takeover in Big Tobacco mega deal - Reuters",
-"url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNYjc1S044enVDVHpleXVSM2YwME5kOGM4azBiSF9QNVc1Q2MyYmNRVFNJZ1p1dFVSOXdKTGxqYi1pU1dhdzcycGQ0dm5pN1NaRmZUendRME9GRVFfNHluZ0pUZkpsc0xLX1pNb1ZFdEk0TU8yTjZxbklUbC04ZkNJbWt6V21qUEowclUwME5KY1ZfUlVXaUlPQm9faDZPVzB4clJfZkFLekxaQVNWaldMT0ZwSFl3LVYwblRiaXYzNEt3dzBMck1WUkp1QQ?oc=5",
-"pub": "2026-11-26T15:00:57+00:00",
-"src": "Reuters",
-"kind": "market",
-"seen": "2026-11-26T15:14:25+00:00"
 }
 ]
 }
