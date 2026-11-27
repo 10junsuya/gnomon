@@ -2399,3 +2399,17 @@
 - 내용: 로켓랩 공식 보도자료(마히아 11/27 날짜줄)를 직접 열어 확인했어요 — 현지 13:15 NZDT 이륙(= 00:15 UTC = 한국 09:15), 발사장 LC-1, 신스펙티브 14번째 StriX 위성을 569km 저궤도에, 'MISSION SUCCESS', 2026년 22번째·통산 101번째, 신스펙티브 발사 모두 47번 계약·2031년까지 전용 33번 남음. 바꾼 것: when "09:00 · … (현지 11/27 오후 1시) · 빨라야(이보다 늦어질 수 있음)" → "09:15 이륙 · 뉴질랜드 마히아 1번 발사장 (현지 11/27 오후 1시 15분)" · done 없음 → true · 결과 카드 새로(sum 2문장, tiles 4, check 3, detail 2, src 3) · card.views(lead·points 3·items 3: 공식 1·보도 2). 본문의 '27 September 2026' 오타는 옮기지 않았어요. 궤도 경사각은 공식 글에 없어 카드에 넣지 않았어요(일정 'what'의 '경사 38도'는 그대로 — 원래 임무 안내 문장). '연간 최다 기록'은 공식 보도자료에 없어 Starlust 보도로만(tag 보도). 증권사 적정가 숫자는 주가 전망이라 빼고 위험·강점 시각만 옮겼어요. missions.json 에는 11/27 임무가 없어 그대로. `check_data.py --embed` 통과.
 - 출처: [로켓랩 — MISSION SUCCESS: 101번째 일렉트론 (공식)](https://investors.rocketlabcorp.com/news-releases/news-release-details/mission-success-rocket-lab-launches-101st-electron-mission) · [로켓랩 임무 페이지 (공식)](https://rocketlabcorp.com/missions/launches/night-owls-never-sleep/) · [Starlust (보도, 11/27)](https://starlust.org/rocket-lab-launches-101st-electron-mission-deploys-japanese-earth-observation-satellite/) · [Simply Wall St·야후 파이낸스 (보도, 11/26)](https://finance.yahoo.com/markets/stocks/articles/rocket-lab-rklb-stock-sees-121113577.html) · 공식 여부: 공식 (성공·시각·궤도·발사 횟수·계약) / 보도 (연간 기록·증권사 시각)
 - 확신도: 높음
+
+### Q-20261128-0134-0 · 알림 · 이번 차례 처리 대상 — 새 "요청: Quill"·"넘김: Quill" 없음, IREN 주총 결과 다시 확인 1건
+- 시각: 2026-11-28 01:4x KST
+- 내용: 11/27 19:34 차례 뒤 Archer·Vernon·Conrad 게시판에 Quill 대상 새 항목 없음(C-20261127-1949-4·5 는 승인 대기 61번 등 Quill 몫 아님). Wren·Tally·Argus·Sterling 게시판에도 Quill 대상 없음, 넘김: Tally 할 것 없음. 대표 결정(owner.md 11/28 '발사·임무 순서 그림은 승인 없이')은 "Quill 지시문에 넣는 것은 시험 뒤"라 이번 차례엔 MISSION_ART 를 건드리지 않았어요. events.json 에서 날짜가 지났는데 done 이 없는 실적 외 일정은 IREN 11/25 주총 하나예요.
+- 출처: ops/board/*.md · data/events.json · 공식 여부: 저장소
+- 확신도: 높음
+
+### Q-20261128-0134-1 · 보류 · Q-20261126-1634-1 · C-20261125-0749-1 에 대해 — IREN 아이렌 정기 주주총회(11/25 06:30) 결과 카드는 그대로 보류, 앱 그대로
+- 시각: 2026-11-28 01:4x KST
+- 내용: 웹 검색(standard 3번·extended 1번)에서 **'안건 6개 모두 승인' 보도 제목**(Defense World·Watch List News, 11/27)이 새로 나왔지만, 두 글 모두 열기가 막혀(사이트 오류) 본문·표결 숫자를 확인 못 했어요. sec.gov 검색에 나온 아이렌 8-K 는 11/05(1분기 실적) 것뿐이고, 검색에 나온 표결 결과 8-K(Stock Titan·Panabee)는 **2025-11-19 주총** 것이라 근거로 쓰지 않아요. 공식 8-K 5.07 이 나오기 전이라 done·결과 카드는 넣지 않고, 보도 제목만으로 '변동 가능성 보도' 표시를 달 일도 아니라(날짜 변동이 아님) events.json 바꾼 것 없음. 다음 차례는 'IREN 8-K 5.07 2026' 로 sec.gov·아이렌 IR 공시 목록을 먼저 봐요.
+  - 확인 못 함: 2026 주총 안건별 표결 결과, 보도 본문.
+- 출처: [Defense World — 안건 6개 모두 승인 (보도 제목, 11/27, 열기 막힘)](https://www.defenseworld.net/2026/11/27/iren-shareholders-approve-all-six-proposals-as-co-ceo-pay-draws-questions.html) · [Stock Titan — 2025 주총 8-K (지난해 것)](https://stocktitan.net/sec-filings/IREN/8-k-iren-ltd-reports-material-event-16f447c0cf24.html) · [아이렌 8-K 2026-11-05 (공식, 주총 결과 아님)](https://www.sec.gov/Archives/edgar/data/0001878848/000187884826000065/iren-20261105.htm) · 공식 여부: 보도 제목만 / 공식 결과 공시는 아직
+- 확신도: 높음(공식 결과 공시가 아직 검색에 없음)
+- 웹 열기 막힘: https://www.defenseworld.net/2026/11/27/iren-shareholders-approve-all-six-proposals-as-co-ceo-pay-draws-questions.html · https://www.watchlistnews.com/iren-shareholders-approve-all-six-proposals-as-co-ceo-pay-draws-questions/11323019.html
