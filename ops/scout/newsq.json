@@ -1,6 +1,6 @@
 {
-"updated_kst": "2026-11-28 05:44",
-"rot": 174,
+"updated_kst": "2026-11-28 06:14",
+"rot": 55,
 "how": "Scout(프로그램)이 10분마다 모은 기사 제목·링크와 공시예요. Wren이 공식 출처로 확인한 뒤 회사 화면에 한국어로 반영해요. 본문은 받지 않아요.",
 "sources": {
 "Yahoo Finance": "120종목 확인 · 실패 0",
@@ -10,12 +10,82 @@
 "CNBC": "63건",
 "Bloomberg": "40건",
 "WSJ": "60건",
-"Reuters": "55건",
+"Reuters": "51건",
 "FinancialJuice": "100건",
 "SEC EDGAR": "실패 HTTPError",
 "Fox Business": "50건"
 },
 "items": [
+{
+"id": "6ac3dcbe5bb3",
+"t": "PANW",
+"title": "Your Palo Alto Networks Thesis Has One Loose End",
+"url": "https://www.trefis.com/stock/panw/articles/629398/your-palo-alto-networks-thesis-has-one-loose-end/2026-11-27",
+"pub": "2026-11-27T20:46:30+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-27T21:14:55+00:00"
+},
+{
+"id": "6f2802139a51",
+"t": "AAPL",
+"title": "AI Chip Stocks Swung Wildly—While Warren Buffett’s Apple Climbed 26%",
+"url": "https://finance.yahoo.com/markets/stocks/articles/ai-chip-stocks-swung-wildly-204129003.html",
+"pub": "2026-11-27T20:41:29+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-27T21:14:55+00:00"
+},
+{
+"id": "3ffc221e3609",
+"t": "VST",
+"title": "Has Vistra Changed What You Own?",
+"url": "https://www.trefis.com/stock/vst/articles/629395/has-vistra-changed-what-you-own/2026-11-27",
+"pub": "2026-11-27T20:40:13+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-27T21:14:55+00:00"
+},
+{
+"id": "9d40b4ebc8f8",
+"t": "MA",
+"title": "Every Holiday Swipe Pays a Toll—And These 2 Buffett Stocks Own It",
+"url": "https://finance.yahoo.com/markets/stocks/articles/every-holiday-swipe-pays-toll-203908999.html",
+"pub": "2026-11-27T20:39:08+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-27T21:14:55+00:00"
+},
+{
+"id": "5f529aa2b333",
+"t": "MRNA",
+"title": "Have You Already Missed Moderna Stock's Run?",
+"url": "https://www.trefis.com/stock/mrna/articles/629406/have-you-already-missed-moderna-stock-s-run/2026-11-27",
+"pub": "2026-11-27T20:36:02+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-27T21:14:55+00:00"
+},
+{
+"id": "36df362644c6",
+"t": "FLY",
+"title": "How Much Time Does Firefly's Cash Buy?",
+"url": "https://www.trefis.com/stock/fly/articles/629204/how-much-time-does-firefly-s-cash-buy/2026-11-27",
+"pub": "2026-11-27T20:35:43+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-27T21:14:55+00:00"
+},
+{
+"id": "d38217229825",
+"t": "APLD",
+"title": "Applied Digital Has Over $41 Billion in Leases but Needs Billions to Build",
+"url": "https://finance.yahoo.com/technology/ai/articles/applied-digital-over-41-billion-202949598.html",
+"pub": "2026-11-27T20:29:49+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-27T21:14:55+00:00"
+},
 {
 "id": "c3b0a1f973b7",
 "t": "IREN",
@@ -7954,74 +8024,64 @@
 "seen": "2026-11-27T06:20:52+00:00"
 },
 {
-"id": "51b7180a3f8b",
-"t": "SKHY",
-"title": "Asian stocks mostly rise as markets calm after tech rout",
-"url": "https://finance.yahoo.com/markets/world-indices/articles/asian-stocks-mostly-rise-markets-025702679.html",
-"pub": "2026-11-27T02:57:02+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-27T05:12:20+00:00"
+"id": "a96f5bd9009c",
+"t": "",
+"title": "S&P: France's real GDP growth is likely to remain subdued in 2027 after two consecutive years of weak economic performance.",
+"url": "https://www.financialjuice.com/News/9871023/SP-Frances-real-GDP-growth-is-likely-to-remain-subdued-in-2027-after-two-consecutive-years-of-weak-economic-performance.aspx",
+"pub": "2026-11-27T21:14:55+00:00",
+"src": "FinancialJuice",
+"kind": "market",
+"seen": "2026-11-27T21:14:55+00:00"
 },
 {
-"id": "29bc3a0d8647",
-"t": "MO",
-"title": "Japan Tobacco shares surge on report of Imperial Brands takeover",
-"url": "https://finance.yahoo.com/markets/stocks/articles/japan-tobacco-shares-surge-report-025249524.html",
-"pub": "2026-11-27T02:52:49+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-27T05:12:20+00:00"
+"id": "234fb843989b",
+"t": "",
+"title": "S&P on France: Sees a high risk that political fragmentation will persist after the 2027 presidential election, continuing to constrain policy effectiveness.",
+"url": "https://www.financialjuice.com/News/9871022/SP-on-France-Sees-a-high-risk-that-political-fragmentation-will-persist-after-the-2027-presidential-election-continuing-to-constrain-policy-effectiveness.aspx",
+"pub": "2026-11-27T21:14:28+00:00",
+"src": "FinancialJuice",
+"kind": "market",
+"seen": "2026-11-27T21:14:55+00:00"
 },
 {
-"id": "3a32c10aa089",
-"t": "AMD",
-"title": "Eric Trump-Backed Robot Startup’s Employees Lose Health Insurance After Weeks Without Pay as Company Scrambles for $150 Million Lifeline: Report",
-"url": "https://finance.yahoo.com/healthcare/articles/eric-trump-backed-robot-startup-023005325.html",
-"pub": "2026-11-27T02:30:05+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-27T04:01:46+00:00"
+"id": "e1aa10426808",
+"t": "",
+"title": "S&P: France Outlook changed from Stable to Negative.",
+"url": "https://www.financialjuice.com/News/9871021/SP-France-Outlook-changed-from-Stable-to-Negative.aspx",
+"pub": "2026-11-27T21:13:52+00:00",
+"src": "FinancialJuice",
+"kind": "market",
+"seen": "2026-11-27T21:14:55+00:00"
 },
 {
-"id": "0c042c2e8978",
-"t": "WMT",
-"title": "Forget Walmart: Nike Has More to Lose From Vietnam’s Proposed Tariff of Up to 35%",
-"url": "https://www.tikr.com/blog/forget-walmart-nike-has-more-to-lose-from-vietnams-proposed-tariff-of-up-to-35",
-"pub": "2026-11-27T02:22:10+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-27T05:12:20+00:00"
+"id": "f89aba211bac",
+"t": "",
+"title": "Treasury Yields Gain As U.S. Equities Rally",
+"url": "https://www.wsj.com/finance/investing/short-term-jgb-yields-rise-on-elevated-tokyo-inflation-data-713a900b",
+"pub": "2026-11-27T21:10:00+00:00",
+"src": "WSJ",
+"kind": "market",
+"seen": "2026-11-27T21:14:55+00:00"
 },
 {
-"id": "e83d2d6e4859",
-"t": "NVDA",
-"title": "Stocks Are Plunging Right Now. Here's What History Says Investors Should Do.",
-"url": "https://www.fool.com/investing/2026/11/26/stocks-are-plunging-right-now-heres-what-history-s/",
-"pub": "2026-11-27T02:20:00+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-27T02:56:20+00:00"
+"id": "5e630fa893fc",
+"t": "",
+"title": "Nigeria Targets 50% Rise in Remittances to $1.5 Billion by 2027",
+"url": "https://www.bloomberg.com/news/articles/2026-11-27/nigeria-targets-50-rise-in-remittances-to-1-5-billion-by-2027",
+"pub": "2026-11-27T21:07:46+00:00",
+"src": "Bloomberg",
+"kind": "market",
+"seen": "2026-11-27T21:14:55+00:00"
 },
 {
-"id": "c2e549892133",
-"t": "AVGO",
-"title": "Stocks rise and keep Wall Street on track to close out an erratic week with big gains",
-"url": "https://finance.yahoo.com/markets/world-indices/articles/asian-shares-mostly-rise-ahead-021841973.html",
-"pub": "2026-11-27T02:18:41+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-27T15:14:26+00:00"
-},
-{
-"id": "e6757bf28d87",
-"t": "WMT",
-"title": "Walmart (WMT) Stock Gets Fair Value Boost After Q3 Price Target Increases",
-"url": "https://finance.yahoo.com/markets/stocks/articles/walmart-wmt-stock-gets-fair-021542452.html",
-"pub": "2026-11-27T02:15:42+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-27T05:12:20+00:00"
+"id": "580178b767ab",
+"t": "",
+"title": "Mexican Airport Operator GAP Raises $398 Million for Fibra Trust",
+"url": "https://www.bloomberg.com/news/articles/2026-11-27/mexican-airport-operator-gap-raises-398-million-for-fibra-trust",
+"pub": "2026-11-27T21:05:05+00:00",
+"src": "Bloomberg",
+"kind": "market",
+"seen": "2026-11-27T21:14:55+00:00"
 },
 {
 "id": "43b3d23818d7",
@@ -10962,66 +11022,6 @@
 "src": "FinancialJuice",
 "kind": "market",
 "seen": "2026-11-27T06:20:52+00:00"
-},
-{
-"id": "a1fddac54d02",
-"t": "",
-"title": "Hong Kong shares of Hua Hong Grace Semiconductor 1347.hk rise over 18%",
-"url": "https://www.financialjuice.com/News/9870114/Hong-Kong-shares-of-Hua-Hong-Grace-Semiconductor-1347hk-rise-over-18.aspx?xy=rss",
-"pub": "2026-11-27T05:32:33+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-27T06:20:52+00:00"
-},
-{
-"id": "2f88d176fb38",
-"t": "",
-"title": "Shares of Shanghai iLuvatar CoreX Semiconductor 9903.HK rise 23%",
-"url": "https://www.financialjuice.com/News/9870113/Shares-of-Shanghai-iLuvatar-CoreX-Semiconductor-9903HK-rise-23.aspx?xy=rss",
-"pub": "2026-11-27T05:32:33+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-27T06:20:52+00:00"
-},
-{
-"id": "4366acb761bd",
-"t": "",
-"title": "Dutch Manufacturing Confidence Actual 3.4 (Forecast -, Previous 2.3)",
-"url": "https://www.financialjuice.com/News/9870100/Dutch-Manufacturing-Confidence-Actual-34-Forecast---Previous-23.aspx?xy=rss",
-"pub": "2026-11-27T05:30:15+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-27T06:20:52+00:00"
-},
-{
-"id": "8ca65bea5751",
-"t": "",
-"title": "LENSAR Inc (LNSR.OQ) | Stock Price & Latest News - Reuters",
-"url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5HT1NJWFJCQmlsUTlUamQ0NFJLWW1vWVRmMEJFaXJ3RXF6TkxDRlhLTk4zVmRaNDUxaWQwWWdtUnZ1SHhiS0pfd2xMZl8xY0JRYVdHdm9MbE9IOGtYUVJCOXRab2FnLU5GZWZWQ2VpNA?oc=5",
-"pub": "2026-11-27T05:26:36+00:00",
-"src": "Reuters",
-"kind": "market",
-"seen": "2026-11-27T11:44:37+00:00"
-},
-{
-"id": "8308e6df3605",
-"t": "",
-"title": "BHM.A - | Stock Price & Latest News - Reuters",
-"url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBVMnNRN2U2eGRLWWlBUHJVN211Zi1ma2VWbTlKRFJ6V3I4U3NFbV9QZzF2b3RSQjdhRUt5SlRUeTN2Z1pMc1p3Z2F5OGZOZzBJajRXMzVLbVUzUmxnQ1BnbHM1WUQxcjdvV0lWSkNuVzU2WEczdmc?oc=5",
-"pub": "2026-11-27T05:23:19+00:00",
-"src": "Reuters",
-"kind": "market",
-"seen": "2026-11-27T13:44:11+00:00"
-},
-{
-"id": "5ca1d41ce33b",
-"t": "",
-"title": "EFX.ZY - Reuters",
-"url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPMS1YeXpFWS1VQjN6bk12dDl2YlgwTkIwT1ZTaDJsVFZjcmhQejZxWXFJTVJfX0trajF6QnhpVzhOQTcwVnExVjhDdzY4NnpZYkJVUklXWlZsT0hWY1BfZ1pVSDhESHRqN1ZtYUVmd0d4UkFmelBnNERmaldLazJ4bA?oc=5",
-"pub": "2026-11-27T05:22:58+00:00",
-"src": "Reuters",
-"kind": "market",
-"seen": "2026-11-27T19:14:21+00:00"
 }
 ]
 }
