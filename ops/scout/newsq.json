@@ -1,6 +1,6 @@
 {
-"updated_kst": "2026-11-28 07:43",
-"rot": 176,
+"updated_kst": "2026-11-28 08:14",
+"rot": 57,
 "how": "Scout(프로그램)이 10분마다 모은 기사 제목·링크와 공시예요. Wren이 공식 출처로 확인한 뒤 회사 화면에 한국어로 반영해요. 본문은 받지 않아요.",
 "sources": {
 "Yahoo Finance": "120종목 확인 · 실패 0",
@@ -10,12 +10,22 @@
 "CNBC": "63건",
 "Bloomberg": "40건",
 "WSJ": "60건",
-"Reuters": "100건",
+"Reuters": "56건",
 "FinancialJuice": "100건",
 "SEC EDGAR": "실패 HTTPError",
 "Fox Business": "50건"
 },
 "items": [
+{
+"id": "91d4cec21b62",
+"t": "PG",
+"title": "Why Procter & Gamble (PG) Is Getting Attention Today",
+"url": "https://finance.yahoo.com/markets/stocks/articles/why-procter-gamble-pg-getting-221555441.html",
+"pub": "2026-11-27T22:15:55+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-27T23:14:15+00:00"
+},
 {
 "id": "8e8fcdc6fe48",
 "t": "ORCL",
@@ -45,6 +55,16 @@
 "src": "Yahoo Finance",
 "kind": "news",
 "seen": "2026-11-27T22:14:19+00:00"
+},
+{
+"id": "7a8911dd819c",
+"t": "NFLX",
+"title": "Netflix (NFLX) Beats Stock Market Upswing: What Investors Need to Know",
+"url": "https://finance.yahoo.com/markets/stocks/articles/netflix-nflx-beats-stock-market-214502710.html",
+"pub": "2026-11-27T21:45:02+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-27T23:14:15+00:00"
 },
 {
 "id": "f87a9fd9f247",
@@ -8004,24 +8024,14 @@
 "seen": "2026-11-27T04:01:46+00:00"
 },
 {
-"id": "ab5568e77756",
-"t": "GEV",
-"title": "GE Vernova (GEV) Faces a Delivery Test as Its Backlog Reaches $197 Billion",
-"url": "https://finance.yahoo.com/markets/stocks/articles/ge-vernova-gev-faces-delivery-034550395.html",
-"pub": "2026-11-27T03:45:50+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-27T04:01:46+00:00"
-},
-{
-"id": "36d5cab394b6",
-"t": "JPM",
-"title": "AI Risk Is 'Moving Somewhere Harder to See': Citigroup, JPMorgan Reportedly Look to Offload AI Debt as Investors Grow Wary of Buildout",
-"url": "https://finance.yahoo.com/technology/ai/articles/ai-risk-moving-somewhere-harder-033352825.html",
-"pub": "2026-11-27T03:33:52+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-27T05:12:20+00:00"
+"id": "62eafde8e95a",
+"t": "",
+"title": "Cryptostar Corp shareholders to vote on up to 30-for-1 stock consolidation",
+"url": "https://www.financialjuice.com/News/9871079/Cryptostar-Corp-shareholders-to-vote-on-up-to-30-for-1-stock-consolidation.aspx?xy=rss",
+"pub": "2026-11-27T22:45:11+00:00",
+"src": "FinancialJuice",
+"kind": "market",
+"seen": "2026-11-27T23:14:15+00:00"
 },
 {
 "id": "90fdc7e866fe",
@@ -8044,6 +8054,16 @@
 "seen": "2026-11-27T22:43:58+00:00"
 },
 {
+"id": "66f15a3b7a68",
+"t": "",
+"title": "Jailed Brazil Beach Soccer Star Drawn Into Russia-US Spy Dispute",
+"url": "https://www.bloomberg.com/news/articles/2026-11-27/jailed-brazil-beach-soccer-star-drawn-into-russia-us-spy-dispute",
+"pub": "2026-11-27T22:29:56+00:00",
+"src": "Bloomberg",
+"kind": "market",
+"seen": "2026-11-27T23:14:15+00:00"
+},
+{
 "id": "4d8859b6650a",
 "t": "",
 "title": "Saudi civil defense: danger over in eastern province",
@@ -8052,6 +8072,16 @@
 "src": "FinancialJuice",
 "kind": "market",
 "seen": "2026-11-27T22:40:36+00:00"
+},
+{
+"id": "f4567f833c45",
+"t": "",
+"title": "Managing $300B for Ultra Wealthy Families: Masters in Business with Holly MacDonald",
+"url": "https://www.bloomberg.com/news/videos/2026-11-27/masters-in-business-with-holly-macdonald-video",
+"pub": "2026-11-27T22:14:41+00:00",
+"src": "Bloomberg",
+"kind": "market",
+"seen": "2026-11-27T23:14:15+00:00"
 },
 {
 "id": "94ca5f8c1171",
@@ -10989,36 +11019,6 @@
 "title": "US Index Futures Implied Volatility",
 "url": "https://www.financialjuice.com/News/9870177/US-Index-Futures-Implied-Volatility.aspx?xy=rss",
 "pub": "2026-11-27T06:33:15+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-27T07:51:21+00:00"
-},
-{
-"id": "6f81c787ed96",
-"t": "",
-"title": "Top S&P 500 Stock Names Implied Volatility",
-"url": "https://www.financialjuice.com/News/9870176/Top-SP-500-Stock-Names-Implied-Volatility.aspx?xy=rss",
-"pub": "2026-11-27T06:32:54+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-27T07:51:21+00:00"
-},
-{
-"id": "76e16ca7c7a5",
-"t": "",
-"title": "120-Day Correlation Matrix",
-"url": "https://www.financialjuice.com/News/9870175/120-Day-Correlation-Matrix.aspx?xy=rss",
-"pub": "2026-11-27T06:32:08+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-27T07:51:21+00:00"
-},
-{
-"id": "6c308af5e03c",
-"t": "",
-"title": "90-Day Correlation Matrix",
-"url": "https://www.financialjuice.com/News/9870161/90-Day-Correlation-Matrix.aspx?xy=rss",
-"pub": "2026-11-27T06:31:47+00:00",
 "src": "FinancialJuice",
 "kind": "market",
 "seen": "2026-11-27T07:51:21+00:00"
