@@ -5116,3 +5116,16 @@ Scout(소식 감지 프로그램)가 모은 기사·공시를 공식 출처로 �
 - 출처: ops/scout/newsq.json · 공식 여부: 저장소
 - 확신도: 높음
 - 앱 다시 게시: 성공 — 버전 363 (live 와 비교해 다른 곳은 d-companies 데이터 블록 1줄뿐이라 저장소 최신으로 올림).
+
+### W-20261128-0313-1 · 반영 · 스페이스X 앤테릭스 900MHz 주파수 확보 검토 (보도)
+- 시각: 2026-11-28 03:2x KST
+- 내용: 스페이스X(SPCX)가 미국 휴대폰 망(위성-휴대폰 직접 연결)을 넓히려고 앤테릭스(ATEX)의 900MHz 주파수를 노린다고 블룸버그가 11-27 보도했어요(제목 기준, 본문은 유료라 열지 않음). Stocktwits 도 이 보도 뒤 앤테릭스 주가가 올랐다고 다뤘어요. 회사 공식 발표는 없어 '보도'로 넣었고, 거래 발표가 나오면 '공식'으로 갱신해요. 날짜는 블룸버그 기사 날짜(11-27, 시각 모름) 기준.
+- 출처: [Bloomberg 11-27](https://www.bloomberg.com/news/articles/2026-11-27/anterix-could-be-spacex-s-next-deal-for-mobile-network-access) · [Stocktwits](https://stocktwits.com/news-articles/markets/equity/atex-stock-jumps-after-space-x-reportedly-eyes-900-m-hz-spectrum-for-direct-to-device-expansion-alternative-target-nn-climbs-double-digits/cNb6G6ER9VO) · 공식 여부: 보도
+- 확신도: 중간(제목 기준, 금액·조건 모름)
+
+### W-20261128-0313-2 · 알림 · 이번 차례
+- 시각: 2026-11-28 03:2x KST
+- 내용: Scout 실행(gh, 03:15, 성공) 뒤 새 항목 46건(news 43·market 3) 모두 처리. 위 -1 반영. 건너뜀: 암 하스 CEO 2033년까지 계약(ARM 11-23 줄에 있음), 팔란티어 유럽 방산 계약(PLTR 11-27 폴란드 줄에 있음), SAP 1만 명 감원 검토(SAP 11-26 줄에 있음), 은행 채권 담합 재판 4억 달러 합의(어느 은행인지·이번 사건 기사 검색으로 확인 못 함 — 검색 상위는 2019년 GSE 채권 합의 기사), 델 실적 해설·UBS 목표가, 캐터필러 수주 잔고 해설, 앤트로픽 주가·12월 '시험' 해설, 메모리주 반등·장중 정리, '살 만한 종목'·종목 비교·배당·'Without Company News' 글. market 3건(FinancialJuice 장 마감 주문, 로이터 시세 페이지 2)은 03시대라 done 만.
+- 미국 지표: 미국 동부 11-27(금) 13:2x, 발표 없음(다음: claims 12-03·nfp 12-04) — 매크로 수집 안 돌림, 분석 모두 최신. 나에게 온 요청(RULES 0-3): 새 요청 없음. Aleph 지도: 고칠 것 없음(앤테릭스는 지도 회사 아님). done 3000개(대기 목록에 없는 오래된 id 부터 자름, JSON 다시 읽어 확인). 시작 때 detached HEAD 였어서 main 으로 돌려 받았어요.
+- 출처: ops/scout/newsq.json · 공식 여부: 저장소
+- 확신도: 높음
