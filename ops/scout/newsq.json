@@ -1,10 +1,10 @@
 {
-"updated_kst": "2026-11-28 07:14",
-"rot": 56,
+"updated_kst": "2026-11-28 07:40",
+"rot": 116,
 "how": "Scout(프로그램)이 10분마다 모은 기사 제목·링크와 공시예요. Wren이 공식 출처로 확인한 뒤 회사 화면에 한국어로 반영해요. 본문은 받지 않아요.",
 "sources": {
 "Yahoo Finance": "120종목 확인 · 실패 0",
-"GlobeNewswire": "0건",
+"GlobeNewswire": "실패 HTTPError",
 "PR Newswire": "0건",
 "Business Wire": "0건",
 "CNBC": "63건",
@@ -16,6 +16,26 @@
 "Fox Business": "50건"
 },
 "items": [
+{
+"id": "8e8fcdc6fe48",
+"t": "ORCL",
+"title": "3 Undervalued Stocks Trading Up To 40% Below Cash Flow Value",
+"url": "https://finance.yahoo.com/markets/stocks/articles/3-undervalued-stocks-trading-40-221348295.html",
+"pub": "2026-11-27T22:13:48+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-27T22:40:36+00:00"
+},
+{
+"id": "c847642edb6f",
+"t": "AMZN",
+"title": "What Amazon.com (AMZN)'s UK Car Marketplace Launch Means For Shareholders",
+"url": "https://finance.yahoo.com/markets/stocks/articles/amazon-com-amzn-uk-car-221235075.html",
+"pub": "2026-11-27T22:12:35+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-27T22:40:36+00:00"
+},
 {
 "id": "260f6a2e65ce",
 "t": "MA",
@@ -155,6 +175,16 @@
 "src": "Yahoo Finance",
 "kind": "news",
 "seen": "2026-11-27T21:40:02+00:00"
+},
+{
+"id": "5523f6068054",
+"t": "NVDA",
+"title": "Review & Preview: Gratitude Trade",
+"url": "https://finance.yahoo.com/m/b4b967f3-ecb0-3cea-89c7-f0d0c38cee92/review-%26-preview%3A-gratitude.html",
+"pub": "2026-11-27T21:00:00+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-27T22:40:36+00:00"
 },
 {
 "id": "6ac3dcbe5bb3",
@@ -7994,34 +8024,14 @@
 "seen": "2026-11-27T05:12:20+00:00"
 },
 {
-"id": "5ebe83bfbf1b",
-"t": "QBTS",
-"title": "D-Wave Quantum (QBTS): One of the Top Quantum Computing Stocks to Buy for 2027",
-"url": "https://finance.yahoo.com/technology/ai/articles/d-wave-quantum-qbts-one-033110587.html",
-"pub": "2026-11-27T03:31:10+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-27T04:01:46+00:00"
-},
-{
-"id": "6d170ea02e02",
-"t": "MSFT",
-"title": "Microsoft’s Brad Smith Says ‘We Didn’t Know’ $10 Million Trump Ballroom Donation Would Involve Demolition of the East Wing: ’We Never Expect to Get Everything Perfect",
-"url": "https://finance.yahoo.com/technology/articles/microsoft-brad-smith-says-didn-033007136.html",
-"pub": "2026-11-27T03:30:07+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-27T05:12:20+00:00"
-},
-{
-"id": "806013e54bf0",
-"t": "RGTI",
-"title": "Here’s Why Rigetti Computing (RGTI) Cracked the Best Quantum Computing Stocks for 2027 List",
-"url": "https://finance.yahoo.com/technology/articles/why-rigetti-computing-rgti-cracked-032932844.html",
-"pub": "2026-11-27T03:29:32+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-27T04:01:46+00:00"
+"id": "4d8859b6650a",
+"t": "",
+"title": "Saudi civil defense: danger over in eastern province",
+"url": "https://www.financialjuice.com/News/9871066/Saudi-civil-defense-danger-over-in-eastern-province.aspx?xy=rss",
+"pub": "2026-11-27T22:19:23+00:00",
+"src": "FinancialJuice",
+"kind": "market",
+"seen": "2026-11-27T22:40:36+00:00"
 },
 {
 "id": "94ca5f8c1171",
@@ -11012,16 +11022,6 @@
 "src": "Reuters",
 "kind": "market",
 "seen": "2026-11-27T08:54:02+00:00"
-},
-{
-"id": "3610c45d5081",
-"t": "",
-"title": "China stocks, yuan rally after Beijing vows stronger market support - Reuters",
-"url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPLWxqTUV2X2RZam8zVGVSY2ZFTzRLQkxKYjdBUVJvR1dIOVlaczllTWRmay1FM3pMOHk5SlBjYkhxaDZ4YmJXbWM3NFpSRDBuWWs3T05QS2hZU2FoVzluTzJTMVFjQmhVS3B3a3ZQSXlOc0JKLV92RHZiNFZoNUlXUW5MMk1ncnpDXzVsMnhpTGx4OWpOVnpCNjlWRlJCa1Bp?oc=5",
-"pub": "2026-11-27T06:24:00+00:00",
-"src": "Reuters",
-"kind": "market",
-"seen": "2026-11-27T07:51:21+00:00"
 }
 ]
 }
