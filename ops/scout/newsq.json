@@ -1,21 +1,122 @@
 {
-"updated_kst": "2026-11-27 19:14",
-"rot": 45,
+"updated_kst": "2026-11-27 19:44",
+"rot": 105,
 "how": "Scout(프로그램)이 10분마다 모은 기사 제목·링크와 공시예요. Wren이 공식 출처로 확인한 뒤 회사 화면에 한국어로 반영해요. 본문은 받지 않아요.",
 "sources": {
 "Yahoo Finance": "120종목 확인 · 실패 0",
 "GlobeNewswire": "실패 HTTPError",
-"PR Newswire": "3건",
+"PR Newswire": "4건",
 "Business Wire": "0건",
 "CNBC": "63건",
 "Bloomberg": "40건",
 "WSJ": "60건",
-"Reuters": "55건",
+"Reuters": "100건",
 "FinancialJuice": "100건",
 "SEC EDGAR": "실패 HTTPError",
 "Fox Business": "50건"
 },
 "items": [
+{
+"id": "95fb09853b9e",
+"t": "NVDA",
+"title": "NVIDIA Corporation Sued for Securities Law Violations - Contact the DJS Law Group to Discuss Your Rights - NVDA",
+"url": "https://www.prnewswire.com/news-releases/nvidia-corporation-sued-for-securities-law-violations---contact-the-djs-law-group-to-discuss-your-rights--nvda-302951593.html",
+"pub": "2026-11-27T10:42:00+00:00",
+"src": "PR Newswire",
+"kind": "news",
+"orig": true,
+"seen": "2026-11-27T10:44:09+00:00"
+},
+{
+"id": "17dfa5198c6a",
+"t": "NVDA",
+"title": "Warren Buffett's Successor, Greg Abel, Has 47% of Berkshire Hathaway's $346 Billion Portfolio Invested in 3 Proven Winners",
+"url": "https://www.fool.com/investing/2026/11/27/warren-buffett-successor-greg-abel-has-47-berkshire-hathaway-346-billion-portfolio-invested-3-proven-winners/",
+"pub": "2026-11-27T10:26:02+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-27T10:44:09+00:00"
+},
+{
+"id": "8f554dce82b0",
+"t": "SPCX",
+"title": "SpaceX's AI Business Is Now Nearly Half of Revenue. Here's What Happens to the Stock if Google and Anthropic Both Renew.",
+"url": "https://www.fool.com/investing/2026/11/27/spacexs-ai-business-is-now-nearly-half-of-revenue/",
+"pub": "2026-11-27T10:26:00+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-27T10:44:09+00:00"
+},
+{
+"id": "eed4f1faba5a",
+"t": "NVDA",
+"title": "Market Chatter: Nvidia Stops Southeast Asia Chip Sales Following Proposed US Restrictions",
+"url": "https://finance.yahoo.com/technology/ai/articles/market-chatter-nvidia-stops-southeast-102254508.html",
+"pub": "2026-11-27T10:22:54+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-27T10:44:09+00:00"
+},
+{
+"id": "e64486980321",
+"t": "NVDA",
+"title": "Nvidia Forecast $130 Billion in Revenue and Added $150 Billion to Its Buyback. Should You Buy the Stock?",
+"url": "https://www.fool.com/investing/2026/11/27/nvidia-forecast-usd130-billion-in-revenue-and-added-usd150-billion-to-its-buyback-should-you-buy-the-stock/",
+"pub": "2026-11-27T10:20:02+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-27T10:44:09+00:00"
+},
+{
+"id": "7a579ed33517",
+"t": "NVDA",
+"title": "1 No-Brainer Stock to Buy and Hold for 10 Years",
+"url": "https://www.fool.com/investing/2026/11/27/1-no-brainer-stock-to-buy-on-the-dip-and-hold-for-10-years/",
+"pub": "2026-11-27T10:13:02+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-27T10:44:09+00:00"
+},
+{
+"id": "44a58df51e95",
+"t": "SPCX",
+"title": "US Stock Futures Rally as AI Shares Recover, Chip Export Restrictions Disrupt Financing and Oil Supply Risks Persist: Dow Jones, S&P, Nasdaq, Wall Street",
+"url": "https://investorshub.advfn.com/market-news/article/40769/us-stock-futures-rally-as-ai-shares-recover-chip-export-restrictions-disrupt-financing-and-oil-supply-risks-persist-dow-jones-sp-nasdaq-wall-street",
+"pub": "2026-11-27T10:08:39+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-27T10:44:09+00:00"
+},
+{
+"id": "0daeccce0cd3",
+"t": "GS",
+"title": "Goldman Sachs (GS) Takes Over Radford Studio Center",
+"url": "https://finance.yahoo.com/markets/stocks/articles/goldman-sachs-gs-takes-over-100733193.html",
+"pub": "2026-11-27T10:07:33+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-27T10:44:09+00:00"
+},
+{
+"id": "ad28c00b4ae6",
+"t": "NVDA",
+"title": "Yikes! Anthropic Stock Is Down 28%, but Wall Street says This Will Happen Next.",
+"url": "https://www.fool.com/investing/2026/11/27/anthropic-stock-down-28-wall-street-this-happens-next/",
+"pub": "2026-11-27T10:04:02+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-27T10:44:09+00:00"
+},
+{
+"id": "231fbd921ffe",
+"t": "NVDA",
+"title": "The S&P 500 Could Break Its Streak of Double-Digit Gains in 2026. History Says Here's What Happens Next",
+"url": "https://www.fool.com/investing/2026/11/27/the-s-and-p-500-could-break-its-streak-of-double-digit-gains-in-2026-history-says-here-s-what-happens-next/",
+"pub": "2026-11-27T10:04:02+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-27T10:44:09+00:00"
+},
 {
 "id": "634b4eb629fa",
 "t": "QBTS",
@@ -208,6 +309,16 @@
 "src": "Yahoo Finance",
 "kind": "news",
 "seen": "2026-11-27T10:07:06+00:00"
+},
+{
+"id": "83d005684d8f",
+"t": "AAPL",
+"title": "Airbnb CEO Brian Chesky says staff call him a ‘control freak’—but that he learned it from Apple’s Steve Jobs",
+"url": "https://finance.yahoo.com/small-business/articles/airbnb-ceo-brian-chesky-says-080100881.html",
+"pub": "2026-11-27T08:01:00+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-27T10:44:09+00:00"
 },
 {
 "id": "d8b04e963762",
@@ -431,6 +542,16 @@
 "orig_url": "https://www.telegraph.co.uk/business/2026/11/27/the-tiny-dutch-town-being-overwhelmed-by-an-ai-boom/"
 },
 {
+"id": "48f58110c5a0",
+"t": "MSFT",
+"title": "Mohamed El-Erian Says Nvidia Is “Too Big to Wobble.” Its Customers’ Data Center Plans Aren’t",
+"url": "https://www.tikr.com/blog/mohamed-el-erian-says-nvidia-is-too-big-to-wobble-its-customers-data-center-plans-arent",
+"pub": "2026-11-27T05:48:26+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-27T10:44:09+00:00"
+},
+{
 "id": "51bd9aee13b2",
 "t": "NVDA",
 "title": "Learn Why The Bull Case For Nvidia Stock Could Change Following CEO Reinstatement",
@@ -459,6 +580,16 @@
 "src": "Yahoo Finance",
 "kind": "news",
 "seen": "2026-11-27T10:07:06+00:00"
+},
+{
+"id": "6a66e3fba565",
+"t": "SPCX",
+"title": "Musk Says SpaceX Leads the World “by an Order of Magnitude.” Here’s What That Means for Orbital Compute",
+"url": "https://www.tikr.com/blog/musk-says-spacex-leads-the-world-by-an-order-of-magnitude-heres-what-that-means-for-orbital-compute",
+"pub": "2026-11-27T04:25:06+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-27T10:44:09+00:00"
 },
 {
 "id": "5893b6184ee8",
@@ -7895,134 +8026,54 @@
 "seen": "2026-11-26T04:44:11+00:00"
 },
 {
-"id": "f5be72eaf925",
-"t": "TSM",
-"title": "Asian tech stocks jump as bargain buyers boost battered AI trade",
-"url": "https://finance.yahoo.com/markets/stocks/articles/asian-tech-stocks-jump-bargain-030316035.html",
-"pub": "2026-11-26T03:03:16+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-26T03:14:26+00:00"
+"id": "f0223e2b287d",
+"t": "",
+"title": "Trump Can’t Rescue The Stock Market. Here’s What Can.",
+"url": "https://www.wsj.com/finance/stocks/trump-cant-rescue-the-stock-market-heres-what-can-1b97a560",
+"pub": "2026-11-27T10:30:00+00:00",
+"src": "WSJ",
+"kind": "market",
+"seen": "2026-11-27T10:44:09+00:00"
 },
 {
-"id": "fbb4d2da818b",
-"t": "NVDA",
-"title": "Where Will the Money From Anthropic’s Record IPO Go Next: AI or Crypto?",
-"url": "https://unchainedcrypto.com/where-will-the-money-from-anthropics-record-ipo-go-next-ai-or-crypto/",
-"pub": "2026-11-26T03:00:07+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-26T03:14:26+00:00"
+"id": "fccb92c6b22d",
+"t": "",
+"title": "Iraqi government spokesman tells state news agency that marketing oil outside of the state oil company Somo is considered smuggling",
+"url": "https://www.financialjuice.com/News/9870419/Iraqi-government-spokesman-tells-state-news-agency-that-marketing-oil-outside-of-the-state-oil-company-Somo-is-considered-smuggling.aspx?xy=rss",
+"pub": "2026-11-27T10:23:18+00:00",
+"src": "FinancialJuice",
+"kind": "market",
+"seen": "2026-11-27T10:44:09+00:00"
 },
 {
-"id": "c247699c9868",
-"t": "QQQ",
-"title": "Michael Burry Says His Portfolio Was Discussed 'About the Time the Market Reversed Off Its Lows': He Is 'Temporarily Almost Entirely Long'",
-"url": "https://finance.yahoo.com/markets/stocks/articles/michael-burry-says-portfolio-discussed-025825540.html",
-"pub": "2026-11-26T02:58:25+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-26T04:14:27+00:00"
+"id": "c2682bbd8a71",
+"t": "",
+"title": "JSE Courts Dangote Refinery Secondary Listing in Expansion Push",
+"url": "https://www.bloomberg.com/news/articles/2026-11-27/jse-courts-dangote-refinery-secondary-listing-in-expansion-push",
+"pub": "2026-11-27T10:21:56+00:00",
+"src": "Bloomberg",
+"kind": "market",
+"seen": "2026-11-27T10:44:09+00:00"
 },
 {
-"id": "733025bdfcbe",
-"t": "COST",
-"title": "Whole Foods is open on Thanksgiving, but there’s an early deadline",
-"url": "https://www.thestreet.com/retail/whole-foods-thanksgiving-hours-2026",
-"pub": "2026-11-26T02:47:00+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-26T14:04:07+00:00"
+"id": "186d6788eea8",
+"t": "",
+"title": "Dubai’s Benchmark Stock Index Erases Wartime Losses as Banks, Property Shares Rise",
+"url": "https://www.wsj.com/finance/stocks/dubais-benchmark-stock-index-erases-wartime-losses-as-banks-property-shares-rise-8b5a7a52",
+"pub": "2026-11-27T10:16:00+00:00",
+"src": "WSJ",
+"kind": "market",
+"seen": "2026-11-27T10:44:09+00:00"
 },
 {
-"id": "16f8b7e27d88",
-"t": "NVDA",
-"title": "Nvidia’s Market Cap Falls Below Microsoft’s: Analyst Flags Five Overhangs For NVDA Stock",
-"url": "https://stocktwits.com/news-articles/markets/equity/nvidia-s-market-cap-falls-below-microsoft-s-analyst-flags-five-overhangs-for-nvda-stock/cNbx4KZR9Z3",
-"pub": "2026-11-26T02:39:42+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-26T03:14:26+00:00"
-},
-{
-"id": "803f16ea23c6",
-"t": "SPCX",
-"title": "SpaceX gets approval for 1 million data center satellites",
-"url": "https://finance.yahoo.com/technology/ai/articles/spacex-gets-approval-1-million-023847485.html",
-"pub": "2026-11-26T02:38:47+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-26T03:14:26+00:00"
-},
-{
-"id": "e4d8b835124f",
-"t": "NVDA",
-"title": "Asian stocks enjoy another bounce as tech holds court",
-"url": "https://finance.yahoo.com/markets/world-indices/articles/asian-stocks-enjoy-another-bounce-023024729.html",
-"pub": "2026-11-26T02:30:24+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-26T02:44:08+00:00"
-},
-{
-"id": "0bbf9fbc8525",
-"t": "DELL",
-"title": "TD Cowen Just Cut Its Dell Target From $550 to $325 After a Record Quarter",
-"url": "https://www.tikr.com/blog/td-cowen-just-cut-its-dell-target-from-550-to-325-after-a-record-quarter",
-"pub": "2026-11-26T02:27:43+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-26T11:44:37+00:00"
-},
-{
-"id": "fa7f095f857b",
-"t": "MU",
-"title": "Is BNP Paribas Wrong to Give Up on Micron? Wall Street Still Sees $1,530",
-"url": "https://www.tikr.com/blog/is-bnp-paribas-wrong-to-give-up-on-micron-wall-street-still-sees-1530",
-"pub": "2026-11-26T02:18:02+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-26T10:14:26+00:00"
-},
-{
-"id": "2236fee522ea",
-"t": "ORCL",
-"title": "Is Oracle the First AI Casualty as It Sheds 70% of Its Value?",
-"url": "https://beincrypto.com/oracle-stock-falls-70-ai-debt/",
-"pub": "2026-11-26T02:15:00+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-26T03:14:26+00:00"
-},
-{
-"id": "1ff54e5fe94d",
-"t": "CVLT",
-"title": "CommVault Systems Bets on Cloud and AI Recovery as CFO Search Continues",
-"url": "https://www.marketbeat.com/instant-alerts/event-commvault-systems-bets-on-cloud-and-ai-recovery-as-cfo-search-continues-2026-11-25/",
-"pub": "2026-11-26T02:12:15+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-26T02:26:03+00:00"
-},
-{
-"id": "9f3ba210e688",
-"t": "AVGO",
-"title": "Why Retail Investors Are Watching AMD and AI Infrastructure Stocks After SpaceX Satellite News",
-"url": "https://finance.yahoo.com/technology/ai/articles/why-retail-investors-watching-amd-021215050.html",
-"pub": "2026-11-26T02:12:15+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-26T02:44:08+00:00"
-},
-{
-"id": "bbf75d5b93a9",
-"t": "NVT",
-"title": "nVent Electric (NVT) Stock Sees Modest Fair Value Cut As Analysts Weigh AI Growth And Costs",
-"url": "https://finance.yahoo.com/markets/stocks/articles/nvent-electric-nvt-stock-sees-021125154.html",
-"pub": "2026-11-26T02:11:25+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-26T02:44:08+00:00"
+"id": "acb1700d8c2b",
+"t": "",
+"title": "Italian Non-EU Flash Trade Balance Actual 2.34B (Forecast -, Previous 2.83B)",
+"url": "https://www.financialjuice.com/News/9870402/Italian-Non-EU-Flash-Trade-Balance-Actual-234B-Forecast---Previous-283B.aspx?xy=rss",
+"pub": "2026-11-27T10:15:29+00:00",
+"src": "FinancialJuice",
+"kind": "market",
+"seen": "2026-11-27T10:44:09+00:00"
 },
 {
 "id": "6372fc4eb484",
@@ -8283,6 +8334,16 @@
 "src": "FinancialJuice",
 "kind": "market",
 "seen": "2026-11-27T10:07:06+00:00"
+},
+{
+"id": "88af036c43d5",
+"t": "",
+"title": "4248.ODX - | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQVzBVNWwtSVZZNklfYXRhS2ZCb1l6c3d0LTgyZE9rZEFKUG1yTmpKNlJfMkNSOFM5TUxoVUd6aHc1X0JaWkE2dEY0UFdOc19SbUMwbkhCYXFVcEgyQ1dZMkFnV04ySDNsVk9uejJ5d2JnTDJuWl9TR1F0XzMwOU5kUmVwT1UwNm8?oc=5",
+"pub": "2026-11-27T08:54:25+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-27T10:44:09+00:00"
 },
 {
 "id": "1d802570dc48",
@@ -10961,66 +11022,6 @@
 "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNYjc1S044enVDVHpleXVSM2YwME5kOGM4azBiSF9QNVc1Q2MyYmNRVFNJZ1p1dFVSOXdKTGxqYi1pU1dhdzcycGQ0dm5pN1NaRmZUendRME9GRVFfNHluZ0pUZkpsc0xLX1pNb1ZFdEk0TU8yTjZxbklUbC04ZkNJbWt6V21qUEowclUwME5KY1ZfUlVXaUlPQm9faDZPVzB4clJfZkFLekxaQVNWaldMT0ZwSFl3LVYwblRiaXYzNEt3dzBMck1WUkp1QQ?oc=5",
 "pub": "2026-11-26T15:00:57+00:00",
 "src": "Reuters",
-"kind": "market",
-"seen": "2026-11-26T15:14:25+00:00"
-},
-{
-"id": "981d7fc3754d",
-"t": "",
-"title": "Spain’s Pablo Hernández de Cos set to lead European Central Bank",
-"url": "https://www.cnbc.com/2026/11/26/pablo-hernandez-de-cos-ecb-president.html",
-"pub": "2026-11-26T14:59:47+00:00",
-"src": "CNBC",
-"kind": "market",
-"seen": "2026-11-26T15:14:25+00:00"
-},
-{
-"id": "88078c6b93a5",
-"t": "",
-"title": "Iraq's Oil Minister: Talks underway with OPEC to raise Iraq's oil production ceiling",
-"url": "https://www.financialjuice.com/News/9869557/Iraqs-Oil-Minister-Talks-underway-with-OPEC-to-raise-Iraqs-oil-production-ceiling.aspx",
-"pub": "2026-11-26T14:59:33+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-26T15:14:25+00:00"
-},
-{
-"id": "65099c3ff883",
-"t": "",
-"title": "(USD:ZAR) Rand Hurtles Toward Worst November Against Dollar in 25 Years",
-"url": "https://www.bloomberg.com/news/articles/2026-11-26/-usd-zar-rand-hurtles-toward-worst-november-against-dollar-in-25-years",
-"pub": "2026-11-26T14:59:27+00:00",
-"src": "Bloomberg",
-"kind": "market",
-"seen": "2026-11-26T15:14:25+00:00"
-},
-{
-"id": "51ec68cb8735",
-"t": "",
-"title": "Russian Foreign Ministry: Moscow hopes that Putin's meeting with the Japanese PM will contribute to improving relations between the countries.",
-"url": "https://www.financialjuice.com/News/9869556/Russian-Foreign-Ministry-Moscow-hopes-that-Putins-meeting-with-the-Japanese-PM-will-contribute-to-improving-relations-between-the-countries.aspx",
-"pub": "2026-11-26T14:59:02+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-26T15:14:25+00:00"
-},
-{
-"id": "ad866f64eed6",
-"t": "",
-"title": "Royal Bank of Canada (RY.TO) | Stock Price & Latest News - Reuters",
-"url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5Ub2p1a3hXNmlaN2VHSUpxTTlEWU5HYzM2dnlmNXBQczVXUS1ueUV3bGoxaTQ4R1REcV8wVU9RSmE5LUlGOXNGYk41aTJtSHE0N0c3Y3BoTzNHODRm?oc=5",
-"pub": "2026-11-26T14:58:35+00:00",
-"src": "Reuters",
-"kind": "market",
-"seen": "2026-11-26T16:28:36+00:00"
-},
-{
-"id": "ce9a53ba8447",
-"t": "",
-"title": "Iraq's Oil Minister: Oil exports raised to 3.6 mln bpd from 200,000 bpd",
-"url": "https://www.financialjuice.com/News/9869555/Iraqs-Oil-Minister-Oil-exports-raised-to-36-mln-bpd-from-200000-bpd.aspx",
-"pub": "2026-11-26T14:58:24+00:00",
-"src": "FinancialJuice",
 "kind": "market",
 "seen": "2026-11-26T15:14:25+00:00"
 }
