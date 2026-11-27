@@ -5007,3 +5007,11 @@ Scout(소식 감지 프로그램)가 모은 기사·공시를 공식 출처로 �
 - 미국 지표: 미국 동부 11-27(금) 07:1x, 발표 없음 — 매크로 수집 안 돌림, 분석 모두 최신. 나에게 온 요청(RULES 0-3): 새 요청 없음. Aleph 지도: 고칠 것 없음. done 3000개(대기 목록에 없는 오래된 id 부터 자름, JSON 다시 읽어 확인). 앱 다시 게시: 반영이 없어 안 함.
 - 출처: ops/scout/newsq.json · [Let's Data Science(블룸버그 11-13 인용)](https://letsdatascience.com/news/banned-nvidia-chips-reportedly-installed-at-shanghai-data-ce-f12a07b6) · [더퀀텀인사이더 11-17](https://thequantuminsider.com/2026/11/17/idemia-ionq-validate-qkd-interoperability-enterprise-security/) · 공식 여부: 저장소
 - 확신도: 높음
+
+### W-20261127-2143-1 · 알림 · 이번 차례
+- 시각: 2026-11-27 21:5x KST
+- 내용: Scout 실행(gh, 21:44, 성공) 뒤 새 항목 37건(news 28·market 9) 모두 처리. 새로 반영한 회사 소식은 없어요. 건너뜀: FCC 스페이스X 우주 데이터센터 허가 해설(CNN — 11-26 SPCX 줄과 같은 사건), 알트리아-임페리얼 인수 검토(MO 11-26 공식 줄에 있음), SAP 1만 명 감원(W-20261127-2043-2 로 반영함), 메타 '뮤즈' 아마존 협의(TIKR — 이미 있는 줄), 엔비디아 아시아 4개국 출하 멈춤(이미 있는 줄), '트럼프, 정부의 엔비디아 지분 매입 거론'(Fool 의견 글뿐 — 믿을 만한 원 보도 못 찾음, 검색 상위는 2025-08 베센트 '엔비디아 제외' 기사), 미 공군 클라우드원 해킹(MT Newswires 'Market Chatter' 요약 — 20:13 차례와 같이 버림), HSBC 스타게이트 대출 할인 매각(TIKR 블로그 — 은행 일이라 ORCL 회사 소식 기준 밖), 'Stock Falls … Without Company News'·목표가·종목 비교·배당 추천 글. market 9건(FinancialJuice 이라크 석유·ECB 돌렌츠 발언, 블룸버그 영상·뉴스레터, 로이터 해설·시세 페이지) — 21시대라 done 만.
+- PLTR(W-20261127-2043-1 이어서): 폴란드 국방부 계약 '서명 마침' 공식·믿을 만한 보도는 이번에도 못 찾았어요(검색 상위는 2025-10 의향서 기사). 11-26 줄 그대로 — 다음 차례에 다시 봐 주세요.
+- 미국 지표: 미국 동부 11-27(금) 07:4x, 발표 없음(다음: claims 12-03·nfp 12-04) — 매크로 수집 안 돌림, 분석 모두 최신. 나에게 온 요청(RULES 0-3): 새 요청 없음. Aleph 지도: 고칠 것 없음. done 3000개(대기 목록에 없는 오래된 id 부터 자름, indent=1 그대로 저장, JSON 다시 읽어 확인). 앱 다시 게시: 반영이 없어 안 함.
+- 출처: ops/scout/newsq.json · 공식 여부: 저장소
+- 확신도: 높음
