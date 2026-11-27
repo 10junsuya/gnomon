@@ -5074,3 +5074,16 @@ Scout(소식 감지 프로그램)가 모은 기사·공시를 공식 출처로 �
 - 교훈: 'Merck' 가 들어간 제목은 미국 머크(MRK)인지 독일 머크 KGaA(앱 종목 아님)인지 먼저 봐요.
 - 출처: ops/scout/newsq.json · [CHEManager 11-17(머크 KGaA 인수)](https://chemanager-online.com/en/news/merck-acquires-rapid-micro-biosystems-for-pharma-qc-automation) · 공식 여부: 저장소
 - 확신도: 높음
+
+### W-20261128-0113-1 · 반영 · MDA RTX(레이시언)에서 블루캐니언 테크놀로지스 인수 마침 (공식)
+- 시각: 2026-11-28 01:3x KST
+- 내용: MDA 스페이스가 11-27 PR Newswire 보도자료(제목 'MDA SPACE COMPLETES ACQUISITION OF BLUE CANYON TECHNOLOGIES', 15:49 UTC)로 위성·우주선 부품 회사 블루캐니언 테크놀로지스 인수를 마쳤다고 알렸어요. 금액은 6-19 인수 합의 발표의 6.2억 달러(약 8.74억 캐나다달러, 가격 조정 전)라 '6월 합의'로 밝혀 적었어요. 보도자료 본문은 웹 열기가 막혀(PR Newswire) 읽지 못했고, 제목과 6월 회사 발표(파는 쪽 RTX 레이시언 사업부, 올해 말까지 마무리 예정)로 확인했어요 — 본문의 마감 금액이 다르면 고쳐 주세요. MDA 소식 칸 첫 줄. RTX 쪽(사업부 매각)은 넣지 않았어요. Aleph 지도: '인수'는 관계 종류(공급·클라우드·건설·전력·투자·협력)에 없어 고치지 않음.
+- 출처: [MDA 보도자료(PR Newswire)](https://www.prnewswire.com/news-releases/mda-space-completes-acquisition-of-blue-canyon-technologies-302951817.html) · [MDA 6월 인수 합의 발표](https://mda.space/article/mda-space-announces-definitive-agreement-to-acquire-us-based-blue-canyon-technologies-llc) · 공식 여부: 공식
+- 확신도: 높음(인수 마침) / 중간(마감 금액)
+
+### W-20261128-0113-2 · 알림 · 이번 차례
+- 시각: 2026-11-28 01:3x KST
+- 내용: Scout 실행(gh, 01:14, 성공) 뒤 새 항목 35건(news 25·market 10) 모두 처리. 위 -1 반영. 건너뜀: 트럼프 TSMC 애리조나 새 공장 착공식 행(247wallst — TSM 11-25 줄에 같은 사건 있음, 착공 뒤 공식 글 나오면 갱신), '네오클라우드 조건이 엔비디아 옛 50% 기준보다 빡빡' (Proactive 해설 글), 버텍스 FDA 연기(VRTX 11-26 줄에 있음)·씨티 의견, 엔비디아 블랙웰 중국 발견 해설(W-20261127-2113-1 과 같은 판단), 앤트로픽 매출 해설, 'avoid the neoclouds' 펀드매니저 의견, AMD 실적 해설, 비교·'살 만한 종목'·목표가·배당·시장 조사 보고서 광고·지수 정리 글. market 10건(블룸버그 '안테릭스가 스페이스X 다음 거래 후보' 추측 글, 러시아 메밀 수출 금지, 캐나다 재정수지 FinancialJuice 등)은 01시대라 done 만.
+- 미국 지표: 미국 동부 11-27(금) 11:1x, 발표 없음(다음: claims 12-03·nfp 12-04) — 매크로 수집 안 돌림, 분석 모두 최신. 나에게 온 요청(RULES 0-3): 새 요청 없음. 웹 열기 막힘: PR Newswire(MDA 보도자료). done 3000개(대기 목록에 없는 오래된 id 부터 자름, indent=1 그대로 저장, JSON 다시 읽어 확인). 시작 때 detached HEAD 였어서 main 으로 돌려 받았어요.
+- 출처: ops/scout/newsq.json · 공식 여부: 저장소
+- 확신도: 높음
