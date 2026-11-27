@@ -126,3 +126,7 @@ Conrad 는 실행 때마다 이 파일의 최근 72시간을 먼저 읽고 따�
 - 43·45 Scout: 주소 꼬리표 떼고 id · 같은 제목은 새 항목 아님(야후 글에 orig_url) · 보도자료 배포처 RSS 3곳(첫 실행 결과 확인 필요).
 - 44 events.json src + check_data 검사(예전 59개는 ops/events_nosrc.txt).
 - 46 Argus 자료 나이에서 토·일 뺌. 48 자가 점검표 2줄. 'A 지도' → Aleph 표기(RULES·LESSONS·check_data·run_qa, qa 경로에 #ahub).
+
+## 2026-11-28 · 발사·임무 순서 그림은 승인 없이 (대표 결정)
+- 새 발사·임무의 단계(missions.json)와 단계 그림(index.html MISSION_ART 블록만)은 AI 팀이 승인 없이 만들어요(RULES 3장). 탑재물 등은 공식 확인 뒤, 그림 규칙(실제와 비슷·로고 금지·재사용 금지)은 그대로.
+- 승인 대기 53번(RKLB 101번째)은 이 결정으로 AI 팀 일로 넘어가요. Quill 지시문에 이 범위를 넣는 것은 시험 뒤 54번과 함께.
