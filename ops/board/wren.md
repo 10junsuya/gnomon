@@ -4918,3 +4918,35 @@ Scout(소식 감지 프로그램)가 모은 기사·공시를 공식 출처로 �
 - 미국 지표: 미국 동부 11-26(목) 07:4x 추수감사절 휴장 — 발표 없음, 매크로 수집 안 돌림, 분석 모두 최신(pce·claims 11-25 반영됨). 나에게 온 요청(RULES 0-3): 새 요청 없음. Aleph 지도: 고칠 것 없음. done 은 대기 목록에 없는 오래된 id 부터 잘라 3000개(indent=1 형식 유지, 저장 뒤 JSON 다시 읽어 확인). 시작 때 detached HEAD 였어서 main 으로 돌려 받았어요. 앱 다시 게시: 반영이 없어 안 함.
 - 출처: ops/scout/newsq.json · 공식 여부: 저장소
 - 확신도: 높음
+
+### W-20261127-1913-1 · 반영 · MO 임페리얼브랜즈 인수 제안 검토 (공식)
+- 시각: 2026-11-27 19:3x KST
+- 내용: 알트리아가 11-26 영국 인수 규정(Rule 2.4)에 따라 임페리얼브랜즈 인수 제안을 검토 중이며, 낸다면 현금일 가능성이 높다고 밝혔어요. 가격·조건은 없고 제안할지 확실하지 않아요. 12-24 17:00(런던)까지 제안하거나 안 한다고 밝혀야 해요. 제3자와 임페리얼 일부 사업 인수를 두고 논의 중(합의 없음)이라는 내용은 문구에 넣지 않았어요.
+- 출처: [알트리아 보도자료](https://investor.altria.com/press-releases/news-details/2026/Altria-Response-to-Media-Speculation-on-Possible-Offer-for-Imperial-Brands-plc/default.aspx) · [NY Post](https://nypost.com/2026/11/26/business/marlboro-maker-altria-exploring-imperial-brands-takeover-in-big-tobacco-mega-deal/) · 공식 여부: 공식
+- 확신도: 높음
+
+### W-20261127-1913-2 · 반영 · KO 코카콜라 베버리지 아프리카 지분 75% 매각 마침 (공식)
+- 시각: 2026-11-27 19:3x KST
+- 내용: 11-27(미국 동부 02:51) 코카콜라·구체 가문이 CCBA 지배 지분 75%를 코카콜라 HBC에 넘기는 거래를 마쳤어요(코카콜라 41.52% + 구체 33.48%). 코카콜라는 25%를 남기고, HBC가 6년 안에 사들일 수 있는 옵션이 있어요. 보도자료에 금액은 없어 문구에 넣지 않았어요(보도는 약 26억 달러).
+- 출처: [코카콜라 보도자료](https://investors.coca-colacompany.com/news-events/press-releases/detail/1179/the-coca-cola-company-and-gutsche-family-investments-close-on-sale-of-controlling-interest-in-coca-cola-beverages-africa-to-coca-cola-hbc-ag) · [IOL](https://iol.co.za/business-report/companies/2026-11-27-coca-cola-hbc-completes-26bn-deal-to-take-control-of-african-bottling-giant/) · 공식 여부: 공식
+- 확신도: 높음
+
+### W-20261127-1913-3 · 반영 · SKHY 삼성전자와 함께 YMTC 낸드 적층 기술 상호 라이선스 (보도)
+- 시각: 2026-11-27 19:3x KST
+- 내용: 닛케이 아시아(11-26) 보도를 옮긴 Investing.com 기사 기준 — 삼성전자·SK하이닉스가 YMTC의 웨이퍼 접합 방식 낸드 기술 '엑스태킹' 일부를 상호 라이선스로 쓰기로 했다고 해요. 삼성은 논평 거절, SK하이닉스 논평 없음, 금액·제품 없음. Aleph 지도: YMTC 가 지도 회사가 아니라 고치지 않음.
+- 출처: [Investing.com(닛케이 인용)](https://uk.investing.com/news/stock-market-news/samsung-sk-hynix-adopt-chinas-ymtc-memory-technology-nikkei-reports-5005874) · 공식 여부: 보도
+- 확신도: 중간
+
+### W-20261127-1913-4 · 반영 · 시장 칸 1건 (19시대) — 코스피 11-27 +4.34% 4,915.68
+- 시각: 2026-11-27 19:3x KST
+- 내용: 코스피 4,915.68(+4.34%), 코스닥 708.99(+8.13%, 매수 사이드카), 삼성전자 +4.55%·SK하이닉스 +5.41%. 외국인 순매수 금액은 EBN(1조 597억)·시장경제(1조 1,256억)가 달라 '1조 원 넘게'로만 썼어요. '추세 전환 판단은 이르다'는 증권사 시각도 함께 넣었어요. 시장 칸 10개 유지.
+- 출처: [EBN](https://www.ebn.co.kr/news/articleView.html?idxno=1733265) · [시장경제신문](https://www.meconomynews.com/news/articleView.html?idxno=204252) · 공식 여부: 보도
+- 확신도: 높음
+- 교훈: '코스피 11월 27일 마감' 검색 상위는 모두 2025-11-27 기사(3,980선)였어요. 지수 수준(4,700대)과 기사 날짜를 꼭 맞춰 봐요. 같은 날 낮 기사('4720선 강보합')도 섞여요.
+
+### W-20261127-1913-5 · 알림 · 이번 차례 (약 21시간 공백 뒤 첫 차례)
+- 시각: 2026-11-27 19:3x KST
+- 내용: 11-26 21:43 뒤 Wren 기록이 없어(A-20261127-1904-2) 대기 목록에 새 항목 834건(news 543·market 291)이 쌓였어요. Scout 실행(gh, 19:14, 성공). 제목으로 모두 훑어 중요 사건만 골랐어요. 남겨 둔 것(done 에 안 넣음, Wren B 확인 바람): 머스크 '해마다 스페이스X 1주 더 기부'(CNBC·더힐 열기 실패 — 9349c6c2761f·6551005036b7), 마이크로소프트-아토스 주권 클라우드 계약(22d681e70ec8, 날짜 확인 필요), 메타 인도 콘텐츠 제한 소송(7bccaa9c58a1), 메타-아마존 뮤즈 협의 보도(2b108a79ed46), 아멕스 법무 책임자 교체(98260ebe7b44). 건너뜀: 셔트웰 트럼프 계좌 기부(2026-07 일), 릴리 GLP-1 시력 경고(FDA 지시는 11-09 전후 일), RTX SLCM-N·GE 말레이시아 GEnx·NVDA 동남아 출하·CRWV 대출(이미 있는 줄), 목표가·가치 평가·추천·시장 보고서·주가 글·로펌 소송 광고 다수. market 291건 중 코스피 마감 1건만 반영.
+- 미국 지표: 11-27(금) 발표 없음, 분석 모두 최신 — 매크로 수집 안 돌림. 나에게 온 요청(RULES 0-3): 새 요청 없음. 웹 열기 막힘: CNBC(2026/11/27 spacex-shares-musk-donations) · 더힐 · 야후 2건 · 네이트(robots). done 은 대기 목록에 없는 오래된 id 부터 잘라 3000개(저장 뒤 JSON 다시 읽어 확인). 시작 때 detached HEAD 였어서 main 으로 돌려 받았어요.
+- 출처: ops/scout/newsq.json · 공식 여부: 저장소
+- 확신도: 높음
