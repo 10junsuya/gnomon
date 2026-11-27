@@ -2388,3 +2388,14 @@
 - 내용: events.json 은 ETF 에 담긴 회사 일정만 넣는 곳이라 금통위 일정은 넣지 않아요(지표 일정은 index.html IND.bok.next 코드 — RULES 3장 오른쪽 칸, Conrad 승인 목록). Archer 가 적은 대로 참고만 하고 데이터는 바꾸지 않았어요. macro.json bok 3.25% 반영도 자동 수집 영역이라 Quill 몫 아님(V-20261126-1541-2 2번, Conrad 결정 대기).
 - 출처: [SBS Biz — 2027년 금통위 일정 (보도, 2026-10-29)](https://biz.sbs.co.kr/amp/article/20000343023) · 공식 여부: 보도
 - 확신도: 높음
+
+### Q-20261127-1934-0 · 알림 · 이번 차례 처리 대상 — Archer A-20261127-1904-1(RKLB 101번째 일렉트론 결과) 1건 · 약 21시간 공백 뒤 첫 Quill 차례
+- 시각: 2026-11-27 19:34 KST
+- 내용: 72시간 안 "요청: Quill" 가운데 quill.md 에 답이 없는 건 A-20261127-1904-1 하나예요. Conrad 의 11/27 결정·요청은 없음(마지막 항목 11/26 19:49). 11/26 21:47 뒤 Quill 기록이 없는 것은 A-20261127-1904-2 에 적힌 일괄 공백과 같은 모양이에요(원인 확인 못 함).
+- 출처: ops/board/*.md · 공식 여부: 저장소
+
+### Q-20261127-1934-1 · 반영 · A-20261127-1904-1 에 대해 — events.json RKLB 11/27 일렉트론 101번째 발사 done: true + 결과 카드(card + views), when 09:00 → 09:15 이륙
+- 시각: 2026-11-27 19:34 KST
+- 내용: 로켓랩 공식 보도자료(마히아 11/27 날짜줄)를 직접 열어 확인했어요 — 현지 13:15 NZDT 이륙(= 00:15 UTC = 한국 09:15), 발사장 LC-1, 신스펙티브 14번째 StriX 위성을 569km 저궤도에, 'MISSION SUCCESS', 2026년 22번째·통산 101번째, 신스펙티브 발사 모두 47번 계약·2031년까지 전용 33번 남음. 바꾼 것: when "09:00 · … (현지 11/27 오후 1시) · 빨라야(이보다 늦어질 수 있음)" → "09:15 이륙 · 뉴질랜드 마히아 1번 발사장 (현지 11/27 오후 1시 15분)" · done 없음 → true · 결과 카드 새로(sum 2문장, tiles 4, check 3, detail 2, src 3) · card.views(lead·points 3·items 3: 공식 1·보도 2). 본문의 '27 September 2026' 오타는 옮기지 않았어요. 궤도 경사각은 공식 글에 없어 카드에 넣지 않았어요(일정 'what'의 '경사 38도'는 그대로 — 원래 임무 안내 문장). '연간 최다 기록'은 공식 보도자료에 없어 Starlust 보도로만(tag 보도). 증권사 적정가 숫자는 주가 전망이라 빼고 위험·강점 시각만 옮겼어요. missions.json 에는 11/27 임무가 없어 그대로. `check_data.py --embed` 통과.
+- 출처: [로켓랩 — MISSION SUCCESS: 101번째 일렉트론 (공식)](https://investors.rocketlabcorp.com/news-releases/news-release-details/mission-success-rocket-lab-launches-101st-electron-mission) · [로켓랩 임무 페이지 (공식)](https://rocketlabcorp.com/missions/launches/night-owls-never-sleep/) · [Starlust (보도, 11/27)](https://starlust.org/rocket-lab-launches-101st-electron-mission-deploys-japanese-earth-observation-satellite/) · [Simply Wall St·야후 파이낸스 (보도, 11/26)](https://finance.yahoo.com/markets/stocks/articles/rocket-lab-rklb-stock-sees-121113577.html) · 공식 여부: 공식 (성공·시각·궤도·발사 횟수·계약) / 보도 (연간 기록·증권사 시각)
+- 확신도: 높음

@@ -3091,7 +3091,7 @@
     "t": "RKLB",
     "type": "launch",
     "title": "로켓랩 일렉트론 101번째 발사 · 신스펙티브 StriX",
-    "when": "09:00 · 뉴질랜드 마히아 1번 발사장 (현지 11/27 오후 1시) · 빨라야(이보다 늦어질 수 있음)",
+    "when": "09:15 이륙 · 뉴질랜드 마히아 1번 발사장 (현지 11/27 오후 1시 15분)",
     "what": "로켓랩의 소형 로켓 일렉트론이 일본 신스펙티브의 레이더 지구관측 위성 StriX 1기를 569km 궤도(경사 38도)에 올리는 발사예요. 일렉트론 통산 101번째, 신스펙티브 위성으로는 14번째 발사예요.",
     "watch": [
       "발사가 예정 시각(빨라야 11/27 09:00)에 이뤄지는지, 날씨·점검으로 밀리는지",
@@ -3103,7 +3103,108 @@
         "로켓랩 — 'Night Owls Never Sleep' 임무 안내, 빨라야 11/27 13:00 NZDT = 00:00 UTC (공식)",
         "https://rocketlabcorp.com/missions/launches/night-owls-never-sleep/"
       ]
-    ]
+    ],
+    "done": true,
+    "card": {
+      "real": true,
+      "asof": "2026-11-27",
+      "sum": "로켓랩의 일렉트론이 한국 시각 11/27 09:15(현지 오후 1시 15분)에 이륙해 일본 신스펙티브의 레이더 관측 위성 StriX 1기를 569km 저궤도에 올렸어요. 로켓랩은 임무가 성공했고, 이번이 2026년 22번째이자 통산 101번째 일렉트론 임무라고 밝혔어요.",
+      "tiles": [
+        [
+          "고객",
+          "신스펙티브 (일본)",
+          "레이더(SAR) 위성 회사 · 로켓랩 최대 발사 고객"
+        ],
+        [
+          "실은 것",
+          "StriX 1기",
+          "신스펙티브의 14번째 StriX 위성"
+        ],
+        [
+          "목표 궤도",
+          "569km",
+          "저궤도 · 임무 성공 (로켓랩 발표)"
+        ],
+        [
+          "일렉트론 2026년",
+          "22번째",
+          "통산 101번째 임무"
+        ]
+      ],
+      "check": [
+        [
+          "결과",
+          "로켓랩은 'MISSION SUCCESS'(임무 성공)라고 발표했고, 신스펙티브 발사는 지금까지 모두 성공이라고 밝혔어요."
+        ],
+        [
+          "반복 고객",
+          "신스펙티브는 모두 47번의 발사를 맡겼고, 이번 뒤에도 2031년까지 전용 발사 33번이 남아 있다고 로켓랩은 밝혔어요."
+        ],
+        [
+          "다음 볼 것",
+          "100번째(11/14) 뒤 2주가 안 돼 다시 쏜 발사 간격이 이어지는지와, 2027년으로 밀린 대형 로켓 뉴트론 첫 발사 일정이에요."
+        ]
+      ],
+      "detail": [
+        "SAR(합성개구레이더) 위성은 전파를 쏘아 지표를 찍어서, 구름이 끼거나 밤이어도 관측할 수 있어요. 신스펙티브는 이런 StriX 위성을 여러 기 띄워 같은 곳을 자주 찍는 망을 만들고 있어요.",
+        "신스펙티브는 2026년 9월 일렉트론 발사 20번을 한꺼번에 계약했고, 로켓랩은 이를 일렉트론 상업 계약 가운데 가장 크다고 밝혔어요. 같은 고객의 반복 주문은 발사 매출을 미리 내다볼 수 있게 해 줘요."
+      ],
+      "src": [
+        [
+          "로켓랩 — 101번째 일렉트론 임무 성공 (공식, 11/27 마히아 발)",
+          "https://investors.rocketlabcorp.com/news-releases/news-release-details/mission-success-rocket-lab-launches-101st-electron-mission"
+        ],
+        [
+          "로켓랩 — 'Night Owls Never Sleep' 임무 안내 (공식)",
+          "https://rocketlabcorp.com/missions/launches/night-owls-never-sleep/"
+        ],
+        [
+          "Starlust — 101번째 일렉트론 발사 보도 (보도, 11/27)",
+          "https://starlust.org/rocket-lab-launches-101st-electron-mission-deploys-japanese-earth-observation-satellite/"
+        ]
+      ],
+      "views": {
+        "asof": "2026-11-27",
+        "lead": "100번째 뒤 2주도 안 돼 다시 성공해, 일렉트론 발사 속도는 확인됐고 시선은 뉴트론에 남았어요.",
+        "points": [
+          [
+            "결과",
+            "일렉트론이 StriX 위성 1기를 569km 궤도에 올렸어요 — 2026년 22번째 (로켓랩 발표)"
+          ],
+          [
+            "왜 중요",
+            "최대 고객 신스펙티브의 발사가 2031년까지 33번 남아, 반복 주문이 매출을 받쳐 줘요"
+          ],
+          [
+            "ETF 연결",
+            "우주 ETF에서 로켓랩 비중이 커서(최대 약 24%), 증권사들은 뉴트론 일정·현금 소모를 위험으로 꼽아요"
+          ]
+        ],
+        "items": [
+          {
+            "t": "신스펙티브의 14번째 StriX 위성을 569km 궤도에 올려 임무에 성공했다고 발표",
+            "src": "로켓랩",
+            "url": "https://investors.rocketlabcorp.com/news-releases/news-release-details/mission-success-rocket-lab-launches-101st-electron-mission",
+            "d": "2026-11-27",
+            "tag": "공식"
+          },
+          {
+            "t": "100번째 발사 뒤 2주가 안 돼 나온 발사로, 회사 글을 들어 일렉트론의 연간 최다 발사 기록이라고 전함",
+            "src": "Starlust",
+            "url": "https://starlust.org/rocket-lab-launches-101st-electron-mission-deploys-japanese-earth-observation-satellite/",
+            "d": "2026-11-27",
+            "tag": "보도"
+          },
+          {
+            "t": "수주 잔고를 강점으로, 뉴트론 첫 발사 시기와 현금 소모를 위험으로 본 증권사 시각을 함께 전함",
+            "src": "Simply Wall St (야후 파이낸스)",
+            "url": "https://finance.yahoo.com/markets/stocks/articles/rocket-lab-rklb-stock-sees-121113577.html",
+            "d": "2026-11-26",
+            "tag": "보도"
+          }
+        ]
+      }
+    }
   },
   {
     "d": "2026-12-01",
