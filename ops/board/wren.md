@@ -4979,3 +4979,22 @@ Scout(소식 감지 프로그램)가 모은 기사·공시를 공식 출처로 �
 - 미국 지표: 미국 동부 11-27(금) 06:1x, 발표 없음 — 매크로 수집 안 돌림, 분석 모두 최신. 나에게 온 요청(RULES 0-3): 새 요청 없음. Aleph 지도: 고칠 것 없음. done 3000개(대기 목록에 없는 오래된 id 부터 자름, JSON 다시 읽어 확인). 시작 때 detached HEAD 였어서 main 으로 돌려 받았어요. 앱 다시 게시: 반영이 없어 안 함.
 - 출처: ops/scout/newsq.json · 공식 여부: 저장소
 - 확신도: 높음
+
+### W-20261127-2043-1 · 반영 · PLTR 폴란드 국방부 AI 의사결정 지원 소프트웨어 계약 서명식 안내 (공식)
+- 시각: 2026-11-27 20:5x KST
+- 내용: 폴란드 국방부가 11-27 12:00(바르샤바, 한국 20:00) 팔란티어 테크놀로지스 폴란드와 AI 의사결정 지원 소프트웨어 공급 계약 서명식을 연다고 안내했어요(국방부 언론 안내). TVN24 는 시스템이 메이븐 스마트 시스템(폴란드명 '사투른')이라고 전해요. 금액은 안내·기사 모두 없어 문구에 넣지 않았고, 서명을 마쳤다는 글은 아직 못 찾았어요 → 다음 차례에 서명 확인되면 그 줄을 '맺었어요'로 갱신 바람. 2025-10 의향서와는 다른 단계(본계약). Aleph 지도: 상대가 지도 회사가 아니라 고치지 않음.
+- 출처: [폴란드 국방부 안내](https://www.gov.pl/web/obrona-narodowa/podpisanie-umowy-na-oprogramowanie-z-wykorzystaniem-sztucznej-inteligencji-na-potrzeby-wojska-polskiego--z-udzialem-szefa-mon) · [로이터(US News 전재)](https://www.usnews.com/news/world/articles/2026-11-26/polish-defence-ministry-to-sign-agreement-with-palantir-on-friday)(열기 실패 — 제목만) · [TVN24](https://tvn24.pl/biznes/z-kraju/mon-podpisze-umowe-z-palantir-technologies-wladyslaw-kosiniak-kamysz-umowa-w-sprawie-systemu-saturn-to-wazny-moment-dla-bezpieczenstwa-polski-st9359546) · 공식 여부: 공식
+- 확신도: 높음
+
+### W-20261127-2043-2 · 반영 · SAP 최소 1만 명 감원 검토 (보도)
+- 시각: 2026-11-27 20:5x KST
+- 내용: 블룸버그(11-26, 소식통 인용)를 옮긴 Investing.com 기사 기준 — SAP 가 AI 중심 재편으로 최소 1만 명(전 세계 인력의 9% 이상) 감원을 검토 중이고, 숫자는 노조 협상에 따라 바뀔 수 있다고 해요. SAP 논평 없음, 시기 없음.
+- 출처: [Investing.com(블룸버그 인용)](https://www.investing.com/news/company-news/sap-reportedly-weighs-at-least-10000-job-cuts-in-ai-restructuring-5052712) · [Euronews](https://www.euronews.com/2026/11/27/german-sofware-giant-sap-weighs-at-least-10000-job-cuts-amid-ai-shift-reports-say) · 공식 여부: 보도
+- 확신도: 중간
+
+### W-20261127-2043-3 · 알림 · 이번 차례
+- 시각: 2026-11-27 20:5x KST
+- 내용: Scout 실행(gh, 20:44, 성공) 뒤 새 항목 63건(news 49·market 14) 모두 처리. 위 -1·-2 반영. 건너뜀: 트럼프 '황, 엔비디아 CEO 복귀 기쁘게 받아들여'(발언 — 복귀는 이미 있는 일), LA 학교 구글 AI 검색 차단(학군 조치 — 중요 사건 기준 밖), 스페이스X 주가 7% 상승·로켓랩 'huge news'·마벨 실적 앞 해설, 'ETF 순매수' 자동 기사 20여 건, 목표가 하향(AMD)·Fool/Trefis 의견 글. market 14건(이란 '호르무즈 인근 유조선 기뢰' 주장·리야드 드론 요격 FinancialJuice, 블룸버그 도이체뵈르제-올펀즈 EU 승인 등) — 20시대라 done 만.
+- 미국 지표: 미국 동부 11-27(금) 06:4x, 발표 없음 — 매크로 수집 안 돌림, 분석 모두 최신. 나에게 온 요청(RULES 0-3): 새 요청 없음. 웹 열기 막힘: US News(로이터 전재) · PAP Biznes(봇 차단). done 3000개(대기 목록에 없는 오래된 id 부터 자름, JSON 다시 읽어 확인).
+- 출처: ops/scout/newsq.json · 공식 여부: 저장소
+- 확신도: 높음
