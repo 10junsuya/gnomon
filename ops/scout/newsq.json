@@ -1,6 +1,6 @@
 {
-"updated_kst": "2026-11-28 07:40",
-"rot": 116,
+"updated_kst": "2026-11-28 07:43",
+"rot": 176,
 "how": "Scout(프로그램)이 10분마다 모은 기사 제목·링크와 공시예요. Wren이 공식 출처로 확인한 뒤 회사 화면에 한국어로 반영해요. 본문은 받지 않아요.",
 "sources": {
 "Yahoo Finance": "120종목 확인 · 실패 0",
@@ -10,7 +10,7 @@
 "CNBC": "63건",
 "Bloomberg": "40건",
 "WSJ": "60건",
-"Reuters": "56건",
+"Reuters": "100건",
 "FinancialJuice": "100건",
 "SEC EDGAR": "실패 HTTPError",
 "Fox Business": "50건"
@@ -8024,6 +8024,26 @@
 "seen": "2026-11-27T05:12:20+00:00"
 },
 {
+"id": "90fdc7e866fe",
+"t": "",
+"title": "Cryptostar Holdings forms strategic alliance with U.S. AI platform provider",
+"url": "https://www.financialjuice.com/News/9871078/Cryptostar-Holdings-forms-strategic-alliance-with-US-AI-platform-provider.aspx?xy=rss",
+"pub": "2026-11-27T22:43:53+00:00",
+"src": "FinancialJuice",
+"kind": "market",
+"seen": "2026-11-27T22:43:58+00:00"
+},
+{
+"id": "b3d468f93dfc",
+"t": "",
+"title": "Cryptostar Corp plans shift to AI and HPC equipment hosting in Utah",
+"url": "https://www.financialjuice.com/News/9871077/Cryptostar-Corp-plans-shift-to-AI-and-HPC-equipment-hosting-in-Utah.aspx?xy=rss",
+"pub": "2026-11-27T22:43:30+00:00",
+"src": "FinancialJuice",
+"kind": "market",
+"seen": "2026-11-27T22:43:58+00:00"
+},
+{
 "id": "4d8859b6650a",
 "t": "",
 "title": "Saudi civil defense: danger over in eastern province",
@@ -8244,6 +8264,16 @@
 "seen": "2026-11-27T20:41:49+00:00"
 },
 {
+"id": "64426e0dac44",
+"t": "",
+"title": "FT Vest Laddered US Equity Equal Weight Buffer ETF (BFEW.N) | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9GMjZVa1RHZXRwdzI2ZEZfZjA4VlBYSUh3RlpRckJSMktWa3M4VS1aWlZPNTBuc1V3bldSZ3dsZmJld0lvaUhMT3QzVVBpazdOelZycG9pcjQ?oc=5",
+"pub": "2026-11-27T20:01:01+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-27T22:43:58+00:00"
+},
+{
 "id": "90e6a8212d3f",
 "t": "",
 "title": "Brent Crude futures settle at $95.44/bbl, down $1.13, 1.17%.",
@@ -8302,6 +8332,16 @@
 "src": "FinancialJuice",
 "kind": "market",
 "seen": "2026-11-27T19:44:43+00:00"
+},
+{
+"id": "08bf30ed2d95",
+"t": "",
+"title": "4272.JSF - | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNWWVpQXBpSWs5N200UEJlTXVEbldQTFN3SVlhQm9kT05KMUxpQkYyVHJuTDZXTFU2emZUTTkzNVdnMnRkbWc0Y1dmX0ltYThkU050TzZ3bkFGTUtJZk1TdlcyX3VMQ29MY3NscG52amlERkdDOHBmdDdYTmJaVEFCRFdXbFdZdjA?oc=5",
+"pub": "2026-11-27T19:24:11+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-27T22:43:58+00:00"
 },
 {
 "id": "90479f072a34",
@@ -8484,6 +8524,16 @@
 "seen": "2026-11-27T17:14:37+00:00"
 },
 {
+"id": "892415b5ea81",
+"t": "",
+"title": "HWC.DG - Reuters",
+"url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNV0dLcDlpLVRVMUd6R3dWZnRhSU1wemhrbXpwOWlwTXdxNjRBTmxHRVhGVjlLb1NBV1dqdl9lOUhJM2VYODZMNENsQ1M4TVd2VEhDMWVZSXU3blducGF2RFBaODd5Q19NeVA3LTlBek8wV0VkTFpQaElSbWpmUWtlRG5sdVVhZC0zSWx0YW5CYw?oc=5",
+"pub": "2026-11-27T16:55:41+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-27T22:43:58+00:00"
+},
+{
 "id": "7a9824be2fdc",
 "t": "",
 "title": "Convergence Long Short Equity ETF (CLSE.N) | Stock Price & Latest News - Reuters",
@@ -8532,6 +8582,16 @@
 "src": "Bloomberg",
 "kind": "market",
 "seen": "2026-11-27T17:14:37+00:00"
+},
+{
+"id": "4c0c8686b8fd",
+"t": "",
+"title": "4776.ODX - | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNSkxuVlc1Y0E1cTBUVFZybElMbFFCd1JlWTVnOUdUUjIzc25aOHRyZzM0Nm94OVV0QzFjWUpQM3F6STNtSHNReWlrZ3ZpdnBsaDc3alVNYnJzdHFuVExhcDc3dmx2MjhsQmFaQUNoZzFBOC1IcE1vdU13Q1B5UklPUGpaRmFKbzJ3RGc?oc=5",
+"pub": "2026-11-27T16:27:04+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-27T22:43:58+00:00"
 },
 {
 "id": "c9873acb438c",
@@ -10962,66 +11022,6 @@
 "src": "FinancialJuice",
 "kind": "market",
 "seen": "2026-11-27T07:51:21+00:00"
-},
-{
-"id": "b11a6a1926a0",
-"t": "",
-"title": "Oil Stockpiling to Influence Market in 2027, Energy Aspects Says",
-"url": "https://www.bloomberg.com/news/articles/2026-11-27/oil-stockpiling-to-influence-market-in-2027-energy-aspects-says",
-"pub": "2026-11-27T06:31:45+00:00",
-"src": "Bloomberg",
-"kind": "market",
-"seen": "2026-11-27T07:51:21+00:00"
-},
-{
-"id": "a593f89cada0",
-"t": "",
-"title": "60-Day Correlation Matrix",
-"url": "https://www.financialjuice.com/News/9870159/60-Day-Correlation-Matrix.aspx?xy=rss",
-"pub": "2026-11-27T06:31:29+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-27T07:51:21+00:00"
-},
-{
-"id": "c392e1215b49",
-"t": "",
-"title": "30-Day Correlation Matrix",
-"url": "https://www.financialjuice.com/News/9870158/30-Day-Correlation-Matrix.aspx?xy=rss",
-"pub": "2026-11-27T06:31:08+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-27T07:51:21+00:00"
-},
-{
-"id": "fe4a1ccf8d15",
-"t": "",
-"title": "NTVss.BK - | Stock Price & Latest News - Reuters",
-"url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQMU5ST1VyQ1pxM0pwdmxsZXV6bWtrQThHcVhPMEZwa0VaTEE5VnlWTWFraC00Y0gxb3FkcEtaYVRubUJoN0kwazN2bnhoUWJtekRmNjlQb3l1eUhNejdCc3FvOHROVlVTX2JRTjVLdm0tbXY0aDVGeGd6WlNvc09FQUp5T2k4RHdBMlE?oc=5",
-"pub": "2026-11-27T06:28:20+00:00",
-"src": "Reuters",
-"kind": "market",
-"seen": "2026-11-27T15:14:26+00:00"
-},
-{
-"id": "eca8b7c8735d",
-"t": "",
-"title": "AI Boom Hands Lifeline to German Industry Rocked by Car Slump",
-"url": "https://www.bloomberg.com/news/articles/2026-11-27/ai-boom-hands-lifeline-to-german-industry-rocked-by-car-slump",
-"pub": "2026-11-27T06:28:06+00:00",
-"src": "Bloomberg",
-"kind": "market",
-"seen": "2026-11-27T07:51:21+00:00"
-},
-{
-"id": "c4462fdb32c8",
-"t": "",
-"title": "Promotora de Informaciones, S.A. (0R7W.L) | Stock Price & Latest News - Reuters",
-"url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9NVVlSM19OdzdZU1FiQmJKVThteG1XbGtyZmt6NVR1WTE4aklDYVJhSFlLSzBsOFBJeF9WMVQxdEpOZ3NydVF6Zm84RWkwUmhMZ0l4NWtsVGpfZ1dCY0E?oc=5",
-"pub": "2026-11-27T06:25:32+00:00",
-"src": "Reuters",
-"kind": "market",
-"seen": "2026-11-27T08:54:02+00:00"
 }
 ]
 }
