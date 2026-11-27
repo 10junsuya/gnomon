@@ -1,6 +1,6 @@
 {
-"updated_kst": "2026-11-27 14:12",
-"rot": 103,
+"updated_kst": "2026-11-27 15:20",
+"rot": 163,
 "how": "Scout(프로그램)이 10분마다 모은 기사 제목·링크와 공시예요. Wren이 공식 출처로 확인한 뒤 회사 화면에 한국어로 반영해요. 본문은 받지 않아요.",
 "sources": {
 "Yahoo Finance": "120종목 확인 · 실패 0",
@@ -9,13 +9,53 @@
 "Business Wire": "0건",
 "CNBC": "63건",
 "Bloomberg": "40건",
-"WSJ": "61건",
-"Reuters": "56건",
+"WSJ": "60건",
+"Reuters": "55건",
 "FinancialJuice": "100건",
 "SEC EDGAR": "실패 HTTPError",
 "Fox Business": "50건"
 },
 "items": [
+{
+"id": "6f9a3222c6ba",
+"t": "NVDA",
+"title": "The tiny Dutch town being overwhelmed by an AI boom",
+"url": "https://uk.finance.yahoo.com/news/tiny-dutch-town-being-overwhelmed-060000999.html",
+"pub": "2026-11-27T06:00:00+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-27T06:20:52+00:00"
+},
+{
+"id": "51bd9aee13b2",
+"t": "NVDA",
+"title": "Learn Why The Bull Case For Nvidia Stock Could Change Following CEO Reinstatement",
+"url": "https://finance.yahoo.com/markets/stocks/articles/learn-why-bull-case-nvidia-051409281.html",
+"pub": "2026-11-27T05:14:09+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-27T06:20:52+00:00"
+},
+{
+"id": "e7728023be65",
+"t": "CRM",
+"title": "Should AI Pricing Change Require Action From Salesforce Stock Investors?",
+"url": "https://finance.yahoo.com/markets/stocks/articles/ai-pricing-change-require-action-051123357.html",
+"pub": "2026-11-27T05:11:23+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-27T06:20:52+00:00"
+},
+{
+"id": "5893b6184ee8",
+"t": "ON",
+"title": "ACM Research And 2 More Automation Stocks To Watch",
+"url": "https://finance.yahoo.com/technology/ai/articles/acm-research-2-more-automation-042446667.html",
+"pub": "2026-11-27T04:24:46+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-27T06:20:52+00:00"
+},
 {
 "id": "a3d19ecbd716",
 "t": "NVDA",
@@ -65,6 +105,26 @@
 "src": "Yahoo Finance",
 "kind": "news",
 "seen": "2026-11-27T05:12:20+00:00"
+},
+{
+"id": "ceb249b436da",
+"t": "CSCO",
+"title": "Is Cisco Among the Morgan Stanley’s 8 Best Networking & Optical Communications Stocks to Buy for 2027?",
+"url": "https://finance.yahoo.com/markets/stocks/articles/cisco-among-morgan-stanley-8-041234343.html",
+"pub": "2026-11-27T04:12:34+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-27T06:20:52+00:00"
+},
+{
+"id": "2a01470cfcd7",
+"t": "NVDA",
+"title": "Neoclouds Told To Choose: Nvidia Chips Or Chinese Customers",
+"url": "https://finance.yahoo.com/technology/articles/neoclouds-told-choose-nvidia-chips-041120920.html",
+"pub": "2026-11-27T04:11:20+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-27T06:20:52+00:00"
 },
 {
 "id": "d24f9681f080",
@@ -267,6 +327,16 @@
 "seen": "2026-11-27T05:12:20+00:00"
 },
 {
+"id": "98260ebe7b44",
+"t": "AXP",
+"title": "American Express (AXP) Names Sarah Dodds Brown As Legal Chief After Laureen Seeger Retirement",
+"url": "https://finance.yahoo.com/markets/stocks/articles/american-express-axp-names-sarah-031418742.html",
+"pub": "2026-11-27T03:14:18+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-27T06:20:52+00:00"
+},
+{
 "id": "801e6bb434dd",
 "t": "INTC",
 "title": "Intel’s (INTC) AI Opportunity Is Growing, But There’s One Big Problem Holding It Back",
@@ -305,6 +375,16 @@
 "src": "Yahoo Finance",
 "kind": "news",
 "seen": "2026-11-27T04:01:46+00:00"
+},
+{
+"id": "1f0adbf0ab36",
+"t": "BABA",
+"title": "U.S. AI chip curbs stall billions in Asia data center deals, Bloomberg reports",
+"url": "https://finance.yahoo.com/technology/ai/articles/u-ai-chip-curbs-stall-030554065.html",
+"pub": "2026-11-27T03:05:54+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-27T06:20:52+00:00"
 },
 {
 "id": "51b7180a3f8b",
@@ -7941,84 +8021,94 @@
 "seen": "2026-11-25T23:57:52+00:00"
 },
 {
-"id": "573845b6a69d",
-"t": "JOBY",
-"title": "Joby Aviation Just Dropped 20% in a Week. Is It Time to Sell, or Load Up?",
-"url": "https://www.tikr.com/blog/joby-aviation-just-dropped-20-in-a-week-is-it-time-to-sell-or-load-up",
-"pub": "2026-11-25T23:36:43+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-25T23:57:52+00:00"
+"id": "61a0ff5478e6",
+"t": "",
+"title": "Russia prolongs aviation fuel export ban until March 31: IFX",
+"url": "https://www.financialjuice.com/News/9870135/Russia-prolongs-aviation-fuel-export-ban-until-March-31-IFX.aspx?xy=rss",
+"pub": "2026-11-27T06:00:23+00:00",
+"src": "FinancialJuice",
+"kind": "market",
+"seen": "2026-11-27T06:20:52+00:00"
 },
 {
-"id": "de4bc619e54e",
-"t": "MRNA",
-"title": "What Sent Moderna Stock Higher?",
-"url": "https://www.trefis.com/stock/mrna/articles/628629/what-sent-moderna-stock-higher/2026-11-25",
-"pub": "2026-11-25T23:36:21+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-25T23:57:52+00:00"
+"id": "38508676edf2",
+"t": "",
+"title": "Is this a dead turkey bounce? - Reuters",
+"url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPSE5IZ1ZaakNkaEMxUmFKRGxIRHdHUGhKZXdjVkRJdXRiOXJLN1RnNmNFaEVjVVVDcGVEZTJwTjlJT1dpdTN6eDduT0NwSVpwN0c4Qzl5U3JoMFVJaWRMQ3NxMzVzZnpiRWxZQndQbmZ2SXZuTWhvaDE1OEszOUVIY2Vzaw?oc=5",
+"pub": "2026-11-27T05:33:00+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-27T06:20:52+00:00"
 },
 {
-"id": "539fb8ece1f2",
-"t": "CRCL",
-"title": "Circle Is Down 13% in a Week and Just Hit a New 52-Week Low. Is the Selling Overdone?",
-"url": "https://www.tikr.com/blog/circle-is-down-13-in-a-week-and-just-hit-a-new-52-week-low-is-the-selling-overdone",
-"pub": "2026-11-25T23:34:49+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-25T23:57:52+00:00"
+"id": "13157d94fb2a",
+"t": "",
+"title": "Shares of Minimax 0100.hk rise over 17%, Z.AL 2513.hk up more than 15%",
+"url": "https://www.financialjuice.com/News/9870115/Shares-of-Minimax-0100hk-rise-over-17-ZAL-2513hk-up-more-than-15.aspx?xy=rss",
+"pub": "2026-11-27T05:32:33+00:00",
+"src": "FinancialJuice",
+"kind": "market",
+"seen": "2026-11-27T06:20:52+00:00"
 },
 {
-"id": "6a65e6ee8a61",
-"t": "SKHY",
-"title": "223% Upside for Sandisk? Mizuho Thinks So, and Here’s How",
-"url": "https://www.tikr.com/blog/223-upside-for-sandisk-mizuho-thinks-so-and-heres-how",
-"pub": "2026-11-25T23:33:51+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-26T10:44:34+00:00"
+"id": "a1fddac54d02",
+"t": "",
+"title": "Hong Kong shares of Hua Hong Grace Semiconductor 1347.hk rise over 18%",
+"url": "https://www.financialjuice.com/News/9870114/Hong-Kong-shares-of-Hua-Hong-Grace-Semiconductor-1347hk-rise-over-18.aspx?xy=rss",
+"pub": "2026-11-27T05:32:33+00:00",
+"src": "FinancialJuice",
+"kind": "market",
+"seen": "2026-11-27T06:20:52+00:00"
 },
 {
-"id": "1444058cd6e6",
-"t": "PLTR",
-"title": "Are You Overpaying For Palantir Stock Versus Its Rivals?",
-"url": "https://www.trefis.com/stock/pltr/articles/628772/are-you-overpaying-for-palantir-stock-versus-its-rivals/2026-11-25",
-"pub": "2026-11-25T23:31:04+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-25T23:44:37+00:00"
+"id": "2f88d176fb38",
+"t": "",
+"title": "Shares of Shanghai iLuvatar CoreX Semiconductor 9903.HK rise 23%",
+"url": "https://www.financialjuice.com/News/9870113/Shares-of-Shanghai-iLuvatar-CoreX-Semiconductor-9903HK-rise-23.aspx?xy=rss",
+"pub": "2026-11-27T05:32:33+00:00",
+"src": "FinancialJuice",
+"kind": "market",
+"seen": "2026-11-27T06:20:52+00:00"
 },
 {
-"id": "9fd86c751838",
-"t": "PANW",
-"title": "PANW Stock Slips After-Hours On Former Executive’s Accounting Fraud Allegations: Firm Denies Claims",
-"url": "https://stocktwits.com/news-articles/markets/equity/panw-stock-slips-after-hours-on-former-executive-s-accounting-fraud-allegations-firm-denies-claims/cNbHvN7R9mz",
-"pub": "2026-11-25T23:25:52+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-25T23:57:52+00:00"
+"id": "4366acb761bd",
+"t": "",
+"title": "Dutch Manufacturing Confidence Actual 3.4 (Forecast -, Previous 2.3)",
+"url": "https://www.financialjuice.com/News/9870100/Dutch-Manufacturing-Confidence-Actual-34-Forecast---Previous-23.aspx?xy=rss",
+"pub": "2026-11-27T05:30:15+00:00",
+"src": "FinancialJuice",
+"kind": "market",
+"seen": "2026-11-27T06:20:52+00:00"
 },
 {
-"id": "04461c2925de",
-"t": "SPCX",
-"title": "If SpaceX and Tesla Merge Next Year, Here's What a $5,000 Investment in the Combined Company Could Be Worth by the End of 2028",
-"url": "https://www.fool.com/investing/2026/11/25/if-spacex-and-tesla-merge-next-year-here-s-what-a-usd5-000-investment-in-the-combined-company-could-be-worth-by-the-end-of-2027/",
-"pub": "2026-11-25T23:24:02+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-25T23:44:37+00:00"
+"id": "3ef7c2aa94d8",
+"t": "",
+"title": "Poor Regulation of $500 Billion Sand Trade Raises Construction Safety Concerns",
+"url": "https://www.bloomberg.com/features/2026-sand-mining/",
+"pub": "2026-11-27T05:22:20+00:00",
+"src": "Bloomberg",
+"kind": "market",
+"seen": "2026-11-27T06:20:52+00:00"
 },
 {
-"id": "bfc76cc5b1b5",
-"t": "NVDA",
-"title": "'Big Short' Investor Michael Burry Just Closed His Bet Against the Nasdaq. Here's What Investors Should Do Now",
-"url": "https://www.fool.com/investing/2026/11/25/big-short-investor-michael-burry-just-closed-his-bet-against-the-nasdaq-here-s-what-investors-should-do-now/",
-"pub": "2026-11-25T23:20:28+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-25T23:44:37+00:00"
+"id": "85cf28d660d8",
+"t": "",
+"title": "India’s Salary Review to Exacerbate Fiscal Strains, Analysts Say",
+"url": "https://www.bloomberg.com/news/articles/2026-11-27/india-s-salary-review-to-exacerbate-fiscal-strains-analysts-say",
+"pub": "2026-11-27T05:19:05+00:00",
+"src": "Bloomberg",
+"kind": "market",
+"seen": "2026-11-27T06:20:52+00:00"
+},
+{
+"id": "dab6bcb80992",
+"t": "",
+"title": "Australia Orders LNG Exporters Reserve Some Gas to Plug Shortages at Home",
+"url": "https://www.wsj.com/finance/commodities-futures/australia-orders-lng-exporters-reserve-some-gas-to-plug-shortages-at-home-72d6fe9b",
+"pub": "2026-11-27T05:14:00+00:00",
+"src": "WSJ",
+"kind": "market",
+"seen": "2026-11-27T06:20:52+00:00"
 },
 {
 "id": "a91b01d6d7b9",
@@ -10901,6 +10991,16 @@
 "seen": "2026-11-26T23:29:54+00:00"
 },
 {
+"id": "b146cea68b8c",
+"t": "",
+"title": "Prosus NV (1YLy.F) | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBoNGszeTFFV000VnZEUjdLNXBsb1JzdUR3T09aWTQ4VTN2X2lyWGw5TFNFckdyWmdmc283dktnbGItLWFvanVZNTFNRllmVFJNQXhuQjNXdVVpaEo3X3h5VlVneGY4TXJUNUdMenhR?oc=5",
+"pub": "2026-11-26T09:24:18+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-27T06:20:52+00:00"
+},
+{
 "id": "7979337654ca",
 "t": "",
 "title": "Radha Madhav Corp Ltd (RMCP.BO) | Stock Price & Latest News - Reuters",
@@ -10919,106 +11019,6 @@
 "src": "Reuters",
 "kind": "market",
 "seen": "2026-11-26T10:39:24+00:00"
-},
-{
-"id": "97dd619e6ed5",
-"t": "",
-"title": "Bulgaria ready to back EU loan for Ukraine for civilian aid, Radev says - Reuters",
-"url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPR2dRYUZkbTc4Q2lNSlNIS2M3c2xRbGpoc20zbGcyZk5yWXQ2SlhtQ2VTMGZ2eElTY3ltaDlXd3RXWlVXR1hhV2JldklxeDlockpsMzU4cEotcFg4TGZpcWJPRHh0VmM5STFyMmlmRnlsak01VzUwSnFSaC0taTBKZ3Fhb2lqRlZDUThIQVNxa2U0bktBRHIyaG5JNnpSU2Y4UDcxcEIxMXNzQzRI?oc=5",
-"pub": "2026-11-26T09:12:09+00:00",
-"src": "Reuters",
-"kind": "market",
-"seen": "2026-11-26T09:37:55+00:00"
-},
-{
-"id": "910c140987a5",
-"t": "",
-"title": "Can Trump Gain Any Leverage Over China With the 40% Tariff Threat?",
-"url": "https://www.bloomberg.com/news/videos/2026-11-26/insight-with-haslinda-amin-11-26-2026-video",
-"pub": "2026-11-26T09:09:16+00:00",
-"src": "Bloomberg",
-"kind": "market",
-"seen": "2026-11-26T10:14:26+00:00"
-},
-{
-"id": "8a8ac24180e1",
-"t": "",
-"title": "Germany’s Chancellor Merz: Current proposals on eu budget are no basis for deal.",
-"url": "https://www.financialjuice.com/News/9869140/Germanys-Chancellor-Merz-Current-proposals-on-eu-budget-are-no-basis-for-deal.aspx?xy=rss",
-"pub": "2026-11-26T09:07:52+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-26T09:14:28+00:00"
-},
-{
-"id": "824d0dfa6ba4",
-"t": "",
-"title": "BOJ’s Paper Gains From ETFs Surge as Takaichi Seeks Funding",
-"url": "https://www.bloomberg.com/news/articles/2026-11-26/boj-s-paper-gains-from-etfs-surge-as-takaichi-seeks-funding",
-"pub": "2026-11-26T09:07:17+00:00",
-"src": "Bloomberg",
-"kind": "market",
-"seen": "2026-11-26T09:37:55+00:00"
-},
-{
-"id": "f4adc197f060",
-"t": "",
-"title": "Marc Levinson on How UPS Created Modern Logistics",
-"url": "https://www.bloomberg.com/news/articles/2026-11-26/marc-levinson-on-how-ups-created-modern-logistics",
-"pub": "2026-11-26T09:00:22+00:00",
-"src": "Bloomberg",
-"kind": "market",
-"seen": "2026-11-26T09:14:28+00:00"
-},
-{
-"id": "9db2e036afe2",
-"t": "",
-"title": "Eurozone Loans to Households Actual 3.1% (Forecast -, Previous 3.1%)",
-"url": "https://www.financialjuice.com/News/9869129/Eurozone-Loans-to-Households-Actual-31-Forecast---Previous-31.aspx?xy=rss",
-"pub": "2026-11-26T09:00:20+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-26T09:14:28+00:00"
-},
-{
-"id": "98ac488d9c01",
-"t": "",
-"title": "Eurozone Loans to Non Financial Firms Actual 4.5% (Forecast -, Previous 4.2%)",
-"url": "https://www.financialjuice.com/News/9869128/Eurozone-Loans-to-Non-Financial-Firms-Actual-45-Forecast---Previous-42.aspx?xy=rss",
-"pub": "2026-11-26T09:00:19+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-26T09:14:28+00:00"
-},
-{
-"id": "6985ca18b722",
-"t": "",
-"title": "Eurozone Money-M3 Annual Growth Actual 3.6% (Forecast 3.5%, Previous 3.5%)",
-"url": "https://www.financialjuice.com/News/9869127/Eurozone-Money-M3-Annual-Growth-Actual-36-Forecast-35-Previous-35.aspx?xy=rss",
-"pub": "2026-11-26T09:00:03+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-26T09:14:28+00:00"
-},
-{
-"id": "e07d972099b1",
-"t": "",
-"title": "Turkey’s Defense Chief to Meet Hegseth to Discuss Russian S-400s",
-"url": "https://www.bloomberg.com/news/articles/2026-11-26/turkey-s-defense-chief-to-meet-hegseth-to-discuss-russian-s-400s",
-"pub": "2026-11-26T09:00:01+00:00",
-"src": "Bloomberg",
-"kind": "market",
-"seen": "2026-11-26T09:14:28+00:00"
-},
-{
-"id": "3d4535f17565",
-"t": "",
-"title": "Odd Lots: Levinson on How UPS Created Modern Logistics (Podcast)",
-"url": "https://www.bloomberg.com/news/audio/2026-11-26/odd-lots-levinson-on-how-ups-created-modern-logistics-podcast",
-"pub": "2026-11-26T09:00:00+00:00",
-"src": "Bloomberg",
-"kind": "market",
-"seen": "2026-11-26T09:14:28+00:00"
 }
 ]
 }
