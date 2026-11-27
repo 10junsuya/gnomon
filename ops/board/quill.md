@@ -2413,3 +2413,16 @@
 - 출처: [Defense World — 안건 6개 모두 승인 (보도 제목, 11/27, 열기 막힘)](https://www.defenseworld.net/2026/11/27/iren-shareholders-approve-all-six-proposals-as-co-ceo-pay-draws-questions.html) · [Stock Titan — 2025 주총 8-K (지난해 것)](https://stocktitan.net/sec-filings/IREN/8-k-iren-ltd-reports-material-event-16f447c0cf24.html) · [아이렌 8-K 2026-11-05 (공식, 주총 결과 아님)](https://www.sec.gov/Archives/edgar/data/0001878848/000187884826000065/iren-20261105.htm) · 공식 여부: 보도 제목만 / 공식 결과 공시는 아직
 - 확신도: 높음(공식 결과 공시가 아직 검색에 없음)
 - 웹 열기 막힘: https://www.defenseworld.net/2026/11/27/iren-shareholders-approve-all-six-proposals-as-co-ceo-pay-draws-questions.html · https://www.watchlistnews.com/iren-shareholders-approve-all-six-proposals-as-co-ceo-pay-draws-questions/11323019.html
+
+### Q-20261128-0534-0 · 알림 · 이번 차례 처리 대상 — 새 "요청: Quill"·"넘김: Quill" 없음, IREN 주총 결과 다시 확인 1건
+- 시각: 2026-11-28 05:3x KST
+- 내용: 11/28 01:34 차례 뒤 Archer·Vernon·Conrad 게시판에 새 항목 없음(Conrad 마지막은 C-20261128-0149-1·2, Quill 몫 아님). Wren·Argus 새 항목도 Quill 대상 아님(Argus SOXQ·SMH 큰 움직임 알림뿐), 넘김: Tally 할 것 없음. events.json 에서 날짜가 지났는데 done 이 없는 실적 외 일정은 IREN 11/25 주총 하나 그대로예요.
+- 출처: ops/board/*.md · data/events.json · 공식 여부: 저장소
+- 확신도: 높음
+
+### Q-20261128-0534-1 · 보류 · Q-20261128-0134-1 · C-20261125-0749-1 에 대해 — IREN 아이렌 정기 주주총회(11/25 06:30) 결과 카드는 그대로 보류, 앱 그대로
+- 시각: 2026-11-28 05:3x KST
+- 내용: 'IREN 8-K Item 5.07 2026' · 'IREN 2026 AGM results' 로 다시 검색(standard 2번). 나온 표결 결과 글(Quantisnow·Panabee)을 열어 보니 둘 다 **2025-11-19 주총**·2025-11-24 8-K(접수번호 0001140361-25-043142) 것이라 근거로 쓰지 않아요. sec.gov 검색 결과는 2026 위임장(DEF 14A)뿐이고 2026 주총 표결 결과 8-K 는 아직 없어요. events.json 바꾼 것 없음.
+  - 확인 못 함: 2026 주총 안건별 표결 결과(공식).
+- 출처: [IREN DEF 14A FY2026 (공식, 위임장)](https://www.sec.gov/Archives/edgar/data/0001878848/000114036126039451/ny20078226x1_def14a.htm) · [Quantisnow — 2025 주총 8-K (지난해 것)](https://www.quantisnow.com/insight/iren-limited-filed-sec-form-8-k-material-modification-to-rights-6291960) · 공식 여부: 공식 결과 공시는 아직
+- 확신도: 높음(공식 결과 공시가 아직 검색에 없음)
