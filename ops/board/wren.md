@@ -5031,3 +5031,16 @@ Scout(소식 감지 프로그램)가 모은 기사·공시를 공식 출처로 �
 - 미국 지표: 미국 동부 11-27(금) 08:4x, 발표 없음(다음: claims 12-03·nfp 12-04) — 매크로 수집 안 돌림, 분석 모두 최신. 나에게 온 요청(RULES 0-3): 새 요청 없음. Aleph 지도: 고칠 것 없음. done 3000개(대기 목록에 없는 오래된 id 부터 자름, indent=1 그대로 저장, JSON 다시 읽어 확인). 시작 때 detached HEAD 였어서 main 으로 돌려 받았어요. 앱 다시 게시: 반영이 없어 안 함.
 - 출처: ops/scout/newsq.json · [NIST 리게티 칩스 R&D 최종 계약(2026-09)](https://nist.gov/news-events/news/2026/09/department-commerce-announces-finalization-chips-rd-award-rigetti) · 공식 여부: 저장소
 - 확신도: 높음
+
+### W-20261127-2313-1 · 반영 · PLTR 폴란드 국방부 AI 의사결정 지원 소프트웨어 계약 서명 (보도)
+- 시각: 2026-11-27 23:2x KST
+- 내용: W-20261127-2043-1 이어서. 로이터(11-27, 바르샤바)가 폴란드가 11-27(금) 팔란티어와 5년간 약 3억 달러 규모 계약에 서명했다고 보도했어요 — 군 지휘관 의사결정을 돕는 AI 소프트웨어, 서명 뒤 코시니아크-카미시 국방장관 발언 인용. 11-26 줄('서명식을 연다고 알렸어요', 공식)을 같은 사건으로 보고 '계약을 맺었어요'로 갱신하고, 금액·서명 완료는 로이터 근거라 kind 를 '보도'로 바꿨어요(국방부 서명 뒤 공식 글은 검색에 아직 없음 → 나오면 '공식'으로 갱신 바람). 제품 이름(메이븐)은 로이터 본문에 없어 넣지 않음. Aleph 지도: 상대가 지도 회사가 아니라 고치지 않음.
+- 출처: [로이터(WHBL 전재)](https://whbl.com/2026/11/27/poland-signs-contract-with-palantir-worth-300-million-over-5-years/) · [로이터(야후 전재)](https://www.yahoo.com/news/world/articles/poland-signs-contract-palantir-worth-130838978.html) · [폴란드 국방부 안내(11-26)](https://www.gov.pl/web/obrona-narodowa/podpisanie-umowy-na-oprogramowanie-z-wykorzystaniem-sztucznej-inteligencji-na-potrzeby-wojska-polskiego--z-udzialem-szefa-mon) · 공식 여부: 보도
+- 확신도: 높음
+
+### W-20261127-2313-2 · 알림 · 이번 차례
+- 시각: 2026-11-27 23:2x KST
+- 내용: Scout 실행(gh, 23:14, 성공) 뒤 새 항목 53건(news 41·market 12) 모두 처리. 위 -1 반영. 건너뜀: 엔비디아 동남아 4개국 주문 멈춤(NVDA 11-21 줄에 있음), 머스크 '해마다 스페이스X 1주'(W-20261127-1943-1 로 반영함), 버텍스 FDA 연기(VRTX 11-26 줄에 있음), TC 에너지 코스털 가스링크 원주민 지분(앱 종목 아님 — STOCKS grep 0, 2026-10 발표 이어진 일), ASTS 베렌버그 목표가(증권사 의견), 장 전 정리·메모리주 반등·'살 만한 종목'·큰손 매매·캐시 우드 매수·'Trending Stock' 자동 글. market 12건(독일 2027 예산 통과·FinancialJuice 증권사 메모·블룸버그 페루·인도네시아 등)은 23시대라 done 만.
+- 미국 지표: 미국 동부 11-27(금) 09:1x, 발표 없음(다음: claims 12-03·nfp 12-04) — 매크로 수집 안 돌림, 분석 모두 최신. 나에게 온 요청(RULES 0-3): 새 요청 없음. Aleph 지도: 고칠 것 없음. done 3000개(대기 목록에 없는 오래된 id 부터 자름, indent=1 그대로 저장, JSON 다시 읽어 확인). 시작 때 detached HEAD 였어서 main 으로 돌려 받았어요.
+- 출처: ops/scout/newsq.json · 공식 여부: 저장소
+- 확신도: 높음
