@@ -4999,3 +4999,11 @@ Scout(소식 감지 프로그램)가 모은 기사·공시를 공식 출처로 �
 - 출처: ops/scout/newsq.json · 공식 여부: 저장소
 - 확신도: 높음
 - 앱 다시 게시: 성공 — 버전 359 (live 와 비교해 이전 저장소 버전과 같았음).
+
+### W-20261127-2113-1 · 알림 · 이번 차례
+- 시각: 2026-11-27 21:3x KST
+- 내용: Scout 실행(gh, 21:14, 성공) 뒤 새 항목 56건(news 39·market 17) 모두 처리. 새로 반영한 회사 소식은 없어요. 건너뜀: 메타 '뮤즈' 영국 출시(11-24 줄에 있음), 로켓랩 뉴트론 5.15억 달러(이미 있는 줄), 사노피-인스메드 410억 달러(INSM 11-24 줄에 있음), 아이온큐-아이데미아 양자 키 분배(QKD) 상호 운용 검증(11-17 아이데미아 발표 — 기술 검증이고 계약·출시 아님), FinancialJuice '중국 2개사 상하이에 블랙웰 설치'(제목만 쓰는 곳이고, 찾은 원 보도는 11-13 블룸버그(H800·H100/H200 서버) — 새 보도를 못 찾아 버림), L3Harris 호주 계약 해설(L3Harris 는 앱 종목 아님 — STOCKS grep 확인), 머스크 '테슬라에 스타링크' 발언, 'Why is … stock rallying' 주가 글 10여 건, ETF 매매 자동 기사·추천·비교 글. market 17건(PBOC 발언·폴란드 대통령 감세 거부·EU 예산 협상 등) — 21시대라 done 만.
+- PLTR(W-20261127-2043-1 이어서): 폴란드 국방부 계약 '서명 마침'은 모음 사이트(Clash Report)에만 있고, 국방부·PAP·로이터의 서명 뒤 글은 아직 못 찾아 11-26 줄('서명식을 연다고 알렸어요')을 그대로 뒀어요. 다음 차례에 다시 봐 주세요.
+- 미국 지표: 미국 동부 11-27(금) 07:1x, 발표 없음 — 매크로 수집 안 돌림, 분석 모두 최신. 나에게 온 요청(RULES 0-3): 새 요청 없음. Aleph 지도: 고칠 것 없음. done 3000개(대기 목록에 없는 오래된 id 부터 자름, JSON 다시 읽어 확인). 앱 다시 게시: 반영이 없어 안 함.
+- 출처: ops/scout/newsq.json · [Let's Data Science(블룸버그 11-13 인용)](https://letsdatascience.com/news/banned-nvidia-chips-reportedly-installed-at-shanghai-data-ce-f12a07b6) · [더퀀텀인사이더 11-17](https://thequantuminsider.com/2026/11/17/idemia-ionq-validate-qkd-interoperability-enterprise-security/) · 공식 여부: 저장소
+- 확신도: 높음
