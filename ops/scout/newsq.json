@@ -1,6 +1,6 @@
 {
-"updated_kst": "2026-11-27 19:07",
-"rot": 164,
+"updated_kst": "2026-11-27 19:14",
+"rot": 45,
 "how": "Scout(프로그램)이 10분마다 모은 기사 제목·링크와 공시예요. Wren이 공식 출처로 확인한 뒤 회사 화면에 한국어로 반영해요. 본문은 받지 않아요.",
 "sources": {
 "Yahoo Finance": "120종목 확인 · 실패 0",
@@ -10,7 +10,7 @@
 "CNBC": "63건",
 "Bloomberg": "40건",
 "WSJ": "60건",
-"Reuters": "100건",
+"Reuters": "55건",
 "FinancialJuice": "100건",
 "SEC EDGAR": "실패 HTTPError",
 "Fox Business": "50건"
@@ -88,6 +88,26 @@
 "src": "Yahoo Finance",
 "kind": "news",
 "seen": "2026-11-27T10:07:06+00:00"
+},
+{
+"id": "66aaf435a3c5",
+"t": "CBRS",
+"title": "3 Top Owner Operator Stocks With Revenue Up To 776 Billion",
+"url": "https://finance.yahoo.com/markets/stocks/articles/3-top-owner-operator-stocks-091125013.html",
+"pub": "2026-11-27T09:11:25+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-27T10:14:08+00:00"
+},
+{
+"id": "e4f1c6ce12f3",
+"t": "TXN",
+"title": "Will Earnings Upgrades Change Texas Instruments Stock Narrative",
+"url": "https://finance.yahoo.com/markets/stocks/articles/earnings-upgrades-change-texas-instruments-091020043.html",
+"pub": "2026-11-27T09:10:20+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-27T10:14:08+00:00"
 },
 {
 "id": "d11744d4f3d6",
@@ -200,6 +220,16 @@
 "seen": "2026-11-27T10:07:06+00:00"
 },
 {
+"id": "a1c519857b63",
+"t": "KO",
+"title": "The Coca-Cola Company and Gutsche Family Investments Close on Sale of Controlling Interest in Coca-Cola Beverages Africa to Coca-Cola HBC AG",
+"url": "https://finance.yahoo.com/markets/stocks/articles/coca-cola-company-gutsche-family-075100177.html",
+"pub": "2026-11-27T07:51:00+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-27T10:14:08+00:00"
+},
+{
 "id": "ee7927f2e2b8",
 "t": "COP",
 "title": "Zacks Industry Outlook Highlights ConocoPhillips Occidental and Calumet",
@@ -218,6 +248,16 @@
 "src": "Yahoo Finance",
 "kind": "news",
 "seen": "2026-11-27T07:51:21+00:00"
+},
+{
+"id": "8a96551e64da",
+"t": "LLY",
+"title": "Zacks Market Edge Highlights: Royal Caribbean Cruises, Abercrombie & Fitch and Burlington Stores",
+"url": "https://finance.yahoo.com/markets/stocks/articles/zacks-market-edge-highlights-royal-073400939.html",
+"pub": "2026-11-27T07:34:00+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-27T10:14:08+00:00"
 },
 {
 "id": "adc669e04f3d",
@@ -298,6 +338,16 @@
 "src": "Yahoo Finance",
 "kind": "news",
 "seen": "2026-11-27T07:51:21+00:00"
+},
+{
+"id": "930c544d966f",
+"t": "CRWD",
+"title": "The Zacks Analyst Blog Highlights CrowdStrike, Lockheed Martin, S&P Global, The Eastern and AmeriServ Financial",
+"url": "https://finance.yahoo.com/markets/stocks/articles/zacks-analyst-blog-highlights-crowdstrike-064800574.html",
+"pub": "2026-11-27T06:48:00+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-27T10:14:08+00:00"
 },
 {
 "id": "16db74599aa0",
@@ -769,6 +819,16 @@
 "src": "Yahoo Finance",
 "kind": "news",
 "seen": "2026-11-27T04:01:46+00:00"
+},
+{
+"id": "746b538f5090",
+"t": "QCOM",
+"title": "SoftBank’s “Worst Sell-Off” Since ’08 Is Bad News for Arm. Here’s the Number That Matters",
+"url": "https://www.tikr.com/blog/softbanks-worst-sell-off-since-08-is-bad-news-for-arm-heres-the-number-that-matters",
+"pub": "2026-11-27T03:08:55+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-27T10:14:08+00:00"
 },
 {
 "id": "1f0adbf0ab36",
@@ -6524,6 +6584,16 @@
 "seen": "2026-11-26T11:13:47+00:00"
 },
 {
+"id": "58ecd0d0f039",
+"t": "LLY",
+"title": "Lilly, Novo Supplier Bachem Hit by Share Drop After Growth Plans Disappoint",
+"url": "https://www.wsj.com/business/earnings/lilly-novo-supplier-bachem-hit-by-share-drop-after-growth-plans-disappoint-d3bcf6fa",
+"pub": "2026-11-26T10:55:00+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-27T10:14:08+00:00"
+},
+{
 "id": "3ee35e72a427",
 "t": "NVDA",
 "title": "$200 a Month in Realty Income Could Generate $150 in Monthly Dividends by 2036",
@@ -7955,76 +8025,6 @@
 "seen": "2026-11-26T02:44:08+00:00"
 },
 {
-"id": "9a6f040f0864",
-"t": "EBAY",
-"title": "eBay (EBAY) Stock Could Be 26% Undervalued After AI Toy Safety Scrutiny",
-"url": "https://finance.yahoo.com/markets/stocks/articles/ebay-ebay-stock-could-26-021017919.html",
-"pub": "2026-11-26T02:10:17+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-26T03:14:26+00:00"
-},
-{
-"id": "c0737a702d78",
-"t": "SPCX",
-"title": "Coinbase CEO on the Anthropic and SpaceX IPOs: Who Actually Made the Money?",
-"url": "https://beincrypto.com/coinbase-ceo-anthropic-spacex-ipo-money/",
-"pub": "2026-11-26T02:10:04+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-26T03:14:26+00:00"
-},
-{
-"id": "342662f83143",
-"t": "AMZN",
-"title": "Washington Calls It a Goldilocks Economy. On a $2,071 Social Security Check, She Calls It the Annoyance Economy: Prices Up 3.7%, and Her Real Raise Is Just 3.3%",
-"url": "https://247wallst.com/personal-finance/social-security/2026/11/25/washington-calls-it-a-goldilocks-economy-on-a-2071-social-security-check-she-calls-it-the-annoyance-economy-prices-up-3-7-and-her-real-raise-is-just-3-3/",
-"pub": "2026-11-26T02:03:25+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-26T02:26:03+00:00"
-},
-{
-"id": "8b15913d604d",
-"t": "MA",
-"title": "Debia and Mastercard Sign MoU to Advance Agentic Commerce",
-"url": "https://finance.yahoo.com/technology/ai/articles/debia-mastercard-sign-mou-advance-020000232.html",
-"pub": "2026-11-26T02:00:00+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-26T02:26:03+00:00"
-},
-{
-"id": "ee806a7e4701",
-"t": "RKLB",
-"title": "RKLB Stock Rebounds Into Thanksgiving: CFO, COO And Other Execs Sell Nearly $4M In Shares Ahead Of Electron Launch",
-"url": "https://stocktwits.com/news-articles/markets/equity/rklb-stock-cfo-coo-other-execs-sell-shares-ahead-of-electron-launch/cNbx33ZR9ZR",
-"pub": "2026-11-26T01:50:14+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-26T02:14:26+00:00"
-},
-{
-"id": "70166928dd6f",
-"t": "GS",
-"title": "Goldman Sachs lays out three signals stock investors should watch",
-"url": "https://www.thestreet.com/investing/stocks/goldman-sachs-lays-out-three-signals-stock-investors-should-watch",
-"pub": "2026-11-26T01:37:00+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-26T02:44:08+00:00"
-},
-{
-"id": "1ecc2016b073",
-"t": "NVDA",
-"title": "Nvidia Put on Negative Credit Watch by S&P Over ‘Key Man’ Risk: Moody’s Says Jensen Huang’s Return as CEO ‘Reduces Near-Term Uncertainty’",
-"url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-put-negative-credit-watch-013558626.html",
-"pub": "2026-11-26T01:35:58+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-26T03:14:26+00:00"
-},
-{
 "id": "6372fc4eb484",
 "t": "",
 "title": "Russia’s Deputy PM Novak: Haven't heard about plans for Venezuela and Iraq to quit OPEC deal",
@@ -8043,6 +8043,16 @@
 "src": "FinancialJuice",
 "kind": "market",
 "seen": "2026-11-27T10:07:06+00:00"
+},
+{
+"id": "441fe87563e6",
+"t": "",
+"title": "European Workers’ AI Use on Par With That of US Peers, ECB Says",
+"url": "https://www.bloomberg.com/news/articles/2026-11-27/european-workers-ai-use-on-par-with-that-of-us-peers-ecb-says",
+"pub": "2026-11-27T10:00:00+00:00",
+"src": "Bloomberg",
+"kind": "market",
+"seen": "2026-11-27T10:14:08+00:00"
 },
 {
 "id": "9b2b2e14875f",
@@ -8385,6 +8395,16 @@
 "seen": "2026-11-27T10:07:06+00:00"
 },
 {
+"id": "a00d46e48b65",
+"t": "",
+"title": "Spain's 12-month EU-harmonised inflation falls to 4.1% in November - Reuters",
+"url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxObXhfaWZjV2tnUWppbUhLQUg1eFZFc2V0cnVIelk1Q0Uwd3NpMG9DU0dWTUFnenR6aGNNa3k4TU5RelVlTkZKVFphLS1GQ0c2M0NjYUctc0RPWHp6Y1N5RGRNQy1nb05LQlVsWWQ0ZGpvMVRrT3ZyVHhwc2dveWNVWkEtb3JOZU9PWFFSUlF2Q2lHSDJZU3M1N0xaX0VzdVBxNEtsSWxVY3U5dl9P?oc=5",
+"pub": "2026-11-27T08:05:44+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-27T10:14:08+00:00"
+},
+{
 "id": "6ecdca754896",
 "t": "",
 "title": "Taiwan Lifts 2027 Growth Outlook Despite Mounting AI Concern",
@@ -8595,6 +8615,16 @@
 "seen": "2026-11-27T08:54:02+00:00"
 },
 {
+"id": "6cfd54ee7337",
+"t": "",
+"title": "Michael Page PLC (PAGE.L) | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBzQy1reEZqWHFscmJaYzVNdV81OUFBcTdPWXhsendYZGN4VU5ER1d1R0REM2J3QWIwUDdOWll6djBoN1NjV1QwNG4tci1EellpVm1Cc3dxLWZwbjFmRHc?oc=5",
+"pub": "2026-11-27T07:38:42+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-27T10:14:08+00:00"
+},
+{
 "id": "3d7824e1d1c7",
 "t": "",
 "title": "Indonesia Palm Oil Tenders Stall on Weak Demand and Tight Supply",
@@ -8665,6 +8695,16 @@
 "seen": "2026-11-27T07:51:21+00:00"
 },
 {
+"id": "8e0998650323",
+"t": "",
+"title": "China's factory slump likely extends to November despite solid exports - Reuters",
+"url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxObTJEX3lna0xGOEJxYnJoM2RkemlfOUdUakRNM3BmTmF0TUtpRmRrYVE3VnRlanVYNzZaYVRNUlc2aWhzUnlSX3hyRDlXc182MERSV19SRFgwcTNhWS1zNUowcjFDOGhzcllxSHEwR09VZTBpVnp4WUZIdnhSckRabEZOdXlUS1lxZFRDUGNRMXlZU20xMlJ6WFB5QTNHWDczTmxFV0lDZmY2bTlObWtVdUhsTWRhdw?oc=5",
+"pub": "2026-11-27T07:15:00+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-27T10:14:08+00:00"
+},
+{
 "id": "cc7c0207e0ab",
 "t": "",
 "title": "Norwegian Unemployment Rate NSA Actual 2.0% (Forecast -, Previous 2.0%)",
@@ -8733,6 +8773,16 @@
 "src": "Reuters",
 "kind": "market",
 "seen": "2026-11-27T08:54:02+00:00"
+},
+{
+"id": "0a814bffa78d",
+"t": "",
+"title": "Renault SA (RENA.PA) | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5RLXpsLVVlR1VNdGZWVm9SVlZPa3VEajVkeUpsQUNPWVFOOUVWWDZZV25DYWI3NEktdV9NWEZScHdrZ3pmWkl5LVVSUS1OTU9SdDlES0t6M2JNdkFNUnZj?oc=5",
+"pub": "2026-11-27T06:47:12+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-27T10:14:08+00:00"
 },
 {
 "id": "343149636b15",
@@ -9243,6 +9293,16 @@
 "src": "Reuters",
 "kind": "market",
 "seen": "2026-11-27T05:12:20+00:00"
+},
+{
+"id": "dcb8b131651b",
+"t": "",
+"title": "TRAPETUN91A5.TRXA%5EG21 - | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOd083OEFMMjZvaFYyWF9LUmp2THl3bjViVDZfQXc1TXZuVW5IREdldFJIaTNOREJBNHVWbGkyWnkyMGJSSHVpUUttXzZFemo5R1Qyb2g0MUVqTWZWSHh5aTBrbmtYWkc0bE5qOE5KVWJBcnBrTlpib0RWeXc0eTRiN2Y0LTA?oc=5",
+"pub": "2026-11-27T04:06:55+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-27T10:14:08+00:00"
 },
 {
 "id": "f93a09516255",
@@ -10963,66 +11023,6 @@
 "src": "FinancialJuice",
 "kind": "market",
 "seen": "2026-11-26T15:14:25+00:00"
-},
-{
-"id": "f07f5841f23c",
-"t": "",
-"title": "Trump: Urged Russian President Putin to pull back military aggression across Europe, believes Russia-Ukraine deal can be reached quickly - Truth Social.",
-"url": "https://www.financialjuice.com/News/9869554/Trump-Urged-Russian-President-Putin-to-pull-back-military-aggression-across-Europe-believes-Russia-Ukraine-deal-can-be-reached-quickly---Truth-Social.aspx",
-"pub": "2026-11-26T14:55:02+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-26T15:14:25+00:00"
-},
-{
-"id": "ad5d0c5da5ed",
-"t": "",
-"title": "Trump: There's a strong chance Russia pulls back military aggression - Truth Social.",
-"url": "https://www.financialjuice.com/News/9869553/Trump-Theres-a-strong-chance-Russia-pulls-back-military-aggression---Truth-Social.aspx",
-"pub": "2026-11-26T14:54:57+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-26T15:14:25+00:00"
-},
-{
-"id": "4b1851f33091",
-"t": "",
-"title": "Saudi-Led Coalition: Jazan refinery attacked by Yemen's Houthis.",
-"url": "https://www.financialjuice.com/News/9869552/Saudi-Led-Coalition-Jazan-refinery-attacked-by-Yemens-Houthis.aspx",
-"pub": "2026-11-26T14:47:18+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-26T15:14:25+00:00"
-},
-{
-"id": "cc268f0bd61b",
-"t": "",
-"title": "Saipem SpA (SPMI.MI) | Stock Price & Latest News - Reuters",
-"url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE05cHhtTmdZVVpSMWMtekVGWHMzLVJ4UUpvQ0Q4NkhHWVVScFdiRHdQWlVOS2REcUd4b3ZtRERMNlhGZXAwb1kxWFFWbjNBV1FRVEh5OHRJQlViVXBncUln?oc=5",
-"pub": "2026-11-26T14:28:55+00:00",
-"src": "Reuters",
-"kind": "market",
-"seen": "2026-11-26T20:28:59+00:00"
-},
-{
-"id": "23539c973d5d",
-"t": "",
-"title": "Instant View: Spain's De Cos set to be nominated by EU leaders as next ECB chief - Reuters",
-"url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPOVNLb1BFRTBhWmxhbWpLdlAwUnR3bGI1MlF4aGhFV21UVVpuRXdqMGVaeDdxVE5paWwwZHFzX28tS1h6OUdOaWVVTVhKMC1iUVVGVWptSXJYcTN6UEVkdVRzMTh0M2tKOExnUTh4LWFXd1ZIei1rWUdhMUpsY1I5SU44bHRiRndxb0FwMjJNaS1iQUJ0cVJrdkpoTnJIcjlHLW8xQ2xMOUVyQW5nZ21IUkFGOEJWZw?oc=5",
-"pub": "2026-11-26T14:27:43+00:00",
-"src": "Reuters",
-"kind": "market",
-"seen": "2026-11-26T15:14:25+00:00"
-},
-{
-"id": "6ecb6eaf3a87",
-"t": "",
-"title": "ALPS Disruptive Technologies ETF (DTEC.N) | Stock Price & Latest News - Reuters",
-"url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBGbFpvaU1LdVlNWF9XOUI1YThJbU1HbUkwQThhUDlhODhKN1dZRUlfZjBCV3h1bV9INW11YjZSQVgzajd6V2J3Sk4ySXNCeFQ3bW4zcGRlQnhMdzlsd3YxbXdsQkNTV1hMZ3JZ?oc=5",
-"pub": "2026-11-26T14:21:20+00:00",
-"src": "Reuters",
-"kind": "market",
-"seen": "2026-11-27T08:54:02+00:00"
 }
 ]
 }
