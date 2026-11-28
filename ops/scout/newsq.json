@@ -1,6 +1,6 @@
 {
-"updated_kst": "2026-11-28 16:14",
-"rot": 5,
+"updated_kst": "2026-11-28 16:44",
+"rot": 65,
 "how": "Scout(프로그램)이 10분마다 모은 기사 제목·링크와 공시예요. Wren이 공식 출처로 확인한 뒤 회사 화면에 한국어로 반영해요. 본문은 받지 않아요.",
 "sources": {
 "Yahoo Finance": "120종목 확인 · 실패 0",
@@ -10,12 +10,52 @@
 "CNBC": "63건",
 "Bloomberg": "40건",
 "WSJ": "60건",
-"Reuters": "56건",
+"Reuters": "100건",
 "FinancialJuice": "100건",
 "SEC EDGAR": "실패 HTTPError",
 "Fox Business": "50건"
 },
 "items": [
+{
+"id": "040c4e3c43f1",
+"t": "NVDA",
+"title": "The Best Natural Gas Stocks to Buy and Hold Through 2040",
+"url": "https://www.fool.com/investing/2026/11/28/the-best-natural-gas-stocks-to-buy-and-hold-through-2040/",
+"pub": "2026-11-28T07:25:02+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-28T07:44:35+00:00"
+},
+{
+"id": "a6748ef66710",
+"t": "NVDA",
+"title": "Dan Ives Sees ‘Rollercoaster Ride’ Ahead For AI Stocks, But Says Nvidia Bull Case Remains Intact — ‘Our Stress Test Stands’",
+"url": "https://stocktwits.com/news-articles/markets/equity/dan-ives-ai-stocks-rollercoaster-ride-nvidia-bull-case-intact/cNRRs2jR9Vt",
+"pub": "2026-11-28T07:13:02+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-28T07:44:35+00:00"
+},
+{
+"id": "e844815ae467",
+"t": "NVDA",
+"title": "Why Delta Electronics Stock Is A Key AI Data Center Play Outside China",
+"url": "https://finance.yahoo.com/technology/ai/articles/why-delta-electronics-stock-key-071144588.html",
+"pub": "2026-11-28T07:11:44+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-28T07:44:35+00:00"
+},
+{
+"id": "bd0b5781ec3e",
+"t": "CBRS",
+"title": "Top 3 Insider Owned Growth Stocks To Watch In November 2026",
+"url": "https://finance.yahoo.com/markets/stocks/articles/top-3-insider-owned-growth-071009089.html",
+"pub": "2026-11-28T07:10:09+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-28T07:44:35+00:00"
+},
 {
 "id": "1ec5476e007e",
 "t": "LUNR",
@@ -7980,48 +8020,6 @@
 "seen": "2026-11-27T10:44:09+00:00"
 },
 {
-"id": "231fbd921ffe",
-"t": "NVDA",
-"title": "The S&P 500 Could Break Its Streak of Double-Digit Gains in 2026. History Says Here's What Happens Next",
-"url": "https://www.fool.com/investing/2026/11/27/the-s-and-p-500-could-break-its-streak-of-double-digit-gains-in-2026-history-says-here-s-what-happens-next/",
-"pub": "2026-11-27T10:04:02+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-27T10:44:09+00:00"
-},
-{
-"id": "46e44341a2d0",
-"t": "TXN",
-"title": "New Strong Buy Stocks for November 27th",
-"url": "https://finance.yahoo.com/markets/stocks/articles/strong-buy-stocks-november-27th-094900353.html",
-"pub": "2026-11-27T09:49:00+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-27T11:14:03+00:00"
-},
-{
-"id": "634b4eb629fa",
-"t": "QBTS",
-"title": "D-Wave Quantum Inc. Sued for Securities Law Violations - Contact the DJS Law Group to Discuss Your Rights - QBTS",
-"url": "https://www.prnewswire.com/news-releases/d-wave-quantum-inc-sued-for-securities-law-violations---contact-the-djs-law-group-to-discuss-your-rights--qbts-302951582.html",
-"pub": "2026-11-27T09:44:00+00:00",
-"src": "PR Newswire",
-"kind": "news",
-"orig": true,
-"seen": "2026-11-27T10:07:06+00:00"
-},
-{
-"id": "0a22a9438610",
-"t": "QBTS",
-"title": "QBTS Investors Have Opportunity to Lead D-Wave Quantum Inc. Securities Fraud Lawsuit with SBS Law",
-"url": "https://www.prnewswire.com/news-releases/qbts-investors-have-opportunity-to-lead-d-wave-quantum-inc-securities-fraud-lawsuit-with-sbs-law-302951578.html",
-"pub": "2026-11-27T09:43:00+00:00",
-"src": "PR Newswire",
-"kind": "news",
-"orig": true,
-"seen": "2026-11-27T10:07:06+00:00"
-},
-{
 "id": "bff69c298ecf",
 "t": "",
 "title": "Musk: Google shows interest in leasing additional compute capacity from SpaceX",
@@ -8052,6 +8050,16 @@
 "seen": "2026-11-28T06:14:56+00:00"
 },
 {
+"id": "d5dd681bbfae",
+"t": "",
+"title": "Fevertree Drinks PLC (FEVR.L) | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBYT3d4YzZvUXdhdVBucUtqeWs0NHRIOVFzTEVaaXZvZVNpX0tSQThwZVVucEgxUVhLa2oyVHJhVFlLbTFzYzc0elppQ29CY2Y1M0FzOVRSZHRXY05BTlV0ekx0TGFNZWZTUl9V?oc=5",
+"pub": "2026-11-28T05:47:31+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-28T07:44:35+00:00"
+},
+{
 "id": "d0113140e4e2",
 "t": "",
 "title": "002226.SZh - | Stock Price & Latest News - Reuters",
@@ -8060,6 +8068,16 @@
 "src": "Reuters",
 "kind": "market",
 "seen": "2026-11-28T07:14:27+00:00"
+},
+{
+"id": "1c0fd48df50c",
+"t": "",
+"title": "CVS Health Corporation (CVS) | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMi4wJBVV95cUxPVUdKTkViT1prYURCRkd6aXdXSllJWVpmT0N3UVJNRTYwR0JweWRQa3ZXd2d0c080ZWtiTXAtMnVOeDJpNTFUaFJMN3VQQVFiRmZmSzk1S3hBNnRHUzJoQUV0MkpHdk5ranQ1TmJfaDltMUVJMzdsVUljOVFMRWNCM2c4dG5xeFNPNXd4SjRTMU1iRWw2MGRJRDZZaWI0dDN4Z2ZabmM2ZGRWOXh5LTBvaEdqRjN1Wm5WU1BTTE1SbXJFWGxxN1c4VHRKMGRBOTk3d2w0RkNKZTVrTEhCSG1MN2Y3NXJBMHQ3czdXLTlvQVNRUlNkRWduLXZoVEREaEc4ZHVMYWdqR21RV0E1ZUN6THBFVFR1eHloYVlLcVpsT0lXWW5rdDNLYUJsVldUbTk4Q1VudW5VRVhEeGtaOFAtS3cxNDg1ejNfNC00RnRSbHhVTkZyeENWcVkwLUNZV3gzVUlz?oc=5",
+"pub": "2026-11-28T04:59:16+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-28T07:44:35+00:00"
 },
 {
 "id": "97c58ec389f8",
@@ -8080,6 +8098,36 @@
 "src": "Reuters",
 "kind": "market",
 "seen": "2026-11-28T05:59:35+00:00"
+},
+{
+"id": "505d4ecc2982",
+"t": "",
+"title": "Nusantara Pelabuhan Handal Tbk PT (PORT.JK) | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPWDFfU2JPbERTd3MtS0I2eEtuNGhTU0tWSFp4ay0zZ3Frci04Y1RpemZDNGlpWGJPTUJvQXBuSFoyU1NBWkhUZy1lcTkxcHVUalh0QmhJVXQ1TDlMeGtnMDR4bWV4dWJhQTZaRjcxM0drNFlNb0Q4YWtNS1h1X2RSc1NpZ1VLTG04RG0tNFhR?oc=5",
+"pub": "2026-11-28T03:55:30+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-28T07:44:35+00:00"
+},
+{
+"id": "1217a9919e53",
+"t": "",
+"title": "603301ta.SH - | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE55TmdmdEIweUZUZTVFWS1obERFd2l1cDRTbm5QZnBKNjFGMXk3VnRoelF5TzU5Yk5sNUJ2aGw0ME5QRGRldTVUdE1NdnQ5OWVab01PMFFBdkpwN3lUZDREQXpQTXpwN2xPV0tpS0JsZFQ2cHM?oc=5",
+"pub": "2026-11-28T03:27:31+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-28T07:44:35+00:00"
+},
+{
+"id": "ce8f95be059e",
+"t": "",
+"title": "Amplify Bitcoin Max Income Covered Call ETF (BAGY.N) | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9MQXdONDZ5Mm4xR1YwdHlRdmVTenBxOW1iSFNRUDEzUmJVN1FlRGJmSUZHdUxqV19DNjNoWm9VLUQwdTh2NlJidXJ5ODdBXzBpU21YN256Vm0?oc=5",
+"pub": "2026-11-28T03:23:25+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-28T07:44:35+00:00"
 },
 {
 "id": "60f957e18785",
@@ -8202,6 +8250,16 @@
 "seen": "2026-11-28T06:14:56+00:00"
 },
 {
+"id": "16ae72054437",
+"t": "",
+"title": "Silver Bullet Mines Corp (SBMI.V) | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9XY05HWFN6X2dhMlVfcDZhcWRfZjJWb2RMTHFBb3pFYktMVmtYR0x2blBITXloa1lMU25VX0hQRFhMRFhzMWpoY3NFS1hiamdtVnVqNEZhVGVjRUdWV1gtcndycHVaTjY1R29F?oc=5",
+"pub": "2026-11-28T01:25:52+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-28T07:44:35+00:00"
+},
+{
 "id": "1cc557557260",
 "t": "",
 "title": "The Berkeley Group Holdings plc (BKGH.L) | Stock Price & Latest News - Reuters",
@@ -8210,6 +8268,16 @@
 "src": "Reuters",
 "kind": "market",
 "seen": "2026-11-28T04:59:50+00:00"
+},
+{
+"id": "f1585de72c02",
+"t": "",
+"title": "Mears Group PLC (MM7.D) | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5JYm9Sa1ZHWkxiLW9Md3dYb1pTajhza0xiSFhMNm9xNVBHVnRYd1B1ZDVPdEdXb0xlMW5tQlNkUnRTeFVCZk10NEdscWp3THFqX0JVaHBOdDNLdkczbmFhXzJDZ0VhVE1qT3Vybg?oc=5",
+"pub": "2026-11-28T01:05:31+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-28T07:44:35+00:00"
 },
 {
 "id": "253b259f4b1e",
@@ -10682,6 +10750,16 @@
 "seen": "2026-11-27T11:03:19+00:00"
 },
 {
+"id": "937dd8198b28",
+"t": "",
+"title": "CSI CLOUD COMPUTING BIG DATA INDEX (.CSI930851) | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5iSDhVanktV000Q2FkanVHVmVkaTR6NGc4X3hlYXdiTl9iX0ZQdTNZRm9hVW5RLThhU0xzRkxvaGdBVzh0cEV6RzQ5Rk9EbnVTUnBrd2ZDUkFSRlY0bmc?oc=5",
+"pub": "2026-11-27T10:46:23+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-28T07:44:35+00:00"
+},
+{
 "id": "20b0ebba062f",
 "t": "",
 "title": "O9601O.T - | Stock Price & Latest News - Reuters",
@@ -10937,86 +11015,6 @@
 "title": "Goldman Sachs: Switzerland - FJElite",
 "url": "https://www.financialjuice.com/News/9870368/Goldman-Sachs-Switzerland---FJElite.aspx?xy=rss",
 "pub": "2026-11-27T09:33:09+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-27T10:07:06+00:00"
-},
-{
-"id": "b3336a4a782b",
-"t": "",
-"title": "LCEY.CM - | Stock Price & Latest News - Reuters",
-"url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5sUTV5a1VISXdtbjAtYkJDWVZUMzU1a1MxVXZjOEtscVVTSlZKVFRkUjg5VFJRX3BFVnpMdjVrOUR0WFljS0kwUzNQNmpMR2hDN01kajR0engtZ01JVUJYU1NJQzVJekptSE1ZWFliVEhYQlNSdFMtWg?oc=5",
-"pub": "2026-11-27T09:30:07+00:00",
-"src": "Reuters",
-"kind": "market",
-"seen": "2026-11-27T13:28:07+00:00"
-},
-{
-"id": "6c3eb7b1f7d8",
-"t": "",
-"title": "India’s RBI to Help Small Firms Grow Globally, Malhotra Says",
-"url": "https://www.bloomberg.com/news/articles/2026-11-27/india-s-rbi-to-help-small-firms-grow-globally-malhotra-says",
-"pub": "2026-11-27T09:30:00+00:00",
-"src": "Bloomberg",
-"kind": "market",
-"seen": "2026-11-27T11:44:37+00:00"
-},
-{
-"id": "c8a506361a09",
-"t": "",
-"title": "Zambia’s Central Bank Holds Key Rate as Inflation Risk Grow",
-"url": "https://www.bloomberg.com/news/articles/2026-11-27/zambia-s-central-bank-holds-key-rate-as-inflation-risk-grow",
-"pub": "2026-11-27T09:25:36+00:00",
-"src": "Bloomberg",
-"kind": "market",
-"seen": "2026-11-27T10:07:06+00:00"
-},
-{
-"id": "dfb67f7b6a3c",
-"t": "",
-"title": "MINT Income Fund (MICFF.PK) | Stock Price & Latest News - Reuters",
-"url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBGanQ0RUZzWGo3cC1xaW04YzNqMHJZNlRGTzlpa3NjLUN0eXJfSGlFN0RLTEVqQ1NSQmtUc3FzVmZhY29sRlFwdkJOel9YWWtEcExzcFBXdVFvMFI5aWd0LWxVTXFfblYwOEZpR1VhMEI?oc=5",
-"pub": "2026-11-27T09:23:54+00:00",
-"src": "Reuters",
-"kind": "market",
-"seen": "2026-11-27T12:06:59+00:00"
-},
-{
-"id": "9029ab90df25",
-"t": "",
-"title": "OPEC+ has an agreement in principle to keep oil production targets unchanged in Q1 2027 - Three Sources",
-"url": "https://www.financialjuice.com/News/9870352/OPEC-has-an-agreement-in-principle-to-keep-oil-production-targets-unchanged-in-Q1-2027---Three-Sources.aspx?xy=rss",
-"pub": "2026-11-27T09:18:32+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-27T10:07:06+00:00"
-},
-{
-"id": "640e3fbb6989",
-"t": "",
-"title": "Euro zone consumers sharply increase inflation expectation, ECB survey shows - Reuters",
-"url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxONDJybGR6alVxTF8wSTQ3RDJ0ZUVpYlkzeGd6SzdTV3hOd3UxY1Y3TzNZN2Y3ZGJSbXJaZDQ3LURoN09xdTFrVllIWlE2M2VCcmVUSW1CbU1RekZfSWdBYnhlclR4OE9ucm5tV0g4YmRJNlExdjQwSmM5YkZ0ZVRneXZweXdSNi1rQ1UzVnVfcXZEdWY4OG1tQUNiODVwTUZCYWloVlhUdFItYy1RRDktQXoxamNjTlBUU3c3QzR6YmdONDhu?oc=5",
-"pub": "2026-11-27T09:03:45+00:00",
-"src": "Reuters",
-"kind": "market",
-"seen": "2026-11-27T10:07:06+00:00"
-},
-{
-"id": "f1b78d964807",
-"t": "",
-"title": "GMAB.PH - Reuters",
-"url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE44ZWgzVHgxYVpXUmJkZFdJUU1aTDZiUktkR1ZTbGI2Y3MySVhYZHE0U2RWa002a29BSVlyZllKM21aUkdzQTYyYk1DUHVHdVVvT2FPQVp4Sk5ObmpHN1lDSk13UHJOdHFsQUdIUWhYOA?oc=5",
-"pub": "2026-11-27T09:03:18+00:00",
-"src": "Reuters",
-"kind": "market",
-"seen": "2026-11-27T15:44:21+00:00"
-},
-{
-"id": "f39dd7da6f2f",
-"t": "",
-"title": "Italian Industrial Sales MoM Actual 3.0% (Forecast -, Previous -0.9%)",
-"url": "https://www.financialjuice.com/News/9870328/Italian-Industrial-Sales-MoM-Actual-30-Forecast---Previous--09.aspx?xy=rss",
-"pub": "2026-11-27T09:00:58+00:00",
 "src": "FinancialJuice",
 "kind": "market",
 "seen": "2026-11-27T10:07:06+00:00"
