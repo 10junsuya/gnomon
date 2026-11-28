@@ -1,6 +1,6 @@
 {
-"updated_kst": "2026-11-28 11:14",
-"rot": 60,
+"updated_kst": "2026-11-28 11:44",
+"rot": 120,
 "how": "Scout(프로그램)이 10분마다 모은 기사 제목·링크와 공시예요. Wren이 공식 출처로 확인한 뒤 회사 화면에 한국어로 반영해요. 본문은 받지 않아요.",
 "sources": {
 "Yahoo Finance": "120종목 확인 · 실패 0",
@@ -10,12 +10,42 @@
 "CNBC": "63건",
 "Bloomberg": "40건",
 "WSJ": "60건",
-"Reuters": "100건",
+"Reuters": "50건",
 "FinancialJuice": "100건",
 "SEC EDGAR": "실패 HTTPError",
 "Fox Business": "50건"
 },
 "items": [
+{
+"id": "c17da43a1ecc",
+"t": "NVDA",
+"title": "Here's Why Anthropic Stock Rallied on Friday -- and Why Wall Street Analysts Say It's Still a Buy Right Now",
+"url": "https://www.fool.com/investing/2026/11/27/why-anthropic-stock-rallied-on-friday-wall-street-analysts-say-buy-right-now/",
+"pub": "2026-11-28T02:15:24+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-28T02:44:26+00:00"
+},
+{
+"id": "c6a4739aafae",
+"t": "PLTR",
+"title": "Palantir Technologies (PLTR) Signed A Poland Defense Software Agreement",
+"url": "https://finance.yahoo.com/technology/ai/articles/palantir-technologies-pltr-signed-poland-020938771.html",
+"pub": "2026-11-28T02:09:38+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-28T02:44:26+00:00"
+},
+{
+"id": "c403ece3b50a",
+"t": "WMT",
+"title": "Learn Why The Bull Case For Walmart (WMT) Could Change Following Earnings Beat",
+"url": "https://finance.yahoo.com/markets/stocks/articles/learn-why-bull-case-walmart-020743257.html",
+"pub": "2026-11-28T02:07:43+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-28T02:44:26+00:00"
+},
 {
 "id": "5364726a4504",
 "t": "PLTR",
@@ -25,6 +55,16 @@
 "src": "Yahoo Finance",
 "kind": "news",
 "seen": "2026-11-28T01:44:42+00:00"
+},
+{
+"id": "cc6cad398b60",
+"t": "AMZN",
+"title": "U.S. Black Friday online sales set to exceed $13 billion, Adobe predicts",
+"url": "https://finance.yahoo.com/economy/articles/u-black-friday-online-sales-012646652.html",
+"pub": "2026-11-28T01:26:46+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-28T02:44:26+00:00"
 },
 {
 "id": "4f8b29218fd1",
@@ -655,6 +695,16 @@
 "src": "Yahoo Finance",
 "kind": "news",
 "seen": "2026-11-27T22:14:19+00:00"
+},
+{
+"id": "e89dbf37df8d",
+"t": "NVDA",
+"title": "Unstoppable NVDA Stock? Jensen Huang is Back, and Nvidia Is Eyeing 75% Revenue Growth in FY 2028.",
+"url": "https://www.barchart.com/story/news/9037026/unstoppable-nvda-stock-jensen-huang-is-back-and-nvidia-is-eyeing-75-revenue-growth-in-fy-2028",
+"pub": "2026-11-27T20:30:03+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-28T02:44:26+00:00"
 },
 {
 "id": "d38217229825",
@@ -7968,56 +8018,6 @@
 "title": "PhonePe resumes IPO plans with $15bn valuation target- report",
 "url": "https://www.electronicpaymentsinternational.com/news/phonepe-resumes-ipo-plans-with-15bn-valuation-target-report/",
 "pub": "2026-11-27T07:40:36+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-27T07:51:21+00:00"
-},
-{
-"id": "8a96551e64da",
-"t": "LLY",
-"title": "Zacks Market Edge Highlights: Royal Caribbean Cruises, Abercrombie & Fitch and Burlington Stores",
-"url": "https://finance.yahoo.com/markets/stocks/articles/zacks-market-edge-highlights-royal-073400939.html",
-"pub": "2026-11-27T07:34:00+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-27T10:14:08+00:00"
-},
-{
-"id": "adc669e04f3d",
-"t": "JPM",
-"title": "J.P. Morgan sees luxury sales stagnating in 2027, but which category stands out?",
-"url": "https://finance.yahoo.com/markets/stocks/articles/j-p-morgan-sees-luxury-072816536.html",
-"pub": "2026-11-27T07:28:16+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-27T08:54:02+00:00"
-},
-{
-"id": "0e28877d4527",
-"t": "NVDA",
-"title": "Prediction: This Will Be Anthropic’s Stock Price by the End of 2026",
-"url": "https://www.fool.com/investing/2026/11/27/prediction-this-will-be-anthropic-s-stock-price-by-the-end-of-2026/",
-"pub": "2026-11-27T07:23:02+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-27T07:51:21+00:00"
-},
-{
-"id": "16f737e62bad",
-"t": "NVDA",
-"title": "History Says Investing $200 a Month in This Vanguard ETF Could Build Life-Changing Wealth Without a Single Stock Pick",
-"url": "https://www.fool.com/investing/2026/11/27/history-says-investing-200-a-month-in-this-vanguard-etf-could-build-life-changing-wealth-without-a-single-stock-pick/",
-"pub": "2026-11-27T07:20:02+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-27T07:51:21+00:00"
-},
-{
-"id": "212b2eb2f5ae",
-"t": "NVDA",
-"title": "Top 3 Undervalued Tech Stocks To Watch In November 2026",
-"url": "https://finance.yahoo.com/technology/articles/top-3-undervalued-tech-stocks-071100555.html",
-"pub": "2026-11-27T07:11:00+00:00",
 "src": "Yahoo Finance",
 "kind": "news",
 "seen": "2026-11-27T07:51:21+00:00"
