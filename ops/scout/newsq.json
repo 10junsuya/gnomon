@@ -1,6 +1,6 @@
 {
-"updated_kst": "2026-11-28 18:14",
-"rot": 126,
+"updated_kst": "2026-11-28 18:23",
+"rot": 7,
 "how": "Scout(프로그램)이 10분마다 모은 기사 제목·링크와 공시예요. Wren이 공식 출처로 확인한 뒤 회사 화면에 한국어로 반영해요. 본문은 받지 않아요.",
 "sources": {
 "Yahoo Finance": "120종목 확인 · 실패 0",
@@ -10,7 +10,7 @@
 "CNBC": "63건",
 "Bloomberg": "40건",
 "WSJ": "60건",
-"Reuters": "51건",
+"Reuters": "100건",
 "FinancialJuice": "100건",
 "SEC EDGAR": "실패 HTTPError",
 "Fox Business": "50건"
@@ -4409,6 +4409,16 @@
 "seen": "2026-11-27T15:14:26+00:00"
 },
 {
+"id": "400c4f9a085b",
+"t": "BE",
+"title": "Sandisk, Bloom, Marvell, AMD, Nvidia, HP, and More Stocks That Explain Today’s Market",
+"url": "https://finance.yahoo.com/m/977de44c-fcf5-3369-bcdd-0c3ddc7cfec9/sandisk%2C-bloom%2C-marvell%2C-amd%2C.html",
+"pub": "2026-11-27T14:56:00+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-28T09:23:18+00:00"
+},
+{
 "id": "07fe49205012",
 "t": "MU",
 "title": "The Nasdaq Needs Two Huge Days to Dodge Its Worst November Since 2008",
@@ -8008,16 +8018,6 @@
 "src": "Yahoo Finance",
 "kind": "news",
 "seen": "2026-11-27T16:49:37+00:00"
-},
-{
-"id": "eed4f1faba5a",
-"t": "NVDA",
-"title": "Market Chatter: Nvidia Stops Southeast Asia Chip Sales Following Proposed US Restrictions",
-"url": "https://finance.yahoo.com/technology/ai/articles/market-chatter-nvidia-stops-southeast-102254508.html",
-"pub": "2026-11-27T10:22:54+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-27T10:44:09+00:00"
 },
 {
 "id": "b27da26b0ff3",
