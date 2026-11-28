@@ -1,21 +1,41 @@
 {
-"updated_kst": "2026-11-28 09:34",
-"rot": 118,
+"updated_kst": "2026-11-28 09:44",
+"rot": 178,
 "how": "Scout(프로그램)이 10분마다 모은 기사 제목·링크와 공시예요. Wren이 공식 출처로 확인한 뒤 회사 화면에 한국어로 반영해요. 본문은 받지 않아요.",
 "sources": {
 "Yahoo Finance": "120종목 확인 · 실패 0",
-"GlobeNewswire": "0건",
+"GlobeNewswire": "실패 HTTPError",
 "PR Newswire": "0건",
 "Business Wire": "0건",
 "CNBC": "63건",
 "Bloomberg": "40건",
 "WSJ": "60건",
-"Reuters": "55건",
+"Reuters": "52건",
 "FinancialJuice": "100건",
 "SEC EDGAR": "실패 HTTPError",
 "Fox Business": "50건"
 },
 "items": [
+{
+"id": "4633898b00aa",
+"t": "AAPL",
+"title": "2027 smartphone market outlook: Apple to outperform as shipments fall 5%",
+"url": "https://finance.yahoo.com/technology/articles/2027-smartphone-market-outlook-apple-003322633.html",
+"pub": "2026-11-28T00:33:22+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-28T00:44:10+00:00"
+},
+{
+"id": "8cb84b761958",
+"t": "NVDA",
+"title": "Anthropic's Best Customers Spend 20 Times More Than the Rest. That's Why I'm Buying the Stock.",
+"url": "https://www.fool.com/investing/2026/11/27/anthropic-s-best-customers-spend-20-times-more-than-the-rest-that-s-why-i-m-buying-the-stock/",
+"pub": "2026-11-28T00:29:02+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-28T00:44:10+00:00"
+},
 {
 "id": "40a592b2b394",
 "t": "WMT",
@@ -25,6 +45,16 @@
 "src": "Yahoo Finance",
 "kind": "news",
 "seen": "2026-11-28T00:34:19+00:00"
+},
+{
+"id": "18fadaf624d9",
+"t": "RPD",
+"title": "Samsara Plus 2 Elite Cybersecurity Stocks",
+"url": "https://finance.yahoo.com/technology/ai/articles/samsara-plus-2-elite-cybersecurity-001339698.html",
+"pub": "2026-11-28T00:13:39+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-28T00:44:10+00:00"
 },
 {
 "id": "5ad38c4bc779",
@@ -45,6 +75,26 @@
 "src": "Yahoo Finance",
 "kind": "news",
 "seen": "2026-11-28T00:34:19+00:00"
+},
+{
+"id": "f070ddb12bdc",
+"t": "OUST",
+"title": "Ouster (OUST) Stock Looks Fully Valued Despite Its 381% Run",
+"url": "https://finance.yahoo.com/markets/stocks/articles/ouster-oust-stock-looks-fully-001211406.html",
+"pub": "2026-11-28T00:12:11+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-28T00:44:10+00:00"
+},
+{
+"id": "f00923297ef4",
+"t": "INSM",
+"title": "Biotech Dealmaker: Sanofi’s $41B Insmed Buyout Anchors Holiday Week As Lilly Continues Buying Spree",
+"url": "https://stocktwits.com/news-articles/markets/equity/stocktwits-biotech-dealmaker-sanofi-s-41-b-insmed-buyout-anchors-holiday-week-as-lilly-continues-buying-spree/cNRRKt6R9Vk",
+"pub": "2026-11-28T00:10:23+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-28T00:44:10+00:00"
 },
 {
 "id": "a49f870a065b",
@@ -1195,6 +1245,16 @@
 "src": "Yahoo Finance",
 "kind": "news",
 "seen": "2026-11-27T18:39:55+00:00"
+},
+{
+"id": "9ae4f2605607",
+"t": "TSLA",
+"title": "‘Superfan’ Elon Musk Says ‘China Is Cool’ as Tesla Boosts Production in Shanghai: ‘The More the US and China Cooperate, the Better Off Both Will Be’",
+"url": "https://www.barchart.com/story/news/9036157/superfan-elon-musk-says-china-is-cool-as-tesla-boosts-production-in-shanghai-the-more-the-us-and-china-cooperate-the-better-off-both-will-be",
+"pub": "2026-11-27T18:30:03+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-28T00:44:10+00:00"
 },
 {
 "id": "a2d5edd97e5c",
@@ -7961,67 +8021,6 @@
 "src": "Yahoo Finance",
 "kind": "news",
 "seen": "2026-11-27T11:14:03+00:00"
-},
-{
-"id": "6f9a3222c6ba",
-"t": "NVDA",
-"title": "The tiny Dutch town being overwhelmed by an AI boom",
-"url": "https://uk.finance.yahoo.com/news/tiny-dutch-town-being-overwhelmed-060000999.html",
-"pub": "2026-11-27T06:00:00+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-27T06:20:52+00:00",
-"orig_url": "https://www.telegraph.co.uk/business/2026/11/27/the-tiny-dutch-town-being-overwhelmed-by-an-ai-boom/"
-},
-{
-"id": "8a89753c6cac",
-"t": "ASML",
-"title": "The tiny Dutch town getting so rich on AI it can’t keep up",
-"url": "https://www.telegraph.co.uk/business/2026/11/27/the-tiny-dutch-town-being-overwhelmed-by-an-ai-boom/",
-"pub": "2026-11-27T06:00:00+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-27T11:44:37+00:00"
-},
-{
-"id": "48f58110c5a0",
-"t": "MSFT",
-"title": "Mohamed El-Erian Says Nvidia Is “Too Big to Wobble.” Its Customers’ Data Center Plans Aren’t",
-"url": "https://www.tikr.com/blog/mohamed-el-erian-says-nvidia-is-too-big-to-wobble-its-customers-data-center-plans-arent",
-"pub": "2026-11-27T05:48:26+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-27T10:44:09+00:00"
-},
-{
-"id": "51bd9aee13b2",
-"t": "NVDA",
-"title": "Learn Why The Bull Case For Nvidia Stock Could Change Following CEO Reinstatement",
-"url": "https://finance.yahoo.com/markets/stocks/articles/learn-why-bull-case-nvidia-051409281.html",
-"pub": "2026-11-27T05:14:09+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-27T06:20:52+00:00"
-},
-{
-"id": "e7728023be65",
-"t": "CRM",
-"title": "Should AI Pricing Change Require Action From Salesforce Stock Investors?",
-"url": "https://finance.yahoo.com/markets/stocks/articles/ai-pricing-change-require-action-051123357.html",
-"pub": "2026-11-27T05:11:23+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-27T06:20:52+00:00"
-},
-{
-"id": "1f40c60907dc",
-"t": "FDX",
-"title": "Is the Stock Market Open Today? Here Are the Trading Hours for Black Friday.",
-"url": "https://finance.yahoo.com/m/59f6de8f-22b7-3936-a702-52611c591c0e/is-the-stock-market-open.html",
-"pub": "2026-11-27T05:01:00+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-27T10:07:06+00:00"
 },
 {
 "id": "33924f5dc9b5",
