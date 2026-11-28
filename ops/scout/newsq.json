@@ -1,6 +1,6 @@
 {
-"updated_kst": "2026-11-28 10:59",
-"rot": 0,
+"updated_kst": "2026-11-28 11:14",
+"rot": 60,
 "how": "Scout(프로그램)이 10분마다 모은 기사 제목·링크와 공시예요. Wren이 공식 출처로 확인한 뒤 회사 화면에 한국어로 반영해요. 본문은 받지 않아요.",
 "sources": {
 "Yahoo Finance": "120종목 확인 · 실패 0",
@@ -10,7 +10,7 @@
 "CNBC": "63건",
 "Bloomberg": "40건",
 "WSJ": "60건",
-"Reuters": "51건",
+"Reuters": "100건",
 "FinancialJuice": "100건",
 "SEC EDGAR": "실패 HTTPError",
 "Fox Business": "50건"
@@ -45,6 +45,16 @@
 "src": "Yahoo Finance",
 "kind": "news",
 "seen": "2026-11-28T01:44:42+00:00"
+},
+{
+"id": "7101d6e8d6b5",
+"t": "S",
+"title": "Should Singapore Defence Partnership Require Action From SentinelOne (S) Investors?",
+"url": "https://finance.yahoo.com/technology/ai/articles/singapore-defence-partnership-require-action-011017783.html",
+"pub": "2026-11-28T01:10:17+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-28T02:14:55+00:00"
 },
 {
 "id": "a2892dd30ae3",
@@ -8013,14 +8023,24 @@
 "seen": "2026-11-27T07:51:21+00:00"
 },
 {
-"id": "b4f36849fdaf",
-"t": "IBM",
-"title": "Kyndryl and Hermes International have been highlighted as Zacks Bull and Bear of the Day",
-"url": "https://finance.yahoo.com/markets/stocks/articles/kyndryl-hermes-international-highlighted-zacks-070900516.html",
-"pub": "2026-11-27T07:09:00+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-27T08:54:02+00:00"
+"id": "6fa5c185ac26",
+"t": "",
+"title": "Wall Street stages major comeback during Thanksgiving-shortened trading week",
+"url": "https://www.foxbusiness.com/markets/wall-street-stages-major-comeback-thanksgiving-shortened-trading-week",
+"pub": "2026-11-28T02:00:10+00:00",
+"src": "Fox Business",
+"kind": "market",
+"seen": "2026-11-28T02:14:55+00:00"
+},
+{
+"id": "1f6cf97b03f8",
+"t": "",
+"title": "Americans Are More Exposed to the Stock Market Than Ever Before",
+"url": "https://www.wsj.com/finance/stocks/us-stock-market-wealth-0caf5bac",
+"pub": "2026-11-28T02:00:00+00:00",
+"src": "WSJ",
+"kind": "market",
+"seen": "2026-11-28T02:14:55+00:00"
 },
 {
 "id": "c1fb61835cb7",
@@ -8031,6 +8051,16 @@
 "src": "Reuters",
 "kind": "market",
 "seen": "2026-11-28T01:44:42+00:00"
+},
+{
+"id": "37f3dc8347cc",
+"t": "",
+"title": "Close Brothers Group PLC (CBRO.D) | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1CaXMxYmp0X2ROQzVoMnN5bVlPTFZEeXQta0FEU19kQXU3MFB4Nm1CaDJQSS1PUjJ1b1RoOVNIemRKSDhGYUowZVA5VkxoaWlxWDBIM0diVFBxSkZFbzRKVkhGVVM5cWJyVHpMVg?oc=5",
+"pub": "2026-11-28T00:18:24+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-28T02:14:55+00:00"
 },
 {
 "id": "33924f5dc9b5",
@@ -8101,6 +8131,16 @@
 "src": "Bloomberg",
 "kind": "market",
 "seen": "2026-11-27T23:14:15+00:00"
+},
+{
+"id": "bd56e85c5669",
+"t": "",
+"title": "HSMLF.PK%5EG07 - | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFAxTlBSeXJkaXFJOUZUUklKUEE1MXgxTk5GcWdLZll2YTdDUGNCTjJ0RE5JbVlURzZpTWU1QkZGODVMd1VpT3E4Rkl6bktJWldUYWlmbDJjc19OcXI1b3ZTaUlXQlo1VGJBWC0wVW9yVEZqNkRtSF9r?oc=5",
+"pub": "2026-11-27T22:25:06+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-28T02:14:55+00:00"
 },
 {
 "id": "bcfaba072245",
@@ -8183,6 +8223,16 @@
 "seen": "2026-11-27T22:14:19+00:00"
 },
 {
+"id": "6545d2ad4a94",
+"t": "",
+"title": "000426.SZh - | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPWExRUWpQLWFoNzdVZzgyeHdqMWdDaFE1Z3h0aHhCRVdSSktpdmRnVU5abUlJa2pDdTVXRXhnNXdXUjdkVE5PVElBXzF2cXlmR1gtTS14NmYwaU1ET2pTeFNWclpyVjNYM3NTNGgtYVd1VUdVWXJIeWRPaUNLUmhHMg?oc=5",
+"pub": "2026-11-27T21:56:36+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-28T02:14:55+00:00"
+},
+{
 "id": "35460b7c3efe",
 "t": "",
 "title": "Even the price of toys is on the rise. How Americans are scaling back holiday plans",
@@ -8201,6 +8251,16 @@
 "src": "Reuters",
 "kind": "market",
 "seen": "2026-11-27T21:44:58+00:00"
+},
+{
+"id": "a7717f362cae",
+"t": "",
+"title": "9254JPY.JPx - | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxORTJVMThkQnpGeUwwa3pObGNua2syaHI1eTR6RDUtZnBaTXZBZGhNNmxsbFdNVm5UeHpVdG0zcm5NVnlpS1FhTUdnbFlZb1ZzZ0hwTUxLTk1keVkwTW90Zi10U2RCVHQ0M3k0WjRXY3Z1bTdod3RDdVhPTjBJdEU4T0t5S1FQT1MtOUE?oc=5",
+"pub": "2026-11-27T21:25:53+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-28T02:14:55+00:00"
 },
 {
 "id": "9b67610c3a0b",
@@ -8483,6 +8543,16 @@
 "seen": "2026-11-28T01:44:42+00:00"
 },
 {
+"id": "2badeefeb8fb",
+"t": "",
+"title": "012790ta.KQ - | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOUFBhbk1CZloyN01GT3Q1clNXbElhYnFydFRPaXdkamZTRC13b0NJRGFHUEVMOGlIQnpicXhGcmNRRTFhaHZVUHU3OGZDekdJUlJWTmhnVk9hY1paQXUxQnJ4V1J5UXJiMmRQZUZaamZUWWZMY1hDRURzRU9DU2ZCZA?oc=5",
+"pub": "2026-11-27T18:48:49+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-28T02:14:55+00:00"
+},
+{
 "id": "9167f9651ab5",
 "t": "",
 "title": "Trump’s AI Gambit Fuels Wild Thanksgiving Week on Wall Street",
@@ -8603,6 +8673,16 @@
 "seen": "2026-11-27T20:14:46+00:00"
 },
 {
+"id": "feb8b527ffb3",
+"t": "",
+"title": "Maxim Power Corp (MXG.TO) | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9uZWQxeW0yTVhQWHVsWE91WjBQaW5qTHpXal9XSWVoNjdBUmk1c2c4STlFX1gxQ0FzLTBSSmRhMUtUV3JBa05hSEtEVVVhemo5TXBaVFoxbF9JWFoxbWRySm5KNV9BMEo0aUpNZ1ln?oc=5",
+"pub": "2026-11-27T17:28:36+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-28T02:14:55+00:00"
+},
+{
 "id": "51258d7c1293",
 "t": "",
 "title": "TRAPETUN91A5.TRXA%5EG21 - | Stock Price & Latest News - Reuters",
@@ -8631,6 +8711,16 @@
 "src": "Bloomberg",
 "kind": "market",
 "seen": "2026-11-27T17:45:35+00:00"
+},
+{
+"id": "186754fbd7b5",
+"t": "",
+"title": "URZ3 Energy Corp (URZ.V) | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE52OHdFNXBqYks0LUFCci15Mm9PeE5Da0p2X1R3cEYwalpTNEY0elh0OWRrNEIxbDViZWdSaS1uZmJNd1l5RENobldJZXhwZ0paNV83NjNvWUlsLXlWanotcmxENWxCNzdvR1RUag?oc=5",
+"pub": "2026-11-27T17:21:49+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-28T02:14:55+00:00"
 },
 {
 "id": "edd3cf1e77a4",
@@ -8773,6 +8863,16 @@
 "seen": "2026-11-27T22:43:58+00:00"
 },
 {
+"id": "82395af3843a",
+"t": "",
+"title": "IOC.M3 - Reuters",
+"url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQcDJqZ040dEZvUWVCTE5MaFpWLVRJOWhBM21zZjBqbjdVdkp0eUIwcXVqYzhSekctOXg4S01vV2FGRVdsNzJxN180c05jdFctNHZNX1FEZHZNTVBRZFZDQXc2NXc5SFpudFk1QXUwRFQyTjJORExpRThhRFpkSFR2Z2ZzeUY1ZERtVk04bTlXbw?oc=5",
+"pub": "2026-11-27T16:26:29+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-28T02:14:55+00:00"
+},
+{
 "id": "c9873acb438c",
 "t": "",
 "title": "Lula escolhe Trabuco para acalmar mercado",
@@ -8883,6 +8983,16 @@
 "seen": "2026-11-27T18:44:17+00:00"
 },
 {
+"id": "862e23f383dd",
+"t": "",
+"title": "0765.HZ - | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOWlh0R25IYTJ6bjJWWGxnVGdhOUhXMFgxZm8ta1dFNVZQRXlod0tGTzNRUkNURXFINURXU3N0SmFDZXNIUm11LVFCTml6TVROZXdYNDZ2c0Z6V25OeGtCU09uYnlUcThWUU01c0oxTDNfajhkMW9ZeUhLbC1PUkRHenhyMk9Bdw?oc=5",
+"pub": "2026-11-27T15:55:06+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-28T02:14:55+00:00"
+},
+{
 "id": "d85f266d1a09",
 "t": "",
 "title": "AI Tools Reshape the Black Friday Experience",
@@ -8931,6 +9041,16 @@
 "src": "Reuters",
 "kind": "market",
 "seen": "2026-11-28T01:44:42+00:00"
+},
+{
+"id": "4bf425ad0331",
+"t": "",
+"title": "BRST.PK - Reuters",
+"url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5tb1p1MzBMWkp0Z0lVQnFuT1FYU2tNa2JUb216MEp3a0RXVF81RFlPMEtDNTBfck4xOVdDTmdfdEk1ZUhxbWRKVWNUcDk0VXR6M2EwZF9CUHZvOE02MUxrYWdrR1lwNTFZLUx3ZnAxdC1WWWVHYTFpWm5B?oc=5",
+"pub": "2026-11-27T15:48:52+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-28T02:14:55+00:00"
 },
 {
 "id": "7d1acae510aa",
@@ -9021,6 +9141,16 @@
 "src": "Reuters",
 "kind": "market",
 "seen": "2026-11-27T19:14:21+00:00"
+},
+{
+"id": "dbdfee8f3ab0",
+"t": "",
+"title": "BSY.OQ - Reuters",
+"url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQV0NoZjZaNWtjQi1fbHRMeXVuVUtITDFPSGRXWDRxUkRaTDdBT3U2dUJNdHVsWG9KcHpRaVZtZkl3OHZ6ZXBVb1p3aXV0OC1IYm81QXlQZkxCbjNtekkySzdPUXhnOTg3RVc2ZjlQVWJvVHBLYnlxRXRHdzM4LU5aNTd1SUc?oc=5",
+"pub": "2026-11-27T15:26:06+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-28T02:14:55+00:00"
 },
 {
 "id": "5488cba06508",
@@ -10093,6 +10223,16 @@
 "seen": "2026-11-27T13:28:07+00:00"
 },
 {
+"id": "73abb4cd1c4e",
+"t": "",
+"title": "ZOREN.IS - Reuters",
+"url": "https://news.google.com/rss/articles/CBMickFVX3lxTE83VlE3MG1kcEVzc1BiTkpVb1B4NUR1bmV5a2Y0dlNqQldPVl9EQXNzTVh3Q28tOUxmWk9UVDNWRlBzU3RwMDROWHJRWWJBdWdzcFRnNGJsMzc2WjE1cnhtOEFxaEk5TEVDSjJtOEVfT2JvQQ?oc=5",
+"pub": "2026-11-27T10:52:00+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-28T02:14:55+00:00"
+},
+{
 "id": "bc9251765e77",
 "t": "",
 "title": "ECB Leadership Change Has No Material Impact on Euro",
@@ -10211,6 +10351,16 @@
 "src": "FinancialJuice",
 "kind": "market",
 "seen": "2026-11-27T10:07:06+00:00"
+},
+{
+"id": "cbb125581f13",
+"t": "",
+"title": "LUMG.D - Reuters",
+"url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBzeHlWZFVTUjRmdDYtSk1zbUF2bWdTSkIzbVV0dGVOTkZhc184cWVhVGZjS0F3aDdOUlJWMmNGN0Zic0hoQUtoREkxaEl2YV8wQmFZQ0tCZFJBcWprZTIxMThPalI3ODU5d2hMc21NWWtIOWVUdDRJ?oc=5",
+"pub": "2026-11-27T10:00:50+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-28T02:14:55+00:00"
 },
 {
 "id": "7036cded1422",
@@ -10871,156 +11021,6 @@
 "src": "FinancialJuice",
 "kind": "market",
 "seen": "2026-11-27T07:51:21+00:00"
-},
-{
-"id": "2ebe3e87df9c",
-"t": "",
-"title": "French HICP YoY Prelim  Actual 3.2% (Forecast 3.6%, Previous 3.7%)",
-"url": "https://www.financialjuice.com/News/9870237/French-HICP-YoY-Prelim--Actual-32-Forecast-36-Previous-37.aspx?xy=rss",
-"pub": "2026-11-27T07:45:21+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-27T07:51:21+00:00"
-},
-{
-"id": "c8eb3bc32a9e",
-"t": "",
-"title": "French Consumer Spending MoM Actual 0.0% (Forecast 0.1%, Previous -0.5%)",
-"url": "https://www.financialjuice.com/News/9870234/French-Consumer-Spending-MoM-Actual-00-Forecast-01-Previous--05.aspx?xy=rss",
-"pub": "2026-11-27T07:45:21+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-27T07:51:21+00:00"
-},
-{
-"id": "ba90d83b2e2c",
-"t": "",
-"title": "Watch Stockpiling in Oil Markets in 2027: Energy Aspects",
-"url": "https://www.bloomberg.com/news/videos/2026-11-27/watch-stockpiling-in-oil-markets-in-2027-energy-aspects-video",
-"pub": "2026-11-27T07:45:20+00:00",
-"src": "Bloomberg",
-"kind": "market",
-"seen": "2026-11-27T07:51:21+00:00"
-},
-{
-"id": "403a3d73c30e",
-"t": "",
-"title": "French Inflation Slows Much More Than Expected as Energy Eases",
-"url": "https://www.bloomberg.com/news/articles/2026-11-27/french-inflation-slows-much-more-than-expected-as-energy-eases",
-"pub": "2026-11-27T07:45:00+00:00",
-"src": "Bloomberg",
-"kind": "market",
-"seen": "2026-11-27T07:51:21+00:00"
-},
-{
-"id": "c71cc368776b",
-"t": "",
-"title": "Pay Policy at South Africa’s Momentum Passes With 51% Support",
-"url": "https://www.bloomberg.com/news/articles/2026-11-27/pay-policy-at-south-africa-s-momentum-passes-with-51-support",
-"pub": "2026-11-27T07:42:09+00:00",
-"src": "Bloomberg",
-"kind": "market",
-"seen": "2026-11-27T08:54:02+00:00"
-},
-{
-"id": "6cfd54ee7337",
-"t": "",
-"title": "Michael Page PLC (PAGE.L) | Stock Price & Latest News - Reuters",
-"url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBzQy1reEZqWHFscmJaYzVNdV81OUFBcTdPWXhsendYZGN4VU5ER1d1R0REM2J3QWIwUDdOWll6djBoN1NjV1QwNG4tci1EellpVm1Cc3dxLWZwbjFmRHc?oc=5",
-"pub": "2026-11-27T07:38:42+00:00",
-"src": "Reuters",
-"kind": "market",
-"seen": "2026-11-27T10:14:08+00:00"
-},
-{
-"id": "3d7824e1d1c7",
-"t": "",
-"title": "Indonesia Palm Oil Tenders Stall on Weak Demand and Tight Supply",
-"url": "https://www.bloomberg.com/news/articles/2026-11-27/indonesia-palm-oil-tenders-stall-on-weak-demand-and-tight-supply",
-"pub": "2026-11-27T07:36:17+00:00",
-"src": "Bloomberg",
-"kind": "market",
-"seen": "2026-11-27T08:54:02+00:00"
-},
-{
-"id": "68540cd0f55a",
-"t": "",
-"title": "U.S. Treasury Yields Rise in Shortened Post-Thanksgiving Trade",
-"url": "https://www.wsj.com/finance/investing/u-s-treasury-yields-rise-in-shortened-post-thanksgiving-trade-f0822039",
-"pub": "2026-11-27T07:36:00+00:00",
-"src": "WSJ",
-"kind": "market",
-"seen": "2026-11-27T07:51:21+00:00"
-},
-{
-"id": "146a3811983c",
-"t": "",
-"title": "ELV.B - | Stock Price & Latest News - Reuters",
-"url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNdnJTMC1jTjF6RGxfUVZScl9YaFRRemFqaWdKeTZIc3ZPMmxnR0psaExFb0NCRkZDYU5VcWRXWHF2UXdiYVBiRWUydElMNUU0dWFWZ2ZnaUZsZ3VvSFJ6UDdjWXE2M0dWRWg4cmViaFZ0aHNwc2tkX1dGSzhIN1JWNU16UQ?oc=5",
-"pub": "2026-11-27T07:33:31+00:00",
-"src": "Reuters",
-"kind": "market",
-"seen": "2026-11-27T15:14:26+00:00"
-},
-{
-"id": "96b82943a69a",
-"t": "",
-"title": "Imperial Brands Attracts Suitors as UK Stock Market Set to Shrink Further",
-"url": "https://www.bloomberg.com/news/newsletters/2026-11-27/imperial-brands-attracts-suitors-as-uk-stock-market-set-to-shrink-further",
-"pub": "2026-11-27T07:31:46+00:00",
-"src": "Bloomberg",
-"kind": "market",
-"seen": "2026-11-27T07:51:21+00:00"
-},
-{
-"id": "ffc4290d8b0b",
-"t": "",
-"title": "prgs.o - Reuters",
-"url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNdUZXQ0hNQVJDdnA4Y01pYXprWVlKS3FyZHF6TmlXa1U1aUI2RlJrZlVvajlhM0dlWWtUcURKZldVQkdOX3FXalc4NWx2ck9XaFNzUTFlMEg4RXRTZkJWSGRWUEJzX2RibkZQeHBLaGtFSXVmSHQ2U3FXdHJ6OFYxajBXRl8?oc=5",
-"pub": "2026-11-27T07:31:19+00:00",
-"src": "Reuters",
-"kind": "market",
-"seen": "2026-11-27T14:34:12+00:00"
-},
-{
-"id": "06e97467cf7e",
-"t": "",
-"title": "Take-Two Interactive Software, Inc. (TTWO.O) | Stock Price & Latest News - Reuters",
-"url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1sa3lISTJhN3lHMHdubDRmcnM0RDM1VDZ5RlpuNWJnd1VHQjVnZ0ZocmNfUFFhVzJvNlYtMG1HVW5PZXU2QmFhMUpHNVVWZXJ1Z0trNFpvd0xzVDdFM3c?oc=5",
-"pub": "2026-11-27T07:29:03+00:00",
-"src": "Reuters",
-"kind": "market",
-"seen": "2026-11-27T14:44:45+00:00"
-},
-{
-"id": "b63de493a954",
-"t": "",
-"title": "Chinese Shares Lifted as Beijing Signals More Market Support",
-"url": "https://www.wsj.com/finance/stocks/chinese-shares-lifted-as-beijing-signals-more-market-support-3a1d1468",
-"pub": "2026-11-27T07:22:00+00:00",
-"src": "WSJ",
-"kind": "market",
-"seen": "2026-11-27T07:51:21+00:00"
-},
-{
-"id": "c9f534d7913b",
-"t": "",
-"title": "Indonesian nickel businessman possibly involved in treason against Prabowo's government, official says - Reuters",
-"url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPdkxiclR4RTIxSGFqNHJTY3ZZeXRhSWFGN0xobmIxV1JRUjVZZG1VTlBBQ25BVHpIVFFObjR6cENOcDVWT3FLUHA3UVVuZ1hWdEt4ekxKLWRyTkdHSjNjaUdxZjhhQ2JJM0FUaXFHMGhpMFBGR2taNzRwaElUQnlyXzZocUZWY00wUDJ6V05pOXE1LUR3THl0YUd6eThwVkRHSTZTV3hkZ24yUmxNUFFrd3JGbTFKbGdVYUZfUDlKeUoyYjBUTTZJ?oc=5",
-"pub": "2026-11-27T07:22:00+00:00",
-"src": "Reuters",
-"kind": "market",
-"seen": "2026-11-27T08:54:02+00:00"
-},
-{
-"id": "d4f0f9256ea9",
-"t": "",
-"title": "Elkem ASA (ELKEF.PK) | Stock Price & Latest News - Reuters",
-"url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBvdDQ0VFYwYVN0cjA3NTB2RC02MkRaRVVlQlotT2x0Z2RTMTBxcGwzcXhDNnByMFRmdG1Jb09hU2pldS0yeENWdXdBVnVONDFUTm1QRjdlRVZBNjhlX0VPbE5oRmgteEpYLVJRV1JUUTc?oc=5",
-"pub": "2026-11-27T07:20:48+00:00",
-"src": "Reuters",
-"kind": "market",
-"seen": "2026-11-27T10:07:06+00:00"
 }
 ]
 }
