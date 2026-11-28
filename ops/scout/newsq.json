@@ -1,6 +1,6 @@
 {
-"updated_kst": "2026-11-28 14:14",
-"rot": 63,
+"updated_kst": "2026-11-28 14:44",
+"rot": 123,
 "how": "Scout(프로그램)이 10분마다 모은 기사 제목·링크와 공시예요. Wren이 공식 출처로 확인한 뒤 회사 화면에 한국어로 반영해요. 본문은 받지 않아요.",
 "sources": {
 "Yahoo Finance": "120종목 확인 · 실패 0",
@@ -10,12 +10,42 @@
 "CNBC": "63건",
 "Bloomberg": "40건",
 "WSJ": "60건",
-"Reuters": "52건",
+"Reuters": "100건",
 "FinancialJuice": "100건",
 "SEC EDGAR": "실패 HTTPError",
 "Fox Business": "50건"
 },
 "items": [
+{
+"id": "04739fd12d87",
+"t": "NVDA",
+"title": "NVDA Stock Could Hit A Bottom Next Week As Jensen Huang Faces Congress, Says Analyst — 'I Would Buy It With Both Hands'",
+"url": "https://stocktwits.com/news-articles/markets/equity/nvda-stock-hit-bottom-jensen-haung-congress/cNRRYXMR9Vp",
+"pub": "2026-11-28T05:31:54+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-28T05:44:27+00:00"
+},
+{
+"id": "02cd4b48564e",
+"t": "NVDA",
+"title": "The First AI Stock I Plan to Buy in 2027",
+"url": "https://www.fool.com/investing/2026/11/28/the-first-ai-stock-i-plan-to-buy-in-2027/",
+"pub": "2026-11-28T05:20:02+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-28T05:44:27+00:00"
+},
+{
+"id": "a2d666a1e8a6",
+"t": "TSLA",
+"title": "Tesla Stock And Other Tariff Protected Manufacturers Investors Are Watching",
+"url": "https://finance.yahoo.com/markets/stocks/articles/tesla-stock-other-tariff-protected-051504941.html",
+"pub": "2026-11-28T05:15:04+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-28T05:44:27+00:00"
+},
 {
 "id": "0113d00c3c2b",
 "t": "SPCX",
@@ -7993,36 +8023,6 @@
 "seen": "2026-11-27T10:07:06+00:00"
 },
 {
-"id": "22d681e70ec8",
-"t": "MSFT",
-"title": "Is Microsoft (MSFT) Fully Valued Following Its Atos Sovereign Cloud Deal?",
-"url": "https://finance.yahoo.com/markets/stocks/articles/microsoft-msft-fully-valued-following-090939545.html",
-"pub": "2026-11-27T09:09:39+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-27T10:07:06+00:00"
-},
-{
-"id": "2b8e029ad655",
-"t": "NOW",
-"title": "ServiceNow (NOW) Stock May Be Fully Priced As AI Risks Hit Software",
-"url": "https://finance.yahoo.com/technology/ai/articles/servicenow-now-stock-may-fully-090902140.html",
-"pub": "2026-11-27T09:09:02+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-27T10:07:06+00:00"
-},
-{
-"id": "7a4ebd13a859",
-"t": "NVDA",
-"title": "A Palantir Co-Founder Bought $122 Million of the Stock on Nov. 20. Here's What I Think of Palantir Stock Now.",
-"url": "https://www.fool.com/investing/2026/11/27/a-palantir-co-founder-bought-usd122-million-of-the-stock-on-nov-20-here-s-what-i-think-of-palantir-stock-now/",
-"pub": "2026-11-27T09:07:02+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-27T10:07:06+00:00"
-},
-{
 "id": "60f957e18785",
 "t": "",
 "title": "Saudi-led coalition: cruise missile launched by Yemen's Houthis toward Riyadh intercepted and destroyed",
@@ -8041,6 +8041,26 @@
 "src": "Bloomberg",
 "kind": "market",
 "seen": "2026-11-28T03:14:16+00:00"
+},
+{
+"id": "ca81ba58c827",
+"t": "",
+"title": "5253JPY.JPx - Reuters",
+"url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNUnlybkljZ2RLbnRaLUR6WFRmRldHMk9hUlJnczRTNEYyQWl2U0xYVnpROHo5UjVZUlItYUduRl9xaXl4OHVmYnF4OUtOcHg4RWJOazdXWWFDYnlVX3FKa3NNZVhzWkE4NVJ4NjF2WXZGWlltNW0tcmVZZnAwS01uTW5nOUJvMERhYm5B?oc=5",
+"pub": "2026-11-28T02:24:10+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-28T05:44:27+00:00"
+},
+{
+"id": "742020c11113",
+"t": "",
+"title": "BMBL.DG - Reuters",
+"url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE84RnJ1SzlxalcyN3VhVFVZd0hsQ2Z5LVhmMzdvUGdTaGg4TDdOTHFhbmIwRmtqUFFtemJ5WGMyckRuOWozeHl5OHNRaEYySmtxdlMzWTBqdlRZTmFRd2RFYTh5X1QyaW9RcVE?oc=5",
+"pub": "2026-11-28T02:21:09+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-28T05:44:27+00:00"
 },
 {
 "id": "1c55046fd230",
@@ -8083,6 +8103,16 @@
 "seen": "2026-11-28T04:59:50+00:00"
 },
 {
+"id": "253b259f4b1e",
+"t": "",
+"title": "JBLU.MU - | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0wUjdXTnNRYzhBaHV6RmlyWmVjZ3R1aW10X0FBbzZJUExmQkliRHlKR2lCSDVyU09ibGxTejNyTkJIdzhYSHdIYy10a1BpVkFYTTNfN0cwWmJGQkYzVW9MamRiaS0tMWhRenFWRy1ha1Q?oc=5",
+"pub": "2026-11-28T00:57:56+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-28T05:44:27+00:00"
+},
+{
 "id": "c1fb61835cb7",
 "t": "",
 "title": "SSE STAR SEMICONDUCTOR MATERIAL IDX (.CSI950125) | Stock Price & Latest News - Reuters",
@@ -8123,6 +8153,16 @@
 "seen": "2026-11-28T00:14:13+00:00"
 },
 {
+"id": "d8e2386dd11c",
+"t": "",
+"title": "CBRO.D - Reuters",
+"url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQWlR4cnRtc0hIaXNBNGc2cngxckZMYTdEUmdpMURjU1NtNThCc3dQbHJ6Ty1rRWVKTWUtUnBUZXJSRmx3LW1GQ0dJZ0tMamFKUWNwZl9vVHN6VEhUeG1lSm5GZTBIaG9FS1NIbDR0Q2RhY1BiNV8yRzhXeUFoblYxSTN4d2s?oc=5",
+"pub": "2026-11-27T23:59:58+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-28T05:44:27+00:00"
+},
+{
 "id": "e189c296e6ca",
 "t": "",
 "title": "EQV Ventures Acquisition Corp II (EVAC.N) | Stock Price & Latest News - Reuters",
@@ -8141,6 +8181,26 @@
 "src": "Reuters",
 "kind": "market",
 "seen": "2026-11-28T04:14:05+00:00"
+},
+{
+"id": "a7fef471b1bc",
+"t": "",
+"title": "7851.JSD - | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBOQi1wN2RzMzRCMHFwTzVfR3cyNjY4V2FNN1k2QWQtTWl4YjYtSnZHN1NIeGlLd1kwMl9IeGIxVmdpUDV3enNGQm55TzF3NWhkRlRldExzNl9vWUJTUFV2YjFENk53VDVNM1BIc1A0SmN3RTJYQnNreg?oc=5",
+"pub": "2026-11-27T23:51:03+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-28T05:44:27+00:00"
+},
+{
+"id": "f874f0b3f6ec",
+"t": "",
+"title": "STRATS(SM) Trust for Allstate Securities Series 2006-3 Corp (GJT.N) | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAyQkNpbFF2Ym9fd3FwQ2VxOGotQmFwUV9xVmlUSjQzdm83bTdIVW5FUG1zWlNzdGRWS3RKSmxYUkJiTXJIZmRBNGx1aF9WTnVwczdGUnlwcTY3YmdaRzczMFZwT2FVUnpsMnRROQ?oc=5",
+"pub": "2026-11-27T23:27:17+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-28T05:44:27+00:00"
 },
 {
 "id": "725230630812",
@@ -8403,6 +8463,16 @@
 "seen": "2026-11-27T21:40:02+00:00"
 },
 {
+"id": "092e566a20e0",
+"t": "",
+"title": "H2O America (HTOEU.OQ) | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1rdkxRb0IyelU5b3hjWEx6QlpmY3hyWXBWQXE4Yy12dXJibDlQSGRmaXVMVUV2SUJrM2xBM0tPVVhXSDFWMXNiLWU4bFNwR1RwWEttOTQ5UmxwS09Bazk0Yg?oc=5",
+"pub": "2026-11-27T21:19:07+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-28T05:44:27+00:00"
+},
+{
 "id": "f59c7f4f6d61",
 "t": "",
 "title": "S&P: France outlook cut to negative on budget consolidation risks; 'A+/A-1' ratings confirmed",
@@ -8651,6 +8721,16 @@
 "src": "Reuters",
 "kind": "market",
 "seen": "2026-11-28T04:14:05+00:00"
+},
+{
+"id": "b713a9dfb412",
+"t": "",
+"title": "Proshares Decline Of The Retail Store ETF (EMTY.N) | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5FNFJOblFuV3pON3JsaXBSTTB4NGYwLTJfWkJhWDM4WGM2a0F2Nkc0eXk4cDA2WFRkQlRSOXE0R1ljeTRJdlFqTVlFSHF3U25JTTBXZFF3WTZEdWhwRlc1b0pSYi1yb2ZjMExNOFZ3?oc=5",
+"pub": "2026-11-27T18:51:13+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-28T05:44:27+00:00"
 },
 {
 "id": "8406771760ad",
@@ -10941,86 +11021,6 @@
 "src": "Reuters",
 "kind": "market",
 "seen": "2026-11-27T10:44:09+00:00"
-},
-{
-"id": "5d4a86f36bac",
-"t": "",
-"title": "Matsa Resources Ltd (MAT.AX) | Stock Price & Latest News - Reuters",
-"url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1XemVDYkVJRnRKY2ViQXI2amRDRHJvSmJERkZwaWQweUltQ2JZam9xaklOdkxyMC1KaW5kZUdnVlVfdTI5dC1QZmI0TUhNWXNlUkZSUzhCc08xZW9mVHZkT0xINjNTMlBsQ1ZHY01n?oc=5",
-"pub": "2026-11-27T08:52:35+00:00",
-"src": "Reuters",
-"kind": "market",
-"seen": "2026-11-27T15:40:28+00:00"
-},
-{
-"id": "1d802570dc48",
-"t": "",
-"title": "Centre-right leader Feijoo pitches himself as the manager Spain needs - Reuters",
-"url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOdVJ6YS0tTzRFQzNnVC1vOWNDTUYxTkJYQ1F1TUJ3NFJkWXZQQUowMFlMOHFHTHRRRi1icXBIckZuREZhd0xJMTNERlpJZEN4RGl5aFZjQWd0ZDQtczlEUDVma1A4TllFNjVjYVMyUGVCWGNDclI4X2lMTHdzeU9JOG5RR3RDN3pMNU16R1FNSXdyRXBBUEtQLTJVTVdrLXhoVFNiUDN0ejdEZXM5aFVPeDlRRQ?oc=5",
-"pub": "2026-11-27T08:50:49+00:00",
-"src": "Reuters",
-"kind": "market",
-"seen": "2026-11-27T08:54:02+00:00"
-},
-{
-"id": "2efc86804497",
-"t": "",
-"title": "‘Ready for any storm’: UAE minister optimistic on economy as IMF lifts forecast",
-"url": "https://www.cnbc.com/2026/11/25/uae-iran-war-economy-oil.html",
-"pub": "2026-11-27T08:47:36+00:00",
-"src": "CNBC",
-"kind": "market",
-"seen": "2026-11-27T08:54:02+00:00"
-},
-{
-"id": "30aa075cbee2",
-"t": "",
-"title": "Dubai Stocks Erase Wartime Losses to Become a Top Gulf Performer",
-"url": "https://www.bloomberg.com/news/articles/2026-11-27/dubai-stocks-erase-wartime-losses-to-become-a-top-gulf-performer",
-"pub": "2026-11-27T08:43:08+00:00",
-"src": "Bloomberg",
-"kind": "market",
-"seen": "2026-11-27T08:54:02+00:00"
-},
-{
-"id": "b12a1d59cb4b",
-"t": "",
-"title": "China Bank Bond Spreads Head for Biggest Jump in Over Two Years",
-"url": "https://www.bloomberg.com/news/articles/2026-11-27/china-bank-bond-spreads-head-for-biggest-jump-in-over-two-years",
-"pub": "2026-11-27T08:36:16+00:00",
-"src": "Bloomberg",
-"kind": "market",
-"seen": "2026-11-27T08:54:02+00:00"
-},
-{
-"id": "3f595c0d19e0",
-"t": "",
-"title": "European Stock Indexes Rise as Tech Rally Extends",
-"url": "https://www.wsj.com/finance/stocks/nikkei-rises-0-4-led-by-banks-trading-houses-7e23720e",
-"pub": "2026-11-27T08:32:00+00:00",
-"src": "WSJ",
-"kind": "market",
-"seen": "2026-11-27T15:44:21+00:00"
-},
-{
-"id": "645b2c50c1b6",
-"t": "",
-"title": "European stocks extend recovery as tech, miners advance - Reuters",
-"url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNWXZKd0Q0TmVVTkRGN3RGNS1HckVpbzlmWC11Vl9BWXBibU9LVEJOY2o5TFVGNlQ2WDRWWHRIaUxqZkN0RlV4MTBtbEVLRlBjTG4xMi0zNHZKYUJmMUZxWmtXSVRvUGZ1OHk5dVpIZVlLbklER3VqTm5RWklhTFJDR0NkckpOaVhHYlh1LU1jZmJfQ1RadG04T0lrVHEzdE5YUXdLWA?oc=5",
-"pub": "2026-11-27T08:25:12+00:00",
-"src": "Reuters",
-"kind": "market",
-"seen": "2026-11-27T08:54:02+00:00"
-},
-{
-"id": "91f78eb2af3b",
-"t": "",
-"title": "Demire Deutsche Mittelstand Real Estate AG (DMRE.MU) | Stock Price & Latest News - Reuters",
-"url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5SM012QlhsRlF5dUJ3R1NBeDkyLTVHVlpIY0p6bHlldEVWMlhmYkMyM3A4dU5zc05QUFVuN21pamJNWGE2djZPNkZYQ0h2QW9ZYVJEcDRGYmp4TUU2N2NVUjhMaGJYUURjU3k3bg?oc=5",
-"pub": "2026-11-27T08:24:04+00:00",
-"src": "Reuters",
-"kind": "market",
-"seen": "2026-11-27T23:37:01+00:00"
 }
 ]
 }
