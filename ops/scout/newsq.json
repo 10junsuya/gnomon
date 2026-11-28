@@ -1,6 +1,6 @@
 {
-"updated_kst": "2026-11-28 15:14",
-"rot": 64,
+"updated_kst": "2026-11-28 15:44",
+"rot": 124,
 "how": "Scout(프로그램)이 10분마다 모은 기사 제목·링크와 공시예요. Wren이 공식 출처로 확인한 뒤 회사 화면에 한국어로 반영해요. 본문은 받지 않아요.",
 "sources": {
 "Yahoo Finance": "120종목 확인 · 실패 0",
@@ -10,12 +10,82 @@
 "CNBC": "63건",
 "Bloomberg": "40건",
 "WSJ": "60건",
-"Reuters": "53건",
+"Reuters": "50건",
 "FinancialJuice": "100건",
 "SEC EDGAR": "실패 HTTPError",
 "Fox Business": "50건"
 },
 "items": [
+{
+"id": "1ec5476e007e",
+"t": "LUNR",
+"title": "Intuitive Machines (LUNR) Rockets to the Moon After a Brutal Sell-Off",
+"url": "https://finance.yahoo.com/markets/stocks/articles/intuitive-machines-lunr-rockets-moon-063725007.html",
+"pub": "2026-11-28T06:37:25+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-28T06:44:46+00:00"
+},
+{
+"id": "40d3ebf79eb7",
+"t": "AVGO",
+"title": "AXT Inc. (AXTI) Joins the Market’s Biggest Winners",
+"url": "https://finance.yahoo.com/markets/stocks/articles/axt-inc-axti-joins-market-062350204.html",
+"pub": "2026-11-28T06:23:50+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-28T06:44:46+00:00"
+},
+{
+"id": "242493b5cf9b",
+"t": "COHR",
+"title": "Coherent Corp. (COHR) Pulls Off a Jaw-Dropping Comeback",
+"url": "https://finance.yahoo.com/markets/stocks/articles/coherent-corp-cohr-pulls-off-062107786.html",
+"pub": "2026-11-28T06:21:07+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-28T06:44:46+00:00"
+},
+{
+"id": "16ac993f46fc",
+"t": "SNDK",
+"title": "SanDisk (SNDK) Just Unleashed Another Massive Rally",
+"url": "https://finance.yahoo.com/markets/stocks/articles/sandisk-sndk-just-unleashed-another-061428326.html",
+"pub": "2026-11-28T06:14:28+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-28T06:44:46+00:00"
+},
+{
+"id": "9053b7761d04",
+"t": "RDW",
+"title": "HawkEye 360 And 2 Space Stocks To Watch",
+"url": "https://finance.yahoo.com/markets/stocks/articles/hawkeye-360-2-space-stocks-061111711.html",
+"pub": "2026-11-28T06:11:11+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-28T06:44:46+00:00"
+},
+{
+"id": "f6db7e2072bf",
+"t": "CIEN",
+"title": "Nvidia And AI Infrastructure Stocks Worth Watching For Data Center Demand",
+"url": "https://finance.yahoo.com/technology/ai/articles/nvidia-ai-infrastructure-stocks-worth-061003955.html",
+"pub": "2026-11-28T06:10:03+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-28T06:44:46+00:00"
+},
+{
+"id": "7b59bb5213c7",
+"t": "VZ",
+"title": "What Does Verizon Communications (VZ) Gain From Its New Motorsport IoT Partnership?",
+"url": "https://finance.yahoo.com/technology/articles/does-verizon-communications-vz-gain-060821186.html",
+"pub": "2026-11-28T06:08:21+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-28T06:44:46+00:00"
+},
 {
 "id": "04739fd12d87",
 "t": "NVDA",
@@ -465,6 +535,16 @@
 "src": "Yahoo Finance",
 "kind": "news",
 "seen": "2026-11-28T00:14:13+00:00"
+},
+{
+"id": "e78073fec3c9",
+"t": "WMT",
+"title": "Walmart vs. Target: One Has Triple the Dividend, and It's the Better Buy",
+"url": "https://www.barchart.com/story/news/9038805/walmart-vs-target-one-has-triple-the-dividend-and-it-s-the-better-buy",
+"pub": "2026-11-28T00:00:02+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-28T06:44:46+00:00"
 },
 {
 "id": "2bd032cd625a",
@@ -7940,87 +8020,6 @@
 "kind": "news",
 "orig": true,
 "seen": "2026-11-27T10:07:06+00:00"
-},
-{
-"id": "3ee01c88cd95",
-"t": "NVDA",
-"title": "NVDA Investors Have Opportunity to Lead NVIDIA Corporation Securities Fraud Lawsuit with SBS Law",
-"url": "https://www.prnewswire.com/news-releases/nvda-investors-have-opportunity-to-lead-nvidia-corporation-securities-fraud-lawsuit-with-sbs-law-302951575.html",
-"pub": "2026-11-27T09:41:00+00:00",
-"src": "PR Newswire",
-"kind": "news",
-"orig": true,
-"seen": "2026-11-27T10:07:06+00:00"
-},
-{
-"id": "546e7c39226d",
-"t": "TSLA",
-"title": "Tesla’s Robotaxi Promises “More Cars, Less $” as Its Dallas Zone Grows 83.5%",
-"url": "https://www.tikr.com/blog/teslas-robotaxi-promises-more-cars-less-as-its-dallas-zone-grows-83-5",
-"pub": "2026-11-27T09:35:31+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-27T11:03:19+00:00"
-},
-{
-"id": "c50dcbcce73c",
-"t": "NVDA",
-"title": "Black Friday Is Here: 2 AI Stocks to Buy While They’re on Sale",
-"url": "https://www.fool.com/investing/2026/11/27/black-friday-is-here-2-ai-stocks-to-buy-while-they-re-on-sale/",
-"pub": "2026-11-27T09:30:02+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-27T10:07:06+00:00"
-},
-{
-"id": "523a62830ec1",
-"t": "NVDA",
-"title": "The Latest Interest Rate Forecast Is In, and It Spells Trouble for a Historically Expensive AI-Driven Bull Market",
-"url": "https://www.fool.com/investing/2026/11/27/latest-interest-rate-forecast-is-in-spells-trouble-historically-expensive-ai-bull-market/",
-"pub": "2026-11-27T09:26:02+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-27T10:07:06+00:00"
-},
-{
-"id": "5315b813f464",
-"t": "SPCX",
-"title": "AI chip curbs, Musk’s giveaway and oil risks - what’s moving markets",
-"url": "https://finance.yahoo.com/markets/articles/ai-chip-curbs-musk-giveaway-092034519.html",
-"pub": "2026-11-27T09:20:34+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-27T10:07:06+00:00"
-},
-{
-"id": "38db2fb35213",
-"t": "MU",
-"title": "Stock market today: Dow, S&P 500, Nasdaq futures gain as AI jitters steady",
-"url": "https://finance.yahoo.com/markets/live/stock-market-today-firday-november-27-dow-sp-500-nasdaq-black-friday-holiday-091152065.html",
-"pub": "2026-11-27T09:11:52+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-27T10:07:06+00:00"
-},
-{
-"id": "66aaf435a3c5",
-"t": "CBRS",
-"title": "3 Top Owner Operator Stocks With Revenue Up To 776 Billion",
-"url": "https://finance.yahoo.com/markets/stocks/articles/3-top-owner-operator-stocks-091125013.html",
-"pub": "2026-11-27T09:11:25+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-27T10:14:08+00:00"
-},
-{
-"id": "e4f1c6ce12f3",
-"t": "TXN",
-"title": "Will Earnings Upgrades Change Texas Instruments Stock Narrative",
-"url": "https://finance.yahoo.com/markets/stocks/articles/earnings-upgrades-change-texas-instruments-091020043.html",
-"pub": "2026-11-27T09:10:20+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-27T10:14:08+00:00"
 },
 {
 "id": "89a758bd0c0f",
