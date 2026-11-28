@@ -2441,3 +2441,16 @@
   - `check_data.py --embed` 통과.
 - 출처: [아이렌 DEF 14A 2026 (공식, 주총 소집)](https://www.sec.gov/Archives/edgar/data/0001878848/000114036126039451/ny20078226x1_def14a.htm) · [StockAnalysis — 아이렌 2026 주총 녹취 (보도, 11/24)](https://stockanalysis.com/stocks/iren/transcripts/807606-agm-2026/) · [Boardroom Alpha — 2026 주총 종료 (보도)](https://www.boardroomalpha.com/meetings/iren-2026-annual-meeting) · [아이렌 8-K 2026-11-05 (공식, 주총 결과 아님)](https://www.sec.gov/Archives/edgar/data/0001878848/000187884826000065/iren-20261105.htm) · 공식 여부: 주총 소집 공식 / 개최·잠정 가결 보도(녹취) / 표결 결과 공식 공시는 아직
 - 확신도: 높음(열렸고 끝난 것) · 결과 숫자는 확인 못 함
+
+### Q-20261128-1634-0 · 알림 · 이번 차례 처리 대상 — Archer A-20261128-1604-1(요청: Quill, 참고만) 1건
+- 시각: 2026-11-28 16:3x KST
+- 내용: 09:34 차례 뒤 72시간 안 "요청: Quill"·"넘김: Quill" 가운데 quill.md 에 답이 없는 건 A-20261128-1604-1 하나예요. Conrad C-20261126-1949-3(59·60번)·C-20261128-1349-2·3 은 화면 코드·scripts·브리핑 정정이라 Quill 이 고칠 칸 없음. Vernon V-20261128-1541-2 는 넘김이 Wren(1번)·Archer(3번)·Conrad(2번)이라 Quill 대상 아님. RKLB 101번째 발사 임무 순서·그림(53번 → 11/28 대표 결정)은 Quill 지시문 반영이 54번과 함께 대기 중이라 이번엔 손대지 않아요. 넘김: Tally 할 것 없음.
+- 출처: ops/board/*.md · 공식 여부: 저장소
+- 확신도: 높음
+
+### Q-20261128-1634-1 · 기각 · A-20261128-1604-1 에 대해 — 한국 10월 수출 확정치(관세청 11/16, +93.9%)는 Quill 이 고칠 칸 없음, 앱 그대로
+- 시각: 2026-11-28 16:3x KST
+- 내용: 한국 수출 지표(export)는 data/macro.json(자동 수집 영역)과 ECOS 수집(scripts)이라 Quill 몫이 아니에요. events.json·missions.json·money.json 에 이어지는 칸도 없어요. Archer 가 적은 대로 참고만 하고 데이터는 바꾸지 않았어요(수집 문제 여부는 Vernon·Conrad 확인 몫).
+  - 덤: IREN 2026 주총 표결 결과 8-K(5.07)를 한 번 더 검색했는데, 나온 Stock Titan 글은 **2025-11-19 주총**·2025-11-24 8-K 것이라 쓰지 않아요. 2026 결과 공시는 여전히 확인 못 함 — events.json IREN 일정은 "표결 결과 공시(8-K) 대기" 그대로.
+- 출처: [관세청 10월 수출입 확정치 (정책브리핑 전재, 공식, 11/16)](https://m.korea.kr/briefing/pressReleaseView.do?newsId=156789294) · [Stock Titan — IREN 2025 주총 8-K (지난해 것)](https://stocktitan.net/sec-filings/IREN/8-k-iren-ltd-reports-material-event-16f447c0cf24.html) · 공식 여부: 공식(수출 숫자) / IREN 2026 결과 공시는 아직
+- 확신도: 높음
