@@ -1,6 +1,6 @@
 {
-"updated_kst": "2026-11-28 08:44",
-"rot": 177,
+"updated_kst": "2026-11-28 09:14",
+"rot": 58,
 "how": "Scout(프로그램)이 10분마다 모은 기사 제목·링크와 공시예요. Wren이 공식 출처로 확인한 뒤 회사 화면에 한국어로 반영해요. 본문은 받지 않아요.",
 "sources": {
 "Yahoo Finance": "120종목 확인 · 실패 0",
@@ -10,12 +10,42 @@
 "CNBC": "63건",
 "Bloomberg": "40건",
 "WSJ": "60건",
-"Reuters": "55건",
+"Reuters": "54건",
 "FinancialJuice": "100건",
 "SEC EDGAR": "실패 HTTPError",
 "Fox Business": "50건"
 },
 "items": [
+{
+"id": "a49f870a065b",
+"t": "MA",
+"title": "US Fintech Weekly: Payment Networks Rally Into Black Friday As Wedbush Backs Brokerages",
+"url": "https://stocktwits.com/news-articles/markets/equity/us-fintech-weekly-payment-networks-rally-into-black-friday-as-wedbush-backs-brokerages/cNRRKmjR9Vj",
+"pub": "2026-11-28T00:01:26+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-28T00:14:13+00:00"
+},
+{
+"id": "2bd032cd625a",
+"t": "SPCX",
+"title": "SpaceX satellites could outnumber stars in the night sky, block study of the universe — FCC says that's not our problem",
+"url": "https://finance.yahoo.com/technology/articles/spacex-satellites-could-outnumber-stars-000000904.html",
+"pub": "2026-11-28T00:00:00+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-28T00:14:13+00:00"
+},
+{
+"id": "932520750a3b",
+"t": "AMZN",
+"title": "e.l.f. Beauty vs. Wendy's: Which Consumer Goods Stock Is a Better Buy for 2027?",
+"url": "https://www.fool.com/coverage/better-buy/2026/11/27/elf-beauty-vs-wendys-which-consumer-goods-stock-is-a-better-buy-for-2027/",
+"pub": "2026-11-27T23:58:53+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-28T00:14:13+00:00"
+},
 {
 "id": "7afbbe611e3c",
 "t": "AMZN",
@@ -155,6 +185,16 @@
 "src": "Yahoo Finance",
 "kind": "news",
 "seen": "2026-11-27T21:44:58+00:00"
+},
+{
+"id": "e2e4661f2bb7",
+"t": "TSLA",
+"title": "S&P 500, Nasdaq End Best Week In Over A Year As AI Optimism Makes Comeback — VZ, ANT, ADBE, TSLA In Focus",
+"url": "https://stocktwits.com/news-articles/markets/equity/s-and-p-500-nasdaq-end-best-week-in-over-a-year-as-ai-optimism-makes-comeback/cNb6EtcR9VK",
+"pub": "2026-11-27T21:29:46+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-28T00:14:13+00:00"
 },
 {
 "id": "d595921d5cea",
@@ -405,6 +445,16 @@
 "src": "Yahoo Finance",
 "kind": "news",
 "seen": "2026-11-27T20:41:49+00:00"
+},
+{
+"id": "c60802be444f",
+"t": "AAPL",
+"title": "OpenAI Reportedly Fires Back At Apple Over Trade Secrets And Hardware Suppliers",
+"url": "https://stocktwits.com/news-articles/markets/equity/open-ai-reportedly-fires-back-at-apple-over-trade-secrets-and-hardware-suppliers/cNb65s2R9Vi",
+"pub": "2026-11-27T20:13:53+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-28T00:14:13+00:00"
 },
 {
 "id": "d799ea4baec3",
@@ -7974,54 +8024,24 @@
 "seen": "2026-11-27T05:12:20+00:00"
 },
 {
-"id": "ba3ae6e6e22d",
-"t": "CLS",
-"title": "Celestica’s $40 Billion Revenue Outlook Puts Its 2027 Cash Needs in Focus",
-"url": "https://finance.yahoo.com/technology/articles/celestica-40-billion-revenue-outlook-041413389.html",
-"pub": "2026-11-27T04:14:13+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-27T05:12:20+00:00"
+"id": "33924f5dc9b5",
+"t": "",
+"title": "JPMorgan Plans a Private Club for Well-Heeled Clients in a 1930s Branch",
+"url": "https://www.wsj.com/finance/banking/jpmorgan-plans-a-private-club-for-well-heeled-clients-in-a-1930s-branch-c609a03c",
+"pub": "2026-11-28T00:00:00+00:00",
+"src": "WSJ",
+"kind": "market",
+"seen": "2026-11-28T00:14:13+00:00"
 },
 {
-"id": "fb1d67d0969e",
-"t": "GLW",
-"title": "Corning’s 80-Million-Mile Fiber Deal Puts Its 2027 Expansion to the Test",
-"url": "https://finance.yahoo.com/technology/articles/corning-80-million-mile-fiber-041319616.html",
-"pub": "2026-11-27T04:13:19+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-27T07:51:21+00:00"
-},
-{
-"id": "ceb249b436da",
-"t": "CSCO",
-"title": "Is Cisco Among the Morgan Stanley’s 8 Best Networking & Optical Communications Stocks to Buy for 2027?",
-"url": "https://finance.yahoo.com/markets/stocks/articles/cisco-among-morgan-stanley-8-041234343.html",
-"pub": "2026-11-27T04:12:34+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-27T06:20:52+00:00"
-},
-{
-"id": "2a01470cfcd7",
-"t": "NVDA",
-"title": "Neoclouds Told To Choose: Nvidia Chips Or Chinese Customers",
-"url": "https://finance.yahoo.com/technology/articles/neoclouds-told-choose-nvidia-chips-041120920.html",
-"pub": "2026-11-27T04:11:20+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-27T06:20:52+00:00"
-},
-{
-"id": "d24f9681f080",
-"t": "COHR",
-"title": "Coherent Targets $250 Million in Quarterly PhotonLink Sales. Can Capacity Keep Up?",
-"url": "https://finance.yahoo.com/technology/articles/coherent-targets-250-million-quarterly-040735182.html",
-"pub": "2026-11-27T04:07:35+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-27T05:12:20+00:00"
+"id": "fd7f9c995600",
+"t": "",
+"title": "Citigroup’s $35 Billion Bookkeeping Snafu Sparks Shake-Up in Upper Ranks",
+"url": "https://www.wsj.com/finance/banking/citigroups-35-billion-bookkeeping-snafu-sparks-shake-up-in-upper-ranks-71d8afe9",
+"pub": "2026-11-28T00:00:00+00:00",
+"src": "WSJ",
+"kind": "market",
+"seen": "2026-11-28T00:14:13+00:00"
 },
 {
 "id": "de656cefc5e2",
@@ -8092,6 +8112,16 @@
 "src": "FinancialJuice",
 "kind": "market",
 "seen": "2026-11-27T22:40:36+00:00"
+},
+{
+"id": "540bb9e88d18",
+"t": "",
+"title": "CaixaBank SA (CABK.MC) | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE82UUNRanB6bERuVXJ1dm9nOFA4YVYyajY2d2l5bDRMdkZFU1VkUW85dFhoQ2tLYUpRel9WbUtlcWNLanEtc0VfTWN3TFhmZUtQemtuTU9rV1FtVUkxdmN5M3dPNHVEd2VESjcxQw?oc=5",
+"pub": "2026-11-27T22:16:04+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-28T00:14:13+00:00"
 },
 {
 "id": "f4567f833c45",
@@ -8322,6 +8352,16 @@
 "src": "Reuters",
 "kind": "market",
 "seen": "2026-11-27T22:43:58+00:00"
+},
+{
+"id": "d7a28e4f9287",
+"t": "",
+"title": "Rheinmetall AG (RHMG.D) | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9VVW5EUFBKaGdwbzYyNmEyU3ViZkM2a0E2X1RicFFmZlJBaDU3V2Z0UzdoaVBPMXlaYU9nSUpndUtKNm5Pb2hxZzVhMWZUUkFySGhQcjlKc0IyMnRqSS1WRjV2LXVmdnFoeVBZ?oc=5",
+"pub": "2026-11-27T19:58:51+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-28T00:14:13+00:00"
 },
 {
 "id": "6091dd2348ad",
@@ -8732,6 +8772,16 @@
 "src": "Bloomberg",
 "kind": "market",
 "seen": "2026-11-27T16:44:40+00:00"
+},
+{
+"id": "3aec72150b31",
+"t": "",
+"title": "Bayer AG (BAYGn.SG) | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE10UldrVWhLc09mUWJTbXFSSC1lVGE2REV3d3E5bHdJVVhjVnRJeUlDNE9mV3l4UEdrUTZDQ0s0cGQzWVFER1BQblc3MEpwZlc4Zk5vUWlnVFJoTXJLWjgxaTFQdl84WFZ3bjJJaVVR?oc=5",
+"pub": "2026-11-27T16:00:50+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-28T00:14:13+00:00"
 },
 {
 "id": "1639f81f5b60",
@@ -10972,56 +11022,6 @@
 "src": "Reuters",
 "kind": "market",
 "seen": "2026-11-27T12:44:24+00:00"
-},
-{
-"id": "0b4447eddcff",
-"t": "",
-"title": "Indonesia Arrests Three Over Trades in Stock Scrutinized by MSCI",
-"url": "https://www.bloomberg.com/news/articles/2026-11-27/indonesia-arrests-three-over-trades-in-stock-scrutinized-by-msci",
-"pub": "2026-11-27T06:59:35+00:00",
-"src": "Bloomberg",
-"kind": "market",
-"seen": "2026-11-27T07:51:21+00:00"
-},
-{
-"id": "702ef12e1542",
-"t": "",
-"title": "FTSE 100 Live: UK Stocks Poised Join Global Stock Rebound",
-"url": "https://www.bloomberg.com/news/live-blog/2026-11-27/ftse-100-live-updates-pound-gilts-ai-stocks-treasuries-hsbc-copper-euro-what-s-moving-uk-markets-right-now-markets-today-mwymmeef",
-"pub": "2026-11-27T06:54:51+00:00",
-"src": "Bloomberg",
-"kind": "market",
-"seen": "2026-11-27T07:51:21+00:00"
-},
-{
-"id": "981d7fc3754d",
-"t": "",
-"title": "Spain’s Pablo Hernández de Cos set to lead European Central Bank",
-"url": "https://www.cnbc.com/2026/11/26/pablo-hernandez-de-cos-ecb-president.html",
-"pub": "2026-11-27T06:50:38+00:00",
-"src": "CNBC",
-"kind": "market",
-"seen": "2026-11-27T11:03:19+00:00"
-},
-{
-"id": "ce0d6077d5f8",
-"t": "",
-"title": "SSE STAR SEMICONDUCTOR MATERIAL IDX (.CSI950125) | Stock Price & Latest News - Reuters",
-"url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5adDN5UExqMG1QaWhNX3c5WndmT1ZRTmRBM1N1ZHBiRkNZQjhrRkhvSGI4MUVaei04NC1NY2pCeTYxc1k4NEtMRm9XcXA5Qnk0VlRHVm9GLUZFQXhv?oc=5",
-"pub": "2026-11-27T06:49:22+00:00",
-"src": "Reuters",
-"kind": "market",
-"seen": "2026-11-27T08:54:02+00:00"
-},
-{
-"id": "0a814bffa78d",
-"t": "",
-"title": "Renault SA (RENA.PA) | Stock Price & Latest News - Reuters",
-"url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5RLXpsLVVlR1VNdGZWVm9SVlZPa3VEajVkeUpsQUNPWVFOOUVWWDZZV25DYWI3NEktdV9NWEZScHdrZ3pmWkl5LVVSUS1OTU9SdDlES0t6M2JNdkFNUnZj?oc=5",
-"pub": "2026-11-27T06:47:12+00:00",
-"src": "Reuters",
-"kind": "market",
-"seen": "2026-11-27T10:14:08+00:00"
 }
 ]
 }
