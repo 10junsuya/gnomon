@@ -1,21 +1,31 @@
 {
-"updated_kst": "2026-11-28 11:54",
-"rot": 1,
+"updated_kst": "2026-11-28 12:14",
+"rot": 61,
 "how": "Scout(프로그램)이 10분마다 모은 기사 제목·링크와 공시예요. Wren이 공식 출처로 확인한 뒤 회사 화면에 한국어로 반영해요. 본문은 받지 않아요.",
 "sources": {
 "Yahoo Finance": "120종목 확인 · 실패 0",
-"GlobeNewswire": "실패 HTTPError",
+"GlobeNewswire": "0건",
 "PR Newswire": "0건",
 "Business Wire": "0건",
 "CNBC": "63건",
 "Bloomberg": "40건",
 "WSJ": "60건",
-"Reuters": "52건",
+"Reuters": "57건",
 "FinancialJuice": "100건",
 "SEC EDGAR": "실패 HTTPError",
 "Fox Business": "50건"
 },
 "items": [
+{
+"id": "3476ff3e0dde",
+"t": "AMZN",
+"title": "Amazon takes its car store abroad for the first time in 2027",
+"url": "https://www.thestreet.com/automotive/amazon-takes-its-car-store-abroad-britain-uk-for-first-time-2027",
+"pub": "2026-11-28T03:03:00+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-28T03:14:16+00:00"
+},
 {
 "id": "c17da43a1ecc",
 "t": "NVDA",
@@ -45,6 +55,16 @@
 "src": "Yahoo Finance",
 "kind": "news",
 "seen": "2026-11-28T02:44:26+00:00"
+},
+{
+"id": "bc5b82d94267",
+"t": "LLY",
+"title": "Novo Nordisk Stock And Other GLP 1 Leaders Worth Watching Now",
+"url": "https://finance.yahoo.com/healthcare/articles/novo-nordisk-stock-other-glp-020916247.html",
+"pub": "2026-11-28T02:09:16+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-28T03:14:16+00:00"
 },
 {
 "id": "c17a76e8383f",
@@ -8003,24 +8023,24 @@
 "seen": "2026-11-27T10:44:09+00:00"
 },
 {
-"id": "d8b04e963762",
-"t": "MU",
-"title": "Stock Market News for Nov 27, 2026",
-"url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-news-nov-27-075400531.html",
-"pub": "2026-11-27T07:54:00+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-27T10:07:06+00:00"
+"id": "60f957e18785",
+"t": "",
+"title": "Saudi-led coalition: cruise missile launched by Yemen's Houthis toward Riyadh intercepted and destroyed",
+"url": "https://www.financialjuice.com/News/9871231/Saudi-led-coalition-cruise-missile-launched-by-Yemens-Houthis-toward-Riyadh-intercepted-and-destroyed.aspx?xy=rss",
+"pub": "2026-11-28T03:12:03+00:00",
+"src": "FinancialJuice",
+"kind": "market",
+"seen": "2026-11-28T03:14:16+00:00"
 },
 {
-"id": "a1c519857b63",
-"t": "KO",
-"title": "The Coca-Cola Company and Gutsche Family Investments Close on Sale of Controlling Interest in Coca-Cola Beverages Africa to Coca-Cola HBC AG",
-"url": "https://finance.yahoo.com/markets/stocks/articles/coca-cola-company-gutsche-family-075100177.html",
-"pub": "2026-11-27T07:51:00+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-27T10:14:08+00:00"
+"id": "bf549d1c0869",
+"t": "",
+"title": "China Import Logistics Fell 0.6% in January-October, Xinhua Says",
+"url": "https://www.bloomberg.com/news/articles/2026-11-28/china-import-logistics-fell-0-6-in-january-october-xinhua-says",
+"pub": "2026-11-28T03:01:44+00:00",
+"src": "Bloomberg",
+"kind": "market",
+"seen": "2026-11-28T03:14:16+00:00"
 },
 {
 "id": "6fa5c185ac26",
@@ -8813,6 +8833,16 @@
 "seen": "2026-11-27T23:37:01+00:00"
 },
 {
+"id": "28620bdca674",
+"t": "",
+"title": "Groupe Okwind SA (ALOKW.PA) | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5EaWZ2alVsSHZsU0otcG1aNjJ2bThFanNKdTE1QWQwWUxUUnJXZkVmYmVjWVB5WjVCcE9oRTY1Q3JRYzJDYnkyZ0dEU3I0eFpNSzRfNy1hVEdfTVVqbGJVNFVSelE3S3UtTERPUzRMb1M?oc=5",
+"pub": "2026-11-27T16:56:10+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-28T03:14:16+00:00"
+},
+{
 "id": "892415b5ea81",
 "t": "",
 "title": "HWC.DG - Reuters",
@@ -9061,6 +9091,16 @@
 "src": "Reuters",
 "kind": "market",
 "seen": "2026-11-27T20:14:46+00:00"
+},
+{
+"id": "77b7e54808cb",
+"t": "",
+"title": "HARta.AX - | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5YeU9TT3A2YmVDMmd4b3JXYW5QbE1WRExIa1dyODB4eU5RUUx6X1lrbWVoUEVCMlJWMmFDV3k1Nmstd2pzOEc4Q0pGeHR6dVBMY3JHVUlPTXFIdklCcTFQUVZuX1JFYVd1TzlQMDJpUHlFb3BUWFVySmppZG1aUQ?oc=5",
+"pub": "2026-11-27T15:51:18+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-28T03:14:16+00:00"
 },
 {
 "id": "dbda8a520c73",
@@ -10979,46 +11019,6 @@
 "url": "https://www.bloomberg.com/news/articles/2026-11-27/us-stocks-set-to-bounce-as-risk-appetite-returns-after-holiday",
 "pub": "2026-11-27T07:56:20+00:00",
 "src": "Bloomberg",
-"kind": "market",
-"seen": "2026-11-27T08:54:02+00:00"
-},
-{
-"id": "3ef2f2a7a56b",
-"t": "",
-"title": "Kuwait Says Iranian Drone Strike Kills Two as Houthi Attack Hits Jazan Refinery",
-"url": "https://www.bloomberg.com/news/videos/2026-11-27/horizons-middle-east-africa-11-27-2026-video",
-"pub": "2026-11-27T07:52:46+00:00",
-"src": "Bloomberg",
-"kind": "market",
-"seen": "2026-11-27T08:54:02+00:00"
-},
-{
-"id": "1475ca6d5fb1",
-"t": "",
-"title": "French preliminary inflation at 3.2% in November - Reuters",
-"url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOcHN4aFhvZERBYmN4T2RfLUZLT1NZV2UwTXVaNFExd212ckJMTjRzTEFaemhMbDc4a29RM0pSZThEZWx6NF9jdnpBVEQ5ZjRaMnRlZmc1a1dIVDBOR29HbnBZN1doaEdvbFNLdjJKU0NpMkxiM2FRR1g1dlZOODdPZXVUZHczTi1ibEhyQnBvZWo?oc=5",
-"pub": "2026-11-27T07:50:00+00:00",
-"src": "Reuters",
-"kind": "market",
-"seen": "2026-11-27T08:54:02+00:00"
-},
-{
-"id": "19a50b12d310",
-"t": "",
-"title": "PKE.ZY - Reuters",
-"url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1DWjg1ZTlzWFJCck9DQ0p6VVdDcVc0U09VaEhHTDRKVUo3SGNtZTdJRGtyWXNqZFI3Q0pIY1hXVXp5cDN5VUd2dHdPMlhXLVFqV2thZ3UzZEZUcFZGVFNjX294OWNEdGRVWHhDM0pPZmhJMnhpN1cw?oc=5",
-"pub": "2026-11-27T07:49:33+00:00",
-"src": "Reuters",
-"kind": "market",
-"seen": "2026-11-27T23:37:01+00:00"
-},
-{
-"id": "e176790cc4f6",
-"t": "",
-"title": "French HICP MoM Prelim  Actual -0.7% (Forecast -0.4%, Previous 0.4%)",
-"url": "https://www.financialjuice.com/News/9870253/French-HICP-MoM-Prelim--Actual--07-Forecast--04-Previous-04.aspx?xy=rss",
-"pub": "2026-11-27T07:49:11+00:00",
-"src": "FinancialJuice",
 "kind": "market",
 "seen": "2026-11-27T08:54:02+00:00"
 }
