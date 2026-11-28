@@ -1,21 +1,81 @@
 {
-"updated_kst": "2026-11-28 18:23",
-"rot": 7,
+"updated_kst": "2026-11-28 18:44",
+"rot": 67,
 "how": "Scout(프로그램)이 10분마다 모은 기사 제목·링크와 공시예요. Wren이 공식 출처로 확인한 뒤 회사 화면에 한국어로 반영해요. 본문은 받지 않아요.",
 "sources": {
 "Yahoo Finance": "120종목 확인 · 실패 0",
-"GlobeNewswire": "실패 HTTPError",
+"GlobeNewswire": "0건",
 "PR Newswire": "0건",
 "Business Wire": "0건",
 "CNBC": "63건",
 "Bloomberg": "40건",
 "WSJ": "60건",
-"Reuters": "100건",
+"Reuters": "실패 HTTPError",
 "FinancialJuice": "100건",
 "SEC EDGAR": "실패 HTTPError",
 "Fox Business": "50건"
 },
 "items": [
+{
+"id": "55c85f43f988",
+"t": "NVDA",
+"title": "Is Sandisk Stock a Buy After Kioxia and Nvidia Tested Flash Drives as Extra AI Memory?",
+"url": "https://www.fool.com/investing/2026/11/28/is-sandisk-stock-a-buy-after-kioxia-and-nvidia-tested-flash-drives-as-extra-ai-memory/",
+"pub": "2026-11-28T09:33:02+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-28T09:44:45+00:00"
+},
+{
+"id": "51b8cae62bf5",
+"t": "VOO",
+"title": "A $500,000 Stake in VOO Lost $41,700 in the S&P 500’s Worst Week Since April 2025. Since 1950, Buying After a 10% Drop Has Returned 15% on Average a Year Later",
+"url": "https://247wallst.com/investing/etf/2026/11/28/a-500000-stake-in-voo-lost-41700-in-the-sp-500s-worst-week-since-april-2025-since-1950-buying-after-a-10-drop-has-returned-15-on-average-a-year-later/",
+"pub": "2026-11-28T09:28:46+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-28T09:44:45+00:00"
+},
+{
+"id": "11000bccb0bd",
+"t": "NVDA",
+"title": "New Inflation Data Brings Worrisome News to President Donald Trump's Economy and the AI-Fueled Stock Market",
+"url": "https://www.fool.com/investing/2026/11/28/new-inflation-data-worrisome-news-donald-trump-economy-and-ai-fueled-stock-market/",
+"pub": "2026-11-28T09:26:02+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-28T09:44:45+00:00"
+},
+{
+"id": "327bb4276eb8",
+"t": "NVDA",
+"title": "‘He Doesn’t Have Integrity’: Suze Orman Says Jensen Huang Should ‘Never, Ever, Ever Come Back’ but Won’t Sell a Single Nvidia Share",
+"url": "https://247wallst.com/personal-finance/2026/11/28/he-doesnt-have-integrity-suze-orman-says-jensen-huang-should-never-ever-ever-come-back-but-wont-sell-a-single-nvidia-share/",
+"pub": "2026-11-28T09:16:41+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-28T09:44:45+00:00"
+},
+{
+"id": "08072f86f49c",
+"t": "ASML",
+"title": "3 AI Chip Equipment Stocks To Watch Beyond ASML",
+"url": "https://finance.yahoo.com/technology/ai/articles/3-ai-chip-equipment-stocks-091041808.html",
+"pub": "2026-11-28T09:10:41+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-28T09:44:45+00:00"
+},
+{
+"id": "3fe121e1498d",
+"t": "CIEN",
+"title": "3 AI Infrastructure Stocks With Revenue Growth Up To 62%",
+"url": "https://finance.yahoo.com/technology/ai/articles/3-ai-infrastructure-stocks-revenue-090857765.html",
+"pub": "2026-11-28T09:08:57+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-28T09:44:45+00:00"
+},
 {
 "id": "3506b1e84c22",
 "t": "NVDA",
@@ -65,6 +125,16 @@
 "src": "Yahoo Finance",
 "kind": "news",
 "seen": "2026-11-28T08:44:41+00:00"
+},
+{
+"id": "8e0d70797198",
+"t": "INTC",
+"title": "Is the U.S. tariff wall here to stay? ING weighs in",
+"url": "https://finance.yahoo.com/economy/policy/articles/u-tariff-wall-stay-ing-081712679.html",
+"pub": "2026-11-28T08:17:12+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-28T09:44:45+00:00"
 },
 {
 "id": "b4cb48aaed07",
@@ -7950,74 +8020,14 @@
 "seen": "2026-11-27T11:03:19+00:00"
 },
 {
-"id": "492ee4d7c3cd",
-"t": "TSLA",
-"title": "Electric Vehicles Today - Driving Forward: Innovations in Pedestrian Safety Systems",
-"url": "https://finance.yahoo.com/technology/articles/electric-vehicles-today-driving-forward-103921382.html",
-"pub": "2026-11-27T10:39:21+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-27T11:03:19+00:00"
-},
-{
-"id": "e5f90931eb54",
-"t": "SAP",
-"title": "German sofware giant SAP weighs at least 10,000 job cuts amid AI shift, reports say",
-"url": "https://www.euronews.com/2026/11/27/german-sofware-giant-sap-weighs-at-least-10000-job-cuts-amid-ai-shift-reports-say",
-"pub": "2026-11-27T10:37:52+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-27T11:44:37+00:00"
-},
-{
-"id": "9a1673c4f1a8",
-"t": "PG",
-"title": "Is Procter & Gamble Stock Outperforming the Dow?",
-"url": "https://www.barchart.com/story/news/9030043/is-procter-gamble-stock-outperforming-the-dow",
-"pub": "2026-11-27T10:31:05+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-27T16:44:40+00:00"
-},
-{
-"id": "f4acefcbf2da",
-"t": "SPCX",
-"title": "This Christmas, the Rich Are Skipping the Stuff and Buying These Gifts Instead",
-"url": "https://finance.yahoo.com/m/b607b082-a9e8-350d-8f85-779e4249948b/this-christmas%2C-the-rich-are.html",
-"pub": "2026-11-27T10:30:00+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-27T11:44:37+00:00"
-},
-{
-"id": "17dfa5198c6a",
-"t": "NVDA",
-"title": "Warren Buffett's Successor, Greg Abel, Has 47% of Berkshire Hathaway's $346 Billion Portfolio Invested in 3 Proven Winners",
-"url": "https://www.fool.com/investing/2026/11/27/warren-buffett-successor-greg-abel-has-47-berkshire-hathaway-346-billion-portfolio-invested-3-proven-winners/",
-"pub": "2026-11-27T10:26:02+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-27T10:44:09+00:00"
-},
-{
-"id": "8f554dce82b0",
-"t": "SPCX",
-"title": "SpaceX's AI Business Is Now Nearly Half of Revenue. Here's What Happens to the Stock if Google and Anthropic Both Renew.",
-"url": "https://www.fool.com/investing/2026/11/27/spacexs-ai-business-is-now-nearly-half-of-revenue/",
-"pub": "2026-11-27T10:26:00+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-27T10:44:09+00:00"
-},
-{
-"id": "bb8fccb1ad9e",
-"t": "CVX",
-"title": "How Is Chevron’s Stock Performance Compared to Other Oil & Gas Stocks?",
-"url": "https://www.barchart.com/story/news/9029917/how-is-chevrons-stock-performance-compared-to-other-oil-gas-stocks",
-"pub": "2026-11-27T10:24:53+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-27T16:49:37+00:00"
+"id": "7f1668e54823",
+"t": "",
+"title": "Saudi-led coalition: intercepts and destroys ballistic missile launched by Yemen's Houthis at southern region",
+"url": "https://www.financialjuice.com/News/9871333/Saudi-led-coalition-intercepts-and-destroys-ballistic-missile-launched-by-Yemens-Houthis-at-southern-region.aspx?xy=rss",
+"pub": "2026-11-28T09:26:38+00:00",
+"src": "FinancialJuice",
+"kind": "market",
+"seen": "2026-11-28T09:44:45+00:00"
 },
 {
 "id": "b27da26b0ff3",
@@ -11005,16 +11015,6 @@
 "title": "Altria’s Interest in Imperial May Also Affect Its AB InBev Stake",
 "url": "https://www.bloomberg.com/news/articles/2026-11-27/altria-s-interest-in-imperial-may-also-affect-its-ab-inbev-stake",
 "pub": "2026-11-27T11:14:59+00:00",
-"src": "Bloomberg",
-"kind": "market",
-"seen": "2026-11-27T11:44:37+00:00"
-},
-{
-"id": "b9c0adb2fbee",
-"t": "",
-"title": "Turkey Fund Investors Face Principal Loss Despite Erdogan Pledge",
-"url": "https://www.bloomberg.com/news/articles/2026-11-27/turkey-fund-investors-face-principal-loss-despite-erdogan-pledge",
-"pub": "2026-11-27T11:13:18+00:00",
 "src": "Bloomberg",
 "kind": "market",
 "seen": "2026-11-27T11:44:37+00:00"
