@@ -1,6 +1,6 @@
 {
-"updated_kst": "2026-11-28 19:26",
-"rot": 8,
+"updated_kst": "2026-11-28 19:44",
+"rot": 68,
 "how": "Scout(프로그램)이 10분마다 모은 기사 제목·링크와 공시예요. Wren이 공식 출처로 확인한 뒤 회사 화면에 한국어로 반영해요. 본문은 받지 않아요.",
 "sources": {
 "Yahoo Finance": "120종목 확인 · 실패 0",
@@ -10,12 +10,42 @@
 "CNBC": "63건",
 "Bloomberg": "40건",
 "WSJ": "60건",
-"Reuters": "48건",
+"Reuters": "47건",
 "FinancialJuice": "100건",
 "SEC EDGAR": "실패 HTTPError",
 "Fox Business": "50건"
 },
 "items": [
+{
+"id": "58d897f0b9d9",
+"t": "NVDA",
+"title": "Shopify Stock Is Down About 12% in 2026. Its Last Down Year Was 2022. History Says What Came Next.",
+"url": "https://www.fool.com/investing/2026/11/28/shopify-stock-is-down-about-12-in-2026-its-last-down-year-was-2022-history-says-what-came-next/",
+"pub": "2026-11-28T10:39:02+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-28T10:44:36+00:00"
+},
+{
+"id": "df2a45576b80",
+"t": "SPCX",
+"title": "S&P 500 Market Correction: 3 “Safe” Stocks to Buy Now",
+"url": "https://www.fool.com/investing/2026/11/28/s-and-p-500-market-correction-3-safe-stocks-to-buy-now/",
+"pub": "2026-11-28T10:22:02+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-28T10:44:36+00:00"
+},
+{
+"id": "2f06fe236af7",
+"t": "NVDA",
+"title": "New Credit Cards Offering 4% Cash Back in Bitcoin Are Coming Soon. Do They Deserve a Place In Your Wallet?",
+"url": "https://www.fool.com/investing/2026/11/28/new-credit-cards-offering-4-cash-back-in-bitcoin-are-coming-soon-do-they-deserve-a-place-in-your-wallet/",
+"pub": "2026-11-28T10:20:02+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-28T10:44:36+00:00"
+},
 {
 "id": "fda63cdf8185",
 "t": "NVDA",
@@ -215,6 +245,16 @@
 "src": "Yahoo Finance",
 "kind": "news",
 "seen": "2026-11-28T07:44:35+00:00"
+},
+{
+"id": "cb5e56062e00",
+"t": "VRTX",
+"title": "Vera Therapeutics Is the Real Winner in Vertex’s FDA Delay. Its Rival Drug Already Sells",
+"url": "https://www.tikr.com/blog/vera-therapeutics-is-the-real-winner-in-vertexs-fda-delay-its-rival-drug-already-sells",
+"pub": "2026-11-28T06:51:15+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-28T10:44:36+00:00"
 },
 {
 "id": "2bba7dde15be",
@@ -7979,44 +8019,14 @@
 "seen": "2026-11-27T11:03:19+00:00"
 },
 {
-"id": "320651438df4",
-"t": "IONQ",
-"title": "IonQ's QKD Systems Pass IDEMIA Validation for Critical Communications",
-"url": "https://finance.yahoo.com/technology/ai/articles/ionqs-qkd-systems-pass-idemia-104600717.html",
-"pub": "2026-11-27T10:46:00+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-27T12:06:59+00:00"
-},
-{
-"id": "66e02b6d1613",
-"t": "SPCX",
-"title": "Elon Musk Hopes All Teslas Will Get SpaceX’s Starlink Connectivity—Except in China, Where It’s ‘Illegal’: Says It Will Be Key for Unsupervised FSD",
-"url": "https://finance.yahoo.com/technology/articles/elon-musk-hopes-teslas-spacex-104507393.html",
-"pub": "2026-11-27T10:45:07+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-27T12:06:59+00:00"
-},
-{
-"id": "27905d101154",
-"t": "NOC",
-"title": "BA, NOC, RTX Secured Billion-Dollar Deals This Week But One Defense Stock Stole The Limelight – A Look At This Week’s Contracts",
-"url": "https://stocktwits.com/news-articles/markets/equity/ba-noc-rtx-secured-billion-dollar-deals-this-week-but-one-defense-stock-stole-the-limelight-a-look-at-this-week-s-contracts/cNbCpmGR9N8",
-"pub": "2026-11-27T10:44:42+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-27T11:14:03+00:00"
-},
-{
-"id": "9cf52de90672",
-"t": "NVDA",
-"title": "Anthropic’s Lock-Up Expirations Start Dec. 15. Here’s What Investors Should Know Before Then.",
-"url": "https://www.fool.com/investing/2026/11/27/anthropic-s-lock-up-expirations-start-dec-15-here-s-what-investors-should-know-before-then/",
-"pub": "2026-11-27T10:44:02+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-27T11:03:19+00:00"
+"id": "7b894838f703",
+"t": "",
+"title": "Modi Nears Majority Needed to Increase India’s Parliament Seats",
+"url": "https://www.bloomberg.com/news/articles/2026-11-28/modi-nears-majority-needed-to-increase-india-s-parliament-seats",
+"pub": "2026-11-28T10:17:39+00:00",
+"src": "Bloomberg",
+"kind": "market",
+"seen": "2026-11-28T10:44:36+00:00"
 },
 {
 "id": "419616c44472",
@@ -8277,6 +8287,16 @@
 "src": "Reuters",
 "kind": "market",
 "seen": "2026-11-28T05:59:35+00:00"
+},
+{
+"id": "3b6624bf61fe",
+"t": "",
+"title": "China Starch Holdings Ltd (CHNSF.PK) | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9ibkRZSnBHTzlIREpWcUJweEpXclRBUDhweWwxN19MZTlNWnlWWUxZdWpVaXlZZ1U0SEp0NE1lZUVjS21RX2ZpRXRtTmZQZEVpbWZvNVE2bnF3QkZHT1RFeHNWTFB4TmdtaHllV2pn?oc=5",
+"pub": "2026-11-28T04:02:41+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-28T10:44:36+00:00"
 },
 {
 "id": "9e9d44af8ede",
@@ -10997,26 +11017,6 @@
 "src": "Bloomberg",
 "kind": "market",
 "seen": "2026-11-27T11:44:37+00:00"
-},
-{
-"id": "cc37518112e2",
-"t": "",
-"title": "SSSC_n.BK - Reuters",
-"url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNN3Y5MEtWTTlwTWg5cVY5RXdZcnR0aDdCNHljTGxuenNJUWRHUWR1Sm1KNjZiamlUU1ctZEVMRzB2MzdmQ3lCd3FtaTVIQ3Y3OE5MeC02M2UtYWQ5VVRGMEtQYTkzQy1XckFhY1hBVUNsV0JhODluMkIyaGFjVm92VzFpRnpOSFBa?oc=5",
-"pub": "2026-11-27T11:27:54+00:00",
-"src": "Reuters",
-"kind": "market",
-"seen": "2026-11-27T15:40:28+00:00"
-},
-{
-"id": "3e0d79f1944e",
-"t": "",
-"title": "ENES.KL - Reuters",
-"url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5wSWc1d1k2cFE5RGxsMjEyNmZ2ZUhIQ1kwZEV5cHdyajViTXVCbVEtNDRUc3lCR0RpZ2txbDIzc2Y2THQ3QmpvelY5UkpzYVpMc2tGOGR6UDYzaVpMUGhWUkxnRFU2TTNKZXhVNElZMkViTFRpNms3Vw?oc=5",
-"pub": "2026-11-27T11:25:53+00:00",
-"src": "Reuters",
-"kind": "market",
-"seen": "2026-11-28T04:14:05+00:00"
 }
 ]
 }
