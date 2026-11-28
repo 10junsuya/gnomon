@@ -1,6 +1,6 @@
 {
-"updated_kst": "2026-11-28 16:44",
-"rot": 65,
+"updated_kst": "2026-11-28 17:14",
+"rot": 125,
 "how": "Scout(프로그램)이 10분마다 모은 기사 제목·링크와 공시예요. Wren이 공식 출처로 확인한 뒤 회사 화면에 한국어로 반영해요. 본문은 받지 않아요.",
 "sources": {
 "Yahoo Finance": "120종목 확인 · 실패 0",
@@ -10,12 +10,32 @@
 "CNBC": "63건",
 "Bloomberg": "40건",
 "WSJ": "60건",
-"Reuters": "100건",
+"Reuters": "54건",
 "FinancialJuice": "100건",
 "SEC EDGAR": "실패 HTTPError",
 "Fox Business": "50건"
 },
 "items": [
+{
+"id": "b4cb48aaed07",
+"t": "SPCX",
+"title": "Elon Musk Says GOOGL Has ‘Expressed Interest’ In Renting More Compute From SPCX",
+"url": "https://stocktwits.com/news-articles/markets/equity/elon-musk-google-expressed-interest-renting-more-compute-spacex/cNRRtGhR9VH",
+"pub": "2026-11-28T07:48:29+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-28T08:14:38+00:00"
+},
+{
+"id": "9dab8332d1dc",
+"t": "NVDA",
+"title": "After an S&P 500 Correction, Your Money Could Double in 4 Years. Stock Market History Shows Reasons for Hope.",
+"url": "https://www.fool.com/investing/2026/11/28/after-an-s-and-p-500-correction-your-money-could-double-in-4-years-stock-market-history-shows-reasons-for-hope/",
+"pub": "2026-11-28T07:48:02+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-28T08:14:38+00:00"
+},
 {
 "id": "040c4e3c43f1",
 "t": "NVDA",
@@ -45,6 +65,16 @@
 "src": "Yahoo Finance",
 "kind": "news",
 "seen": "2026-11-28T07:44:35+00:00"
+},
+{
+"id": "e80b8852a7db",
+"t": "TENB",
+"title": "Tenable (TENB) Stock Trades Below Fair Value On Its 108% Run",
+"url": "https://finance.yahoo.com/markets/stocks/articles/tenable-tenb-stock-trades-below-071010038.html",
+"pub": "2026-11-28T07:10:10+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-28T08:14:38+00:00"
 },
 {
 "id": "bd0b5781ec3e",
@@ -7990,34 +8020,44 @@
 "seen": "2026-11-27T10:44:09+00:00"
 },
 {
-"id": "0daeccce0cd3",
-"t": "GS",
-"title": "Goldman Sachs (GS) Takes Over Radford Studio Center",
-"url": "https://finance.yahoo.com/markets/stocks/articles/goldman-sachs-gs-takes-over-100733193.html",
-"pub": "2026-11-27T10:07:33+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-27T10:44:09+00:00"
+"id": "906cc8633df9",
+"t": "",
+"title": "Saudi civil defense issues warning over potential hazard in Jazan",
+"url": "https://www.financialjuice.com/News/9871314/Saudi-civil-defense-issues-warning-over-potential-hazard-in-Jazan.aspx",
+"pub": "2026-11-28T08:14:00+00:00",
+"src": "FinancialJuice",
+"kind": "market",
+"seen": "2026-11-28T08:14:38+00:00"
 },
 {
-"id": "6de1b558db63",
-"t": "TXN",
-"title": "Is Texas Instruments (TXN) Trading At A Premium To Cash Flow?",
-"url": "https://finance.yahoo.com/markets/stocks/articles/texas-instruments-txn-trading-premium-100658231.html",
-"pub": "2026-11-27T10:06:58+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-27T11:14:03+00:00"
+"id": "ecf82749ebe0",
+"t": "",
+"title": "UKMTO: unauthorized individuals are controlling the vessel",
+"url": "https://www.financialjuice.com/News/9871313/UKMTO-unauthorized-individuals-are-controlling-the-vessel.aspx",
+"pub": "2026-11-28T07:51:18+00:00",
+"src": "FinancialJuice",
+"kind": "market",
+"seen": "2026-11-28T08:14:38+00:00"
 },
 {
-"id": "ad28c00b4ae6",
-"t": "NVDA",
-"title": "Yikes! Anthropic Stock Is Down 28%, but Wall Street says This Will Happen Next.",
-"url": "https://www.fool.com/investing/2026/11/27/anthropic-stock-down-28-wall-street-this-happens-next/",
-"pub": "2026-11-27T10:04:02+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-27T10:44:09+00:00"
+"id": "d43d05339b30",
+"t": "",
+"title": "Ukmto: master of cargo ship reports being boarded by armed unauthorized individuals",
+"url": "https://www.financialjuice.com/News/9871312/Ukmto-master-of-cargo-ship-reports-being-boarded-by-armed-unauthorized-individuals.aspx",
+"pub": "2026-11-28T07:50:59+00:00",
+"src": "FinancialJuice",
+"kind": "market",
+"seen": "2026-11-28T08:14:38+00:00"
+},
+{
+"id": "a703afce28b6",
+"t": "",
+"title": "UKMTO reports incident 64nm southwest of Yemen's Balhaf",
+"url": "https://www.financialjuice.com/News/9871311/UKMTO-reports-incident-64nm-southwest-of-Yemens-Balhaf.aspx",
+"pub": "2026-11-28T07:50:34+00:00",
+"src": "FinancialJuice",
+"kind": "market",
+"seen": "2026-11-28T08:14:38+00:00"
 },
 {
 "id": "bff69c298ecf",
@@ -10250,6 +10290,16 @@
 "seen": "2026-11-27T13:15:35+00:00"
 },
 {
+"id": "a00d46e48b65",
+"t": "",
+"title": "Spain's 12-month EU-harmonised inflation falls to 4.1% in November - Reuters",
+"url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxObXhfaWZjV2tnUWppbUhLQUg1eFZFc2V0cnVIelk1Q0Uwd3NpMG9DU0dWTUFnenR6aGNNa3k4TU5RelVlTkZKVFphLS1GQ0c2M0NjYUctc0RPWHp6Y1N5RGRNQy1nb05LQlVsWWQ0ZGpvMVRrT3ZyVHhwc2dveWNVWkEtb3JOZU9PWFFSUlF2Q2lHSDJZU3M1N0xaX0VzdVBxNEtsSWxVY3U5dl9P?oc=5",
+"pub": "2026-11-27T12:58:43+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-28T08:14:38+00:00"
+},
+{
 "id": "e07a31faad42",
 "t": "",
 "title": "4112JPY.JPx - Reuters",
@@ -10966,56 +11016,6 @@
 "url": "https://www.bloomberg.com/news/videos/2026-11-27/rwanda-wins-f1-hosting-rights-in-bet-on-tourism-video",
 "pub": "2026-11-27T09:54:26+00:00",
 "src": "Bloomberg",
-"kind": "market",
-"seen": "2026-11-27T10:07:06+00:00"
-},
-{
-"id": "3250cb3dfcee",
-"t": "",
-"title": "Kospi Rout Wipes $151 Billion From Korea Pension Fund’s Assets",
-"url": "https://www.bloomberg.com/news/articles/2026-11-27/kospi-rout-wipes-151-billion-from-korea-pension-fund-s-assets",
-"pub": "2026-11-27T09:53:15+00:00",
-"src": "Bloomberg",
-"kind": "market",
-"seen": "2026-11-27T10:07:06+00:00"
-},
-{
-"id": "2d9e7db6a90f",
-"t": "",
-"title": "Precious Metals Rally as AI Trade Revives Risk Appetite",
-"url": "https://www.wsj.com/finance/commodities-futures/precious-metals-rally-as-ai-trade-revives-risk-appetite-86477a98",
-"pub": "2026-11-27T09:49:00+00:00",
-"src": "WSJ",
-"kind": "market",
-"seen": "2026-11-27T10:07:06+00:00"
-},
-{
-"id": "a9f85dad765a",
-"t": "",
-"title": "Credit Ágricole: Eurozone Inflation - FJElite",
-"url": "https://www.financialjuice.com/News/9870373/Credit-%c3%81gricole-Eurozone-Inflation---FJElite.aspx?xy=rss",
-"pub": "2026-11-27T09:45:35+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-27T10:07:06+00:00"
-},
-{
-"id": "aeba5437e823",
-"t": "",
-"title": "Stock Futures Jump as AI Trade Set for Rebound",
-"url": "https://www.wsj.com/finance/stocks/stock-futures-jump-as-ai-trade-set-for-rebound-98318fc0",
-"pub": "2026-11-27T09:34:00+00:00",
-"src": "WSJ",
-"kind": "market",
-"seen": "2026-11-27T10:07:06+00:00"
-},
-{
-"id": "fcbc177db1ad",
-"t": "",
-"title": "Goldman Sachs: Switzerland - FJElite",
-"url": "https://www.financialjuice.com/News/9870368/Goldman-Sachs-Switzerland---FJElite.aspx?xy=rss",
-"pub": "2026-11-27T09:33:09+00:00",
-"src": "FinancialJuice",
 "kind": "market",
 "seen": "2026-11-27T10:07:06+00:00"
 }
