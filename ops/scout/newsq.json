@@ -1,6 +1,6 @@
 {
-"updated_kst": "2026-11-28 14:59",
-"rot": 4,
+"updated_kst": "2026-11-28 15:14",
+"rot": 64,
 "how": "Scout(프로그램)이 10분마다 모은 기사 제목·링크와 공시예요. Wren이 공식 출처로 확인한 뒤 회사 화면에 한국어로 반영해요. 본문은 받지 않아요.",
 "sources": {
 "Yahoo Finance": "120종목 확인 · 실패 0",
@@ -10,7 +10,7 @@
 "CNBC": "63건",
 "Bloomberg": "40건",
 "WSJ": "60건",
-"Reuters": "56건",
+"Reuters": "53건",
 "FinancialJuice": "100건",
 "SEC EDGAR": "실패 HTTPError",
 "Fox Business": "50건"
@@ -45,6 +45,16 @@
 "src": "Yahoo Finance",
 "kind": "news",
 "seen": "2026-11-28T05:44:27+00:00"
+},
+{
+"id": "5c1031b4dd60",
+"t": "NOC",
+"title": "Northrop Grumman (NOC) Stock May Trade At A Discount Despite $1.6B Missile Contract",
+"url": "https://finance.yahoo.com/markets/stocks/articles/northrop-grumman-noc-stock-may-051434009.html",
+"pub": "2026-11-28T05:14:34+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-28T06:14:56+00:00"
 },
 {
 "id": "0113d00c3c2b",
@@ -8013,14 +8023,14 @@
 "seen": "2026-11-27T10:14:08+00:00"
 },
 {
-"id": "d11744d4f3d6",
-"t": "MU",
-"title": "How Chinese Cloud Order Cuts At Micron Stock Has Changed Its Investment Story",
-"url": "https://finance.yahoo.com/markets/stocks/articles/chinese-cloud-order-cuts-micron-090948480.html",
-"pub": "2026-11-27T09:09:48+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-27T10:07:06+00:00"
+"id": "89a758bd0c0f",
+"t": "",
+"title": "Saudi Arabia shifts Vision 2030 spending amid economic and security pressure",
+"url": "https://www.cnbc.com/2026/11/28/saudi-arabia-vision-2030-spending.html",
+"pub": "2026-11-28T06:00:01+00:00",
+"src": "CNBC",
+"kind": "market",
+"seen": "2026-11-28T06:14:56+00:00"
 },
 {
 "id": "97c58ec389f8",
@@ -8121,6 +8131,16 @@
 "src": "WSJ",
 "kind": "market",
 "seen": "2026-11-28T02:14:55+00:00"
+},
+{
+"id": "c71cd2d5939a",
+"t": "",
+"title": "0171stat.HK - | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE91WlduM2l6bFNBbU5EanhaYVh5dVJDVXdtWFVPWnZtRDczVUN3S3ZRS0pMN3lsOEE3SW9wYmJIV3l1bDNtVGs3dnhHVkNRMlVPM2dQMWQzQmRsbDRqRHVzMmtXVGhBLV9VOVJxdmNlTE5Ba0ZY?oc=5",
+"pub": "2026-11-28T01:27:38+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-28T06:14:56+00:00"
 },
 {
 "id": "1cc557557260",
@@ -10999,26 +11019,6 @@
 "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPbVBlR0Y1YkJleHhUZ3FrVnlZM3gyUHl1a3NqcUlqRFpCUGxhalQ2VzFIVE9MTnlTa2dTajUtLVgyb2RGaTR6ZUZidGY2dDdqM1FaM3VOeUJ0d09FdXNUeUg5YzZJVFU3SmlwTXRndFptalktZGZmSmptQkV5WjJnYVFiRTV5b0I4OWRtOHRFM18yd3ZrcmVVajhESDNMbUkxcWo4dFUtQQ?oc=5",
 "pub": "2026-11-27T08:59:43+00:00",
 "src": "Reuters",
-"kind": "market",
-"seen": "2026-11-27T10:07:06+00:00"
-},
-{
-"id": "abaafd0b82cd",
-"t": "",
-"title": "German home prices to rise at slower pace in next two years - Reuters",
-"url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPc2xaUzYwMGZ1WjM5amJPckJ4ZXFJVFAwci1fVjh5d1Zndi1mRlRpXzBub1h4RGdDLXQzeUZLVTl4WmN2RktraWJiSTh6M3dndlM1TUthN0lJYklpbnhlTFVkUWU4Tm1iSzQ5ck93bW04Vnh5OTVVTURoVVAzeEVaZHV0dEpvR0hzeFJqV3Z5SlVZdFRRM0dnc2luR0psTmhIbUJF?oc=5",
-"pub": "2026-11-27T08:56:57+00:00",
-"src": "Reuters",
-"kind": "market",
-"seen": "2026-11-27T10:07:06+00:00"
-},
-{
-"id": "efd2d10f5e15",
-"t": "",
-"title": "German Unemployment Total NSA Actual 2.936M (Forecast -, Previous 2.955M)",
-"url": "https://www.financialjuice.com/News/9870324/German-Unemployment-Total-NSA-Actual-2936M-Forecast---Previous-2955M.aspx?xy=rss",
-"pub": "2026-11-27T08:55:20+00:00",
-"src": "FinancialJuice",
 "kind": "market",
 "seen": "2026-11-27T10:07:06+00:00"
 }
