@@ -1,6 +1,6 @@
 {
-"updated_kst": "2026-11-28 17:44",
-"rot": 66,
+"updated_kst": "2026-11-28 18:14",
+"rot": 126,
 "how": "Scout(프로그램)이 10분마다 모은 기사 제목·링크와 공시예요. Wren이 공식 출처로 확인한 뒤 회사 화면에 한국어로 반영해요. 본문은 받지 않아요.",
 "sources": {
 "Yahoo Finance": "120종목 확인 · 실패 0",
@@ -10,12 +10,22 @@
 "CNBC": "63건",
 "Bloomberg": "40건",
 "WSJ": "60건",
-"Reuters": "100건",
+"Reuters": "51건",
 "FinancialJuice": "100건",
 "SEC EDGAR": "실패 HTTPError",
 "Fox Business": "50건"
 },
 "items": [
+{
+"id": "3506b1e84c22",
+"t": "NVDA",
+"title": "Gene Munster Admits Focusing On AI Fundamentals Was A Mistake, But Believes Investors Buying NVDA Stock Now Could Be Rewarded",
+"url": "https://stocktwits.com/news-articles/markets/equity/gene-munster-ai-fundamentals-mistake-nvda-stock-rewarded/cNRRuDVR9Vy",
+"pub": "2026-11-28T08:59:40+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-28T09:14:13+00:00"
+},
 {
 "id": "df789679fcc5",
 "t": "SPCX",
@@ -165,6 +175,16 @@
 "src": "Yahoo Finance",
 "kind": "news",
 "seen": "2026-11-28T06:44:46+00:00"
+},
+{
+"id": "b31f80e020a0",
+"t": "SPCX",
+"title": "SpaceX Is “a CoreWeave With Some Rockets,” per Patrick Boyle. Its AI Unit Is Now Over Half of Sales",
+"url": "https://www.tikr.com/blog/spacex-is-a-coreweave-with-some-rockets-per-patrick-boyle-its-ai-unit-is-now-over-half-of-sales",
+"pub": "2026-11-28T06:11:54+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-28T09:14:13+00:00"
 },
 {
 "id": "9053b7761d04",
@@ -8000,24 +8020,14 @@
 "seen": "2026-11-27T10:44:09+00:00"
 },
 {
-"id": "400c4f9a085b",
-"t": "MU",
-"title": "Sandisk, Bloom, Marvell, AMD, Nvidia, HP, and More Stocks That Explain Today’s Market",
-"url": "https://finance.yahoo.com/m/977de44c-fcf5-3369-bcdd-0c3ddc7cfec9/sandisk%2C-bloom%2C-marvell%2C-amd%2C.html",
-"pub": "2026-11-27T10:22:00+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-27T11:44:37+00:00"
-},
-{
-"id": "e64486980321",
-"t": "NVDA",
-"title": "Nvidia Forecast $130 Billion in Revenue and Added $150 Billion to Its Buyback. Should You Buy the Stock?",
-"url": "https://www.fool.com/investing/2026/11/27/nvidia-forecast-usd130-billion-in-revenue-and-added-usd150-billion-to-its-buyback-should-you-buy-the-stock/",
-"pub": "2026-11-27T10:20:02+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-27T10:44:09+00:00"
+"id": "b27da26b0ff3",
+"t": "",
+"title": "Eisenkot Edging Closer to Leading Israel With Talks Progressing",
+"url": "https://www.bloomberg.com/news/articles/2026-11-28/eisenkot-edging-closer-to-leading-israel-with-talks-progressing",
+"pub": "2026-11-28T09:00:00+00:00",
+"src": "Bloomberg",
+"kind": "market",
+"seen": "2026-11-28T09:14:13+00:00"
 },
 {
 "id": "7329408c2229",
@@ -8088,6 +8098,26 @@
 "src": "Bloomberg",
 "kind": "market",
 "seen": "2026-11-28T07:14:27+00:00"
+},
+{
+"id": "cc268f0bd61b",
+"t": "",
+"title": "Saipem SpA (SPMI.MI) | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE05cHhtTmdZVVpSMWMtekVGWHMzLVJ4UUpvQ0Q4NkhHWVVScFdiRHdQWlVOS2REcUd4b3ZtRERMNlhGZXAwb1kxWFFWbjNBV1FRVEh5OHRJQlViVXBncUln?oc=5",
+"pub": "2026-11-28T06:37:36+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-28T09:14:13+00:00"
+},
+{
+"id": "29c89406293d",
+"t": "",
+"title": "Springvest (SPRING.HE) | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBuNlhFWnRBd1BkX2VLQmNxLVRwckZNZWlkeG1zaUNnaXk5a0MzSmJSNml3VFVkV1RKbVlzOWluOXdYbUI4S2RKeXAxbVFkYTV4cVBQVWl4ZF9uQ3ZWMXFVaA?oc=5",
+"pub": "2026-11-28T06:35:18+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-28T09:14:13+00:00"
 },
 {
 "id": "a19c9090b2c3",
@@ -8320,6 +8350,16 @@
 "seen": "2026-11-28T07:14:27+00:00"
 },
 {
+"id": "ad97c689f415",
+"t": "",
+"title": "ALPA.NSf - | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5pVC1qb2hOSWxZNkdibUN0UGY0TmhUMlZPNzUyZU9TdGxxcm1fbFVBY1RpWWFETW1VYmFTcE03aldNcW5Objl6dEtVN2ZSdTJwYXg2MWQ5N2tNZkdjMEVETmNLVlM5T3NoSXlhSW5Pd3N6YnNzNnFHc1FvQzk5UQ?oc=5",
+"pub": "2026-11-28T02:35:34+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-28T09:14:13+00:00"
+},
+{
 "id": "ca81ba58c827",
 "t": "",
 "title": "5253JPY.JPx - Reuters",
@@ -8418,6 +8458,16 @@
 "src": "Reuters",
 "kind": "market",
 "seen": "2026-11-28T08:44:41+00:00"
+},
+{
+"id": "9f586a8981d5",
+"t": "",
+"title": "7823.JAX - | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOSWZqTEl0OXdsdllkbzcxVzhkTjhCZFUyRUIzaHFOeHJrTVVzWGJ1eHFIZVBpcGtEa1cxWXBkeENHLUlhOW1HMW9pVW13MFBnRmpVNGFrN0x6YkQ2LVR5VmVoZnNSeHprZHhSNkkxcEFQRDBjYUllcUNIeVNZekNKLVlhTjNxLTYxNlE?oc=5",
+"pub": "2026-11-28T01:50:08+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-28T09:14:13+00:00"
 },
 {
 "id": "c71cd2d5939a",
@@ -9438,6 +9488,16 @@
 "src": "FinancialJuice",
 "kind": "market",
 "seen": "2026-11-27T17:14:37+00:00"
+},
+{
+"id": "f4f28d1325bf",
+"t": "",
+"title": "Slow bird flu season offers relief for Europe's poultry sector - Reuters",
+"url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOdlBESmduYzFidzlERUxPLXFVblpiUTVYbTdxUGNHYXdOakR0cE9aYzI0VkdhVEh4U3M1cVVtbU5PRHhmY1ZmMURoWHFxbDMtR0swa1ZUdDJyZVBRcHhaaWZ5ZFJjeFpINFBCc2ZMTUtoMFV5d3lZUEdTV3JsUjF4S3JBbXBhSjVDLVZOMXF5U0xsV3dmLXVIUjVQejNJLUEzNGJudXRGSDdzMktwUDh6Q0lmVQ?oc=5",
+"pub": "2026-11-27T17:03:40+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-28T09:14:13+00:00"
 },
 {
 "id": "d943bd807472",
@@ -10580,6 +10640,16 @@
 "seen": "2026-11-27T18:44:17+00:00"
 },
 {
+"id": "7c8866d6841d",
+"t": "",
+"title": "German unemployment rises more than expected in November - Reuters",
+"url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPbVBlR0Y1YkJleHhUZ3FrVnlZM3gyUHl1a3NqcUlqRFpCUGxhalQ2VzFIVE9MTnlTa2dTajUtLVgyb2RGaTR6ZUZidGY2dDdqM1FaM3VOeUJ0d09FdXNUeUg5YzZJVFU3SmlwTXRndFptalktZGZmSmptQkV5WjJnYVFiRTV5b0I4OWRtOHRFM18yd3ZrcmVVajhESDNMbUkxcWo4dFUtQQ?oc=5",
+"pub": "2026-11-27T12:49:19+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-28T09:14:13+00:00"
+},
+{
 "id": "1d272a4a2724",
 "t": "",
 "title": "Iraq's oil minister: We are in talks with OPEC to raise Iraq's production ceiling",
@@ -10948,76 +11018,6 @@
 "src": "Bloomberg",
 "kind": "market",
 "seen": "2026-11-27T11:44:37+00:00"
-},
-{
-"id": "c028ee5b2b6c",
-"t": "",
-"title": "Hackers have breached the US Air Force's flagship Cloud One computing platform - Sources",
-"url": "https://www.financialjuice.com/News/9870448/Hackers-have-breached-the-US-Air-Forces-flagship-Cloud-One-computing-platform---Sources.aspx?xy=rss",
-"pub": "2026-11-27T11:00:26+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-27T11:03:19+00:00"
-},
-{
-"id": "5620dfbc08c1",
-"t": "",
-"title": "ALKAL.PA - Reuters",
-"url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQeTQ0ajBudlpPcjJwWWNmWUFVR28yVHhiTnFkcEM4dENpMk5RLWZ6U0JuTjExUTlOeUhtd3lXeHlESlhtMnpVdGsyby03QXFGYzJyUC1EMTR2V090WEV6c1JpY19oMXdfakZYNThFVGtDRlNNTnZjcEozZXg3Y0tDTkE3dzN5c0lQNWdHdWxreHJCdw?oc=5",
-"pub": "2026-11-27T10:58:02+00:00",
-"src": "Reuters",
-"kind": "market",
-"seen": "2026-11-27T15:40:28+00:00"
-},
-{
-"id": "286b6801d2a9",
-"t": "",
-"title": "TSX futures rise on strength in gold, copper - Reuters",
-"url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNaE0taklTTUQwOHhHZmlyRWRya2xyVm1DVUUyNkZYN0hXMEpQMGpSMmhWdG9uOTNzU2JFMDFXbDRrZDJKWkVncmtHRU93eC1sZW1Rd0hJQkg3RU01a2RwMHJ4YVFYVTcyQVhXcElLSnRsemJXR0pIQWp6Rll4V1dpbmZEVU1PLUFHcmZQbGxuTlJTdw?oc=5",
-"pub": "2026-11-27T10:57:43+00:00",
-"src": "Reuters",
-"kind": "market",
-"seen": "2026-11-27T11:44:37+00:00"
-},
-{
-"id": "128bf0586260",
-"t": "",
-"title": "FS Development Investment Holdings (300071.SZ) | Stock Price & Latest News - Reuters",
-"url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5UNVUybGdiN184XzI0RnRSODhidHBOLXo1YzRkdlpDajNaZE5oU3g1S1NLMzV2WWpuSU1ZN0RWT1gwcDhuTmIzMWVONFBZclpUS3c2XzY1UzJGNzMtbEtuQi1Ba2F4MWc2RzVyZi1rbw?oc=5",
-"pub": "2026-11-27T10:57:34+00:00",
-"src": "Reuters",
-"kind": "market",
-"seen": "2026-11-27T14:34:12+00:00"
-},
-{
-"id": "31634436dcdd",
-"t": "",
-"title": "SM.V - | Stock Price & Latest News - Reuters",
-"url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQdHlYdFdLckdSRl8tX0tWTjdpTVNGMUNRTEZSUWVBMzZzS01Id1ZhOWljSGZPZFNjOGQtQlZYaVdiMkdPOVkxeXBFNTRlNS1zZDJfYlJNcnhzbWF2QXh1eGxjUl91UjJKUThnUjFFVEVDSWFpMVZRcmFZcnZyYmNYVERR?oc=5",
-"pub": "2026-11-27T10:57:27+00:00",
-"src": "Reuters",
-"kind": "market",
-"seen": "2026-11-27T18:44:17+00:00"
-},
-{
-"id": "c71b61600f5c",
-"t": "",
-"title": "RCMN.D - Reuters",
-"url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPN2xudnB6aXhEV3VXRXY4NDktMkhJNEl0MkRvaG1TcXZnUHdBVFY5eG1WLWZ4R296M2FVUGxrVFhXb2IyS2FSQVhmOXNZVnUxSzZReHk2MGJIQmZCQldSc0VoUnBwMkVCdng0Sm1vcERlNThSejZvRlZRcE1OTURvWXF5Y1Y?oc=5",
-"pub": "2026-11-27T10:56:00+00:00",
-"src": "Reuters",
-"kind": "market",
-"seen": "2026-11-27T20:14:46+00:00"
-},
-{
-"id": "4806c2c44e42",
-"t": "",
-"title": "GSm.BA - Reuters",
-"url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE14WklVQ0JnMGpucm5ZNEk0UUktUWdkWkNwbW5LVHN2c0FQQzczNGdLQTJFb1Q0UU1nSDd3WExlTmVrbGtsNWtoM2NpeEFMS0lCWm5tMWVKbWxmSjhnN3dkZVA1dHVULVZ4V3BTQkdvS08xb0tuZ2tNbQ?oc=5",
-"pub": "2026-11-27T10:55:31+00:00",
-"src": "Reuters",
-"kind": "market",
-"seen": "2026-11-27T13:28:07+00:00"
 }
 ]
 }
