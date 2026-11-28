@@ -1,6 +1,6 @@
 {
-"updated_kst": "2026-11-28 12:44",
-"rot": 121,
+"updated_kst": "2026-11-28 12:55",
+"rot": 2,
 "how": "Scout(프로그램)이 10분마다 모은 기사 제목·링크와 공시예요. Wren이 공식 출처로 확인한 뒤 회사 화면에 한국어로 반영해요. 본문은 받지 않아요.",
 "sources": {
 "Yahoo Finance": "120종목 확인 · 실패 0",
@@ -16,6 +16,16 @@
 "Fox Business": "50건"
 },
 "items": [
+{
+"id": "16fc4ab9c576",
+"t": "MSFT",
+"title": "Are recent outages bad for software?",
+"url": "https://finance.yahoo.com/technology/articles/recent-outages-bad-software-033947446.html",
+"pub": "2026-11-28T03:39:47+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-28T03:55:50+00:00"
+},
 {
 "id": "dd390e88680d",
 "t": "MU",
@@ -45,6 +55,16 @@
 "src": "Yahoo Finance",
 "kind": "news",
 "seen": "2026-11-28T03:44:12+00:00"
+},
+{
+"id": "0647961dd8c0",
+"t": "INCY",
+"title": "Is Incyte (INCY) Priced For Perfection After Its Europe Approval?",
+"url": "https://finance.yahoo.com/markets/stocks/articles/incyte-incy-priced-perfection-europe-031212781.html",
+"pub": "2026-11-28T03:12:12+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-28T03:55:50+00:00"
 },
 {
 "id": "3476ff3e0dde",
@@ -8003,26 +8023,6 @@
 "seen": "2026-11-27T14:34:12+00:00"
 },
 {
-"id": "f3f3f5693c98",
-"t": "APH",
-"title": "Ken Fisher and 11 Other Big Funds Bought Corning Last Quarter, While 14 Sold. Who’s Right?",
-"url": "https://www.tikr.com/blog/ken-fisher-big-funds-bought-corning-stock-last-quarter-14-sold",
-"pub": "2026-11-27T08:15:16+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-27T15:14:26+00:00"
-},
-{
-"id": "772a576b8c49",
-"t": "ILMN",
-"title": "Cathie Wood Just Bought $7 Million of Twist Bioscience Across 2 ARK Funds",
-"url": "https://www.tikr.com/blog/cathie-wood-ark-invest-buys-twist-bioscience-stock-7-million",
-"pub": "2026-11-27T08:14:07+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-27T14:14:40+00:00"
-},
-{
 "id": "60f957e18785",
 "t": "",
 "title": "Saudi-led coalition: cruise missile launched by Yemen's Houthis toward Riyadh intercepted and destroyed",
@@ -8571,6 +8571,16 @@
 "src": "Fox Business",
 "kind": "market",
 "seen": "2026-11-27T19:44:43+00:00"
+},
+{
+"id": "8406771760ad",
+"t": "",
+"title": "LyondellBasell Industries N.V. (LYB.Z) | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE45RVMzU2RTdjhoQVZUa0d5d1hWYTlsRWtLaFlfeDkwNExZdGRvclBFVy1uekRaR2NOTUNrV0JnbE14Z0NlY0oycWFBZnM2ekV4Mm5rQjh5NTVNWFU4ZUFIY1BMLVdfYkxiUVBfeA?oc=5",
+"pub": "2026-11-27T18:51:11+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-28T03:55:50+00:00"
 },
 {
 "id": "e9cf0d49ebba",
@@ -11011,16 +11021,6 @@
 "src": "Reuters",
 "kind": "market",
 "seen": "2026-11-27T11:03:19+00:00"
-},
-{
-"id": "e4bbbf9cec2b",
-"t": "",
-"title": "US Stocks Set to Bounce as Risk Appetite Returns After Holiday",
-"url": "https://www.bloomberg.com/news/articles/2026-11-27/us-stocks-set-to-bounce-as-risk-appetite-returns-after-holiday",
-"pub": "2026-11-27T07:56:20+00:00",
-"src": "Bloomberg",
-"kind": "market",
-"seen": "2026-11-27T08:54:02+00:00"
 }
 ]
 }
