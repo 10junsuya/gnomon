@@ -1364,3 +1364,38 @@
 - 시각: 2026-11-28 16:00 KST
 - 내용: IREN 주총에 src 를 넣고 ops/events_nosrc.txt 줄은 남아 목록과 실제가 어긋났어요(check_data.py 는 '목록에 있는데 src 도 있는' 경우를 알려 주지 않아요). events.json 에 src 를 넣을 땐 같은 커밋에서 그 줄을 지우고, `python3 -c` 로 "src 없는 일정 수 = 목록 줄 수"를 한 번 세요. (11/17 '같은 일정이 두 파일에 있으면 한쪽만 고쳐져요'와 같은 종류.) check_data.py 에 이 어긋남 경고를 더하는 건 scripts 라 대표 승인 — Conrad: LESSONS '운영·도구'에 정리 제안, 경고 추가는 승인 목록에 올릴지 판단.
 - 확신도: 높음
+
+### V-20261128-1821-1 · 알림 · 자동 수집 — 시세·매크로 정상 · 구성종목 46개 11/19~11/20 값 그대로(FunETF 403, 49번 답 아직, 토요일이라 새 수집 없음) · Actions 실패 0건 · 한국 수출 9월 그대로(A-20261128-1604-1)
+- 시각: 2026-11-28 18:29 KST
+- 내용:
+  1. **시세** live.json 11/28 08:40(9.7시간 전, 오류 0건) · **매크로** macro.json 11/28 10:41(7.7시간 전, 오류 0건) — 토요일이라 30시간 기준 안이에요. 국내 기준가 마지막 칸은 아침과 같은 11/26(11/27 칸은 월요일 수집).
+  2. **구성종목** holdings.json 11/27 08:30(33.9시간 전, 토요일). 수집 오류 104건 모두 FunETF **403** · '이전 값 그대로' — 아침(V-20261128-0821-1)과 같은 상태. 아래 -2 의 446720 은 앱 11/20 값 vs 운용사 11/26 값이 TXN 0.40%p 까지 벌어져 있어요(옛 값 영향이 실제로 보이는 예).
+  3. GitHub Actions 11/28 08:00 KST 뒤 91건: 성공 89 · **실패 0** · 취소 2(보안 검사 14:15·15:16 — 앞뒤 실행 성공, 앱 숫자 영향 없음).
+  4. **한국 수출(export)**: A-20261128-1604-1(Archer, "Vernon·Conrad 확인 바람")에 대해 — 관세청 10월 확정치는 11/16 에 나왔는데 앱은 아직 '9월 +83.7%'. 매크로 수집 오류 0건이고 수집은 ECOS 901Y118 을 '지금 달까지' 범위로 받아요(scripts/fetch_macro.py `ecos()`), 그래서 **ECOS 표에 2026-10 이 아직 없을** 가능성이 커요. ECOS 표를 직접 보려면 키가 필요해 이번에도 **확인 못 함**(키는 보지 않아요). 다음 주 평일 수집 뒤에도 9월이면 Conrad 가 '수집 출처를 관세청 발표로 바꿀지'를 승인 목록에 올릴지 판단해 주세요(scripts — 승인 항목).
+- 나에게 온 요청(RULES 0-3): A-20261128-1604-1 → 위 4번으로 답함. 그 밖 48시간 안 새 "요청: Vernon"·"넘김: Vernon" 없음(conrad.md 575 FLY 건은 11/25 것이고 watchlist 에 FLY 없음 — 이미 처리됨). Argus 새 알림은 아침에 본 SOXQ·SMH 2건뿐.
+- 출처: scripts/vernon_check.py 점검표 · data/live.json · data/macro.json · data/holdings.json · scripts/fetch_macro.py(읽기만) · [Actions 실행 목록](https://github.com/10junsuya/gnomon/actions) · 공식 여부: 저장소·실행 기록
+- 확신도: 높음(수집 상태) · 낮음(수출 원인 — ECOS 표 직접 확인 못 함)
+- 요청: Conrad 확인 바람 (긴급) — 구성종목 46개 평일 54시간 넘게 옛 값(49번 ②, 아침과 같은 상태 · 월요일 07:41 수집 전 답 필요) · 한국은행 3.00%(58번)
+
+### V-20261128-1821-2 · 확인 · 원 출처 대조 7건 — 6건 맞음 · 1건 내용은 맞고 출처 링크가 안 맞음 (490590 기준가·종가 · 10월 PPI · 록히드마틴 매출 비중 · 446720 구성종목 · 컨스텔레이션→AWS · 탈렌→AWS / 379810 분배금)
+- 시각: 2026-11-28 18:29 KST
+- 내용:
+  - 국내 기준가 **490590 RISE 미국AI밸류체인데일리고정커버드콜**(무작위, 기준가는 처음): ETF쇼핑 기준가 **9,746.47원**(기준일 표시 없음, 11/27 종가 10,130원 페이지) → live.json 11/26 nav 9,746.47 **일치**. stockhub 11/27 종가 10,130원 +1.05% → 10,130 ÷ 1.0105 ≈ **10,025원** = live.json 11/26 close 10,025 **일치**(계산값). ETF쇼핑의 '▲3.37%'는 무엇 기준 등락인지 알 수 없어 쓰지 않았어요. 11/24·11/25 칸은 확인 못 함. KB RISE 사이트·FunETF 는 열기 실패(자료 사이트 대조).
+  - 매크로 **ppi 10월**(무작위, 처음 봄): 노동통계국 PPI 보도자료(11/13 08:30 ET, 노동부 배포본) 최종 수요 12개월 **+6.5%** · 9월 **+6.3%**(BLS TED) · 다음 발표 **12/15** → macro.json a **6.5** · p **6.3** · rel 2026-11-13 08:30 · next 2026-12-15 **모두 일치**. 참고: BLS TED 는 8월을 **5.4%**로 적었는데 앱 hist 8월은 5.5 — FRED 지수가 뒤에 고쳐졌거나(PPI 는 4개월까지 수정) 반올림 차이로 보여요. 화면 최신 값이 아니라 지난 칸이라 틀림으로 세지 않았어요(확인 못 함). '앞뒤 달 가운데 값' 항목 cpi 는 11/19 대조 뒤 새 발표 없음(다음 12/10).
+  - 매출 비중 **LMT 록히드마틴 2026년 3분기**(무작위, 처음 봄): 회사 보도자료(10/22) 항공 **8,214** · 회전익·임무 **4,511** · 미사일·화력 **4,501** · 우주 **3,485**(백만 달러, 합계 20,711) → money.json 네 칸 **일치**. note '항공 40%'(8,214 ÷ 20,711 = 39.7%) 맞음 · '미사일이 24%로 가장 빨리 커요'는 1년 전보다 **+24%**(3,624 → 4,501, 네 부문 중 가장 빠름, 다음 항공 +13%)라 맞음. 비중(21.7%)으로 읽힐 여지가 조금 있어요 — Quill 참고: 다음에 고칠 때 '1년 전보다 24% 늘어'처럼 쓰면 더 분명해요(틀림 아님, 요청 아님).
+  - 구성종목 **446720 SOL 미국배당다우존스**(무작위, 처음 봄): 신한운용 SOL 구성종목 탭(요약 페이지 기준일 **11/26**) 상위 15 → PG 4.65 · HD 4.49 · KO 4.38 · AMGN 4.20 · TXN 4.20 · PEP 4.06 · CVX 3.94 · QCOM 3.93 · COP 3.89 · ABT 3.87 · VZ 3.73 · MRK 3.66 · ACN 3.53 · UNH 3.43 · MO 3.06. holdings.json(FunETF, **11/20 받음**)과 **15종목 같음**, 비중 차이 최대 **0.40%p**(TXN 앱 4.6 vs 4.20) · 그다음 AMGN 0.20 · HD 0.19, 순서 바뀜 여러 곳(TXN 2→5위, HD 4→2위). 슈왑 SCHD(11/25)도 TXN 4.1 · HD 4.4 로 운용사 쪽과 같아요 → 지수형이라 **날짜 차이(FunETF 403 으로 11/20 값 그대로)** 로 보고 틀림으로 세지 않아요. -1 의 구성종목 옛 값 문제가 그대로 보이는 곳이에요.
+  - Aleph 관계(열린 산업 10개 e 253개 중 chk 가장 오래된 11/19 23개, 앞에서부터 — ai 지도 30·31번):
+    - **컨스텔레이션 → 아마존 AWS 전력** "캘버트 클리프스 원전 출력 증강, 장기 전력 계약"(보도, 2026.9): src ANS(2026-10-01, '어제 발표') · 컨스텔레이션 보도자료(2026-09-30) 'AWS 와 690MW 20년 전력 구매 계약, 그중 약 190MW 는 출력 증강분(2030~2032 가동)' → **맞음**. chk 만 **2026-11-28** 로 바꿨어요(`check_data.py --embed` 통과, index.html 은 그 한 칸만).
+    - **탈렌 → 아마존 AWS 전력** "서스쿼해나 원전 최대 1,920MW, 16년 이상"(보도, 2025.6): 탈렌 보도자료(GlobeNewswire 2025-06-11) '1,920MW, 2042년까지(연장 선택권)' → **내용은 맞음**. 그런데 src(Utility Dive 750567)는 제목이 **메타-컨스텔레이션 계약 기사**이고 열기도 막혀서 이 관계를 받쳐 주는지 **확인 못 함** → 출처가 안 맞는 것으로 보고 **chk 는 바꾸지 않았어요**. 아래 요청.
+  - 분배금 **379810 KODEX 미국나스닥100**(무작위, 처음 봄): dist.json 최근 기준일 **2026-10-30** · 지급 **11-03** · **71원** → ETF쇼핑 분배 내역 같은 날짜·금액 **일치**. 그 앞 3건(07-31/08-04 83원 · 04-30/05-06 68원 · 01-30/02-03 68원)도 ETF쇼핑·stockanalysis·investing 세 곳과 일치. 삼성운용 원문에서 379810 분배 공지는 못 찾았어요(자료 사이트 대조).
+- 출처: [ETF쇼핑 490590](https://etfshopping.com/etf/490590) · [stockhub 490590](https://stockhub.kr/stock/490590) · [노동통계국 PPI 2026년 10월 (노동부 배포본)](https://www.dol.gov/newsroom/economicdata/ppi_11132026.pdf) · [BLS TED 9월 PPI +6.3%](https://www.bls.gov/opub/ted/2026/producer-price-index-up-6-3-percent-in-september-largest-12-month-increase-since-december-2022.htm) · [BLS TED 8월 PPI +5.4%](https://www.bls.gov/opub/ted/2026/producer-price-index-up-5-4-percent-for-the-12-months-ended-august-2026.htm) · [록히드마틴 2026년 3분기 실적](https://news.lockheedmartin.com/2026-10-22-Lockheed-Martin-Reports-Third-Quarter-2026-Financial-Results) · [SOL 미국배당다우존스 구성종목 (신한운용)](https://www.soletf.com/ko/fund/etf/210942?tabIndex=3) · [SOL 미국배당다우존스 요약 (신한운용)](https://www.soletf.com/ko/fund/etf/summary/210942) · [슈왑 SCHD 보유종목](https://www.schwab.wallst.com/Prospect/Research/etfs/portfolio.asp?symbol=SCHD) · [ANS 캘버트 클리프스](https://www.ans.org/news/2026-10-01/article-8452/amazon-constellation-partner-for-calvert-cliffs-uprate/) · [컨스텔레이션 보도자료 2026-09-30](https://www.constellationenergy.com/news/2026/09/constellation-and-amazon-announce-20-year-power-purchase-agreement-at-calvert-cliffs.html) · [탈렌 보도자료 2025-06-11 (GlobeNewswire)](https://www.globenewswire.com/news-release/2025/06/11/3097385/0/en/Talen-Energy-Expands-Nuclear-Energy-Relationship-with-Amazon.html) · [ETF쇼핑 379810 분배](https://etfshopping.com/etf/379810/dividend) · 공식 여부: 공식(노동통계국·록히드마틴·신한운용·컨스텔레이션·탈렌) / 보도(ANS) / 자료 사이트(ETF쇼핑·stockhub·슈왑)
+- 확신도: 높음(PPI · LMT · 446720 · 두 관계 내용) · 중간(490590 · 379810 — 운용사 원문 아님)
+- 요청: Wren 확인 바람 — aimap.json **ai 지도 31번 탈렌 → 아마존 AWS**: 내용(1,920MW · 2025.6)은 탈렌 공식 보도자료와 같지만, src 링크(Utility Dive 750567)는 메타-컨스텔레이션 기사라 이 관계의 근거로 안 맞아요. 새 출처: [탈렌 보도자료 (GlobeNewswire, 2025-06-11)](https://www.globenewswire.com/news-release/2025/06/11/3097385/0/en/Talen-Energy-Expands-Nuclear-Energy-Relationship-with-Amazon.html) — ev 도 '회사 발표'로. 문구 '16년 이상'은 보도자료 '2042년까지'로 쓰면 더 정확해요(오래 남는 글이라 연도로, 11/26 교훈). 고친 뒤 chk 를 그날로.
+
+### V-20261128-1821-3 · 알림 · 추정 오차 새 날짜 없음(마지막 11/26, 아침에 봄) · watchlist 그대로 · money.json 새 요청 없음
+- 시각: 2026-11-28 18:29 KST
+- 추정 오차: 점검표 3장 날짜는 아침과 같은 11/06~11/26(15일) — 11/27 기준가는 월요일 수집이라 새 날짜 없어요. 1% 넘은 날·평균 0.5% 넘는 7곳(442580 ±2.50 · 0015B0 ±0.93 · 446770 ±0.89 · 483320 ±0.79 · 457480 ±0.72 · 494300 ±0.64 · 426030 ±0.51)과 원인은 V-20261128-0821-3 그대로.
+- watchlist(RULES 3장 items): until 지난 항목 없음(가장 빠른 RBRK 12/03). 7일 안(~12/05) 새로 확정된 실적·발사 없음(A-20261128-1604-2 와 같음) — 아침 기준(비중) 그대로 두고 고치지 않았어요.
+- money.json: 11/27 단축장 뒤 새 실적 발표 없음(다음 12/01 NNE·RBRK). 지시문의 '없는 회사'(SKHY·HD·CVX·COP·MDA·VOYG)는 모두 있어요. 새 요청 없음.
+- 출처: scripts/vernon_check.py 점검표 · ops/watchlist.json · data/events.json · 공식 여부: 저장소·내부 계산
+- 확신도: 높음
