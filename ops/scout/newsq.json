@@ -1,6 +1,6 @@
 {
-"updated_kst": "2026-11-28 11:44",
-"rot": 120,
+"updated_kst": "2026-11-28 11:54",
+"rot": 1,
 "how": "Scout(프로그램)이 10분마다 모은 기사 제목·링크와 공시예요. Wren이 공식 출처로 확인한 뒤 회사 화면에 한국어로 반영해요. 본문은 받지 않아요.",
 "sources": {
 "Yahoo Finance": "120종목 확인 · 실패 0",
@@ -10,7 +10,7 @@
 "CNBC": "63건",
 "Bloomberg": "40건",
 "WSJ": "60건",
-"Reuters": "50건",
+"Reuters": "52건",
 "FinancialJuice": "100건",
 "SEC EDGAR": "실패 HTTPError",
 "Fox Business": "50건"
@@ -27,6 +27,16 @@
 "seen": "2026-11-28T02:44:26+00:00"
 },
 {
+"id": "7c40a87355f8",
+"t": "CSCO",
+"title": "Cisco Systems (CSCO) Expands AI Security Push With Two New Enterprise Tie Ups",
+"url": "https://finance.yahoo.com/technology/ai/articles/cisco-systems-csco-expands-ai-020947010.html",
+"pub": "2026-11-28T02:09:47+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-28T02:54:46+00:00"
+},
+{
 "id": "c6a4739aafae",
 "t": "PLTR",
 "title": "Palantir Technologies (PLTR) Signed A Poland Defense Software Agreement",
@@ -35,6 +45,16 @@
 "src": "Yahoo Finance",
 "kind": "news",
 "seen": "2026-11-28T02:44:26+00:00"
+},
+{
+"id": "c17a76e8383f",
+"t": "INCY",
+"title": "Does EU Skin Drug Approval Change The Bull Case For Incyte Stock (INCY)?",
+"url": "https://finance.yahoo.com/healthcare/articles/does-eu-skin-drug-approval-020907024.html",
+"pub": "2026-11-28T02:09:07+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-28T02:54:46+00:00"
 },
 {
 "id": "c403ece3b50a",
@@ -8003,26 +8023,6 @@
 "seen": "2026-11-27T10:14:08+00:00"
 },
 {
-"id": "ee7927f2e2b8",
-"t": "COP",
-"title": "Zacks Industry Outlook Highlights ConocoPhillips Occidental and Calumet",
-"url": "https://finance.yahoo.com/energy/articles/zacks-industry-outlook-highlights-conocophillips-074400946.html",
-"pub": "2026-11-27T07:44:00+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-27T08:54:02+00:00"
-},
-{
-"id": "f15f924c9e1c",
-"t": "MSFT",
-"title": "PhonePe resumes IPO plans with $15bn valuation target- report",
-"url": "https://www.electronicpaymentsinternational.com/news/phonepe-resumes-ipo-plans-with-15bn-valuation-target-report/",
-"pub": "2026-11-27T07:40:36+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-27T07:51:21+00:00"
-},
-{
 "id": "6fa5c185ac26",
 "t": "",
 "title": "Wall Street stages major comeback during Thanksgiving-shortened trading week",
@@ -8081,6 +8081,16 @@
 "src": "WSJ",
 "kind": "market",
 "seen": "2026-11-28T00:14:13+00:00"
+},
+{
+"id": "725230630812",
+"t": "",
+"title": "5246.ODX - | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOa2tYZGs5TlQ0eEdsbzgwQ1Y1VHA5RlY3eWVoZ0dtYThRY1lFVUVHa1VfRGNqNmx3MF91WXhxY2d2WW5kdnMyTU9JLUtZLUdGZ0RvOWR2SUxpWlRMVUxNUEVYenlMUHZleF90anBzSDJhb1NodUlSSzhhNldqaXRYRl9valI?oc=5",
+"pub": "2026-11-27T22:50:52+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-28T02:54:46+00:00"
 },
 {
 "id": "de656cefc5e2",
@@ -8241,6 +8251,16 @@
 "src": "CNBC",
 "kind": "market",
 "seen": "2026-11-27T21:44:58+00:00"
+},
+{
+"id": "122fd4fe54a2",
+"t": "",
+"title": "Ridley Corporation Limited (RIC.AX) | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9IM2tzZi1HSFFGeGw1WldDX01DWDZxa1lhOG1QUXpvVjBHV2lodm5RdzBXcjRqbXRnWURzSndudnVlNlhMdGZSckMzNHZoZXBCdVdrNEI5NTFPZkhLalE?oc=5",
+"pub": "2026-11-27T21:32:34+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-28T02:54:46+00:00"
 },
 {
 "id": "644e7ac3594d",
@@ -8581,6 +8601,16 @@
 "src": "Reuters",
 "kind": "market",
 "seen": "2026-11-27T23:37:01+00:00"
+},
+{
+"id": "798ee2f8ed5b",
+"t": "",
+"title": "ndafi.he - Reuters",
+"url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxORkhmRTRHaG9lS1ZFMlJqR0Q1VkhYZ2sxTFp0N3RrTm1LZU5BY0lyZ05KcmVZWG8xMnRBdW1wdldaV3NmWEZRbkl2Ry1talZQSWpqWHhOU1VWRGd5TVU0alg3YXotOXlkT3Z3NXg5SFFfdXp3OFhYZkRhcHMxWnNDcFgxWXlkemc?oc=5",
+"pub": "2026-11-27T18:26:36+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-28T02:54:46+00:00"
 },
 {
 "id": "8471c84537be",
@@ -9633,6 +9663,16 @@
 "seen": "2026-11-27T13:28:07+00:00"
 },
 {
+"id": "02fcac05951e",
+"t": "",
+"title": "Resideo Technologies, Inc. (REZI.P) | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5kV0JNV0tEbzgxb1I5QWp0Z1FEMmVkd2pSaGV6M1E1WnZUV3JCOGdJUUNrXzZpUWhVYm1XZkpQUVlJV0xTeUU0bWNjRDM5bmMzZlNmR3RHWDZFS3RTX1JPQUtJc3VMbHBqWUtF?oc=5",
+"pub": "2026-11-27T13:25:53+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-28T02:54:46+00:00"
+},
+{
 "id": "da8eb04a8a5b",
 "t": "",
 "title": "30R0.D - | Stock Price & Latest News - Reuters",
@@ -10251,6 +10291,16 @@
 "src": "Reuters",
 "kind": "market",
 "seen": "2026-11-27T11:03:19+00:00"
+},
+{
+"id": "20b0ebba062f",
+"t": "",
+"title": "O9601O.T - | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQc0liWDhSVk8zVm90QUdOMEh4QzUwc2dYVkI0ZkpFVnhJY1F4aWg3T19LYWMwVFkzSzY4bERnT3VfbHJIT0hHX1BNci1KMERwcWwzdkpBWWFRSTcxNnc5N1BXZS11NlJGdTlobC1rZUgzSVA4V0NxVjNjdzB6SG5sdWw5RGFrRnc?oc=5",
+"pub": "2026-11-27T10:30:46+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-28T02:54:46+00:00"
 },
 {
 "id": "6ebfbbff4f2a",
@@ -10971,56 +11021,6 @@
 "src": "FinancialJuice",
 "kind": "market",
 "seen": "2026-11-27T08:54:02+00:00"
-},
-{
-"id": "a7a27c7d2d02",
-"t": "",
-"title": "France’s Economy Contracts More Than Previously Estimated",
-"url": "https://www.bloomberg.com/news/articles/2026-11-27/france-s-economy-slows-more-than-previously-estimated",
-"pub": "2026-11-27T07:47:24+00:00",
-"src": "Bloomberg",
-"kind": "market",
-"seen": "2026-11-27T08:54:02+00:00"
-},
-{
-"id": "8e85d32d95c5",
-"t": "",
-"title": "French CPI MoM NSA Prelim Actual -0.7% (Forecast -0.2%, Previous 0.4%)",
-"url": "https://www.financialjuice.com/News/9870242/French-CPI-MoM-NSA-Prelim-Actual--07-Forecast--02-Previous-04.aspx?xy=rss",
-"pub": "2026-11-27T07:46:27+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-27T07:51:21+00:00"
-},
-{
-"id": "c8bb6cf285d1",
-"t": "",
-"title": "French CPI YoY NSA Prelim Actual 2.9% (Forecast 3.4%, Previous 3.4%)",
-"url": "https://www.financialjuice.com/News/9870241/French-CPI-YoY-NSA-Prelim-Actual-29-Forecast-34-Previous-34.aspx?xy=rss",
-"pub": "2026-11-27T07:46:26+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-27T07:51:21+00:00"
-},
-{
-"id": "331a656f4809",
-"t": "",
-"title": "French Non-Farm Payrolls Revised Actual 0.0% (Forecast -, Previous -0.1%)",
-"url": "https://www.financialjuice.com/News/9870236/French-Non-Farm-Payrolls-Revised-Actual-00-Forecast---Previous--01.aspx?xy=rss",
-"pub": "2026-11-27T07:45:22+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-27T07:51:21+00:00"
-},
-{
-"id": "4c6ec076be70",
-"t": "",
-"title": "French GDP QoQ Final Actual -0.2% (Forecast -0.1%, Previous -0.1%)",
-"url": "https://www.financialjuice.com/News/9870235/French-GDP-QoQ-Final-Actual--02-Forecast--01-Previous--01.aspx?xy=rss",
-"pub": "2026-11-27T07:45:21+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-27T07:51:21+00:00"
 }
 ]
 }
