@@ -1,6 +1,6 @@
 {
-"updated_kst": "2026-11-28 12:55",
-"rot": 2,
+"updated_kst": "2026-11-28 13:14",
+"rot": 62,
 "how": "Scout(프로그램)이 10분마다 모은 기사 제목·링크와 공시예요. Wren이 공식 출처로 확인한 뒤 회사 화면에 한국어로 반영해요. 본문은 받지 않아요.",
 "sources": {
 "Yahoo Finance": "120종목 확인 · 실패 0",
@@ -10,12 +10,42 @@
 "CNBC": "63건",
 "Bloomberg": "40건",
 "WSJ": "60건",
-"Reuters": "54건",
+"Reuters": "100건",
 "FinancialJuice": "100건",
 "SEC EDGAR": "실패 HTTPError",
 "Fox Business": "50건"
 },
 "items": [
+{
+"id": "800c81f61ca4",
+"t": "NVDA",
+"title": "Michael Burry still sees 2 stocks worth betting against",
+"url": "https://www.thestreet.com/investing/michael-burry-palantir-metlife-puts",
+"pub": "2026-11-28T04:07:00+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-28T04:14:05+00:00"
+},
+{
+"id": "4caa1a7a4bd6",
+"t": "AMZN",
+"title": "BEACN Announces Financial Results for the Third Quarter of 2026",
+"url": "https://finance.yahoo.com/markets/stocks/articles/beacn-announces-financial-results-third-035500980.html",
+"pub": "2026-11-28T03:55:00+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-28T04:14:05+00:00"
+},
+{
+"id": "42d1eb634797",
+"t": "KO",
+"title": "3 Reasons I’d Be Nervous Buying Coca-Cola’s Stock Today",
+"url": "https://www.tikr.com/blog/reasons-to-be-nervous-buying-coca-cola-stock",
+"pub": "2026-11-28T03:41:58+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-28T04:14:05+00:00"
+},
 {
 "id": "16fc4ab9c576",
 "t": "MSFT",
@@ -7993,36 +8023,6 @@
 "seen": "2026-11-27T08:54:02+00:00"
 },
 {
-"id": "361b2e9696d3",
-"t": "NVDA",
-"title": "Nvidia, AI Fears Jolt Markets: Market Snapshot",
-"url": "https://finance.yahoo.com/video/nvidia-ai-fears-jolt-markets-082748065.html",
-"pub": "2026-11-27T08:27:48+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-27T10:07:06+00:00"
-},
-{
-"id": "9e7d4a06da6b",
-"t": "NVDA",
-"title": "Billionaire David Tepper of Appaloosa Management Has 65% of His Portfolio Invested in These 7 Artificial Intelligence (AI) Stocks. Here Are the 3 I’d Buy Hand Over Fist Right Now",
-"url": "https://www.fool.com/investing/2026/11/27/billionaire-david-tepper-of-appaloosa-management-has-65-of-his-portfolio-invested-in-these-7-artificial-intelligence-ai-stocks-here-are-the-3-i-d-buy-hand-over-fist-right-now/",
-"pub": "2026-11-27T08:20:02+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-27T08:54:02+00:00"
-},
-{
-"id": "b37451f8f2fd",
-"t": "KO",
-"title": "Is Coca-Cola Stock Outperforming the Dow?",
-"url": "https://www.barchart.com/story/news/9028491/is-coca-cola-stock-outperforming-the-dow",
-"pub": "2026-11-27T08:17:58+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-27T14:34:12+00:00"
-},
-{
 "id": "60f957e18785",
 "t": "",
 "title": "Saudi-led coalition: cruise missile launched by Yemen's Houthis toward Riyadh intercepted and destroyed",
@@ -8041,6 +8041,16 @@
 "src": "Bloomberg",
 "kind": "market",
 "seen": "2026-11-28T03:14:16+00:00"
+},
+{
+"id": "1c55046fd230",
+"t": "",
+"title": "211A.JSF - Reuters",
+"url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQcWlGQWo4dHZpVFVaVUNtRFQ5N3NkQkh1SF96Y3JMa3k4anRheTFmZnEwZzlIaDR0ZXdpYm4ySTVtTG44UVVhT0xtdkV4cXdCbnF3bGhtSm9hMDJUWWlwbTVXMXB6UzAzTUlIYkQ5Ym1ZcUhmWW1JNndQMnBvRGFmY0V3d2FQSkVyM1FWVFBrOFlfQQ?oc=5",
+"pub": "2026-11-28T02:20:51+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-28T04:14:05+00:00"
 },
 {
 "id": "6fa5c185ac26",
@@ -8101,6 +8111,26 @@
 "src": "WSJ",
 "kind": "market",
 "seen": "2026-11-28T00:14:13+00:00"
+},
+{
+"id": "e189c296e6ca",
+"t": "",
+"title": "EQV Ventures Acquisition Corp II (EVAC.N) | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBHNUI4TW5XZjMtMnBoNjFKTkFIWFd0Umt2Q0tFUk5rcTY4eUZUNUEyOU9sSmZrZ2FYM2U5TjVMUXk1Wmc3OTRJanRGSF9GVVItZ0ppbGZBcHV0OFNrVS0taDB0ZUFVYlZVWU45a3BR?oc=5",
+"pub": "2026-11-27T23:58:55+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-28T04:14:05+00:00"
+},
+{
+"id": "5f9566009419",
+"t": "",
+"title": "Spyre Therapeutics Inc (SYRE.OQ) | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1IcjJtNWJKckFlZXpIcGdMekZYd0dqd1JSMFgxcENfeHNuS0Z6MUNYNUp1OW5oX0F3MExLUldKNk5ZbFRVT2RXVEJaakw4NEhjMkV6QkxIckRCRFVpNUplNnJ3X1RiX0lIR0ZkcjhWNA?oc=5",
+"pub": "2026-11-27T23:51:10+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-28T04:14:05+00:00"
 },
 {
 "id": "725230630812",
@@ -8261,6 +8291,16 @@
 "src": "Reuters",
 "kind": "market",
 "seen": "2026-11-28T02:14:55+00:00"
+},
+{
+"id": "e65b37fc0742",
+"t": "",
+"title": "FT Vest SMID Rising Dividend Achievers Tgt In (SDVD.N) | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE95d2FCLUVrTElrVmx1WU1telZaeFA5aGV6NVp4UjQxc2taMUkyN1F1dUktRjVHRkFrQl9GVVgyeWg3V0Z6UDA0ZkZaV08ybVFjNEc3QWlTRmVJcGJL?oc=5",
+"pub": "2026-11-27T21:49:38+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-28T04:14:05+00:00"
 },
 {
 "id": "35460b7c3efe",
@@ -8573,6 +8613,16 @@
 "seen": "2026-11-27T19:44:43+00:00"
 },
 {
+"id": "0e824d65872d",
+"t": "",
+"title": "1072.F - | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQVUc4aERteDFfejJ3amp6SzI2aGk0UVVzQlRsblFqTXZZV3hOY1RkOW9OLWpXZE5WOUZXaTBMT3FxUDl2VXFSRllUY1R5VWJMY0E5dnBsZndqSXZkTy01M0c1OHJTLWo4QVRqcU5nRGxIamdTOVN5anNDVGlCMUtQNVFEYlM?oc=5",
+"pub": "2026-11-27T18:58:00+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-28T04:14:05+00:00"
+},
+{
 "id": "8406771760ad",
 "t": "",
 "title": "LyondellBasell Industries N.V. (LYB.Z) | Stock Price & Latest News - Reuters",
@@ -8591,6 +8641,16 @@
 "src": "Reuters",
 "kind": "market",
 "seen": "2026-11-28T01:44:42+00:00"
+},
+{
+"id": "17cc1862eac5",
+"t": "",
+"title": "ZEOX.PK - Reuters",
+"url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQNmJpWWpYTmZ3Qm5lemY1dXpUWjNfWm1aOERFa1hubWEySWZGd0R4OTFDQXJqUVZxZ0Z2dWl1TzBZWG1oeENZNmotSWdJUnZJSXR2M2h5bGlUaWU0OUkwOVRTcF9hYnBPcHdZWjZXNjhRLWxMbi0zWXhWTHZpYzFTSXVqZ3dDdnJJ?oc=5",
+"pub": "2026-11-27T18:49:56+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-28T04:14:05+00:00"
 },
 {
 "id": "2badeefeb8fb",
@@ -8681,6 +8741,16 @@
 "src": "FinancialJuice",
 "kind": "market",
 "seen": "2026-11-27T18:39:55+00:00"
+},
+{
+"id": "a69b3d2c6dec",
+"t": "",
+"title": "LIK.F - | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPWUtuUHV4czVrUHJ2Q3ItS1VzZWJIRDNxTHV4YjBnT3JmUmRDbTJRM2JIQ1RYbE1yVGhvMmNtM3dJSGRzY1JlcUJ6dlplX0VtLXU0QWdybHROMS0zeS1mUVZqZGp3d21RREpTbENJTnNfb1Q0VTZoNEhyV3FnMjhNZVZ4T19vSlNOckl2TzBR?oc=5",
+"pub": "2026-11-27T17:59:00+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-28T04:14:05+00:00"
 },
 {
 "id": "88efce2092fe",
@@ -9081,6 +9151,16 @@
 "src": "Reuters",
 "kind": "market",
 "seen": "2026-11-28T01:44:42+00:00"
+},
+{
+"id": "eb4b5c1b106d",
+"t": "",
+"title": "Voith Paper Fabrics India Ltd (VOIT.BO) | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE00Mmh4eHNUVi1ES21DdGpRemcxSEdOWC1PcUlzbnZ3bmw1cDJHSW1Zekg1NnRPRHp1eFlmNFVlSTQwLS1JZTB0c2ZQZ3U3T1RhMzlpeXNhVVd2b2taeml3UDU1d0NXc05TR1JKQw?oc=5",
+"pub": "2026-11-27T15:53:30+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-28T04:14:05+00:00"
 },
 {
 "id": "d37a903891bd",
@@ -9743,6 +9823,16 @@
 "seen": "2026-11-27T19:14:21+00:00"
 },
 {
+"id": "0e2e05cd606f",
+"t": "",
+"title": "Skymark Airlines Inc. (9204.T) | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1mNFlURDJzRnlXcjBwOG81OGpwY0hWVlRHQ3hCcGN4c1JkSGpnUTdiNTBrUGhhR1ZMZ0Y1OWhmT0tyUzNWZERiUXh4a3JzMW5zeVJ1Xy1RckpVTGhUeXdQeWM2UVQxZVhVODJuVmJn?oc=5",
+"pub": "2026-11-27T13:21:24+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-28T04:14:05+00:00"
+},
+{
 "id": "b9a247cdb55e",
 "t": "",
 "title": "SRV Yhtiot Oyj (B7J1.D) | Stock Price & Latest News - Reuters",
@@ -10141,6 +10231,16 @@
 "src": "Reuters",
 "kind": "market",
 "seen": "2026-11-27T15:40:28+00:00"
+},
+{
+"id": "3e0d79f1944e",
+"t": "",
+"title": "ENES.KL - Reuters",
+"url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5wSWc1d1k2cFE5RGxsMjEyNmZ2ZUhIQ1kwZEV5cHdyajViTXVCbVEtNDRUc3lCR0RpZ2txbDIzc2Y2THQ3QmpvelY5UkpzYVpMc2tGOGR6UDYzaVpMUGhWUkxnRFU2TTNKZXhVNElZMkViTFRpNms3Vw?oc=5",
+"pub": "2026-11-27T11:25:53+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-28T04:14:05+00:00"
 },
 {
 "id": "e57342219c17",
@@ -10921,106 +11021,6 @@
 "src": "Bloomberg",
 "kind": "market",
 "seen": "2026-11-27T08:54:02+00:00"
-},
-{
-"id": "1850a594863f",
-"t": "",
-"title": "China’s CNGR Weighs Building an Aluminum Smelter in Indonesia",
-"url": "https://www.bloomberg.com/news/articles/2026-11-27/china-s-cngr-weighs-building-an-aluminum-smelter-in-indonesia",
-"pub": "2026-11-27T08:13:10+00:00",
-"src": "Bloomberg",
-"kind": "market",
-"seen": "2026-11-27T10:07:06+00:00"
-},
-{
-"id": "a00d46e48b65",
-"t": "",
-"title": "Spain's 12-month EU-harmonised inflation falls to 4.1% in November - Reuters",
-"url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxObXhfaWZjV2tnUWppbUhLQUg1eFZFc2V0cnVIelk1Q0Uwd3NpMG9DU0dWTUFnenR6aGNNa3k4TU5RelVlTkZKVFphLS1GQ0c2M0NjYUctc0RPWHp6Y1N5RGRNQy1nb05LQlVsWWQ0ZGpvMVRrT3ZyVHhwc2dveWNVWkEtb3JOZU9PWFFSUlF2Q2lHSDJZU3M1N0xaX0VzdVBxNEtsSWxVY3U5dl9P?oc=5",
-"pub": "2026-11-27T08:05:44+00:00",
-"src": "Reuters",
-"kind": "market",
-"seen": "2026-11-27T10:14:08+00:00"
-},
-{
-"id": "6ecdca754896",
-"t": "",
-"title": "Taiwan Lifts 2027 Growth Outlook Despite Mounting AI Concern",
-"url": "https://www.bloomberg.com/news/articles/2026-11-27/taiwan-lifts-2027-growth-outlook-despite-mounting-ai-concern",
-"pub": "2026-11-27T08:05:15+00:00",
-"src": "Bloomberg",
-"kind": "market",
-"seen": "2026-11-27T08:54:02+00:00"
-},
-{
-"id": "2cde4186a23b",
-"t": "",
-"title": "Currency Strength Chart: Strongest: AUD, NZD, GBP, CAD, EUR, USD, CHF, GBP - Weakest",
-"url": "https://www.financialjuice.com/News/9870260/Currency-Strength-Chart-Strongest-AUD-NZD-GBP-CAD-EUR-USD-CHF-GBP---Weakest.aspx?xy=rss",
-"pub": "2026-11-27T08:01:08+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-27T08:54:02+00:00"
-},
-{
-"id": "dda5ad71f4ae",
-"t": "",
-"title": "Spanish Retail Sales SA YoY Actual -1% (Forecast -, Previous -1.4%)",
-"url": "https://www.financialjuice.com/News/9870258/Spanish-Retail-Sales-SA-YoY-Actual--1-Forecast---Previous--14.aspx?xy=rss",
-"pub": "2026-11-27T08:00:07+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-27T08:54:02+00:00"
-},
-{
-"id": "a2245d1be252",
-"t": "",
-"title": "Spanish HICP YoY Flash  Actual 4.1% (Forecast 4.7%, Previous 4.9%)",
-"url": "https://www.financialjuice.com/News/9870257/Spanish-HICP-YoY-Flash--Actual-41-Forecast-47-Previous-49.aspx?xy=rss",
-"pub": "2026-11-27T08:00:00+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-27T08:54:02+00:00"
-},
-{
-"id": "be7f9d1b017e",
-"t": "",
-"title": "Spanish CPI YoY Flash Actual 4.1% (Forecast 4.7%, Previous 4.9%)",
-"url": "https://www.financialjuice.com/News/9870256/Spanish-CPI-YoY-Flash-Actual-41-Forecast-47-Previous-49.aspx?xy=rss",
-"pub": "2026-11-27T08:00:00+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-27T08:54:02+00:00"
-},
-{
-"id": "edf7ec46173a",
-"t": "",
-"title": "Spanish HICP MoM Flash  Actual -0.7% (Forecast -0.2%, Previous 0.5%)",
-"url": "https://www.financialjuice.com/News/9870255/Spanish-HICP-MoM-Flash--Actual--07-Forecast--02-Previous-05.aspx?xy=rss",
-"pub": "2026-11-27T08:00:00+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-27T08:54:02+00:00"
-},
-{
-"id": "ba476a90b429",
-"t": "",
-"title": "Spanish CPI MoM Flash Actual -0.6% (Forecast 0%, Previous 0.60%)",
-"url": "https://www.financialjuice.com/News/9870254/Spanish-CPI-MoM-Flash-Actual--06-Forecast-0-Previous-060.aspx?xy=rss",
-"pub": "2026-11-27T08:00:00+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-27T08:54:02+00:00"
-},
-{
-"id": "119c0ad2a292",
-"t": "",
-"title": "L&G EM Govt Bd (USD) 0-5 Y Scrnd UCITS ETF USD Dis (EMA5.DE) | Stock Price & Latest News - Reuters",
-"url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE04MkhBdkthVHl1djBOZ09GQkNQQTJ3eHJYdzIzSVI5UkgxX2hfbnNFMXJxMUQwMm9RSXNnT3NzYXVNUXR5Tkl3bE0wdk0zNXl5WjNGcl85b2l0enNzSDdj?oc=5",
-"pub": "2026-11-27T07:57:29+00:00",
-"src": "Reuters",
-"kind": "market",
-"seen": "2026-11-27T11:03:19+00:00"
 }
 ]
 }
