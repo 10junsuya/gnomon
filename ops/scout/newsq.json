@@ -1,5 +1,5 @@
 {
-"updated_kst": "2026-11-28 16:13",
+"updated_kst": "2026-11-28 16:14",
 "rot": 5,
 "how": "Scout(프로그램)이 10분마다 모은 기사 제목·링크와 공시예요. Wren이 공식 출처로 확인한 뒤 회사 화면에 한국어로 반영해요. 본문은 받지 않아요.",
 "sources": {
@@ -10,7 +10,7 @@
 "CNBC": "63건",
 "Bloomberg": "40건",
 "WSJ": "60건",
-"Reuters": "55건",
+"Reuters": "56건",
 "FinancialJuice": "100건",
 "SEC EDGAR": "실패 HTTPError",
 "Fox Business": "50건"
@@ -8029,7 +8029,7 @@
 "pub": "2026-11-28T06:59:35+00:00",
 "src": "FinancialJuice",
 "kind": "market",
-"seen": "2026-11-28T07:13:26+00:00"
+"seen": "2026-11-28T07:14:27+00:00"
 },
 {
 "id": "fd2fa9204da0",
@@ -8039,7 +8039,7 @@
 "pub": "2026-11-28T06:39:08+00:00",
 "src": "Bloomberg",
 "kind": "market",
-"seen": "2026-11-28T07:13:26+00:00"
+"seen": "2026-11-28T07:14:27+00:00"
 },
 {
 "id": "89a758bd0c0f",
@@ -8050,6 +8050,16 @@
 "src": "CNBC",
 "kind": "market",
 "seen": "2026-11-28T06:14:56+00:00"
+},
+{
+"id": "d0113140e4e2",
+"t": "",
+"title": "002226.SZh - | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5odVhVR09BRjVFaW5UYm9fZ1V6cldCQmZqVktOeEpxVnVYM3BJVkJLN3poVU1hWGFNLUwyRlFmNDJCUjZ2QS1MRzdSaklnUGpVb19wWWR6U0V4VzhTaXVNdDJGQmlHOFVybjFNcThabHVLdw?oc=5",
+"pub": "2026-11-28T05:34:30+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-28T07:14:27+00:00"
 },
 {
 "id": "97c58ec389f8",
@@ -8102,24 +8112,14 @@
 "seen": "2026-11-28T03:14:16+00:00"
 },
 {
-"id": "a871bf97841b",
+"id": "d09008f1bd56",
 "t": "",
 "title": "O4967O.T - | Stock Price & Latest News - Reuters",
-"url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBFdVI3SXFaNEFYTjQ4YmdhVVlfdklxNGRuZDhtLXVkR0k0QlN1WTVmMC1nS0w4Qm4xUWpHMjBJRlFZUXYwM3plR1BGTDktVnJlZ3ZZcG42V2Zibk5yY056YWN5YS1MSDJzNG5WYlBXdzN1cC1mRjF3eW1R?oc=5",
-"pub": "2026-11-28T03:01:26+00:00",
+"url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE90bFVsaTF6MFg2QjdUZC1aQmxRREl4aS1MaDdjeEtjczF0SFBWMFhzSEYtYWxVRk1XTHQwcjBwY2RaUGVJQzhYOVJOZjFyWFdtRVpfcXFkcHBHODlONV95ME5NZnR1dlAzUTgzTmlEczB3eWsydUVKMjl5cVRtQQ?oc=5",
+"pub": "2026-11-28T02:57:10+00:00",
 "src": "Reuters",
 "kind": "market",
-"seen": "2026-11-28T07:13:26+00:00"
-},
-{
-"id": "ad97c689f415",
-"t": "",
-"title": "ALPA.NSf - | Stock Price & Latest News - Reuters",
-"url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5pVC1qb2hOSWxZNkdibUN0UGY0TmhUMlZPNzUyZU9TdGxxcm1fbFVBY1RpWWFETW1VYmFTcE03aldNcW5Objl6dEtVN2ZSdTJwYXg2MWQ5N2tNZkdjMEVETmNLVlM5T3NoSXlhSW5Pd3N6YnNzNnFHc1FvQzk5UQ?oc=5",
-"pub": "2026-11-28T02:35:34+00:00",
-"src": "Reuters",
-"kind": "market",
-"seen": "2026-11-28T07:13:26+00:00"
+"seen": "2026-11-28T07:14:27+00:00"
 },
 {
 "id": "ca81ba58c827",
@@ -8152,6 +8152,16 @@
 "seen": "2026-11-28T04:14:05+00:00"
 },
 {
+"id": "81df63ca2ad5",
+"t": "",
+"title": "PDXst.TRE - | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPNGNhOXhsalhqMnQwNlZpRGdfTnVIZ2thcmNwdFcwUkhOYjJWYi1fR0pKbDhIeUdPcHpOTEZDSEF1X3AwbnZnZEVfWjRKZ3VXQ3M3YlJsNlNQZ0hOZVFwUlVqQ3dPTVMxZjJBOUxiVmxERTRqWl94WldsZWd3VUdIODRQWVFoM24tTC1ITHJRam5lQQ?oc=5",
+"pub": "2026-11-28T02:19:53+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-28T07:14:27+00:00"
+},
+{
 "id": "6fa5c185ac26",
 "t": "",
 "title": "Wall Street stages major comeback during Thanksgiving-shortened trading week",
@@ -8172,14 +8182,14 @@
 "seen": "2026-11-28T02:14:55+00:00"
 },
 {
-"id": "9f586a8981d5",
+"id": "9308566b3678",
 "t": "",
-"title": "7823.JAX - | Stock Price & Latest News - Reuters",
-"url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOSWZqTEl0OXdsdllkbzcxVzhkTjhCZFUyRUIzaHFOeHJrTVVzWGJ1eHFIZVBpcGtEa1cxWXBkeENHLUlhOW1HMW9pVW13MFBnRmpVNGFrN0x6YkQ2LVR5VmVoZnNSeHprZHhSNkkxcEFQRDBjYUllcUNIeVNZekNKLVlhTjNxLTYxNlE?oc=5",
-"pub": "2026-11-28T01:50:08+00:00",
+"title": "4375.ODX - | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNS0VqVy1tSHRJbDJxaE1BbGhFdExDelBjMTlWSk5oTHdfeHYzR2g0ZV9RcFF2RDlzV2U3R3IxS0hPcEdHTi1Eb2dkaFE1SDBtWUhxYm1ZRWo4YzU1SlhDTVZPUHNoMGFUanh4eXR3UTlOaEF6Ump1YmVvWFVUQ1NycmZrOEFsZw?oc=5",
+"pub": "2026-11-28T01:53:53+00:00",
 "src": "Reuters",
 "kind": "market",
-"seen": "2026-11-28T07:13:26+00:00"
+"seen": "2026-11-28T07:14:27+00:00"
 },
 {
 "id": "c71cd2d5939a",
@@ -8200,16 +8210,6 @@
 "src": "Reuters",
 "kind": "market",
 "seen": "2026-11-28T04:59:50+00:00"
-},
-{
-"id": "f1585de72c02",
-"t": "",
-"title": "Mears Group PLC (MM7.D) | Stock Price & Latest News - Reuters",
-"url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5JYm9Sa1ZHWkxiLW9Md3dYb1pTajhza0xiSFhMNm9xNVBHVnRYd1B1ZDVPdEdXb0xlMW5tQlNkUnRTeFVCZk10NEdscWp3THFqX0JVaHBOdDNLdkczbmFhXzJDZ0VhVE1qT3Vybg?oc=5",
-"pub": "2026-11-28T01:05:31+00:00",
-"src": "Reuters",
-"kind": "market",
-"seen": "2026-11-28T07:13:26+00:00"
 },
 {
 "id": "253b259f4b1e",
