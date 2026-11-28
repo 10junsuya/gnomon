@@ -1,21 +1,31 @@
 {
-"updated_kst": "2026-11-28 19:14",
-"rot": 127,
+"updated_kst": "2026-11-28 19:26",
+"rot": 8,
 "how": "Scout(프로그램)이 10분마다 모은 기사 제목·링크와 공시예요. Wren이 공식 출처로 확인한 뒤 회사 화면에 한국어로 반영해요. 본문은 받지 않아요.",
 "sources": {
 "Yahoo Finance": "120종목 확인 · 실패 0",
-"GlobeNewswire": "0건",
+"GlobeNewswire": "실패 HTTPError",
 "PR Newswire": "0건",
 "Business Wire": "0건",
 "CNBC": "63건",
 "Bloomberg": "40건",
 "WSJ": "60건",
-"Reuters": "100건",
+"Reuters": "48건",
 "FinancialJuice": "100건",
 "SEC EDGAR": "실패 HTTPError",
 "Fox Business": "50건"
 },
 "items": [
+{
+"id": "fda63cdf8185",
+"t": "NVDA",
+"title": "Prediction: Here's the Netflix Stock Price I Expect at the End of 2030",
+"url": "https://www.fool.com/investing/2026/11/28/prediction-here-s-the-netflix-stock-price-i-expect-at-the-end-of-2030/",
+"pub": "2026-11-28T10:07:02+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-28T10:26:33+00:00"
+},
 {
 "id": "55c85f43f988",
 "t": "NVDA",
@@ -205,6 +215,16 @@
 "src": "Yahoo Finance",
 "kind": "news",
 "seen": "2026-11-28T07:44:35+00:00"
+},
+{
+"id": "2bba7dde15be",
+"t": "TSLA",
+"title": "Are Goldman Sachs and Morgan Stanley “Over Earning” on the AI Boom? Both Fell 20%+ in 3 Months",
+"url": "https://www.tikr.com/blog/are-goldman-sachs-and-morgan-stanley-over-earning-on-the-ai-boom-both-fell-20-in-3-months",
+"pub": "2026-11-28T06:45:05+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-28T10:26:33+00:00"
 },
 {
 "id": "1ec5476e007e",
@@ -7999,25 +8019,14 @@
 "seen": "2026-11-27T11:03:19+00:00"
 },
 {
-"id": "95fb09853b9e",
-"t": "NVDA",
-"title": "NVIDIA Corporation Sued for Securities Law Violations - Contact the DJS Law Group to Discuss Your Rights - NVDA",
-"url": "https://www.prnewswire.com/news-releases/nvidia-corporation-sued-for-securities-law-violations---contact-the-djs-law-group-to-discuss-your-rights--nvda-302951593.html",
-"pub": "2026-11-27T10:42:00+00:00",
-"src": "PR Newswire",
-"kind": "news",
-"orig": true,
-"seen": "2026-11-27T10:44:09+00:00"
-},
-{
-"id": "c80410fd6c23",
-"t": "NOC",
-"title": "Can L3Harris' Australian Defense Award Expand Its All-Domain Reach?",
-"url": "https://finance.yahoo.com/markets/stocks/articles/l3harris-australian-defense-award-expand-104100244.html",
-"pub": "2026-11-27T10:41:00+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-27T12:15:02+00:00"
+"id": "419616c44472",
+"t": "",
+"title": "Norway’s Wealth Fund Again Votes No to Musk’s Tesla Pay Package",
+"url": "https://www.bloomberg.com/news/articles/2026-11-28/norway-s-wealth-fund-again-votes-no-to-musk-s-tesla-pay-package",
+"pub": "2026-11-28T10:15:53+00:00",
+"src": "Bloomberg",
+"kind": "market",
+"seen": "2026-11-28T10:26:33+00:00"
 },
 {
 "id": "70dac770c13d",
@@ -8028,6 +8037,26 @@
 "src": "WSJ",
 "kind": "market",
 "seen": "2026-11-28T10:14:02+00:00"
+},
+{
+"id": "8433e76c1c56",
+"t": "",
+"title": "World Economy Latest: US Consumers Temper Spending After Recent Burst",
+"url": "https://www.bloomberg.com/news/articles/2026-11-28/world-economy-latest-us-consumers-temper-spending-after-recent-burst",
+"pub": "2026-11-28T10:00:00+00:00",
+"src": "Bloomberg",
+"kind": "market",
+"seen": "2026-11-28T10:26:33+00:00"
+},
+{
+"id": "bf313b1d4694",
+"t": "",
+"title": "Plunging Fuel Prices Bring Relief for Drivers and Central Banks",
+"url": "https://www.bloomberg.com/news/articles/2026-11-28/plunging-fuel-prices-bring-relief-for-drivers-and-central-banks",
+"pub": "2026-11-28T10:00:00+00:00",
+"src": "Bloomberg",
+"kind": "market",
+"seen": "2026-11-28T10:26:33+00:00"
 },
 {
 "id": "7f1668e54823",
@@ -10988,36 +11017,6 @@
 "src": "Reuters",
 "kind": "market",
 "seen": "2026-11-28T04:14:05+00:00"
-},
-{
-"id": "e57342219c17",
-"t": "",
-"title": "Fidelidade Said to Aim for Lisbon IPO From Second Half of 2027",
-"url": "https://www.bloomberg.com/news/articles/2026-11-27/fidelidade-said-to-aim-for-lisbon-ipo-from-second-half-of-2027",
-"pub": "2026-11-27T11:25:27+00:00",
-"src": "Bloomberg",
-"kind": "market",
-"seen": "2026-11-27T11:44:37+00:00"
-},
-{
-"id": "7483c3fa872a",
-"t": "",
-"title": "Saudi-led coalition intercepts drone targeting Riyadh",
-"url": "https://www.financialjuice.com/News/9870483/Saudi-led-coalition-intercepts-drone-targeting-Riyadh.aspx?xy=rss",
-"pub": "2026-11-27T11:25:13+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-27T11:44:37+00:00"
-},
-{
-"id": "e98a8296e8f1",
-"t": "",
-"title": "Paragon Advanced Labs Inc (PAVLF.PK) | Stock Price & Latest News - Reuters",
-"url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9SdGRPcFpmd1I1Mk9vMmlGZDZ6TmNoejA2Y0FiSTBEaDZMN0c2bzBHN2lnRi1MVUdQekU3cHRzell2OGNPcEhQUDRablJoakJjc3B6RmRqS0hXYy05bEZhcGxvMldrYzhSNklHMFpJRk8?oc=5",
-"pub": "2026-11-27T11:24:01+00:00",
-"src": "Reuters",
-"kind": "market",
-"seen": "2026-11-27T20:14:46+00:00"
 }
 ]
 }
