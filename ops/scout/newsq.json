@@ -1,6 +1,6 @@
 {
-"updated_kst": "2026-11-28 19:44",
-"rot": 68,
+"updated_kst": "2026-11-28 20:14",
+"rot": 128,
 "how": "Scout(프로그램)이 10분마다 모은 기사 제목·링크와 공시예요. Wren이 공식 출처로 확인한 뒤 회사 화면에 한국어로 반영해요. 본문은 받지 않아요.",
 "sources": {
 "Yahoo Finance": "120종목 확인 · 실패 0",
@@ -10,12 +10,32 @@
 "CNBC": "63건",
 "Bloomberg": "40건",
 "WSJ": "60건",
-"Reuters": "47건",
+"Reuters": "100건",
 "FinancialJuice": "100건",
 "SEC EDGAR": "실패 HTTPError",
 "Fox Business": "50건"
 },
 "items": [
+{
+"id": "a0e639a27954",
+"t": "NVDA",
+"title": "Working and Claiming Social Security in 2027? 2 Ways You Could Lose Some of Your Checks.",
+"url": "https://www.fool.com/retirement/2026/11/28/working-and-claiming-social-security-in-2027-2-ways-you-could-lose-some-of-your-checks/",
+"pub": "2026-11-28T10:50:02+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-28T11:14:21+00:00"
+},
+{
+"id": "a890280ecc70",
+"t": "NVDA",
+"title": "$1,000 Invested in Berkshire Hathaway Stock 10 Years Ago Is Worth About $3,650. Where Will It Be in 2036?",
+"url": "https://www.fool.com/investing/2026/11/28/1000-invested-in-berkshire-hathaway-brkb-stock-10/",
+"pub": "2026-11-28T10:50:00+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-28T11:14:21+00:00"
+},
 {
 "id": "58d897f0b9d9",
 "t": "NVDA",
@@ -45,6 +65,16 @@
 "src": "Yahoo Finance",
 "kind": "news",
 "seen": "2026-11-28T10:44:36+00:00"
+},
+{
+"id": "44ae5e93a976",
+"t": "UNH",
+"title": "UnitedHealth (UNH) Stock Still Looks Like A Bargain Despite CMS Rule Fears",
+"url": "https://finance.yahoo.com/healthcare/articles/unitedhealth-unh-stock-still-looks-100808350.html",
+"pub": "2026-11-28T10:08:08+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-28T11:14:21+00:00"
 },
 {
 "id": "fda63cdf8185",
@@ -175,6 +205,26 @@
 "src": "Yahoo Finance",
 "kind": "news",
 "seen": "2026-11-28T09:44:45+00:00"
+},
+{
+"id": "6d8ebc5d0c46",
+"t": "CRM",
+"title": "Is Erste Group Wrong to Give Up on Salesforce? Wall Street Still Sees $282",
+"url": "https://www.tikr.com/blog/is-erste-group-wrong-to-give-up-on-salesforce-wall-street-still-sees-282",
+"pub": "2026-11-28T07:51:25+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-28T11:14:21+00:00"
+},
+{
+"id": "4b65092a29ac",
+"t": "NVDA",
+"title": "Not Good: Nvidia Chips Turn Up at China Site Tied to Alice Huang. Its AA Rating Is at Risk",
+"url": "https://www.tikr.com/blog/not-good-nvidia-chips-turn-up-at-china-site-tied-to-alice-huang-its-aa-rating-is-at-risk",
+"pub": "2026-11-28T07:50:16+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-28T11:14:21+00:00"
 },
 {
 "id": "b4cb48aaed07",
@@ -7969,54 +8019,14 @@
 "seen": "2026-11-27T13:15:35+00:00"
 },
 {
-"id": "5da503955ecd",
-"t": "MU",
-"title": "Micron's Higher FY27 CapEx: Can Supply Security Boost Its Growth Further?",
-"url": "https://finance.yahoo.com/markets/stocks/articles/microns-higher-fy27-capex-supply-105500633.html",
-"pub": "2026-11-27T10:55:00+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-27T12:06:59+00:00"
-},
-{
-"id": "f71d6d999ebc",
-"t": "NVDA",
-"title": "Singapore Reportedly In Talks With US To Retain Advanced AI Chip Access As Washington Tightens Export Restrictions",
-"url": "https://stocktwits.com/news-articles/markets/equity/singapore-reportedly-in-talks-with-us-to-retain-advanced-ai-chip-access-as-washington-tightens-export-restrictions/cNbCpMoR9No",
-"pub": "2026-11-27T10:54:14+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-27T11:03:19+00:00"
-},
-{
-"id": "d144f077ce6f",
-"t": "AVGO",
-"title": "NVIDIA's AI Cloud Revenues Nearly Triple: Can NVDA Keep the Pace Ahead?",
-"url": "https://finance.yahoo.com/technology/ai/articles/nvidias-ai-cloud-revenues-nearly-105300318.html",
-"pub": "2026-11-27T10:53:00+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-27T12:06:59+00:00"
-},
-{
-"id": "c66e4ff9ec9b",
-"t": "NVDA",
-"title": "Warren Buffett Wrote in February 2009 That He Buys Stocks Like Socks, When They're Marked Down. The S&P 500 Gained 50% During the Next Year.",
-"url": "https://www.fool.com/investing/2026/11/27/warren-buffett-wrote-in-february-2009-that-he-buys-stocks-like-socks-when-they-re-marked-down-the-s-and-p-500-gained-50-over-the-next-year/",
-"pub": "2026-11-27T10:50:02+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-27T11:03:19+00:00"
-},
-{
-"id": "8ec154e3a649",
-"t": "GILD",
-"title": "Hetero starts lenacapavir rollout for HIV prevention in Africa",
-"url": "https://www.hospitalmanagement.net/news/hetero-generic-lenacapavir-rollout-hiv-africa/",
-"pub": "2026-11-27T10:46:05+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-27T11:03:19+00:00"
+"id": "5e2331412315",
+"t": "",
+"title": "Zimbabwe Cuts Rate to 25%, Keeps World’s Highest Real Yield",
+"url": "https://www.bloomberg.com/news/articles/2026-11-28/zimbabwe-cuts-rate-to-25-keeps-world-s-highest-real-yield",
+"pub": "2026-11-28T10:41:34+00:00",
+"src": "Bloomberg",
+"kind": "market",
+"seen": "2026-11-28T11:14:21+00:00"
 },
 {
 "id": "7b894838f703",
@@ -8369,6 +8379,16 @@
 "seen": "2026-11-28T08:44:41+00:00"
 },
 {
+"id": "1cbea8faf94d",
+"t": "",
+"title": "TKSNF.PQ - | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1temM4bWM5NzBYZkhXd2lFSHFzN0pPMDdXT1hCUVhfM19sNXVjcVpkbWZkcUdNM1BVakZ0MkQ2M3JiSk8teHVCcndCYTVhYmVfeHlCOEZYbExFUG56ajI4OUJZdklvOEVXWTFBbzBMVkM?oc=5",
+"pub": "2026-11-28T03:29:39+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-28T11:14:21+00:00"
+},
+{
 "id": "4298ecfefcc9",
 "t": "",
 "title": "TMEN.PK - Reuters",
@@ -8539,6 +8559,16 @@
 "seen": "2026-11-28T07:14:27+00:00"
 },
 {
+"id": "3a99208f22d4",
+"t": "",
+"title": "TAVHL.IS - Reuters",
+"url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5VTVZySjIzTHBsTnl2ekZMVkVfY2xXZFhqSDAxN2RieGZtNVpyZUhLcU14LXFDV1BZTThndDJhajhiNV9LYjM4eWJHRld2VWc2Z0htZmVhaDVtOTBnaEJLM3BfS00wc0d1dEhR?oc=5",
+"pub": "2026-11-28T02:04:13+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-28T11:14:21+00:00"
+},
+{
 "id": "6fa5c185ac26",
 "t": "",
 "title": "Wall Street stages major comeback during Thanksgiving-shortened trading week",
@@ -8637,6 +8667,16 @@
 "src": "Reuters",
 "kind": "market",
 "seen": "2026-11-28T05:44:27+00:00"
+},
+{
+"id": "feb7f0668deb",
+"t": "",
+"title": "CVALF.PQ - | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE95Zi1XdDd0LTVJOHhXTThqcmRIOUU0eG1zMVFybDVfMHdzZ2FLSGpVN1lQeWZxa18tY0VBUGxQUE9Yc2pPU3U2MkZmQVVfQnFseWViOU1jM0VKSWQ0VERrNFFwMk5IbXhBNGo4LTN6VXd2MjRZajlscw?oc=5",
+"pub": "2026-11-28T00:52:43+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-28T11:14:21+00:00"
 },
 {
 "id": "c1fb61835cb7",
@@ -10977,46 +11017,6 @@
 "src": "Reuters",
 "kind": "market",
 "seen": "2026-11-28T05:14:22+00:00"
-},
-{
-"id": "8c154b946ed9",
-"t": "",
-"title": "Two Chinese firms installed the high-end NVIDIA Blackwell GPUs at the Shanghai site $NVDA",
-"url": "https://www.financialjuice.com/News/9870527/Two-Chinese-firms-installed-the-high-end-NVIDIA-Blackwell-GPUs-at-the-Shanghai-site-NVDA.aspx?xy=rss",
-"pub": "2026-11-27T11:47:10+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-27T12:06:59+00:00"
-},
-{
-"id": "c820df1860b6",
-"t": "",
-"title": "Northern Star Resources Ltd (NST.AX) | Stock Price & Latest News - Reuters",
-"url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBvMFpsQjllODRITE8xSHBlWmpzb29lMjJfYTRob3VsV0NReEhhbnJoWnYwUmltdEpiMkxSc3FRczk2UWEyMFVsVUNOdlQ3R1FkVS1JRG84U0V2VXQzX1E?oc=5",
-"pub": "2026-11-27T11:41:27+00:00",
-"src": "Reuters",
-"kind": "market",
-"seen": "2026-11-27T14:14:40+00:00"
-},
-{
-"id": "0736a6da9519",
-"t": "",
-"title": "Stocks Poised to End Week Strong as Investors Take Break From AI Jitters",
-"url": "https://www.wsj.com/finance/stocks/stocks-poised-to-end-week-strong-as-investors-take-break-from-ai-jitters-ce6b2846",
-"pub": "2026-11-27T11:35:00+00:00",
-"src": "WSJ",
-"kind": "market",
-"seen": "2026-11-27T11:44:37+00:00"
-},
-{
-"id": "2d62af57514a",
-"t": "",
-"title": "Deutsche Boerse’s €5.3 billion Allfunds Deal Gets EU Approval",
-"url": "https://www.bloomberg.com/news/articles/2026-11-27/deutsche-boerse-s-5-3-billion-allfunds-deal-gets-eu-approval",
-"pub": "2026-11-27T11:30:00+00:00",
-"src": "Bloomberg",
-"kind": "market",
-"seen": "2026-11-27T11:44:37+00:00"
 }
 ]
 }
