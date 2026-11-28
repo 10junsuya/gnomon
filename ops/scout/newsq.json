@@ -1,21 +1,51 @@
 {
-"updated_kst": "2026-11-28 09:14",
-"rot": 58,
+"updated_kst": "2026-11-28 09:34",
+"rot": 118,
 "how": "Scout(프로그램)이 10분마다 모은 기사 제목·링크와 공시예요. Wren이 공식 출처로 확인한 뒤 회사 화면에 한국어로 반영해요. 본문은 받지 않아요.",
 "sources": {
 "Yahoo Finance": "120종목 확인 · 실패 0",
-"GlobeNewswire": "실패 HTTPError",
+"GlobeNewswire": "0건",
 "PR Newswire": "0건",
 "Business Wire": "0건",
 "CNBC": "63건",
 "Bloomberg": "40건",
 "WSJ": "60건",
-"Reuters": "54건",
+"Reuters": "55건",
 "FinancialJuice": "100건",
 "SEC EDGAR": "실패 HTTPError",
 "Fox Business": "50건"
 },
 "items": [
+{
+"id": "40a592b2b394",
+"t": "WMT",
+"title": "Walmart bets shoppers won't notice its holiday price increases",
+"url": "https://www.thestreet.com/retail/walmart-quietly-cancels-thousands-of-discounts-as-the-holidays-approach",
+"pub": "2026-11-28T00:17:00+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-28T00:34:19+00:00"
+},
+{
+"id": "5ad38c4bc779",
+"t": "COST",
+"title": "Black Friday Push Could Be A Big Moment For Costco Stock (COST)",
+"url": "https://finance.yahoo.com/markets/stocks/articles/black-friday-push-could-big-001331089.html",
+"pub": "2026-11-28T00:13:31+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-28T00:34:19+00:00"
+},
+{
+"id": "8cd9f5c56692",
+"t": "TSLA",
+"title": "Zero To Sixty: Tesla Cybercab Fleet Tops 1,000 In Texas, Lucid Starts Fully Driverless Tests And Chinese EV Maker Posts Stronger Margins",
+"url": "https://stocktwits.com/news-articles/markets/equity/zero-to-sixty-tesla-cybercab-fleet-tops-1-000-in-texas-lucid-starts-fully-driverless-tests-and-chinese-ev-maker-posts-stronger-margins/cNRRKv9R9Vl",
+"pub": "2026-11-28T00:12:27+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-28T00:34:19+00:00"
+},
 {
 "id": "a49f870a065b",
 "t": "MA",
@@ -225,6 +255,16 @@
 "src": "Yahoo Finance",
 "kind": "news",
 "seen": "2026-11-27T21:44:58+00:00"
+},
+{
+"id": "bd61fd412baf",
+"t": "NVDA",
+"title": "Nvidia chips on sale for $3M in China — as Jensen Huang scandal and US crackdown chokes supply",
+"url": "https://nypost.com/2026/11/27/tech/chinese-ads-selling-banned-nvidia-servers-for-3m-as-jensen-huang-scandal-chokes-supply-market-is-crazy/",
+"pub": "2026-11-27T21:18:40+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-28T00:34:19+00:00"
 },
 {
 "id": "4cbe87f19dda",
@@ -1477,6 +1517,16 @@
 "seen": "2026-11-27T18:15:20+00:00"
 },
 {
+"id": "376d172944f2",
+"t": "UNH",
+"title": "Is UnitedHealth Group Stock Underperforming the S&P 500?",
+"url": "https://www.barchart.com/story/news/9035771/is-unitedhealth-group-stock-underperforming-the-s-p-500",
+"pub": "2026-11-27T18:00:52+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-28T00:34:19+00:00"
+},
+{
 "id": "42883cd00514",
 "t": "GOOGL",
 "title": "Franklin Templeton Flags Hidden Risk in S&P 500 Investing",
@@ -1545,6 +1595,16 @@
 "src": "Yahoo Finance",
 "kind": "news",
 "seen": "2026-11-27T18:15:20+00:00"
+},
+{
+"id": "3ab65b8f0566",
+"t": "V",
+"title": "Visa Stock: Is V Outperforming the Financial Sector?",
+"url": "https://www.barchart.com/story/news/9035667/visa-stock-is-v-outperforming-the-financial-sector",
+"pub": "2026-11-27T17:51:05+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-28T00:34:19+00:00"
 },
 {
 "id": "b5fc78629575",
@@ -1625,6 +1685,16 @@
 "src": "Yahoo Finance",
 "kind": "news",
 "seen": "2026-11-27T18:15:20+00:00"
+},
+{
+"id": "88edcb651e7b",
+"t": "WMT",
+"title": "Is Walmart Stock Outperforming the Dow?",
+"url": "https://www.barchart.com/story/news/9035581/is-walmart-stock-outperforming-the-dow",
+"pub": "2026-11-27T17:42:44+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-28T00:34:19+00:00"
 },
 {
 "id": "ce1509963a2c",
@@ -2415,6 +2485,16 @@
 "src": "Yahoo Finance",
 "kind": "news",
 "seen": "2026-11-27T16:44:40+00:00"
+},
+{
+"id": "2302ca4beec1",
+"t": "SKHY",
+"title": "This Beaten-Down AI Stock Looks Dirt Cheap at 4 Times Earnings With 130% Upside",
+"url": "https://www.barchart.com/story/news/9034648/this-beaten-down-ai-stock-looks-dirt-cheap-at-4-times-earnings-with-130-upside",
+"pub": "2026-11-27T16:30:04+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-28T00:34:19+00:00"
 },
 {
 "id": "bf92f405e1a7",
@@ -7942,86 +8022,6 @@
 "src": "Yahoo Finance",
 "kind": "news",
 "seen": "2026-11-27T10:07:06+00:00"
-},
-{
-"id": "4db3b9ea2ada",
-"t": "LMT",
-"title": "Pentagon Urges Detroit to Spread Its Wings and Fly Into the Drone Biz",
-"url": "https://www.thedailyupside.com/industries/industrials/pentagon-urges-detroit-to-spread-its-wings-and-fly-into-the-drone-biz/",
-"pub": "2026-11-27T05:01:00+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-27T18:44:17+00:00"
-},
-{
-"id": "6a66e3fba565",
-"t": "SPCX",
-"title": "Musk Says SpaceX Leads the World “by an Order of Magnitude.” Here’s What That Means for Orbital Compute",
-"url": "https://www.tikr.com/blog/musk-says-spacex-leads-the-world-by-an-order-of-magnitude-heres-what-that-means-for-orbital-compute",
-"pub": "2026-11-27T04:25:06+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-27T10:44:09+00:00"
-},
-{
-"id": "5893b6184ee8",
-"t": "ON",
-"title": "ACM Research And 2 More Automation Stocks To Watch",
-"url": "https://finance.yahoo.com/technology/ai/articles/acm-research-2-more-automation-042446667.html",
-"pub": "2026-11-27T04:24:46+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-27T06:20:52+00:00"
-},
-{
-"id": "1aed9da552cd",
-"t": "ADI",
-"title": "Analog Devices (ADI) Stock Fair Value Moves Lower After Mixed Analyst Target Revisions",
-"url": "https://finance.yahoo.com/markets/stocks/articles/analog-devices-adi-stock-fair-042320733.html",
-"pub": "2026-11-27T04:23:20+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-27T07:51:21+00:00"
-},
-{
-"id": "a3d19ecbd716",
-"t": "NVDA",
-"title": "Nvidia (NVDA) Stock Fair Value Falls After Analysts Reassess Leadership And Regulatory Risks",
-"url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-nvda-stock-fair-value-042301514.html",
-"pub": "2026-11-27T04:23:01+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-27T05:12:20+00:00"
-},
-{
-"id": "e5da62bf2b3d",
-"t": "MO",
-"title": "Altria Group (MO) Weighs All Cash Tobacco Deal That Could Reshape Competition",
-"url": "https://finance.yahoo.com/markets/stocks/articles/altria-group-mo-weighs-cash-042154092.html",
-"pub": "2026-11-27T04:21:54+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-27T05:12:20+00:00"
-},
-{
-"id": "7ee2e75d2230",
-"t": "NVDA",
-"title": "Asian stocks rise as tech rebound, easing U.S. trade concerns lift sentiment",
-"url": "https://finance.yahoo.com/markets/world-indices/articles/asian-stocks-rise-tech-rebound-041727436.html",
-"pub": "2026-11-27T04:17:27+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-27T05:12:20+00:00"
-},
-{
-"id": "4f31a8c1bf03",
-"t": "NVDA",
-"title": "Singapore yet to confirm if Nvidia has halted advanced chip shipments- deputy PM",
-"url": "https://finance.yahoo.com/technology/articles/singapore-yet-confirm-nvidia-halted-041419330.html",
-"pub": "2026-11-27T04:14:19+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-27T05:12:20+00:00"
 },
 {
 "id": "33924f5dc9b5",
