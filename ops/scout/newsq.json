@@ -1,21 +1,81 @@
 {
-"updated_kst": "2026-11-28 21:45",
-"rot": 10,
+"updated_kst": "2026-11-28 22:14",
+"rot": 70,
 "how": "Scout(프로그램)이 10분마다 모은 기사 제목·링크와 공시예요. Wren이 공식 출처로 확인한 뒤 회사 화면에 한국어로 반영해요. 본문은 받지 않아요.",
 "sources": {
 "Yahoo Finance": "120종목 확인 · 실패 0",
-"GlobeNewswire": "0건",
+"GlobeNewswire": "실패 HTTPError",
 "PR Newswire": "0건",
 "Business Wire": "0건",
 "CNBC": "63건",
 "Bloomberg": "40건",
 "WSJ": "60건",
-"Reuters": "49건",
+"Reuters": "100건",
 "FinancialJuice": "100건",
 "SEC EDGAR": "실패 HTTPError",
 "Fox Business": "50건"
 },
 "items": [
+{
+"id": "0a1ce3033b5f",
+"t": "NVDA",
+"title": "The Smartest Way to Turn $5,000 Into Growing Dividend Income in 2027",
+"url": "https://www.fool.com/investing/2026/11/28/the-smartest-way-to-turn-5000-into-growing-dividend-income-in-2027/",
+"pub": "2026-11-28T13:10:02+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-28T13:14:06+00:00"
+},
+{
+"id": "8962b04b9922",
+"t": "TSLA",
+"title": "Dow Jones Futures: Tesla Leads 7 Buys After Bullish Market Move; Nvidia's Jensen Huang On Capitol Hill",
+"url": "https://finance.yahoo.com/m/5b917298-e5b5-3d87-b1fa-f7cad345af64/dow-jones-futures%3A-tesla.html",
+"pub": "2026-11-28T13:02:31+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-28T13:14:06+00:00"
+},
+{
+"id": "4efb55487c9c",
+"t": "NVDA",
+"title": "If You'd Invested $10,000 in Walmart Stock 20 Years Ago, Here's How Much You'd Have Today",
+"url": "https://www.fool.com/investing/2026/11/28/if-youd-invested-10000-in-walmart-stock-20-years-ago-heres-how-much-you-d-have-today/",
+"pub": "2026-11-28T13:01:02+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-28T13:14:06+00:00"
+},
+{
+"id": "7b65cd6ec293",
+"t": "AAPL",
+"title": "Apple, Amgen Lead 5 Dow Jones Stocks Near Buy Points",
+"url": "https://finance.yahoo.com/m/b0aceaba-ba67-31c1-ae38-35e1ddf65e44/apple%2C-amgen-lead-5-dow-jones.html",
+"pub": "2026-11-28T13:00:43+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-28T13:14:06+00:00"
+},
+{
+"id": "da0b10bd7da9",
+"t": "AAPL",
+"title": "OpenAI Countersues Apple, Accusing It of “Coercing and Threatening” Suppliers",
+"url": "https://247wallst.com/investing/2026/11/28/openai-countersues-apple-accusing-it-of-coercing-and-threatening-suppliers/",
+"pub": "2026-11-28T12:57:41+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-28T13:14:06+00:00"
+},
+{
+"id": "e6a2af47bc4e",
+"t": "GOOGL",
+"title": "3 Tech Stocks to Buy and Hold for 10 Years",
+"url": "https://www.fool.com/investing/2026/11/28/3-tech-stocks-to-buy-and-hold-for-10-years/",
+"pub": "2026-11-28T12:55:02+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-28T13:14:06+00:00"
+},
 {
 "id": "e20168fbc36b",
 "t": "NVDA",
@@ -235,6 +295,16 @@
 "src": "Yahoo Finance",
 "kind": "news",
 "seen": "2026-11-28T11:44:19+00:00"
+},
+{
+"id": "c51047f78f44",
+"t": "SPCX",
+"title": "The IPO Is the Exit, Not the Entry: How Private-Market Investing Captures Real Growth Before a Company Goes Public",
+"url": "https://www.kiplinger.com/investing/ipos/private-market-investing-the-ipo-is-the-exit-not-the-entry",
+"pub": "2026-11-28T11:00:00+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-28T13:14:06+00:00"
 },
 {
 "id": "a0e639a27954",
@@ -1625,6 +1695,16 @@
 "src": "Yahoo Finance",
 "kind": "news",
 "seen": "2026-11-27T20:41:49+00:00"
+},
+{
+"id": "7fe017088cc8",
+"t": "TSLA",
+"title": "These stocks soared the most during a wild week highlighted by Huang’s return to Nvidia",
+"url": "https://www.marketwatch.com/story/these-stocks-soared-the-most-during-a-wild-week-highlighted-by-huangs-return-to-nvidia-578b3f9a",
+"pub": "2026-11-27T20:16:00+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-28T13:14:06+00:00"
 },
 {
 "id": "66a2448b0688",
@@ -7939,84 +8019,14 @@
 "seen": "2026-11-27T11:44:37+00:00"
 },
 {
-"id": "0afbdef1b67e",
-"t": "GOOGL",
-"title": "What iShares Core S&P 500 ETF (IVV) Bought: Apple Leads on Nov. 25",
-"url": "https://finance.yahoo.com/markets/stocks/articles/ishares-core-p-500-etf-110351909.html",
-"pub": "2026-11-27T11:03:51+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-27T11:44:37+00:00"
-},
-{
-"id": "ead49edf284a",
-"t": "AVGO",
-"title": "iShares PHLX SOX Semiconductor (SOXX) Sells AMD and Broadcom on Nov. 25",
-"url": "https://finance.yahoo.com/markets/stocks/articles/ishares-phlx-sox-semiconductor-soxx-110345625.html",
-"pub": "2026-11-27T11:03:45+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-27T11:44:37+00:00"
-},
-{
-"id": "3b15a6dcdb68",
-"t": "ACN",
-"title": "Invesco S&P 500 Equal Weight (RSP) Buys $2.7 Million More Moderna on Nov. 25",
-"url": "https://finance.yahoo.com/markets/stocks/articles/invesco-p-500-equal-weight-110341275.html",
-"pub": "2026-11-27T11:03:41+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-27T11:44:37+00:00"
-},
-{
-"id": "c2f9f38ca3cb",
-"t": "TSLA",
-"title": "What INVESCO QQQ Trust (QQQ) Bought: Apple Leads on Wednesday",
-"url": "https://finance.yahoo.com/markets/stocks/articles/invesco-qqq-trust-qqq-bought-110329959.html",
-"pub": "2026-11-27T11:03:29+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-27T11:44:37+00:00"
-},
-{
-"id": "4c61507384bf",
-"t": "VOO",
-"title": "The 3 ETFs to Add at 52 When Your Only Investment Is the Company Stock You Buy Every Paycheck",
-"url": "https://247wallst.com/investing/etf/2026/11/27/the-3-etfs-to-add-at-52-when-your-only-investment-is-the-company-stock-you-buy-every-paycheck/",
-"pub": "2026-11-27T11:03:21+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-27T11:14:03+00:00"
-},
-{
-"id": "095c1bf9f2ad",
-"t": "ON",
-"title": "ETFs Are Net Sellers of ON Semiconductor (ON) on Nov. 25",
-"url": "https://finance.yahoo.com/markets/stocks/articles/etfs-net-sellers-semiconductor-nov-110313250.html",
-"pub": "2026-11-27T11:03:13+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-27T12:06:59+00:00"
-},
-{
-"id": "c4f57dccbcad",
-"t": "FCX",
-"title": "ETFs Are Net Sellers of Freeport-McMoRan (FCX) on Nov. 25",
-"url": "https://finance.yahoo.com/markets/stocks/articles/etfs-net-sellers-freeport-mcmoran-110310046.html",
-"pub": "2026-11-27T11:03:10+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-27T12:06:59+00:00"
-},
-{
-"id": "7205709b052d",
-"t": "ACN",
-"title": "ETFs Are Net Sellers of Accenture (ACN) on Wednesday",
-"url": "https://finance.yahoo.com/markets/stocks/articles/etfs-net-sellers-accenture-acn-110302708.html",
-"pub": "2026-11-27T11:03:02+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-27T11:44:37+00:00"
+"id": "89df906a8992",
+"t": "",
+"title": "Higher Prices Test Holiday Shoppers",
+"url": "https://www.bloomberg.com/news/videos/2026-11-28/higher-prices-test-holiday-shoppers-video",
+"pub": "2026-11-28T13:04:58+00:00",
+"src": "Bloomberg",
+"kind": "market",
+"seen": "2026-11-28T13:14:06+00:00"
 },
 {
 "id": "5db79f3b1c74",
@@ -8107,6 +8117,16 @@
 "src": "Bloomberg",
 "kind": "market",
 "seen": "2026-11-28T10:26:33+00:00"
+},
+{
+"id": "7c322ea4cbca",
+"t": "",
+"title": "Invesco EUR AT1 CoCo Bond UCITS Dist ETF (ATE1.DE) | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9IRzRBS3J4R0JiWGQ2VUNOTWotNi1rSkJPOUlxQ1h1U05Od3lCUE95emI1VFRVdkhLN2lYM2VVWk9PM3ZiWmwwaUEwTUpGVkIyX1phQTVNdjNqNFNKNk9WTGVGcEk?oc=5",
+"pub": "2026-11-28T10:10:49+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-28T13:14:06+00:00"
 },
 {
 "id": "70dac770c13d",
@@ -8229,6 +8249,16 @@
 "seen": "2026-11-28T08:14:38+00:00"
 },
 {
+"id": "29d5a2726505",
+"t": "",
+"title": "ALNSC.PA - Reuters",
+"url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNWjVvcVpkS1ZWbDluZG1RV1dTT1RjTjR1NXUzdG13NHNGR0FwMHEyejh4U0lSVEljM1AydjExTl9RUmFoTHNvNU5KUFpSUkFycEp0azBObzBhRTFwTEFWaUNXUFlRTmFVdG5aVkVaeEFfTFJtbFp0anBwY3ByZF9tSHR5NXZEZzB5Vm54cWhBUG83UQ?oc=5",
+"pub": "2026-11-28T07:40:03+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-28T13:14:06+00:00"
+},
+{
 "id": "52a6564d6752",
 "t": "",
 "title": "AD8.F - | Stock Price & Latest News - Reuters",
@@ -8329,6 +8359,26 @@
 "seen": "2026-11-28T07:44:35+00:00"
 },
 {
+"id": "23c2bee29ed5",
+"t": "",
+"title": "Token Corp (TKNCF.PK) | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB4emtyWUF0a25SU0xpc3RJRFdoTy1aWnBkeVVob2ZjNnJaVjVVZzRfbTcwQnFBbkRCX0lSSHJTMldQVGY3T2lFeGhETUNqYUoxXzN3QmpfSVZIQnV1ejZZMw?oc=5",
+"pub": "2026-11-28T05:42:05+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-28T13:14:06+00:00"
+},
+{
+"id": "3eeda7a8d00f",
+"t": "",
+"title": "CreateAl Holdings Inc (TSPH.PK) | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5MQXNTQWV5cjlvVGF5eXBHUHN2SUNZcHFEMUgyQVBMZE5jdkZENF9KYVV5emMtb2dmdm1CVERHSHZxUmQ5MUJ2eGtSOENxa1otZG4xY1BOdXlXcmdSMWx3bVdySXhlUlVHUmJfRjJRWQ?oc=5",
+"pub": "2026-11-28T05:35:09+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-28T13:14:06+00:00"
+},
+{
 "id": "d0113140e4e2",
 "t": "",
 "title": "002226.SZh - | Stock Price & Latest News - Reuters",
@@ -8357,6 +8407,16 @@
 "src": "Reuters",
 "kind": "market",
 "seen": "2026-11-28T07:44:35+00:00"
+},
+{
+"id": "bb990beec832",
+"t": "",
+"title": "Stadio Holdings Ltd (0JX.F) | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9FYk04ZzNmcEVwTjVrUi04b1ppa2xhdTVIcmo0SjJQd04tVDd4ME1PRkJWcTB6eGFfTFRRS19GYlI5bGlZeXprRzFNZ2Y1YnlOTzZyTXlubDU2M3FKUk9Tanp6YXZRaWE1OHc?oc=5",
+"pub": "2026-11-28T04:55:23+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-28T13:14:06+00:00"
 },
 {
 "id": "7fd80f38ef95",
@@ -8447,6 +8507,16 @@
 "src": "Reuters",
 "kind": "market",
 "seen": "2026-11-28T08:44:41+00:00"
+},
+{
+"id": "cc7870de3218",
+"t": "",
+"title": "COLD.A - Reuters",
+"url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQcUJPYi10N3hvbjZFX21aRU1VZnA0dHpBVkJ2RHoxMWJBbUNwUklFUjFDWXVGSTFzbVJMLXktZXhDQ3VUSFZ6a3dWcV9ZMmswb1c0aDRtcmgxM2phbVBhNTRua1NwVTJwQkt1dFhkOFdGMEMwb2N6eldZMXJPVkdJNzR1SEU?oc=5",
+"pub": "2026-11-28T03:57:18+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-28T13:14:06+00:00"
 },
 {
 "id": "505d4ecc2982",
@@ -8719,6 +8789,16 @@
 "seen": "2026-11-28T08:44:41+00:00"
 },
 {
+"id": "54be88383e21",
+"t": "",
+"title": "2466stat.TW - Reuters",
+"url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOMXVWMTR6TmRCWmZVQVhmRTRxbUdnbkVHdmFPWDJuVFEwV1dvMUNZOW9sT0poX3gzYjB0Z1lPZlNxLUNRMjkyWWMtYUN1Uk00bllXbjRCeGxPWjZQVEJ0OUhlUG42eVBaenlDQU9TYXZWZW1vUjRqRG0zSkZ5cHUxX0t3MVAzU2U2Qkkw?oc=5",
+"pub": "2026-11-28T01:50:41+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-28T13:14:06+00:00"
+},
+{
 "id": "9f586a8981d5",
 "t": "",
 "title": "7823.JAX - | Stock Price & Latest News - Reuters",
@@ -8947,6 +9027,16 @@
 "src": "FinancialJuice",
 "kind": "market",
 "seen": "2026-11-27T22:43:58+00:00"
+},
+{
+"id": "bb134507fc3a",
+"t": "",
+"title": "Explainer: Why EU leaders are struggling to Le Pen-proof the bloc’s €1.6 trillion budget - Reuters",
+"url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPOXNCT24ycjVGZVlCV1Q4bnFlalVUNXhHc0xLVzlFdkJtNGhZM2NXSmpyWnZXU2Q2ZWRPcXRza2tZM1ZPMGVMWjM2V2U5NHBBYWdSSFZLb29odWtqZW1SVXZNZDAxUVdLUVl6X2FiYTMzZzFqTHhaLW51X0s0TnJPVk45Rmd0Um5UdnVfdXRkWGR1UGNtY3h6a2JsNFhfZTd5N25VVWRGdE5iVUpkXzhQWkZPRkc5UDFjSzhvRmxNc1M?oc=5",
+"pub": "2026-11-27T22:43:41+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-28T13:14:06+00:00"
 },
 {
 "id": "b3d468f93dfc",
@@ -10139,6 +10229,16 @@
 "seen": "2026-11-27T20:14:46+00:00"
 },
 {
+"id": "6cffdffed478",
+"t": "",
+"title": "Explainer: What is China's 'national team' and can it stop the stock market slide? - Reuters",
+"url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPYkEtbWk2dlI5cGMzU1dJM09xeERqNWMzbVlHdVlqQzRwMFFkOVotb0lrU3hkXzZjTjZ2dndJTEN3eTI4c0Y1ZEN1VV9feW01ZlkxSXlWVmVyUVNKc3RNNmdTOHR3bXVDZTNjQktKdWthaExOazJxeU40SGFwTy1zMEtlVXJsZlI3eThOLUk5QlZGZWpVLU9JeXYtRXgxWGJTQmFYZU9ScFFxNW13RU1Z?oc=5",
+"pub": "2026-11-27T15:52:25+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-28T13:14:06+00:00"
+},
+{
 "id": "77b7e54808cb",
 "t": "",
 "title": "HARta.AX - | Stock Price & Latest News - Reuters",
@@ -10917,106 +11017,6 @@
 "src": "Reuters",
 "kind": "market",
 "seen": "2026-11-27T18:44:17+00:00"
-},
-{
-"id": "9f880b80e4b8",
-"t": "",
-"title": "Secured overnight financing rate 3.95% November 25th vs 3.94% November 24th",
-"url": "https://www.financialjuice.com/News/9870586/Secured-overnight-financing-rate-395-November-25th-vs-394-November-24th.aspx?xy=rss",
-"pub": "2026-11-27T12:59:34+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-27T13:15:35+00:00"
-},
-{
-"id": "a00d46e48b65",
-"t": "",
-"title": "Spain's 12-month EU-harmonised inflation falls to 4.1% in November - Reuters",
-"url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxObXhfaWZjV2tnUWppbUhLQUg1eFZFc2V0cnVIelk1Q0Uwd3NpMG9DU0dWTUFnenR6aGNNa3k4TU5RelVlTkZKVFphLS1GQ0c2M0NjYUctc0RPWHp6Y1N5RGRNQy1nb05LQlVsWWQ0ZGpvMVRrT3ZyVHhwc2dveWNVWkEtb3JOZU9PWFFSUlF2Q2lHSDJZU3M1N0xaX0VzdVBxNEtsSWxVY3U5dl9P?oc=5",
-"pub": "2026-11-27T12:58:43+00:00",
-"src": "Reuters",
-"kind": "market",
-"seen": "2026-11-28T08:14:38+00:00"
-},
-{
-"id": "e07a31faad42",
-"t": "",
-"title": "4112JPY.JPx - Reuters",
-"url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5fdlUtQ3ZjYm9TN2hzbzg3a0RuSGFnYVhZUnJzM3VPeVg3ZGFIRm1ONjNBYWNTWW51TUZsTVBwTkJkMXpKemtHNHFqMVhOaTVwellOWUVFSGlvaVZBbEwzTEsxU2JiSUR2YVRqaEw2cw?oc=5",
-"pub": "2026-11-27T12:53:51+00:00",
-"src": "Reuters",
-"kind": "market",
-"seen": "2026-11-27T16:44:40+00:00"
-},
-{
-"id": "a1216b7d2d38",
-"t": "",
-"title": "Week Ahead for FX, Bonds: Key Labor Data in Focus Ahead of Fed’s December Rate Decision",
-"url": "https://www.wsj.com/finance/investing/week-ahead-for-fx-bonds-key-labor-data-in-focus-ahead-of-feds-december-rate-decision-52cad754",
-"pub": "2026-11-27T12:51:00+00:00",
-"src": "WSJ",
-"kind": "market",
-"seen": "2026-11-27T13:15:35+00:00"
-},
-{
-"id": "0db850df8aee",
-"t": "",
-"title": "Partners Value Investments LP (PVFa.V) | Stock Price & Latest News - Reuters",
-"url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBfUWZXY19fWE1xQk1OM1NVQVVVUXFvNkhXOW5OQ3ZGN1FWTzFxbFNkdFN2czBTZHNqNHhxeHVxOVJRVzFBaEM0VU9kZXFhNl9kRUJzUFZ2b2o3emdGYjdocEYzckt6Zw?oc=5",
-"pub": "2026-11-27T12:49:42+00:00",
-"src": "Reuters",
-"kind": "market",
-"seen": "2026-11-27T18:44:17+00:00"
-},
-{
-"id": "7c8866d6841d",
-"t": "",
-"title": "German unemployment rises more than expected in November - Reuters",
-"url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPbVBlR0Y1YkJleHhUZ3FrVnlZM3gyUHl1a3NqcUlqRFpCUGxhalQ2VzFIVE9MTnlTa2dTajUtLVgyb2RGaTR6ZUZidGY2dDdqM1FaM3VOeUJ0d09FdXNUeUg5YzZJVFU3SmlwTXRndFptalktZGZmSmptQkV5WjJnYVFiRTV5b0I4OWRtOHRFM18yd3ZrcmVVajhESDNMbUkxcWo4dFUtQQ?oc=5",
-"pub": "2026-11-27T12:49:19+00:00",
-"src": "Reuters",
-"kind": "market",
-"seen": "2026-11-28T09:14:13+00:00"
-},
-{
-"id": "1d272a4a2724",
-"t": "",
-"title": "Iraq's oil minister: We are in talks with OPEC to raise Iraq's production ceiling",
-"url": "https://www.financialjuice.com/News/9870585/Iraqs-oil-minister-We-are-in-talks-with-OPEC-to-raise-Iraqs-production-ceiling.aspx?xy=rss",
-"pub": "2026-11-27T12:49:08+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-27T13:15:35+00:00"
-},
-{
-"id": "ad4727745f08",
-"t": "",
-"title": "Allstate Joins Growing List of Companies Hit by Tech Outages",
-"url": "https://www.wsj.com/finance/allstate-joins-growing-list-of-companies-hit-by-tech-outages-77dbb488",
-"pub": "2026-11-27T12:48:00+00:00",
-"src": "WSJ",
-"kind": "market",
-"seen": "2026-11-27T13:15:35+00:00"
-},
-{
-"id": "afc40e35f0a7",
-"t": "",
-"title": "Ofwat Warns Thames Water Rescue Decision Remains Months Away",
-"url": "https://www.bloomberg.com/news/articles/2026-11-27/ofwat-warns-thames-water-rescue-decision-remains-months-away",
-"pub": "2026-11-27T12:47:58+00:00",
-"src": "Bloomberg",
-"kind": "market",
-"seen": "2026-11-27T13:15:35+00:00"
-},
-{
-"id": "67ca0bdb4027",
-"t": "",
-"title": "Iraq's oil minister: Iraq's oil production capacity will increase",
-"url": "https://www.financialjuice.com/News/9870576/Iraqs-oil-minister-Iraqs-oil-production-capacity-will-increase.aspx?xy=rss",
-"pub": "2026-11-27T12:42:07+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-27T12:44:24+00:00"
 }
 ]
 }
