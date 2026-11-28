@@ -1,6 +1,6 @@
 {
-"updated_kst": "2026-11-28 10:44",
-"rot": 119,
+"updated_kst": "2026-11-28 10:59",
+"rot": 0,
 "how": "Scout(프로그램)이 10분마다 모은 기사 제목·링크와 공시예요. Wren이 공식 출처로 확인한 뒤 회사 화면에 한국어로 반영해요. 본문은 받지 않아요.",
 "sources": {
 "Yahoo Finance": "120종목 확인 · 실패 0",
@@ -10,7 +10,7 @@
 "CNBC": "63건",
 "Bloomberg": "40건",
 "WSJ": "60건",
-"Reuters": "100건",
+"Reuters": "51건",
 "FinancialJuice": "100건",
 "SEC EDGAR": "실패 HTTPError",
 "Fox Business": "50건"
@@ -895,6 +895,16 @@
 "src": "Yahoo Finance",
 "kind": "news",
 "seen": "2026-11-27T20:41:49+00:00"
+},
+{
+"id": "712c780d9d31",
+"t": "SPCX",
+"title": "This Anthropic Collar Options Strategy Wins Whether the Stock Goes Up or Down",
+"url": "https://www.barchart.com/story/news/9036689/this-anthropic-collar-options-strategy-wins-whether-the-stock-goes-up-or-down",
+"pub": "2026-11-27T19:34:10+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-28T01:59:52+00:00"
 },
 {
 "id": "64abd66647d3",
@@ -8008,16 +8018,6 @@
 "title": "Kyndryl and Hermes International have been highlighted as Zacks Bull and Bear of the Day",
 "url": "https://finance.yahoo.com/markets/stocks/articles/kyndryl-hermes-international-highlighted-zacks-070900516.html",
 "pub": "2026-11-27T07:09:00+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-27T08:54:02+00:00"
-},
-{
-"id": "6df3e6d093bf",
-"t": "SO",
-"title": "Southern Energy Corp. Announces Restricted Share Award Grant",
-"url": "https://finance.yahoo.com/markets/stocks/articles/southern-energy-corp-announces-restricted-070000047.html",
-"pub": "2026-11-27T07:00:00+00:00",
 "src": "Yahoo Finance",
 "kind": "news",
 "seen": "2026-11-27T08:54:02+00:00"
