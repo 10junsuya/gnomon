@@ -1,6 +1,6 @@
 {
-"updated_kst": "2026-11-29 00:44",
-"rot": 13,
+"updated_kst": "2026-11-29 01:14",
+"rot": 73,
 "how": "Scout(프로그램)이 10분마다 모은 기사 제목·링크와 공시예요. Wren이 공식 출처로 확인한 뒤 회사 화면에 한국어로 반영해요. 본문은 받지 않아요.",
 "sources": {
 "Yahoo Finance": "120종목 확인 · 실패 0",
@@ -8,14 +8,54 @@
 "PR Newswire": "0건",
 "Business Wire": "0건",
 "CNBC": "63건",
-"Bloomberg": "33건",
+"Bloomberg": "32건",
 "WSJ": "60건",
-"Reuters": "100건",
+"Reuters": "41건",
 "FinancialJuice": "100건",
 "SEC EDGAR": "실패 HTTPError",
 "Fox Business": "50건"
 },
 "items": [
+{
+"id": "18961b0c4ce1",
+"t": "RKLB",
+"title": "Firefly Aerospace vs. Rocket Lab: Which Space Infrastructure Stock Is a Better Buy for 2027?",
+"url": "https://www.fool.com/coverage/better-buy/2026/11/28/firefly-aerospace-vs-rocket-lab-which-space-infrastructure-stock-is-a-better-buy-for-2027/",
+"pub": "2026-11-28T16:02:01+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-28T16:14:24+00:00"
+},
+{
+"id": "3a871cf365c3",
+"t": "SPCX",
+"title": "Elon Musk’s SpaceX Could Fall Below $100 on Tesla Merger, Former Goldman Sachs CIO Warn",
+"url": "https://247wallst.com/investing/2026/11/28/elon-musks-spacex-could-fall-below-100-on-tesla-merger-former-goldman-sachs-cio-warn/",
+"pub": "2026-11-28T16:01:48+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-28T16:14:24+00:00"
+},
+{
+"id": "af04ba86a1ff",
+"t": "NVDA",
+"title": "The Big Long? Michael Burry Closes Nasdaq-100 Short, Says His Portfolio Is Now Almost Entirely Long",
+"url": "https://247wallst.com/investing/2026/11/28/the-big-long-michael-burry-closes-nasdaq-100-short-says-his-portfolio-is-now-almost-entirely-long/",
+"pub": "2026-11-28T15:55:02+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-28T16:14:24+00:00"
+},
+{
+"id": "3d0f24d9f3c9",
+"t": "NVDA",
+"title": "History Says the Smartest Investing Move Is Also the Easiest. Here's Why.",
+"url": "https://www.fool.com/investing/2026/11/28/history-says-the-smartest-investing-move-is-also-the-easiest-heres-why/",
+"pub": "2026-11-28T15:35:01+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-28T16:14:24+00:00"
+},
 {
 "id": "8c129f6258a6",
 "t": "NVDA",
@@ -35,6 +75,26 @@
 "src": "Yahoo Finance",
 "kind": "news",
 "seen": "2026-11-28T15:44:43+00:00"
+},
+{
+"id": "ea9876a08f92",
+"t": "ORCL",
+"title": "Bloom Energy Rose Nearly 7% as AI Stocks Rebounded. Here’s the Oracle Number That Matters",
+"url": "https://www.tikr.com/blog/bloom-energy-rose-nearly-7-as-ai-stocks-rebounded-heres-the-oracle-number-that-matters",
+"pub": "2026-11-28T15:20:19+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-28T16:14:24+00:00"
+},
+{
+"id": "d10768f23d13",
+"t": "GOOGL",
+"title": "“AI Does Not Exist as We Know It Without Reddit”: So Why Is Reddit Down 11% in a Week?",
+"url": "https://www.tikr.com/blog/ai-does-not-exist-as-we-know-it-without-reddit-so-why-is-reddit-down-11-in-a-week",
+"pub": "2026-11-28T15:20:16+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-28T16:14:24+00:00"
 },
 {
 "id": "b5eedbc6e77a",
@@ -75,6 +135,16 @@
 "src": "Yahoo Finance",
 "kind": "news",
 "seen": "2026-11-28T15:44:43+00:00"
+},
+{
+"id": "e739a14e98cd",
+"t": "HONA",
+"title": "Honeywell Aerospace And 2 Other Top Space Stocks",
+"url": "https://finance.yahoo.com/markets/stocks/articles/honeywell-aerospace-2-other-top-151006096.html",
+"pub": "2026-11-28T15:10:06+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-28T16:14:24+00:00"
 },
 {
 "id": "b6bce62fe68a",
@@ -455,6 +525,16 @@
 "src": "Yahoo Finance",
 "kind": "news",
 "seen": "2026-11-28T13:44:03+00:00"
+},
+{
+"id": "8e15f9be1acc",
+"t": "META",
+"title": "Jensen Huang’s reported affairs rattled Nvidia, echoing scandals that hit Bill Gates and Jeff Bezos",
+"url": "https://finance.yahoo.com/technology/ai/articles/jensen-huang-reported-affairs-rattled-130600603.html",
+"pub": "2026-11-28T13:06:00+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-28T16:14:24+00:00"
 },
 {
 "id": "8962b04b9922",
@@ -5108,6 +5188,16 @@
 "seen": "2026-11-27T17:14:37+00:00"
 },
 {
+"id": "b911181e6ae4",
+"t": "RGTI",
+"title": "Rigetti Computing Has Lost More Than 85% of Its Value—But It Still Isn't Cheap",
+"url": "https://www.marketbeat.com/articles/rigetti-computing-has-lost-more-than-85-of-its-valuebut-it-still-isnt-cheap/",
+"pub": "2026-11-27T15:30:00+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-28T16:14:24+00:00"
+},
+{
 "id": "f00a6dd82d72",
 "t": "CEG",
 "title": "The Nuclear Stock AI Investors Loved Is Down 33% This Year. Is Constellation Energy a Buy Now?",
@@ -7929,96 +8019,6 @@
 "seen": "2026-11-27T12:15:02+00:00"
 },
 {
-"id": "c100f237bdc0",
-"t": "NVDA",
-"title": "Asian Data Centers Are Racing to Sell Spare Compute to US Buyers. That’s Bad News for Nvidia’s Next Orders",
-"url": "https://www.tikr.com/blog/asian-data-centers-are-racing-to-sell-spare-compute-to-us-buyers-thats-bad-news-for-nvidias-next-orders",
-"pub": "2026-11-27T11:51:31+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-27T12:15:02+00:00"
-},
-{
-"id": "c55e5d30c43c",
-"t": "QCOM",
-"title": "Why Is Qualcomm Stock Rallying Today?",
-"url": "https://investorshub.advfn.com/market-news/article/40788/why-is-qualcomm-stock-rallying-today",
-"pub": "2026-11-27T11:50:39+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-27T12:15:02+00:00"
-},
-{
-"id": "c28650d54266",
-"t": "ORCL",
-"title": "Fed Blames High Stock Prices Partly on “Enthusiasm for Super Intelligence.” Microsoft Has More to Lose Than Nvidia",
-"url": "https://www.tikr.com/blog/fed-blames-high-stock-prices-partly-on-enthusiasm-for-super-intelligence-microsoft-has-more-to-lose-than-nvidia",
-"pub": "2026-11-27T11:50:33+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-27T12:15:02+00:00"
-},
-{
-"id": "8c00a1262a3f",
-"t": "META",
-"title": "Meta launches AI shopping agent Muse in UK",
-"url": "https://www.just-style.com/news/meta-muse-ai-agent/",
-"pub": "2026-11-27T11:49:32+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-27T12:06:59+00:00"
-},
-{
-"id": "531713062506",
-"t": "GOOGL",
-"title": "How Much Of Big Tech's AI Spending Reaches Nvidia?",
-"url": "https://www.trefis.com/stock/nvda/articles/628220/how-much-of-big-tech-s-ai-spending-reaches-nvidia-about-25-cents-not-52/2026-11-27",
-"pub": "2026-11-27T11:48:38+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-27T12:06:59+00:00"
-},
-{
-"id": "a14eb9a68603",
-"t": "AVGO",
-"title": "Why Is Broadcom Stock Rallying Today?",
-"url": "https://investorshub.advfn.com/market-news/article/40785/why-is-broadcom-stock-rallying-today",
-"pub": "2026-11-27T11:48:37+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-27T12:15:02+00:00"
-},
-{
-"id": "359552d80691",
-"t": "NVDA",
-"title": "If You Put $10,000 in the Schwab U.S. Dividend Equity ETF 10 Years Ago, Here’s What You’d Have Now",
-"url": "https://www.fool.com/investing/2026/11/27/if-you-put-usd10-000-in-the-schwab-u-s-dividend-equity-etf-10-years-ago-here-s-what-you-d-have-now/",
-"pub": "2026-11-27T11:46:02+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-27T12:06:59+00:00"
-},
-{
-"id": "b80bb7e042bc",
-"t": "NVDA",
-"title": "Why Is NVIDIA Stock Rallying Today?",
-"url": "https://investorshub.advfn.com/market-news/article/40783/why-is-nvidia-stock-rallying-today",
-"pub": "2026-11-27T11:45:44+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-27T12:15:02+00:00"
-},
-{
-"id": "c2d381ef8eaa",
-"t": "MO",
-"title": "Altria’s Interest in Imperial May Affect Its AB InBev Stake",
-"url": "https://finance.yahoo.com/markets/stocks/articles/altria-interest-imperial-may-affect-114508483.html",
-"pub": "2026-11-27T11:45:08+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-27T12:44:24+00:00"
-},
-{
 "id": "8a05669e4741",
 "t": "",
 "title": "Ukrainian military strikes Russian oil refinery in Rostov, other facilities in Samara and Bashkortostan: defence ministry",
@@ -8187,6 +8187,16 @@
 "src": "Reuters",
 "kind": "market",
 "seen": "2026-11-28T14:24:45+00:00"
+},
+{
+"id": "45db8bb89daf",
+"t": "",
+"title": "Super League Enterprise Inc (SLE.O) | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE85OFJDZGN5R1JjMXJtNmExUjZ6QUdtbU9ucW1ySzNiemRXb2lpUl80MEVsNzF1QkJTcFpfTEpSV0R1eDVWVGU3a0hmYWhjMEpUVkdGcjNHejI1Rmx5Ni0wMXE2WFJkcWxSS0E?oc=5",
+"pub": "2026-11-28T11:35:25+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-28T16:14:24+00:00"
 },
 {
 "id": "2f2b021692a7",
@@ -9169,6 +9179,16 @@
 "seen": "2026-11-28T07:44:35+00:00"
 },
 {
+"id": "e179669eb801",
+"t": "",
+"title": "CAVA.K - | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNQmw4RUF3OWV2dWU1OHZHaGtIbGl4YnlhcmZpZDB4d0c3OVFYcjdUNTUwVnFUTlROVVQyd2szTGxua1BpNWkyb2c5UVd0ZnJmblhRSDVHLURVbXhtTTJkaEd5T3NNLUVyWWFyVmI4MGJwUndpaFpiTHhjNDloWkU2UWdqR0RDc0lhRVBQMnZBQQ?oc=5",
+"pub": "2026-11-28T00:59:36+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-28T16:14:24+00:00"
+},
+{
 "id": "a33dc94a7a0d",
 "t": "",
 "title": "Rainier Acquisition Corp (RNAQU.OQ) | Stock Price & Latest News - Reuters",
@@ -9187,6 +9207,16 @@
 "src": "Reuters",
 "kind": "market",
 "seen": "2026-11-28T05:44:27+00:00"
+},
+{
+"id": "f1d4ac8f50f7",
+"t": "",
+"title": "Recharge Metals Ltd (REC.AX) | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1sNW1yYWR4RGFFTUNZbHZ1SktKQ0lBWllGTHByeWtWb3c3dmFueGNldnhBaUtSbF9vMnZUY3lvM3JGOWJsNy1QUE5IT21jZEFCSmpRb3B0OE03bTZiZ1lIX1JESjI5NzBKU3Z3?oc=5",
+"pub": "2026-11-28T00:56:17+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-28T16:14:24+00:00"
 },
 {
 "id": "feb7f0668deb",
@@ -9297,6 +9327,16 @@
 "src": "Reuters",
 "kind": "market",
 "seen": "2026-11-28T08:44:41+00:00"
+},
+{
+"id": "1e408456ddd5",
+"t": "",
+"title": "CTW (CTW.OQ) | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5GLWN3ZFRzZmZUVk9mVi12bC1NTmZZbEtISVc1TzRWbjlZWlhOV2U0YmNiOFdiWk9OVURoSFVJeGZSSWQ1aV85Mm1DUVVFNEY3THdoX2VWWWRHYTUzdWJyWDJUSDBQNDZzMXJ4b05R?oc=5",
+"pub": "2026-11-27T23:30:43+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-28T16:14:24+00:00"
 },
 {
 "id": "f874f0b3f6ec",
@@ -10977,46 +11017,6 @@
 "src": "Bloomberg",
 "kind": "market",
 "seen": "2026-11-27T14:44:45+00:00"
-},
-{
-"id": "2c439a32fed7",
-"t": "",
-"title": "KNRCau.M3 - | Stock Price & Latest News - Reuters",
-"url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1Qa1VmRHJaQ3hvc2lUYkVNazlWbkN4RWljNWV4Yl9GZWM5TVdWbUV0N3AzWGh0Z0UwdWdUeTgyWFFYQlZEY1ZzdGF2NFFBVVJpNE4xWGhWVTRya1EwSkdhUXh0akxlbVRpWmRIUVRYTk1pYzNXSUxEWU0wRDJzWjg?oc=5",
-"pub": "2026-11-27T14:30:51+00:00",
-"src": "Reuters",
-"kind": "market",
-"seen": "2026-11-27T23:37:01+00:00"
-},
-{
-"id": "40e172baafe3",
-"t": "",
-"title": "MOO Imbalance",
-"url": "https://www.financialjuice.com/News/9870704/MOO-Imbalance.aspx?xy=rss",
-"pub": "2026-11-27T14:30:35+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-27T14:34:12+00:00"
-},
-{
-"id": "48dd12aae383",
-"t": "",
-"title": "First Trust Health Care AlphaDEX Fund (FXH.N) | Stock Price & Latest News - Reuters",
-"url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE11d2xFMXpadWNSSE1YRjVoTUgyLUN6U2Z5VTJDNFZ3bV9uYUpZdXAteENXemFaWkdGeVcwZFdLQzZFbkc2NFJPakt3bGJNcklBQmJwRzVfVmptcklvd21yaTFNYkd0cjJfamc?oc=5",
-"pub": "2026-11-27T14:22:59+00:00",
-"src": "Reuters",
-"kind": "market",
-"seen": "2026-11-27T23:37:01+00:00"
-},
-{
-"id": "44e4968e424f",
-"t": "",
-"title": "Dangerous Nor’easter Storm Triggers US East Coast Power Outages",
-"url": "https://www.bloomberg.com/news/articles/2026-11-27/dangerous-nor-easter-storm-triggers-widespread-power-outages",
-"pub": "2026-11-27T14:20:06+00:00",
-"src": "Bloomberg",
-"kind": "market",
-"seen": "2026-11-27T14:34:12+00:00"
 }
 ]
 }
