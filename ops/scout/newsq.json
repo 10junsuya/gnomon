@@ -1,21 +1,81 @@
 {
-"updated_kst": "2026-11-28 21:15",
-"rot": 129,
+"updated_kst": "2026-11-28 21:45",
+"rot": 10,
 "how": "Scout(프로그램)이 10분마다 모은 기사 제목·링크와 공시예요. Wren이 공식 출처로 확인한 뒤 회사 화면에 한국어로 반영해요. 본문은 받지 않아요.",
 "sources": {
 "Yahoo Finance": "120종목 확인 · 실패 0",
-"GlobeNewswire": "실패 HTTPError",
+"GlobeNewswire": "0건",
 "PR Newswire": "0건",
 "Business Wire": "0건",
 "CNBC": "63건",
 "Bloomberg": "40건",
 "WSJ": "60건",
-"Reuters": "100건",
+"Reuters": "49건",
 "FinancialJuice": "100건",
 "SEC EDGAR": "실패 HTTPError",
 "Fox Business": "50건"
 },
 "items": [
+{
+"id": "e20168fbc36b",
+"t": "NVDA",
+"title": "Beyond the Market Volatility: Why Longbridge Group CEO and Co-Founder Nowa Zhu Believes the Next Wave of AI Demand Is So Difficult to Predict",
+"url": "https://finance.yahoo.com/technology/ai/articles/beyond-market-volatility-why-longbridge-123100111.html",
+"pub": "2026-11-28T12:31:00+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-28T12:45:14+00:00"
+},
+{
+"id": "34592f3faef0",
+"t": "NVDA",
+"title": "Nvidia Faces Yet Another Risk. Here's What It Means for Investors.",
+"url": "https://www.fool.com/investing/2026/11/28/nvidia-faces-yet-another-risk-here-s-what-it-means-for-investors/",
+"pub": "2026-11-28T12:25:02+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-28T12:45:14+00:00"
+},
+{
+"id": "35b57fdd4789",
+"t": "AAPL",
+"title": "Apple’s COO Has Now Filed to Sell $39 Million of Stock in 3 Days",
+"url": "https://247wallst.com/investing/2026/11/28/apples-coo-has-now-filed-to-sell-39-million-of-stock-in-3-days/",
+"pub": "2026-11-28T12:18:37+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-28T12:45:14+00:00"
+},
+{
+"id": "33e853db8a2b",
+"t": "NVDA",
+"title": "Oklo vs. NuScale Power: Which Nuclear Stock Will Rise 100% First?",
+"url": "https://www.fool.com/investing/2026/11/28/oklo-vs-nuscale-power-which-nuclear-stock-will-rise-100-first/",
+"pub": "2026-11-28T12:10:02+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-28T12:45:14+00:00"
+},
+{
+"id": "b6cb9f4aad77",
+"t": "SHOP",
+"title": "Why Shopify Stock Has Investors Watching Merchant Growth And Global Expansion",
+"url": "https://finance.yahoo.com/markets/stocks/articles/why-shopify-stock-investors-watching-120825828.html",
+"pub": "2026-11-28T12:08:25+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-28T12:45:14+00:00"
+},
+{
+"id": "3f2187da75e4",
+"t": "AMZN",
+"title": "Bad News for Anthropic: OpenAI Nearly Matches Claude Opus 5.5 at “Under a Fifth of the Cost,” per SemiAnalysis",
+"url": "https://www.tikr.com/blog/bad-news-for-anthropic-openai-nearly-matches-claude-opus-5-5-at-under-a-fifth-of-the-cost-per-semianalysis",
+"pub": "2026-11-28T12:05:26+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-28T12:45:14+00:00"
+},
 {
 "id": "1289aa0102b5",
 "t": "NVDA",
@@ -55,6 +115,16 @@
 "src": "Yahoo Finance",
 "kind": "news",
 "seen": "2026-11-28T12:15:24+00:00"
+},
+{
+"id": "9c57fce45497",
+"t": "CRWD",
+"title": "3 Firms Downgraded Zscaler in Two Days. Is There Any Upside Left?",
+"url": "https://www.tikr.com/blog/3-firms-downgraded-zscaler-in-two-days-is-there-any-upside-left",
+"pub": "2026-11-28T11:55:44+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-28T12:45:14+00:00"
 },
 {
 "id": "2797c2b0a801",
@@ -145,6 +215,16 @@
 "src": "Yahoo Finance",
 "kind": "news",
 "seen": "2026-11-28T11:44:19+00:00"
+},
+{
+"id": "5b416926b9bc",
+"t": "SHOP",
+"title": "Shopify (SHOP) Stock May Be 17% Stretched Despite Open Weight AI News",
+"url": "https://finance.yahoo.com/markets/stocks/articles/shopify-shop-stock-may-17-110804422.html",
+"pub": "2026-11-28T11:08:04+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-28T12:45:14+00:00"
 },
 {
 "id": "c838263b4e96",
@@ -7939,86 +8019,6 @@
 "seen": "2026-11-27T11:44:37+00:00"
 },
 {
-"id": "46dece3f342d",
-"t": "TSM",
-"title": "ETFs Sold $34.5 Million of Taiwan Semiconductor (TSM) on Nov. 25",
-"url": "https://finance.yahoo.com/markets/stocks/articles/etfs-sold-34-5-million-110229859.html",
-"pub": "2026-11-27T11:02:29+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-27T11:44:37+00:00"
-},
-{
-"id": "e1dc72b7352d",
-"t": "NXPI",
-"title": "ETFs Are Net Sellers of NXP Semiconductors (NXPI) on Nov. 25",
-"url": "https://finance.yahoo.com/markets/stocks/articles/etfs-net-sellers-nxp-semiconductors-110204408.html",
-"pub": "2026-11-27T11:02:04+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-27T11:44:37+00:00"
-},
-{
-"id": "7cebabc47626",
-"t": "MSFT",
-"title": "AMD's Data Center Business Leads Growth: Can the Momentum Continue?",
-"url": "https://finance.yahoo.com/markets/stocks/articles/amds-data-center-business-leads-110200903.html",
-"pub": "2026-11-27T11:02:00+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-27T12:15:02+00:00"
-},
-{
-"id": "23e3888cb546",
-"t": "QQQ",
-"title": "ETFs Bought $58.9 Million of Gilead Sciences (GILD) on Wednesday",
-"url": "https://finance.yahoo.com/markets/stocks/articles/etfs-bought-58-9-million-110149350.html",
-"pub": "2026-11-27T11:01:49+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-27T11:14:03+00:00"
-},
-{
-"id": "2b9cbeb0e15d",
-"t": "QQQ",
-"title": "44 ETFs Add to PepsiCo (PEP) on Nov. 25",
-"url": "https://finance.yahoo.com/markets/stocks/articles/44-etfs-add-pepsico-pep-110144979.html",
-"pub": "2026-11-27T11:01:44+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-27T11:14:03+00:00"
-},
-{
-"id": "f0a39cdb1076",
-"t": "QQQM",
-"title": "ETFs Are Buying Palantir (PLTR) on Wednesday",
-"url": "https://finance.yahoo.com/markets/stocks/articles/etfs-buying-palantir-pltr-wednesday-110139493.html",
-"pub": "2026-11-27T11:01:39+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-27T11:14:03+00:00"
-},
-{
-"id": "dea7bc01660c",
-"t": "QQQ",
-"title": "45 ETFs Add to Amgen (AMGN) Holdings on Nov. 25",
-"url": "https://finance.yahoo.com/markets/stocks/articles/45-etfs-add-amgen-amgn-110136079.html",
-"pub": "2026-11-27T11:01:36+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-27T11:14:03+00:00"
-},
-{
-"id": "28895ebb5e30",
-"t": "SPCX",
-"title": "ETFs Bought $76.1 Million of SpaceX (SPCX) on Nov. 25",
-"url": "https://finance.yahoo.com/markets/stocks/articles/etfs-bought-76-1-million-110130440.html",
-"pub": "2026-11-27T11:01:30+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-27T11:14:03+00:00"
-},
-{
 "id": "5db79f3b1c74",
 "t": "",
 "title": "Americans Have More Riding on the Stock Market Than Ever",
@@ -8027,6 +8027,16 @@
 "src": "WSJ",
 "kind": "market",
 "seen": "2026-11-28T12:15:24+00:00"
+},
+{
+"id": "0eefb7e97aaf",
+"t": "",
+"title": "India’s SEBI Weighs Exchange Platform for Pre-IPO Shares",
+"url": "https://www.bloomberg.com/news/articles/2026-11-28/india-s-sebi-weighs-exchange-platform-for-pre-ipo-shares",
+"pub": "2026-11-28T11:56:38+00:00",
+"src": "Bloomberg",
+"kind": "market",
+"seen": "2026-11-28T12:45:14+00:00"
 },
 {
 "id": "a5f7ff31995e",
@@ -8057,6 +8067,16 @@
 "src": "FinancialJuice",
 "kind": "market",
 "seen": "2026-11-28T11:23:03+00:00"
+},
+{
+"id": "ae2342536efc",
+"t": "",
+"title": "Thailand Looks to Seal EU Trade Deal by End-2027, PM Anutin Says",
+"url": "https://www.bloomberg.com/news/articles/2026-11-28/thailand-looks-to-seal-eu-trade-deal-by-end-2027-pm-anutin-says",
+"pub": "2026-11-28T11:17:38+00:00",
+"src": "Bloomberg",
+"kind": "market",
+"seen": "2026-11-28T12:45:14+00:00"
 },
 {
 "id": "5e2331412315",
@@ -9629,6 +9649,16 @@
 "seen": "2026-11-27T18:39:55+00:00"
 },
 {
+"id": "8ffb4cd8232e",
+"t": "",
+"title": "Energy & Utilities Roundup: Market Talk",
+"url": "https://www.wsj.com/finance/investing/energy-utilities-roundup-market-talk-6ec085c9",
+"pub": "2026-11-27T18:15:00+00:00",
+"src": "WSJ",
+"kind": "market",
+"seen": "2026-11-28T12:45:14+00:00"
+},
+{
 "id": "a69b3d2c6dec",
 "t": "",
 "title": "LIK.F - | Stock Price & Latest News - Reuters",
@@ -10985,36 +11015,6 @@
 "url": "https://www.financialjuice.com/News/9870576/Iraqs-oil-minister-Iraqs-oil-production-capacity-will-increase.aspx?xy=rss",
 "pub": "2026-11-27T12:42:07+00:00",
 "src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-27T12:44:24+00:00"
-},
-{
-"id": "2b836c6c56fc",
-"t": "",
-"title": "¿Volverá la derecha al poder en España?",
-"url": "https://www.bloomberg.com/news/videos/2026-11-27/-volvera-la-derecha-al-poder-en-espana",
-"pub": "2026-11-27T12:41:55+00:00",
-"src": "Bloomberg",
-"kind": "market",
-"seen": "2026-11-27T12:44:24+00:00"
-},
-{
-"id": "97df4dd83589",
-"t": "",
-"title": "ECB’s Two Rate Hikes to Date Aren’t Enough, Dolenc Tells Delo",
-"url": "https://www.bloomberg.com/news/articles/2026-11-27/ecb-s-two-rate-hikes-to-date-aren-t-enough-dolenc-tells-delo",
-"pub": "2026-11-27T12:38:06+00:00",
-"src": "Bloomberg",
-"kind": "market",
-"seen": "2026-11-27T13:15:35+00:00"
-},
-{
-"id": "bb134507fc3a",
-"t": "",
-"title": "Explainer: Why EU leaders are struggling to Le Pen-proof the bloc’s €1.6 trillion budget - Reuters",
-"url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPOXNCT24ycjVGZVlCV1Q4bnFlalVUNXhHc0xLVzlFdkJtNGhZM2NXSmpyWnZXU2Q2ZWRPcXRza2tZM1ZPMGVMWjM2V2U5NHBBYWdSSFZLb29odWtqZW1SVXZNZDAxUVdLUVl6X2FiYTMzZzFqTHhaLW51X0s0TnJPVk45Rmd0Um5UdnVfdXRkWGR1UGNtY3h6a2JsNFhfZTd5N25VVWRGdE5iVUpkXzhQWkZPRkc5UDFjSzhvRmxNc1M?oc=5",
-"pub": "2026-11-27T12:36:21+00:00",
-"src": "Reuters",
 "kind": "market",
 "seen": "2026-11-27T12:44:24+00:00"
 }
