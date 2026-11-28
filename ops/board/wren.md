@@ -5545,6 +5545,7 @@ Scout(소식 감지 프로그램)가 모은 기사·공시를 공식 출처로 �
 - 내용: 버라이즌이 광섬유 인터넷 회사 피디움(옛 컨솔리데이티드 커뮤니케이션스, 서치라이트·BCI 소유)을 약 60억 달러에 사는 협상 중이라는 FT 보도를 로이터·블룸버그가 전함(11/27 미국 시각). 회사 확인 없음, 합의 안 될 수 있음 — news["VZ"] 첫 줄로 "보도" 표시.
 - 출처: [로이터(KWSN)](https://kwsn.com/2026/11/27/verizon-in-talks-over-6-billion-deal-for-fidium-ft-reports/) · [블룸버그](https://www.bloomberg.com/news/articles/2026-11-27/verizon-in-talks-to-buy-fidium-in-6-billion-deal-ft-says) · 공식 여부: 보도
 - 확신도: 중간(협상 보도)
+- 앱 다시 게시: 했어요(버전 374).
 
 ### W-20261129-0143-2 · 알림 · 이번 차례
 - 시각: 2026-11-29 01:4x KST
