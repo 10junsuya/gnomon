@@ -1,6 +1,6 @@
 {
-"updated_kst": "2026-11-28 10:14",
-"rot": 59,
+"updated_kst": "2026-11-28 10:44",
+"rot": 119,
 "how": "Scout(프로그램)이 10분마다 모은 기사 제목·링크와 공시예요. Wren이 공식 출처로 확인한 뒤 회사 화면에 한국어로 반영해요. 본문은 받지 않아요.",
 "sources": {
 "Yahoo Finance": "120종목 확인 · 실패 0",
@@ -10,12 +10,62 @@
 "CNBC": "63건",
 "Bloomberg": "40건",
 "WSJ": "60건",
-"Reuters": "52건",
+"Reuters": "100건",
 "FinancialJuice": "100건",
 "SEC EDGAR": "실패 HTTPError",
 "Fox Business": "50건"
 },
 "items": [
+{
+"id": "5364726a4504",
+"t": "PLTR",
+"title": "Palantir's new military AI deal has a surprising catch",
+"url": "https://www.thestreet.com/investing/palantirs-new-military-ai-deal-has-a-surprising-catch",
+"pub": "2026-11-28T01:37:00+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-28T01:44:42+00:00"
+},
+{
+"id": "4f8b29218fd1",
+"t": "NVDA",
+"title": "Apple Is Beating the Rest of the \"Magnificent Seven\" in 2026. Can It Do It Again in 2027?",
+"url": "https://www.fool.com/investing/2026/11/27/apple-is-beating-the-rest-of-the-magnificent-seven-in-2026-can-it-do-it-again-in-2027/",
+"pub": "2026-11-28T01:19:10+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-28T01:44:42+00:00"
+},
+{
+"id": "8b17f9a2e9b9",
+"t": "NVDA",
+"title": "Nvidia Stock Is Still Down 38% From Its Peak Despite Jensen Huang's Return. History Suggests a $10,000 Investment Today Will Be Worth This Much by Year-End 2027.",
+"url": "https://www.fool.com/investing/2026/11/27/nvidia-stock-is-still-down-38-from-its-peak-despite-jensen-huang-s-return-history-suggests-a-usd10-000-investment-today-will-be-worth-this-much-by-year-end-2027/",
+"pub": "2026-11-28T01:11:20+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-28T01:44:42+00:00"
+},
+{
+"id": "a2892dd30ae3",
+"t": "NVDA",
+"title": "Vanguard's Growth ETF Has 3 Stocks Making Up More Than a Third of It. Only 1 Has Held Up in the Tech Sell-Off.",
+"url": "https://www.fool.com/investing/2026/11/27/vanguard-s-growth-etf-has-3-stocks-making-up-more-than-a-third-of-it-only-1-has-held-up-in-the-tech-sell-off/",
+"pub": "2026-11-28T01:09:02+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-28T01:44:42+00:00"
+},
+{
+"id": "38a23d32cdb6",
+"t": "ACN",
+"title": "Accenture vs. Intuit: Which Technology Stock Is a Better Buy for 2027?",
+"url": "https://www.fool.com/coverage/better-buy/2026/11/27/accenture-vs-intuit-which-technology-stock-is-a-better-buy-for-2027/",
+"pub": "2026-11-28T01:06:26+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-28T01:44:42+00:00"
+},
 {
 "id": "b25e1202ac82",
 "t": "AAPL",
@@ -7973,54 +8023,14 @@
 "seen": "2026-11-27T08:54:02+00:00"
 },
 {
-"id": "63bf634beb76",
-"t": "DELL",
-"title": "Dell’s Operating Costs Fell to “the Lowest in Our Company’s 42-Year History.” The Stock Fell Anyway",
-"url": "https://www.tikr.com/blog/dells-operating-costs-fell-to-the-lowest-in-our-companys-42-year-history-the-stock-fell-anyway",
-"pub": "2026-11-27T06:59:43+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-27T14:44:45+00:00"
-},
-{
-"id": "e5938573a18c",
-"t": "NVDA",
-"title": "Former SEC Chair Gensler: Nvidia Has “a Disclosure Vulnerability.” The White House’s Huang Assurances May Have to Be Filed",
-"url": "https://www.tikr.com/blog/former-sec-chair-gensler-nvidia-has-a-disclosure-vulnerability-the-white-houses-huang-assurances-may-have-to-be-filed",
-"pub": "2026-11-27T06:54:18+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-27T10:07:06+00:00"
-},
-{
-"id": "88f8f2d6d7c6",
-"t": "ISRG",
-"title": "Minimally Invasive Surgery Market to Reach USD 217.3 Billion by 2031, Growing at 15.2% CAGR as Robotic Rivals Challenge Intuitive's Lead: Wissen Research",
-"url": "https://finance.yahoo.com/healthcare/articles/minimally-invasive-surgery-market-reach-064800524.html",
-"pub": "2026-11-27T06:48:00+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-27T07:51:21+00:00"
-},
-{
-"id": "930c544d966f",
-"t": "CRWD",
-"title": "The Zacks Analyst Blog Highlights CrowdStrike, Lockheed Martin, S&P Global, The Eastern and AmeriServ Financial",
-"url": "https://finance.yahoo.com/markets/stocks/articles/zacks-analyst-blog-highlights-crowdstrike-064800574.html",
-"pub": "2026-11-27T06:48:00+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-27T10:14:08+00:00"
-},
-{
-"id": "15506d6abf09",
-"t": "AVGO",
-"title": "Meta’s Credit Swaps Cost About Twice Microsoft’s and Alphabet’s, per JPMorgan Data. That’s a Problem for Its Capex",
-"url": "https://www.tikr.com/blog/metas-credit-swaps-cost-about-twice-microsofts-and-alphabets-per-jpmorgan-data-thats-a-problem-for-its-capex",
-"pub": "2026-11-27T06:47:33+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-27T13:44:11+00:00"
+"id": "c1fb61835cb7",
+"t": "",
+"title": "SSE STAR SEMICONDUCTOR MATERIAL IDX (.CSI950125) | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5STG9FYUpYbkVLS283TG43TUV1T3lycTk0anpfMGdxSl9JOUxqcU9ZQkpSTDVDdTBsWlltb3pWWTVScVY2VUxHVjBwSDNTX0dFWC1heXpRM0hydlVwOXNOMkFzM29KY0Yw?oc=5",
+"pub": "2026-11-28T00:24:15+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-28T01:44:42+00:00"
 },
 {
 "id": "33924f5dc9b5",
@@ -8463,6 +8473,16 @@
 "seen": "2026-11-27T19:44:43+00:00"
 },
 {
+"id": "e9cf0d49ebba",
+"t": "",
+"title": "ARK Blockchain & Fintech Innovation ETF (ARKF.N) | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE44Um5zUlZvRV9KbF9jaTVCQi1raUVKOHF4elB4Q21OMFFjUWtUWV9iYm1xeXIxVUpibzBkeHBvWWpnc1BaSm9oR0E3UVpqVzJ6M1B1MGp5aFozVGdRZzhQNTJXYk9lNmZxd2hn?oc=5",
+"pub": "2026-11-27T18:51:02+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-28T01:44:42+00:00"
+},
+{
 "id": "9167f9651ab5",
 "t": "",
 "title": "Trump’s AI Gambit Fuels Wild Thanksgiving Week on Wall Street",
@@ -8583,6 +8603,26 @@
 "seen": "2026-11-27T20:14:46+00:00"
 },
 {
+"id": "51258d7c1293",
+"t": "",
+"title": "TRAPETUN91A5.TRXA%5EG21 - | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPSFo0Nzg5MnhQWWNWbXZMX3RKd0pWdmN1VFBqbTAydmctb1ZiNTJrRHhlWnR0NkxtTGk0ckw0N0pnQy1POE0zdUtIZ0VKeFY2bzMzV2JLQ1RjUkxqTE1Ndl84OXZEWGgzWmVkWTFZdlpyNGJjT2YzV1poRHJZQ0tkSE45cndTYkRlMFFHUXJUOTFoSnFMRWNuTWg3MA?oc=5",
+"pub": "2026-11-27T17:27:09+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-28T01:44:42+00:00"
+},
+{
+"id": "17424f59b59c",
+"t": "",
+"title": "Societe BIC SA (BICP.PA) | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1pM2Q0UjlCUEFoZDJweXphaURwUnlTTW9EOTU5eEQxVUd5QmZVYWpzM2pHLW03Zi1sZXp6dHg1VzdqR2p2Nk5TVTM0WnRseEtFemdWbkxnRmR4WlNzTm83Q2JCWXoyOTZKZmZLYQ?oc=5",
+"pub": "2026-11-27T17:24:56+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-28T01:44:42+00:00"
+},
+{
 "id": "9ff8b08db68d",
 "t": "",
 "title": "Hong Kong Is Selling The City It Used To Be",
@@ -8623,6 +8663,16 @@
 "seen": "2026-11-27T17:14:37+00:00"
 },
 {
+"id": "d603d13effd1",
+"t": "",
+"title": "Consumer Portfolio Services Inc (CPSS.A) | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9wNks1ZE5DcWM3MnprX0VOQ0VIaUZ5enpfYXpRWm92RUpjOEVTb0VzZTB4TWg1S2M1MlV3MkloQTRyLW01d0w2MVJYSFBVRUltZUJvTDZ4NW9tcXdERmpYYXpzdE14M1FRUFZTQUtB?oc=5",
+"pub": "2026-11-27T16:57:32+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-28T01:44:42+00:00"
+},
+{
 "id": "26887daafcb2",
 "t": "",
 "title": "US Military: military aircraft launched precision munitions that struck the stern of Palau-flagged M/V Pacific Archer.",
@@ -8661,6 +8711,16 @@
 "src": "Reuters",
 "kind": "market",
 "seen": "2026-11-27T19:14:21+00:00"
+},
+{
+"id": "2ab6a7e49a78",
+"t": "",
+"title": "JPM Nasdaq Hgd Eq Lddrd Ovrly Act UCITS ETF USD d (HEQD.DE) | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9uT3RNaXJnYnJkVDg2WS1NZ3BpRjA2UHhkVGd2RWFUSUhDNFlEVkxzMVFrM1UyQi1TaEtnV0w0MTN0R014OUE0aWlXWnVtT0YtRnR0TS0yLVRZd09EN09r?oc=5",
+"pub": "2026-11-27T16:51:04+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-28T01:44:42+00:00"
 },
 {
 "id": "c96034373447",
@@ -8753,6 +8813,16 @@
 "seen": "2026-11-27T16:44:40+00:00"
 },
 {
+"id": "c32e10a7ef2b",
+"t": "",
+"title": "Arif Habib Ltd (AHL.PSX) | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAzVG82cDB2TmV6bEVlQkMwWjR1a2p3N3pncGlDXzllNHc1T0JxRjFJYXpCUnFCdUVzbXgzTVdtbzVLUkVVSVhnejFiNURYX013TVlIdFFfeVNHSjNOMnowZmN3Tl83V29tTnZUdQ?oc=5",
+"pub": "2026-11-27T16:08:46+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-28T01:44:42+00:00"
+},
+{
 "id": "c8a4efced875",
 "t": "",
 "title": "Russian Foreign Ministry: Latvia has made its airspace available for transit of Ukrainian drones intended for carrying out attacks against Russian targets.",
@@ -8823,6 +8893,16 @@
 "seen": "2026-11-27T16:14:06+00:00"
 },
 {
+"id": "f29cf8de2182",
+"t": "",
+"title": "Redcare Pharmacy NV (RDC.SG) | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBhQW9qdFhVcllBZW5NeFd0MmhXZjI2eFlNWGw2UFUxVjBCZzhqYXVPLWZ0cUliOWd4MGVkT3I3VUlzRVBPdTBiUS1lLUdoUGozQlZ4WFlPWlVjSGRTWk1IUHA3UlNGOEpfaUxN?oc=5",
+"pub": "2026-11-27T15:53:59+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-28T01:44:42+00:00"
+},
+{
 "id": "d37a903891bd",
 "t": "",
 "title": "The Big Pressures Facing the Fed",
@@ -8841,6 +8921,16 @@
 "src": "Reuters",
 "kind": "market",
 "seen": "2026-11-27T20:14:46+00:00"
+},
+{
+"id": "dbda8a520c73",
+"t": "",
+"title": "Ares Commercial Real Estate Corp (ACRE.P) | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5FeC03QWphamJVUFlmZmJQU0gtaW5FQnZ0aTNEM01GdXRxb1lLTTZrUF9TOUk4VVJiaGxGenVfTWdpeFlhdE9IVTlseVoxMTRqZXkza3RkN0cwTnI0OHNKTjNfcHh0Y3BrX0xQSVln?oc=5",
+"pub": "2026-11-27T15:48:58+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-28T01:44:42+00:00"
 },
 {
 "id": "7d1acae510aa",
@@ -10931,96 +11021,6 @@
 "src": "Reuters",
 "kind": "market",
 "seen": "2026-11-27T10:07:06+00:00"
-},
-{
-"id": "e9764be9fa53",
-"t": "",
-"title": "AI Rally Faces Fresh Test: Nvidia Curbs & Trump Tariffs",
-"url": "https://www.bloomberg.com/news/videos/2026-11-27/insight-with-haslinda-amin-11-27-2026-video",
-"pub": "2026-11-27T07:15:14+00:00",
-"src": "Bloomberg",
-"kind": "market",
-"seen": "2026-11-27T07:51:21+00:00"
-},
-{
-"id": "8e0998650323",
-"t": "",
-"title": "China's factory slump likely extends to November despite solid exports - Reuters",
-"url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxObTJEX3lna0xGOEJxYnJoM2RkemlfOUdUakRNM3BmTmF0TUtpRmRrYVE3VnRlanVYNzZaYVRNUlc2aWhzUnlSX3hyRDlXc182MERSV19SRFgwcTNhWS1zNUowcjFDOGhzcllxSHEwR09VZTBpVnp4WUZIdnhSckRabEZOdXlUS1lxZFRDUGNRMXlZU20xMlJ6WFB5QTNHWDczTmxFV0lDZmY2bTlObWtVdUhsTWRhdw?oc=5",
-"pub": "2026-11-27T07:15:00+00:00",
-"src": "Reuters",
-"kind": "market",
-"seen": "2026-11-27T10:14:08+00:00"
-},
-{
-"id": "b4952d3cbb22",
-"t": "",
-"title": "94P.F - | Stock Price & Latest News - Reuters",
-"url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5aUmNEcmRyUnV5eDd1Q1RMbE5WV1dLYnJlQThSSVp1OGZtS3JjNjg3dm9vdGctdTJ6Z1o5MWZpeXMzeWZ6NzVqWmh0cmhubTNFdENVZngxTm52SEFLQ1NEaDVvTWdReF9ScXg0Uk1laFNMakRtclRn?oc=5",
-"pub": "2026-11-27T07:04:47+00:00",
-"src": "Reuters",
-"kind": "market",
-"seen": "2026-11-27T11:03:19+00:00"
-},
-{
-"id": "b38d2c50b43f",
-"t": "",
-"title": "Traton SE (8TRA.DE) | Stock Price & Latest News - Reuters",
-"url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5XWjRjU1R0YXFHc1lWdGw4Q2oxNGh4dldiQ1BUVkRSZkdtcUs1SW9qLTExQTctbGxEMnFQbUF0UGhqUnpMRmRlSWNIZUItVDZqRDBQSkNwQ05PTVVKUWRr?oc=5",
-"pub": "2026-11-27T07:01:31+00:00",
-"src": "Reuters",
-"kind": "market",
-"seen": "2026-11-27T11:14:03+00:00"
-},
-{
-"id": "cc7c0207e0ab",
-"t": "",
-"title": "Norwegian Unemployment Rate NSA Actual 2.0% (Forecast -, Previous 2.0%)",
-"url": "https://www.financialjuice.com/News/9870206/Norwegian-Unemployment-Rate-NSA-Actual-20-Forecast---Previous-20.aspx?xy=rss",
-"pub": "2026-11-27T07:00:58+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-27T07:51:21+00:00"
-},
-{
-"id": "6104328d9860",
-"t": "",
-"title": "Swedish GDP Revised QoQ Actual 0.5% (Forecast -, Previous 0.4%)",
-"url": "https://www.financialjuice.com/News/9870201/Swedish-GDP-Revised-QoQ-Actual-05-Forecast---Previous-04.aspx?xy=rss",
-"pub": "2026-11-27T07:00:26+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-27T07:51:21+00:00"
-},
-{
-"id": "55473084ec68",
-"t": "",
-"title": "Swedish GDP Revised YoY Actual 2.8% (Forecast -, Previous 2.8%)",
-"url": "https://www.financialjuice.com/News/9870200/Swedish-GDP-Revised-YoY-Actual-28-Forecast---Previous-28.aspx?xy=rss",
-"pub": "2026-11-27T07:00:25+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-27T07:51:21+00:00"
-},
-{
-"id": "416492440679",
-"t": "",
-"title": "Swedish Trade Balance Actual -1.6B (Forecast -, Previous 4.1B)",
-"url": "https://www.financialjuice.com/News/9870199/Swedish-Trade-Balance-Actual--16B-Forecast---Previous-41B.aspx?xy=rss",
-"pub": "2026-11-27T07:00:23+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-27T07:51:21+00:00"
-},
-{
-"id": "248872e64eea",
-"t": "",
-"title": "National Bank of Canada (NA.TO) | Stock Price & Latest News - Reuters",
-"url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9pSTJYc3BFaXR5VF9KTFhNR2tEZWN0OUV1SzZ5Zk5vOFIyUjlPMjNDZXg2SGowTjFmdlpaNm8wZl9JREc3TUpHSUhhbWJ1RDBoOS1xb2w2bThISUV6?oc=5",
-"pub": "2026-11-27T07:00:12+00:00",
-"src": "Reuters",
-"kind": "market",
-"seen": "2026-11-27T12:44:24+00:00"
 }
 ]
 }
