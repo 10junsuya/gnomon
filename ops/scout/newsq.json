@@ -1,6 +1,6 @@
 {
-"updated_kst": "2026-11-28 14:44",
-"rot": 123,
+"updated_kst": "2026-11-28 14:59",
+"rot": 4,
 "how": "Scout(프로그램)이 10분마다 모은 기사 제목·링크와 공시예요. Wren이 공식 출처로 확인한 뒤 회사 화면에 한국어로 반영해요. 본문은 받지 않아요.",
 "sources": {
 "Yahoo Finance": "120종목 확인 · 실패 0",
@@ -10,7 +10,7 @@
 "CNBC": "63건",
 "Bloomberg": "40건",
 "WSJ": "60건",
-"Reuters": "100건",
+"Reuters": "56건",
 "FinancialJuice": "100건",
 "SEC EDGAR": "실패 HTTPError",
 "Fox Business": "50건"
@@ -8023,6 +8023,26 @@
 "seen": "2026-11-27T10:07:06+00:00"
 },
 {
+"id": "97c58ec389f8",
+"t": "",
+"title": "Entergy Corp (ETR) | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE03X1ZFXzU3SGl5cFlRUVpBckdIdS00eUplbWRMRlVQUFFzREI0eDlhZHdlNTBWRFdTOXhyenJ1QzZzMFBuQndXeXVTU0RCanBPdXoteFZaQ21QQQ?oc=5",
+"pub": "2026-11-28T04:26:01+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-28T05:59:35+00:00"
+},
+{
+"id": "7afb424aa8ea",
+"t": "",
+"title": "Bombardier Inc. (BBDb.TO) | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1LUXR4MHZBUEU2cVF3dGhsTjlrVkRYdzNRV0R5UTVZakZGclEyUHpPVDZIRndTSk1GMXI2dUM5NFlWNDI2b0k1a2dfMDRsMEdBU1JQOTlRMHM5RHhYc3pv?oc=5",
+"pub": "2026-11-28T04:20:13+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-28T05:59:35+00:00"
+},
+{
 "id": "60f957e18785",
 "t": "",
 "title": "Saudi-led coalition: cruise missile launched by Yemen's Houthis toward Riyadh intercepted and destroyed",
@@ -8031,6 +8051,16 @@
 "src": "FinancialJuice",
 "kind": "market",
 "seen": "2026-11-28T03:14:16+00:00"
+},
+{
+"id": "b38d2c50b43f",
+"t": "",
+"title": "Traton SE (8TRA.DE) | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5XWjRjU1R0YXFHc1lWdGw4Q2oxNGh4dldiQ1BUVkRSZkdtcUs1SW9qLTExQTctbGxEMnFQbUF0UGhqUnpMRmRlSWNIZUItVDZqRDBQSkNwQ05PTVVKUWRr?oc=5",
+"pub": "2026-11-28T03:02:13+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-28T05:59:35+00:00"
 },
 {
 "id": "bf549d1c0869",
@@ -10673,6 +10703,16 @@
 "seen": "2026-11-27T10:44:09+00:00"
 },
 {
+"id": "1d802570dc48",
+"t": "",
+"title": "Centre-right leader Feijoo pitches himself as the manager Spain needs - Reuters",
+"url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOdVJ6YS0tTzRFQzNnVC1vOWNDTUYxTkJYQ1F1TUJ3NFJkWXZQQUowMFlMOHFHTHRRRi1icXBIckZuREZhd0xJMTNERlpJZEN4RGl5aFZjQWd0ZDQtczlEUDVma1A4TllFNjVjYVMyUGVCWGNDclI4X2lMTHdzeU9JOG5RR3RDN3pMNU16R1FNSXdyRXBBUEtQLTJVTVdrLXhoVFNiUDN0ejdEZXM5aFVPeDlRRQ?oc=5",
+"pub": "2026-11-27T10:08:28+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-28T05:59:35+00:00"
+},
+{
 "id": "6372fc4eb484",
 "t": "",
 "title": "Russia’s Deputy PM Novak: Haven't heard about plans for Venezuela and Iraq to quit OPEC deal",
@@ -10981,46 +11021,6 @@
 "src": "FinancialJuice",
 "kind": "market",
 "seen": "2026-11-27T10:07:06+00:00"
-},
-{
-"id": "40fe232b1912",
-"t": "",
-"title": "German Unemployment Total SA Actual 3.025M (Forecast -, Previous 3.016M)",
-"url": "https://www.financialjuice.com/News/9870323/German-Unemployment-Total-SA-Actual-3025M-Forecast---Previous-3016M.aspx?xy=rss",
-"pub": "2026-11-27T08:55:20+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-27T10:07:06+00:00"
-},
-{
-"id": "ffc993beb384",
-"t": "",
-"title": "German Unemployment Change SA Actual 9k (Forecast 4.5k, Previous 4k)",
-"url": "https://www.financialjuice.com/News/9870322/German-Unemployment-Change-SA-Actual-9k-Forecast-45k-Previous-4k.aspx?xy=rss",
-"pub": "2026-11-27T08:55:01+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-27T10:07:06+00:00"
-},
-{
-"id": "cc4cae0183f7",
-"t": "",
-"title": "German Unemployment Rate Actual 6.4% (Forecast 6.4%, Previous 6.4%)",
-"url": "https://www.financialjuice.com/News/9870321/German-Unemployment-Rate-Actual-64-Forecast-64-Previous-64.aspx?xy=rss",
-"pub": "2026-11-27T08:55:00+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-27T10:07:06+00:00"
-},
-{
-"id": "88af036c43d5",
-"t": "",
-"title": "4248.ODX - | Stock Price & Latest News - Reuters",
-"url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQVzBVNWwtSVZZNklfYXRhS2ZCb1l6c3d0LTgyZE9rZEFKUG1yTmpKNlJfMkNSOFM5TUxoVUd6aHc1X0JaWkE2dEY0UFdOc19SbUMwbkhCYXFVcEgyQ1dZMkFnV04ySDNsVk9uejJ5d2JnTDJuWl9TR1F0XzMwOU5kUmVwT1UwNm8?oc=5",
-"pub": "2026-11-27T08:54:25+00:00",
-"src": "Reuters",
-"kind": "market",
-"seen": "2026-11-27T10:44:09+00:00"
 }
 ]
 }
