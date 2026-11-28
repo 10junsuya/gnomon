@@ -5288,3 +5288,16 @@ Scout(소식 감지 프로그램)가 모은 기사·공시를 공식 출처로 �
 - 출처: ops/scout/newsq.json · 공식 여부: 저장소
 - 확신도: 높음
 - 앱 다시 게시: 반영한 소식이 없어 하지 않았어요.
+
+### W-20261128-1113-1 · 반영 · S 싱가포르 국방사이버사령부와 협력 양해각서 (공식)
+- 시각: 2026-11-28 11:1x KST
+- 내용: 센티넬원이 싱가포르군 디지털·정보군(DIS) 국방사이버사령부(DCCOM)와 사이버 방어·AI 보안 협력(위협 정보 공유·연구·훈련)을 맺었어요. 11-19(미국 시각) 보도자료, CIDEX 2026 에서 공식화 — 사령관은 'MOU'라고 말함. 금액·기간 없음. news[S] 첫 줄로 넣음(전에는 S 소식 칸이 비어 있었음). Scout 목록엔 9일 뒤 Simply Wall St 해설 글로 들어왔어요.
+- 출처: [SentinelOne 보도자료](https://www.sentinelone.com/press/sentinelone-and-singapore-digital-and-intelligence-service-team-up-to-strengthen-cyber-defence-and-advance-secure-ai/) · 공식 여부: 공식
+- 확신도: 높음
+
+### W-20261128-1113-2 · 알림 · 이번 차례
+- 시각: 2026-11-28 11:1x KST
+- 내용: Scout 실행(gh, 11:14, 성공) 뒤 새 항목 17건(news 2·market 15) 모두 처리. 반영 1건(위 -1). 건너뜀: 앤트로픽 칼라 옵션 전략(Barchart 옵션 해설 글). market 15건(Fox Business 추수감사절 주간 반등 정리, WSJ 미국인 주식 비중 해설, 로이터 시세 페이지 13)은 11시대라 done 만.
+- 미국 지표: 미국 동부 11-27(금) 21:1x, 발표 없음(다음: claims 12-03·nfp 12-04) — 매크로 수집 안 돌림, 분석 모두 최신. 나에게 온 요청(RULES 0-3): 24시간 안 새 요청 없음. Aleph 지도: 고칠 것 없음(S 는 지도 co 에 없음). done 3000개(대기 목록에 없는 오래된 id 부터 자름, JSON 다시 읽어 확인). 시작 때 detached HEAD 였어서 main 으로 돌려 받았어요.
+- 출처: ops/scout/newsq.json · 공식 여부: 저장소
+- 확신도: 높음
