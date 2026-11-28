@@ -1,6 +1,6 @@
 {
-"updated_kst": "2026-11-28 17:14",
-"rot": 125,
+"updated_kst": "2026-11-28 17:26",
+"rot": 6,
 "how": "Scout(프로그램)이 10분마다 모은 기사 제목·링크와 공시예요. Wren이 공식 출처로 확인한 뒤 회사 화면에 한국어로 반영해요. 본문은 받지 않아요.",
 "sources": {
 "Yahoo Finance": "120종목 확인 · 실패 0",
@@ -10,7 +10,7 @@
 "CNBC": "63건",
 "Bloomberg": "40건",
 "WSJ": "60건",
-"Reuters": "54건",
+"Reuters": "100건",
 "FinancialJuice": "100건",
 "SEC EDGAR": "실패 HTTPError",
 "Fox Business": "50건"
@@ -8020,6 +8020,16 @@
 "seen": "2026-11-27T10:44:09+00:00"
 },
 {
+"id": "7329408c2229",
+"t": "",
+"title": "Saudi civil defense: danger has passed in Jazan",
+"url": "https://www.financialjuice.com/News/9871319/Saudi-civil-defense-danger-has-passed-in-Jazan.aspx?xy=rss",
+"pub": "2026-11-28T08:16:59+00:00",
+"src": "FinancialJuice",
+"kind": "market",
+"seen": "2026-11-28T08:26:14+00:00"
+},
+{
 "id": "906cc8633df9",
 "t": "",
 "title": "Saudi civil defense issues warning over potential hazard in Jazan",
@@ -8078,6 +8088,16 @@
 "src": "Bloomberg",
 "kind": "market",
 "seen": "2026-11-28T07:14:27+00:00"
+},
+{
+"id": "a19c9090b2c3",
+"t": "",
+"title": "First Trust Financials AlphaDEX Fund (FXO.N) | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1nZWVQbGpYelFqU0lkazh4endtanJYNTJHMUoweF81YjVoWUprQng0dkJkTGkwNy1iVXkxd0tUajZ1Y2FMRzFNYlF3OUV6dUpiQnhMV1oyOA?oc=5",
+"pub": "2026-11-28T06:31:18+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-28T08:26:14+00:00"
 },
 {
 "id": "89a758bd0c0f",
@@ -8158,6 +8178,16 @@
 "src": "Reuters",
 "kind": "market",
 "seen": "2026-11-28T07:44:35+00:00"
+},
+{
+"id": "ee0cee09dbf0",
+"t": "",
+"title": "BlueFlare, Inc. (BFLR.OQ) | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9ZSGRIemtkQmY2aDRyMzdMRkhRUHhFU0F3UmE5Q1BwNi05NmltNFh1N2tsNGJQSG9MeXFrRXhGcy12ZWJuaVFzWW1XZ3dFcTBONmxldGZqU3NfeTBYdVE?oc=5",
+"pub": "2026-11-28T03:25:38+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-28T08:26:14+00:00"
 },
 {
 "id": "ce8f95be059e",
@@ -8810,6 +8840,16 @@
 "seen": "2026-11-27T20:41:49+00:00"
 },
 {
+"id": "2d9e7db6a90f",
+"t": "",
+"title": "Precious Metals Rally as AI Trade Revives Risk Appetite",
+"url": "https://www.wsj.com/finance/commodities-futures/precious-metals-rally-as-ai-trade-revives-risk-appetite-86477a98",
+"pub": "2026-11-27T20:20:00+00:00",
+"src": "WSJ",
+"kind": "market",
+"seen": "2026-11-28T08:26:14+00:00"
+},
+{
 "id": "64426e0dac44",
 "t": "",
 "title": "FT Vest Laddered US Equity Equal Weight Buffer ETF (BFEW.N) | Stock Price & Latest News - Reuters",
@@ -9168,6 +9208,16 @@
 "src": "Bloomberg",
 "kind": "market",
 "seen": "2026-11-27T17:45:35+00:00"
+},
+{
+"id": "645b2c50c1b6",
+"t": "",
+"title": "European shares log strong weekly gains; markets await Spanish election - Reuters",
+"url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNWXZKd0Q0TmVVTkRGN3RGNS1HckVpbzlmWC11Vl9BWXBibU9LVEJOY2o5TFVGNlQ2WDRWWHRIaUxqZkN0RlV4MTBtbEVLRlBjTG4xMi0zNHZKYUJmMUZxWmtXSVRvUGZ1OHk5dVpIZVlLbklER3VqTm5RWklhTFJDR0NkckpOaVhHYlh1LU1jZmJfQ1RadG04T0lrVHEzdE5YUXdLWA?oc=5",
+"pub": "2026-11-27T17:23:14+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-28T08:26:14+00:00"
 },
 {
 "id": "186754fbd7b5",
@@ -10028,6 +10078,16 @@
 "src": "FinancialJuice",
 "kind": "market",
 "seen": "2026-11-27T14:14:40+00:00"
+},
+{
+"id": "aeba5437e823",
+"t": "",
+"title": "Stock Futures Jump as AI Trade Set for Rebound",
+"url": "https://www.wsj.com/finance/stocks/stock-futures-jump-as-ai-trade-set-for-rebound-98318fc0",
+"pub": "2026-11-27T13:46:00+00:00",
+"src": "WSJ",
+"kind": "market",
+"seen": "2026-11-28T08:26:14+00:00"
 },
 {
 "id": "9c4de7bb8a67",
@@ -10958,66 +11018,6 @@
 "src": "Bloomberg",
 "kind": "market",
 "seen": "2026-11-27T10:14:08+00:00"
-},
-{
-"id": "9b2b2e14875f",
-"t": "",
-"title": "ING: The EUR - FJElite",
-"url": "https://www.financialjuice.com/News/9870391/ING-The-EUR---FJElite.aspx?xy=rss",
-"pub": "2026-11-27T09:58:31+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-27T10:07:06+00:00"
-},
-{
-"id": "bb7aa62b3a8d",
-"t": "",
-"title": "286940.KNT - | Stock Price & Latest News - Reuters",
-"url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5KeGRONGZFQ0JzMmRCY0RSVFZQYXY4M3J0NlNGbjVvcENwQXlBSnV0bGliQVRpRE9jMDcybkh3am9SQzUtOVdtSW1WVnV3STFmRnBKNmJnMGZXNW5rSUxOZlBPelFfSTliWnpPZkNlQTdzQQ?oc=5",
-"pub": "2026-11-27T09:57:01+00:00",
-"src": "Reuters",
-"kind": "market",
-"seen": "2026-11-27T20:14:46+00:00"
-},
-{
-"id": "4fef0a90315e",
-"t": "",
-"title": "Douyu International Holdings Ltd (DY8y.SG) | Stock Price & Latest News - Reuters",
-"url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1faWhMNWpHeFRDTEtBRk5rTnJGQ1pFT252TEdwUldVZkhjLVZhSEhPVUg5elhUZTBybllfaUY5SzB2MDJ3c3FlVnRyOG5vUTVuR1h0VEE4ZmFyZ3RISkZsZnJGel9oQnZR?oc=5",
-"pub": "2026-11-27T09:56:48+00:00",
-"src": "Reuters",
-"kind": "market",
-"seen": "2026-11-27T13:44:11+00:00"
-},
-{
-"id": "9779bf4d68bd",
-"t": "",
-"title": "UNTR.SG - Reuters",
-"url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQTklHX2dmR29mUnZWTTZodlhzX2pmb015Q09ONnAxYXVOYS1KNUZ6SEZYOG14V0tzdFluR09hLVgtZXBoeWgxWWxLaXFpbTZlZTlNc1lWUlVSZlRZM0dlRDVBVHNPWG1lT0RNWUd4T05YS01ZS21Hekw0VDBYMU02cWR3a18?oc=5",
-"pub": "2026-11-27T09:56:36+00:00",
-"src": "Reuters",
-"kind": "market",
-"seen": "2026-11-27T15:14:26+00:00"
-},
-{
-"id": "cbbfc2be54eb",
-"t": "",
-"title": "Russia Extends Jet Fuel Export Ban to March on Refinery Attacks",
-"url": "https://www.bloomberg.com/news/articles/2026-11-27/russia-extends-jet-fuel-export-ban-to-march-on-refinery-attacks",
-"pub": "2026-11-27T09:54:59+00:00",
-"src": "Bloomberg",
-"kind": "market",
-"seen": "2026-11-27T10:07:06+00:00"
-},
-{
-"id": "eed4dfdba3ab",
-"t": "",
-"title": "Rwanda Wins F1 Hosting Rights in Bet on Tourism (Video)",
-"url": "https://www.bloomberg.com/news/videos/2026-11-27/rwanda-wins-f1-hosting-rights-in-bet-on-tourism-video",
-"pub": "2026-11-27T09:54:26+00:00",
-"src": "Bloomberg",
-"kind": "market",
-"seen": "2026-11-27T10:07:06+00:00"
 }
 ]
 }
