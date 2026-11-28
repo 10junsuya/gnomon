@@ -1,6 +1,6 @@
 {
-"updated_kst": "2026-11-28 18:44",
-"rot": 67,
+"updated_kst": "2026-11-28 19:14",
+"rot": 127,
 "how": "Scout(프로그램)이 10분마다 모은 기사 제목·링크와 공시예요. Wren이 공식 출처로 확인한 뒤 회사 화면에 한국어로 반영해요. 본문은 받지 않아요.",
 "sources": {
 "Yahoo Finance": "120종목 확인 · 실패 0",
@@ -10,7 +10,7 @@
 "CNBC": "63건",
 "Bloomberg": "40건",
 "WSJ": "60건",
-"Reuters": "실패 HTTPError",
+"Reuters": "100건",
 "FinancialJuice": "100건",
 "SEC EDGAR": "실패 HTTPError",
 "Fox Business": "50건"
@@ -215,6 +215,16 @@
 "src": "Yahoo Finance",
 "kind": "news",
 "seen": "2026-11-28T06:44:46+00:00"
+},
+{
+"id": "0c271930d8f5",
+"t": "AVGO",
+"title": "Micron Trades at “Two and a Half Times EBITDA.” Its Buyback Window Opens December 9",
+"url": "https://www.tikr.com/blog/micron-trades-at-two-and-a-half-times-ebitda-its-buyback-window-opens-december-9",
+"pub": "2026-11-28T06:33:25+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-28T10:14:02+00:00"
 },
 {
 "id": "40d3ebf79eb7",
@@ -8010,14 +8020,14 @@
 "seen": "2026-11-27T12:15:02+00:00"
 },
 {
-"id": "629045315501",
-"t": "NVDA",
-"title": "Does Bill Ackman Know Something Wall Street Doesn't? The Billionaire Investor Keeps Buying a Tech Stock That's Now Down 44% Over the Past Year.",
-"url": "https://www.fool.com/investing/2026/11/27/does-bill-ackman-know-something-wall-street-doesn-t-the-billionaire-investor-keeps-buying-a-tech-stock-down-44-over-the-past-year/",
-"pub": "2026-11-27T10:40:02+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-27T11:03:19+00:00"
+"id": "70dac770c13d",
+"t": "",
+"title": "Long-Term-Care Insurance Promised Them Peace of Mind. It Became a Nightmare.",
+"url": "https://www.wsj.com/personal-finance/long-term-care-insurance-is-it-worth-it-d1e9f610",
+"pub": "2026-11-28T10:00:00+00:00",
+"src": "WSJ",
+"kind": "market",
+"seen": "2026-11-28T10:14:02+00:00"
 },
 {
 "id": "7f1668e54823",
@@ -8090,6 +8100,16 @@
 "seen": "2026-11-28T08:14:38+00:00"
 },
 {
+"id": "52a6564d6752",
+"t": "",
+"title": "AD8.F - | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1xSGZKYVkzWlFIQ3NyaVFHemVFUFB3TUVROUhSQXhJRXQ5dXdfNXVlYXJ2R0NtbHhCTVVQbmdSbTFOcVNpSUlDUmJLNHFzM29tbHpxMHhQOVEzNHZ6aGRJVktKVnBPQWpxNlE1aC1iMGdtTExobC1Dbg?oc=5",
+"pub": "2026-11-28T07:07:43+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-28T10:14:02+00:00"
+},
+{
 "id": "bff69c298ecf",
 "t": "",
 "title": "Musk: Google shows interest in leasing additional compute capacity from SpaceX",
@@ -8118,6 +8138,16 @@
 "src": "Reuters",
 "kind": "market",
 "seen": "2026-11-28T09:14:13+00:00"
+},
+{
+"id": "8007b147de28",
+"t": "",
+"title": "JPMorgan Global Research Enhanced Index Eq Act ETF (JREG.AX) | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBIdnlCQUlkenNZcmQ5RGtCU05ubWNFRURPNW9DWEtGa0hCaXoyOHV6TW9wazN2blIwSEx2TzBRdGpWRDlxZUNOZFdkV3loeHVlN25NY183SXdMN0hNZ0Nya1JPSkRpRDIzd2tPUlNnOA?oc=5",
+"pub": "2026-11-28T06:36:59+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-28T10:14:02+00:00"
 },
 {
 "id": "29c89406293d",
@@ -8230,6 +8260,16 @@
 "seen": "2026-11-28T08:44:41+00:00"
 },
 {
+"id": "e6cd617522b1",
+"t": "",
+"title": "Liberty Live Holdings Inc (LLYVK.O) | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE10Z09ZLTlpcUJoX3ZUMlc2dDNHMHEzSDJ0U0VfNWlvd21hWHQ3UlVKVjhHZk5rN0xFeUxxUXItdWwxXzBRd0xHbmhiQ0ZHeThvdHZCdFlnczZBMWJDX3lVZUtHbWdtTVV4WVA4SA?oc=5",
+"pub": "2026-11-28T03:58:59+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-28T10:14:02+00:00"
+},
+{
 "id": "9fd259fd3d16",
 "t": "",
 "title": "002070F.KS - | Stock Price & Latest News - Reuters",
@@ -8310,6 +8350,16 @@
 "seen": "2026-11-28T08:26:14+00:00"
 },
 {
+"id": "eb7a29934246",
+"t": "",
+"title": "PEPm.BA - Reuters",
+"url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQMFg3aVd3MGdtZFE0RDYwSTVxSTdhaWhVeEhYeWw2by1hbTktZUVEMGk3SFJiTGQwY0k4Sl9ueFA3aEcta2o2RHUxUURzTGNRZDZETk9LakNyTmc0aEhNZ1htY2NWcmRpOXZLUzE1d1J4MHlSb2p4UnBLZE8wYVlQRVRTZllNdw?oc=5",
+"pub": "2026-11-28T03:25:24+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-28T10:14:02+00:00"
+},
+{
 "id": "ce8f95be059e",
 "t": "",
 "title": "Amplify Bitcoin Max Income Covered Call ETF (BAGY.N) | Stock Price & Latest News - Reuters",
@@ -8358,6 +8408,16 @@
 "src": "Reuters",
 "kind": "market",
 "seen": "2026-11-28T07:14:27+00:00"
+},
+{
+"id": "0586b819365d",
+"t": "",
+"title": "MD.MW - | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNeFY1ZDlvcmszc1lBV3ZhZkotNGVHN3FVdk1ncHJwRkk3TnZ2SEg5eGMtRjMyOEVvNlpkUUFWVXo1MjJGYm5PMWhIYnZITmRjMDYydnp4U0tadFQ1VGl5emVpcjd6c25zOVVPS045Z2ZabzlLMEZjQVVncXNydENweTd6OA?oc=5",
+"pub": "2026-11-28T02:54:35+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-28T10:14:02+00:00"
 },
 {
 "id": "ad97c689f415",
@@ -10958,66 +11018,6 @@
 "src": "Reuters",
 "kind": "market",
 "seen": "2026-11-27T20:14:46+00:00"
-},
-{
-"id": "5d3b440c0f59",
-"t": "",
-"title": "EU Budget Talks Break Down; Spain Set to Vote",
-"url": "https://www.bloomberg.com/news/videos/2026-11-27/the-opening-trade-11-27-2026-video",
-"pub": "2026-11-27T11:22:47+00:00",
-"src": "Bloomberg",
-"kind": "market",
-"seen": "2026-11-27T12:15:02+00:00"
-},
-{
-"id": "c79da904f268",
-"t": "",
-"title": "AGMa.P - | Stock Price & Latest News - Reuters",
-"url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBxcHV1UUlNVEliRXVPbFhCQ0ZYT2pTZUNTUnRvR2IzNzFXVW5DR2RPQUZPZ1d4cDJsRWlUNmZHQVZXcTFkSnhENVRxTVNtTGtjVEhvTXpnWDRDZHAxelZGSTFkcmhnRmdfQ1FNQjVRV3ZJSV9TLXcwTw?oc=5",
-"pub": "2026-11-27T11:21:50+00:00",
-"src": "Reuters",
-"kind": "market",
-"seen": "2026-11-27T23:37:01+00:00"
-},
-{
-"id": "5cd7b94aac0c",
-"t": "",
-"title": "Iran claims tanker hit mine north of Oman's Ghanam Island - IRIB",
-"url": "https://www.financialjuice.com/News/9870482/Iran-claims-tanker-hit-mine-north-of-Omans-Ghanam-Island---IRIB.aspx?xy=rss",
-"pub": "2026-11-27T11:18:33+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-27T11:44:37+00:00"
-},
-{
-"id": "08a540c5d521",
-"t": "",
-"title": "Iran's revolutionary guards' navy: Tanker hits mine on 'unauthorized' route near Hormuz Strait - State media",
-"url": "https://www.financialjuice.com/News/9870481/Irans-revolutionary-guards-navy-Tanker-hits-mine-on-unauthorized-route-near-Hormuz-Strait---State-media.aspx?xy=rss",
-"pub": "2026-11-27T11:17:29+00:00",
-"src": "FinancialJuice",
-"kind": "market",
-"seen": "2026-11-27T11:44:37+00:00"
-},
-{
-"id": "8346d4f67414",
-"t": "",
-"title": "Stock Bulls Stir Again After Weeks of AI Anxiety",
-"url": "https://www.bloomberg.com/news/newsletters/2026-11-27/stock-bulls-stir-again-after-weeks-of-ai-anxiety",
-"pub": "2026-11-27T11:16:37+00:00",
-"src": "Bloomberg",
-"kind": "market",
-"seen": "2026-11-27T11:44:37+00:00"
-},
-{
-"id": "3bda35c89fde",
-"t": "",
-"title": "Altria’s Interest in Imperial May Also Affect Its AB InBev Stake",
-"url": "https://www.bloomberg.com/news/articles/2026-11-27/altria-s-interest-in-imperial-may-also-affect-its-ab-inbev-stake",
-"pub": "2026-11-27T11:14:59+00:00",
-"src": "Bloomberg",
-"kind": "market",
-"seen": "2026-11-27T11:44:37+00:00"
 }
 ]
 }
