@@ -1,6 +1,6 @@
 {
-"updated_kst": "2026-11-28 22:14",
-"rot": 70,
+"updated_kst": "2026-11-28 22:27",
+"rot": 130,
 "how": "Scout(프로그램)이 10분마다 모은 기사 제목·링크와 공시예요. Wren이 공식 출처로 확인한 뒤 회사 화면에 한국어로 반영해요. 본문은 받지 않아요.",
 "sources": {
 "Yahoo Finance": "120종목 확인 · 실패 0",
@@ -16,6 +16,16 @@
 "Fox Business": "50건"
 },
 "items": [
+{
+"id": "096d6bb17a78",
+"t": "AVGO",
+"title": "Marvell Stock Heads Into Tuesday’s Earnings on Pace for Its Worst November Since 2000",
+"url": "https://247wallst.com/investing/2026/11/28/marvell-stock-heads-into-tuesdays-earnings-on-pace-for-its-worst-november-since-2000/",
+"pub": "2026-11-28T13:17:29+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-28T13:27:46+00:00"
+},
 {
 "id": "0a1ce3033b5f",
 "t": "NVDA",
@@ -75,6 +85,26 @@
 "src": "Yahoo Finance",
 "kind": "news",
 "seen": "2026-11-28T13:14:06+00:00"
+},
+{
+"id": "1d2b5931c97a",
+"t": "ORCL",
+"title": "AMD Is Still Up 98% in a Year. Erste Group Says That’s Enough",
+"url": "https://www.tikr.com/blog/amd-is-still-up-98-in-a-year-erste-group-says-thats-enough",
+"pub": "2026-11-28T12:50:17+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-28T13:27:46+00:00"
+},
+{
+"id": "86bddafea876",
+"t": "SPY",
+"title": "One Day Left: The S&P 500 Needs a Huge Monday to Avoid Its Worst November Since 2008",
+"url": "https://247wallst.com/investing/2026/11/28/one-day-left-the-sp-500-needs-a-huge-monday-to-avoid-its-worst-november-since-2008/",
+"pub": "2026-11-28T12:38:39+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-28T13:27:46+00:00"
 },
 {
 "id": "e20168fbc36b",
@@ -255,6 +285,16 @@
 "src": "Yahoo Finance",
 "kind": "news",
 "seen": "2026-11-28T11:44:19+00:00"
+},
+{
+"id": "3a2f3128d636",
+"t": "CRWV",
+"title": "CoreWeave Can Borrow at About 7% Against Meta’s Contract. Its Unsecured Bonds Yield Nearly 18%",
+"url": "https://www.tikr.com/blog/coreweave-can-borrow-at-about-7-against-metas-contract-its-unsecured-bonds-yield-nearly-18",
+"pub": "2026-11-28T11:19:11+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-28T13:27:46+00:00"
 },
 {
 "id": "4ca0fd9bf0fe",
@@ -7974,46 +8014,6 @@
 "title": "Direxion Daily Technology Bull 3X (TECL) Sells Apple and Microsoft on Nov. 25",
 "url": "https://finance.yahoo.com/markets/stocks/articles/direxion-daily-technology-bull-3x-110412564.html",
 "pub": "2026-11-27T11:04:12+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-27T11:44:37+00:00"
-},
-{
-"id": "316387658f0c",
-"t": "AVGO",
-"title": "iShares Russell 1000 Growth (IWF) Buys $34.0 Million More NVIDIA on Wednesday",
-"url": "https://finance.yahoo.com/markets/stocks/articles/ishares-russell-1000-growth-iwf-110408142.html",
-"pub": "2026-11-27T11:04:08+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-27T11:44:37+00:00"
-},
-{
-"id": "104d361c097d",
-"t": "INTC",
-"title": "JPMorgan Active Value ETF (JAVA) Buys $30.3 Million More Cencora on Nov. 25",
-"url": "https://finance.yahoo.com/markets/stocks/articles/jpmorgan-active-value-etf-java-110401647.html",
-"pub": "2026-11-27T11:04:01+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-27T11:44:37+00:00"
-},
-{
-"id": "b8fb104c5293",
-"t": "MSFT",
-"title": "Salesforce Before Q3 Earnings Release: Should You Buy the Stock Now?",
-"url": "https://finance.yahoo.com/markets/stocks/articles/salesforce-q3-earnings-release-buy-110400855.html",
-"pub": "2026-11-27T11:04:00+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-27T12:15:02+00:00"
-},
-{
-"id": "cd2c28892014",
-"t": "TSLA",
-"title": "Proshares Trust (TQQQ) Adds Apple and Microsoft on Nov. 25",
-"url": "https://finance.yahoo.com/markets/stocks/articles/proshares-trust-tqqq-adds-apple-110356101.html",
-"pub": "2026-11-27T11:03:56+00:00",
 "src": "Yahoo Finance",
 "kind": "news",
 "seen": "2026-11-27T11:44:37+00:00"
