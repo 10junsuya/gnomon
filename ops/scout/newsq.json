@@ -1,6 +1,6 @@
 {
-"updated_kst": "2026-11-29 01:14",
-"rot": 73,
+"updated_kst": "2026-11-29 01:16",
+"rot": 133,
 "how": "Scout(프로그램)이 10분마다 모은 기사 제목·링크와 공시예요. Wren이 공식 출처로 확인한 뒤 회사 화면에 한국어로 반영해요. 본문은 받지 않아요.",
 "sources": {
 "Yahoo Finance": "120종목 확인 · 실패 0",
@@ -10,7 +10,7 @@
 "CNBC": "63건",
 "Bloomberg": "32건",
 "WSJ": "60건",
-"Reuters": "41건",
+"Reuters": "100건",
 "FinancialJuice": "100건",
 "SEC EDGAR": "실패 HTTPError",
 "Fox Business": "50건"
@@ -47,6 +47,36 @@
 "seen": "2026-11-28T16:14:24+00:00"
 },
 {
+"id": "42b8452d00c2",
+"t": "GS",
+"title": "Goldman Sachs Expects US Data Centre Expansion to Boost Electricity and Natural Gas Demand Through 2028",
+"url": "https://investorshub.advfn.com/market-news/article/40814/goldman-sachs-expects-us-data-centre-expansion-to-boost-electricity-and-natural-gas-demand-through-2028",
+"pub": "2026-11-28T15:45:00+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-28T16:16:18+00:00"
+},
+{
+"id": "4a2ab08949b7",
+"t": "SAP",
+"title": "SAP weighs 10,000 job cuts again in brutal 2026 AI tech layoff cycle",
+"url": "https://www.thestreet.com/employment/sap-10000-job-cuts-ai-restructuring",
+"pub": "2026-11-28T15:37:00+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-28T16:16:18+00:00"
+},
+{
+"id": "0e699aa8d24d",
+"t": "CRM",
+"title": "Black Friday's hottest new shopper? Artificial intelligence.",
+"url": "https://finance.yahoo.com/markets/stocks/article/black-fridays-hottest-new-shopper-artificial-intelligence-153655882.html",
+"pub": "2026-11-28T15:36:55+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-28T16:16:18+00:00"
+},
+{
 "id": "3d0f24d9f3c9",
 "t": "NVDA",
 "title": "History Says the Smartest Investing Move Is Also the Easiest. Here's Why.",
@@ -65,6 +95,16 @@
 "src": "Yahoo Finance",
 "kind": "news",
 "seen": "2026-11-28T15:44:43+00:00"
+},
+{
+"id": "f0601d7df906",
+"t": "VZ",
+"title": "Verizon Wants Fidium’s Fiber, Months After Its $20 Billion Frontier Deal",
+"url": "https://247wallst.com/investing/2026/11/28/verizon-wants-fidiums-fiber-months-after-its-20-billion-frontier-deal/",
+"pub": "2026-11-28T15:28:07+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-28T16:16:18+00:00"
 },
 {
 "id": "16023b8beb8f",
@@ -7979,46 +8019,6 @@
 "seen": "2026-11-27T13:15:35+00:00"
 },
 {
-"id": "b95209e4474e",
-"t": "MSFT",
-"title": "Why Is Intel Stock Rallying Today?",
-"url": "https://investorshub.advfn.com/market-news/article/40792/why-is-intel-stock-rallying-today",
-"pub": "2026-11-27T11:54:08+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-27T12:15:02+00:00"
-},
-{
-"id": "0cbf3eb2569f",
-"t": "NVDA",
-"title": "What's Happening With Micron Stock?",
-"url": "https://www.trefis.com/stock/mu/articles/629322/what-s-happening-with-micron-stock/2026-11-26",
-"pub": "2026-11-27T11:52:52+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-27T12:15:02+00:00"
-},
-{
-"id": "1040171e6008",
-"t": "AMZN",
-"title": "Amazon Blocked Meta’s Muse Two Months Ago. Now It’s in Talks to Let It Shop, and Walmart Already Did",
-"url": "https://www.tikr.com/blog/amazon-blocked-metas-muse-two-months-ago-now-its-in-talks-to-let-it-shop-and-walmart-already-did",
-"pub": "2026-11-27T11:52:43+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-27T12:44:24+00:00"
-},
-{
-"id": "49113fb23166",
-"t": "LITE",
-"title": "Why Is Marvell Technology Stock Surging Today?",
-"url": "https://investorshub.advfn.com/market-news/article/40790/why-is-marvell-technology-stock-surging-today",
-"pub": "2026-11-27T11:52:15+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-27T12:15:02+00:00"
-},
-{
 "id": "8a05669e4741",
 "t": "",
 "title": "Ukrainian military strikes Russian oil refinery in Rostov, other facilities in Samara and Bashkortostan: defence ministry",
@@ -8109,6 +8109,26 @@
 "seen": "2026-11-28T14:14:13+00:00"
 },
 {
+"id": "67783605da01",
+"t": "",
+"title": "State Street SPDR Nuveen ICE Municipal Bond ETF (TFI.N) | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1YUG9RR3dES0ZCaUloeDRTWWJ3MC1lbkJtNThjV1FvYXZoTHcxcGR1QVYwVXN6TDlBaWJiVlpnVnBXNGpwbjdDRW52WXplUEdrS3FDcG1iWQ?oc=5",
+"pub": "2026-11-28T13:42:57+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-28T16:16:18+00:00"
+},
+{
+"id": "63c1f264e426",
+"t": "",
+"title": "PETRs.KL%5EB09 - | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPLWFfRmhKaHZtbEFzWklXN3lMcmgydzItWmh6UmdtcVdwYVVCZXZ2eW53aUNoRlFRZVJNVGg2UFNEUDl6b0dGQjN5eHp4NTR1Tnh4dHVhSDM5RnNCeU1NRWxHT2pJNWs2eGltUkN2VFBtMXdDYk1jMTNRTXl4QzE5THZzRXhUSk1xQUxBTA?oc=5",
+"pub": "2026-11-28T13:13:19+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-28T16:16:18+00:00"
+},
+{
 "id": "89df906a8992",
 "t": "",
 "title": "Higher Prices Test Holiday Shoppers",
@@ -8129,6 +8149,16 @@
 "seen": "2026-11-28T14:14:13+00:00"
 },
 {
+"id": "9bf40ac217be",
+"t": "",
+"title": "Sun Summit Minerals Corp (SMREF.PK) | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9sS1VYS2dZNzg1RXVhOXFtMkI3YkRkMGhCQXRKMlloNFdRT1V6OUwzZkh1VDlTU2NRdzBjNDA2bFhjb3BSd2pQOVdmel9wcXRWYXNINUtmLXdrSnBLYjZrbmlzMGVXa1NQTjBtd1l3?oc=5",
+"pub": "2026-11-28T12:41:35+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-28T16:16:18+00:00"
+},
+{
 "id": "b739bcf44af2",
 "t": "",
 "title": "Seaboard Corporation (SEB.N) | Stock Price & Latest News - Reuters",
@@ -8137,6 +8167,16 @@
 "src": "Reuters",
 "kind": "market",
 "seen": "2026-11-28T14:24:45+00:00"
+},
+{
+"id": "a2d3ddc5bf8a",
+"t": "",
+"title": "FECl.BS%5EG21 - | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOWjdRQ282ai15V0owYm9uOW1OVk00NWhTMXZ3dlAyaDU1U0lWVGtaOV9KaHR2UTd2VkhsZXZtZ0pNYi1IRU52Z1k2SldKcW9iNE1vRXc2N2YwckZTb19jNFJ2YlF4UUZNNDlKYnhLbzVhWEk4Z21WcldMZzhCd0pBTg?oc=5",
+"pub": "2026-11-28T12:07:22+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-28T16:16:18+00:00"
 },
 {
 "id": "5db79f3b1c74",
@@ -8237,6 +8277,16 @@
 "src": "Reuters",
 "kind": "market",
 "seen": "2026-11-28T14:24:45+00:00"
+},
+{
+"id": "f9401a7fa683",
+"t": "",
+"title": "4198.JSA - | Stock Price & Latest News - Reuters",
+"url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE12bXNSaVZnelp2WjdyOU90T2FSRzRZX1ZhME4zdXVfZHhkSmM5REI0dzJyM0oza1pQcVFmMlFQcmZmVFItcnMySzQ0QUxRMjhLUklPUlBGTFBRcy1nWWhFMmlfQzJmc3dkdnUxU0VEUTh2TnpCVW55Mg?oc=5",
+"pub": "2026-11-28T11:07:23+00:00",
+"src": "Reuters",
+"kind": "market",
+"seen": "2026-11-28T16:16:18+00:00"
 },
 {
 "id": "cc417c23c026",
@@ -10967,56 +11017,6 @@
 "src": "Reuters",
 "kind": "market",
 "seen": "2026-11-27T18:44:17+00:00"
-},
-{
-"id": "fdd1358c62c6",
-"t": "",
-"title": "U.S. Natural Gas Futures Fall as Front Month Shifts to January",
-"url": "https://www.wsj.com/finance/commodities-futures/u-s-natural-gas-futures-fall-as-front-month-shifts-to-january-3b1ef621",
-"pub": "2026-11-27T14:35:00+00:00",
-"src": "WSJ",
-"kind": "market",
-"seen": "2026-11-27T14:44:45+00:00"
-},
-{
-"id": "b621544b8b1d",
-"t": "",
-"title": "MDVLQ.PK - Reuters",
-"url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9PVi1BaXJxNk5BVEE3UzFxR3ZRNVZSRmlSTkJGRlRrZTBERFlxQW1fX243ZkxOZlQ0bjBqV1V5Y3oxV0ZJZTFpZ2x3MExUelRUZkdFZmZrQ21iWnQ2VVBSMVE4YWtzb3I0RjdVQjJ4Nk03cEpfeUFxM0Nn?oc=5",
-"pub": "2026-11-27T14:34:32+00:00",
-"src": "Reuters",
-"kind": "market",
-"seen": "2026-11-27T20:14:46+00:00"
-},
-{
-"id": "0c8d2e7459ec",
-"t": "",
-"title": "QK9.D - | Stock Price & Latest News - Reuters",
-"url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE43b3FtMEZkWV9oQjFKd29zLUtNOTI1VWo3d01Od1JOclA2WDA5YXJxV09zNlhpdlhLVy1yX3RaY3lmRGNGLWtBRXhrRWZDX1R1d2pzdm1vSWtGOGxqWXRlRVFkY1l5Qk5XblBqa2FraGh3TXBWckFv?oc=5",
-"pub": "2026-11-27T14:34:10+00:00",
-"src": "Reuters",
-"kind": "market",
-"seen": "2026-11-27T23:37:01+00:00"
-},
-{
-"id": "fe5626924d60",
-"t": "",
-"title": "Russia to Ban Exports of Key Staple Buckwheat to Protect Supply",
-"url": "https://www.bloomberg.com/news/articles/2026-11-27/russia-to-ban-exports-of-key-staple-buckwheat-to-protect-supply",
-"pub": "2026-11-27T14:33:28+00:00",
-"src": "Bloomberg",
-"kind": "market",
-"seen": "2026-11-27T16:14:06+00:00"
-},
-{
-"id": "86c87194c7be",
-"t": "",
-"title": "Nvidia Pares Gains on Blackwell Report; Altria Lower | Stock Movers",
-"url": "https://www.bloomberg.com/news/videos/2026-11-27/nvidia-pares-gains-altria-moves-lower-stock-movers-video",
-"pub": "2026-11-27T14:33:01+00:00",
-"src": "Bloomberg",
-"kind": "market",
-"seen": "2026-11-27T14:44:45+00:00"
 }
 ]
 }
