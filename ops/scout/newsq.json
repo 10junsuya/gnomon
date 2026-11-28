@@ -1,6 +1,6 @@
 {
-"updated_kst": "2026-11-29 01:16",
-"rot": 133,
+"updated_kst": "2026-11-29 01:44",
+"rot": 14,
 "how": "Scout(프로그램)이 10분마다 모은 기사 제목·링크와 공시예요. Wren이 공식 출처로 확인한 뒤 회사 화면에 한국어로 반영해요. 본문은 받지 않아요.",
 "sources": {
 "Yahoo Finance": "120종목 확인 · 실패 0",
@@ -8,14 +8,74 @@
 "PR Newswire": "0건",
 "Business Wire": "0건",
 "CNBC": "63건",
-"Bloomberg": "32건",
+"Bloomberg": "31건",
 "WSJ": "60건",
-"Reuters": "100건",
+"Reuters": "40건",
 "FinancialJuice": "100건",
 "SEC EDGAR": "실패 HTTPError",
 "Fox Business": "50건"
 },
 "items": [
+{
+"id": "8d273bc9144a",
+"t": "NVDA",
+"title": "A Recession Could Be Coming in 2027. Here's Why I'm Not Worried.",
+"url": "https://www.fool.com/investing/2026/11/28/a-recession-could-be-coming-in-2027-heres-why-im-not-worried/",
+"pub": "2026-11-28T16:35:02+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-28T16:44:37+00:00"
+},
+{
+"id": "fcb17dc025a4",
+"t": "VRTX",
+"title": "Novo Nordisk vs. Vertex Pharmaceuticals: Which Pharma Stock Is a Better Buy for 2027?",
+"url": "https://www.fool.com/coverage/better-buy/2026/11/28/novo-nordisk-vs-vertex-pharmaceuticals-which-pharma-stock-is-a-better-buy-for-2027/",
+"pub": "2026-11-28T16:32:02+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-28T16:44:37+00:00"
+},
+{
+"id": "d4157f561cc7",
+"t": "NVDA",
+"title": "Nasdaq 100 Shakeup Coming: Anthropic, GM In; CoreWeave Out. What About Strategy?",
+"url": "https://finance.yahoo.com/m/43ef927e-4aea-3539-8018-bdf5c43fc34a/nasdaq-100-shakeup-coming%3A.html",
+"pub": "2026-11-28T16:31:53+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-28T16:44:37+00:00"
+},
+{
+"id": "15553189859a",
+"t": "AMZN",
+"title": "Billionaire Rob Citrone’s Discovery Capital More Than Doubled Its Amazon Stake to $114 Million",
+"url": "https://247wallst.com/investing/2026/11/28/billionaire-rob-citrones-discovery-capital-more-than-doubled-its-amazon-stake-to-114-million/",
+"pub": "2026-11-28T16:29:13+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-28T16:44:37+00:00"
+},
+{
+"id": "0ac882700bc2",
+"t": "SPCX",
+"title": "Fantastic News for SpaceX Stock Investors!",
+"url": "https://www.fool.com/investing/2026/11/28/fantastic-news-for-spacex-stock-investors/",
+"pub": "2026-11-28T16:21:02+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-28T16:44:37+00:00"
+},
+{
+"id": "eb4c06c36fcc",
+"t": "SPCX",
+"title": "The Cost of Insuring SpaceX and Oracle Against Default Just Hit Record Highs. Wall Street Is Pricing Their Debt Like Junk.",
+"url": "https://247wallst.com/investing/2026/11/28/the-cost-of-insuring-spacex-and-oracle-against-default-just-hit-record-highs-wall-street-is-pricing-their-debt-like-junk/",
+"pub": "2026-11-28T16:07:34+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-28T16:44:37+00:00"
+},
 {
 "id": "18961b0c4ce1",
 "t": "RKLB",
@@ -4597,6 +4657,16 @@
 "seen": "2026-11-27T16:44:40+00:00"
 },
 {
+"id": "fb9207129602",
+"t": "MPC",
+"title": "Crude Is Sliding But Diesel Isn’t—What That Means for Valero and Marathon",
+"url": "https://www.marketbeat.com/articles/crude-is-sliding-but-diesel-isntwhat-that-means-for-valero-and-marathon/",
+"pub": "2026-11-27T16:05:00+00:00",
+"src": "Yahoo Finance",
+"kind": "news",
+"seen": "2026-11-28T16:44:37+00:00"
+},
+{
 "id": "6a7f899ed1e4",
 "t": "GOOGL",
 "title": "This Semiconductor Stock Could Have Its Biggest Year Yet in 2027",
@@ -7949,76 +8019,6 @@
 "seen": "2026-11-27T12:15:02+00:00"
 },
 {
-"id": "4a620bde064d",
-"t": "APLD",
-"title": "How Low Can CIFR Stock Go If Markets Turn?",
-"url": "https://www.trefis.com/stock/cifr/articles/629326/how-low-can-cifr-stock-go-if-markets-turn/2026-11-27",
-"pub": "2026-11-27T11:57:02+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-27T12:15:02+00:00"
-},
-{
-"id": "e2a627e46679",
-"t": "MU",
-"title": "MARKETS LIVE: US stock futures jump ahead of shortened Black Friday trading session",
-"url": "https://www.proactiveinvestors.com/companies/news/1102556/markets-live-us-stock-futures-jump-ahead-of-shortened-black-friday-trading-session-1102556.html",
-"pub": "2026-11-27T11:57:00+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-27T14:14:40+00:00"
-},
-{
-"id": "59541430e1d3",
-"t": "NVDA",
-"title": "Don't Need Your RMDs? Why Investing Them Could Be Your Smartest Move Yet",
-"url": "https://www.fool.com/retirement/2026/11/27/don-t-need-your-rmds-why-investing-them-could-be-your-smartest-move-yet/",
-"pub": "2026-11-27T11:56:02+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-27T12:06:59+00:00"
-},
-{
-"id": "ceb05e742cf6",
-"t": "SNOW",
-"title": "76% Upside for Snowflake? Citi Thinks So, and Here’s How",
-"url": "https://www.tikr.com/blog/76-upside-for-snowflake-citi-thinks-so-and-heres-how",
-"pub": "2026-11-27T11:55:58+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-27T12:44:24+00:00"
-},
-{
-"id": "d677a2faf14b",
-"t": "MU",
-"title": "Why Is Micron Technology Stock Surging Today?",
-"url": "https://investorshub.advfn.com/market-news/article/40794/why-is-micron-technology-stock-surging-today",
-"pub": "2026-11-27T11:55:42+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-27T12:15:02+00:00"
-},
-{
-"id": "17656e55ea91",
-"t": "NVDA",
-"title": "Dexcom Or Abbott: Which Sensor Stock Is Better?",
-"url": "https://www.trefis.com/stock/dxcm/articles/629445/the-sensor-that-shows-what-breakfast-does-to-your-blood-sugar-dexcom-grows-11-abbott-8/2026-11-27",
-"pub": "2026-11-27T11:54:57+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-27T12:15:02+00:00"
-},
-{
-"id": "17b4b6c3cb11",
-"t": "STX",
-"title": "Seagate Is Still Up 86% in a Year. UBS Says That’s Enough",
-"url": "https://www.tikr.com/blog/seagate-is-still-up-86-in-a-year-ubs-says-thats-enough",
-"pub": "2026-11-27T11:54:37+00:00",
-"src": "Yahoo Finance",
-"kind": "news",
-"seen": "2026-11-27T13:15:35+00:00"
-},
-{
 "id": "8a05669e4741",
 "t": "",
 "title": "Ukrainian military strikes Russian oil refinery in Rostov, other facilities in Samara and Bashkortostan: defence ministry",
@@ -9809,6 +9809,16 @@
 "seen": "2026-11-28T04:44:21+00:00"
 },
 {
+"id": "fdd1358c62c6",
+"t": "",
+"title": "U.S. Natural Gas Futures Fall on Milder Near-Term Weather Outlook",
+"url": "https://www.wsj.com/finance/commodities-futures/u-s-natural-gas-futures-fall-as-front-month-shifts-to-january-3b1ef621",
+"pub": "2026-11-27T20:44:00+00:00",
+"src": "WSJ",
+"kind": "market",
+"seen": "2026-11-28T16:44:37+00:00"
+},
+{
 "id": "43b3d23818d7",
 "t": "",
 "title": "Sánchez Seeks Unlikely Win With Plea for Spaniards to Go Vote",
@@ -11007,16 +11017,6 @@
 "src": "Bloomberg",
 "kind": "market",
 "seen": "2026-11-27T15:14:26+00:00"
-},
-{
-"id": "d7a26345916b",
-"t": "",
-"title": "KMX.DG - Reuters",
-"url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1xSmZUY2ZZLVA5a1NsN0ZTS25jLU5PbXRSZEI2d1pHOVpTcXVocFZsV0EzMEtRdmJ0d20yNlVpZ19uLTZUQ0dJVWFfM0pWVDhDWHhhZHFRbnp1ZEFmc3EtbXlMd1l4cXhXTVpqd0FB?oc=5",
-"pub": "2026-11-27T14:36:21+00:00",
-"src": "Reuters",
-"kind": "market",
-"seen": "2026-11-27T18:44:17+00:00"
 }
 ]
 }
